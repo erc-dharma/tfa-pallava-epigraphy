@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>title of document</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority/>
+                <idno type="filename"/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>museum/archive</repository>
+                        <idno>inventory number</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>description of object/monument (likely to include <material/>
+                                    and <objectType/> information, <dimensions/>, etc.)</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>description of text field/campus</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>description of letters, possibly including <height>letter-heights</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Place of origin</origPlace>
+                            <origDate>Date of origin</origDate>
+                        </origin>
+                        <provenance type="found"> Findspot and circumstances/context
+                        </provenance>
+                        <provenance type="observed">Modern location(s) (if different from repository, above)
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="photograph of text or monument"/>
+    </facsimile>
+    <text>
+        <body>
+            
+            <div type="edition" xml:space="preserve">
+                <div type="textpart" subtype="surface" n="A">
+                    <p>
+                        <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                    </p>
+                    <p>nanti
+                        <lb n="2" break="no"/>ppō<supplied reason="omitted">t</supplied>taraiyark
+                        <lb n="3" break="no"/>ku yāṇṭu Iru
+                        <lb n="4" break="no"/>pattu mūṉṟā
+                        <lb n="5" break="no"/>vatu
+                    </p>
+                    <p>vikkiramā
+                        <lb n="6" break="no"/>titt<choice><sic>e</sic><corr>a</corr></choice>-māvali
+                        <lb n="7" break="no"/>vāṇarāyar vaṭu
+                        <lb n="8" break="no"/>kavaḻi-mēṟku
+                        <lb n="9"/><hi rend="grantha">pṛthivirājya</hi>ñ
+                        <lb n="10"/>ceya <hi rend="grantha"><g type="punctuation">ḥ</g></hi> tiruvi<orig>p</orig>ira
+                        <lb n="11" break="no"/>mpēṭ’ āḷuṅ-kaṇa
+                        <lb n="12" break="no"/>ttār-uḷ muḷḷiṟ kiḻā 
+                        <lb n="13" break="no"/>r vēppampoḻa
+                        <lb n="14" break="no"/>ppāḻ Ivvūr āḷu
+                        <lb n="15" break="no"/>ṅ-kaṇattār-uḷ ku
+                        <lb n="16" break="no"/>ḻaippa<unclear reason="form">lū</unclear>rk ka<!--OR read ḷū instead of lū; check-->
+                        <lb n="17" break="no"/>ṇiyar A<hi rend="grantha">gniśarmma</hi>
+                        <lb n="18" break="no"/>ṉ vilai-<hi rend="grantha">śrā</hi>vaṇai
+                        <lb n="19" break="no"/>yāl viṟṟu koṇ
+                        <lb n="20" break="no"/>ṭu Ivvūr <hi rend="grantha">paraśu
+                        <lb n="21" break="no"/>r<choice><sic>a</sic><corr>ā</corr></choice>m<orig>ī</orig>śvara</hi>ttu <hi rend="grantha">mahāde</hi>
+                        <lb n="22" break="no"/>varkku tiruviḷak
+                        <lb n="23" break="no"/>ku-ney-p-puṟam-<unclear>ā</unclear>
+                        <lb n="24" break="no"/>ka kuṭuttār</p>
+                </div>
+                <div type="textpart" subtype="surface" n="B" rend="tb-rotated">
+                    <p>
+                        <lb n="25"/>Ivvūr <hi rend="grantha">sabhai</hi>yō<orig>mm</orig>um I-n-nilatt-ē I-v-vūr-c cekk-uḷḷaṉa Ellām
+                        <lb n="26"/>naṭṭu-t tiruviḷakkukk-ē-y vāya Eṇṇai koḷvaṭ’ āka-p paṇittōm·
+                    </p>
+                </div>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>
+                    
+                    <app loc="1">
+                       <lem><hi rend="grantha">śrī</hi></lem>
+                       <rdg><!--EI:-->śrī-</rdg>
+                       <note>We believe that <hi rend="italic">śrī</hi> is not a prefix to the name of the king, but part of the auspicious beginning.</note>
+                    </app>
+                    
+                    <app loc="1">
+                        <lem>nantippō<supplied reason="omitted">t</supplied>taraiyarkku</lem>
+                        <rdg><!--EI, IP:-->Nanti(ndi)-</rdg>
+                        <note>The correction seems to us unnecessary, as we consider the conjunct <hi rend="italic">nti</hi> is in Tamil script and not in Grantha, both alphabets sharing these characters. Note that in <!--IP 110-->, in <hi rend="italic">nanti</hi>, the same syllable <hi rend="italic">nti</hi> is written with two <hi rend="italic">eḻuttu</hi>s.</note>
+                    </app>
+                                        
+                    <app loc="4">
+                        <lem>mūṉṟāvatu</lem>
+                        <note><!--EI, fn:-->“The secondary <hi rend="italic">ā</hi> of <hi rend="italic">ṟā</hi> is a separate symbol.”</note>
+                    </app>
+                    
+                    <app loc="10">
+                        <lem>ḥ</lem>
+                        <note><!--EI, fn:-->“The <hi rend="italic">visarga</hi> is used here as a sign of punctuation. Compare <hi rend="italic">South-Ind. Inscrs.</hi> Vol. II p. 111, note 1.”</note>
+                    </app>
+                    
+                    <app loc="10">
+                        <lem>tiruvi<orig>p</orig>pirampēṭ'</lem>
+                        <note>Compare <hi rend="italic">tiruvippirampēṭ'</hi> in IP 110, line 9, and <hi rend="italic">tiruviṟppirampēṭ'</hi> in IP 181, line 17.</note>
+                    </app> 
+                                                                     
+                    <app loc="12">
+                        <lem> kiḻār</lem>
+                        <rdg><!--EI, IP: -->kiḻ<unclear>ā</unclear>r</rdg>
+                        <note>The medial <hi rend="italic">ā</hi> is clear on the stone, but smaller.</note>
+                    </app>
+                   
+                    <app loc="17">
+                        <lem><hi rend="grantha">Agniśarmma</hi>ṉ</lem>
+                        <rdg><!--EI, IP:--><unclear>A</unclear>gniśa<unclear>r</unclear>mmaṉ</rdg>
+                        <note>All letters are clear on the stone.</note>
+                    </app>
+                    
+                    <app loc="18">
+                        <lem><hi rend="grantha">śrā</hi>vaṇai</lem>
+                        <rdg><!--EI, IP:-->vilaiśrāva<unclear>ṇ</unclear>ai</rdg>
+                        <note>All letters are clear on the stone.</note>
+                    </app>
+                    
+                    <app loc="21">
+                        <lem><hi rend="grantha">mahāde</hi>varkku</lem>
+                        <note><!--EI:-->“The <hi rend="italic">aksharas hādē</hi> are much smaller than the rest of the inscription.”</note></app>
+                    
+                    <app loc="25">
+                        <lem>cekk-uḷḷaṉa</lem>
+                        <rdg><!--EI, IP:--><unclear>ce</unclear>kkuḷ<unclear>ḷa</unclear>ṉa</rdg>
+                        <note>All letters are clear on the stone.</note>
+                    </app>
+                    
+                    <app loc="26">
+                        <lem>vāya</lem>
+                        <rdg><!--IA:-->vāy</rdg>
+                    </app>
+                    
+                    <app loc="26">
+                        <lem>paṇittōm·</lem> 
+                        <note><!--EI, fn:-->“The <hi rend="italic">puḷḷi</hi> which is conspicuous by its absence in the whole inscription is marked on the last letter <hi rend="italic">m</hi>.”--></note>
+                    </app>
+                                       
+                </listApp>
+                
+            </div>
+            
+            <div type="translation">
+                <p><!--add translation--></p>
+            </div>
+            
+            <div type="commentary">
+                
+                    <listApp>
+                        
+                        <app loc="18">
+                            <lem>vilai-<hi rend="grantha">śrā</hi>vaṇai</lem>
+                            <note><!--EI, fn:-->“The term <hi rend="italic">vilai-śravaṇai</hi> occurs twice in a similar context in <hi rend="italic">South-Ind. Inscrs.</hi> Vol. III. p. 105, text-line 5.”</note>
+                        </app>                    
+                        
+                        <app loc="22">
+                            <lem>tiruviḷakku-ney-p-puṟam</lem>
+                            <note><!--EI, fn:-->“With <hi rend="italic">tiruviḷakku-ney-ppuṟam</hi> compare <hi rend="italic">ambala-ppuṟam</hi> (above<hi rend="italic">=South-Ind. Inscrs.</hi>, Vol. III. p. 285, text-line 7), <hi rend="italic">nandavāṉa-puram<!--check original spelling--></hi> (<hi rend="italic">South-Ind. Inscrs.</hi> Vol. III. p. 5, text-line 5), <hi rend="italic">pudukku-ppuṟam<!--check original spelling--></hi> (ibid. p. 7, text-line 8) and <hi rend="italic">uṇṇāḻigai-ppuṟam<!--check original spelling--></hi> (ibid. p. 19, text-line 6).”</note>
+                        </app>
+                        
+                        <app loc="25">
+                            <lem>cekk-uḷḷaṉa</lem>
+                            <note><!--EI, fn:-->“It is also possible that the reading is <hi rend="italic">cēkk-uḷḷana</hi> (instead of <hi rend="italic">cekk-uḷḷaṉa</hi>), in which case the translation would be “all (the crops) for which the fields of this village are (fit) shall be raised on this field, and the oil required for the sacred lamps shall be purchased (out of the produce).”</note>
+                        </app>
+                        
+                    </listApp>
+                
+            </div>
+            
+            <div type="bibliography">
+                <p><!--add references, to be entered first in zotero--></p>
+            </div>
+        </body>
+    </text>
+</TEI>

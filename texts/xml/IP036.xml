@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>title of document</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority/>
+                <idno type="filename"/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>museum/archive</repository>
+                        <idno>inventory number</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>description of object/monument (likely to include <material/>
+                                    and <objectType/> information, <dimensions/>, etc.)</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>description of text field/campus</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>description of letters, possibly including <height>letter-heights</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Place of origin</origPlace>
+                            <origDate>Date of origin</origDate>
+                        </origin>
+                        <provenance type="found"> Findspot and circumstances/context
+                        </provenance>
+                        <provenance type="observed">Modern location(s) (if different from repository, above)
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="photograph of text or monument"/>
+    </facsimile>
+    <text>
+        <body>
+            
+            <div type="edition" xml:space="preserve">
+                <p><!--change to <divtype></divtype> 2 distinct pillars-->
+                    <lb n="1"/>pakā-p·-piṭuku laḷitāṅ·kuraṉ·
+                </p>
+                <p>
+                    <lb n="2"/>cat<unclear>·</unclear>turu<orig>m<unclear>·</unclear>m</orig>allaṉ· kuṇaparaṉ·
+                    <lb n="3"/>mayēn·tira-p-pōt·t-arēcaru Aṭiyāṉ·
+                    <lb n="4"/>vayan·tap·piri-Arēcaru makaṉ· kan·tacēṉa-
+                    <lb n="5" break="n"/>ṉ· ceyivit<unclear>·</unclear>ta tēvakulam· <g type="punctuation">/</g>
+                </p>
+            </div>
+            
+            <div type="apparatus">
+                <p/>
+            </div>
+            
+            <div type="translation"><!--how to deal with several translations?-->
+                <head>Translation by <!--SII--></head><!--OK?-->
+                <p>Kandaṣêṉaṉ (Skandasêna), the son of Vayandappiriareśaru (Vasantapriyarâja), the servant of Pagâppiḍugu Laḷidâṅguraṉ (Lalitâṅkura) Śatturummallaṉ (Śatrumalla) Kuṇabaraṉ (Guṇabhara) Mayêndirappôttareśaru (Mahêndrapôtarâja), caused (this) temple (dêvakula) to be made.</p>
+            </div>
+            
+            <div type="translation">
+                <head>Translation by E. Francis</head><!--OK?-->
+                <p>Pakāppiṭuku Laḷitāṅkuraṉ (Skt. Lalitāṅkura).</p>
+                <p>Temple (<hi rend="italic">tēvakulam</hi>, Skt. <hi rend="italic">devakula</hi>) caused to be made by Kantacēṉaṉ (Skt. Skandasena), son of the king (<hi rend="italic">arēcaru</hi>) Vayantappiri (Skt. Vasantapriya) [or: of Vayantappiri-arecaru], servant (<hi rend="italic">aṭiyāṉ</hi>) of Catturummallaṉ (Skt. Śatrumalla) Kuṇaparaṉ (Skt. Guṇabhara) Mayēntirappōttarēcaru (i.e. the king Pallava Mahendra).
+</p>
+            </div>
+            
+            <div type="commentary">
+                <p>It is not clear what is the relation between the two discrete inscriptions, each on a different pillar. They could be read in succession as Pakāppiṭuku, Lalitāṅkura, Śatrumalla and Guṇabhara are well attested <hi rend="italic">biruda</hi>s of Mahendravarman I. We follow here <!--SII--> interpretation.</p>
+                <p>Pōttarēcaru and its variants (e.g. Pōttaraiyar) is a title of the Pallava kings. Mayēntirappōttarēcaru is Mahendravarman I (r. ca. 580–630).</p>
+            </div>
+            
+            <div type="bibliography">
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        
+        </body>
+    </text>
+</TEI>
