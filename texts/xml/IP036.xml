@@ -51,18 +51,27 @@
     </facsimile>
     <text>
         <body>
+        	
+        	<div type="edition" xml:space="preserve">
+        		
+        		<div type="textpart" subtype="surface" n="A">
+        			<head>Left / South Pillar</head>
+        			<p>
+        				<lb n="1"/>pakā-p·-piṭuku laḷitāṅ·kuraṉ·
+        			</p>
+        		</div>
+        		
+        		<div type="textpart" subtype="surface" n="B">
+        			<head> Right / North Pillar</head>
+        			<p>
+        			<lb n="2"/>cat<unclear>·</unclear>turu<orig>m<unclear>·</unclear>m</orig>allaṉ· kuṇaparaṉ·
+        			<lb n="3"/>mayēn·tira-p-pōt·t-arēcaru Aṭiyāṉ·
+        			<lb n="4"/>vayan·tap·piri-Arēcaru makaṉ· kan·tacēṉa
+        			<lb n="5" break="n"/>ṉ· ceyivit<unclear>·</unclear>ta tēvakulam· <g type="punctuation">/</g>
+        		</p>
+                	</div>
             
-            <div type="edition" xml:space="preserve">
-                <p><!--change to <divtype></divtype> 2 distinct pillars-->
-                    <lb n="1"/>pakā-p·-piṭuku laḷitāṅ·kuraṉ·
-                </p>
-                <p>
-                    <lb n="2"/>cat<unclear>·</unclear>turu<orig>m<unclear>·</unclear>m</orig>allaṉ· kuṇaparaṉ·
-                    <lb n="3"/>mayēn·tira-p-pōt·t-arēcaru Aṭiyāṉ·
-                    <lb n="4"/>vayan·tap·piri-Arēcaru makaṉ· kan·tacēṉa-
-                    <lb n="5" break="n"/>ṉ· ceyivit<unclear>·</unclear>ta tēvakulam· <g type="punctuation">/</g>
-                </p>
-            </div>
+        	</div>
             
             <div type="apparatus">
                 <p/>

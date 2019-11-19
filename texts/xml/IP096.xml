@@ -51,12 +51,14 @@
     </facsimile>
     <text>
         <body>
-            <div type="edition" xml:space="preserve">
-                <p><lb n="1"/><hi rend="grantha">svasti śrī</hi></p>
-                <p>tiruppulivalattu <hi rend="grantha">mahāde</hi>varkku malliyaṉ kārāṇai nālu paṭṭi nilam oru tiraḷ-ē-y a<hi rend="grantha">rcca</hi>nā-<hi rend="grantha">bhoga</hi>m-āka vaittōm utta<hi rend="grantha">ra<lb n="2" break="no"/>meruca</hi>tu<hi rend="grantha">rvvedi</hi>maṅkalattu <hi rend="grantha">sabhai</hi>yōm</p>
-                <p>itu <hi rend="grantha">pārā</hi>yaṇa<hi rend="grantha">mārgga</hi>m ve<hi rend="grantha">da</hi>m vallaṉ āy u<hi rend="grantha">kta</hi>ṉ-ākiya <hi rend="grantha">brāhma</hi>ṇaṉ brahmācāri-y-ē-y mūṉṟu poḻutu<lb n="3" break="no"/>m<!--check--> <hi rend="grantha">ārādhi</hi>tt' uṇpat’ ākavum</p>
-                <p>ipparicu pukkār pukkārkku [mū]ṉṟu yāṇṭ’ ava<hi rend="grantha">dhi</hi>-y-āka vaittōm va<hi rend="grantha">stu</hi>vi<hi rend="grantha">dyām</hi>ayaṉ eḻuttu</p>
+        	<div type="edition" xml:space="preserve">
+        		<p><lb n="1"/><hi rend="grantha">svasti śrī</hi></p>
+        		<p>tiruppulivalattu <hi rend="grantha">mahāde</hi>varkku malliyaṉ kārāṇai nālu paṭṭi nilam oru tiraḷ-ē-y a<hi rend="grantha">rcca</hi>nā-<hi rend="grantha">bhoga</hi>m-āka vaittōm utta<hi rend="grantha">ra<lb n="2" break="no"/>meruca</hi>tu<hi rend="grantha">rvvedi</hi>maṅkalattu <hi rend="grantha">sabhai</hi>yōm</p>
+        		<p>itu <hi rend="grantha">pārā</hi>yaṇa<hi rend="grantha">mārgga</hi>m ve<hi rend="grantha">da</hi>m vallaṉ āy u<hi rend="grantha">kta</hi>ṉ-ākiya <hi rend="grantha">brāhma</hi>ṇaṉ brahmācāri-y-ē-y mūṉṟu poḻutu<lb n="3" break="no"/>m<!--check--> <hi rend="grantha">ārādhi</hi>tt' uṇpat’ ākavum</p>
+        		<p>ipparicu pukkār pukkārkku [mū]ṉṟu yāṇṭ’ ava<hi rend="grantha">dhi</hi>-y-āka vaittōm va<hi rend="grantha">stu</hi>vi<hi rend="grantha">dyām</hi>ayaṉ eḻuttu
+                </p>
             </div>
+        	
             <div type="apparatus">
                 <p>external apparatus criticus (if applicable)</p>
             </div>
