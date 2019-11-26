@@ -54,19 +54,27 @@
         	<div type="edition" xml:space="preserve">
         		<p><lb n="1"/><hi rend="grantha">svasti śrī</hi></p>
         		<p>tiruppulivalattu <hi rend="grantha">mahāde</hi>varkku malliyaṉ kārāṇai nālu paṭṭi nilam oru tiraḷ-ē-y a<hi rend="grantha">rcca</hi>nā-<hi rend="grantha">bhoga</hi>m-āka vaittōm utta<hi rend="grantha">ra<lb n="2" break="no"/>meruca</hi>tu<hi rend="grantha">rvvedi</hi>maṅkalattu <hi rend="grantha">sabhai</hi>yōm</p>
-        		<p>itu <hi rend="grantha">pārā</hi>yaṇa<hi rend="grantha">mārgga</hi>m ve<hi rend="grantha">da</hi>m vallaṉ āy u<hi rend="grantha">kta</hi>ṉ-ākiya <hi rend="grantha">brāhma</hi>ṇaṉ brahmācāri-y-ē-y mūṉṟu poḻutu<lb n="3" break="no"/>m<!--check--> <hi rend="grantha">ārādhi</hi>tt' uṇpat’ ākavum</p>
-        		<p>ipparicu pukkār pukkārkku [mū]ṉṟu yāṇṭ’ ava<hi rend="grantha">dhi</hi>-y-āka vaittōm va<hi rend="grantha">stu</hi>vi<hi rend="grantha">dyām</hi>ayaṉ eḻuttu
+        		<p>itu <hi rend="grantha">pārā</hi>yaṇa<hi rend="grantha">mārgga</hi>m ve<hi rend="grantha">da</hi>m vallaṉ āy <hi rend="grantha">ukta</hi>ṉ-ākiya <hi rend="grantha">brāhma</hi>ṇaṉ brahmācāri-y-ē-y mūṉṟu poḻutu<lb n="3" break="no"/><unclear>m</unclear><!--check os stone--> <hi rend="grantha">ārādhi</hi>tt' uṇpat’ ākavum</p>
+        		<p>ipparicu pukkār pukkārkku [mū]ṉṟu yāṇṭ’ ava<hi rend="grantha">dhi</hi>-y-āka vaittōm <persName>va<hi rend="grantha">stu</hi>vi<hi rend="grantha">dyām</hi>ayaṉ</persName> eḻuttu
                 </p>
             </div>
         	
             <div type="apparatus">
                 <p>external apparatus criticus (if applicable)</p>
             </div>
+        	
             <div type="translation">
-                <p>translation(s)</p>
+            	<!--Reproduce text quotations with original markup?-->
+            	
+            	<p>Properity! Fortune!</p>
+            	<p>We the members of the <hi rend="italic">sabhā</hi> of Uttaramērucaturvedimaṅkalam, we have allotted (<hi rend="italic">vaittōm</hi>) one land of four <hi rend="italic">paṭṭi</hi> (from/at) Malliyaṉ, as a single plot (<hi rend="italic">tiraḷ-ē</hi>), as <hi rend="italic">arcanābhoga</hi>, to the great god of Tiruppulivanam.</p>
+            	<p>This should be for feeding (<hi rend="italic">uṇpatu</hi>) a Brahmin, who is reputed as (<hi rend="italic">uktaṉ-ākiya</hi>) skilled in the Vedas and the proper way of its recitation and who is <hi rend="italic">brahmācārin</hi>, for making worship (<hi rend="italic">ārādhittu</hi>) three times (a day).</p>
+<p>In this manner (<hi rend="italic">ipparicu</hi>) we have alloted (this) for a limit of three years for each entrant (<hi rend="italic">pukkār pukkārkku</hi>).</p>
+<p>Signature of Vastuvidyāmayaṉ.</p>
+
             </div>
             <div type="commentary">
-                <p>commentary</p>
+                <p><!--indicate line = line 1-->Malliyaṉ Kārāṇai designates the land given. It incorporates the personal name Malliyaṉ.</p>
             </div>
             <div type="bibliography">
                 <p>bibliography of previous editions, discussion, etc.</p>
