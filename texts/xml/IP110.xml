@@ -20,7 +20,8 @@
 						innovation programme (grant agreement no 809994). </note>
 				</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">IP110</idno> <!--to be updated-->
+				<idno type="filename">IP110</idno>
+				<!--to be updated-->
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -38,31 +39,32 @@
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
-			<change who="part:emfr" when="2019-11-15">Creation of the file on the repository</change>
+			<change who="part:emfr" when="2019-11-15">Creation of the file on the
+				repository</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
   <body>
             <div type="edition" xml:lang="tam-Latn"><!--edition TBC-->
                 <p>
-                    <lb n="1"/><milestone unit="surface" n="A"/><hi rend="grantha"><unclear>sva</unclear>sti śrī</hi>
+                    <lb n="1"/><milestone unit="surface" n="A"/><hi rend="grantha"><unclear>sva</unclear>sti śrī</hi><!--placement de milestone OK?-->
                 </p>
                 <p>kō-vi
-                    <lb n="2" break="no"/>c<unclear>ai</unclear>ya-<hi rend="grantha">da</hi>ntivikki
+                    <lb n="2" break="no"/>c<unclear>ai</unclear>ya-<hi rend="grantha">da</hi>n=tivikki
                     <lb n="3" break="no"/>ramaparumaṟku y<supplied reason="lost">ā</supplied>
                     <lb n="4" break="no"/>ṇṭu nāṟpatto
                     <lb n="5" break="no"/>ṉpatāvatu vi
-                    <lb n="6" break="no"/><hi rend="grantha">jai</hi>yātitta-<hi rend="grantha">ma<!--tta = conjunct-->
-                        <lb n="7" break="no"/>hā</hi>va<hi rend="grantha">li</hi>-vāṇa
+                    <lb n="6" break="no"/><hi rend="grantha">jai</hi>yātit=ta-<hi rend="grantha">ma
+                    <lb n="7" break="no"/>hā</hi>va<hi rend="grantha">li</hi>-vāṇa
                     <lb n="8" break="no"/><hi rend="grantha">rā</hi>yar <hi rend="grantha">pṛthi</hi>vi<hi rend="grantha">rā
-                        <lb n="9" break="no"/>jy</hi>añ ceyya ti
+                    <lb n="9" break="no"/>jy</hi>añ ceyya ti
                     <lb n="10" break="no"/>ruvippirampē
                     <lb n="11" break="no"/><space quantity="1" unit="character"/>ṭ āḷuṅ kaṇat
                     <lb n="12" break="no"/>tāruḷ kaḻiyama
                     <lb n="13" break="no"/>ṅkilaṅ kiḻār
                     <lb n="14" break="no"/>Ayyappōṟ
                     <lb n="15" break="no"/>ṟiyēñ Eṅka
-                    <lb n="16" break="no"/>ḷ tūmpaṉ ēri<!--EI, IP: tūmbaṉēri = one word-->
+                    <lb n="16" break="no"/>ḷ tūmpaṉ ēri
                     <lb n="17"/>Uḷḷai nantiku
                     <lb n="18" break="no"/>ṇṭilāṉa ceṟu
                     <lb n="19"/>Ivvūr veḷ
@@ -73,7 +75,7 @@
                     <lb n="24"/>koṇṭu Iv
                     <lb n="25" break="no"/><milestone unit="surface" n="B"/><unclear>ve</unclear>ḷ<unclear>ḷ</unclear>ē
                     <lb n="26" break="no"/>riyi<unclear>l</unclear>ē
-                    <lb n="27"/>kuḻikut-<!--EI: kuḻi kut- = 2 words\-->
+                    <lb n="27"/>kuḻikut-
                     <lb n="28" break="no"/>ti Aṭṭu
                     <lb n="29" break="no"/>vat’ āka
                     <lb n="30"/>vaittē
@@ -100,14 +102,13 @@
                 </p>
                 <p>
                     <lb n="46"/><milestone unit="surface" n="C"/>It’ aḻi-
-<!--EI: “On another side of the same stone” [EI fn] “This side of the stone is damaged, but no letters have suffered on that account.” This comment seems in fact to apply to the back side of the slab and to ARE 1904/A/227 = ARE 1903/227 which it bears. IP adds: “The ll. 46 to 58 are altogether omitted in IA, xl, 104-14.”-->
                     <lb n="47" break="no"/>ttāṉ
                     <lb n="48"/>vāraṇāci
                     <lb n="49"/>Aḻittā
                     <lb n="50" break="no"/>ṉ pāvat
                     <lb n="51" break="no"/>tu-p paṭu
                     <lb n="52" break="no"/>vār I<hi rend="grantha">ddha
-                        <lb n="53" break="no"/>rmmam‧ rakṣi</hi>
+                    <lb n="53" break="no"/>rmmam‧ rakṣi</hi>
                     <lb n="54" break="no"/>ttāṉ
                     <lb n="55"/>Aṭi E
                     <lb n="56" break="no"/>ṉ muṭi
@@ -122,15 +123,10 @@
   			
   			<app loc="1">
   				<lem><hi rend="grantha">śrī</hi></lem>
-  				<rdg><!--EI:-->śrī-</rdg>
+  				<rdg source="bib:Venkayya1912_01">śrī-</rdg>
   				<note>We believe that <hi rend="italic">śrī</hi> is not a prefix to the name of the king, but part of the auspicious beginning.</note>
   			</app>
-
-  			<app loc="40">
-  				<lem>ṉāṉ<num><g>1000</g></num></lem>
-  				<note><!--[EI fn @ 1000]--> "This symbol for one thousand occurs in one of the Nānāghāṭ inscriptions. This line has been read by Mr. Gopinatha Rao as <hi rend="italic">°ṉāṛai<!--check original spelling--></hi> which is probably a printer’s mistake for <hi rend="italic">°ṉārai<!--check original spelling--></hi>. The reading <hi rend="italic">°ṉārai</hi> is unlikely as the symbol for <hi rend="italic">ai</hi>, in other cases where it occurs in the inscription (ll. 6, 22 and 30), is not separated from the consonant to which it belongs. Besides the accusative <hi rend="italic">°ṉārai</hi> would be wrong and would have to be corrected into <hi rend="italic">°nāṉ</hi> or <hi rend="italic">°ṉār</hi>."
-  				</note></app>
-  		
+  			  		
   		</listApp>
             
   	</div>
@@ -138,14 +134,36 @@
   		<!--translation encoded as per EG §9.2 -->
             </div>
             
-  	<div type="commentary">
-  		<!--commentary encoded as per section §9.3 -->
-  	</div>
+  	<div type="commentary"><!--<app> permitted or not?-->
+  		
+  		<app loc="31">
+  			<lem><hi rend="grantha">Iddharmmañ ca</hi></lem>
+  			 <note>About the initial <hi rend="italic">i</hi> of <bibl><ptr target="bib:Venkayya1912_01"/></bibl> notes: “This initial vowel <hi rend="italic">i</hi> is written as in the Grantha portion of the Kāśākuḍi plates. The more usual form occurs in <hi rend="italic">ll.</hi> 37, 46 and 52 below.”</note>  			
+  		</app>
+  		
+  		<app loc="40">
+  			<lem>ṉāṉ<num><g>1000</g></num></lem>
+  				<note><bibl><ptr target="bib:Venkayya1912_01"/></bibl> notes: "This symbol for one thousand occurs in one of the Nānāghāṭ inscriptions. This line has been read by Mr. Gopinatha Rao as <hi rend="italic">°ṉāṛai<!--check original spelling--></hi> which is probably a printer’s mistake for <hi rend="italic">°ṉārai<!--check original spelling--></hi>. The reading <hi rend="italic">°ṉārai</hi> is unlikely as the symbol for <hi rend="italic">ai</hi>, in other cases where it occurs in the inscription (ll. 6, 22 and 30), is not separated from the consonant to which it belongs. Besides the accusative <hi rend="italic">°ṉārai</hi> would be wrong and would have to be corrected into <hi rend="italic">°nāṉ</hi> or <hi rend="italic">°ṉār</hi>."
+  				</note></app>
+  		
+  		<app loc="46">
+  			<note><bibl><ptr target="bib:Venkayya1912_01"/></bibl> notes: “This side of the stone is damaged, but no letters have suffered on that account.” This comment seems in fact to apply to the back side of the slab and to ARE 1904/A/227 = ARE 1903/227 <!--to be updated--> which it bears. <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> adds: “The ll. 46 to 58 are altogether omitted in IA, xl, 104-14.”</note>  			
+  		</app>
+  		
+  		<app loc="48">
+  			<lem>vāraṇāci</lem>
+  			<note><bibl><ptr target="bib:Venkayya1912_01"/></bibl> notes: “The length of <hi rend="italic">ṇā</hi> is added to the right of <hi rend="italic">ṇ</hi> and goes up; compare <hi rend="italic">South-Ind. Inscrs.</hi> Vol. I p. 114 and Vol. II p. 200, note 1.”</note>  			
+  		</app>
+  		<app loc="55">
+  			<lem>Eṉ</lem>
+  			<note><bibl><ptr target="bib:Venkayya1912_01"/></bibl> notes: “The vowel <hi rend="italic">e</hi> is almost a semicircle with a loop at the left end.”</note>  			
+  		</app>
+  		
+  		  	</div>
   	
   	<div type="bibliography">
   		
-  		<p>First edited in <bibl/> with facsimile and English translation. Edited in <bibl/> with facsimile and English translation. Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 110). The present edition by Emmanuel Francis based on autopsy.
-  		</p><!--update 1st <bibl>-->
+  		<p>First edited in <bibl><ptr target="bib:GopinathaRao1911_01"/></bibl> with English translation. Edited in <bibl><ptr target="bib:Venkayya1912_01"/></bibl> with facsimile and English translation. Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 110). The present edition by Emmanuel Francis based on autopsy.</p>
   		
   		<listBibl type="secondary">
   			<bibl>ARE 1904/A/226 = ARE 1903/226</bibl> <!--to be updated-->
