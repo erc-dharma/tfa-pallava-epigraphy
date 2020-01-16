@@ -5,7 +5,8 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Uttiramērūr, Vaikuṇṭhaperumāḷ temple, larger platform, southern base inscription</title>
+				<title>Uttiramērūr, Vaikuṇṭhaperumāḷ temple, larger platform, southern base
+					inscription</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:emfr">
@@ -20,7 +21,8 @@
 						innovation programme (grant agreement no 809994). </note>
 				</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">IP096</idno> <!--to be updated-->
+				<idno type="filename">IP096</idno>
+				<!--to be updated-->
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -38,6 +40,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
+			<change who="part:axja" when="2020-01-08">Update the template</change>
 			<change who="part:emfr" when="2019-11-15">Creation of the file on the repository</change>
 		</revisionDesc>
 	</teiHeader>
