@@ -160,11 +160,10 @@
 
             </div>
 
-            <div type="translation" xml:lang="eng">
-    	<!--translation encoded as per EG §9.2 -->
+            <div type="translation" xml:lang="eng"><!--Add earlier translations-->
             </div>
 
-            <div type="commentary">
+            <div type="commentary"><!-- <app> not permitted here!-->
 
                     <listApp>
 

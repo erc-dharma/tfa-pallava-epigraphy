@@ -116,50 +116,46 @@
                     <lb n="58" break="no"/>ṉa
                 </p>
             </div>
-            
+  	
   	<div type="apparatus">
-  		
   		<listApp>
-  			
   			<app loc="1">
   				<lem><hi rend="grantha">śrī</hi></lem>
   				<rdg source="bib:Venkayya1912_01">śrī-</rdg>
   				<note>We believe that <hi rend="italic">śrī</hi> is not a prefix to the name of the king, but part of the auspicious beginning.</note>
   			</app>
-  			  		
+  			
+  			<app loc="31">
+  				<lem><hi rend="grantha">Iddharmmañ ca</hi></lem>
+  				<note>About the initial <hi rend="italic">i</hi> of <bibl><ptr target="bib:Venkayya1912_01"/></bibl> notes: “This initial vowel <hi rend="italic">i</hi> is written as in the Grantha portion of the Kāśākuḍi plates. The more usual form occurs in <hi rend="italic">ll.</hi> 37, 46 and 52 below.”</note>
+  			</app>
+  			
+  			<app loc="40">
+  				<lem>ṉāṉ<num><g>1000</g></num></lem>
+  				<note><bibl><ptr target="bib:Venkayya1912_01"/></bibl> notes: "This symbol for one thousand occurs in one of the Nānāghāṭ inscriptions. This line has been read by Mr. Gopinatha Rao as <hi rend="italic">°ṉāṛai<!--check original spelling--></hi> which is probably a printer’s mistake for <hi rend="italic">°ṉārai<!--check original spelling--></hi>. The reading <hi rend="italic">°ṉārai</hi> is unlikely as the symbol for <hi rend="italic">ai</hi>, in other cases where it occurs in the inscription (ll. 6, 22 and 30), is not separated from the consonant to which it belongs. Besides the accusative <hi rend="italic">°ṉārai</hi> would be wrong and would have to be corrected into <hi rend="italic">°nāṉ</hi> or <hi rend="italic">°ṉār</hi>."</note>
+  			</app>
+  			
+  			<app loc="46">
+  				<note><bibl><ptr target="bib:Venkayya1912_01"/></bibl> notes: “This side of the stone is damaged, but no letters have suffered on that account.” This comment seems in fact to apply to the back side of the slab and to ARE 1904/A/227 = ARE 1903/227 <!--to be updated--> which it bears. <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> adds: “The ll. 46 to 58 are altogether omitted in IA, xl, 104-14.”</note>
+  			</app>
+  			
+  			<app loc="48">
+  				<lem>vāraṇāci</lem>
+  				<note><bibl><ptr target="bib:Venkayya1912_01"/></bibl> notes: “The length of <hi rend="italic">ṇā</hi> is added to the right of <hi rend="italic">ṇ</hi> and goes up; compare <hi rend="italic">South-Ind. Inscrs.</hi> Vol. I p. 114 and Vol. II p. 200, note 1.”</note>
+  			</app>
+  			
+  			<app loc="55">
+  				<lem>Eṉ</lem>
+  				<note><bibl><ptr target="bib:Venkayya1912_01"/></bibl> notes: “The vowel <hi rend="italic">e</hi> is almost a semicircle with a loop at the left end.”</note> 
+  			</app>
   		</listApp>
             
   	</div>
-  	<div type="translation" xml:lang="eng">
-  		<!--translation encoded as per EG §9.2 -->
-            </div>
-            
-  	<div type="commentary"><!--<app> permitted or not?-->
-  		
-  		<app loc="31">
-  			<lem><hi rend="grantha">Iddharmmañ ca</hi></lem>
-  			 <note>About the initial <hi rend="italic">i</hi> of <bibl><ptr target="bib:Venkayya1912_01"/></bibl> notes: “This initial vowel <hi rend="italic">i</hi> is written as in the Grantha portion of the Kāśākuḍi plates. The more usual form occurs in <hi rend="italic">ll.</hi> 37, 46 and 52 below.”</note>  			
-  		</app>
-  		
-  		<app loc="40">
-  			<lem>ṉāṉ<num><g>1000</g></num></lem>
-  				<note><bibl><ptr target="bib:Venkayya1912_01"/></bibl> notes: "This symbol for one thousand occurs in one of the Nānāghāṭ inscriptions. This line has been read by Mr. Gopinatha Rao as <hi rend="italic">°ṉāṛai<!--check original spelling--></hi> which is probably a printer’s mistake for <hi rend="italic">°ṉārai<!--check original spelling--></hi>. The reading <hi rend="italic">°ṉārai</hi> is unlikely as the symbol for <hi rend="italic">ai</hi>, in other cases where it occurs in the inscription (ll. 6, 22 and 30), is not separated from the consonant to which it belongs. Besides the accusative <hi rend="italic">°ṉārai</hi> would be wrong and would have to be corrected into <hi rend="italic">°nāṉ</hi> or <hi rend="italic">°ṉār</hi>."
-  				</note></app>
-  		
-  		<app loc="46">
-  			<note><bibl><ptr target="bib:Venkayya1912_01"/></bibl> notes: “This side of the stone is damaged, but no letters have suffered on that account.” This comment seems in fact to apply to the back side of the slab and to ARE 1904/A/227 = ARE 1903/227 <!--to be updated--> which it bears. <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> adds: “The ll. 46 to 58 are altogether omitted in IA, xl, 104-14.”</note>  			
-  		</app>
-  		
-  		<app loc="48">
-  			<lem>vāraṇāci</lem>
-  			<note><bibl><ptr target="bib:Venkayya1912_01"/></bibl> notes: “The length of <hi rend="italic">ṇā</hi> is added to the right of <hi rend="italic">ṇ</hi> and goes up; compare <hi rend="italic">South-Ind. Inscrs.</hi> Vol. I p. 114 and Vol. II p. 200, note 1.”</note>  			
-  		</app>
-  		<app loc="55">
-  			<lem>Eṉ</lem>
-  			<note><bibl><ptr target="bib:Venkayya1912_01"/></bibl> notes: “The vowel <hi rend="italic">e</hi> is almost a semicircle with a loop at the left end.”</note>  			
-  		</app>
-  		
-  		  	</div>
+  	<div type="translation" xml:lang="eng"><!--Add earlier translations-->
+  	</div>
+  	
+  	<div type="commentary">
+  	</div>
   	
   	<div type="bibliography">
   		
