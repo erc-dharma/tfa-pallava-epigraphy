@@ -41,7 +41,8 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:axja" when="2020-01-08">Update the template</change>
-			<change who="part:emfr" when="2019-11-15">Creation of the file on the repository</change>
+			<change who="part:emfr" when="2019-11-15">Creation of the file on the
+				repository</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -187,7 +188,7 @@
   	
   	<div type="bibliography">
   		
-  		<p>First edited in <bibl><ptr target="bib:GopinathaRao1911_01"/></bibl> with English translation. Edited in <bibl><ptr target="bib:Venkayya1912_01"/></bibl> with facsimile and English translation. Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 144). The present edition by Emmanuel Francis based on autopsy.</p><!--normally add page quotation in this <p>-->
+  		<p>First edited in <bibl><ptr target="bib:GopinathaRao1911_01"/></bibl> with English translation. Edited in <bibl><ptr target="bib:Venkayya1912_01"/></bibl> (EI 11, no. 22) with facsimile and English translation. Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no.144). The present edition by Emmanuel Francis based on autopsy.</p><!--normally add page quotation in this <p>-->
   		
   		<listBibl type="secondary"><!--primary in fact-->
   			<bibl>ARE 1904/A/229 = ARE 1903/229</bibl> <!--to be updated-->

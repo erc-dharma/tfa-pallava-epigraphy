@@ -40,7 +40,8 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:axja" when="2020-01-08">Update the template</change>
-			<change who="part:emfr" when="2019-11-15">Creation of the file on the repository</change>
+			<change who="part:emfr" when="2019-11-15">Creation of the file on the
+				repository</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -91,14 +92,16 @@
             </div>
 
             <div type="bibliography">
+            	
             	<p>First edited in <bibl/> with facsimile and English translation. Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 36). The present edition by Emmanuel Francis based on autopsy.</p><!--update 1st <bibl>-->
+            	
             	<listBibl type="secondary">
                	<bibl>ARIE 1892.185</bibl> <!--to be updated-->
                	<bibl>SII 2.72 (with FS)</bibl> <!--to be updated-->
                	<bibl>
                		<ptr target="bib:Mahalingam1988_01"/>
+               		<citedRange unit="page">134</citedRange>
                		<citedRange unit="item">36</citedRange>
-               		<citedRange>134</citedRange>
                	</bibl>
                	<bibl>
                		<ptr target="bib:Srinivasan1964_01"/>
