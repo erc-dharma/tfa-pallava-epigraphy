@@ -2,80 +2,99 @@
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">
-      <fileDesc>
-         <titleStmt>
-            <title>Encoding template for inscription of the pallava corpus, approx. 500 inscriptions</title>
-            <respStmt>
-               <resp>creation of file</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
-                  <surname>Francis</surname>
-               </persName>
-            </respStmt>
-         	<respStmt>
-         		<resp>intellectual authorship of edition</resp>
-         		<persName ref="part:emfr">
-         			<forename>Emmanuel</forename>
-         			<surname>Francis</surname>
-         		</persName>
-         	</respStmt>
-         </titleStmt>         
-         <publicationStmt>
-            <authority>DHARMA
-               <note>This project has received funding from the European Research Council (ERC)
-                  under the European Union's Horizon 2020 research and innovation 
-                  programme (grant agreement no 809994).</note>
-            </authority>
-            <pubPlace>Paris, CEIAS</pubPlace>
-            <idno type="filename">tfaPallava000</idno>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
-                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence.
-                     To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to
-                     Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-               	<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-               </licence>
-            </availability>
-            <date from="2019" to="2025">2019-2025</date>
-         </publicationStmt>
-         <sourceDesc>
-            <p><!-- not to be filled in at this stage --></p>
-            <p>Ukkal, Cheyyar Taluk, North Arcot District. On the east wall of the ruined Viṣṇu temple.</p>
-            <p>Tamil language</p>
-            <p>Tamil script</p>
-                     </sourceDesc>
-      </fileDesc>
-     <revisionDesc>
-        <change who="part:emfr" when="2020-02-04" status="draft">Creation of the file</change>
-        <change who="part:axja" when="2019-12-18" status="draft">Creation of the template</change>
-     </revisionDesc>
-  </teiHeader>
-  <text xml:space="preserve">
-      <body>
-         
-         <div type="edition" xml:lang="san-Latn"></div>
-         <div type="edition" xml:lang="tam-tam"></div>
-         <div type="edition" xml:lang="tam-Latn">
-            <p>
-<lb n="1"/><hi>svasti śrī</hi> kampava<hi><unclear>r</unclear>mma</hi>ṟku yāṇṭu patināñcāvatu Uṭkar <hi>sabhai</hi>yōm Eḻuttuc caṭaiyaṉ pakkal āyira-k-kāṭi nel koṇ
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Encoding template for inscription of the pallava corpus, approx. 500
+					inscriptions</title>
+				<respStmt>
+					<resp>creation of file</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from the European Research
+						Council (ERC) under the European Union's Horizon 2020 research and
+						innovation programme (grant agreement no 809994).</note>
+				</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">tfaPallava000</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p><!-- not to be filled in at this stage --></p>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2020-02-04" status="draft">Creation of the file</change>
+			<change who="part:axja" when="2019-12-18" status="draft">Creation of the template</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+		<body>
+		
+		<div type="edition" xml:lang="tam-Latn">
+<p>
+<lb n="1"/><hi>svasti śrī</hi> kampava<hi><unclear>r</unclear>mma</hi>ṟku yāṇṭu patin<orig>ā</orig>ñcāvatu Uṭkar <hi>sabhai</hi>yōm Eḻuttuc caṭaiyaṉ pakkal āyira-k-kāṭi nel koṇ
 <lb n="2" break="no"/>ṭōm Ivv-āyira-k-kāṭi nellālum palicai Aynnūṟṟukkāṭi nel āṭṭāṇṭu tōṟum ērikk’ aṭṭi Ikuttuvippōm āṉōm <hi>sabhai</hi>
 <lb n="3" break="no"/>yōm Ii<unclear>t’</unclear> <unclear>a</unclear>ṉṟ’ eṉṟār kaṅkai Iṭaik= kumari Iṭai ceytār ceyta pāvam paṭuvar āka-p paṇittōm <hi>sam<unclear>•</unclear>batsa</hi>ravāriyapperumakkaḷē Aṭṭuvik=ka kaṭavār <unclear>|</unclear>
-            </p>
-         </div>  
+</p>
+		</div>  
          
          <div type="apparatus">
             
             <listApp>
-               <app loc="1">
-                  <lem><!-- fill in a lemma here --></lem>
-                  <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
-               </app>
+            	
+            	<app loc="1">
+            		<lem>patināñcāvatu</lem>
+            		<note> Read patinaiñcāvatu</note>
+            	</app>
+            	
+            	<app loc="2">
+            		<lem>palicai</lem>
+            		<note>SII 3, No. 5, fn: “palicai is another form of policai; see the Index to vol. I. s.v. paliśai, and Dr. Gundert’s Malayâḷam Dictionary, s.v. paliśa.”</note> <!--to be updated: source + italics-->
+            	</app>
+            	
+            	<app loc="2">
+            		<lem>āṉōm</lem>
+            		<note>In ṉō, the kāl is marked twice, as a kāl proper and as a curl added to ṉ.</note> <!--to be updated: italics-->
+            	</app>
+            	
+            	<app loc="3">
+            		<lem><hi>sam<unclear>•</unclear>batsa</hi>ra</lem>
+            		<note>Read <hi>samvatsara</hi></note> <!--to be updated: italics-->
+            	</app>
+            	
+            	<app loc="3">
+            		<lem>kaṭavār <unclear>|</unclear></lem>
+            		<note>It seems that the final r is followed by a short daṇḍa</note> <!--to be updated: italics-->
+            	</app>
+            
             </listApp>         
          
          </div>
          
-         <div type="translation" xml:lang="eng">
+         <div type="translation" xml:lang="eng" resp="part:emfr"> <!--to be updated: italics-->
 <p>Prosperity! Fortune!</p>
 <p>Fifteenth year of Kampavarman (<hi>kampava[r]mmaṉ</hi>)</p>
 <p>Writings (i.e. writ) of We the members of the sabhā of Uṭkar.</p>
@@ -92,24 +111,29 @@
             </p>
          </div>
                  
-         <div type="commentary"></div>
+         <div type="commentary"/>
          
          <div type="bibliography">
             
             <p>
-               First edited by ... This edition by Emmanuel Francis, based on autopsy and photographs (2019).
+               First edited by <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with English translation and facsimile. Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 215). This edition by Emmanuel Francis, based on autopsy and photographs (2019).
             </p>
             
             <listBibl type="primary"><!--primary to be validated-->
                <bibl>
+                  <ptr target="bib:Hultzsch1899_01"/>
+                  <citedRange unit="item">5</citedRange>
+                  <citedRange>8-9</citedRange>
+               </bibl>
+            	<bibl>
                   <ptr target="bib:Mahalingam1988_01"/>
-                  <citedRange unit="item">No</citedRange>
-                  <citedRange>pages</citedRange>
+                  <citedRange unit="item">215</citedRange>
+                  <citedRange>559</citedRange>
                </bibl>
             </listBibl>
                        
             <listBibl type="secondary">
-              <bibl/>
+              <bibl>ARE 1893/26</bibl> <!--to be updated-->
            </listBibl>
         
          </div>
@@ -117,3 +141,9 @@
       </body>
   </text>
 </TEI>
+
+<!--
+<p>Ukkal, Cheyyar Taluk, North Arcot District. On the east wall of the ruined Viṣṇu temple.</p>
+<p>Tamil language</p>
+<p>Tamil script</p>
+-->
