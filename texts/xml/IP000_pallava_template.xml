@@ -76,7 +76,7 @@
          
          </div>
          
-         <div type="translation" xml:lang="eng" resp="part:emfr">
+         <div type="translation" xml:lang="eng" resp="part:emfr"/>
          <div type="translation" xml:lang="fre" resp="part:emfr"/>
                   
          <div type="commentary"/>
@@ -84,7 +84,7 @@
          <div type="bibliography">
             
             <p>
-               First edited by ... This edition by Emmanuel Francis, based on autopsy and photographs (2019).
+               First edited in <bibl/> with facsimile and English translation. Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 36). This edition by Emmanuel Francis, based on autopsy and photographs (2019). First English translation.
             </p>
             
             <listBibl type="primary"><!--primary to be validated-->
@@ -96,7 +96,8 @@
             </listBibl>
                        
             <listBibl type="secondary">
-              <bibl/>
+              <bibl>ARE 1893/26</bibl> <!--to be updated-->
+            	<bibl/>
            </listBibl>
         
          </div>
