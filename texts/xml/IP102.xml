@@ -60,13 +60,6 @@
          <div type="edition" xml:lang="tam-Latn">
             <p>
 <lb n="1"/><hi rend="grantha">svasti śrī da</hi>n=tippōttaracarkku yāṇṭ’ oṉpatāvatu Ut=ta<hi rend="grantha"><unclear>rameru</unclear>ca</hi>tu<hi rend="grantha"><unclear>r</unclear>vvedimaṃgala</hi>ttu <hi rend="grantha">sabhai</hi>yōm eḻuttuk ka<unclear>c</unclear>cippē<unclear>ṭ</unclear>ṭup <gap reason="lost" quantity="3" unit="character"/> tuvāy<unclear>ccēri</unclear> cēṭṭatarayar tā
-		<!-- 
-		<hi rend="grantha"><unclear>r</unclear>vvedimaṃgala</hi>ttu
-            	OR
-            	<hi rend="grantha"><unclear>r</unclear></hi><hi rend="grantha">vvedimaṃgala</hi>ttu
-		OR
-		<unclear><hi rend="grantha">r</hi></unclear><hi rend="grantha">vvedimaṃgala</hi>ttu
-		-->
 <lb n="2" break="no"/>ṉavēntaṉ pakkal irupatiṉ kaḻañcu poṉ koṇṭ’ emmūr ellāccērit toṟu-nilaiyum mēlait toṟu-nilaiyum ivvaṉaittiṉālum vanta Eru-vilaiyāl vanta
 <lb n="3"/>māṭ’ epporppaṭṭatum ippoṉṉukk’ immāṭu vilaiy aṟutiyāy vayiramēkataṭākattuṭk kuḻi kuttuvat’ āka Oṭṭi-k-kuṭuttōm <hi rend="grantha">sabhai</hi>yōn tāṉavēnta
 <lb n="4" break="no"/>ṉ eṉum appoṉṉum ivveru-vilaiyāl vanta <hi rend="grantha">dravya</hi>mum avvērikkēy aṟam-āka-k kuṭuttēṉ <hi rend="grantha">sabhai</hi>yōmum maṟṟu viniyō<hi rend="grantha">ga</hi>ñ ceyyātēy av-
@@ -90,7 +83,6 @@
          		</app>
          		<app loc="1">
          			<lem>tā<lb n="2" break="no"/>ṉavēntaṉ</lem>
-         			<!--keep <lb> or not?-->
          			<rdg source="bib:SubrahmanyaAiyer1928_01"><unclear>tā</unclear>ṉavēntaṉ</rdg>
          		</app>
          		<app loc="2">
@@ -126,7 +118,7 @@
          	<bibl>
   		<ptr target="bib:Mahalingam1988_01"/>
   		<citedRange unit="item">102</citedRange>
-  		<citedRange unit="page"">342-343</citedRange>
+  		<citedRange unit="page">342-343</citedRange>
   	</bibl>
 </listBibl>
 

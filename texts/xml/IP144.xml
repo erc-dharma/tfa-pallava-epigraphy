@@ -100,8 +100,8 @@
 
                     <app loc="1">
                         <lem>nantippō<supplied reason="omitted">t</supplied>taraiyarkku</lem>
-                        <rdg source="bib:Venkayya1912_01">Nanti(ndi)-</rdg><!--convert into markup-->
-                        <note>The correction seems to us unnecessary, as we consider the conjunct <hi rend="italic">nti</hi> is in Tamil script and not in Grantha, both alphabets sharing these characters. Note that <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> writes in <hi rend="italic">nanti</hi> the same syllable <hi rend="italic">nti</hi> is with two <hi rend="italic">eḻuttu</hi>s.</note>
+                        <rdg source="bib:Venkayya1912_01">na<choice><sic>nti</sic><corr><hi rend="grantha">ndi</hi></corr></choice>ppō<supplied reason="omitted">t</supplied>taraiyarkku</rdg>
+                    	<note>The correction seems to us unnecessary, as we consider the conjunct <hi rend="italic">nti</hi> is in Tamil script and not in Grantha, both alphabets sharing these characters. Note that <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> writes in <hi rend="italic">nanti</hi> the same syllable <hi rend="italic">nti</hi> is with two <hi rend="italic">eḻuttu</hi>s.</note>
                     </app>
 
                     <app loc="4">
