@@ -46,17 +46,14 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:emfr" when="2020-02-04" status="draft">Creation of the file</change>
-			<change who="part:axja" when="2019-12-18" status="draft">Creation of the template</change>
+			<change who="part:axja" when="2019-12-18" status="draft">Creation of the
+				template</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
-      <body>
-         
-         <div type="edition" xml:lang="san-Latn"/>
-         <div type="edition" xml:lang="tam-tam"/>
-         
-         <div type="edition" xml:lang="tam-Latn">
-            <p>
+		<body>
+<div type="edition" xml:lang="tam-Latn">
+<p>
 <lb n="1"/><hi rend="grantha">svasti śrī</hi> kō-vicai
 <lb n="2" break="no"/>ya-nantiv<unclear>i</unclear>kkirama
 <lb n="3" break="no"/>parumaṟku yā
@@ -64,7 +61,7 @@
 <lb n="5" break="no"/>vatu Ūṟṟukkā
 <lb n="6" break="no"/>ṭṭu-<unclear>k</unclear>kōṭṭa<unclear>t</unclear>tu
 <lb n="7" break="no"/><unclear>p</unclear> perumpālai
-<lb n="8" />Ūrt tiruppālai
+<lb n="8"/>Ūrt tiruppālai
 <lb n="9" break="no"/>y-ūr kiḻavaṉṉ aṭa
 <lb n="10" break="no"/>vi śrīkaṅkaraiyar
 <lb n="11"/>nērkuṭṭi perumāṉā
@@ -73,16 +70,15 @@
 <lb n="14" break="no"/>y<unclear>ta mu</unclear>kamaṇṭakam It’ aḻi Āmaik kāttāṉ a
 <lb n="15" break="no"/>ṭi Eṉ <unclear>muṭi mē</unclear>
 <lb n="16" break="no"/>l		
-
-            </p>
-         </div>
+</p>
+</div>
                   
          <div type="apparatus">
             
             <listApp>
             
             <app loc="7">
-                  <lem>perumpālai<lb n="8" />Ūrt</lem>
+                  <lem>perumpālai<lb n="8"/>Ūrt</lem>
                   <note>Compare with <q>tiruppālai-y-ūr</q>, line 8.</note>
                </app>
             	
@@ -90,48 +86,49 @@
                <lem>aḻi Āmai</lem>
                <note>Here again, there is no <q>sandhi</q>. A more frequent, but probably later, form is <q>aḻi-y-āmai</q>.</note>
                </app>
-            	
-            	<app loc="15">
+            
+            <app loc="15">
                        <lem>mēl</lem>
-                       <rdg source="bib:EI">mēla</rdg>
-                       </app>
+                       <rdg source="bib:EI">mēla</rdg> <!--update source-->
+            </app>
             	
             </listApp>         
          
          </div>
          
-         <div type="translation" xml:lang="eng" resp="part:emfr"/>
-      	
-         <div type="translation" xml:lang="fre" resp="part:emfr">
-<p>Prosperity! Fortune!</p>
-<p>Third year of the victorious king Nandivarman (kō-vicaiya-nantivikkiramaparumaṉ).</p>
-<p>Aṭavi, the lord (kiḻavaṉ) of Tiruppālaiyūr in Perumpālaiyūr in the district (kōṭṭam) of Ūṟṟukkāṭu, after having made request to the glorious king of the Gaṅgas, the mukhamaṇḍapa that Aṭavi made for his own mother Naṅkaṉi Naṅkaiyār.</p>
-<p>This, the feet of he who protects it without destroying it are on my head.</p>
-         </div>
-      	
-      	<div type="commentary"/>
+         <div type="translation" xml:lang="eng" resp="part:emfr">
+			<p>Prosperity! Fortune!</p>
+			<p>Third year of the victorious king Nandivarman (kō-vicaiya-nantivikkiramaparumaṉ).</p>
+			<p>Aṭavi, the lord (kiḻavaṉ) of Tiruppālaiyūr in Perumpālaiyūr in the district (kōṭṭam) of Ūṟṟukkāṭu, after having made request to the glorious king of the Gaṅgas, the mukhamaṇḍapa that Aṭavi made for his own mother Naṅkaṉi Naṅkaiyār.</p>
+			<p>This, the feet of he who protects it without destroying it are on my head.</p>
+			</div>
+			
+      	<div type="commentary"></div>
       	
       	<div type="bibliography">
             
             <p>
                First edited in <bibl/> with facsimile and English translation. Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 117). This edition by Emmanuel Francis, based on autopsy and photographs (2019).
             </p>
-            
-            <listBibl type="primary"><!--primary to be validated-->
-               <bibl>
-                  <ptr target="bib:Mahalingam1988_01"/>
-                  <citedRange unit="item">117</citedRange>
-                  <citedRange>pages</citedRange>
-               </bibl>
-            </listBibl>
-                       
-            <listBibl type="secondary">
-              <bibl/>
-            	<bibl>ARE 1900/68</bibl> <!--to be updated-->
-           </listBibl>
+      		<listBibl type="primary"><!--primary to be validated-->
+      			<bibl>
+      				<ptr target="bib:Hultzsch"/> <!--to be updated-->
+      				<citedRange unit="item">117</citedRange> <!--to be updated-->
+      				<citedRange>pages</citedRange> <!--to be updated-->
+      			</bibl>
+      			<bibl>
+      				<ptr target="bib:Mahalingam1988_01"/>
+      				<citedRange unit="item">117</citedRange>
+      				<citedRange>pages</citedRange>
+      			</bibl>
+      		</listBibl>
+      		
+      		<listBibl type="secondary">
+      			<bibl>ARE 1900/68</bibl> <!--to be updated-->
+      		</listBibl>
         
          </div>
-         
-      </body>
+		</body>
+
   </text>
 </TEI>

@@ -47,7 +47,8 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:emfr" when="2020-02-04" status="draft">Creation of the file</change>
-			<change who="part:axja" when="2019-12-18" status="draft">Creation of the template</change>
+			<change who="part:axja" when="2019-12-18" status="draft">Creation of the
+				template</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -72,7 +73,7 @@
             	
             	<app loc="2">
             		<lem>palicai</lem>
-            		<note>SII 3, No. 5, fn: “palicai is another form of policai; see the Index to vol. I. s.v. paliśai, and Dr. Gundert’s Malayâḷam Dictionary, s.v. paliśa.”</note> <!--to be updated: source + italics-->
+            		<note><bibl><ptr target="bib:Hultzsch1899_01"/></bibl> notes: “palicai is another form of policai; see the Index to vol. I. s.v. paliśai, and Dr. Gundert’s Malayâḷam Dictionary, s.v. paliśa.”</note> <!--to be updated: italics-->
             	</app>
             	
             	<app loc="2">
@@ -95,6 +96,7 @@
          </div>
          
          <div type="translation" xml:lang="eng" resp="part:emfr"> <!--to be updated: italics-->
+
 <p>Prosperity! Fortune!</p>
 <p>Fifteenth year of Kampavarman (<hi>kampava[r]mmaṉ</hi>)</p>
 <p>Writings (i.e. writ) of We the members of the sabhā of Uṭkar.</p>
@@ -116,10 +118,10 @@
          <div type="bibliography">
             
             <p>
-               First edited by <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with English translation and facsimile. Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 215). This edition by Emmanuel Francis, based on autopsy and photographs (2019).
+               First edited by <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with English translation and facsimile (SII 3, no. 5). Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 215). This edition by Emmanuel Francis, based on autopsy and photographs (2019).
             </p>
             
-            <listBibl type="primary"><!--primary to be validated-->
+            <listBibl type="primary"><!--primary to be validated in EG-->
                <bibl>
                   <ptr target="bib:Hultzsch1899_01"/>
                   <citedRange unit="item">5</citedRange>
@@ -141,7 +143,6 @@
       </body>
   </text>
 </TEI>
-
 <!--
 <p>Ukkal, Cheyyar Taluk, North Arcot District. On the east wall of the ruined Viṣṇu temple.</p>
 <p>Tamil language</p>

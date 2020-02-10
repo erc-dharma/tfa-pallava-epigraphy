@@ -164,7 +164,7 @@
             <div type="translation" xml:lang="eng"><!--Add earlier translations-->
             </div>
 
-            <div type="commentary"><!-- <app> not permitted here!-->
+            <div type="commentary"><!-- <app> not permitted here yet acc to EG!-->
 
                     <listApp>
 
@@ -188,10 +188,9 @@
   	
   	<div type="bibliography">
   		
-  		<p>First edited in <bibl><ptr target="bib:GopinathaRao1911_01"/></bibl> with English translation. Edited in <bibl><ptr target="bib:Venkayya1912_01"/></bibl> (EI 11, no. 22) with facsimile and English translation. Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no.144). The present edition by Emmanuel Francis based on autopsy.</p><!--normally add page quotation in this <p>-->
+  		<p>First edited in <bibl><ptr target="bib:GopinathaRao1911_01"/></bibl> with English translation. Edited in <bibl><ptr target="bib:Venkayya1912_01"/></bibl> (EI 11, no. 22A) with facsimile and English translation. Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no.144). The present edition by Emmanuel Francis based on autopsy.</p><!--normally add page quotation in this <p>-->
   		
-  		<listBibl type="secondary"><!--primary in fact-->
-  			<bibl>ARE 1904/A/229 = ARE 1903/229</bibl> <!--to be updated-->
+  		<listBibl type="primary"><!--primary to be validated in EG-->
   			<bibl>
   				<ptr target="bib:GopinathaRao1911_01"/>
   				<citedRange unit="item">D</citedRange>
@@ -207,6 +206,10 @@
   				<citedRange unit="item">144</citedRange>
   				<citedRange>421-422</citedRange>
   			</bibl>
+  		</listBibl>
+  		
+  		<listBibl type="secondary"><
+  			<bibl>ARE 1904/A/229 = ARE 1903/229</bibl> <!--to be updated-->
   		</listBibl>
             </div>
         </body>

@@ -40,7 +40,8 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:axja" when="2020-01-08">Update the template</change>
-			<change who="part:emfr" when="2019-11-15">Creation of the file on the repository</change>
+			<change who="part:emfr" when="2019-11-15">Creation of the file on the
+				repository</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -151,6 +152,7 @@
   		</listApp>
             
   	</div>
+  	
   	<div type="translation" xml:lang="eng"><!--Add earlier translations-->
   	</div>
   	
@@ -159,25 +161,34 @@
   	
   	<div type="bibliography">
   		
-  		<p>First edited in <bibl><ptr target="bib:GopinathaRao1911_01"/></bibl> with English translation. Edited in <bibl><ptr target="bib:Venkayya1912_01"/></bibl> with facsimile and English translation. Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 110). The present edition by Emmanuel Francis based on autopsy.</p>
+  		<p>First edited in <bibl><ptr target="bib:GopinathaRao1911_01"/></bibl> with English translation. Edited in <bibl><ptr target="bib:Venkayya1912_01"/></bibl> with facsimile and English translation (EI 11, no. 22). Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 110). The present edition by Emmanuel Francis based on autopsy.</p>
   		
-  		<listBibl type="secondary">
-  			<bibl>ARE 1904/A/226 = ARE 1903/226</bibl> <!--to be updated-->
+  		<listBibl type="primary"> <!--primary to be validated in EG-->
+  			
   			<bibl>
   				<ptr target="bib:GopinathaRao1911_01"/>
   				<citedRange unit="item">E</citedRange>
   				<citedRange>113-114</citedRange>
   			</bibl>
+  			
   			<bibl>
   				<ptr target="bib:Venkayya1912_01"/>
   				<citedRange unit="item">B</citedRange>
   				<citedRange>225-226</citedRange>
   			</bibl>
+  			
   			<bibl>
   				<ptr target="bib:Mahalingam1988_01"/>
   				<citedRange unit="item">110</citedRange>
   				<citedRange>354-357</citedRange>
   			</bibl>
+  			
+  		</listBibl>
+  		
+  		<listBibl type="secondary">
+  			
+  			<bibl>ARE 1904/A/226 = ARE 1903/226</bibl> <!--to be updated-->
+  		
   		</listBibl>
            </div>
          </body>

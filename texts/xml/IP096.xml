@@ -47,26 +47,27 @@
 	</teiHeader>
 	<text xml:space="preserve">
     <body>
-        	<div type="edition" xml:lang="tam-Latn">
+        	
+    	<div type="edition" xml:lang="tam-Latn">
 
-        		<p><lb n="1"/><hi rend="grantha">svasti śrī</hi></p>
+<p><lb n="1"/><hi rend="grantha">svasti śrī</hi></p>
         		
-        		<p>tiruppulivalattu <hi rend="grantha">mahāde</hi>varkku malliyaṉ kārāṇai nālu paṭṭi nilam oru tiraḷ-ē-y a<hi rend="grantha">rcca</hi>nā-<hi rend="grantha">bhoga</hi>m-āka vaittōm ut=ta<hi rend="grantha">ra<lb n="2" break="no"/>meruca</hi>tu<hi rend="grantha">rvvedi</hi>maṅkalattu <hi rend="grantha">sabhai</hi>yōm</p>
-
+<p>tiruppulivalattu <hi rend="grantha">mahāde</hi>varkku malliyaṉ kārāṇai nālu paṭṭi nilam oru tiraḷ-ē-y a<hi rend="grantha">rcca</hi>nā-<hi rend="grantha">bhoga</hi>m-āka vaittōm ut=ta<hi rend="grantha">ra<lb n="2" break="no"/>meruca</hi>tu<hi rend="grantha">rvvedi</hi>maṅkalattu <hi rend="grantha">sabhai</hi>yōm</p>
 <!--question: can <lb> be in <hi rend="grantha">???-->
         		
-        		<p>itu <hi rend="grantha">pārā</hi>yaṇa<hi rend="grantha">mārgga</hi>m vē<hi rend="grantha">da</hi>m vallaṉ āy <hi rend="grantha">ukta</hi>ṉ-ākiya <hi rend="grantha">brāhma</hi>ṇaṉ brahmācāri-y-ē-y mūṉṟu poḻutu<lb n="3" break="no"/><unclear>m</unclear><!--check on stone--> <hi rend="grantha">ārādhi</hi>tt' uṇpat’ ākavum</p>
+<p>itu <hi rend="grantha">pārā</hi>yaṇa<hi rend="grantha">mārgga</hi>m vē<hi rend="grantha">da</hi>m vallaṉ āy <hi rend="grantha">ukta</hi>ṉ-ākiya <hi rend="grantha">brāhma</hi>ṇaṉ brahmācāri-y-ē-y mūṉṟu poḻutu<lb n="3" break="no"/><unclear>m<!--check on stone--></unclear> <hi rend="grantha">ārādhi</hi>tt' uṇpat’ ākavum</p>
         		
-        		<p>ipparicu pukkār pukkārkku mūṉṟu yāṇṭ’ ava<hi rend="grantha">dhi</hi>-y-āka vaittōm <persName>va<hi rend="grantha">stu</hi>vi<hi rend="grantha">dyām</hi>ayaṉ</persName> eḻuttu</p>
+<p>ipparicu pukkār pukkārkku mūṉṟu yāṇṭ’ ava<hi rend="grantha">dhi</hi>-y-āka vaittōm <persName>va<hi rend="grantha">stu</hi>vi<hi rend="grantha">dyām</hi>ayaṉ</persName> eḻuttu</p>
         	 </div>
 
            <div type="apparatus">
-                 <listApp>
+                 
+           	<listApp>
                  	<app loc="2">
                  		<lem>vē<hi rend="grantha">da</hi>m vallaṉ āy</lem>
                  		<rdg source="bib:Mahalingam1988_01">vēdamvallāṉāy</rdg><!--general issue of converting IP transliteration-->
                  	</app>
-                 </listApp>
+           	</listApp>
            	                     	
            </div>
 
@@ -77,16 +78,15 @@
             	<p>This should be for feeding (<hi rend="italic">uṇpatu</hi>) a Brahmin, who is reputed as (<hi rend="italic">uktaṉ-ākiya</hi>) skilled in the Vedas and the proper way of its recitation and who is a<hi rend="italic">brahmācārin</hi>, for making worship (<hi rend="italic">ārādhittu</hi>) three times (a day).</p>
             	<p>In this manner (<hi rend="italic">ipparicu</hi>) we have alloted (this) for a limit of three years for each entrant (<hi rend="italic">pukkār pukkārkku</hi>).</p>
             	<p>Signature of Vastuvidyāmayaṉ.</p>
-
             </div>
-            <div type="commentary">
+            
+    	<div type="commentary">
                 <p>(Line 1) Malliyaṉ Kārāṇai designates the land given. It incorporates the personal name Malliyaṉ.</p>
             </div>
             
-
     	<div type="bibliography">
     		
-    		<p>First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 355). Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 96). The present edition by Emmanuel Francis based on autopsy.</p>
+    		<p>First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 355). Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 96). The present edition by Emmanuel Francis based on autopsy.</p>
     		
     		<listBibl type="primary"> <!--to be validated in EG-->
     			
@@ -106,6 +106,7 @@
     		<listBibl type="secondary">
     			<bibl>ARIE 1898.1</bibl> <!--to be updated-->
     		</listBibl>
+    		
             </div>
         </body>
     </text>

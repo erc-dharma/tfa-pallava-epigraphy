@@ -85,7 +85,7 @@
 
             <div type="bibliography">
             	
-            	<p>First edited in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2, no. 72) with facsimile and English translation. Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 36). The present edition by Emmanuel Francis based on autopsy.</p>
+            	<p>First edited in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2, no. 72) with facsimile and English translation. Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 36). The present edition by Emmanuel Francis based on autopsy.</p>
             	
             	<listBibl type="primary"> <!--to be validated in EG-->
                	
