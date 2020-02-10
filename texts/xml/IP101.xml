@@ -5,7 +5,8 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Uttiramērūr, Vaikuṇṭhaperumāḷ temple, larger platform, southern base, donation of the time of Dantivarman, year 7</title>
+				<title>Uttiramērūr, Vaikuṇṭhaperumāḷ temple, larger platform, southern base,
+					donation of the time of Dantivarman, year 7</title>
 				<respStmt>
 					<resp>Intellectual authorship of edition</resp>
 					<persName ref="part:emfr">
@@ -51,7 +52,7 @@
        	<p>
        	<lb n="1"/><hi rend="grantha">svasti śrī da</hi>n=ti<hi rend="grantha">varmma</hi>rkku yāṇṭ’ eḻāvatu peruṅkuṟi <hi rend="grantha">sabhai</hi>yōm eḻuttu <hi rend="grantha">parameśvara</hi>
        	<lb n="2" break="no"/>vatiyiṉ kiḻ-k-kūr-iṉ ṟeṟkku Ērikk’ āka vaitta AIntu pāṭakamum muṭumpai <hi rend="grantha">svāmikumāraca</hi>
-	<lb n="3" break="no"/><hi rend="grantha">turvvedisoma</hi>yā<hi rend="grantha">ji</hi>yārkku Ēri toṇ<unclear>·</unclear>ṭavuṅ· karai-y aṭ·ṭavum viṟ·ṟuk kuṭut·tōm Itaṉuk·ku poruṭ·cila
+	<lb n="3" break="no"/><hi rend="grantha">turvvedisoma</hi>yā<hi rend="grantha">ji</hi>yārkku Ēri toṇ<unclear>·</unclear>ṭavuṅ· karai-y aṭ·ṭavum viṟ·ṟuk kuṭut·tōm Itaṉuk·ku poruṭ·c<orig>i</orig>la
 	<lb n="4" break="no"/>vum aṟakkoṇ·ṭōm· <hi rend="grantha">sabhai</hi>-y-ōṭ·ṭai <hi rend="grantha">sāmānya</hi>m al·lātatu vilaikku koṇ·ṭō<unclear>m e</unclear>
 	<lb n="5" break="no"/>ṉ·ṟu tāmum· <hi rend="grantha">sa</hi>n=tatiyum· vi<hi rend="grantha">śe<unclear>ṣa</unclear>m</hi> <hi rend="grantha">anubha</hi>vik·ka perāt<unclear>ā</unclear>rāṉār <hi rend="grantha">svāmi</hi>kumārakuṭṭam-ākiya <hi rend="grantha">dha</hi>
 	<lb n="6" break="no"/><hi rend="grantha">rmma</hi>ttiṉai <unclear>ra</unclear><hi rend="grantha">kṣi</hi>ttār <hi rend="grantha">pāda</hi>ṅkaḷ Eṉ ṟalai melaṉa [blank space, 2 letters] <hi rend="grantha">parameśvarasya</hi> <hi rend="grantha">lekh<unclear>ā</unclear></hi>
@@ -105,10 +106,9 @@
       
     	<div type="bibliography">
 
-<p>First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no 365). Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no 101). The present edition by Emmanuel Francis based on autopsy, August 2019, and photos.</p>
+<p>First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 365). Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 101). The present edition by Emmanuel Francis based on autopsy, August 2019, and photos.</p>
 
-         <listBibl type="secondary">
-            <bibl>ARE 1898/80</bibl> <!--to be updated-->
+         <listBibl type="primary"> <!--to be validated in the EG-->
          	<bibl>
          		<ptr target="bib:SubrahmanyaAiyer1928_01"/>
          		<citedRange unit="item">365</citedRange>
@@ -120,6 +120,10 @@
   		<citedRange>340-341</citedRange>
   	</bibl>
          </listBibl>
+    		
+    		<listBibl type="secondary">
+    			<bibl>ARIE 1898/80</bibl> <!--to be updated-->
+    		</listBibl>
       </div>
     </body>
 </text>
