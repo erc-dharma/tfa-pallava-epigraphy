@@ -91,7 +91,7 @@
                <bibl>
                   <ptr target="bib:Mahalingam1988_01"/>
                   <citedRange unit="item">No</citedRange>
-                  <citedRange>pages</citedRange>
+                  <citedRange unit="page">pages</citedRange>
                </bibl>
             </listBibl>
                        

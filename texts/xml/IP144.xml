@@ -194,21 +194,21 @@
   			<bibl>
   				<ptr target="bib:GopinathaRao1911_01"/>
   				<citedRange unit="item">D</citedRange>
-  				<citedRange>111-113</citedRange>
+  				<citedRange unit="page">111-113</citedRange>
   			</bibl>
   			<bibl>
   				<ptr target="bib:Venkayya1912_01"/>
   				<citedRange unit="item">A</citedRange>
-  				<citedRange>224-225</citedRange>
+  				<citedRange unit="page">224-225</citedRange>
   			</bibl>
   			<bibl>
   				<ptr target="bib:Mahalingam1988_01"/>
   				<citedRange unit="item">144</citedRange>
-  				<citedRange>421-422</citedRange>
+  				<citedRange unit="page">421-422</citedRange>
   			</bibl>
   		</listBibl>
   		
-  		<listBibl type="secondary"><
+  		<listBibl type="secondary">
   			<bibl>ARE 1904/A/229 = ARE 1903/229</bibl> <!--to be updated-->
   		</listBibl>
             </div>

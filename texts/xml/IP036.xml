@@ -91,13 +91,13 @@
                	
                	<bibl>
                		<ptr target="bib:Hultzsch1895_01"/>
-               		<citedRange unit="page">340-341</citedRange>
                		<citedRange unit="item">72</citedRange>
+               		<citedRange unit="page">340-341</citedRange>
                	</bibl>
                	<bibl>
                		<ptr target="bib:Mahalingam1988_01"/>
-               		<citedRange unit="page">134</citedRange>
                		<citedRange unit="item">36</citedRange>
+               		<citedRange unit="page">134</citedRange>
                	</bibl>
                	</listBibl>
             	

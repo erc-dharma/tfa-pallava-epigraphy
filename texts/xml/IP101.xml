@@ -114,12 +114,12 @@
          	<bibl>
          		<ptr target="bib:SubrahmanyaAiyer1928_01"/>
          		<citedRange unit="item">365</citedRange>
-         		<citedRange>169</citedRange>
+         		<citedRange unit="page">169</citedRange>
          	</bibl>
          	<bibl>
   		<ptr target="bib:Mahalingam1988_01"/>
   		<citedRange unit="item">101</citedRange>
-  		<citedRange>340-341</citedRange>
+  		<citedRange unit="page">340-341</citedRange>
   	</bibl>
          </listBibl>
     		

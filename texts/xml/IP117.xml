@@ -89,7 +89,7 @@
             
             <app loc="15">
                        <lem>mēl</lem>
-                       <rdg source="bib:EI">mēla</rdg> <!--update source-->
+                       <rdg source="bib:Hultzsch1900-1901_01">mēla</rdg>
             </app>
             	
             </listApp>         
@@ -103,23 +103,23 @@
 			<p>This, the feet of he who protects it without destroying it are on my head.</p>
 			</div>
 			
-      	<div type="commentary"></div>
+      	<div type="commentary"/>
       	
       	<div type="bibliography">
             
             <p>
-               First edited in <bibl/> with facsimile and English translation. Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 117). This edition by Emmanuel Francis, based on autopsy and photographs (2019).
+               First edited in <bibl><ptr target="bib:Hultzsch1900-1901_01"/></bibl> with facsimile and English translation. Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 117). This edition by Emmanuel Francis, based on autopsy and photographs (2019).
             </p>
       		<listBibl type="primary"><!--primary to be validated-->
       			<bibl>
-      				<ptr target="bib:Hultzsch"/> <!--to be updated-->
-      				<citedRange unit="item">117</citedRange> <!--to be updated-->
-      				<citedRange>pages</citedRange> <!--to be updated-->
+      				<ptr target="bib:Hultzsch1900-1901_01"/>
+      				<citedRange unit="item">B</citedRange>
+      				<citedRange unit="page">320-322</citedRange>      				 
       			</bibl>
       			<bibl>
       				<ptr target="bib:Mahalingam1988_01"/>
       				<citedRange unit="item">117</citedRange>
-      				<citedRange>pages</citedRange>
+      				<citedRange unit="page">365-366</citedRange>     				
       			</bibl>
       		</listBibl>
       		

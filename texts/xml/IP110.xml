@@ -168,19 +168,19 @@
   			<bibl>
   				<ptr target="bib:GopinathaRao1911_01"/>
   				<citedRange unit="item">E</citedRange>
-  				<citedRange>113-114</citedRange>
+  				<citedRange unit="page">113-114</citedRange>
   			</bibl>
   			
   			<bibl>
   				<ptr target="bib:Venkayya1912_01"/>
   				<citedRange unit="item">B</citedRange>
-  				<citedRange>225-226</citedRange>
+  				<citedRange unit="page">225-226</citedRange>
   			</bibl>
   			
   			<bibl>
   				<ptr target="bib:Mahalingam1988_01"/>
   				<citedRange unit="item">110</citedRange>
-  				<citedRange>354-357</citedRange>
+  				<citedRange unit="page">354-357</citedRange>
   			</bibl>
   			
   		</listBibl>

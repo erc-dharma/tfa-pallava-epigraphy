@@ -125,12 +125,12 @@
                <bibl>
                   <ptr target="bib:Hultzsch1899_01"/>
                   <citedRange unit="item">5</citedRange>
-                  <citedRange>8-9</citedRange>
+                  <citedRange unit="page">8-9</citedRange>
                </bibl>
             	<bibl>
                   <ptr target="bib:Mahalingam1988_01"/>
                   <citedRange unit="item">215</citedRange>
-                  <citedRange>559</citedRange>
+                  <citedRange unit="page">559</citedRange>
                </bibl>
             </listBibl>
                        

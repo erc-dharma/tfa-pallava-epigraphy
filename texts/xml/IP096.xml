@@ -92,14 +92,14 @@
     			
     			<bibl>
     				<ptr target="bib:SubrahmanyaAiyer1928_01"/>
-	               		<citedRange unit="item">166</citedRange>
-	               		<citedRange>355</citedRange>
+	               		<citedRange unit="page">355</citedRange>
+    				<citedRange unit="item">166</citedRange>	               		
     			</bibl>
     			
     			<bibl>
 	               		<ptr target="bib:Mahalingam1988_01"/>
-	               		<citedRange unit="item">96</citedRange>
-	               		<citedRange>332</citedRange>
+	               		<citedRange unit="page">332</citedRange>
+    				<citedRange unit="item">96</citedRange>
     			</bibl>
     		</listBibl>
     		
