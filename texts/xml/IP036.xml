@@ -67,17 +67,9 @@
 
         	</div>
 
-          <div type="apparatus"> <!--to be deleted: no apparatus-->
-            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
-                <listApp> <!-- one <app> for each apparatus entry -->
-                   <app loc="line"> <!-- Update the value of @loc.-->
-                      <lem> <!-- fill in a lemma here --></lem>
-                      <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
-                   </app>
-                </listApp> 
-          </div>
+          <div type="apparatus"/>
 
-            <div type="translation" xml:lang="eng"> <!--add @resp-->
+            <div type="translation" xml:lang="eng" source="bib:Hultzsch1895_01">
             	<p>Kandaṣêṉaṉ (Skandasêna), the son of Vayandappiriareśaru (Vasantapriyarâja), the servant of Pagâppiḍugu Laḷidâṅguraṉ (Lalitâṅkura) Śatturummallaṉ (Śatrumalla) Kuṇabaraṉ (Guṇabhara) Mayêndirappôttareśaru (Mahêndrapôtarâja), caused (this) temple (dêvakula) to be made.</p>
             </div>
 
@@ -93,16 +85,24 @@
 
             <div type="bibliography">
             	
-            	<p>First edited in <bibl/> with facsimile and English translation. Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 36). The present edition by Emmanuel Francis based on autopsy.</p><!--update 1st <bibl>-->
+            	<p>First edited in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2, no. 72) with facsimile and English translation. Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 36). The present edition by Emmanuel Francis based on autopsy.</p>
             	
-            	<listBibl type="secondary">
-               	<bibl>ARIE 1892.185</bibl> <!--to be updated-->
-               	<bibl>SII 2.72 (with FS)</bibl> <!--to be updated-->
+            	<listBibl type="primary"> <!--to be validated in EG-->
+               	
+               	<bibl>
+               		<ptr target="bib:Hultzsch1895_01"/>
+               		<citedRange unit="page">340-341</citedRange>
+               		<citedRange unit="item">72</citedRange>
+               	</bibl>
                	<bibl>
                		<ptr target="bib:Mahalingam1988_01"/>
                		<citedRange unit="page">134</citedRange>
                		<citedRange unit="item">36</citedRange>
                	</bibl>
+               	</listBibl>
+            	
+            	<listBibl type="secondary">
+               	<bibl>ARIE 1892.185</bibl> <!--to be updated-->
                	<bibl>
                		<ptr target="bib:Srinivasan1964_01"/>
                		<citedRange>61-64</citedRange>

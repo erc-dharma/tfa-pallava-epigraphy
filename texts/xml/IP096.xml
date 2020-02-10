@@ -41,17 +41,23 @@
 		</fileDesc>
 		<revisionDesc>
 			<change who="part:axja" when="2020-01-08">Update the template</change>
-			<change who="part:emfr" when="2019-11-15">Creation of the file on the repository</change>
+			<change who="part:emfr" when="2019-11-15">Creation of the file on the
+				repository</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
     <body>
         	<div type="edition" xml:lang="tam-Latn">
+
         		<p><lb n="1"/><hi rend="grantha">svasti śrī</hi></p>
-        		<p>tiruppulivalattu <hi rend="grantha">mahāde</hi>varkku malliyaṉ kārāṇai nālu paṭṭi nilam oru tiraḷ-ē-y a<hi rend="grantha">rcca</hi>nā-<hi rend="grantha">bhoga</hi>m-āka vaittōm ut=ta<hi rend="grantha">ra<lb n="2" break="no"/>meruca</hi>tu<hi rend="grantha">rvvedi</hi>maṅkalattu <hi rend="grantha">sabhai</hi>yōm</p> <!--question: can <lb> be in <hi rend="grantha">???-->
+        		
+        		<p>tiruppulivalattu <hi rend="grantha">mahāde</hi>varkku malliyaṉ kārāṇai nālu paṭṭi nilam oru tiraḷ-ē-y a<hi rend="grantha">rcca</hi>nā-<hi rend="grantha">bhoga</hi>m-āka vaittōm ut=ta<hi rend="grantha">ra<lb n="2" break="no"/>meruca</hi>tu<hi rend="grantha">rvvedi</hi>maṅkalattu <hi rend="grantha">sabhai</hi>yōm</p>
+
+<!--question: can <lb> be in <hi rend="grantha">???-->
+        		
         		<p>itu <hi rend="grantha">pārā</hi>yaṇa<hi rend="grantha">mārgga</hi>m vē<hi rend="grantha">da</hi>m vallaṉ āy <hi rend="grantha">ukta</hi>ṉ-ākiya <hi rend="grantha">brāhma</hi>ṇaṉ brahmācāri-y-ē-y mūṉṟu poḻutu<lb n="3" break="no"/><unclear>m</unclear><!--check on stone--> <hi rend="grantha">ārādhi</hi>tt' uṇpat’ ākavum</p>
-        		<p>ipparicu pukkār pukkārkku mūṉṟu yāṇṭ’ ava<hi rend="grantha">dhi</hi>-y-āka vaittōm <persName>va<hi rend="grantha">stu</hi>vi<hi rend="grantha">dyām</hi>ayaṉ</persName> eḻuttu
-                </p>
+        		
+        		<p>ipparicu pukkār pukkārkku mūṉṟu yāṇṭ’ ava<hi rend="grantha">dhi</hi>-y-āka vaittōm <persName>va<hi rend="grantha">stu</hi>vi<hi rend="grantha">dyām</hi>ayaṉ</persName> eḻuttu</p>
         	 </div>
 
            <div type="apparatus">
@@ -64,8 +70,8 @@
            	                     	
            </div>
 
-            <div type="translation">
-            	<!--check EG, end of §9.2 about "add words of the original"-->
+            <div type="translation" xml:lang="eng" resp="part:emfr">
+            	<!--check EG, end of §9.2 about "add words of the original"--> <!--check italicisation-->
             	<p>Properity! Fortune!</p>
             	<p>We the members of the <hi rend="italic">sabhā</hi> of Uttaramērucaturvedimaṅkalam, we have allotted (<hi rend="italic">vaittōm</hi>) one land of four <hi rend="italic">paṭṭi</hi> (from/at) Malliyaṉ, as a single plot (<hi rend="italic">tiraḷ-ē</hi>), as <hi rend="italic">arcanābhoga</hi>, to the great god of Tiruppulivanam.</p>
             	<p>This should be for feeding (<hi rend="italic">uṇpatu</hi>) a Brahmin, who is reputed as (<hi rend="italic">uktaṉ-ākiya</hi>) skilled in the Vedas and the proper way of its recitation and who is a<hi rend="italic">brahmācārin</hi>, for making worship (<hi rend="italic">ārādhittu</hi>) three times (a day).</p>
@@ -80,16 +86,25 @@
 
     	<div type="bibliography">
     		
-    		<p>First edited in <bibl/>. Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 96). The present edition by Emmanuel Francis based on autopsy.</p><!--update 1st <bibl>-->
+    		<p>First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 355). Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 96). The present edition by Emmanuel Francis based on autopsy.</p>
     		
-    		<listBibl type="secondary">
-    			<bibl>ARIE 1898.1</bibl> <!--to be updated-->
-    			<bibl>SII 6.355</bibl> <!--to be updated-->
+    		<listBibl type="primary"> <!--to be validated in EG-->
+    			
+    			<bibl>
+    				<ptr target="bib:SubrahmanyaAiyer1928_01"/>
+	               		<citedRange unit="item">166</citedRange>
+	               		<citedRange>355</citedRange>
+    			</bibl>
+    			
     			<bibl>
 	               		<ptr target="bib:Mahalingam1988_01"/>
 	               		<citedRange unit="item">96</citedRange>
 	               		<citedRange>332</citedRange>
     			</bibl>
+    		</listBibl>
+    		
+    		<listBibl type="secondary">
+    			<bibl>ARIE 1898.1</bibl> <!--to be updated-->
     		</listBibl>
             </div>
         </body>
