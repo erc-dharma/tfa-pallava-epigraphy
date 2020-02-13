@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	
+	<teiHeader xml:lang="eng">
+		
+		<fileDesc>
+			<titleStmt>
+				<title>Tirunāmanallūr / Tirunāvalūr biruda on string wall</title>
+				<!--italics-->
+				<respStmt>
+					<resp>creation of file</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from the European Research
+						Council (ERC) under the European Union's Horizon 2020 research and
+						innovation programme (grant agreement no 809994).</note>
+				</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">tfaPallava000</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			
+			<sourceDesc>
+				<p><!-- not to be filled in at this stage --></p>
+			</sourceDesc>
+		
+		</fileDesc>
+		
+		<revisionDesc>
+			<change who="part:emfr" when="2020-02-13" status="draft">Creation of the file</change>
+			<change who="part:axja" when="2019-12-18" status="draft">Creation of the
+				template</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+		
+<body>
+                  
+         <div type="edition" xml:lang="tam-Latn">
+         	<p>
+         		<lb n="1"/>
+         		śrīkalinārai
+         		<!--Grantha-->
+            </p>
+         </div>
+                  
+         <div type="apparatus"/>
+      	
+      	<div type="translation" xml:lang="eng" resp="part:emfr">
+	
+      	<p>
+		La Grue de l'âge de fer
+		OU
+		La Grue de l'âge Kali
+	</p>
+      	
+      	</div>
+	
+	<div type="translation" xml:lang="fre" resp="part:emfr">
+	
+	<p>
+		La Grue de l'âge de fer
+		OU
+		La Grue de l'âge Kali
+	</p>
+	
+	</div>
+	<div type="commentary"/>
+      	<div type="bibliography">
+            
+            <p>
+               First edited in <bibl/> with facsimile and English translation. Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 263). This edition (2020) by Emmanuel Francis, based on autopsy and photographs (2008).
+            </p>
+            
+            <listBibl type="primary"><!--primary to be validated-->
+               <bibl>
+                  <ptr target="bib:Mahalingam1988_01"/>
+                  <citedRange unit="item">263</citedRange>
+                  <citedRange unit="page">pages</citedRange>
+               </bibl>
+            </listBibl>
+                       
+            <listBibl type="secondary">
+              <bibl>ARE 1902/B/376
+              	<!--TBU-->
+              <note>: “On a sculptured stone recently inserted into the west wall ofhe prākāra of the Bhaktajanēśvara temple at Tirunāmanallūr. Consists of the word Śrī-Kalinārai, which according to No. 365 formed part of the name of a shrine which has been recently demolished by the villagers.”</note>
+              </bibl>
+            	
+            	<bibl>Francis et al.
+              	<!--TBU-->
+            	</bibl>
+            	
+            	<bibl/>
+            	
+           </listBibl>
+        
+         </div>
+         
+      </body>
+  </text>
+</TEI>
+
+<!--
+Tirukkōyilūr Tk, South Arcot Dt.
+ARE 1902/B/365 mentions the Kalinārīśvara.
+Manippiravalam lato sensu.
+Grantha.
+IP 263 (Ta, PG ; Tirunāmanallūr) : śrī kalinārai (« la grue / le héron de l’âge kali » ?) attribué à un roi Pallava par T. V. Mahalingam, probablement sur base de la seule paléographie PG.
+-->
