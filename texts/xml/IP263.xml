@@ -2,9 +2,9 @@
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	
+
 	<teiHeader xml:lang="eng">
-		
+
 		<fileDesc>
 			<titleStmt>
 				<title>Tirunāmanallūr / Tirunāvalūr biruda on string wall</title>
@@ -43,13 +43,13 @@
 				</availability>
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
-			
+
 			<sourceDesc>
 				<p><!-- not to be filled in at this stage --></p>
 			</sourceDesc>
-		
+
 		</fileDesc>
-		
+
 		<revisionDesc>
 			<change who="part:emfr" when="2020-02-13" status="draft">Creation of the file</change>
 			<change who="part:axja" when="2019-12-18" status="draft">Creation of the
@@ -60,62 +60,52 @@
 		
 <body>
                   
-         <div type="edition" xml:lang="tam-Latn">
+<div type="edition" xml:lang="tam-Latn">
          	<p>
          		<lb n="1"/>
          		śrīkalinārai
          		<!--Grantha-->
             </p>
-         </div>
+</div>
                   
-         <div type="apparatus"/>
+<div type="apparatus"/>
       	
-      	<div type="translation" xml:lang="eng" resp="part:emfr">
+<div type="translation" xml:lang="eng" resp="part:emfr">
+	<p>The crane of the Kali age</p>
+</div>
 	
-      	<p>
-		La Grue de l'âge de fer
-		OU
-		La Grue de l'âge Kali
-	</p>
-      	
-      	</div>
-	
-	<div type="translation" xml:lang="fre" resp="part:emfr">
-	
-	<p>
-		La Grue de l'âge de fer
-		OU
-		La Grue de l'âge Kali
-	</p>
-	
-	</div>
-	<div type="commentary"/>
-      	<div type="bibliography">
+<div type="translation" xml:lang="fre" resp="part:emfr">
+	<p>La Grue de l'âge Kali</p>
+</div>
+
+<div type="commentary"/>
+
+<div type="bibliography">
             
             <p>
-               First edited in <bibl/> with facsimile and English translation. Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 263). This edition (2020) by Emmanuel Francis, based on autopsy and photographs (2008).
+First edited in <bibl/> with facsimile and English translation. <!--TBU-->
+Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 263).
+This edition (2020) by Emmanuel Francis, based on autopsy and photographs (2008).
             </p>
             
             <listBibl type="primary"><!--primary to be validated-->
-               <bibl>
-                  <ptr target="bib:Mahalingam1988_01"/>
-                  <citedRange unit="item">263</citedRange>
-                  <citedRange unit="page">pages</citedRange>
-               </bibl>
+            	<bibl>
+            		<ptr target="bib:Mahalingam1988_01"/>
+            		<citedRange unit="item">263</citedRange>
+            		<citedRange unit="page">pages</citedRange>
+            	</bibl>
             </listBibl>
                        
             <listBibl type="secondary">
-              <bibl>ARE 1902/B/376
-              	<!--TBU-->
-              <note>: “On a sculptured stone recently inserted into the west wall ofhe prākāra of the Bhaktajanēśvara temple at Tirunāmanallūr. Consists of the word Śrī-Kalinārai, which according to No. 365 formed part of the name of a shrine which has been recently demolished by the villagers.”</note>
+              <bibl>ARE 1902/B/376<!--TBU-->
+              <note>: “On a sculptured stone recently inserted into the west wall ofhe prākāra of the Bhaktajanēśvara temple at Tirunāmanallūr. Consists of the word Śrī-Kalinārai, which according to No. 365 formed part of the name of a shrine which has been recently demolished by the villagers.”</note> <!--Where to put this?-->
               </bibl>
             	
-            	<bibl>Francis et al.
-              	<!--TBU-->
+            	<bibl>
+            		<ptr target="bib:Francis et al.Francis+al2007_01"/>
+            		<citedRange unit="page">304-306</citedRange>
             	</bibl>
-            	
-            	<bibl/>
-            	
+            	            	
            </listBibl>
         
          </div>

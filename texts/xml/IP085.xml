@@ -5,8 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Encoding template for inscription of the pallava corpus, approx. 500
-					inscriptions</title>
+				<title>Vilāppākkam rock inscription, sculpture donation of the time of Dantivarman, year 50</title>
 				<respStmt>
 					<resp>creation of file</resp>
 					<persName ref="part:emfr">
@@ -77,12 +76,12 @@
          
          </div>
          
-         <div type="translation" xml:lang="eng" source="part:Venkayya"><!--TBU-->
+         <div type="translation" xml:lang="eng" source="part:Venkayya1896-1897_01">
          	<p>
 In the fiftieth (year) of Nandippôttaraśar,― Nâraṇaṉ (Nârâyaṇa), the son of Maruttuvar [fn4] of Pugaḻālaimaṅgalam, caused to be engraved an image of Poṉṉiyakkiyār, along with [fn5] the preceptor (gurava) [fn6] Nâgaṇandi (Nâganandin).
-[fn4] The word maruttuvaṉ  means ‘a physician.’ In the present case it seems to be the proper name of a person.
-[fn5] Literally: “while there is present.”
-[fn6] On this word, which appears to be derived fro the honorific plural of guru, see south-Indian Inscriptions, Vol. II. p. 251, note 3.
+
+[fn4] The word maruttuvaṉ  means ‘a physician.’ In the present case it seems to be the proper name of a person.[fn5] Literally: “while there is present.”[fn6] On this word, which appears to be derived fro the honorific plural of guru, see south-Indian Inscriptions, Vol. II. p. 251, note 3.
+<!--How to encode notes to the translation?-->
          	</p>
          </div>
          
@@ -93,22 +92,27 @@ In the fiftieth (year) of Nandippôttaraśar,― Nâraṇaṉ (Nârâyaṇa), th
          <div type="bibliography">
             
             <p>
-First edited in <bibl/> (EI 4, no. 14) with facsimile and English translation. Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 85). This edition by Emmanuel Francis, based on the facsimile published in <bibl/> (EI 4, no. 14).
+First edited in <bibl><ptr target="bib:Venkayya1896-1897_01"/></bibl> (EI 4, no. 14) with facsimile and English translation.
+Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 85).
+This edition by Emmanuel Francis, based on the facsimile published in <bibl><ptr target="bib:Venkayya1896-1897_01"/></bibl> (EI 4, no. 14).
             </p>
             
             <listBibl type="primary"><!--primary to be validated-->
-               <bibl>
-                  <ptr target="bib:Mahalingam1988_01"/>
-                  <citedRange unit="item">85</citedRange>
-                  <citedRange unit="page">pages</citedRange>
-               </bibl>
             	<bibl>
-            		V. Venkayya = EI 4.14A, p. 136-137 (ed., trad., FS après p. 142).
+            		<ptr target="bib:Mahalingam1988_01"/>
+            		<citedRange unit="item">85</citedRange>
+            		<citedRange unit="page">pages</citedRange>
             	</bibl>
+            	<bibl>
+            		<ptr target="bib:Venkayya1896-1897_01"/>
+            		<citedRange unit="item">A</citedRange>
+            		<citedRange unit="page">136-137</citedRange>
+            	</bibl>
+            	
             </listBibl>
                        
             <listBibl type="secondary">
-              <bibl>ARE 1893/26</bibl> <!--TBU-->
+              <bibl>ARE 1895/10</bibl> <!--TBU-->
             	<bibl/>
            </listBibl>
         
