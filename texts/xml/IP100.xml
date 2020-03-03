@@ -56,7 +56,7 @@
                  
          <div type="edition" xml:lang="tam-Latn">
             <p>
-            	<lb n="1"/><hi rend="grantha"></hi> kō-vicaya-tantivik=kiramaparumaṟk=ku yāṇṭ’ āṟāvatu ciṅkapuranāṭṭuk= kīḻvaḻi
+            	<lb n="1"/><hi rend="grantha"/> kō-vicaya-tantivik=kiramaparumaṟk=ku yāṇṭ’ āṟāvatu ciṅkapuranāṭṭuk= kīḻvaḻi
             	
             	<lb n="2"/>Aruvākūrōṅ kai-y eḻuttu viṇṇakōvaraiyar ēṟṟuk=kuṉṟaṉār <hi rend="grantha"><unclear>bha</unclear></hi>ṭṭārik=ku-p pati
             	
@@ -70,7 +70,7 @@
             	
             	<lb n="5" break="no"/>ṉāḻi Arici tēcikappāṭu
             	<gap reason="lost" unit="character" quantity="4"/> 
-            	m āṉōm aruvākūrōm Ipparic’ ūraik=koṇṭ’ iyaṟṟu-vataṟk=ku
+            	m āṉōm aruvākūrōm Ipparic’ ūraik= koṇṭ’ iyaṟṟu-vataṟk=ku
             	
             	<lb n="6"/>vārikappaṭṭōm <hi rend="grantha">kāśya</hi>paru<unclear>m</unclear>
             	<gap reason="lost" unit="character" quantity="3"/>
@@ -91,11 +91,11 @@
 		
 		<app loc="1">
 			<lem><hi rend="grantha"><unclear>bha</unclear></hi>ṭṭārik=ku-p</lem>
-			<note>The reading <unclear>pa</unclear>ṭṭārik=ku-p is also possible.</note>
+			<note>The reading <foreign><unclear>pa</unclear>ṭṭārik=ku-p</foreign> is also possible.</note>
 		</app>
 		
 		<app loc="5">
-			<lem>ūraik=koṇṭ’</lem>
+			<lem>ūraik= koṇṭ’</lem>
 			<rdg source="bib:VenkatasubbaAyyar_1943_01">ūraikekāṇṭ'</rdg>
 			<rdg source="bib:Mahalingam1988_01">ūraik koṇṭ’</rdg>
 			<note>We follow here the suggestion of Mahalingam.</note>
@@ -114,8 +114,8 @@
 		<app loc="6">
 			<lem>iyaṟṟuvār-āka</lem>
 			<rdg source="bib:VenkatasubbaAyyar_1943_01">iyaṟṟuv<unclear>ā</unclear>r-āka</rdg>
-			<note>The ā in vā is celar on the stone.</note>
-			<!--add italics-->
+			<note>The <foreign>ā</foreign> in <foreign>vā</foreign> is clear on the stone.</note>
+			<!-- italics OK with foreign?-->
 		</app>
 				
 	</listApp>         

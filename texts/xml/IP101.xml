@@ -55,10 +55,10 @@
 	<lb n="3" break="no"/><hi rend="grantha">turvvedisoma</hi>yā<hi rend="grantha">ji</hi>yārkku Ēri toṇ<unclear>·</unclear>ṭavuṅ· karai-y aṭ·ṭavum viṟ·ṟuk kuṭut·tōm Itaṉuk·ku poruṭ·c<orig>i</orig>la
 	<lb n="4" break="no"/>vum aṟakkoṇ·ṭōm· <hi rend="grantha">sabhai</hi>-y-ōṭ·ṭai <hi rend="grantha">sāmānya</hi>m al·lātatu vilaikku koṇ·ṭō<unclear>m e</unclear>
 	<lb n="5" break="no"/>ṉ·ṟu tāmum· <hi rend="grantha">sa</hi>n=tatiyum· vi<hi rend="grantha">śe<unclear>ṣa</unclear>m</hi> <hi rend="grantha">anubha</hi>vik·ka perāt<unclear>ā</unclear>rāṉār <hi rend="grantha">svāmi</hi>kumārakuṭṭam-ākiya <hi rend="grantha">dha</hi>
-	<lb n="6" break="no"/><hi rend="grantha">rmma</hi>ttiṉai <unclear>ra</unclear><hi rend="grantha">kṣi</hi>ttār <hi rend="grantha">pāda</hi>ṅkaḷ Eṉ ṟalai melaṉa <!--blank space, 2 letters here--> <hi rend="grantha">parameśvarasya</hi> <hi rend="grantha">lekh<unclear>ā</unclear></hi>
-<!-- Check if hi rend="grantha" is to be split at <lb> or between two contiguous words in grantha -->
-<!-- <unclear> To be split at words boundary? -->
+	<lb n="6" break="no"/><hi rend="grantha">rmma</hi>ttiṉai <unclear>ra</unclear><hi rend="grantha">kṣi</hi>ttār <hi rend="grantha">pāda</hi>ṅkaḷ Eṉ ṟalai melaṉa <!--blank space extent 2 letters to be added here--> <hi rend="grantha">parameśvarasya</hi> <hi rend="grantha">lekh<unclear>ā</unclear></hi>
+
 <!-- Check the unclear on the stone -->
+       		
        	</p>
        </div>
        
@@ -67,20 +67,20 @@
     			
     			<app loc="3">
     				<lem>cilavum</lem>
-    				<note>Read <hi rend="italic">celavum</hi>.</note>
+    				<note>Read <foreign>celavum</foreign>.</note>
   			</app>
     			
     			<app loc="4">
     				<lem>koṇ·ṭō<unclear>m e</unclear></lem>
-    				<note>At the end of the line, after a blank space, one reads <hi rend="italic">lluṭai</hi>, which is most probably part of another inscription</note> <!--Check reading lluṭai and confirm that it belongs to another inscription-->
-  			</app>
+    				<note>At the end of the line, after a blank space, one reads <foreign>lluṭai</foreign>, which is most probably part of another inscription</note> <!--Check reading lluṭai and confirm that it belongs to another inscription-->
+    			</app>
     			
     			<app loc="5">
   				<lem><hi rend="grantha">dha</hi><lb n="6" break="no"/><hi rend="grantha">rmma</hi>ttiṉai</lem>
     				<!--Keep <lb> or not?-->
   				<rdg source="bib:SubrahmanyaAiyer1928_01"><hi rend="grantha"><unclear>dha</unclear></hi><lb n="6" break="no"/><hi rend="grantha">rmma</hi>ttiṉai</rdg>
     				<!--Keep <lb> or not?-->
-    				<note>The letter <hi rend="italic">dha</hi> (not closed on top), is clear.</note>
+    				<note>The letter <foreign>dha</foreign> (not closed on top), is clear.</note>
   			</app>
              </listApp>
        </div>
@@ -89,20 +89,18 @@
 
 <p>Prosperity! Fortune!</p>
 <p>Seventh year of Dantivarman.</p>
-<p>Signature of the members of the peruṅ-kuṟi-sabhā.</p>
-<p>We have given them after selling them (viṟ·ṟuk kuṭut·tōm) five pāṭakams that we have allotted so that they be for a tank south of the eastern division of Parameśvaravati, to Svāmikumāracaturvvedisomayājiyār of Muṭumpai, so that he digs the tank and raises its bunds.</p>
-<p>To/For this (itaṉukku) we have received in full (aṟakkoṇṭōm) the price (poruṭcilavu, literally “the expenses for the object”).</p>
-<p>Having said that (eṉṟu) we have got (koṇṭōm) for the price (vilaikku) nothing different (allātatu) from what is common (sāmānyam) with the sabhā (sabhai-y-ōṭṭai).</p>
-<p>They are not those who obtain (perātārāṉār) to enjoy (anubhavikka) (this) especially (viśeṣam) themselves (tāmum) and their lineage (santati).</p>
-<p>The feet of those who protect this dharma which is (named) Svāmikumārakuṭṭam are on our heads.</p>
+<p>Signature of the members of the <foreign>peruṅ-kuṟi-sabhā</foreign>.</p>
+<p>We have given them after selling them <supplied reason="explanation"><foreign>viṟ·ṟuk kuṭut·tōm</foreign></supplied> five <foreign>pāṭakam</foreign>s that we have allotted so that they be for a tank south of the eastern division of Parameśvaravati, to Svāmikumāracaturvvedisomayājiyār of Muṭumpai, so that he digs the tank and raises its bunds.</p>
+<p>To/For this <supplied reason="explanation"><foreign>itaṉukku</foreign></supplied> we have received in full <supplied reason="explanation"><foreign>aṟakkoṇṭōm</foreign></supplied> the price <supplied reason="explanation"><foreign>poruṭcilavu</foreign>, literally “the expenses for the object”</supplied>.</p>
+<p>Having said that <supplied reason="explanation">eṉṟu</supplied> we have got <supplied reason="explanation">koṇṭōm</supplied> for the price <supplied reason="explanation"><foreign>vilaikku</foreign></supplied> nothing different <supplied reason="explanation"><foreign>allātatu</foreign></supplied> from what is common <supplied reason="explanation"><foreign>sāmānyam</foreign></supplied> with the assembly <supplied reason="explanation"><foreign>sabhai-y-ōṭṭai</foreign></supplied>.</p>
+<p>They are not those who obtain <supplied reason="explanation"><foreign>perātārāṉār</foreign></supplied> to enjoy <supplied reason="explanation"><foreign>anubhavikka</foreign></supplied> <supplied reason="subaudible">this</supplied> especially <supplied reason="explanation"><foreign>viśeṣam</foreign></supplied> themselves <supplied reason="explanation"><foreign>tāmum</foreign></supplied> and their lineage <supplied reason="explanation"><foreign>santati</foreign></supplied>.</p>
+<p>The feet of those who protect this dharma which is <supplied reason="subaudible">named</supplied> Svāmikumārakuṭṭam are on our heads.</p>
 <p>Writing of Parameśvara.</p>
-<!--Italicise words quoted from the original-->
 
        </div>
        <div type="commentary">
           <p>
-          	We translate <hi rend="italic">eḻuttu</hi> differently in its two occurrences, as it designate the "signature" or the "writ" of the <hi rend="italic">sabhā</hi> (line 1), but also the "writing", "engraving"or "text composed by" Parameśvara, the "scribe" (line 6).
-          	<!--italicisation: to be checked-->
+          	We translate <foreign>eḻuttu</foreign> differently in its two occurrences, as it designate the "signature" or the "writ" of the assembly (<foreign>sabhā</foreign>, line 1), but also the "writing", "engraving"or "text composed by" Parameśvara, the "scribe" (line 6).
           </p> 
        </div>
       

@@ -77,20 +77,20 @@
             
             <listApp>
             
-            <app loc="7">
-                  <lem>perumpālai<lb n="8"/>Ūrt</lem>
-                  <note>Compare with <q>tiruppālai-y-ūr</q>, line 8.</note>
-               </app>
+            	<app loc="7">
+            		<lem>perumpālai<lb n="8"/>Ūrt</lem>
+            		<note>Compare with <foreign>tiruppālai-y-ūr</foreign>, line 8.</note>
+            	</app>
             	
-            <app loc="14">
-               <lem>aḻi Āmai</lem>
-               <note>Here again, there is no <q>sandhi</q>. A more frequent, but probably later, form is <q>aḻi-y-āmai</q>.</note>
-               </app>
+            	<app loc="14">
+            		<lem>aḻi Āmai</lem>
+            		<note>Here again, there is no <foreign>sandhi</foreign>. A more frequent, but probably later, form is <foreign>aḻi-y-āmai</foreign>.</note>
+            	</app>
             
-            <app loc="15">
-                       <lem>mēl</lem>
-                       <rdg source="bib:Hultzsch1900-1901_01">mēla</rdg>
-            </app>
+            	<app loc="15">
+            		<lem>mēl</lem>
+            		<rdg source="bib:Hultzsch1900-1901_01">mēla</rdg>
+            	</app>
             	
             </listApp>         
          
@@ -99,8 +99,11 @@
          <div type="translation" xml:lang="eng" resp="part:emfr">
 	
          	<p>Prosperity! Fortune!</p>
-	<p>Third year of the victorious king Nandivarman (kō-vicaiya-nantivikkiramaparumaṉ).</p>
-	<p>Aṭavi, the lord (kiḻavaṉ) of Tiruppālaiyūr in Perumpālaiyūr in the district (kōṭṭam) of Ūṟṟukkāṭu, after having made request to the glorious king of the Gaṅgas, the mukhamaṇḍapa that Aṭavi made for his own mother Naṅkaṉi Naṅkaiyār.</p>
+         	
+	<p>Third year of the victorious king Nandivarman <supplied reason="explanation"><foreign>kō-vicaiya-nantivikkiramaparumaṉ</foreign></supplied>.</p>
+         	
+	<p>Aṭavi, the lord <supplied reason="explanation"><foreign>kiḻavaṉ</foreign></supplied> of Tiruppālaiyūr in Perumpālaiyūr in the district <supplied reason="explanation"><foreign>kōṭṭam</foreign></supplied> of Ūṟṟukkāṭu, after having made request to the glorious king of the Gaṅgas, the <foreign>mukhamaṇḍapa</foreign> that Aṭavi made for his own mother Naṅkaṉi Naṅkaiyār.</p>
+         	
 	<p>This, the feet of he who protects it without destroying it are on my head.</p>
         
          </div>
@@ -110,7 +113,9 @@
       	<div type="bibliography">
             
             <p>
-               First edited in <bibl><ptr target="bib:Hultzsch1900-1901_01"/></bibl> with facsimile and English translation. Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 117). This edition by Emmanuel Francis, based on autopsy and photographs (2019).
+First edited in <bibl><ptr target="bib:Hultzsch1900-1901_01"/></bibl> with facsimile and English translation.
+Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 117).
+This edition by Emmanuel Francis, based on autopsy and photographs (2019).
             </p>
       		<listBibl type="primary"><!--primary to be validated-->
       			<bibl>

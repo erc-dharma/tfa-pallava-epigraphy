@@ -28,7 +28,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava000</idno>
+				<idno type="filename">tfaPallava215</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -56,9 +56,9 @@
 		
 		<div type="edition" xml:lang="tam-Latn">
 <p>
-<lb n="1"/><hi>svasti śrī</hi> kampava<hi><unclear>r</unclear>mma</hi>ṟku yāṇṭu patin<orig>ā</orig>ñcāvatu Uṭkar <hi>sabhai</hi>yōm Eḻuttuc caṭaiyaṉ pakkal āyira-k-kāṭi nel koṇ
-<lb n="2" break="no"/>ṭōm Ivv-āyira-k-kāṭi nellālum palicai Aynnūṟṟukkāṭi nel āṭṭāṇṭu tōṟum ērikk’ aṭṭi Ikuttuvippōm āṉōm <hi>sabhai</hi>
-<lb n="3" break="no"/>yōm Ii<unclear>t’</unclear> <unclear>a</unclear>ṉṟ’ eṉṟār kaṅkai Iṭaik= kumari Iṭai ceytār ceyta pāvam paṭuvar āka-p paṇittōm <hi>sam<unclear>•</unclear>batsa</hi>ravāriyapperumakkaḷē Aṭṭuvik=ka kaṭavār <unclear>|</unclear>
+<lb n="1"/><hi rend="grantha">svasti śrī</hi> kampava<hi rend="grantha"><unclear>r</unclear>mma</hi>ṟku yāṇṭu patin<orig>ā</orig>ñcāvatu Uṭkar <hi rend="grantha">sabhai</hi>yōm Eḻuttuc caṭaiyaṉ pakkal āyira-k-kāṭi nel koṇ
+<lb n="2" break="no"/>ṭōm Ivv-āyira-k-kāṭi nellālum palicai Aynnūṟṟukkāṭi nel āṭṭāṇṭu tōṟum ērikk’ aṭṭi Ikuttuvippōm āṉōm <hi rend="grantha">sabhai</hi>
+<lb n="3" break="no"/>yōm Ii<unclear>t’</unclear> <unclear>a</unclear>ṉṟ’ eṉṟār kaṅkai Iṭaik= kumari Iṭai ceytār ceyta pāvam paṭuvar āka-p paṇittōm <hi rend="grantha">sam<unclear>·</unclear>batsa</hi>ravāriyapperumakkaḷē Aṭṭuvik=ka kaṭavār <unclear>|</unclear>
 </p>
 		</div>  
          
@@ -68,44 +68,54 @@
             	
             	<app loc="1">
             		<lem>patināñcāvatu</lem>
-            		<note> Read patinaiñcāvatu</note>
+            		<note> Read <foreign>patinaiñcāvatu</foreign></note>
             	</app>
             	
             	<app loc="2">
             		<lem>palicai</lem>
-            		<note><bibl><ptr target="bib:Hultzsch1899_01"/></bibl> notes: “palicai is another form of policai; see the Index to vol. I. s.v. paliśai, and Dr. Gundert’s Malayâḷam Dictionary, s.v. paliśa.”</note> <!--to be updated: italics-->
+            		<note><bibl><ptr target="bib:Hultzsch1899_01"/></bibl> notes: “palicai is another form of policai; see the Index to vol. I. s.v. paliśai, and Dr. Gundert’s Malayâḷam Dictionary, s.v. paliśa.”</note> <!--to be updated: italics from the original-->
             	</app>
             	
             	<app loc="2">
             		<lem>āṉōm</lem>
-            		<note>In ṉō, the kāl is marked twice, as a kāl proper and as a curl added to ṉ.</note> <!--to be updated: italics-->
+            		<note>In <foreign>ṉō</foreign>, the <foreign>kāl</foreign> is marked twice, as a <foreign>kāl</foreign> proper and as a curl added to <foreign>ṉ</foreign>.</note>
             	</app>
             	
             	<app loc="3">
-            		<lem><hi>sam<unclear>•</unclear>batsa</hi>ra</lem>
-            		<note>Read <hi>samvatsara</hi></note> <!--to be updated: italics-->
+            		<lem><hi rend="grantha">sam<unclear>·</unclear>batsa</hi>ra</lem>
+            		<note>Read <foreign>samvatsara</foreign></note>
             	</app>
             	
             	<app loc="3">
             		<lem>kaṭavār <unclear>|</unclear></lem>
-            		<note>It seems that the final r is followed by a short daṇḍa</note> <!--to be updated: italics-->
+            		<note>It seems that the final <foreign>r</foreign> is followed by a short <foreign>daṇḍa</foreign></note>
+            		
             	</app>
             
             </listApp>         
          
          </div>
          
-         <div type="translation" xml:lang="eng" resp="part:emfr"> <!--to be updated: italics-->
+<div type="translation" xml:lang="eng" resp="part:emfr">
 
 <p>Prosperity! Fortune!</p>
-<p>Fifteenth year of Kampavarman (<hi>kampava[r]mmaṉ</hi>)</p>
-<p>Writings (i.e. writ) of We the members of the sabhā of Uṭkar.</p>
-<p>We have got (i.e. received) one thousand kāṭi from Caṭaiyaṉ.</p>
-<p>Having endowed/supplied (aṭṭi) for the tank the interest of five hundred kāṭi every year (which comes) through the paddy of these one thousand kāṭi, We, the members of the sabhā are those who will close (it, i.e. the sluice of the tank).</p>
-<p>Those who say it is not so, let them undergo the sin done by those who do (ceytār) (sin) between the Ganges and Kumari (i.e. Kaṉṉiyākumari).</p>
-<p>(So) have we ordered/declared (paṇittōm).</p>
-<p>The great men of the committee for the year are due to/should/have the duty of (kaṭavār) having it (the five hundred kāṭi) flowing/being supplied/endowed.</p>
-         </div>
+         	
+<p>Fifteenth year of Kampavarman <supplied reason="explanation"><foreign>kampava<unclear>r</unclear>mmaṉ</foreign></supplied></p>
+         	<!--Ok for keeping <unclear>r</unclear>?-->
+         	
+<p>Writings <supplied reason="explanation">i.e. writ</supplied> of We the members of the assembly <supplied reason="explanation"><foreign>sabhā</foreign></supplied> of Uṭkar.</p>
+         	
+<p>We have got <supplied reason="explanation">i.e. received</supplied> one thousand <foreign>kāṭi</foreign> from Caṭaiyaṉ.</p>
+         	
+<p>Having endowed/supplied <supplied reason="explanation"><foreign>aṭṭi</foreign></supplied> for the tank the interest of five hundred <foreign>kāṭi</foreign> every year <supplied reason="subaudible">which comes</supplied> through the paddy of these one thousand <foreign>kāṭi</foreign>, We, the members of the assembly <supplied reason="explanation"><foreign>sabhā</foreign></supplied> are those who will close <supplied reason="subaudible">it, i.e. the sluice of the tank</supplied>.</p>
+         	
+<p>Those who say it is not so, let them undergo the sin done by those who do <supplied reason="explanation">ceytār</supplied> <supplied reason="subaudible">sin</supplied> between the Ganges and Kumari <supplied reason="explanation">i.e. Kaṉṉiyākumari</supplied>.</p>
+         	
+<p><supplied reason="subaudible">So</supplied> have we ordered/declared <supplied reason="explanation"><foreign>paṇittōm</foreign></supplied>.</p>
+         	
+<p>The great men of the committee for the year are due to/should/have the duty of <supplied reason="explanation"><foreign>kaṭavār</foreign></supplied> having it <supplied reason="subaudible">the five hundred <foreign>kāṭi</foreign></supplied> flowing/being supplied/endowed.</p>
+
+</div>
          
          <div type="translation" xml:lang="fre">
             <p>
@@ -117,9 +127,11 @@
          
          <div type="bibliography">
             
-            <p>
-               First edited by <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with English translation and facsimile (SII 3, no. 5). Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 215). This edition by Emmanuel Francis, based on autopsy and photographs (2019).
-            </p>
+<p>
+First edited by <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with English translation and facsimile (SII 3, no. 5).
+Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 215).
+This edition by Emmanuel Francis, based on autopsy and photographs (2019).
+</p>
             
             <listBibl type="primary"><!--primary to be validated in EG-->
                <bibl>
@@ -143,6 +155,7 @@
       </body>
   </text>
 </TEI>
+
 <!--
 <p>Ukkal, Cheyyar Taluk, North Arcot District. On the east wall of the ruined Viṣṇu temple.</p>
 <p>Tamil language</p>

@@ -91,22 +91,26 @@
          		</app>
          		<app loc="3">
          			<lem>epporppaṭṭatum</lem>
-         			<note>Read epperppaṭṭatum</note> <!--Italicise epperppaṭṭatum-->
+         			<note>Read <foreign>epperppaṭṭatum</foreign></note>
          		</app>
          	</listApp>         
          
          </div>
-         <div type="translation" xml:lang="eng">
- 	<!--translation encoded as per EG §9.2 -->
-         </div>
-         
+      	
+      	<div type="translation" xml:lang="eng">
+      	</div>
+      	
       	<div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
-         </div>
+      		
+      	</div>
         
       	<div type="bibliography">
 
- <p>First edited with a facsimile in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 359). Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 102). The present edition by Emmanuel Francis based on autopsy, August 2019, and photos.</p>
+ <p>
+ First edited with a facsimile in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 359).
+ Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 102).
+ The present edition by Emmanuel Francis based on autopsy, August 2019, and photos.
+ </p>
       		
 <listBibl type="primary"><!--primary to be validated-->
             

@@ -47,8 +47,8 @@
 	</teiHeader>
 	<text xml:space="preserve">
   <body>
-            <div type="edition" xml:lang="tam-Latn"><!--edition TBC-->
-                <div type="textpart" subtype="surface" n="A">
+            <div type="edition" xml:lang="tam-Latn">
+                <div type="textpart" subtype="face" n="A">
                     <p>
                         <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                     </p>
@@ -69,8 +69,9 @@
                         <lb n="13" break="no"/>r vēppampoḻa
                         <lb n="14" break="no"/>ppāḻ Ivvūr āḷu
                         <lb n="15" break="no"/>ṅ-kaṇattār-uḷ ku
-                        <lb n="16" break="no"/>ḻaippa<unclear reason="form">lū</unclear>rk ka<!--OR read ḷū instead of lū; check-->
-                        <lb n="17" break="no"/>ṇiyar A<hi rend="grantha">gniśarmma</hi>
+                        <lb n="16" break="no"/>ḻaippa<unclear reason="form">lū</unclear>rk ka
+                    		<!--OR read ḷū instead of lū; check-->
+                    	<lb n="17" break="no"/>ṇiyar A<hi rend="grantha">gniśarmma</hi>
                         <lb n="18" break="no"/>ṉ vilai-<hi rend="grantha">śrā</hi>vaṇai
                         <lb n="19" break="no"/>yāl viṟṟu koṇ
                         <lb n="20" break="no"/>ṭu Ivvūr <hi rend="grantha">paraśu
@@ -79,9 +80,9 @@
                         <lb n="23" break="no"/>ku-ney-p-puṟam-<unclear>ā</unclear>
                         <lb n="24" break="no"/>ka kuṭuttār</p>
                 </div>
-                <div type="textpart" subtype="surface" n="B" rend="tb-rotated">
+                <div type="textpart" subtype="face" n="B" rend="tb-rotated">
                     <p>
-                        <lb n="25"/>Ivvūr <hi rend="grantha">sabhai</hi>yō<orig>mm</orig>um I-n-nilatt-ē I-v-vūr-c cekk-uḷḷaṉa Ellām
+                        <lb n="25"/>Ivvūr <hi rend="grantha">sabhai</hi>yō<orig>mm</orig>um In-nilatt-ē I-v-vūr-c cekk-uḷḷaṉa Ellām
                         <lb n="26"/>naṭṭu-t tiruviḷakkukk-ē-y vāya Eṇṇai koḷvaṭ’ āka-p paṇittōm·
                     </p>
                 </div>
@@ -95,13 +96,13 @@
                     <app loc="1">
                        <lem><hi rend="grantha">śrī</hi></lem>
                        <rdg source="bib:Venkayya1912_01">śrī-</rdg>
-                       <note>We believe that <hi rend="italic">śrī</hi> is not a prefix to the name of the king, but part of the auspicious beginning.</note>
+                       <note>We believe that <foreign>śrī</foreign> is not a prefix to the name of the king, but part of the auspicious beginning.</note>
                     </app>
 
                     <app loc="1">
                         <lem>nantippō<supplied reason="omitted">t</supplied>taraiyarkku</lem>
                         <rdg source="bib:Venkayya1912_01">na<choice><sic>nti</sic><corr><hi rend="grantha">ndi</hi></corr></choice>ppō<supplied reason="omitted">t</supplied>taraiyarkku</rdg>
-                    	<note>The correction seems to us unnecessary, as we consider the conjunct <hi rend="italic">nti</hi> is in Tamil script and not in Grantha, both alphabets sharing these characters. Note that <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> writes in <hi rend="italic">nanti</hi> the same syllable <hi rend="italic">nti</hi> is with two <hi rend="italic">eḻuttu</hi>s.</note>
+                    	<note>The correction seems to us unnecessary, as we consider that the conjunct <foreign>nti</foreign> is in Tamil script and not in Grantha, both alphabets sharing these characters. Note that <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> writes in the word <foreign>nanti</foreign> the same syllable <foreign>nti</foreign> is with two <foreign>eḻuttu</foreign>s.</note>
                     </app>
 
                     <app loc="4">
@@ -116,13 +117,13 @@
 
                     <app loc="10">
                         <lem>tiruvi<orig>p</orig>pirampēṭ'</lem>
-                        <note>Compare <hi rend="italic">tiruvippirampēṭ'</hi> in IP 110, line 9, and <hi rend="italic">tiruviṟppirampēṭ'</hi> in IP 181, line 17.</note><!--update ref to other inscriptions-->
+                        <note>Compare <foreign>tiruvippirampēṭ'</foreign> in IP 110, line 9, and <foreign>tiruviṟppirampēṭ'</foreign> in IP 181, line 17.</note><!--update ref to other inscriptions-->
                     </app>
 
                     <app loc="12">
                         <lem> kiḻār</lem>
                         <rdg source="bib:Venkayya1912_01">kiḻ<unclear>ā</unclear>r</rdg>
-                        <note>The medial <hi rend="italic">ā</hi> is clear on the stone, but smaller.</note>
+                        <note>The medial <foreign>ā</foreign> is clear on the stone, but smaller.</note>
                     </app>
 
                     <app loc="17">
@@ -164,10 +165,11 @@
             <div type="translation" xml:lang="eng"><!--Add earlier translations-->
             </div>
 
-            <div type="commentary"><!-- <app> not permitted here yet acc to EG!-->
-
-                    <listApp>
-
+  	<div type="commentary">
+  	<!-- <app> not permitted here yet acc to EG!-->
+  		
+  		<listApp>
+  			
                         <app loc="18">
                             <lem>vilai-<hi rend="grantha">śrā</hi>vaṇai</lem>
                             <note><bibl><ptr target="bib:Venkayya1912_01"/></bibl> notes: “The term <hi rend="italic">vilai-śravaṇai</hi> occurs twice in a similar context in <hi rend="italic">South-Ind. Inscrs.</hi> Vol. III. p. 105, text-line 5.”</note>
@@ -188,7 +190,13 @@
   	
   	<div type="bibliography">
   		
-  		<p>First edited in <bibl><ptr target="bib:GopinathaRao1911_01"/></bibl> with English translation. Edited in <bibl><ptr target="bib:Venkayya1912_01"/></bibl> (EI 11, no. 22A) with facsimile and English translation. Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no.144). The present edition by Emmanuel Francis based on autopsy.</p><!--normally add page quotation in this <p>-->
+<p>
+<!--normally add page quotation in this <p>-->
+First edited in <bibl><ptr target="bib:GopinathaRao1911_01"/></bibl> with English translation.
+Edited in <bibl><ptr target="bib:Venkayya1912_01"/></bibl> (EI 11, no. 22A) with facsimile and English translation.
+Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no.144).
+The present edition by Emmanuel Francis based on autopsy.</p>
+
   		
   		<listBibl type="primary"><!--primary to be validated in EG-->
   			<bibl>
