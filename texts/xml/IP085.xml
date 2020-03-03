@@ -5,7 +5,8 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Vilāppākkam rock inscription, sculpture donation of the time of Dantivarman, year 50</title>
+				<title>Vilāppākkam rock inscription, sculpture donation of the time of Dantivarman,
+					year 50</title>
 				<respStmt>
 					<resp>creation of file</resp>
 					<persName ref="part:emfr">
@@ -51,45 +52,49 @@
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
-      <body>
-         
-         <div type="edition" xml:lang="san-Latn"/>
-         <div type="edition" xml:lang="tam-tam"/>
-         
-         <div type="edition" xml:lang="tam-Latn">
-            <p>
+<body>
+                  
+<div type="edition" xml:lang="tam-Latn">
+
+<p>
 <lb n="1"/>nantippōttaraca<unclear>r</unclear>kku Ay<unclear>m</unclear>patāvatu nāka<unclear>ṇa</unclear>ndi-kura<unclear>var</unclear>
 <lb n="2"/><unclear>Iru</unclear>kka poṉṉiya<unclear>k</unclear>kiy<unclear>ā</unclear>r paṭimam koṭṭuvittā<unclear>ṉ</unclear>
 <lb n="3"/>pu<unclear>ka</unclear>ḻālaimaṅka<unclear>la</unclear>ttu maruttuvar makaṉ nāraṇa-
 <lb n="4"/>ṉ
-            </p>
-         </div>
+</p>
+</div>
                   
-         <div type="apparatus">
-            
-            <listApp>
-               <app loc="1">
-                  <lem><!-- fill in a lemma here --></lem>
-                  <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
-               </app>
-            </listApp>         
-         
-         </div>
-         
-         <div type="translation" xml:lang="eng" source="part:Venkayya1896-1897_01">
-         	<p>
-In the fiftieth (year) of Nandippôttaraśar,― Nâraṇaṉ (Nârâyaṇa), the son of Maruttuvar [fn4] of Pugaḻālaimaṅgalam, caused to be engraved an image of Poṉṉiyakkiyār, along with [fn5] the preceptor (gurava) [fn6] Nâgaṇandi (Nâganandin).
+<div type="apparatus"/>
+      	
+<div type="translation" xml:lang="eng" source="part:Venkayya1896-1897_01">
+<!--add note: as in the original-->
 
-[fn4] The word maruttuvaṉ  means ‘a physician.’ In the present case it seems to be the proper name of a person.[fn5] Literally: “while there is present.”[fn6] On this word, which appears to be derived fro the honorific plural of guru, see south-Indian Inscriptions, Vol. II. p. 251, note 3.
-<!--How to encode notes to the translation?-->
-         	</p>
-         </div>
+<p>
+In the fiftieth (year) of Nandippôttaraśar,― Nâraṇaṉ (Nârâyaṇa), the son of Maruttuvar [fn4] of Pugaḻâlaimaṅgalam, caused to be engraved an image of Poṉṉiyakkiyâr, along with [fn5] the preceptor (gurava) [fn6] Nâgaṇandi (Nâganandin).
+[fn4] The word maruttuvaṉ  means ‘a physician.’ In the present case it seems to be the proper name of a person. [fn5] Literally: “while there is present.”[fn6] On this word, which appears to be derived fro the honorific plural of guru, see south-Indian Inscriptions, Vol. II. p. 251, note 3.
+<!--How to encode notes of the original translator?-->
+</p>
+
+</div>
          
-      	<div type="translation" xml:lang="fre" resp="part:emfr"/>
+<div type="translation" xml:lang="fre" resp="part:emfr">
+      
+<p>Fiftieth <supplied reason="subaudible">year</supplied> of Nantippōttaracar <supplied reason="explanation">i.e. Nandippōtaraiyar, Nandivarman</supplied></p>
+<p>Nāraṇaṉ <supplied reason="explanation">i.e. Nārāyaṇa</supplied>, son of Maruttuvar of Pukaḻālaimaṅkalam, caused to be engraved <supplied reason="subaudible">this</supplied> image of Poṉṉiyakkiyār, in the presence <supplied reason="explanation">irukka</supplied> of the Preceptor Nākaṇandi.</p>
+
+</div>
                   
-         <div type="commentary"/>
+<div type="commentary">
+	
+	<p>
+		<!--Check EG-->
+		<lb n="2"/>
+		nāka<unclear>ṇa</unclear>ndi-kura<unclear>var</unclear><lb n="2"/><unclear>Iru</unclear>kka
+		Literally: while the Preceptor Nākaṇandi is present.
+	</p> 
+</div>
          
-         <div type="bibliography">
+<div type="bibliography">
             
             <p>
 First edited in <bibl><ptr target="bib:Venkayya1896-1897_01"/></bibl> (EI 4, no. 14) with facsimile and English translation.
