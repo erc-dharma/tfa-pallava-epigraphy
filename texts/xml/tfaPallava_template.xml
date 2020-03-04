@@ -2,12 +2,11 @@
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-
 	<teiHeader xml:lang="eng">
-
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunāmanallūr / Tirunāvalūr <foreign>biruda</foreign> on string wall</title>
+				<title>Encoding template for inscription of the pallava corpus, approx. 500
+					inscriptions</title>
 				<respStmt>
 					<resp>creation of file</resp>
 					<persName ref="part:emfr">
@@ -42,70 +41,64 @@
 				</availability>
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
-
 			<sourceDesc>
 				<p><!-- not to be filled in at this stage --></p>
 			</sourceDesc>
-
 		</fileDesc>
-
 		<revisionDesc>
-			<change who="part:emfr" when="2020-02-13" status="draft">Creation of the file</change>
-			<change who="part:axja" when="2019-12-18" status="draft">Creation of the
-				template</change>
+			<change who="part:emfr" when="2020-02-04" status="draft">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
-		
-<body>
-                  
-<div type="edition" xml:lang="san-Latn">
-         	<p>
-         		<lb n="1"/>
-         		śrīkalinārai
-         		<!--Grantha, thus default language = sanskrit-->
+      <body>
+         
+         <div type="edition" xml:lang="san-Latn"/>
+         <div type="edition" xml:lang="tam-tam"/>
+         
+         <div type="edition" xml:lang="tam-Latn">
+            <p>
+<lb n="1"/>
+<lb n="2" break="no"/>
+<lb n="3"/>
             </p>
-</div>
+         </div>
                   
-<div type="apparatus"/>
-      	
-<div type="translation" xml:lang="eng" resp="part:emfr">
-	<p>The crane of the Kali age</p>
-</div>
-	
-<div type="translation" xml:lang="fre" resp="part:emfr">
-	<p>La Grue de l'âge Kali</p>
-</div>
-
-<div type="commentary"/>
-
-<div type="bibliography">
+         <div type="apparatus">
+            
+            <listApp>
+               <app loc="1">
+                  <lem><!-- fill in a lemma here --></lem>
+                  <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+               </app>
+            </listApp>         
+         
+         </div>
+         
+         <div type="translation" xml:lang="eng" resp="part:emfr"/>
+         <div type="translation" xml:lang="fre" resp="part:emfr"/>
+                  
+         <div type="commentary"/>
+         
+         <div type="bibliography">
             
             <p>
-First edited in <bibl/> with facsimile and English translation. <!--TBU-->
-Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 263).
+First edited in <bibl/> with facsimile and English translation.
+Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 36).
 This edition (2020) by Emmanuel Francis, based on autopsy and photographs (2008).
+First English translation.
             </p>
             
             <listBibl type="primary"><!--primary to be validated-->
-            	<bibl>
-            		<ptr target="bib:Mahalingam1988_01"/>
-            		<citedRange unit="item">263</citedRange>
-            		<citedRange unit="page">pages</citedRange>
-            	</bibl>
+               <bibl>
+                  <ptr target="bib:Mahalingam1988_01"/>
+                  <citedRange unit="item">No</citedRange>
+                  <citedRange unit="page">pages</citedRange>
+               </bibl>
             </listBibl>
                        
             <listBibl type="secondary">
-              <bibl>ARIE 1902/B/376<!--TBU-->
-              <note>: “On a sculptured stone recently inserted into the west wall ofhe prākāra of the Bhaktajanēśvara temple at Tirunāmanallūr. Consists of the word Śrī-Kalinārai, which according to No. 365 formed part of the name of a shrine which has been recently demolished by the villagers.”</note>
-              	<!--Where to put this?-->
-              </bibl>
-            	
-            	<bibl>
-            		<ptr target="bib:Francis et al.Francis+al2007_01"/>
-            		<citedRange unit="page">304-306</citedRange>
-            	</bibl>
-            	            	
+              <bibl>ARE 1893/26</bibl> <!--to be updated-->
+            	<bibl/>
            </listBibl>
         
          </div>
@@ -113,11 +106,3 @@ This edition (2020) by Emmanuel Francis, based on autopsy and photographs (2008)
       </body>
   </text>
 </TEI>
-
-<!--
-Tirukkōyilūr Tk, South Arcot Dt.
-ARE 1902/B/365 mentions the Kalinārīśvara.
-Manippiravalam lato sensu.
-Grantha.
-IP 263 (Ta, PG ; Tirunāmanallūr) : śrī kalinārai (« la grue / le héron de l’âge kali » ?) attribué à un roi Pallava par T. V. Mahalingam, probablement sur base de la seule paléographie PG.
--->

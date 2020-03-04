@@ -8,6 +8,13 @@
 				<title>Uttiramērūr, Vaikuṇṭhaperumāḷ temple, larger platform, southern base,
 					donation of the time of Dantivarman, year 7</title>
 				<respStmt>
+					<resp>creation of file</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
 					<resp>Intellectual authorship of edition</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
@@ -21,7 +28,7 @@
 						innovation programme (grant agreement no 809994). </note>
 				</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename"><!--Replace by filename, e.g. Pallava00001--></idno>
+				<idno type="filename">tfaPallava101</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -39,7 +46,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
-			<change who="part:emfr" when="2020-01-28">Adding edition, translation"</change>
+			<change who="part:emfr" when="2020-01-28">Adding edition, translation</change>
 			<change who="part:axja" when="2020-01-08">Update the template</change>
 			<change who="part:emfr" when="2019-11-15">Creation on the file on the
 				repository</change>
@@ -100,7 +107,7 @@
        </div>
        <div type="commentary">
           <p>
-          	We translate <foreign>eḻuttu</foreign> differently in its two occurrences, as it designate the "signature" or the "writ" of the assembly (<foreign>sabhā</foreign>, line 1), but also the "writing", "engraving"or "text composed by" Parameśvara, the "scribe" (line 6).
+          	We translate <foreign>eḻuttu</foreign> differently in its two occurrences, as it designate the "signature" or the "writ" of the assembly (<foreign>sabhā</foreign>, line 1), but also the "writing", "engraving" or "text composed by" Parameśvara, the "scribe" (line 6).
           </p> 
        </div>
       

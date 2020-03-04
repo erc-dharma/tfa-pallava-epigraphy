@@ -7,6 +7,13 @@
 			<titleStmt>
 				<title>Vallam, Vedānteśvara temple, pillar inscription of Kantacēṉaṉ</title>
 				<respStmt>
+					<resp>creation of file</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
@@ -20,7 +27,7 @@
 						innovation programme (grant agreement no 809994). </note>
 				</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">IP036</idno>
+				<idno type="filename">tfaPallava036</idno>
 				<!--to be updated-->
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">

@@ -21,7 +21,7 @@
 						innovation programme (grant agreement no 809994). </note>
 				</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">IP096</idno>
+				<idno type="filename">tfaPallava096</idno>
 				<!--to be updated-->
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -62,8 +62,8 @@
     		
         	 </div>
 
-           <div type="apparatus">          	                     	
-           </div>
+           <div type="apparatus"/>          	                     	
+           
 
             <div type="translation" xml:lang="eng" resp="part:emfr">
             	

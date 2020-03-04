@@ -7,6 +7,13 @@
 			<titleStmt>
 				<title>Guḍimallam, Parameśurāmeśvara temple, stele, year 23 of Nandivarman
 					III</title>
+			    <respStmt>
+			        <resp>creation of file</resp>
+			        <persName ref="part:emfr">
+			            <forename>Emmanuel</forename>
+			            <surname>Francis</surname>
+			        </persName>
+			    </respStmt>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:emfr">
@@ -21,7 +28,7 @@
 						innovation programme (grant agreement no 809994). </note>
 				</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">IP144</idno>
+				<idno type="filename">tfaPallava144</idno>
 				<!--to be updated-->
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">

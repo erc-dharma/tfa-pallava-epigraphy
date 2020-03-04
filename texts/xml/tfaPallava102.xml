@@ -30,7 +30,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_EncodingTemplateInscription</idno>
+				<idno type="filename">tfaPallava102</idno>
 				<!-- Replace by filename, e.g. Pallava00001 -->
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -51,8 +51,6 @@
 		<revisionDesc>
 			<change who="part:emfr" when="2020-02-03">Creation of the file on the
 				repository</change>
-			<change who="part:axja" when="2019-12-18" status="draft">Creation of the
-				template</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -97,12 +95,12 @@
          
          </div>
       	
-      	<div type="translation" xml:lang="eng">
-      	</div>
+      	<div type="translation" xml:lang="eng"/>
       	
-      	<div type="commentary">
+      	
+      	<div type="commentary"/>
       		
-      	</div>
+      	
         
       	<div type="bibliography">
 
