@@ -28,7 +28,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava000</idno>
+				<idno type="filename">tfaPallava000_template</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -51,10 +51,10 @@
 	</teiHeader>
 	<text xml:space="preserve">
       <body>
-         
+
          <div type="edition" xml:lang="san-Latn"/>
          <div type="edition" xml:lang="tam-tam"/>
-         
+
          <div type="edition" xml:lang="tam-Latn">
             <p>
 <lb n="1"/>
@@ -62,32 +62,32 @@
 <lb n="3"/>
             </p>
          </div>
-                  
+
          <div type="apparatus">
-            
+
             <listApp>
                <app loc="1">
                   <lem><!-- fill in a lemma here --></lem>
                   <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
                </app>
-            </listApp>         
-         
+            </listApp>
+
          </div>
-         
+
          <div type="translation" xml:lang="eng" resp="part:emfr"/>
          <div type="translation" xml:lang="fre" resp="part:emfr"/>
-                  
+
          <div type="commentary"/>
-         
+
          <div type="bibliography">
-            
+
             <p>
 First edited in <bibl/> with facsimile and English translation.
 Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 36).
 This edition (2020) by Emmanuel Francis, based on autopsy and photographs (2008).
 First English translation.
             </p>
-            
+
             <listBibl type="primary"><!--primary to be validated-->
                <bibl>
                   <ptr target="bib:Mahalingam1988_01"/>
@@ -95,14 +95,14 @@ First English translation.
                   <citedRange unit="page">pages</citedRange>
                </bibl>
             </listBibl>
-                       
+
             <listBibl type="secondary">
               <bibl>ARE 1893/26</bibl> <!--to be updated-->
             	<bibl/>
            </listBibl>
-        
+
          </div>
-         
+
       </body>
   </text>
 </TEI>
