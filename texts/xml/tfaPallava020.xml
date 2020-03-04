@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Talavāṉūr Pillar inscription, time of Narēntirappōttaraiyaṉ</title>
+				<respStmt>
+					<resp>creation of file</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from the European Research
+						Council (ERC) under the European Union's Horizon 2020 research and
+						innovation programme (grant agreement no 809994).</note>
+				</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">tfaPallava000_template</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p><!-- not to be filled in at this stage --></p>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2020-03-04" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+      <body>
+
+      	<div type="edition" xml:lang="tam-Latn">
+      		
+      		<div type="textpart" subtype="face" n="A">
+        		<head xml:lang="eng"><!--update--></head>
+      		
+      		<p>
+<lb n="1"/><hi rend="grantha">śrī</hi> toṇṭai-y-an-tār-
+<lb n="2" break="no"/>vēntaṉ narēntira		IP: vēntāṉ
+<lb n="3" break="no"/>p-pōtt-araiyaṉ ve
+<lb n="4" break="no"/>ṇpēṭṭiṉ ṟeṉ-pā			IP: ṟeṉp[ā]-
+<lb n="5" break="no"/>l mīka makiḻntu ka
+<lb n="6" break="no"/>ṇṭāṉ cara mikka ve		IP: [ṇṭāṉ] cara-mikka-veñ cilaiyāṉ
+<lb n="7" break="no"/>ñ-cilaiyāṉ ca			IP: cattrumalleśvarālayam
+<lb n="8" break="no"/>tturu-malle<hi rend="grantha">ś<unclear>va</unclear></hi>
+<lb n="9" break="no"/>rālaiyam <unclear>eṉṟ’ ara</unclear>		IP: eṉṟ=araṇukk=iṭam
+<lb n="10" break="no"/>ṉukk’ iṭam āka<unclear>v</unclear> āṅku	IP: ākav aṅku
+      			     			
+      		</p>
+      		</div>
+      		
+      		<div type="textpart" subtype="face" n="B">
+        		<head xml:lang="eng"><!--update--></head>
+      		
+      		<p>
+      			<lb n="1"/>
+      			<lb n="2" break="no"/>
+			<lb n="3"/>
+      			     			
+      		</p>
+      		</div>
+      		
+      	</div>
+
+         <div type="apparatus">
+
+            <listApp>
+               <app loc="1">
+                  <lem></lem>
+                  <rdg source="bib:AuthorYear_01"></rdg>
+               </app>
+            </listApp>
+
+         </div>
+
+         <div type="translation" xml:lang="eng" resp="part:emfr"/>
+         <div type="translation" xml:lang="fre" resp="part:emfr"/>
+
+         <div type="commentary"/>
+
+         <div type="bibliography">
+
+            <p>
+First edited in <bibl/> with facsimile and English translation.
+Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 20).
+This edition (2020) by Emmanuel Francis, based on autopsy and photographs (2008).
+            </p>
+
+            <listBibl type="primary"><!--primary to be validated-->
+               <bibl>
+                  <ptr target="bib:Mahalingam1988_01"/>
+                  <citedRange unit="item">20</citedRange>
+                  <citedRange unit="page">pages</citedRange>
+               </bibl>
+            </listBibl>
+
+            <listBibl type="secondary">
+              <bibl>ARIE 1904-05/B/50 (ARIE/SI/1905/50)</bibl> <!--to be updated-->
+            	<bibl/>
+           </listBibl>
+
+         </div>
+
+      </body>
+  </text>
+</TEI>
