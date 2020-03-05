@@ -54,75 +54,172 @@
       	<div type="edition" xml:lang="tam-Latn">
       		
       		<div type="textpart" subtype="face" n="A">
-        		<head xml:lang="eng"><!--update--></head>
+        		<head xml:lang="eng">Eastern face</head>
       		
-      		<p>
-<lb n="1"/><hi rend="grantha">śrī</hi> toṇṭai-y-an-tār-
-<lb n="2" break="no"/>vēntaṉ narēntira		IP: vēntāṉ
-<lb n="3" break="no"/>p-pōtt-araiyaṉ ve
-<lb n="4" break="no"/>ṇpēṭṭiṉ ṟeṉ-pā			IP: ṟeṉp[ā]-
+      		
+<lg met="veṇpā">
+	
+<l><lb n="1"/><hi rend="grantha">śrī</hi><unclear>-</unclear>toṇṭai-y-an-tār-
+	<!--<unclear>-</unclear> to state I am not sure how to treat śrī-->
+<lb n="2" break="no"/>vēntaṉ narēntira
+<lb n="3" break="no"/>p-pōtt-araiyaṉ</l>
+	
+	<l>ve
+<lb n="4" break="no"/>ṇpēṭṭiṉ ṟeṉ-pā			
 <lb n="5" break="no"/>l mīka makiḻntu ka
-<lb n="6" break="no"/>ṇṭāṉ cara mikka ve		IP: [ṇṭāṉ] cara-mikka-veñ cilaiyāṉ
-<lb n="7" break="no"/>ñ-cilaiyāṉ ca			IP: cattrumalleśvarālayam
+<lb n="6" break="no"/>ṇṭāṉ</l>
+	
+	<l>cara mikka ve
+<lb n="7" break="no"/>ñ-cilaiyāṉ <unclear reason="form">ca</unclear>
 <lb n="8" break="no"/>tturu-malle<hi rend="grantha">ś<unclear>va</unclear></hi>
-<lb n="9" break="no"/>rālaiyam <unclear>eṉṟ’ ara</unclear>		IP: eṉṟ=araṇukk=iṭam
-<lb n="10" break="no"/>ṉukk’ iṭam āka<unclear>v</unclear> āṅku	IP: ākav aṅku
-      			     			
-      		</p>
+<lb n="9" break="no"/>rāl<unclear>ai</unclear>yam <unclear>eṉ</unclear></l>
+	
+	<l enjamb="yes"><unclear>ṟ’ ara</unclear>
+<lb n="10" break="no"/>ṉukk’ iṭam āka-<unclear reason="form">v</unclear> āṅku	</l>
+</lg>
+      		
       		</div>
       		
       		<div type="textpart" subtype="face" n="B">
-        		<head xml:lang="eng"><!--update--></head>
+        		<head xml:lang="eng">Southern face</head>
       		
       		<p>
-      			<lb n="1"/>
-      			<lb n="2" break="no"/>
-			<lb n="3"/>
-      			     			
+<lb n="11"/>Ivvūr <hi rend="grantha"><unclear reason="form">b</unclear>ra</hi>m
+<lb n="12" break="no"/>mamaṅkalavaṉ
+<lb n="13"/>cellaṉ civa<hi rend="grantha">dā
+<lb n="14" break="no"/>sa</hi>n colliya
+<lb n="15" break="no"/>tu	     	
       		</p>
       		</div>
       		
       	</div>
 
-         <div type="apparatus">
+<div type="apparatus">
 
-            <listApp>
-               <app loc="1">
-                  <lem></lem>
-                  <rdg source="bib:AuthorYear_01"></rdg>
-               </app>
-            </listApp>
+<listApp>
+              
+	<app loc="1">
+		<lem>vēntaṉ</lem>
+		<rdg source="bib:Mahalingam1988_01">vēntāṉ</rdg>
+	</app>
+	
+	<app loc="4">
+		<lem>ṟeṉpā<lb n="5" break="no"/>l</lem>
+		<rdg source="bib:Hultzsch1913-1914_01">ṟeṉp<unclear>ā</unclear>l</rdg>
+		<rdg source="bib:Mahalingam1988_01">ṟeṉp<unclear>ā</unclear>l</rdg>
+	</app>
+	
+	<app loc="5">
+		<lem>ka<lb n="6" break="no"/>ṇṭāṉ</lem>
+		<rdg source="bib:Mahalingam1988_01">ko<unclear>ṇṭāṉ</unclear></rdg>
+	</app>
+	
+	<app loc="7">
+		<lem><unclear reason="form">ca</unclear><lb n="8" break="no"/>tturu-malle<hi rend="grantha">ś<unclear>va</unclear></hi><lb n="9" break="no"/>rāl<unclear>ai</unclear>yam</lem>
+		<rdg source="bib:Hultzsch1913-1914_01"><choice><unclear><hi rend="grantha">śa</hi></unclear><unclear>ca</unclear></choice>tturumalle<hi rend="grantha">śva</hi>rālaiyam</rdg>
+		<!--<hi> not allowed? Uncertainty bears on the script-->
+		<rdg source="bib:Mahalingam1988_01"><hi rend="grantha">śa</hi>ttrumalle<hi rend="grantha">śva</hi>rālayam</rdg>
+		<note>Reading in situ enabled to reject the reading <foreign>°ālayam</foreign>. The reading <foreign>°āleyam</foreign> is possible.</note>
+	</app>
+	
+	<app loc="9">
+		<lem><unclear>eṉṟ’ ara</unclear><lb n="10" break="no"/>ṉukk’</lem>
+		<rdg source="bib:Hultzsch1913-1914_01">eṉṟ' araṇukk'</rdg>
+		<rdg source="bib:Mahalingam1988_01">eṉṟ' araṇukk'</rdg>
+	</app>
+	
+	<app loc="10">
+		<lem>āka-<unclear reason="form">v</unclear> āṅku</lem>
+		<rdg source="bib:Hultzsch1913-1914_01">āka-v aṅku</rdg>
+		<rdg source="bib:Mahalingam1988_01">āka-v aṅku</rdg>
+	</app>
+	
+	<app loc="11">
+		<lem><hi rend="grantha"><unclear reason="form">b</unclear>ra</hi>m<lb n="12" break="no"/>mamaṅkalavaṉ</lem>
+		<rdg source="bib:Hultzsch1913-1914_01"><hi rend="grantha"><unclear>b</unclear>ra</hi>mmamaṅkalavaṉ</rdg>
+		<rdg source="bib:Mahalingam1988_01"><hi rend="grantha"><unclear>b</unclear>ra</hi>mmamaṅkalavaṉ</rdg>
+	</app>
+			
+	</listApp>
 
          </div>
 
-         <div type="translation" xml:lang="eng" resp="part:emfr"/>
-         <div type="translation" xml:lang="fre" resp="part:emfr"/>
-
-         <div type="commentary"/>
-
-         <div type="bibliography">
+<div type="translation" xml:lang="eng" source="bib:Hultzsch1913-1914_01">
+	<!--add note: as in the original--> <!--add italics, etc.--> <!--reproduce Hultzsch's notes!-->
+      	<p n="1-10"> 
+Prosperity! The king (who wore) a beautiful garland of toṇḍai, Narēndra-Pōttaraiyaṉ, whose cruel bow bristled with arrows, made with great joy in the south of Veṇbeṭṭu (this temple) named Śatrumallēśvarālaya, to be the residence of Hara (Śiva).
+      	</p>
+	<p n="11-15">
+	Brahmamaṅgalavaṉ Śellaṉ Śivadāsa of this village composed this.	
+	</p>
+</div>
+<div type="translation" xml:lang="fre" resp="part:emfr">      	
+<p n="1-10">
+Fortune ! Le roi à la belle guirlande de <foreign>toṇṭai</foreign> (ou: Le glorieux roi à la belle guirlande de <foreign>toṇṭai</foreign>), le roi-Pallava (ou: le roi-taureau) <supplied reason="explanation"><foreign>pōtt-araiyaṉ</foreign></supplied>  Narendra, au sud de Veṇpēṭu <supplied reason="explanation">le hameau blanc</supplied>, avec grande joie, a fait en sorte <supplied reason="explanation"><foreign>kaṇṭāṉ</foreign>, littéralement: a supervisé</supplied> qu’il y ait pour Araṉ <supplied reason="explanation">kt. Hara, i.e Śiva</supplied> un lieu <supplied reason="explanation">iṭam</supplied> nommé <supplied reason="explanation">eṉṟu</supplied> demeure du Seigneur de Catturumalla <supplied reason="explanation">Skt. śatrumalla</supplied>, dont l’arc cruel/furieux regorge de flèches.
+</p>
+	
+<p n="11-15">
+Ce qu’a composé <supplied reason="explanation"><foreign>colliyatu</foreign>, littéralement: ce qu'a dit</supplied> Brammamaṅkalavaṉ Cellaṉ Civadāsan <supplied reason="explanation">Skt. Śivadāsa</supplied> de ce village.
+</p>
+	
+</div>
+      	
+<div type="commentary">
+	<p>To be read with the Sanskrit verse,which is outside the cave.</p> <!--update!-->
+	<p>Identification of Narēntirappōttaraiyaṉ to be discussed.</p> <!--update!-->
+	<p>śrī = benediction or part of the name of the king?</p> <!--update!-->
+	<p><lb n="10"/><foreign>āṅku</foreign>: either "there," that is, "here," that is in Veṇpēṭu, or "thus," concluding the verse, that is, "so was it done"</p><!--update!-->
+</div>
+      	
+<div type="bibliography">
 
             <p>
-First edited in <bibl/> with facsimile and English translation.
+First edited and translated in <bibl><ptr target="bib:Hultzsch1913-1914_01"/></bibl> with facsimile and English translation (EI 12, n° 27B).
 Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 20).
 This edition (2020) by Emmanuel Francis, based on autopsy and photographs (2008).
             </p>
 
-            <listBibl type="primary"><!--primary to be validated-->
-               <bibl>
-                  <ptr target="bib:Mahalingam1988_01"/>
-                  <citedRange unit="item">20</citedRange>
-                  <citedRange unit="page">pages</citedRange>
-               </bibl>
-            </listBibl>
+<listBibl type="primary"><!--primary to be validated-->
+	
+	<bibl>
+		<ptr target="bib:Hultzsch1913-1914_01"/>
+		<citedRange unit="item">B</citedRange>
+		<citedRange unit="page">225-226</citedRange>
+	</bibl>
+	
+	<bibl>
+		<ptr target="bib:Mahalingam1988_01"/>
+		<citedRange unit="item">20</citedRange>
+		<citedRange unit="page">98-99</citedRange>
+	</bibl>
+	
+</listBibl>
 
-            <listBibl type="secondary">
-              <bibl>ARIE 1904-05/B/50 (ARIE/SI/1905/50)</bibl> <!--to be updated-->
-            	<bibl/>
-           </listBibl>
+<listBibl type="secondary">
+	
+	<bibl>
+		<ptr target="bib:VenkatasubbaAyyar_1943_01"/>
+		<citedRange unit="item">11</citedRange>
+		<citedRange unit="page">7</citedRange>
+	</bibl>
+	
+	<bibl>
+		<ptr target="bib:Srinivasan1964_01"/>
+		<citedRange>71-68</citedRange>
+	</bibl>
+		
+	<bibl>ARIE 1904-05/B/50 (ARIE/SI/1905/50)</bibl>
+	<!--to be updated-->
+	
+	<!--Add Peruntokai-->
+	<!--Add Jouveau-Dubreuil-->
+	
+</listBibl>
 
          </div>
 
       </body>
   </text>
 </TEI>
+
+<!--On two perpendiculary adjacent faces of the lower square portion of the left/south pillar inside the Pallava rock-cut cave.-->
