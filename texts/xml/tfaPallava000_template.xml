@@ -67,8 +67,8 @@
 
             <listApp>
                <app loc="1">
-                  <lem><!-- fill in a lemma here --></lem>
-                  <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  <lem></lem>
+                  <rdg source="bib:AuthorYear_01"></rdg>
                </app>
             </listApp>
 
@@ -97,7 +97,7 @@ First English translation.
             </listBibl>
 
             <listBibl type="secondary">
-              <bibl>ARE 1893/26</bibl> <!--to be updated-->
+              <bibl>ARIE 1893/26</bibl> <!--to be updated-->
             	<bibl/>
            </listBibl>
 
