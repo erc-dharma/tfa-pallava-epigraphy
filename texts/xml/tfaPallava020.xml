@@ -116,7 +116,7 @@
 	
 	<app loc="7">
 		<lem><unclear reason="form">ca</unclear><lb n="8" break="no"/>tturu-malle<hi rend="grantha">ś<unclear>va</unclear></hi><lb n="9" break="no"/>rāl<unclear>ai</unclear>yam</lem>
-		<rdg source="bib:Hultzsch1913-1914_01"><choice><unclear><hi rend="grantha">śa</hi></unclear><unclear>ca</unclear></choice>tturumalle<hi rend="grantha">śva</hi>rālaiyam</rdg>
+		<rdg source="bib:Hultzsch1913-1914_01"><choice><unclear rend="grantha">śa</unclear><unclear>ca</unclear></choice>tturumalle<hi rend="grantha">śva</hi>rālaiyam</rdg>
 		<!--<hi> not allowed? Uncertainty bears on the script-->
 		<rdg source="bib:Mahalingam1988_01"><hi rend="grantha">śa</hi>ttrumalle<hi rend="grantha">śva</hi>rālayam</rdg>
 		<note>Reading in situ enabled to reject the reading <foreign>°ālayam</foreign>. The reading <foreign>°āleyam</foreign> is possible.</note>
@@ -167,7 +167,7 @@ Ce qu’a composé <supplied reason="explanation"><foreign>colliyatu</foreign>, 
 <div type="commentary">
 	<p>To be read with the Sanskrit verse,which is outside the cave.</p> <!--update!-->
 	<p>Identification of Narēntirappōttaraiyaṉ to be discussed.</p> <!--update!-->
-	<p>śrī = benediction or part of a compound ("gloripus king ...)?</p> <!--update!-->
+	<p>śrī = benediction or part of a compound ("glorious king ...)?</p> <!--update!-->
 	<p><lb n="10"/><foreign>āṅku</foreign>: either "there," that is, "here," that is in Veṇpēṭu, or "thus," concluding the verse, that is, "so was it done"</p><!--update!-->
 </div>
       	
@@ -221,5 +221,4 @@ This edition (2020) by Emmanuel Francis, based on autopsy and photographs (2008)
       </body>
   </text>
 </TEI>
-
 <!--On two perpendiculary adjacent faces of the lower square portion of the left/south pillar inside the Pallava rock-cut cave.-->

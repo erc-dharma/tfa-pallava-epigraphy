@@ -129,8 +129,13 @@ This edition by Emmanuel Francis, based on autopsy and photographs (2019).
       		</listBibl>
       		
       		<listBibl type="secondary">
-      			<bibl>ARE 1900/68</bibl> <!--to be updated-->
-      		</listBibl>
+      			
+      			<bibl>ARIE 1900/68</bibl> <!--to be updated-->
+      			
+      			<bibl>
+      				<ptr target="bib:Srinivasan1964_01"/>
+      				<citedRange>89-94</citedRange>
+      			</bibl></listBibl>
         
          </div>
 		</body>

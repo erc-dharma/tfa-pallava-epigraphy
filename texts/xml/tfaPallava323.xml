@@ -5,8 +5,8 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Encoding template for inscription of the pallava corpus, approx. 500
-					inscriptions</title>
+				<title>Cīyamaṅkalam pillar inscription, construction of a sluice, time of
+					Dantivarman, year 4</title>
 				<respStmt>
 					<resp>creation of file</resp>
 					<persName ref="part:emfr">
@@ -28,7 +28,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava000</idno>
+				<idno type="filename">tfaPallava323</idno>
 				<!--update!-->
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -47,22 +47,35 @@
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
-			<change who="part:emfr" when="2020-02-04" status="draft">Creation of the file</change>
+			<change who="part:emfr" when="2020-03-06" status="draft">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
       <body>
 
-         <div type="edition" xml:lang="san-Latn"/>
-         <div type="edition" xml:lang="tam-tam"/>
+      	<div type="edition" xml:lang="tam-Latn">
+            
+      		<p>
+<lb n="1"/>kō-vicaiya-ta-
+<lb n="2" break="no"/>ntivikkiramaparu-
+<lb n="3" break="no"/>maṟki yāṇṭu nā-		<orig>
+<lb n="4" break="no"/>l-āvatu Ūṟṟuk-
+<lb n="5" break="no"/>kāṭṭu-kkōṭṭattu-p
+<lb n="6" break="no"/>(6)	perump[ā]lai-Ūr-
+<lb n="7" break="no"/>(7)	t tiruppālai-Ūr
+<lb n="8" break="no"/>(8)	kiḻavaṉṉ a[ṭa]vi śrī-		<orig>
+<lb n="9" break="no"/>(9)	kaṅkareyar nērkuṭ-		<orig>
+<lb n="10" break="no"/>(10)	ṭi perumāṉārk=ku vi-
+<lb n="11" break="no"/>(11)	ṇṇappañ cey-
+<lb n="12" break="no"/>(12)	[t]u ceyvi[tta]tu
+<lb n="13" break="no"/>(13)	kumāravāyt tūm-
+<lb n="14" break="no"/>(14)	pu				<centered>
 
-         <div type="edition" xml:lang="tam-Latn">
-            <p>
-<lb n="1"/>
-<lb n="2" break="no"/>
-<lb n="3"/>
-            </p>
-         </div>
+
+            
+      		</p>
+         
+      	</div>
 
          <div type="apparatus">
 
@@ -75,32 +88,36 @@
 
          </div>
 
-         <div type="translation" xml:lang="eng" resp="part:emfr"/>
-         <div type="translation" xml:lang="fre" resp="part:emfr"/>
+                  <div type="translation" xml:lang="eng" resp="part:emfr"/>
 
          <div type="commentary"/>
 
          <div type="bibliography">
 
             <p>
-First edited in <bibl/> with facsimile and English translation.
-Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 000). <!--update-->
-This edition (2020) by Emmanuel Francis, based on autopsy and photographs (2008).
-First English translation.
+Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 323).
+First edition (2020) by Emmanuel Francis, based on autopsy and photographs (2019).
+First English translation?
             </p>
 
             <listBibl type="primary"><!--primary to be validated-->
                <bibl>
                   <ptr target="bib:Mahalingam1988_01"/>
-                  <citedRange unit="item">No</citedRange>
-                  <citedRange unit="page">pages</citedRange>
+                  <citedRange unit="item">323</citedRange>
+                  <citedRange unit="page">722</citedRange>
                </bibl>
             </listBibl>
 
-            <listBibl type="secondary">
-              <bibl>ARIE 1893/26</bibl> <!--to be updated-->
-            	<bibl/>
-           </listBibl>
+         	<listBibl type="secondary">
+         		
+         		<bibl>
+         			<ptr target="bib:Srinivasan1964_01"/>
+         			<citedRange>89-94</citedRange>
+         		</bibl>
+         		
+         		<bibl>ARIE 1956-7, no. 131</bibl> <!--to be updated-->
+         		<bibl/>
+         	</listBibl>
 
          </div>
 
