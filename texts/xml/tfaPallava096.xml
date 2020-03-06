@@ -89,7 +89,11 @@
             
     	<div type="bibliography">
     		
-    		<p>First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 355). Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 96). The present edition by Emmanuel Francis based on autopsy.</p>
+<p>
+First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 355).
+Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 96).
+This edition by Emmanuel Francis (2020), based on autopsy and photographs (2019).
+</p>
     		
     		<listBibl type="primary"> <!--to be validated in EG-->
     			

@@ -5,8 +5,8 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Uttiramērūr, Vaikuṇṭhaperumāḷ temple, larger platform, western base,
-					donation of the time of Kampavarma, year 7</title>
+				<title>Uttiramērūr, Vaikuṇṭhaperumāḷ temple, larger platform, western base, donation
+					of the time of Kampavarma, year 7</title>
 				<respStmt>
 					<resp>creation of file</resp>
 					<persName ref="part:emfr">
@@ -145,8 +145,8 @@
             <p>
 First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> with facsimile.
 Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 204).
-This edition (2020) by Emmanuel Francis, based on autopsy and photographs (2019).
-First English translation.
+This edition by Emmanuel Francis (2020), based on photographs (2019).
+First English translation?
             </p>
 
 <listBibl type="primary"><!--primary to be validated-->
@@ -174,5 +174,4 @@ First English translation.
       </body>
   </text>
 </TEI>
-
 <!--Check reading in situ. See red-higlighted portions in RTF. Notably for -i looking like -i in line 1 and presence or not of repha in rvv etc..-->
