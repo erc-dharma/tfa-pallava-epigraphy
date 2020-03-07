@@ -83,7 +83,7 @@
          <div type="bibliography">
 
             <p>
-First edited in <bibl/> with facsimile and English translation.
+First edited in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> with facsimile and English translation. <!--update-->
 Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 000). <!--update-->
 This edition by Emmanuel Francis (2020), based on autopsy and photographs (2008). <!--update-->
 First English translation.
