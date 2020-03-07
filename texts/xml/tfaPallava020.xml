@@ -104,18 +104,18 @@
 	</app>
 	
 	<app loc="4">
-		<lem>ṟeṉpā<lb n="5" break="no"/>l</lem>
+		<lem>ṟeṉpāl</lem>
 		<rdg source="bib:Hultzsch1913-1914_01">ṟeṉp<unclear>ā</unclear>l</rdg>
 		<rdg source="bib:Mahalingam1988_01">ṟeṉp<unclear>ā</unclear>l</rdg>
 	</app>
 	
 	<app loc="5">
-		<lem>ka<lb n="6" break="no"/>ṇṭāṉ</lem>
+		<lem>kaṇṭāṉ</lem>
 		<rdg source="bib:Mahalingam1988_01">ko<unclear>ṇṭāṉ</unclear></rdg>
 	</app>
 	
 	<app loc="7">
-		<lem><unclear reason="form">ca</unclear><lb n="8" break="no"/>tturu-malle<hi rend="grantha">ś<unclear>va</unclear></hi><lb n="9" break="no"/>rāl<unclear>ai</unclear>yam</lem>
+		<lem><unclear reason="form">ca</unclear>tturu-malle<hi rend="grantha">ś<unclear>va</unclear></hi>rāl<unclear>ai</unclear>yam</lem>
 		<rdg source="bib:Hultzsch1913-1914_01"><choice><unclear rend="grantha">śa</unclear><unclear>ca</unclear></choice>tturumalle<hi rend="grantha">śva</hi>rālaiyam</rdg>
 		<!--<hi> not allowed? Uncertainty bears on the script-->
 		<rdg source="bib:Mahalingam1988_01"><hi rend="grantha">śa</hi>ttrumalle<hi rend="grantha">śva</hi>rālayam</rdg>
@@ -123,7 +123,7 @@
 	</app>
 	
 	<app loc="9">
-		<lem><unclear>eṉṟ’ ara</unclear><lb n="10" break="no"/>ṉukk’</lem>
+		<lem><unclear>eṉṟ’ ara</unclear>ṉukk’</lem>
 		<rdg source="bib:Hultzsch1913-1914_01">eṉṟ' araṇukk'</rdg>
 		<rdg source="bib:Mahalingam1988_01">eṉṟ' araṇukk'</rdg>
 	</app>
@@ -133,13 +133,7 @@
 		<rdg source="bib:Hultzsch1913-1914_01">āka-v aṅku</rdg>
 		<rdg source="bib:Mahalingam1988_01">āka-v aṅku</rdg>
 	</app>
-	
-	<app loc="11">
-		<lem><hi rend="grantha"><unclear reason="form">b</unclear>ra</hi>m<lb n="12" break="no"/>mamaṅkalavaṉ</lem>
-		<rdg source="bib:Hultzsch1913-1914_01"><hi rend="grantha"><unclear>b</unclear>ra</hi>mmamaṅkalavaṉ</rdg>
-		<rdg source="bib:Mahalingam1988_01"><hi rend="grantha"><unclear>b</unclear>ra</hi>mmamaṅkalavaṉ</rdg>
-	</app>
-			
+				
 	</listApp>
 
          </div>
