@@ -51,29 +51,77 @@
 	<text xml:space="preserve">
       <body>
 
-         
-         <div type="edition" xml:lang="tam-Latn">
-            <p>
-<lb n="1"/>
-<lb n="2" break="no"/>
-<lb n="3"/>
-            </p>
+<div type="edition" xml:lang="tam-Latn">
+            
+<div type="textpart" subtype="face" n="A">
+	<p>
+<lb n="1"/><hi rend="grantha">svasti śrī</hi> kō-vicaiya-ka
+<lb n="2" break="no"/>mpa-vikkiramaparumaṟku yā
+<lb n="3" break="no"/>ṇṭu patiṉēḻ-āvatu
+<lb n="4"/>Innāṭṭ-uṭaiya <hi rend="grantha">pṛthi</hi>ya
+<lb n="5" break="no"/>ṅkaraiyarum Ivar tē
+<lb n="6" break="no"/>viyār Ilāṭapperuntē
+<lb n="7" break="no"/>viyārum taṅkaḷ maka<choice><unclear>ṉ</unclear><unclear>ḷ</unclear></choice>
+<lb n="8"/>Ayyak=kuṭṭi Aṭikaḷukku
+	</p>
+</div>
+            	   	
+<div type="textpart" subtype="face" n="B">
+
+<p>
+<lb n="9"/>Ivv-iruvarum ceyta
+<lb n="10"/><hi rend="grantha">dh<orig>am</orig>ma</hi>m valivalak=ka-maṅka
+<lb n="11" break="no"/>lattu Ērik=kuk= kaṇṭa Ā
+<lb n="12" break="no"/>ṟṟu-k=-kāl Ik-kāl viḻu
+<lb n="13" break="no"/>ppērararaiya<orig>n</orig> I<hi rend="grantha">dh<orig>a	
+<lb n="14" break="no"/>m</orig>ma</hi>m Itu Ira<hi rend="grantha">kṣi</hi>ppāṉ
+<lb n="15" break="no"/><orig>ṉ</orig> aṭi Eṉ muṭi mēl
+</p>
          </div>
+</div>
 
          <div type="apparatus">
 
-            <listApp>
-               <app loc="1">
-                  <lem/>
-                  <rdg source="bib:AuthorYear_01"/>
-               </app>
-            </listApp>
+         	<listApp>
+         		
+         		<app loc="7">
+         			<lem>maka<choice><unclear>ṉ</unclear><unclear>ḷ</unclear></choice></lem>
+         			<rdg source="bib:Sundaram1959-1960_01">maka<unclear>ḷ</unclear></rdg>
+         		</app>
+         		
+         		<app loc="10">
+         			<lem><hi rend="grantha">dh<orig>am</orig>ma</hi>m</lem>
+         			<rdg source="bib:Sundaram1959-1960_01"><hi rend="grantha">dha<unclear>r</unclear>mma</hi>m</rdg>
+         		</app>
+         		
+         		<app loc="13">
+         			<lem>I<hi rend="grantha">dh<orig>am</orig>ma</hi>m</lem>
+         			<rdg source="bib:Sundaram1959-1960_01"><hi rend="grantha">dha<unclear>r</unclear>mma</hi>m</rdg>
+         		</app>
+         		
+         		<app loc="14">
+         			<lem>Ira<hi rend="grantha">kṣi</hi>ppāṉ<orig>ṉ</orig> aṭi</lem>
+         			<rdg source="bib:Sundaram1959-1960_01">Ira<hi rend="grantha">kṣi</hi>ppāṉ<unclear>ṉ a</unclear>ṭi</rdg>
+         		</app>
+         		
+         	</listApp>
 
          </div>
 
-         <div type="translation" xml:lang="eng" resp="part:emfr"/>
+         <div type="translation" xml:lang="eng" resp="part:emfr">
+      	
+<p n="1">Prosperity! Fortune!</p>
+<p n="1-2">Seventeenth year of the victorious king Kampavikramavarman <supplied reason="explanation"><foreign>kampavikkiramaparumaṉ</foreign></supplied></p>
+<p n="3-12">The pious act <supplied reason="explanation"><foreign>dhammam</foreign>, that is, <foreign>dharmam</foreign></supplied> that Pṛthiyaṅkaraiyar, the lord of this province/region <supplied reason="explanation"><foreign>nāṭu</foreign></supplied> and his wife Ilāṭapperuntēviyār, both of them, did for their venerable son Ayyakkuṭṭi: a canal <supplied reason="explanation"><foreign>āṟṟu-k-kāl</foreign>, literally "river-leg"</supplied> which feeds <supplied reason="explanation"><foreign>kaṇṭa</foreign>, literally "which sees"</supplied> the lake/tank of Valivalakkamaṅkalam.</p>
+<p n="12-13">This canal <supplied reason="explanation"><foreign>ik-kāl</foreign></supplied> is <supplied reason="subaudible">named after/owned by</supplied> Viḻuppērararaiyaṉ.</p>
+<p n="13-15">This pious act <supplied reason="explanation"><foreign>id-dhammam</foreign>, that is, <foreign>id-dharmam</foreign></supplied>, the feet of its protector are above my head.</p>
+      	
+      	</div>
          
-      	<div type="commentary"/>
+      	<div type="commentary">
+      		<p>Note on venerable son Ayyakkuṭṭi. Could be venerable daughter. Cf. EI.</p> <!--update!-->
+      		<p>Note on Pṛthiyaṅkaraiyar = Pṛthivīgaṅga</p>
+      	</div>
 
          <div type="bibliography">
 
