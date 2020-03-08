@@ -67,7 +67,15 @@
          </div>
 
          <div type="translation" xml:lang="eng" resp="part:emfr">
-         	<p><gap reason="lost"/> in the house <gap reason="lost"/> stone <gap reason="lost"/></p>
+         	
+         	<p>
+         		<gap reason="lost"/>
+         		in the house
+         		<gap reason="lost"/>
+         		stone
+         		<gap reason="lost"/>
+         	</p>
+         	
          </div>
          
 

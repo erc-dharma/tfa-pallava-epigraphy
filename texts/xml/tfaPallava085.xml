@@ -86,8 +86,8 @@ In the fiftieth (year) of Nandippôttaraśar,― Nâraṇaṉ (Nârâyaṇa), th
 	
 	<p>
 		<!--Check EG-->
-		<lb n="1"/>
-		nāka<unclear>ṇa</unclear>ndi-kura<unclear>var</unclear><lb n="2"/><unclear>Iru</unclear>kka
+		<!--Use <listApp></listApp> -->
+		<lb n="1"/>nāka<unclear>ṇa</unclear>ndi-kura<unclear>var</unclear><lb n="2"/><unclear>Iru</unclear>kka
 		Literally: while the Preceptor Nākaṇandi is present.
 		<!--+ add note on the sculptures accompanying the inscription. Cf. EI.-->
 	</p> 
