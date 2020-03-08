@@ -58,7 +58,7 @@
 <lb n="1"/><hi rend="grantha">svasti śrī</hi> kō-vicaiya-ka
 <lb n="2" break="no"/>mpa-vikkiramaparumaṟku yā
 <lb n="3" break="no"/>ṇṭu patiṉēḻ-āvatu
-<lb n="4"/>Innāṭṭ-uṭaiya <hi rend="grantha">pṛthi</hi>ya
+<lb n="4"/>Innāṭṭ-uṭaiya <hi rend="grantha">pṛthi</hi><orig>ya</orig>
 <lb n="5" break="no"/>ṅkaraiyarum Ivar tē
 <lb n="6" break="no"/>viyār Ilāṭapperuntē
 <lb n="7" break="no"/>viyārum taṅkaḷ maka<choice><unclear>ṉ</unclear><unclear>ḷ</unclear></choice>
@@ -70,11 +70,11 @@
 
 <p>
 <lb n="9"/>Ivv-iruvarum ceyta
-<lb n="10"/><hi rend="grantha">dh<orig>am</orig>ma</hi>m valivalak=ka-maṅka
+<lb n="10"/><orig><hi rend="grantha">dhamma</hi>m</orig> valivalak=ka-maṅka
 <lb n="11" break="no"/>lattu Ērik=kuk= kaṇṭa Ā
 <lb n="12" break="no"/>ṟṟu-k=-kāl Ik-kāl viḻu
-<lb n="13" break="no"/>ppērararaiya<orig>n</orig> I<hi rend="grantha">dh<orig>a	
-<lb n="14" break="no"/>m</orig>ma</hi>m Itu Ira<hi rend="grantha">kṣi</hi>ppāṉ
+<lb n="13" break="no"/>ppērararaiya<orig>n</orig> <orig>I<hi rend="grantha">dha	
+<lb n="14" break="no"/>mma</hi>m</orig> Itu Ira<hi rend="grantha">kṣi</hi>ppāṉ
 <lb n="15" break="no"/><orig>ṉ</orig> aṭi Eṉ muṭi mēl
 </p>
          </div>
@@ -84,18 +84,23 @@
 
          	<listApp>
          		
+         		<app loc="4">
+         			<lem><hi rend="grantha">pṛthi</hi><orig>ya</orig>ṅkaraiyarum</lem>
+         			<note>I.e. pṛthivīkaṅkaraiyarum</note>
+         		</app>
+         		
          		<app loc="7">
          			<lem>maka<choice><unclear>ṉ</unclear><unclear>ḷ</unclear></choice></lem>
          			<rdg source="bib:Sundaram1959-1960_01">maka<unclear>ḷ</unclear></rdg>
          		</app>
          		
          		<app loc="10">
-         			<lem><hi rend="grantha">dh<orig>am</orig>ma</hi>m</lem>
+         			<lem><orig><hi rend="grantha">dhamma</hi>m</orig></lem>
          			<rdg source="bib:Sundaram1959-1960_01"><hi rend="grantha">dha<unclear>r</unclear>mma</hi>m</rdg>
          		</app>
          		
          		<app loc="13">
-         			<lem>I<hi rend="grantha">dh<orig>am</orig>ma</hi>m</lem>
+         			<lem><orig>I<hi rend="grantha">dhamma</hi>m</orig></lem>
          			<rdg source="bib:Sundaram1959-1960_01"><hi rend="grantha">dha<unclear>r</unclear>mma</hi>m</rdg>
          		</app>
          		
@@ -119,8 +124,8 @@
       	</div>
          
       	<div type="commentary">
-      		<p>Note on venerable son Ayyakkuṭṭi. Could be venerable daughter. Cf. EI.</p> <!--update!-->
-      		<p>Note on Pṛthiyaṅkaraiyar = Pṛthivīgaṅga</p>
+      		<p>Note on "venerable son Ayyakkuṭṭi". Could be "venerable daughter". Cf. EI.</p> <!--update!-->
+      		<p>Note on Pṛthiyaṅkaraiyar = Pṛthivīgaṅga. Cf. EI for discussion and identification of people mentioned.</p> <!--update!-->
       	</div>
 
          <div type="bibliography">
