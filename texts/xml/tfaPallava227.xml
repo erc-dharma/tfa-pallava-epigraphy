@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Uttiramērūr, Vaikuṇṭhaperumāḷ temple, larger platform, western base,
+					donation of the time of Kampavarman, year 21</title>
+				<respStmt>
+					<resp>creation of file</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from the European Research
+						Council (ERC) under the European Union's Horizon 2020 research and
+						innovation programme (grant agreement no 809994).</note>
+				</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">tfaPallava227</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p><!-- not to be filled in at this stage --></p>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2020-03-08" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+      <body>
+
+         
+         <div type="edition" xml:lang="tam-Latn">
+            <p>
+            	
+<lb n="1" style="text-align: right"/>
+<milestone unit="block" n="a"/>
+<hi rend="grantha">svasti śrī</hi> kō-vicaiya-kam<unclear>·</unclear>pava<hi rend="grantha"><unclear>r</unclear>mma</hi>kku yāṇṭu Irupattoṉ<unclear>·</unclear>ṟ-āvatu Ut<unclear>·</unclear>
+<milestone unit="block" n="b" break="no"/>
+taramēruccatu<hi rend="grantha"><unclear>r</unclear>vve</hi>timaṅkalattu <hi rend="grantha">sabhai</hi>yōm Eḻuttu Empakkal <hi rend="grantha">sa<unclear>r</unclear>vva</hi>paricāram peṟṟu Irukkum<unclear>·</unclear> Emmūr teṟkkil aṅkāṭi Iruntuvā
+<milestone unit="block" n="c" break="no"/>
+ḻum<unclear>·</unclear> maṇṇipākkiḻāṉ· kōyilukku Ivaṉ ceykiṉ·ṟa <hi rend="grantha">dha<unclear>r</unclear>mma</hi>ttukku Oṭṭik kuṭut=ta paricāvatu Ikkōyil pak
+            	
+<lb n="2" break="no"/>
+<milestone unit="block" n="a" break="no"/>
+kal Ūrkkal cemmai nūṟṟuk kaḻañcu poṉ koṇṭu kaṭavōm· Ippoṉṉāl <hi rend="grantha">dha<unclear>r</unclear>ma</hi>ppalicaiyā<supplied reason="omitted">l</supplied> mūṉṟu mañcāṭi palicai-y ā<unclear>ka</unclear>
+<milestone unit="block" n="b"/>
+van=ta poli pati<orig>ṉ<unclear>·</unclear></orig>ṉaiñ·kaḻañ·cu poṉṉum Ivaṉē muṉ yāṇṭu patiṉ<unclear>·</unclear> Eṭṭ-āvatu Ērikku <orig><hi rend="grantha">dhamma</hi>ttukku</orig> mutal tanta nūṟṟuk kaḻañ·cu poṉṉālum <orig><hi rend="grantha">dhamma</hi></orig>-palicaiyā
+<milestone unit="block" n="c" break="no"/>lē-y van=ta patiṉaiñ-kaḻañcu poṉṉum Ēṟṟi muppatiṉ kaḻañcu poṉṉum teṟkkil·l aṅkāṭi maṉai poṉ·
+            	
+<lb n="3" break="no"/>
+<milestone unit="block" n="a" break="no"/>          
+ṉilē Āṭ·ṭāṇṭu-tōṟum pāḻ· n<orig>i</orig>kki niṉ·ṟa maṉaiyil· tāṅ·kaḷ vēṇṭu kural Ēri-vāriya-perumakkaḷḷē koḷḷa Oṭṭi ku
+<milestone unit="block" n="b" break="no"/>
+ṭuttōm<unclear>·</unclear> Ivirunūṟṟu kaḻañcu poṉ<orig>n</orig>āl· va<orig>ṉ</orig>ta palicai muppatiṉ kaḻañcu poṉ koṇ<unclear>·</unclear>ṭu ca<orig>ṉ</orig><unclear>·</unclear>tirātittar Uḷḷatiṉaiyum Iv-vayiramēka-taṭākattu kuḻi kutti
+<milestone unit="block" n="c"/>
+Ērikarai mēl maṇ·ṇaṭṭuvār Āka Ikkōyil vaitta <orig><hi rend="grantha">dhamma</hi>ttukku</orig> Oṭṭi Eḻutt’ iṭṭu kuṭuttōm· <hi rend="grantha">sabhai</hi>
+            	
+<lb n="4" break="no"/>
+<milestone unit="block" n="a" break="no"/>            	
+yōm· Ipparicu Ivaṉ <orig><hi rend="grantha">dhamma</hi>m</orig> ceytamaiyil <hi rend="grantha">sabhai</hi>yōm <hi rend="grantha">sa</hi>n<unclear>·</unclear>tō<hi rend="grantha">ṣi</hi>ttu Ikkōyillukkum makkaḷḷukkum<unclear>·</unclear> <hi rend="grantha">sa
+<milestone unit="block" n="b" break="no"/>
+bhai</hi>yōm oṭṭai Iṟaiyē Iṟuppā<orig>ṉ</orig>ṉ ākavum Ivaṉai maṟrum Epp<choice><sic>o</sic><corr>e</corr></choice>ṟpaṭṭa puṟav-iṟaiyum· maṉaiy poṉṉum Alap-iṟaiyum cōṟumāṭṭum Uḷ
+<milestone unit="block" n="c" break="no"/>
+ḷiṭṭu va<orig>ṉ</orig>ta puṟav-iṟai koḷḷātō<orig>m</orig>m āka Ikkōyillukkum makkaḷḷukkum <orig><hi rend="grantha">savva</hi></orig>-paricāra<orig>m</orig>m-āka paṇit
+            	
+<lb n="5" break="no"/>
+<milestone unit="block" n="a" break="no"/>
+tōm <hi rend="grantha">sabhai</hi>yōm ikkōyil·lukkum
+
+            </p>
+         </div>
+
+         <div type="apparatus">
+
+         	<listApp>
+         		
+         		<app loc="1">
+         			<lem>°kam<unclear>·</unclear>pava<hi rend="grantha"><unclear>r</unclear>mma</hi>kku</lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01">°kampava<hi rend="grantha">rmma</hi><supplied reason="omitted">r</supplied>kku</rdg>
+         		</app>
+         		
+         		<app loc="1">
+         			<lem>Ut<unclear>·</unclear>taramēruccatu<hi rend="grantha"><unclear>r</unclear>vve</hi>timaṅkalattu</lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01">Uttaramēruccatu<hi rend="grantha">rvve</hi>timaṅkalattu</rdg>
+         		</app>
+         		
+         		<app loc="2">
+         			<lem>pati<orig>ṉ<unclear>·</unclear></orig>ṉaiñ·kaḻañ·cu</lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01">pati<surplus>ṉ</surplus>ṉaiñkaḻañcu</rdg>
+         		</app>  
+         		
+         		<app loc="2">
+         			<lem>Ivaṉē</lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01">Iva<unclear>ṉ</unclear></rdg>
+         		</app>
+         		
+         		<app loc="2">
+         			<lem><orig><hi rend="grantha">dhamma</hi>ttukku</orig></lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01"><hi rend="grantha">dharmma</hi>ttukku</rdg>
+         		</app>
+         		
+         		<app loc="2">
+         			<lem><orig><hi rend="grantha">dhamma</hi></orig>-palicaiyālē-y</lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01"><orig><hi rend="grantha">dha<supplied reason="omitted">r</supplied>mma</hi></orig>-paliceyālē-y</rdg>
+         		</app>         		  		
+         		
+         		<app loc="3">
+         			<lem>n<orig>i</orig>kki</lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01">nīkki</rdg>
+         		</app>
+         		
+         		<app loc="3">
+         			<lem><orig><hi rend="grantha">dhamma</hi>ttukku</orig></lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01"><hi rend="grantha">dharmma</hi>ttukku</rdg>
+         		</app>
+         		
+         		<app loc="4">
+         			<lem><orig><hi rend="grantha">dhamma</hi>m</orig></lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01"><hi rend="grantha">dha<supplied reason="omitted">r</supplied>mma</hi>m</rdg>
+         		</app>
+         		
+         		<app loc="4">
+         			<lem>Iṟuppā<orig>ṉ</orig>ṉ ākavum</lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01">Iṟuppā<surplus>ṉ</surplus>ṉ ākavum</rdg>
+         		</app>
+         		
+         		<app loc="4">
+         			<lem>koḷḷātō<orig>m</orig>m</lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01">koḷḷātō<surplus>m</surplus>m</rdg>
+         		</app>
+         		
+         		<app loc="4">
+         			<lem><orig><hi rend="grantha">savva</hi></orig>-paricāra<orig>m</orig>m-āka</lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01"><hi rend="grantha">sarvva</hi>-paricārammāka</rdg>
+         		</app>
+         		        		
+         		
+         </listApp>
+
+         </div>
+
+         <div type="translation" xml:lang="eng" resp="part:emfr"/>
+        
+
+         <div type="commentary"/>
+
+         <div type="bibliography">
+
+            <p>
+First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl>.
+Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 227).
+This edition by Emmanuel Francis (2020), based on autopsy and photographs (2019).
+First English translation?
+            </p>
+
+         	<listBibl type="primary"><!--primary to be validated-->
+         		
+         		<bibl>
+         			<ptr target="bib:SubrahmanyaAiyer1928_01"/>
+         			<citedRange unit="item">369</citedRange>
+         			<citedRange unit="page">170</citedRange>
+         		</bibl>
+         		
+         		<bibl>
+         			<ptr target="bib:Mahalingam1988_01"/>
+         			<citedRange unit="item">227</citedRange>
+         			<citedRange unit="page">583-584</citedRange>
+         		</bibl>
+         		
+         	</listBibl>
+
+            <listBibl type="secondary">
+              <bibl>ARIE 1898/84</bibl> <!--to be updated-->
+            	<bibl/>
+           </listBibl>
+
+         </div>
+
+      </body>
+  </text>
+</TEI>
