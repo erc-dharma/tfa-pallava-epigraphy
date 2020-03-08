@@ -57,15 +57,11 @@
             <div type="edition" xml:lang="tam-Latn">
                 <div type="textpart" subtype="face" n="A">
                     <p>
-                        <lb n="1"/><hi rend="grantha">svasti śrī</hi>
-                    </p>
-                    <p>nanti
+                        <lb n="1"/><hi rend="grantha">svasti śrī</hi> nanti
                         <lb n="2" break="no"/>ppō<supplied reason="omitted">t</supplied>taraiyark
                         <lb n="3" break="no"/>ku yāṇṭu Iru
                         <lb n="4" break="no"/>pattu mūṉṟā
-                        <lb n="5" break="no"/>vatu
-                    </p>
-                    <p>vikkiramā
+                        <lb n="5" break="no"/>vatu vikkiramā
                         <lb n="6" break="no"/>titt<choice><sic>e</sic><corr>a</corr></choice>-māvali
                         <lb n="7" break="no"/>vāṇarāyar vaṭu
                         <lb n="8" break="no"/>kavaḻi-mēṟku
@@ -78,7 +74,7 @@
                         <lb n="15" break="no"/>ṅ-kaṇattār-uḷ ku
                         <lb n="16" break="no"/>ḻaippa<unclear reason="form">lū</unclear>rk ka
                     		<!--OR read ḷū instead of lū; check-->
-                    	<lb n="17" break="no"/>ṇiyar A<hi rend="grantha">gniśarmma</hi>
+                        <lb n="17" break="no"/>ṇiyar A<hi rend="grantha">gniśarmma</hi>
                         <lb n="18" break="no"/>ṉ vilai-<hi rend="grantha">śrā</hi>vaṇai
                         <lb n="19" break="no"/>yāl viṟṟu koṇ
                         <lb n="20" break="no"/>ṭu Ivvūr <hi rend="grantha">paraśu
@@ -87,6 +83,7 @@
                         <lb n="23" break="no"/>ku-ney-p-puṟam-<unclear>ā</unclear>
                         <lb n="24" break="no"/>ka kuṭuttār</p>
                 </div>
+                
                 <div type="textpart" subtype="face" n="B" rend="tb-rotated">
                     <p>
                         <lb n="25"/>Ivvūr <hi rend="grantha">sabhai</hi>yō<orig>mm</orig>um In-nilatt-ē I-v-vūr-c cekk-uḷḷaṉa Ellām

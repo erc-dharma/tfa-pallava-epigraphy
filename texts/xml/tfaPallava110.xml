@@ -55,64 +55,63 @@
   <body>
 
   	<div type="edition" xml:lang="tam-Latn">
-  		<p>
-  			<lb n="1"/><milestone unit="face" n="A"/><hi rend="grantha"><unclear>sva</unclear>sti śrī</hi>
-  			<!--placement de milestone OK?-->
+  		<div type="textpart" subtype="face" n="A">
+  			<p>
+  			<lb n="1"/><hi rend="grantha"><unclear>sva</unclear>sti śrī</hi> kō-vi
+  			<lb n="2" break="no"/>c<unclear>ai</unclear>ya-<hi rend="grantha">da</hi>n=tivikki
+  			<lb n="3" break="no"/>ramaparumaṟku y<supplied reason="lost">ā</supplied>
+  			<lb n="4" break="no"/>ṇṭu nāṟpatto
+  			<lb n="5" break="no"/>ṉpatāvatu vi
+  			<lb n="6" break="no"/><hi rend="grantha">jai</hi>yātit=ta-<hi rend="grantha">ma
+  			<lb n="7" break="no"/>hā</hi>va<hi rend="grantha">li</hi>-vāṇa
+  			<lb n="8" break="no"/><hi rend="grantha">rā</hi>yar <hi rend="grantha">pṛthi</hi>vi<hi rend="grantha">rā
+  			<lb n="9" break="no"/>jy</hi>añ ceyya ti
+  			<lb n="10" break="no"/>ruvippirampē
+  			<lb n="11" break="no"/><space quantity="1" unit="character"/>ṭ āḷuṅ kaṇat
+  			<lb n="12" break="no"/>tāruḷ kaḻiyama
+  			<lb n="13" break="no"/>ṅkilaṅ kiḻār
+  			<lb n="14" break="no"/>Ayyappōṟ
+  			<lb n="15" break="no"/>ṟiyēñ Eṅka
+  			<lb n="16" break="no"/>ḷ tūmpaṉ ēri
+  			<lb n="17"/>Uḷḷai nantiku
+  			<lb n="18" break="no"/>ṇṭilāṉa ceṟu
+  			<lb n="19"/>Ivvūr veḷ
+  			<lb n="20" break="no"/>ḷēriykku Ē
+  			<lb n="21" break="no"/>ricceṟuv’ āka
+  			<lb n="22"/>vaittēṉ I
+  			<lb n="23" break="no"/>tiṟ <hi rend="grantha">bhoga</hi><unclear>ṅ</unclear>
+  			<lb n="24"/>koṇṭu Iv
+  			
   		</p>
-  		
-  		<p>kō-vi
-  		<lb n="2" break="no"/>c<unclear>ai</unclear>ya-<hi rend="grantha">da</hi>n=tivikki
-  		<lb n="3" break="no"/>ramaparumaṟku y<supplied reason="lost">ā</supplied>
-  		<lb n="4" break="no"/>ṇṭu nāṟpatto
-  		<lb n="5" break="no"/>ṉpatāvatu vi
-  		<lb n="6" break="no"/><hi rend="grantha">jai</hi>yātit=ta-<hi rend="grantha">ma
-  		<lb n="7" break="no"/>hā</hi>va<hi rend="grantha">li</hi>-vāṇa
-  		<lb n="8" break="no"/><hi rend="grantha">rā</hi>yar <hi rend="grantha">pṛthi</hi>vi<hi rend="grantha">rā
-  		<lb n="9" break="no"/>jy</hi>añ ceyya ti
-  		<lb n="10" break="no"/>ruvippirampē
-  		<lb n="11" break="no"/><space quantity="1" unit="character"/>ṭ āḷuṅ kaṇat
-  		<lb n="12" break="no"/>tāruḷ kaḻiyama
-  		<lb n="13" break="no"/>ṅkilaṅ kiḻār
-  		<lb n="14" break="no"/>Ayyappōṟ
-  		<lb n="15" break="no"/>ṟiyēñ Eṅka
-  		<lb n="16" break="no"/>ḷ tūmpaṉ ēri
-  		<lb n="17"/>Uḷḷai nantiku
-  		<lb n="18" break="no"/>ṇṭilāṉa ceṟu
-  		<lb n="19"/>Ivvūr veḷ
-  		<lb n="20" break="no"/>ḷēriykku Ē
-  		<lb n="21" break="no"/>ricceṟuv’ āka
-  		<lb n="22"/>vaittēṉ I
-  		<lb n="23" break="no"/>tiṟ <hi rend="grantha">bhoga</hi><unclear>ṅ</unclear>
-  		<lb n="24"/>koṇṭu Iv
-  		<lb n="25" break="no"/><milestone unit="face" n="B" break="no"/><unclear>ve</unclear>ḷ<unclear>ḷ</unclear>ē
-  		<lb n="26" break="no"/>riyi<unclear>l</unclear>ē
-  		<lb n="27"/>kuḻikut-
-  		<lb n="28" break="no"/>ti Aṭṭu
-  		<lb n="29" break="no"/>vat’ āka
-  		<lb n="30"/>vaittē
-  		<lb n="31" break="no"/>ṉ
-                </p>
-                <p>
-                	<hi rend="grantha">Iddha
-                	<lb n="32" break="no"/>rmmañ ca
-                	<lb n="33" break="no"/>ndrādi
-                	<lb n="34" break="no"/>tyaga</hi>ta
-                	<lb n="35" break="no"/>ñ cel
-                	<lb n="36" break="no"/>vatāy
-                	<lb n="37" break="no"/>ttu
-                </p>
-                <p>I
-                    <lb n="38" break="no"/><hi rend="grantha">ddharma</hi>ñ ce
-                    <lb n="39" break="no"/>lutti
-                    <lb n="40" break="no"/>ṉāṉ <g type="numeral">1000</g>
-                    <lb n="41"/><hi rend="grantha">Aśvame
-                        <lb n="42" break="no"/>dha</hi>ñ cey
-                    <lb n="43" break="no"/>ta palaṉ
-                    <lb n="44"/>peṟuvā
-                    <lb n="45" break="no"/><hi rend="grantha">r</hi>
-                </p>
-                <p>
-                    <lb n="46"/><milestone unit="face" n="C"/>It’ aḻi-
+  		</div>
+  			
+  		<div type="textpart" subtype="face" n="B">
+  			<p>
+  				<lb n="25" break="no"/><unclear>ve</unclear>ḷ<unclear>ḷ</unclear>ē
+  				<lb n="26" break="no"/>riyi<unclear>l</unclear>ē
+  				<lb n="27"/>kuḻikut-
+  				<lb n="28" break="no"/>ti Aṭṭu
+  				<lb n="29" break="no"/>vat’ āka
+  				<lb n="30"/>vaittē
+  				<lb n="31" break="no"/>ṉ<hi rend="grantha">Iddha
+  				<lb n="32" break="no"/>rmmañ ca
+  				<lb n="33" break="no"/>ndrādi
+  				<lb n="34" break="no"/>tyaga</hi>ta
+  				<lb n="35" break="no"/>ñ cel
+  				<lb n="36" break="no"/>vatāy
+  				<lb n="37" break="no"/>ttu
+  				<lb n="38" break="no"/><hi rend="grantha">ddharma</hi>ñ ce
+  				<lb n="39" break="no"/>lutti
+  				<lb n="40" break="no"/>ṉāṉ <g type="numeral">1000</g>
+  				<lb n="41"/><hi rend="grantha">Aśvame
+  				<lb n="42" break="no"/>dha</hi>ñ cey
+  				<lb n="43" break="no"/>ta palaṉ
+  				<lb n="44"/>peṟuvā
+  				<lb n="45" break="no"/><hi rend="grantha">r</hi>
+  			</p>
+  		</div>
+                <div type="textpart" subtype="face" n="C"><p>
+                    <lb n="46"/>It’ aḻi-
                     <lb n="47" break="no"/>ttāṉ
                     <lb n="48"/>vāraṇāci
                     <lb n="49"/>Aḻittā
@@ -125,7 +124,7 @@
                     <lb n="56" break="no"/>ṉ muṭi
                     <lb n="57" break="no"/>mēli
                     <lb n="58" break="no"/>ṉa
-                </p>
+                </p></div>
             </div>
   	
   	<div type="apparatus">
