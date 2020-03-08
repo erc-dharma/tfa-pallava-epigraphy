@@ -68,9 +68,7 @@
 <!--add note: as in the original-->
 
 <p>
-In the fiftieth (year) of Nandippôttaraśar,― Nâraṇaṉ (Nârâyaṇa), the son of Maruttuvar <note n="'4">[fn4]</note> of Pugaḻâlaimaṅgalam, caused to be engraved an image of Poṉṉiyakkiyâr, along with [fn5] the preceptor (gurava) [fn6] Nâgaṇandi (Nâganandin).
-[fn4] The word maruttuvaṉ  means ‘a physician.’ In the present case it seems to be the proper name of a person. [fn5] Literally: “while there is present.”[fn6] On this word, which appears to be derived fro the honorific plural of guru, see south-Indian Inscriptions, Vol. II. p. 251, note 3.
-<!--How to encode notes of the original translator?-->
+In the fiftieth (year) of Nandippôttaraśar,― Nâraṇaṉ (Nârâyaṇa), the son of Maruttuvar <note n="'4">The word <foreign>maruttuvaṉ</foreign>  means ‘a physician.’ In the present case it seems to be the proper name of a person.</note> of Pugaḻâlaimaṅgalam, caused to be engraved an image of Poṉṉiyakkiyâr, along with <note n="5">Literally: “while there is present.”</note> the preceptor (<foreign>gurava</foreign>) <note n="6">On this word, which appears to be derived from the honorific plural of <foreign>guru</foreign>, see <hi rend="italic">South-Indian Inscriptions</hi>, Vol. II. p. 251, note 3.</note> Nâgaṇandi (Nâganandin).
 </p>
 
 </div>
@@ -85,12 +83,13 @@ In the fiftieth (year) of Nandippôttaraśar,― Nâraṇaṉ (Nârâyaṇa), th
 <div type="commentary">
 	
 	<p>
-		<!--Check EG-->
-		<!--Use <listApp></listApp> -->
-		<lb n="1"/>nāka<unclear>ṇa</unclear>ndi-kura<unclear>var</unclear><lb n="2"/><unclear>Iru</unclear>kka
+		<!--Use <listApp></listApp> --><!--Check EG-->
+		<lb n="1"/>nāka<unclear>ṇa</unclear>ndi-kura<unclear>var</unclear><unclear>Iru</unclear>kka
 		Literally: while the Preceptor Nākaṇandi is present.
-		<!--+ add note on the sculptures accompanying the inscription. Cf. EI.-->
-	</p> 
+		
+	</p>
+		
+	<!--+ add note on the sculptures accompanying the inscription. Cf. EI.-->
 </div>
          
 <div type="bibliography">
@@ -116,7 +115,7 @@ This edition by Emmanuel Francis (2020), based on the facsimile published in <bi
             </listBibl>
                        
             <listBibl type="secondary">
-              <bibl>ARE 1895/10</bibl> <!--TBU-->
+              <bibl>ARE 1895/10</bibl> <!--update!-->
             	<bibl/>
            </listBibl>
         

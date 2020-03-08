@@ -54,9 +54,8 @@
       	<div type="edition" xml:lang="tam-Latn">
       		
       		<div type="textpart" subtype="face" n="A">
-        		<head xml:lang="eng">Eastern face</head>
-      		
-      		
+      			<head xml:lang="eng">Eastern face of the pillar</head>
+      			
 <lg met="veṇpā">
 	
 <l><lb n="1"/><hi rend="grantha">śrī</hi><unclear>-</unclear>toṇṭai-y-an-tār
@@ -81,7 +80,7 @@
       		</div>
       		
       		<div type="textpart" subtype="face" n="B">
-        		<head xml:lang="eng">Southern face</head>
+        		<head xml:lang="eng">Southern face of the pillar</head>
       		
       		<p>
 <lb n="11"/>Ivvūr <hi rend="grantha"><unclear reason="form">b</unclear>ra</hi>m
