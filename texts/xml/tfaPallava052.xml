@@ -52,111 +52,161 @@
 	<text xml:space="preserve">
       <body>
 
-        
-         <div type="edition" xml:lang="tam-tam"/>
-<!--Replace ·•-->
-         <div type="edition" xml:lang="tam-Latn">
-         	<!--choice of item TBC-->
 
+<div type="edition" xml:lang="tam-Latn">
+	<!--choice of item TBC-->
+	
 <div type="textpart" subtype="item" n="1">
 <p>
-<lb n="1"/>ke[v]āta-peru-
-<lb n="2" break="no"/>n·tac·caṉ·<g type="symbol" subtype="finalGomutra">||_</g>
-<lb n="3"/>
+<lb n="1"/>ke<unclear reason="form">v</unclear>āta-peru
+<lb n="2" break="no"/>n·tac·caṉ· <g type="symbol" subtype="finalGomutra"/>
 </p>
 </div>
          	
 <div type="textpart" subtype="item" n="2">
 <p>
-<lb n="1"/>
-<lb n="2" break="no"/>
-<lb n="3"/>
+<lb n="1"/><hi rend="grantha">ku</hi>ṇa<hi rend="grantha">mal·laḥ</hi>
 </p>
 </div>
 
 <div type="textpart" subtype="item" n="3">
 <p>
-<lb n="1"/>
-<lb n="2" break="no"/>
-<lb n="3"/>
+<lb n="1"/>pay<unclear>·</unclear>yami
+<lb n="2" break="no"/>ḻip·pāṉ· <g type="symbol" subtype="finalGomutra"/>
 </p>
 </div>
          	
 <div type="textpart" subtype="item" n="4">
 <p>
-<lb n="1"/>
-<lb n="2" break="no"/>
-<lb n="3"/>
+<lb n="1"/>cātamukkiyaṉ·
+<lb n="2"/><hi rend="grantha">ma</hi> <gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/>
 </p>
 </div>
          	
 <div type="textpart" subtype="item" n="5">
 <p>
-<lb n="1"/>
-<lb n="2" break="no"/>
-<lb n="3"/>
+<lb n="1"/>kaliyā<unclear>ṇi</unclear>
 </p>
 </div>
          	
 <div type="textpart" subtype="item" n="6">
 <p>
-<lb n="1"/>
-<lb n="2" break="no"/>
-<lb n="3"/>
-</p>
-
-<div type="textpart" subtype="item" n="7">
-<p>
-<lb n="1"/>
-<lb n="2" break="no"/>
-<lb n="3"/>
+<lb n="1"/>na<hi rend="grantha">maḥ</hi> tiruveṟṟiyūr Ā<hi rend="grantha">bhā</hi>jar <g type="symbol" subtype="finalGomutra"/>
 </p>
 </div>
 	
+<div type="textpart" subtype="item" n="7">
+<p>
+<lb n="1"/>kol·laṉ<unclear>·</unclear> <unclear reason="form">se</unclear>makaṉ·
+</p>
 </div>
-         	
+	
+<div type="textpart" subtype="item" n="8">
+<p>
+<lb n="1"/>pe<unclear>·</unclear><gap reason="lost" extent="unknown" unit="character"/>
+</p>
+</div>
+	         	
          </div>
 
          <div type="apparatus">
+         	
+<div type="textpart" subtype="item" n="1">
+</div>
+         	
+<div type="textpart" subtype="item" n="2">
+	<listApp>
+		<app loc="1">
+			<lem><hi rend="grantha">ku</hi>ṇa<hi rend="grantha">mal·laḥ</hi></lem>
+			<rdg source="bib:ARIE"><hi rend="grantha">ku</hi>ṇa<hi rend="grantha">mal·la</hi><!--update source and check ARIE--></rdg>
+		</app>
+	</listApp>
+</div>
 
-            <listApp>
-               <app loc="1">
-                  <lem/>
-                  <rdg source="bib:AuthorYear_01"/>
-               </app>
-            </listApp>
+<div type="textpart" subtype="item" n="3">
+</div>
+         	
+<div type="textpart" subtype="item" n="4">
+	<listApp>
+		<app loc="2">
+			<lem><hi rend="grantha">ma</hi> <gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/></lem>
+			<rdg source="bib:VenkatasubbaAyyar_1943_01">nil</rdg>
+			<!--check: nil = OK or rather put this in a note-->
+		</app>
+	</listApp>
+</div>
+         	
+<div type="textpart" subtype="item" n="5">
+</div>
+         	
+<div type="textpart" subtype="item" n="6">
+	<listApp>
+		<app loc="1">
+			<lem>tiruveṟṟiyūr</lem>
+			<note>This is the reading in <bibl><ptr target="bib:VenkatasubbaAyyar_1943_01"/></bibl>, which could not be checked by lack of visual documentation. <bibl><ptr target="bib:Kasinathan2007-01"/></bibl> reads or interprets this as Tiruvorriyūr, which makes sense. It is possible that this was written in more than one epigraphical line.</note> 
+		</app>
+	</listApp>
+</div>
+	
+<div type="textpart" subtype="item" n="7">
+</div>
+	
+<div type="textpart" subtype="item" n="8">
+	
+	<listApp>
+		<app loc="1">
+			<lem>pe<unclear>·</unclear><gap reason="lost" extent="unknown" unit="character"/></lem>
+			<note>This item has not been recorded so far, as far as we know.</note> 
+		</app>
+	</listApp>
+	<p>
+
+</p>
+</div>
 
          </div>
 
          <div type="translation" xml:lang="eng" resp="part:emfr"/>
-         <div type="translation" xml:lang="fre" resp="part:emfr"/>
-
+         
          <div type="commentary"/>
 
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> with facsimile and English translation. <!--update-->
-Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 000). <!--update-->
-This edition by Emmanuel Francis (2020), based on autopsy and photographs (2008). <!--update-->
-First English translation.
+First edited in <bibl><ptr target="bib:VenkatasubbaAyyar_1943_01"/></bibl> with facsimile of five of the six items.
+Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 52).
+This edition by Emmanuel Francis (2020), based on partial visual documentation, that is, the facsimile in <bibl><ptr target="bib:VenkatasubbaAyyar_1943_01"/></bibl> and photographs (2011).
             </p>
 
             <listBibl type="primary"><!--primary to be validated-->
-               <bibl>
-                  <ptr target="bib:Mahalingam1988_01"/>
-                  <citedRange unit="item">No</citedRange>
-                  <citedRange unit="page">pages</citedRange>
-               </bibl>
+               
+            	<bibl>
+            		<ptr target="bib:VenkatasubbaAyyar_1943_01"/>
+            		<citedRange unit="item">23-A</citedRange>
+            		<citedRange unit="page">11</citedRange>
+            	</bibl>
+            	
+            	<bibl>
+            		<ptr target="bib:Mahalingam1988_01"/>
+            		<citedRange unit="item">No</citedRange>
+            		<citedRange unit="page">pages</citedRange>
+            	</bibl>
             </listBibl>
 
-            <listBibl type="secondary">
-              <bibl>ARIE 1893/26</bibl> <!--to be updated-->
-            	<bibl/>
-           </listBibl>
+         	<listBibl type="secondary">
+         		<bibl>ARIE 1932-1933/B/105-107</bibl> <!--to be updated-->
+         		
+         		<bibl>
+            		<ptr target="bib:Kasinathan2007-01"/>
+            		<citedRange unit="page">14</citedRange>
+            	</bibl>
+         		
+         	</listBibl>
 
          </div>
 
       </body>
   </text>
 </TEI>
+
+<!--Check pūñcēri in Avanam-->
