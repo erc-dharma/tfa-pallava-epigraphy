@@ -27,7 +27,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava000</idno>
+				<idno type="filename">tfaPallava052</idno>
 				<!--update!-->
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -112,6 +112,12 @@
          <div type="apparatus">
          	
 <div type="textpart" subtype="item" n="1">
+		<listApp>
+		<app loc="1">
+			<lem>ke<unclear reason="form">v</unclear>āta°</lem>
+			<rdg source="bib:VenkatasubbaAyyar_1943_01">ke<unclear reason="form">vā</unclear>ta°</rdg>
+		</app>
+	</listApp>
 </div>
          	
 <div type="textpart" subtype="item" n="2">
@@ -143,7 +149,7 @@
 	<listApp>
 		<app loc="1">
 			<lem>tiruveṟṟiyūr</lem>
-			<note>This is the reading in <bibl><ptr target="bib:VenkatasubbaAyyar_1943_01"/></bibl>, which could not be checked by lack of visual documentation. <bibl><ptr target="bib:Kasinathan2007-01"/></bibl> reads or interprets this as Tiruvorriyūr, which makes sense. It is possible that this was written in more than one epigraphical line.</note> 
+			<note>This is the reading in <bibl><ptr target="bib:VenkatasubbaAyyar_1943_01"/></bibl>, which could not be checked by lack of visual documentation. <bibl><ptr target="bib:Kasinathan2007-01"/></bibl> reads or interprets this as Tiruvorriyūr, which makes sense. It is possible that this name was written in more than one epigraphical line.</note> 
 		</app>
 	</listApp>
 </div>
@@ -166,16 +172,69 @@
 
          </div>
 
-         <div type="translation" xml:lang="eng" resp="part:emfr"/>
+         <div type="translation" xml:lang="eng" resp="part:emfr">
+         	
+         	<div type="textpart" subtype="item" n="1">
+         		<p>The great carpenter Kevāta</p>
+         	</div>
+         	
+         	<div type="textpart" subtype="item" n="2">
+         		<p>The virtue wrestler</p>
+         	</div>
+         	<div type="textpart" subtype="item" n="3">
+         		<p>Payyamiḻippāṉ</p>
+         	</div>
+         	<div type="textpart" subtype="item" n="4">
+         		<p>Cātamukkiyaṉ</p>
+         	</div>
+         	<div type="textpart" subtype="item" n="5">
+         		<p>Kaliyāṇi (Skt. Kalyāṇi) </p>
+         	</div>
+         	<div type="textpart" subtype="item" n="6">
+         		<p>Homage! Ābhājar of Tiruveṟṟiyūr <supplied reason="explanation">Tiruvōṟṟiyūr?</supplied>. </p>
+         	</div>
+         	<div type="textpart" subtype="item" n="7">
+         		<p>Koḷḷaṉ Cemakaṉ</p>
+         	</div>
+         	<div type="textpart" subtype="item" n="8">
+         		<p>Pe<gap reason="lost"></gap></p>
+         	</div>
+         </div>
          
-         <div type="commentary"/>
-
+         <div type="commentary">
+         	<div type="textpart" subtype="item" n="1">
+         		
+         	</div>
+         	
+         	<div type="textpart" subtype="item" n="2">
+         		
+         	</div>
+         	<div type="textpart" subtype="item" n="3">
+         		
+         	</div>
+         	<div type="textpart" subtype="item" n="4">
+         		
+         	</div>
+         	<div type="textpart" subtype="item" n="5">
+         		
+         	</div>
+         	<div type="textpart" subtype="item" n="6">
+         		
+         	</div>
+         	<div type="textpart" subtype="item" n="7">
+         		
+         	</div>
+         	<div type="textpart" subtype="item" n="8">
+         		
+         	</div>	
+         </div>
+         	
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:VenkatasubbaAyyar_1943_01"/></bibl> with facsimile of five of the six items.
+Seven of the eight items first edited in <bibl><ptr target="bib:VenkatasubbaAyyar_1943_01"/></bibl> with facsimile of five items. 
 Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 52).
-This edition by Emmanuel Francis (2020), based on partial visual documentation, that is, the facsimile in <bibl><ptr target="bib:VenkatasubbaAyyar_1943_01"/></bibl> and photographs (2011).
+This edition by Emmanuel Francis (2020), based on partial visual documentation, that is, the facsimile in <bibl><ptr target="bib:VenkatasubbaAyyar_1943_01"/></bibl> and photographs of four items (2011).
             </p>
 
             <listBibl type="primary"><!--primary to be validated-->
@@ -184,12 +243,15 @@ This edition by Emmanuel Francis (2020), based on partial visual documentation, 
             		<ptr target="bib:VenkatasubbaAyyar_1943_01"/>
             		<citedRange unit="item">23-A</citedRange>
             		<citedRange unit="page">11</citedRange>
+            		<citedRange unit="plate">II <note>5 items</note></citedRange>
+            		<note>The following seven labels are engraved in archaic Tamil and Grantha characters on a group of rocks, one of which, on account of a natural cavity in it, is locally known as 'Noṇḍi Vīrappaṉ Kudiraitoṭṭi'. The names Kevadaperundachchaṉ and Kollaṉ Śēmagaṉ found in this place indicate that the persons bearing these names belonged to the artisan class. One of the labels also gives the name
+Guṇamallaḥ. On account of their palaeographical interest, these labels, as also the one given in the previous inscription <supplied reason="explanation">SII 12.23 = IP ***<!--update!--></supplied>, are included here and some of them are reproduced on plate VI <supplied reason="explanation">plate II in fact</supplied>.</note>
             	</bibl>
             	
             	<bibl>
             		<ptr target="bib:Mahalingam1988_01"/>
-            		<citedRange unit="item">No</citedRange>
-            		<citedRange unit="page">pages</citedRange>
+            		<citedRange unit="item">52</citedRange>
+            		<citedRange unit="page">168</citedRange>
             	</bibl>
             </listBibl>
 
@@ -210,3 +272,10 @@ This edition by Emmanuel Francis (2020), based on partial visual documentation, 
 </TEI>
 
 <!--Check pūñcēri in Avanam-->
+<!--
+	On several rocks in Pūñcēri.
+	A list of 8 items, mostly Tamil Personal names.
+	Tamil in Tamil script (7 items) + Sanskrit in Grantha (1 item).
+	
+	
+-->
