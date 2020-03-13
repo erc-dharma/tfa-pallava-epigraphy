@@ -60,7 +60,7 @@
 <lb n="1"/><hi rend="grantha">svasti śrī da</hi>n=tippōttaracarkku yāṇṭ’ oṉpatāvatu Ut=ta<hi rend="grantha"><unclear>rameru</unclear>ca</hi>tu<hi rend="grantha"><unclear>r</unclear>vvedimaṃgala</hi>ttu <hi rend="grantha">sabhai</hi>yōm eḻuttuk ka<unclear>c</unclear>cippē<unclear>ṭ</unclear>ṭup <gap reason="lost" quantity="3" unit="character"/> tuvāy<unclear>ccēri</unclear> cēṭṭatarayar tā
 <lb n="2" break="no"/>ṉavēntaṉ pakkal irupatiṉ kaḻañcu poṉ koṇṭ’ emmūr ellāccērit toṟu-nilaiyum mēlait toṟu-nilaiyum ivvaṉaittiṉālum vanta Eru-vilaiyāl vanta
 <lb n="3"/>māṭ’ epp<choice><sic>o</sic><corr>e</corr></choice>rppaṭṭatum ippoṉṉukk’ immāṭu vilaiy aṟutiyāy vayiramēkataṭākattuṭk kuḻi kuttuvat’ āka Oṭṭi-k-kuṭuttōm <hi rend="grantha">sabhai</hi>yōn tāṉavēnta
-<lb n="4" break="no"/>ṉ eṉum appoṉṉum ivveru-vilaiyāl vanta <hi rend="grantha">dravya</hi>mum avvērikkēy aṟam-āka-k kuṭuttēṉ <hi rend="grantha">sabhai</hi>yōmum maṟṟu viniyō<hi rend="grantha">ga</hi>ñ ceyyātēy av-
+<lb n="4" break="no"/>ṉ eṉum appoṉṉum ivveru-vilaiyāl vanta <hi rend="grantha">dravya</hi>mum avvērikkēy aṟam-āka-k kuṭuttēṉ <hi rend="grantha">sabhai</hi>yōmum maṟṟu viniyō<hi rend="grantha">ga</hi>ñ ceyyātēy av
 <lb n="5" break="no"/>vakkālattu vāriyarēy <hi rend="grantha">māsa</hi>ntōṟun kuḻi kut=tuvat’ ākavu<supplied reason="omitted">m</supplied> paṇittōm maṟ<unclear>ṟu</unclear> viniyō<hi rend="grantha">ga</hi>ñ ceytār paṇiyum piḻaitt’ aṟam iṟakkiṉa pāpamum paṭuvā<unclear>r-āka</unclear>
 <lb n="6" break="no"/>p paṇittōm <hi rend="grantha">sabhai</hi>yōm</p>
 
@@ -92,9 +92,21 @@
          
          </div>
       	
-      	<div type="translation" xml:lang="eng"/>
-      	
-      	
+      	<div type="translation" xml:lang="eng">
+      		<p n="1">
+      			Prosperity! Fortune!
+      		</p>
+      		<p n="1">
+      			Ninth year of Dantippōttaracar <supplied reason="explanation">Dantivarman</supplied>.
+      		</p>
+      		<p n="1">
+      			Writ <supplied reason="explanation"><foreign>eḻuttu</foreign></supplied> of We the member of the assembly <supplied reason="explanation"><foreign>sabhā</foreign></supplied> of Uttaramerucaturvedimaṅgalam:
+      		</p>
+      		<p n="1-6">
+      			bla bla
+      		</p>
+      	</div>
+      	      	
       	<div type="commentary"/>
       		
       	
