@@ -83,12 +83,10 @@
     			</app>
     			
     			<app loc="5">
-  				<lem><hi rend="grantha">dha</hi><lb n="6" break="no"/><hi rend="grantha">rmma</hi>ttiṉai</lem>
-    				<!--Keep <lb> or not?-->
-  				<rdg source="bib:SubrahmanyaAiyer1928_01"><hi rend="grantha"><unclear>dha</unclear></hi><lb n="6" break="no"/><hi rend="grantha">rmma</hi>ttiṉai</rdg>
-    				<!--Keep <lb> or not?-->
+    				<lem><hi rend="grantha">dha</hi><hi rend="grantha">rmma</hi>ttiṉai</lem>
+    				<rdg source="bib:SubrahmanyaAiyer1928_01"><hi rend="grantha"><unclear>dha</unclear></hi><hi rend="grantha">rmma</hi>ttiṉai</rdg>
     				<note>The letter <foreign>dha</foreign> (not closed on top), is clear.</note>
-  			</app>
+    			</app>
              </listApp>
        </div>
        
@@ -96,7 +94,7 @@
 
 <p>Prosperity! Fortune!</p>
 <p>Seventh year of Dantivarman.</p>
-<p>Writ <supplied reason="explanation"><foreign>eḻuttu</foreign></supplied><!--check English meaning--> of the members of the <foreign>peruṅ-kuṟi-sabhā</foreign>.</p>
+<p>Writ <supplied reason="explanation"><foreign>eḻuttu</foreign></supplied><!--check English meaning of "writ"--> of the members of the <foreign>peruṅ-kuṟi-sabhā</foreign>.</p>
 <p>We have given them after selling them <supplied reason="explanation"><foreign>viṟ·ṟuk kuṭut·tōm</foreign></supplied> five <foreign>pāṭakam</foreign>s that we have allotted so that they be for a tank south of the eastern division of Parameśvaravati, to Svāmikumāracaturvvedisomayājiyār of Muṭumpai, so that he digs the tank and raises its bunds.</p>
 <p>To/For this <supplied reason="explanation"><foreign>itaṉukku</foreign></supplied> we have received in full <supplied reason="explanation"><foreign>aṟakkoṇṭōm</foreign></supplied> the price <supplied reason="explanation"><foreign>poruṭcilavu</foreign>, literally “the expenses for the object”</supplied>.</p>
 <p>Having said that <supplied reason="explanation"><foreign>eṉṟu</foreign></supplied> we have got <supplied reason="explanation"><foreign>koṇṭōm</foreign></supplied> for the price <supplied reason="explanation"><foreign>vilaikku</foreign></supplied> nothing different <supplied reason="explanation"><foreign>allātatu</foreign></supplied> from what is common <supplied reason="explanation"><foreign>sāmānyam</foreign></supplied> with the assembly <supplied reason="explanation"><foreign>sabhai-y-ōṭṭai</foreign></supplied>.</p>

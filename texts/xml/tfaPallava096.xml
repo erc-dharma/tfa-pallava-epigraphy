@@ -22,7 +22,6 @@
 				</authority>
 				<pubPlace>Paris</pubPlace>
 				<idno type="filename">tfaPallava096</idno>
-				<!--to be updated-->
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -58,7 +57,7 @@
         		
 <p>ipparicu pukkār pukkārkku mūṉṟu yāṇṭ’ ava<hi rend="grantha">dhi</hi>-y-āka vaittōm <persName>va<hi rend="grantha">stu</hi>vi<hi rend="grantha">dyām</hi>ayaṉ</persName> eḻuttu</p>
     		
-<!--itu, ipparicu at the beginning of §. = medial i. Edition in Tamil characters to be checked!-->
+<!--itu, ipparicu at the beginning of §. = medial i. How to insert <p> between m and i in Tamil edition. Not necessary? Edition in Tamil characters to be checked!-->
     		
         	 </div>
 
@@ -74,7 +73,7 @@
 
 <p>This should be for feeding <supplied reason="explanation"><foreign>uṇpatu</foreign></supplied> a Brahmin, who is reputed as <supplied reason="explanation"><foreign>uktaṉ-ākiya</foreign></supplied> skilled in the Vedas and the proper way of its recitation and who is a <foreign>brahmācārin</foreign>, for making worship <supplied reason="explanation"><foreign>ārādhittu</foreign></supplied> three times <supplied reason="subaudible">a day</supplied>.</p>
 <!--<foreign>brahmācārin</foreign> = OK?-->
-<!--<foreign>ārādhittu</foreign> grantha? <hi rend="grantha">ārādhi</hi>tt'-->
+<!--<foreign>ārādhittu</foreign> Keep grantha tagging in translation. <hi rend="grantha">ārādhi</hi>tt'-->
             	
 <p>In this manner <supplied reason="explanation"><foreign>ipparicu</foreign></supplied> we have alloted <supplied reason="subaudible">this</supplied> for a limit of three years for each entrant <supplied reason="explanation"><foreign>pukkār pukkārkku</foreign></supplied>.</p>
 

@@ -116,7 +116,7 @@
 	<app loc="7">
 		<lem><unclear reason="form">ca</unclear>tturu-malle<hi rend="grantha">ś<unclear>va</unclear></hi>rāl<unclear>ai</unclear>yam</lem>
 		<rdg source="bib:Hultzsch1913-1914_01"><choice><unclear rend="grantha">śa</unclear><unclear>ca</unclear></choice>tturumalle<hi rend="grantha">śva</hi>rālaiyam</rdg>
-		<!--<hi> not allowed? Uncertainty bears on the script-->
+		<!--<hi> not allowed? Uncertainty bears on the script of śa-->
 		<rdg source="bib:Mahalingam1988_01"><hi rend="grantha">śa</hi>ttrumalle<hi rend="grantha">śva</hi>rālayam</rdg>
 		<note>Reading in situ enabled to reject the reading <foreign>°ālayam</foreign>. The reading <foreign>°āleyam</foreign> is possible.</note>
 	</app>
