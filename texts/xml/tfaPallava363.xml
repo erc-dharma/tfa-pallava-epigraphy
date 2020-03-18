@@ -61,7 +61,7 @@
       			
       			<app loc="1">
       				<lem><unclear>śrī</unclear>-k<choice><unclear>a</unclear><unclear>ā</unclear></choice>viti</lem>
-      				<rdg source="bib:AuthorYear_01">Jouveau-Dubreuil: śrī-kadhīti.</rdg> <!--update!-->
+      				<rdg source="bib:AuthorYear_01">Jouveau-Dubreuil: kadhīti.</rdg> <!--update!-->
       			</app>
       			
       		</listApp>
@@ -82,8 +82,8 @@
       	
          <div type="commentary">
 <p>The Madras Tamil Lexicon (p. 903) has s.v. காவிதி kāviti: n. 1. Ancient title bestowed on Vēḷāḷas by Pāṇḍya kings; வேளாளர்க்குப் பாண்டியர் கொடுத்துவந்த ஒரு பட்டம். (தொல். பொ. 30, உரை.) 2. Title conferred on Vaiśya ladies; வைசியமாதர்பெறும் பட்டவகை. எட்டி காவிதிப் பட் டந்தாங்கிய மயிலியன் மாதர் (பெருங். இலாவாண. 3, 144). 3. Minister; மந்திரி. (திவா.) 4. Accountant caste; கணக்கர் சாதி. (சூடா.) 5. Collector of revenues; வரிதண்டும் அரசாங்கத்தலைவர்.</p>
-<p>A certain poet named Peruṅkāviti Caṭaiyaṉpaḷḷi composed the verse in IP 119 = tfaPallava119. See line 13.</p>
-<p>Lockwood (1993, 163) suggested that <foreign>kaviti</foreign> in fact represents what would be pronounced <foreign>gaviti</foreign> in Tamil and makes it meaning <foreign>gokula</foreign>. It seems that this interpretation is based on the assumption that the name Gopis' churn has some relevance to the Pallava period.</p>
+<p>A certain poet named Peruṅkāviti Caṭaiyaṉpaḷḷi composed the verse in IP 119 = tfaPallava119. See line 13.</p> <!--add internal ref to tfaPallava119-->
+<p>Lockwood (1993, 163) <!--update!--> suggested that <foreign>kaviti</foreign> in fact represents what would be pronounced <foreign>gaviti</foreign> in Tamil and makes it meaning <foreign>gokula</foreign>. It seems that this interpretation is based on the assumption that the name Gopis' churn has some relevance to the Pallava period.</p>
          </div>
 
          <div type="bibliography">
