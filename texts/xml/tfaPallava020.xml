@@ -58,7 +58,7 @@
       			
 <lg met="veṇpā">
 	
-<l><lb n="1"/><hi rend="grantha">śrī</hi><unclear>-</unclear>toṇṭai-y-an-tār
+<l><lb n="1"/><hi rend="grantha">śrī</hi> toṇṭai-y-an-tār
 	<!--<unclear>-</unclear> to state I am not sure how to treat śrī-->
 <lb n="2" break="no"/>-vēntaṉ narēntira
 <lb n="3" break="no"/>p-pōtt-araiyaṉ</l>
@@ -97,6 +97,11 @@
 
 <listApp>
               
+	<app loc="1"> 
+		<lem><hi rend="grantha">śrī</hi></lem>
+		<note>We follow here <bibl><ptr target="bib:Hultzsch1913-1914_01"/></bibl> in considering <foreign>śrī</foreign> as an initial benediction. It could alternatively be analysed as a prefix to <foreign>toṇṭai-y-an-tār-vēntaṉ</foreign>, that is "the glorious <supplied reason="explanation">śrī</supplied> king with the beautiful garland of <foreign>toṇṭai</foreign></note>
+	</app>
+	
 	<app loc="1">
 		<lem>vēntaṉ</lem>
 		<rdg source="bib:Mahalingam1988_01">vēntāṉ</rdg>
@@ -140,15 +145,16 @@
 <div type="translation" xml:lang="eng" source="bib:Hultzsch1913-1914_01">
 	<!--add note: as in the original--> <!--add italics, etc.--> <!--reproduce Hultzsch's notes!-->
       	<p n="1-10"> 
-Prosperity! The king (who wore) a beautiful garland of <foreign>toṇḍai</foreign>, Narēndra-Pōttaraiyaṉ, whose cruel bow bristled with arrows, made with great joy in the south of Veṇbeṭṭu (this temple) named Śatrumallēśvarālaya, to be the residence of Hara (Śiva).
+Prosperity! The king <supplied reason="subaudible">who wore</supplied> a beautiful garland of <foreign>toṇtai</foreign>, Narendra-Pōttaraiyaṉ, whose cruel bow bristled with arrows, made with great joy in the south of Veṇpēṭṭu <supplied reason="subaudible">this temple</supplied> named Śatrumallēśvarālaya, to be the residence of Hara <supplied reason="explanation">Śiva</supplied>.
       	</p>
 	<p n="11-15">
 	Brahmamaṅgalavaṉ Śellaṉ Śivadāsa of this village composed this.	
 	</p>
+	<note>Translation by Hultzsch (1913-1914). Standardised according to DHARMA TG and EG.</note>
 </div>
 <div type="translation" xml:lang="fre" resp="part:emfr">      	
 <p n="1-10">
-Fortune ! Le roi à la belle guirlande de <foreign>toṇṭai</foreign> (ou: Le glorieux roi à la belle guirlande de <foreign>toṇṭai</foreign>), le roi-Pallava (ou: le roi-taureau) <supplied reason="explanation"><foreign>pōtt-araiyaṉ</foreign></supplied> Narendra, au sud de Veṇpēṭu <supplied reason="explanation">le hameau blanc</supplied>, avec grande joie, a fait en sorte <supplied reason="explanation"><foreign>kaṇṭāṉ</foreign>, littéralement: a supervisé</supplied> qu’il y ait pour Araṉ <supplied reason="explanation">kt. Hara, i.e Śiva</supplied> un lieu <supplied reason="explanation"><foreign>iṭam</foreign></supplied> nommé <supplied reason="explanation"><foreign>eṉṟu</foreign></supplied> demeure du Seigneur de Catturumalla <supplied reason="explanation">Skt. Śatrumalla</supplied>, dont l’arc cruel/furieux regorge de flèches.
+Fortune ! Le roi à la belle guirlande de <foreign>toṇṭai</foreign> (ou: Le glorieux roi à la belle guirlande de <foreign>toṇṭai</foreign>), le roi-Pallava (ou: le roi-taureau) <supplied reason="explanation"><foreign>pōtt-araiyaṉ</foreign></supplied> Narendra, dont l’arc cruel/furieux regorge de flèches, au sud de Veṇpēṭu <supplied reason="explanation">le hameau blanc</supplied>, avec grande joie, a fait en sorte <supplied reason="explanation"><foreign>kaṇṭāṉ</foreign>, littéralement: a supervisé</supplied> qu’il y ait pour Araṉ <supplied reason="explanation">Skt. Hara, i.e Śiva</supplied> un lieu <supplied reason="explanation"><foreign>iṭam</foreign></supplied> nommé <supplied reason="explanation"><foreign>eṉṟu</foreign></supplied> demeure du Seigneur de Catturumalla <supplied reason="explanation">Skt. Śatrumalla</supplied>.
 </p>
 	
 <p n="11-15">
@@ -172,7 +178,7 @@ Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 
 This edition by Emmanuel Francis (2020), based on autopsy and photographs (2008).
             </p>
 
-<listBibl type="primary"><!--primary to be validated-->
+<listBibl type="primary">
 	
 	<bibl>
 		<ptr target="bib:Hultzsch1913-1914_01"/>

@@ -114,7 +114,7 @@
 		<listApp>
 		<app loc="1">
 			<lem>ke<unclear reason="form">v</unclear>āta°</lem>
-			<rdg source="bib:VenkatasubbaAyyar_1943_01">ke<unclear reason="form">vā</unclear>ta°</rdg>
+			<rdg source="bib:VenkatasubbaAyyar1943_01">ke<unclear reason="form">vā</unclear>ta°</rdg>
 		</app>
 	</listApp>
 </div>
@@ -135,9 +135,8 @@
 	<listApp>
 		<app loc="2">
 			<lem><hi rend="grantha">ma</hi> <gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/></lem>
-			<rdg source="bib:VenkatasubbaAyyar_1943_01">nil</rdg>
-			<!--check: nil = OK or rather put this in a note-->
-		</app>
+			<rdg source="bib:VenkatasubbaAyyar1943_01"></rdg>
+			</app>
 	</listApp>
 </div>
          	
@@ -148,7 +147,7 @@
 	<listApp>
 		<app loc="1">
 			<lem>tiruveṟṟiyūr</lem>
-			<note>This is the reading in <bibl><ptr target="bib:VenkatasubbaAyyar_1943_01"/></bibl>, which could not be checked by lack of visual documentation. <bibl><ptr target="bib:Kasinathan2007-01"/></bibl> reads or interprets this as Tiruvorriyūr, which makes sense. It is possible that this name was written in more than one epigraphical line.</note> 
+			<note>This is the reading in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>, which could not be checked by lack of visual documentation. <bibl><ptr target="bib:Kasinathan2007-01"/></bibl> reads or interprets this as Tiruvorriyūr, which makes sense. It is possible that this name was written in more than one epigraphical line.</note> 
 		</app>
 	</listApp>
 </div>
@@ -231,15 +230,15 @@
          <div type="bibliography">
 
             <p>
-Seven of the eight items first edited in <bibl><ptr target="bib:VenkatasubbaAyyar_1943_01"/></bibl> with facsimile of five items. 
+Seven of the eight items first edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile of five items. 
 Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 52).
-This edition by Emmanuel Francis (2020), based on partial visual documentation, that is, the facsimile in <bibl><ptr target="bib:VenkatasubbaAyyar_1943_01"/></bibl> and photographs of four items (2011).
+This edition by Emmanuel Francis (2020), based on partial visual documentation, that is, the facsimile in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> and photographs of four items (2011).
             </p>
 
             <listBibl type="primary"><!--primary to be validated-->
                
             	<bibl>
-            		<ptr target="bib:VenkatasubbaAyyar_1943_01"/>
+            		<ptr target="bib:VenkatasubbaAyyar1943_01"/>
             		<citedRange unit="item">23-A</citedRange>
             		<citedRange unit="page">11</citedRange>
             		<citedRange unit="plate">II <note>5 items</note></citedRange>
