@@ -62,34 +62,35 @@
 </p>
 </div>
                   
-<div type="apparatus"/>
+<div type="apparatus">
+	
+	<listApp>
+		<app loc="1">
+		<lem>nāka<unclear>ṇa</unclear>ndi-kura<unclear>var</unclear><unclear> Iru</unclear>kka</lem>
+		<note>Literally: while the Preceptor Nākaṇandi is present.</note>
+		</app>
+	</listApp>
+</div>
       	
 <div type="translation" xml:lang="eng" source="part:Venkayya1896-1897_01">
-<!--add note: as in the original-->
 
 <p>
-In the fiftieth (year) of Nandippôttaraśar,― Nâraṇaṉ (Nârâyaṇa), the son of Maruttuvar <note n="'4">The word <foreign>maruttuvaṉ</foreign>  means ‘a physician.’ In the present case it seems to be the proper name of a person.</note> of Pugaḻâlaimaṅgalam, caused to be engraved an image of Poṉṉiyakkiyâr, along with <note n="5">Literally: “while there is present.”</note> the preceptor (<foreign>gurava</foreign>) <note n="6">On this word, which appears to be derived from the honorific plural of <foreign>guru</foreign>, see <hi rend="italic">South-Indian Inscriptions</hi>, Vol. II. p. 251, note 3.</note> Nâgaṇandi (Nâganandin).
+In the fiftieth <supplied reason="subaudible">year</supplied> of Nandippōttaracar,— Nāraṇaṉ <supplied reason="explanation">Nārāyaṇa</supplied>, the son of Maruttuvar <note n="'4">The word <foreign>maruttuvaṉ</foreign>  means ‘a physician.’ In the present case it seems to be the proper name of a person.</note> of Pugaḻālaimaṅkalam, caused to be engraved an image of Poṉṉiyakkiyār, along with <note n="5">Literally: “while there is present.”</note> the preceptor (<foreign>gurava</foreign>) <note n="6">On this word, which appears to be derived from the honorific plural of <foreign>guru</foreign>, see <hi rend="italic">South-Indian Inscriptions</hi>, Vol. II. p. 251, note 3.</note> Nāgaṇandi <supplied reason="explanation">Nāganandin</supplied>.
 </p>
+	<note>Translation by Venkayya (1996-1897). Standardised according to DHARMA TG and EG.</note>
 
 </div>
          
 <div type="translation" xml:lang="eng" resp="part:emfr">
       
-<p>Fiftieth <supplied reason="subaudible">year</supplied> of Nantippōttaracar <supplied reason="explanation">i.e. Nandippōtaraiyar, Nandivarman</supplied>.</p>
-<p>Nāraṇaṉ <supplied reason="explanation">i.e. Nārāyaṇa</supplied>, son of Maruttuvar of Pukaḻālaimaṅkalam, caused to be engraved <supplied reason="subaudible">this</supplied> image of Poṉṉiyakkiyār accompanied with<supplied reason="explanation">irukka</supplied> the Preceptor Nākaṇandi.</p>
+<p>Fiftieth <supplied reason="subaudible">year</supplied> of Nantippōttaracar <supplied reason="explanation">Nandippōtaraiyar, Nandivarman</supplied>.</p>
+<p>Nāraṇaṉ <supplied reason="explanation">Nārāyaṇa</supplied>, son of Maruttuvar of Pukaḻālaimaṅkalam, caused to be engraved <supplied reason="subaudible">this</supplied> image of Poṉṉiyakkiyār accompanied with<supplied reason="explanation">irukka</supplied> the Preceptor Nākaṇandi.</p>
 
 </div>
                   
 <div type="commentary">
 	
-	<p>
-		<!--Use <listApp></listApp> --><!--Check EG-->
-		<lb n="1"/>nāka<unclear>ṇa</unclear>ndi-kura<unclear>var</unclear><unclear>Iru</unclear>kka
-		Literally: while the Preceptor Nākaṇandi is present.
-		
-	</p>
-		
-	<!--+ add note on the sculptures accompanying the inscription. Cf. EI.-->
+	<p>Add note on the sculptures accompanying the inscription. Cf. EI.</p><!--update-->!
 </div>
          
 <div type="bibliography">
@@ -100,7 +101,8 @@ Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 
 This edition by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:Venkayya1896-1897_01"/></bibl> (EI 4, no. 14).
             </p>
             
-            <listBibl type="primary"><!--primary to be validated-->
+            <listBibl type="primary">
+            	
             	<bibl>
             		<ptr target="bib:Mahalingam1988_01"/>
             		<citedRange unit="item">85</citedRange>
@@ -115,7 +117,7 @@ This edition by Emmanuel Francis (2020), based on the facsimile published in <bi
             </listBibl>
                        
             <listBibl type="secondary">
-              <bibl>ARE 1895/10</bibl> <!--update!-->
+              <bibl>ARIE 1895/10</bibl> <!--update!-->
             	<bibl/>
            </listBibl>
         

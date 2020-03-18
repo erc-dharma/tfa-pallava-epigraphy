@@ -28,7 +28,6 @@
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
 				<idno type="filename">tfaPallava363</idno>
-				<!--update!-->
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -90,12 +89,12 @@
          <div type="bibliography">
 
             <p>
-First edited in ARIE <!--update!--><bibl><ptr target="bib:Mahalingam1988_01"/></bibl>.
+First reported in ARIE <!--update!--><bibl><ptr target="bib:Mahalingam1988_01"/></bibl>.
 Edited in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 363).
 This edition by Emmanuel Francis (2020), based on autopsy and photographs (2017).
             </p>
 
-            <listBibl type="primary"><!--primary to be validated-->
+            <listBibl type="primary">
                <bibl>
                   <ptr target="bib:Mahalingam1988_01"/>
                   <citedRange unit="item">363</citedRange>

@@ -133,7 +133,7 @@ This edition by Emmanuel Francis (2020), based on autopsy and photographs (2008)
 First English translation?
             </p>
             
-            <listBibl type="primary"><!--primary to be validated-->
+            <listBibl type="primary">
             	
             	<bibl>
             		<ptr target="bib:Mahalingam1988_01"/>
@@ -153,7 +153,7 @@ First English translation?
             </listBibl>
                        
             <listBibl type="secondary">
-              <bibl>ARE 1916/283</bibl> <!--to be updated-->
+              <bibl>ARIE 1916/283</bibl> <!--to be updated-->
             	<bibl/>
            </listBibl>
         

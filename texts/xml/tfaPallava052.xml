@@ -123,7 +123,7 @@
 	<listApp>
 		<app loc="1">
 			<lem><hi rend="grantha">ku</hi>ṇa<hi rend="grantha">mal·laḥ</hi></lem>
-			<rdg source="bib:ARIE"><hi rend="grantha">ku</hi>ṇa<hi rend="grantha">mal·la</hi><!--update source and check ARIE--></rdg>
+			<rdg source="bib:ARIE"><hi rend="grantha">ku</hi>ṇa<hi rend="grantha">mal·la</hi></rdg>
 		</app>
 	</listApp>
 </div>
@@ -235,15 +235,14 @@ Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 
 This edition by Emmanuel Francis (2020), based on partial visual documentation, that is, the facsimile in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> and photographs of four items (2011).
             </p>
 
-            <listBibl type="primary"><!--primary to be validated-->
+            <listBibl type="primary">
                
             	<bibl>
             		<ptr target="bib:VenkatasubbaAyyar1943_01"/>
             		<citedRange unit="item">23-A</citedRange>
             		<citedRange unit="page">11</citedRange>
             		<citedRange unit="plate">II <note>5 items</note></citedRange>
-            		<note>The following seven labels are engraved in archaic Tamil and Grantha characters on a group of rocks, one of which, on account of a natural cavity in it, is locally known as 'Noṇḍi Vīrappaṉ Kudiraitoṭṭi'. The names Kevadaperundachchaṉ and Kollaṉ Śēmagaṉ found in this place indicate that the persons bearing these names belonged to the artisan class. One of the labels also gives the name
-Guṇamallaḥ. On account of their palaeographical interest, these labels, as also the one given in the previous inscription <supplied reason="explanation">SII 12.23 = IP ***<!--update!--></supplied>, are included here and some of them are reproduced on plate VI <supplied reason="explanation">plate II in fact</supplied>.</note>
+            		<note>The following seven labels are engraved in archaic Tamil and Grantha characters on a group of rocks, one of which, on account of a natural cavity in it, is locally known as 'Noṇḍi Vīrappaṉ Kudiraitoṭṭi'. The names Kevadaperundachchaṉ and Kollaṉ Śēmagaṉ found in this place indicate that the persons bearing these names belonged to the artisan class. One of the labels also gives the name Guṇamallaḥ. On account of their palaeographical interest, these labels, as also the one given in the previous inscription <supplied reason="explanation">SII 12.23 = IP ***<!--update!--></supplied>, are included here and some of them are reproduced on plate VI <supplied reason="explanation">plate II in fact</supplied>.</note>
             	</bibl>
             	
             	<bibl>
@@ -254,7 +253,7 @@ Guṇamallaḥ. On account of their palaeographical interest, these labels, as a
             </listBibl>
 
          	<listBibl type="secondary">
-         		<bibl>ARIE 1932-1933/B/105-107</bibl> <!--to be updated-->
+         		<bibl>ARIE 1932-1933/B/105-107 = ARIE 1932-1933, p. 17</bibl> <!--update!-->
          		
          		<bibl>
             		<ptr target="bib:Kasinathan2007-01"/>

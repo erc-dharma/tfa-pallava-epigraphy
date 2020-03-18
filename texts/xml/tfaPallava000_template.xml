@@ -89,17 +89,25 @@ This edition by Emmanuel Francis (2020), based on autopsy and photographs (2008)
 First English translation.
             </p>
 
-            <listBibl type="primary"><!--primary to be validated-->
-               <bibl>
-                  <ptr target="bib:Mahalingam1988_01"/>
-                  <citedRange unit="item">No</citedRange>
-                  <citedRange unit="page">pages</citedRange>
-               </bibl>
+            <listBibl type="primary">
+            	
+            	<bibl>
+            		<ptr target="bib:Mahalingam1988_01"/>
+            		<citedRange unit="item">No</citedRange>
+            		<citedRange unit="page">pages</citedRange>
+            	</bibl>
+            	
             </listBibl>
 
             <listBibl type="secondary">
-              <bibl>ARIE 1893/26</bibl> <!--to be updated-->
-            	<bibl/>
+            	
+            	<bibl>ARIE 1893/26</bibl> <!--update!-->
+            	
+            	<bibl>
+            		<ptr target="bib:Mahalingam1988_01"/> <!--update!-->
+            		<citedRange unit="page">pages</citedRange>
+            	</bibl>
+            	
            </listBibl>
 
          </div>

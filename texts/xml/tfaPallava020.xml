@@ -58,23 +58,30 @@
       			
 <lg met="veṇpā">
 	
-<l><lb n="1"/><hi rend="grantha">śrī</hi> toṇṭai-y-an-tār
-	<!--<unclear>-</unclear> to state I am not sure how to treat śrī-->
+	<l>
+<lb n="1"/><hi rend="grantha">śrī</hi> toṇṭai-y-an-tār
 <lb n="2" break="no"/>-vēntaṉ narēntira
-<lb n="3" break="no"/>p-pōtt-araiyaṉ</l>
+<lb n="3" break="no"/>p-pōtt-araiyaṉ
+	</l>
 	
-	<l>ve
+	<l>
+ve
 <lb n="4" break="no"/>ṇpēṭṭiṉ ṟeṉ-pā			
 <lb n="5" break="no"/>l mīka makiḻntu ka
-<lb n="6" break="no"/>ṇṭāṉ</l>
+<lb n="6" break="no"/>ṇṭāṉ
+	</l>
 	
-	<l>cara mikka ve
+	<l>
+cara mikka ve
 <lb n="7" break="no"/>ñ-cilaiyāṉ <unclear reason="form">ca</unclear>
 <lb n="8" break="no"/>tturu-malle<hi rend="grantha">ś<unclear>va</unclear></hi>
-<lb n="9" break="no"/>rāl<unclear>ai</unclear>yam <unclear>eṉ</unclear></l>
+<lb n="9" break="no"/>rāl<unclear>ai</unclear>yam <unclear>eṉ</unclear>
+	</l>
 	
-	<l enjamb="yes"><unclear>ṟ’ ara</unclear>
-<lb n="10" break="no"/>ṉukk’ iṭam āka-<unclear reason="form">v</unclear> āṅku	</l>
+	<l enjamb="yes">
+<unclear>ṟ’ ara</unclear>
+<lb n="10" break="no"/>ṉukk’ iṭam āka-<unclear reason="form">v</unclear> āṅku
+	</l>
 </lg>
       		
       		</div>
@@ -99,7 +106,7 @@
               
 	<app loc="1"> 
 		<lem><hi rend="grantha">śrī</hi></lem>
-		<note>We follow here <bibl><ptr target="bib:Hultzsch1913-1914_01"/></bibl> in considering <foreign>śrī</foreign> as an initial benediction. It could alternatively be analysed as a prefix to <foreign>toṇṭai-y-an-tār-vēntaṉ</foreign>, that is "the glorious <supplied reason="explanation">śrī</supplied> king with the beautiful garland of <foreign>toṇṭai</foreign></note>
+		<note>We follow here <bibl><ptr target="bib:Hultzsch1913-1914_01"/></bibl> in considering <foreign><hi rend="grantha">śrī</hi></foreign> as an initial benediction. It could alternatively be analysed as a prefix to <foreign>toṇṭai-y-an-tār-vēntaṉ</foreign>, that is "the glorious <supplied reason="explanation"><hi rend="grantha">śrī</hi></supplied> king with the beautiful garland of <foreign>toṇṭai</foreign></note>
 	</app>
 	
 	<app loc="1">
@@ -143,7 +150,7 @@
          </div>
 
 <div type="translation" xml:lang="eng" source="bib:Hultzsch1913-1914_01">
-	<!--add note: as in the original--> <!--add italics, etc.--> <!--reproduce Hultzsch's notes!-->
+	<!--reproduce Hultzsch's notes!-->
       	<p n="1-10"> 
 Prosperity! The king <supplied reason="subaudible">who wore</supplied> a beautiful garland of <foreign>toṇtai</foreign>, Narendra-Pōttaraiyaṉ, whose cruel bow bristled with arrows, made with great joy in the south of Veṇpēṭṭu <supplied reason="subaudible">this temple</supplied> named Śatrumallēśvarālaya, to be the residence of Hara <supplied reason="explanation">Śiva</supplied>.
       	</p>
@@ -166,7 +173,6 @@ Ce qu’a composé <supplied reason="explanation"><foreign>colliyatu</foreign>, 
 <div type="commentary">
 	<p>To be read with the Sanskrit verse,which is outside the cave.</p> <!--update!-->
 	<p>Identification of Narēntirappōttaraiyaṉ to be discussed.</p> <!--update!-->
-	<p>śrī = benediction or part of a compound ("glorious king ...)?</p> <!--update!-->
 	<p><lb n="10"/><foreign>āṅku</foreign>: either "there," that is, "here," that is in Veṇpēṭu, or "thus," concluding the verse, that is, "so was it done"</p><!--update!-->
 </div>
       	
@@ -220,4 +226,7 @@ This edition by Emmanuel Francis (2020), based on autopsy and photographs (2008)
       </body>
   </text>
 </TEI>
-<!--On two perpendiculary adjacent faces of the lower square portion of the left/south pillar inside the Pallava rock-cut cave.-->
+
+<!--
+	On two perpendiculary adjacent faces of the lower square portion of the left/south pillar inside the Pallava rock-cut cave.
+-->
