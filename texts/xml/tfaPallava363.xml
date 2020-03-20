@@ -61,8 +61,8 @@
       			
       			<app loc="1">
       				<lem>k<choice><unclear>a</unclear><unclear>ā</unclear></choice>viti</lem>
-      				<rdg source="bib:ARIE">k<unclear>ā</unclear>viti</rdg>
-      				<rdg source="bib:Jouveau-Dubreuil"><!--update!-->kadhīti</rdg>
+      				<rdg source="bib:ARIE"><!--update!-->k<unclear>ā</unclear>viti</rdg>
+      				<rdg source="bib:Jouveau-Dubreuil1916-1917_01">kadhīti</rdg>
       				<rdg source="bib:Mahalingam1988_01">k<unclear>a</unclear>viti</rdg>
       				<note>There is on the stone some mark that could be the glyph for <foreign>-ā</foreign>. Whether the inscription was not deeply engraved or has been worn out, both readings are possible, even though <foreign>kāviti</foreign> makes more sense.</note>
       			</app>
@@ -88,13 +88,13 @@
 <p>காவிதி kāviti has an entry in the The Madras Tamil Lexicon (p. 903):
 <cit><quote>n. 1. Ancient title bestowed on Vēḷāḷas by Pāṇḍya kings; வேளாளர்க்குப் பாண்டியர் கொடுத்துவந்த ஒரு பட்டம். (தொல். பொ. 30, உரை.) 2. Title conferred on Vaiśya ladies; வைசியமாதர்பெறும் பட்டவகை. எட்டி காவிதிப் பட் டந்தாங்கிய மயிலியன் மாதர் (பெருங். இலாவாண. 3, 144). 3. Minister; மந்திரி. (திவா.) 4. Accountant caste; கணக்கர் சாதி. (சூடா.) 5. Collector of revenues; வரிதண்டும் அரசாங்கத்தலைவர்.</quote><bibl><ptr target="bib:MTL"/><!--update!--></bibl></cit></p>
 <p>A certain poet named Peruṅkāviti Caṭaiyaṉpaḷḷi composed the verse in IP 119 = tfaPallava119. See line 13.</p> <!--add internal ref to tfaPallava119-->
-<p>Lockwood (1993, 163) <!--update!--> suggested that <foreign>kāviti</foreign>, which he reads <foreign>kaviti</foreign>, in fact represents what would be pronounced <foreign>gaviti</foreign> in Tamil and makes it meaning <foreign>gokula</foreign>. It seems that this interpretation is based on the assumption that the name Gopis' churn has some relevance to the Pallava period, which one may doubt like in the case of other landmarks of Mahābalipuram recently (18th/19th century) renamed after Kṛṣṇa, e.g. the nearby Kṛṣṇa's butter ball.</p>
+<p><bibl><ptr target="bib:Lockwood1993_01"/><citedRange unit="page">163</citedRange></bibl> suggested that <foreign>kāviti</foreign>, which he reads <foreign>kaviti</foreign>, in fact represents what would be pronounced <foreign>gaviti</foreign> in Tamil and makes it meaning <foreign>gokula</foreign>. It seems that this interpretation is based on the assumption that the name Gopis' churn has some relevance to the Pallava period, which one may doubt like in the case of other landmarks of Mahābalipuram recently (18th/19th century) renamed after Kṛṣṇa, e.g. the nearby Kṛṣṇa's butter ball.</p>
          </div>
 
          <div type="bibliography">
 
             <p>
-First reported in ARIE<!--update!--><bibl><ptr target="bib:Mahalingam1988_01"/></bibl>.
+First reported in ARIE<bibl><ptr target="bib:***"/><!--update!--></bibl>.
 Edited in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 363).
 This edition by Emmanuel Francis (2020), based on autopsy and photographs (2017).
             </p>
@@ -102,20 +102,27 @@ This edition by Emmanuel Francis (2020), based on autopsy and photographs (2017)
          	<listBibl type="primary">
          		
          		<bibl>
+         			<ptr target="bib:Jouveau-Dubreuil1916-1917_01"/>
+         			<citedRange unit="plate">XXXI, B</citedRange>
+         		</bibl>
+         		
+         		<bibl>
          			<ptr target="bib:Mahalingam1988_01"/>
          			<citedRange unit="item">363</citedRange>
          			<citedRange unit="page">762</citedRange>
          		</bibl>
-         		
+         		         	
          	</listBibl>
 
             <listBibl type="secondary">
               
-            	<bibl>ARIE 1959-60/B/266 = ARIE 1959-60, p. 73.
-            		<note>Mahābalipuram. East side of the Gōpī’s churn. Reads: <foreign>śrīk<unclear>ā</unclear>viti</foreign>. In characters of about the 8th century.</note></bibl><!--to be updated-->
+            	<bibl>ARIE 1959-60/B/266 = ARIE 1959-60, p. 73.</bibl><!--update!-->
             	<bibl/>
             	
-            	<bibl>Lockwood 1993</bibl><!--to be updated-->
+            	<bibl>
+            		<ptr target="bib:Lockwood1993_01"/>
+            		<citedRange unit="page">163</citedRange>
+            	</bibl>
             
            </listBibl>
 
