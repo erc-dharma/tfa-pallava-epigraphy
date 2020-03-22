@@ -63,6 +63,7 @@
       				<lem>k<choice><unclear>a</unclear><unclear>ā</unclear></choice>viti</lem>
       				<rdg source="bib:ARIE"><!--update!-->k<unclear>ā</unclear>viti</rdg>
       				<rdg source="bib:Jouveau-Dubreuil1916-1917_01">kadhīti</rdg>
+      				<rdg source="bib:Jouveau-Dubreuil1916_01">kadhīti</rdg>
       				<rdg source="bib:Mahalingam1988_01">k<unclear>a</unclear>viti</rdg>
       				<note>There is on the stone some mark that could be the glyph for <foreign>-ā</foreign>. Whether the inscription was not deeply engraved or has been worn out, both readings are possible, even though <foreign>kāviti</foreign> makes more sense.</note>
       			</app>
@@ -103,7 +104,12 @@ This edition by Emmanuel Francis (2020), based on autopsy and photographs (2017)
          		
          		<bibl>
          			<ptr target="bib:Jouveau-Dubreuil1916-1917_01"/>
-         			<citedRange unit="plate">XXXI, B</citedRange>
+         			<citedRange unit="plate">XXXI, B</citedRange> (facing page 59).
+         		</bibl>
+         		         		
+         		<bibl>
+         			<ptr target="bib:Jouveau-Dubreuil1916_01"/>
+         			<citedRange unit="plate">XXXI, B</citedRange> (facing page 64).
          		</bibl>
          		
          		<bibl>
@@ -118,7 +124,7 @@ This edition by Emmanuel Francis (2020), based on autopsy and photographs (2017)
               
             	<bibl>ARIE 1959-60/B/266 = ARIE 1959-60, p. 73.</bibl><!--update!-->
             	<bibl/>
-            	
+            	            	         	
             	<bibl>
             		<ptr target="bib:Lockwood1993_01"/>
             		<citedRange unit="page">163</citedRange>

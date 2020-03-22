@@ -106,13 +106,26 @@
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile.
+First tentatively edited and translated in French and in English in <bibl><ptr target="bib:Jouveau-Dubreuil1916-1917_01"/></bibl> and <bibl><ptr target="bib:Jouveau-Dubreuil1916_01"/></bibl> with facsimile.
+Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile.
 Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 249).
 Edited and translated in French in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 68).
 This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on facsimile published in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> and photographs (2008).
             </p>
 
             <listBibl type="primary">
+            	
+            	<bibl>
+            		<ptr target="bib:Jouveau-Dubreuil1916-1917_01"/>
+            		<citedRange unit="page">63-65</citedRange>
+            		<citedRange unit="plate">XXXII</citedRange> (facing page 61).
+            	</bibl>
+            	
+            	<bibl>
+            		<ptr target="bib:Jouveau-Dubreuil1916_01"/>
+            		<citedRange unit="page">65-66</citedRange>
+            		<citedRange unit="plate">XXXII</citedRange> (facing page 65).
+            	</bibl>
             	
             	<bibl>
             		<ptr target="bib:VenkatasubbaAyyar1943_01"/>
@@ -138,11 +151,11 @@ This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on facsimi
             <listBibl type="secondary">
             	
             	<bibl>ARIE 1916/284</bibl><!--update!-->
-            	
+            	            	          	
             	<bibl>
-		<ptr target="bib:Srinivasan1964_01"/>
-		<citedRange>116-118</citedRange>
-	</bibl>
+            		<ptr target="bib:Srinivasan1964_01"/>
+            		<citedRange  unit="page">116-118</citedRange>
+            	</bibl>
             	            	            	
            </listBibl>
 
