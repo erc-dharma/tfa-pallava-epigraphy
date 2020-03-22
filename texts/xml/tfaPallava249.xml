@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Mēlaccēri, Śikharipallaveśvara rock-cut cave, pillar inscription</title>
+				<respStmt>
+					<resp>creation of file</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from the European Research
+						Council (ERC) under the European Union's Horizon 2020 research and
+						innovation programme (grant agreement no 809994).</note>
+				</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">tfaPallava249</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Sylvain Brocquet &amp; Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p><!-- not to be filled in at this stage --></p>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2020-03-22" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+      <body>
+<!--Sanskrit in Grantha-->
+
+<div type="edition" xml:lang="san-Latn">
+         
+            <p>
+<lg n="1" met="āryā">
+	<l n="ab">
+		<lb n="1"/>kāritam idan nṛpatinā
+		<lb n="2"/>candrādityena sarvva-nā<unclear>the</unclear>na
+	</l>
+	<l n="cd">
+		<lb n="3"/>śrī-śikhari-pallaveśvararam iti
+		<lb n="4"/>śaivan dhāma siṅhapure
+	</l>
+	
+</lg>
+            </p>
+	
+</div>
+
+         <div type="apparatus">
+
+         	<listApp>
+         		
+         		<app loc="2">
+         			<lem><unclear>nāthe</unclear>na</lem>
+         			<rdg source="bib:VenkatasubbaAyyar1943_01">nā<unclear>the</unclear>na</rdg>
+         		</app>
+         		
+         		<app loc="4">
+         			<lem>dhāma</lem>
+         			<rdg source="bib:VenkatasubbaAyyar1943_01">dhā<unclear>ma</unclear></rdg>
+         		</app>
+         		
+         	</listApp>
+
+         </div>
+
+<div type="translation" xml:lang="eng" source="bib:Srinivasan1964_01">
+	<p>This home of Śiva named Śrī-śikhari-pallaveśvaram, was caused to be made at Siṃhapura <supplied reason="explanation">Ciṅkavaram</supplied> by king Candrāditya who was a <foreign>sarvanātha</foreign>.</p>
+</div>
+      	
+<div type="translation" xml:lang="fre" source="bib:Brocquet1997_01">
+	<p>Le roi Candrāditya, maître de l’univers, fit construire</p>
+	<p>Cette demeure de Śiva, appelée Śrī-Śikhari-Pallaveśvara, à Siṅhapura.</p>
+	<note>Translation by K.R. Srinivasan (1964). Standardised according to DHARMA TG and EG.</note><!--check-->
+</div>
+
+         <div type="commentary">
+         	<p>Note on Śrī-Śikhari-Pallaveśvara.</p><!--update!-->
+         	<p>Note on Siṃhapura  = Ciṅkavaram</p><!--update!-->
+         </div>
+
+         <div type="bibliography">
+
+            <p>
+First edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile.
+Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 249).
+Edited and translated in French in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 68).
+This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on facsimile published in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> and photographs (2008).
+            </p>
+
+            <listBibl type="primary">
+            	
+            	<bibl>
+            		<ptr target="bib:VenkatasubbaAyyar1943_01"/>
+            		<citedRange unit="item">115</citedRange>
+            		<citedRange unit="page">54</citedRange>
+            		<citedRange unit="plate">V</citedRange> facing p. 17
+            	</bibl>
+            	
+            	<bibl>
+            		<ptr target="bib:Mahalingam1988_01"/>
+            		<citedRange unit="item">249</citedRange>
+            		<citedRange unit="page">623</citedRange>
+            	</bibl>
+            	
+            	<bibl>
+            		<ptr target="bib:Brocquet1997_01"/>
+            		<citedRange unit="item">68</citedRange>
+            		<citedRange unit="page">776</citedRange>
+            	</bibl>
+            	
+            </listBibl>
+
+            <listBibl type="secondary">
+            	
+            	<bibl>ARIE 1916/284</bibl><!--update!-->
+            	
+            	<bibl>
+		<ptr target="bib:Srinivasan1964_01"/>
+		<citedRange>116-118</citedRange>
+	</bibl>
+            	            	            	
+           </listBibl>
+
+         </div>
+
+      </body>
+  </text>
+</TEI>
