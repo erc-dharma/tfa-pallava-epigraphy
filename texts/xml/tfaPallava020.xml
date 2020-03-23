@@ -73,14 +73,14 @@ ve
 	
 	<l>
 cara mikka ve
-<lb n="7" break="no"/>ñ-cilaiyāṉ <unclear reason="form">ca</unclear>
+<lb n="7" break="no"/>ñ-cilaiyāṉ <unclear reason="eccentric_ductus">ca</unclear>
 <lb n="8" break="no"/>tturu-malle<hi rend="grantha">ś<unclear>va</unclear></hi>
 <lb n="9" break="no"/>rāl<unclear>ai</unclear>yam <unclear>eṉ</unclear>
 	</l>
 	
 	<l enjamb="yes">
 <unclear>ṟ’ ara</unclear>
-<lb n="10" break="no"/>ṉukk’ iṭam āka-<unclear reason="form">v</unclear> āṅku
+<lb n="10" break="no"/>ṉukk’ iṭam āka-<unclear reason="eccentric_ductus">v</unclear> āṅku
 	</l>
 </lg>
       		
@@ -90,7 +90,7 @@ cara mikka ve
         		<head xml:lang="eng">Southern face of the pillar</head>
       		
       		<p>
-<lb n="11"/>Ivvūr <hi rend="grantha"><unclear reason="form">b</unclear>ra</hi>m
+<lb n="11"/>Ivvūr <hi rend="grantha"><unclear reason="eccentric_ductus">b</unclear>ra</hi>m
 <lb n="12" break="no"/>mamaṅkalavaṉ
 <lb n="13"/>cellaṉ civa<hi rend="grantha">dā
 <lb n="14" break="no"/>sa</hi>n colliya
@@ -126,7 +126,7 @@ cara mikka ve
 	</app>
 	
 	<app loc="7">
-		<lem><unclear reason="form">ca</unclear>tturu-malle<hi rend="grantha">ś<unclear>va</unclear></hi>rāl<unclear>ai</unclear>yam</lem>
+		<lem><unclear reason="eccentric_ductus">ca</unclear>tturu-malle<hi rend="grantha">ś<unclear>va</unclear></hi>rāl<unclear>ai</unclear>yam</lem>
 		<rdg source="bib:Hultzsch1913-1914_01"><choice><unclear rend="grantha">śa</unclear><unclear>ca</unclear></choice>tturumalle<hi rend="grantha">śva</hi>rālaiyam</rdg>
 		<!--<hi> not allowed? Uncertainty bears on the script of śa-->
 		<rdg source="bib:Mahalingam1988_01"><hi rend="grantha">śa</hi>ttrumalle<hi rend="grantha">śva</hi>rālayam</rdg>
@@ -140,7 +140,7 @@ cara mikka ve
 	</app>
 	
 	<app loc="10">
-		<lem>āka-<unclear reason="form">v</unclear> āṅku</lem>
+		<lem>āka-<unclear reason="eccentric_ductus">v</unclear> āṅku</lem>
 		<rdg source="bib:Hultzsch1913-1914_01">āka-v aṅku</rdg>
 		<rdg source="bib:Mahalingam1988_01">āka-v aṅku</rdg>
 	</app>

@@ -57,7 +57,7 @@
 <div type="textpart" subtype="item" n="1">
 	<!--choice of item TBC-->
 <p>
-<lb n="1"/>ke<unclear reason="form">v</unclear>āta-peru
+<lb n="1"/>ke<unclear reason="eccentric_ductus">v</unclear>āta-peru
 <lb n="2" break="no"/>n·tac·caṉ· <g type="symbol" subtype="finalGomutra"/>
 </p>
 </div>
@@ -96,7 +96,7 @@
 	
 <div type="textpart" subtype="item" n="7">
 <p>
-<lb n="1"/>kol·laṉ<unclear>·</unclear> <unclear reason="form">se</unclear>makaṉ·
+<lb n="1"/>kol·laṉ<unclear>·</unclear> <unclear reason="eccentric_ductus">se</unclear>makaṉ·
 </p>
 </div>
 	
@@ -113,8 +113,8 @@
 <div type="textpart" subtype="item" n="1">
 		<listApp>
 		<app loc="1">
-			<lem>ke<unclear reason="form">v</unclear>āta°</lem>
-			<rdg source="bib:VenkatasubbaAyyar1943_01">ke<unclear reason="form">vā</unclear>ta°</rdg>
+			<lem>ke<unclear reason="eccentric_ductus">v</unclear>āta°</lem>
+			<rdg source="bib:VenkatasubbaAyyar1943_01">ke<unclear reason="eccentric_ductus">vā</unclear>ta°</rdg>
 		</app>
 	</listApp>
 </div>
