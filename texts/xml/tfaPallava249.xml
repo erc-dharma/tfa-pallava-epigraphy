@@ -90,12 +90,13 @@
 
 <div type="translation" xml:lang="eng" source="bib:Srinivasan1964_01">
 	<p>This home of Śiva named Śrī-śikhari-pallaveśvaram, was caused to be made at Siṃhapura <supplied reason="explanation">Ciṅkavaram</supplied> by king Candrāditya who was a <foreign>sarvanātha</foreign>.</p>
+	<note>Translation by K.R. Srinivasan (1964). Standardised according to DHARMA TG and EG.</note><!--check-->
 </div>
       	
-<div type="translation" xml:lang="fre" source="bib:Brocquet1997_01">
+<div type="translation" xml:lang="fre" resp="part:sybr">
 	<p>Le roi Candrāditya, maître de l’univers, fit construire</p>
 	<p>Cette demeure de Śiva, appelée Śrī-Śikhari-Pallaveśvara, à Siṅhapura.</p>
-	<note>Translation by K.R. Srinivasan (1964). Standardised according to DHARMA TG and EG.</note><!--check-->
+	
 </div>
 
          <div type="commentary">
@@ -110,7 +111,7 @@ First tentatively edited and translated in French and in English in <bibl><ptr t
 Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile.
 Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 249).
 Edited and translated in French in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 68).
-This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on facsimile published in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> and photographs (2008).
+This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on facsimile published in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> and photographs (2008). French translation by Sylvain Brocquet (2020).
             </p>
 
             <listBibl type="primary">
