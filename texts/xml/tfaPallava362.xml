@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Mahābalipuram, rock north of Gaṇeśaratha, set 2</title>
+				<title>Mahābalipuram, rock north of Gaṇeśaratha, word 2</title>
 				<respStmt>
 					<resp>creation of file</resp>
 					<persName ref="part:emfr">
@@ -52,33 +52,23 @@
       <body>
 
 <div type="edition" xml:lang="san-Latn">
-
-<div type="textpart" subtype="item" n="1">
-<!--choice of item TBC-->
          	
 	<p>
-         		<lb n="1"/>bhuvana
-         	</p></div>
-	
-<div type="textpart" subtype="item" n="2">
-	<p>
-		<lb n="1"/>dhi<gap reason="lost" quantity="1" unit="character"></gap>ta</p>
-	</div>
+         		<lb n="1"/><hi rend="grantha">bhuvana</hi>
+         	</p>
+		
 </div>
 
       	<div type="apparatus">
-      		<div type="textpart" subtype="item" n="1"/>
-      		<div type="textpart" subtype="item" n="2"/>
+      		
       	</div>
       	
       	<div type="translation" xml:lang="eng" resp="part:emfr">
-      		<div type="textpart" subtype="item" n="1"/>
-      		<div type="textpart" subtype="item" n="2"/>
+      		<p>world</p>
       	</div>
       	
       	<div type="commentary">
-      		<div type="textpart" subtype="item" n="1"/>
-      		<div type="textpart" subtype="item" n="2"/>
+      		<p>This inscription is found near tfaPallava537. It consists in one Sanskrit word in Grantha.</p>
       	</div>
       	
          <div type="bibliography">

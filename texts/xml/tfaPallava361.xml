@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Mahābalipuram, rock north of Gaṇeśaratha, set 1</title>
+				<title>Mahābalipuram, rock north of Gaṇeśaratha, word 1</title>
 				<respStmt>
 					<resp>creation of file</resp>
 					<persName ref="part:emfr">
@@ -51,40 +51,24 @@
 	<text xml:space="preserve">
       <body>
 
-<div type="edition" xml:lang="san-Latn"><!--update!-->
-
-<div type="textpart" subtype="item" n="1">
-<!--choice of item TBC-->
-<!--Sanskrit in Grantha-->
+<div type="edition" xml:lang="san-Latn">
          	
 	<p>
-         		<lb n="1"/>vikrī
+         		<lb n="1"/><hi rend="grantha">vikrī</hi>
          	</p>
-</div>
-	
-<div type="textpart" subtype="item" n="2">
-<!--choice of item TBC-->
-<!--Tamil-->
-	<p>
-		<lb n="1"/>nārayaṇa
-	</p>
-</div>
 	
 </div>
 
       	<div type="apparatus">
-      		<div type="textpart" subtype="item" n="1"/>
-      		<div type="textpart" subtype="item" n="2"/>
+      		
       	</div>
       	
       	<div type="translation" xml:lang="eng" resp="part:emfr">
-      		<div type="textpart" subtype="item" n="1"/>
-      		<div type="textpart" subtype="item" n="2"/>
+      		
       	</div>
       	
       	<div type="commentary">
-      		<div type="textpart" subtype="item" n="1"/>
-      		<div type="textpart" subtype="item" n="2"/>
+      		<p>This inscription is found near tfaPallava536. It consists in two syllables in Grantha.</p>
       	</div>
       	
          <div type="bibliography">
