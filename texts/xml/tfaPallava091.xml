@@ -60,7 +60,7 @@
          	
 <p xml:lang="tam-Latn">
 	
-<lb n="2"/>kō-vicaiya-nanti<space type="descender"/>vikkirama-parumaṟku yā 
+<lb n="2"/>kō-vicaiya-nanti-vikkirama-parumaṟku yā 
 <lb n="3" break="no"/>ṇṭ’ aṟupa<unclear>t</unclear>tiraṇ<unclear>ṭ</unclear>ā<unclear>va</unclear>tu <hi rend="grantha">sakala-jagatra</hi>
 <lb n="4" break="no"/>yā<hi rend="grantha">bhi</hi>va<hi rend="grantha">ndi</hi>ta-<hi rend="grantha">surāsurādhīśa-parameśvara-prati</hi> 
 <lb n="5" break="no"/><hi rend="grantha">hārikṛ</hi>ta-<hi rend="grantha">mahā</hi>va<hi rend="grantha">li-kulot·bha</hi>va-<hi rend="grantha">śrī</hi>-māvalivāṇa<hi rend="grantha">rā</hi>yar 
@@ -94,6 +94,11 @@
          <div type="apparatus">
 
          	<listApp>
+         		
+         		<app loc="2">
+         			<lem>°nanti-vikkirama°</lem>
+         			<note>There is a blank space between <foreign>°nanti°</foreign> and <foreign>°vikkirama°</foreign>, as the final character of line 1 (<foreign><hi rend="grantha">śrī</hi></foreign>) interrupts this word</note>
+         		</app>
          		
          		<app loc="3">
          			<lem>°jagatrayā°</lem>
