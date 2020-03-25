@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Corakōlatūr hero-stone</title>
+				<respStmt>
+					<resp>creation of file</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from the European Research
+						Council (ERC) under the European Union's Horizon 2020 research and
+						innovation programme (grant agreement no 809994).</note>
+				</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">tfaPallava522</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/><!-- don't modify this -->
+					</msIdentifier>
+					<msContents>
+						<summary>add summary</summary> <!-- update -->
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p>The letter ள் ḷ has a peculiar form</p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2020-03-25" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+      <body>
+
+        
+<div type="edition" xml:lang="tam-Latn">
+	
+<p><lb n="1" style="text-align: left"/>svasti śrī</p>
+<p><lb n="2" style="text-align: left"/>kōvicaiya-nanti-vikkirra<unclear>m</unclear>
+<lb n="3" break="no"/>ma-parumark<choice><orig>i</orig><reg>u</reg></choice> yāṇṭu patiṉēḻava
+<lb n="4" break="no"/>tu</p>
+<p>pal-kuṉrā-k-kōṭṭattu maṇṭaikuḷa-nā
+<lb n="5" break="no"/>ṭṭu-c curaikkuḷattu-t toṟu-k-kōḷil
+<lb n="6"/>ppaṭṭ<unclear>ā</unclear>r nilam peṟṟ<choice><unclear>u</unclear><unclear>a</unclear></choice> nāyakar Ataṭ
+<lb n="7" break="no"/>ṭiyār makaṉār ceruvaliyār</p> 
+
+</div>
+
+         <div type="apparatus">
+
+         	<listApp>
+         		<app loc="5">
+         			<lem>curaikkuḷattu</lem>
+         			<note>The reading <foreign>cuṉaikkuḷattu</foreign> is a possibility, but <foreign>ṉ</foreign> has not such a long stroke in the inscription.</note>
+         		</app>
+         	</listApp>
+
+         </div>
+
+         <div type="translation" xml:lang="eng" resp="part:emfr">
+         	
+<p>Prosperity! Fortune!</p>
+<p>Year twenty-seven of the victorious king Nandivikramavarman.</p>
+<p>Ceruvaliyār, son of Nāyakar Ataṭṭiyār, who fell in a cattle-raid at Curaikkuḷam in the Palkuṉrākkōṭṭam <supplied reason="explanation">and</supplied> in the Maṇṭaikuḷanāṭu, obtained a land.</p>
+
+         </div>
+         
+
+         <div type="commentary"/>
+
+         <div type="bibliography">
+
+            <p>
+First reported in <bibl><ptr target="bib:ARIE"/></bibl> with facsimile. 
+This edition by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:ARIE"/></bibl>.<!--update-->
+First English translation.
+            </p>
+                        	            	
+            <listBibl type="secondary">
+            	
+            	<bibl>ARIE 2018-19/B/371</bibl><!--update! and mention plate-->
+            	                       	
+           </listBibl>
+
+         </div>
+
+      </body>
+  </text>
+</TEI>
