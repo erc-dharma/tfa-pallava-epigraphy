@@ -50,91 +50,91 @@
 	</teiHeader>
 	<text xml:space="preserve">
       <body>
-         
-                 
+
+
          <div type="edition" xml:lang="tam-Latn">
             <p>
             	<lb n="1"/><hi rend="grantha">svasti śrī</hi> kō-vicaya-tantivik=kiramaparumaṟk=ku yāṇṭ’ āṟāvatu ciṅkapuranāṭṭuk= kīḻvaḻi
-            	
+
             	<lb n="2"/>Aruvākūrōṅ kai-y eḻuttu viṇṇakōvaraiyar ēṟṟuk=kuṉṟaṉār <hi rend="grantha"><unclear>bha</unclear></hi>ṭṭārik=ku-p pati
-            	
+
             	<lb n="3" break="no"/>ṉaṟu kaḻañcu poṉ ko
             	<gap reason="lost" unit="character" quantity="4"/>
             	<unclear>po</unclear>māy itaṉ poliyūṭṭu-t tamak=ku viṭai pōyppaṭṭa
-            	
+
             	<lb n="4"/>Utāraṭiyaiyum nampi
             	<gap reason="lost" unit="character" quantity="6"/>
             	ñ cārtti viṇṇakōvaraiyar vaitta tāṉam nicati nā
-            	
+
             	<lb n="5" break="no"/>ṉāḻi Arici tēcikappāṭu
-            	<gap reason="lost" unit="character" quantity="4"/> 
+            	<gap reason="lost" unit="character" quantity="4"/>
             	m āṉōm aruvākūrōm Ipparic’ ūraik= koṇṭ’ iyaṟṟu-vataṟk=ku
-            	
+
             	<lb n="6"/>vārikappaṭṭōm <hi rend="grantha">kāśya</hi>paru<unclear>m</unclear>
             	<gap reason="lost" unit="character" quantity="3"/>
             	ṇi paiyarum eṅ kuṭiyil nāyakañ ce<unclear reason="eccentric_ductus">y</unclear>tār iyaṟṟuvār-āka A
-            	
+
             	<lb n="7" break="no"/>maintōm Aṭṭi-muṭṭiyataṉāṟk=kāṟ-p-palicai Ēṟṟi viṇṇakōvaraiyar akattārk=ku-k= kuṭuppō-
-            	
+
             	<lb n="8" break="no"/>m āṉōm itaṟṟiṟampil-uṇṭikaiyum paṭṭikaiyuṅ kāṭṭātē nālē kāl mutalāka Iyṟ ṟaṇṭap
-            	
+
             	<lb n="9" break="no"/>paṭa Oṭṭik=kuṭuttōm aruvākūrōm
-            	
+
             </p>
          </div>
-                  
+
 <div type="apparatus">
-            
+
 	<listApp>
-		
+
 		<app loc="1">
 			<lem><hi rend="grantha"><unclear>bha</unclear></hi>ṭṭārik=ku-p</lem>
 			<note>The reading <foreign><unclear>pa</unclear>ṭṭārik=ku-p</foreign> is also possible.</note>
 		</app>
-		
+
 		<app loc="5">
 			<lem>ūraik= koṇṭ’</lem>
-			<rdg source="bib:VenkatasubbaAyyar_1943_01">ūraikekāṇṭ'</rdg>
+			<rdg source="bib:VenkatasubbaAyyar1943_01">ūraikekāṇṭ'</rdg>
 			<rdg source="bib:Mahalingam1988_01">ūraik koṇṭ’</rdg>
 			<note>We follow here the suggestion of Mahalingam.</note>
 		</app>
-		
+
 		<app loc="6">
 			<lem><hi rend="grantha">kāśya</hi>paru<unclear>m</unclear></lem>
-			<rdg source="bib:VenkatasubbaAyyar_1943_01"><hi rend="grantha">kāśyapa</hi>ru<unclear>m</unclear></rdg>
+			<rdg source="bib:VenkatasubbaAyyar1943_01"><hi rend="grantha">kāśyapa</hi>ru<unclear>m</unclear></rdg>
 		</app>
-		
+
 		<app loc="6">
 			<lem><gap reason="lost" unit="character" quantity="3"/>ṇi paiyarum</lem>
-			<rdg source="bib:VenkatasubbaAyyar_1943_01"><gap reason="lost" unit="character" quantity="4"/>paiyarum</rdg>
+			<rdg source="bib:VenkatasubbaAyyar1943_01"><gap reason="lost" unit="character" quantity="4"/>paiyarum</rdg>
 		</app>
-		
+
 		<app loc="6">
 			<lem>iyaṟṟuvār-āka</lem>
-			<rdg source="bib:VenkatasubbaAyyar_1943_01">iyaṟṟuv<unclear>ā</unclear>r-āka</rdg>
+			<rdg source="bib:VenkatasubbaAyyar1943_01">iyaṟṟuv<unclear>ā</unclear>r-āka</rdg>
 			<note>The letter <foreign>vā</foreign> is clear on the stone.</note>
 		</app>
-		
-	</listApp>         
-         
+
+	</listApp>
+
 </div>
-         
+
          <div type="translation" xml:lang="eng" resp="part:emfr"/>
          <!--add translation-->
-                  
+
          <div type="commentary"/>
-         
+
          <div type="bibliography">
-            
+
             <p>
-First edited in <bibl><ptr target="bib:VenkatasubbaAyyar_1943_01"/></bibl> with facsimile.
+First edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile.
 Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 100).
 This edition by Emmanuel Francis (2020), based on autopsy and photographs (2008).
 First English translation?
             </p>
-            
+
             <listBibl type="primary">
-            	
+
             	<bibl>
             		<ptr target="bib:Mahalingam1988_01"/>
             		<citedRange unit="item">100</citedRange>
@@ -142,23 +142,23 @@ First English translation?
             		<citedRange unit="plate">V</citedRange>
 
             	</bibl>
-            	
+
             	<bibl>
-            		<ptr target="bib:VenkatasubbaAyyar_1943_01"/>
+            		<ptr target="bib:VenkatasubbaAyyar1943_01"/>
             		<citedRange unit="item">42</citedRange>
             		<citedRange unit="page">17</citedRange>
             		<citedRange unit="plate">V</citedRange>
             	</bibl>
-            	
+
             </listBibl>
-                       
+
             <listBibl type="secondary">
               <bibl>ARIE 1916/283</bibl> <!--to be updated-->
             	<bibl/>
            </listBibl>
-        
+
          </div>
-         
+
       </body>
   </text>
 </TEI>
