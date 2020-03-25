@@ -217,8 +217,11 @@ This edition by Emmanuel Francis (2020), based on autopsy and photographs (2008)
 
 <listBibl type="secondary">
 	
+	<bibl>ARIE 1904-05/B/50 (ARIE/SI/1905/50)</bibl>
+	<!--to be updated-->
+	
 	<bibl>
-		<ptr target="bib:VenkatasubbaAyyar_1943_01"/>
+		<ptr target="bib:VenkatasubbaAyyar1943_01"/>
 		<citedRange unit="item">11</citedRange>
 		<citedRange unit="page">7</citedRange>
 	</bibl>
@@ -227,10 +230,7 @@ This edition by Emmanuel Francis (2020), based on autopsy and photographs (2008)
 		<ptr target="bib:Srinivasan1964_01"/>
 		<citedRange>71-68</citedRange>
 	</bibl>
-		
-	<bibl>ARIE 1904-05/B/50 (ARIE/SI/1905/50)</bibl>
-	<!--to be updated-->
-	
+			
 	<!--Add Peruntokai-->
 	<!--Add Jouveau-Dubreuil-->
 	
