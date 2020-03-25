@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Talavāṉūr Pillar inscription, time of Narēntirappōttaraiyaṉ</title>
+				<title>Talavāṉūr pillar inscription, time of Narēntirappōttaraiyaṉ</title>
 				<respStmt>
 					<resp>creation of file</resp>
 					<persName ref="part:emfr">
@@ -53,8 +53,8 @@
 
       	<div type="edition" xml:lang="tam-Latn">
       		
-      		<div type="textpart" subtype="face" n="A">
-      			<head xml:lang="eng">Eastern face of the pillar</head>
+<div type="textpart" subtype="face" n="A">
+<head xml:lang="eng">Eastern face of the pillar</head>
       			
 <lg met="veṇpā">
 	
@@ -102,8 +102,10 @@ cara mikka ve
 
 <div type="apparatus">
 
-<listApp>
-              
+<div type="textpart" subtype="face" n="A">
+<head xml:lang="eng">Eastern face of the pillar</head>
+	<listApp>
+           
 	<app loc="1"> 
 		<lem><hi rend="grantha">śrī</hi></lem>
 		<note>We follow here <bibl><ptr target="bib:Hultzsch1913-1914_01"/></bibl> in considering <foreign><hi rend="grantha">śrī</hi></foreign> as an initial benediction. It could alternatively be analysed as a prefix to <foreign>toṇṭai-y-an-tār-vēntaṉ</foreign>, that is "the glorious <supplied reason="explanation"><hi rend="grantha">śrī</hi></supplied> king with the beautiful garland of <foreign>toṇṭai</foreign></note>
@@ -144,29 +146,42 @@ cara mikka ve
 		<rdg source="bib:Hultzsch1913-1914_01">āka-v aṅku</rdg>
 		<rdg source="bib:Mahalingam1988_01">āka-v aṅku</rdg>
 	</app>
-				
+					
 	</listApp>
-
+</div>
          </div>
 
 <div type="translation" xml:lang="eng" source="bib:Hultzsch1913-1914_01">
 	<!--reproduce Hultzsch's notes!-->
-      	<p n="1-10"> 
-Prosperity! The king <supplied reason="subaudible">who wore</supplied> a beautiful garland of <foreign>toṇtai</foreign>, Narendra-Pōttaraiyaṉ, whose cruel bow bristled with arrows, made with great joy in the south of Veṇpēṭṭu <supplied reason="subaudible">this temple</supplied> named Śatrumallēśvarālaya, to be the residence of Hara <supplied reason="explanation">Śiva</supplied>.
+	<note>Translation by Hultzsch (1913-1914). Standardised according to DHARMA TG and EG.</note><!--check-->
+<div type="textpart" subtype="face" n="A">
+<head xml:lang="eng">Eastern face of the pillar</head>
+      		<p n="1-10"> 
+Prosperity! The king <supplied reason="subaudible">who wore</supplied> a beautiful garland of <foreign>toṇṭai</foreign>, Narendra-Pōttaraiyaṉ, whose cruel bow bristled with arrows, made with great joy in the south of Veṇpēṭṭu <supplied reason="subaudible">this temple</supplied> named Śatrumallēśvarālaya, to be the residence of Hara <supplied reason="explanation">Śiva</supplied>.
       	</p>
+</div>
+<div type="textpart" subtype="face" n="B">
+ <head xml:lang="eng">Southern face of the pillar</head>
 	<p n="11-15">
 	Brahmamaṅgalavaṉ Śellaṉ Śivadāsa of this village composed this.	
 	</p>
-	<note>Translation by Hultzsch (1913-1914). Standardised according to DHARMA TG and EG.</note><!--check-->
 </div>
+</div>
+      	
 <div type="translation" xml:lang="fre" resp="part:emfr">      	
-<p n="1-10">
+<div type="textpart" subtype="face" n="A">
+<head xml:lang="eng">Eastern face of the pillar</head>
+	<p n="1-10">
 Fortune ! Le roi à la belle guirlande de <foreign>toṇṭai</foreign> (ou: Le glorieux roi à la belle guirlande de <foreign>toṇṭai</foreign>), le roi-Pallava (ou: le roi-taureau) <supplied reason="explanation"><foreign>pōtt-araiyaṉ</foreign></supplied> Narendra, dont l’arc cruel/furieux regorge de flèches, au sud de Veṇpēṭu <supplied reason="explanation">le hameau blanc</supplied>, avec grande joie, a fait en sorte <supplied reason="explanation"><foreign>kaṇṭāṉ</foreign>, littéralement: a supervisé</supplied> qu’il y ait pour Araṉ <supplied reason="explanation">Skt. Hara, i.e Śiva</supplied> un lieu <supplied reason="explanation"><foreign>iṭam</foreign></supplied> nommé <supplied reason="explanation"><foreign>eṉṟu</foreign></supplied> demeure du Seigneur de Catturumalla <supplied reason="explanation">Skt. Śatrumalla</supplied>.
 </p>
+</div>
 	
-<p n="11-15">
+<div type="textpart" subtype="face" n="B">
+ <head xml:lang="eng">Southern face of the pillar</head>
+	<p n="11-15">
 Ce qu’a composé <supplied reason="explanation"><foreign>colliyatu</foreign>, littéralement: ce qu'a dit</supplied> Brammamaṅkalavaṉ Cellaṉ Civadāsan <supplied reason="explanation">Skt. Śivadāsa</supplied> de ce village.
 </p>
+</div>
 	
 </div>
       	

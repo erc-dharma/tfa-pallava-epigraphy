@@ -64,7 +64,7 @@
         		<div type="textpart" subtype="item" n="B">
         			<head xml:lang="eng">Right/North Pillar</head>
         			<p>
-        			<lb n="2"/>cat<unclear>·</unclear>turu<orig>m<unclear>·</unclear>m</orig>allaṉ· kuṇaparaṉ·
+        			<lb n="2"/>cat<unclear>·</unclear>turu<choice><orig>m<unclear>·</unclear><!--unclear inside <orig> not diplayed in html-->m</orig><reg>m</reg></choice>allaṉ· kuṇaparaṉ·
         			<lb n="3"/>mayēn·tira-p-pōt·t-arēcaru Aṭiyāṉ·
         			<lb n="4"/>vayan·tap·piri Arēcaru makaṉ· kan·tacēṉa
         			<lb n="5" break="no"/>ṉ· ceyivit<unclear>·</unclear>ta tēvakulam· <g type="symbol" subtype="finalGomutra"/>
@@ -76,8 +76,9 @@
           <div type="apparatus"/>
 
             <div type="translation" xml:lang="eng" source="bib:Hultzsch1895_01">
+            	<note>Translation by Hultzsch (1895). Standardised according to DHARMA TG and EG.</note><!--check-->
 <p>Kantaceṉaṉ <supplied reason="explanation">Skandasena</supplied>, the son of Vayantappiriarecaru <supplied reason="explanation">Vasantapriyarāja</supplied>, the servant of Pagāppiṭuku Laḷitāṅkuraṉ <supplied reason="explanation">Lalitāṅkura</supplied> Catturummallaṉ <supplied reason="explanation">Śatrumalla</supplied> Kuṇaparaṉ <supplied reason="explanation">Guṇabhara</supplied> Mayentirappōttarecaru <supplied reason="explanation">Mahendrapōtarāja</supplied>, caused <supplied reason="subaudible">this</supplied> temple <supplied reason="explanation"><foreign>devakula</foreign></supplied> to be made.</p>
-<note>Translation by Hultzsch (18954). Standardised according to DHARMA TG and EG.</note><!--check-->
+
             </div>
 
 

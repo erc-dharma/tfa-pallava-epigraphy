@@ -140,7 +140,7 @@
   			</app>
   			
   			<app loc="40">
-  				<lem>ṉāṉ<num><g>1000</g></num></lem>
+  				<lem><num><g>1000</g></num></lem>
   				<note><bibl><ptr target="bib:Venkayya1912_01"/></bibl> notes: "This symbol for one thousand occurs in one of the Nānāghāṭ inscriptions. This line has been read by Mr. Gopinatha Rao as <hi rend="italic">°ṉāṛai<!--check original spelling--></hi> which is probably a printer’s mistake for <hi rend="italic">°ṉārai<!--check original spelling--></hi>. The reading <hi rend="italic">°ṉārai</hi> is unlikely as the symbol for <hi rend="italic">ai</hi>, in other cases where it occurs in the inscription (ll. 6, 22 and 30), is not separated from the consonant to which it belongs. Besides the accusative <hi rend="italic">°ṉārai</hi> would be wrong and would have to be corrected into <hi rend="italic">°nāṉ</hi> or <hi rend="italic">°ṉār</hi>."</note>
   			</app>
   			

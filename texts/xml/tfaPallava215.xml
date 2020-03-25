@@ -54,7 +54,7 @@
 		
 		<div type="edition" xml:lang="tam-Latn">
 <p>
-<lb n="1"/><hi rend="grantha">svasti śrī</hi> kampava<hi rend="grantha"><unclear>r</unclear>mma</hi>ṟku yāṇṭu patin<orig>ā</orig>ñcāvatu Uṭkar <hi rend="grantha">sabhai</hi>yōm Eḻuttuc caṭaiyaṉ pakkal āyira-k-kāṭi nel koṇ
+<lb n="1"/><hi rend="grantha">svasti śrī</hi> kampava<hi rend="grantha"><unclear>r</unclear>mma</hi>ṟku yāṇṭu patin<choice><orig>ā</orig><reg>ai</reg></choice>ñcāvatu Uṭkar <hi rend="grantha">sabhai</hi>yōm Eḻuttuc caṭaiyaṉ pakkal āyira-k-kāṭi nel koṇ
 <lb n="2" break="no"/>ṭōm Ivv-āyira-k-kāṭi nellālum palicai Aynnūṟṟukkāṭi nel āṭṭāṇṭu tōṟum ērikk’ aṭṭi Ikuttuvippōm āṉōm <hi rend="grantha">sabhai</hi>
 <lb n="3" break="no"/>yōm Ii<unclear>t’</unclear> <unclear>a</unclear>ṉṟ’ eṉṟār kaṅkai Iṭaik= kumari Iṭai ceytār ceyta pāvam paṭuvar āka-p paṇittōm <hi rend="grantha">sam<unclear>·</unclear>batsa</hi>ravāriyapperumakkaḷē Aṭṭuvik=ka kaṭavār <unclear>|</unclear>
 </p>
@@ -95,18 +95,19 @@
          </div>
          
 <div type="translation" xml:lang="eng" resp="part:emfr">
-
+	
+	
 <p>Prosperity! Fortune!</p>
          	
-<p>Fifteenth year of Kampavarman <supplied reason="explanation"><foreign>kampava<unclear>r</unclear>mmaṉ</foreign></supplied></p>
- 
-<p>Writings <supplied reason="explanation">i.e. writ</supplied> of We the members of the assembly <supplied reason="explanation"><foreign>sabhā</foreign></supplied> of Uṭkar.</p>
+<p>Fifteenth year of Kampavarman <supplied reason="explanation"><foreign><hi rend="grantha">kampava<unclear>r</unclear>mma</hi>ṉ</foreign></supplied></p>
+
+<p>Writings <supplied reason="explanation">i.e. writ</supplied> of We the members of the assembly <supplied reason="explanation"><foreign><hi rend="grantha">sabhai</hi></foreign>, i.e. Skt. <foreign>sabhā</foreign></supplied> of Uṭkar.</p>
          	
 <p>We have got <supplied reason="explanation">i.e. received</supplied> one thousand <foreign>kāṭi</foreign> from Caṭaiyaṉ.</p>
          	
-<p>Having endowed/supplied <supplied reason="explanation"><foreign>aṭṭi</foreign></supplied> for the tank the interest of five hundred <foreign>kāṭi</foreign> every year <supplied reason="subaudible">which comes</supplied> through the paddy of these one thousand <foreign>kāṭi</foreign>, We, the members of the assembly <supplied reason="explanation"><foreign>sabhā</foreign></supplied> are those who will close <supplied reason="subaudible">it, i.e. the sluice of the tank</supplied>.</p>
+<p>Having endowed/supplied <supplied reason="explanation"><foreign>aṭṭi</foreign></supplied> for the tank the interest of five hundred <foreign>kāṭi</foreign> every year <supplied reason="subaudible">which comes</supplied> through the paddy of these one thousand <foreign>kāṭi</foreign>, We, the members of the assembly <supplied reason="explanation"><foreign><hi rend="grantha">sabhā</hi></foreign></supplied> are those who will close <supplied reason="subaudible">it, i.e. the sluice of the tank</supplied>.</p>
          	
-<p>Those who say it is not so, let them undergo the sin done by those who do <supplied reason="explanation">ceytār</supplied> <supplied reason="subaudible">sin</supplied> between the Ganges and Kumari <supplied reason="explanation">i.e. Kaṉṉiyākumari</supplied>.</p>
+<p>Those who say it is not so, let them undergo the sin done by those who do <supplied reason="explanation"><foreign>ceytār</foreign></supplied> <supplied reason="subaudible">sin</supplied> between the Ganges and Kumari <supplied reason="explanation">i.e. Kaṉṉiyākumari</supplied>.</p>
          	
 <p><supplied reason="subaudible">So</supplied> have we ordered/declared <supplied reason="explanation"><foreign>paṇittōm</foreign></supplied>.</p>
          	

@@ -58,7 +58,7 @@
 <lb n="1"/><hi rend="grantha">svasti śrī</hi> kō-vicaiya-ka
 <lb n="2" break="no"/>mpa-vikkiramaparumaṟku yā
 <lb n="3" break="no"/>ṇṭu patiṉēḻ-āvatu
-<lb n="4"/>Innāṭṭ-uṭaiya <hi rend="grantha">pṛthi</hi><orig>ya</orig>
+<lb n="4"/>Innāṭṭ-uṭaiya <hi rend="grantha">pṛthi</hi><choice><orig>ya</orig><reg>vīka</reg></choice>
 <lb n="5" break="no"/>ṅkaraiyarum Ivar tē
 <lb n="6" break="no"/>viyār Ilāṭapperuntē
 <lb n="7" break="no"/>viyārum taṅkaḷ maka<choice><unclear>ṉ</unclear><unclear>ḷ</unclear></choice>
@@ -70,12 +70,12 @@
 
 <p>
 <lb n="9"/>Ivv-iruvarum ceyta
-<lb n="10"/><orig><hi rend="grantha">dhamma</hi>m</orig> valivalak=ka-maṅka
+<lb n="10"/><choice><orig><hi rend="grantha">dhamma</hi>m</orig><reg><hi rend="grantha">dharmma</hi>m</reg></choice> valivalak=ka-maṅka
 <lb n="11" break="no"/>lattu Ērik=kuk= kaṇṭa Ā
 <lb n="12" break="no"/>ṟṟu-k=-kāl Ik-kāl viḻu
-<lb n="13" break="no"/>ppērararaiya<orig>n</orig> <orig>I<hi rend="grantha">dha	
-<lb n="14" break="no"/>mma</hi>m</orig> Itu Ira<hi rend="grantha">kṣi</hi>ppāṉ
-<lb n="15" break="no"/><orig>ṉ</orig> aṭi Eṉ muṭi mēl
+<lb n="13" break="no"/>ppērararaiya<choice><orig>n</orig><reg>ṉ</reg></choice> I-<choice><orig><hi rend="grantha">dha	
+<lb n="14" break="no"/>mma</hi>m</orig><reg><hi rend="grantha">dharmma</hi>m</reg></choice> Itu Ira<hi rend="grantha">kṣi</hi>ppā<choice><orig>ṉ
+<lb n="15" break="no"/>ṉ</orig><reg>ṉ</reg></choice> aṭi Eṉ muṭi mēl
 </p>
          </div>
 </div>
@@ -83,29 +83,25 @@
          <div type="apparatus">
 
          	<listApp>
-         		
-         		<app loc="4">
-         			<lem><hi rend="grantha">pṛthi</hi><orig>ya</orig>ṅkaraiyarum</lem>
-         			<note>I.e. pṛthivīkaṅkaraiyarum</note>
-         		</app>
-         		
+         		         		         		
          		<app loc="7">
          			<lem>maka<choice><unclear>ṉ</unclear><unclear>ḷ</unclear></choice></lem>
          			<rdg source="bib:Sundaram1959-1960_01">maka<unclear>ḷ</unclear></rdg>
          		</app>
          		
          		<app loc="10">
-         			<lem><orig><hi rend="grantha">dhamma</hi>m</orig></lem>
+         			<lem><choice><orig><hi rend="grantha">dhamma</hi>m</orig><reg><hi rend="grantha">dharmma</hi>m</reg></choice></lem>
          			<rdg source="bib:Sundaram1959-1960_01"><hi rend="grantha">dha<unclear>r</unclear>mma</hi>m</rdg>
          		</app>
          		
          		<app loc="13">
-         			<lem><orig>I<hi rend="grantha">dhamma</hi>m</orig></lem>
-         			<rdg source="bib:Sundaram1959-1960_01"><hi rend="grantha">dha<unclear>r</unclear>mma</hi>m</rdg>
+         			<lem>I-<choice><orig><hi rend="grantha">dhamma</hi>m</orig><reg><hi rend="grantha">dharmma</hi>m</reg></choice></lem>
+         			         			
+         			<rdg source="bib:Sundaram1959-1960_01">I-<hi rend="grantha">dha<unclear>r</unclear>mma</hi>m</rdg>
          		</app>
          		
          		<app loc="14">
-         			<lem>Ira<hi rend="grantha">kṣi</hi>ppāṉ<orig>ṉ</orig> aṭi</lem>
+         			<lem>Ira<hi rend="grantha">kṣi</hi>ppāṉ<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> aṭi</lem>
          			<rdg source="bib:Sundaram1959-1960_01">Ira<hi rend="grantha">kṣi</hi>ppāṉ<unclear>ṉ a</unclear>ṭi</rdg>
          		</app>
          		
