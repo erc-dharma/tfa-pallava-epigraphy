@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Uruvapalli grant</title>
+				<title>Uruvupalli grant</title>
 				<respStmt>
 					<resp>creation of file</resp>
 					<persName ref="part:emfr">
@@ -74,11 +74,11 @@
         	<head xml:lang="eng">Plates</head>
         	<pb n="1r"/>
       	 	<p>
-<fw place="bot-left" n="2r">MARGIN: symbol for 1</fw>
+<fw place="bot-left" n="2r">1<!--<g type="numeral">1</g>--></fw>
 <lb n="1"/>RECTO: jitaṃ bhagavatā śrī-vijaya-palakkaḍa-sthānāt parama-brahmaṇyasya sva
 <lb n="2" break="no"/>bāhu-balārjitorjita-kṣātra-tapo-nidheḥ vihita-sarvva-maryyādasya
 <lb n="3"/>sthiti-<space type="binding-hole"/>sthitasyāmitātmano mahārajasya śrī-skandavarmmaṇaḥ
-<lb n="4"/>prapautrasyārccita-śakti-siddhi-sampannasya pratāpopanata-rāja-
+<lb n="4"/>prapautrasyā<unclear>r</unclear>ccita-śakti-siddhi-sampannasya pratāpopanata-rāja-
         	</p>
         </div>
       	<div type="apparatus">
@@ -86,10 +86,22 @@
          	<listApp>
          		
          		<app loc="1">
-         			<lem/>
-         			<rdg source="bib:AuthorYear_01"/>
+         			<lem>śrī</lem>
+         			<note>The word <foreign>śrī</foreign> could be considered a  second auspicious opening formula (see translations by Fleet 1876, Brocquet 1997<!--Update!-->), but it appears to be an honorific prefix to the issuing placename as in <foreign>vijaya-śrī-palakkaḍa-sthānāt</foreign> tfaPallava007<!--Update!--> and <foreign>śrīmad-vijaya-daśanapurādhiṣṭ<supplied reason="omitted">[h*]</supplied>ānāt</foreign> tfaPallava247<!--Update!-->.</note>
          		</app>
-         		
+         		<app loc="1">
+         			<lem>palakkaḍa</lem>
+         			<rdg source="bib:Fleet1876_01">palakkada</rdg>
+         			<rdg source="bib:Mahalingam1988_01">palakkaḍa</rdg>
+         		</app>
+         		<app loc="4">
+         			<lem>prapautrasyā<unclear>r</unclear>ccita°</lem>
+         			<rdg source="bib:Fleet1876_01">prapautrasyārccita</rdg>
+         			<rdg source="bib:Mahalingam1988_01">prapautrasyārccita</rdg>
+         			<!--Brocquet-->
+         			<note>The vowel <foreign>i</foreign> in <foreign>rcci</foreign>, which is postcript, is perfectly round and shows no inclusion of a <foreign>repha</foreign>.</note>
+         		</app>
+         		         		
          	</listApp>
 
       	</div>
@@ -102,7 +114,7 @@
 
          <div type="bibliography">
 <p>First edited in <bibl><ptr target="bib:Fleet1876_01"/><!--put in zotero--></bibl> with facsimile and English translation.
-Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 006).
+Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 6).
 This edition by Emmanuel Francis (2020), based on autopsy and photographs of the original plates in Edinburgh University Library (2017).
             </p>
 
