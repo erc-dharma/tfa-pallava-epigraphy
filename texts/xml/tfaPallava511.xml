@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Bairakūr hero-stone</title>
+				<respStmt>
+					<resp>creation of file</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from the European Research
+						Council (ERC) under the European Union's Horizon 2020 research and
+						innovation programme (grant agreement no 809994).</note>
+				</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">tfaPallava511</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary><!--to be added--></summary> 
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p></p>
+													</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2020-03-30" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+      <body>
+
+ 
+         <div type="edition" xml:lang="tam"> <!--add Vaṭṭeḻuttu-->
+
+<p>
+	<lb n="1"/>கோவிசையஈச்சுவர
+	<lb n="2" break="no"/>பருமற்கி பந்நிர
+	<lb n="3" break="no"/>ண்டாவது
+</p>
+<p>
+	காரோ<choice><unclear>நி</unclear><unclear>னி</unclear></choice>ரி
+	<lb n="4"/>வாணராசர்ப் பொர்ச்
+	<lb n="5" break="no"/>சிறைஊறிய வாண
+	<lb n="6" break="no"/><unclear>ராசர்</unclear> <gap reason="illegible" quantity="1" unit="character"/> பட்டார் <gap reason="illegible" quantity="1" unit="character"/> <unclear>ய</unclear></p>
+         </div>
+
+         <div type="edition" xml:lang="tam-Latn">
+         	
+            <p>
+            	<lb n="1"/>kō-vicaiya-Īccuvara
+            	<lb n="2" break="no"/>parumaṟki pannira
+            	<lb n="3"/>ṇṭ-āvatu 
+            </p>
+         	<p>
+         		kārō<choice><unclear>n</unclear><unclear>ṉ</unclear></choice>iri
+         		<lb n="4"/>vāṇarācar-p pōr-c
+         		<lb n="5" break="no"/>ciṟai-Ūṟiya vāṇa
+         		<lb n="6" break="no"/><unclear>rācar</unclear> <gap reason="illegible" quantity="1" unit="character"/> paṭṭār <gap reason="illegible" quantity="1" unit="character"/> <unclear>ya</unclear>
+         	</p>
+         </div>
+
+         <div type="apparatus">
+
+         	<listApp>
+         		<app loc="3">     			<lem>kārō<choice><unclear>n</unclear><unclear>ṉ</unclear></choice>iri</lem>
+         			<rdg source="bib:EC"><!--Update!-->kārōniri</rdg>
+         			<rdg source="bib:Sarasvatam"><!--Update!-->kārōṉiri</rdg>
+         		</app>
+         	</listApp>
+
+         </div>
+
+         <div type="translation" xml:lang="eng" resp="part:emfr">
+       <p>Twelfth year of Īśvaravarman <supplied reason="explanation">Īccuvaraparumaṉ</supplied>.</p>
+<p><supplied reason="subaudible">During</supplied> a fight/battle <supplied reason="subaudible">with</supplied> the Bāṇa king <supplied reason="explanation"><foreign>vāṇarācar</foreign></supplied> Kārōniri (or: Kārōṉiri),  the Bāṇa king of Ciṟaiyūr fell.</p>
+</div>
+         <div type="commentary"/>
+
+         <div type="bibliography">
+
+            <p>
+First edited in <bibl><ptr target="bib:EC"/><!--update!--></bibl> with facsimile and English translation.
+Not included in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl>.
+This edition by Emmanuel Francis (2020), based on the facsimile published in (2008)<bibl><ptr target="bib:EC"/><!--update!--></bibl>.
+            </p>
+
+            <listBibl type="primary">
+            	
+            	<bibl>
+            		<ptr target="bib:EC"/> <!--Update!-->
+            		<citedRange unit="item">No</citedRange>
+            		<citedRange unit="page">pages</citedRange>
+            	</bibl>
+            	<bibl>
+            		<ptr target="bib:Sarasvatam"/> <!--Update!-->
+            		<!--add URL-->
+            	</bibl>
+            	
+            </listBibl>
+
+         </div>
+      	
+      </body>
+  </text>
+</TEI>
