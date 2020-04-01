@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary><!--to be added--></summary> 
+						<summary>Hero-stone set up in honour of Aṭiyār who fell at Ciṟiyūr in a battle with Kārōniri Bāṇarāja.</summary> 
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -65,8 +65,10 @@
       <body>
 
  
-         <div type="edition" xml:lang="tam"> <!--add Vaṭṭeḻuttu-->
-
+         <div type="edition" xml:lang="tam">
+         	<!--Add Vaṭṭeḻuttu-->
+         	<!-- Have Vaṭṭeḻuttu dont displayed in html-->
+         	
 <p>
 	<lb n="1"/>கோவிசையஈச்சுவர
 	<lb n="2" break="no"/>பருமற்கி பந்நிர
@@ -100,31 +102,31 @@
          		
          		<app loc="3">
          			<lem>kārō<choice><unclear>n</unclear><unclear>ṉ</unclear></choice>iri</lem>
-         			<rdg source="bib:EC"><!--Update!-->kārōniri</rdg>
-         			<rdg source="bib:Sarasvatam"><!--Update!-->kārōṉiri</rdg>
+         			<rdg source="bib:EC"><!--Update!-->kāroniri</rdg>
+         			<rdg source="bib:SankaraNarayanan2016_01">kāroṉiri</rdg>
          		</app>
          
          		<app loc="4">
          			<lem>pōr-c</lem>
-         			<rdg source="bib:Sarasvatam"><!--Update!-->pōr</rdg>
+         			<rdg source="bib:SankaraNarayanan2016_01">pōr</rdg>
          		</app>
          		
          		<app loc="5">
          			<lem>ciṟai</lem>
-         			<rdg source="bib:Sarasvatam"><!--Update!-->cciṟai</rdg>
+         			<rdg source="bib:SankaraNarayanan2016_01">cciṟai</rdg>
          		</app>
          		
          		<app loc="5">
          			<lem>Ū<choice><orig>ṟ</orig><reg>r</reg></choice>iya</lem>
          			<rdg source="bib:EC"><!--Update!-->Ū<gap reason="illegible" quantity="2" unit="character"/>ṟiya</rdg>
-         			<rdg source="bib:Sarasvatam"><!--Update!-->Ū<gap reason="illegible" extent="unknown" unit="character"/>ṟiya</rdg>
+         			<rdg source="bib:SankaraNarayanan2016_01">Ū<gap reason="illegible" extent="unknown" unit="character"/>ṟiya</rdg>
          			<note></note>
          		</app>
          		
          		<app loc="6">
          			<lem>rācar <gap reason="illegible" quantity="1" unit="character"/> paṭṭār <gap reason="illegible" quantity="1" unit="character"/> ya</lem>
          			<rdg source="bib:EC"><!--Update!-->rācar <gap reason="illegible" quantity="2" unit="character"/> ya paṭṭār <gap reason="illegible" quantity="1" unit="character"/> ya</rdg>
-         			<rdg source="bib:Sarasvatam"><!--Update!-->rācar ya paṭṭār <gap reason="illegible" extent="unknown" unit="character"/> ya</rdg>
+         			<rdg source="bib:SankaraNarayanan2016_01">rācar ya paṭṭār <gap reason="illegible" extent="unknown" unit="character"/> ya</rdg>
          		</app>
          		
          		
@@ -133,42 +135,59 @@
 
          </div>
 
-         <div type="translation" xml:lang="eng" resp="part:emfr">
-       <p>Twelfth year of Īśvaravarman <supplied reason="explanation">Īccuvaraparumaṉ</supplied>.</p>
-<p><supplied reason="subaudible">During</supplied> a fight/battle <supplied reason="subaudible">with</supplied> the Bāṇa king <supplied reason="explanation"><foreign>vāṇarācar</foreign></supplied> Kārōniri (or: Kārōṉiri),  the Bāṇa king of Ciṟaiyūr fell.</p>
+         <div type="translation" xml:lang="eng" source="bib:Hultzsch1902-1903_01">
+       <p>In the twelfth <supplied reason="subaudible">year of the reign</supplied> of king Vijaya-Īśvaravarman, when Kārōniri Bāṇarāja seized Ciṟaiyūr in battle, Aṭiyār fell, cut down by Bāṇarāja.<note>fn3: Literally, ‘while Bāṇarāja cut (him) down.’</note></p>
+         		<note>Text standardised according to DHARMA TG and EG.</note><!--check-->
 </div>
          <div type="commentary">
          	
          	<p>
-         		Īśvaravarman <supplied reason="explanation">Īccuvaraparumaṉ</supplied> is most probably a Pallava king, as his name is prefixed with <foreign>kō-vicaiya-</foreign>. He might be identified with Parameśvaravarman I or  Parameśvaravarman II. See Sarasvatam.<!--Update!-->
+Īśvaravarman <supplied reason="explanation">Īccuvaraparumaṉ</supplied> is most probably a Pallava king, as his name is prefixed with <foreign>kō-vicaiya-</foreign>. He might be identified with Parameśvaravarman I or Parameśvaravarman II. For other hero-stones dated in the reign of Īśvaravarman, see tfaPallava252, tfaPallava253, and tfaPallava297<!--update refs-->. 
          	</p>
-         	<p>See intro EC.<!--Update!--></p>
-         	<!--See EI. not Biarakūr, but Hebbini-->
-         	
+         	<p>
+The stone <cit><quote>bears the representation of a bearded warrior with helmet, sword, shield and sword-belt</quote><bibl><ptr target="bib:Hultzsch1902-1903_01"/><citedRange unit="page">24</citedRange></bibl></cit>.</p>
+         	<p>
+The placename is spelt Hebbaṇi in <bibl><ptr target="bib:EC"/><citedRange unit="page">148</citedRange> of the section "Text of the inscriptions in Roman characters", while the facsimile, next page, is labelled "Bairakūr vaṭṭeḻuttu stone."</bibl><!--Update!-->
+         	</p>
+                  	
          </div>
       	
          <div type="bibliography">
 
             <p>
 First edited in <bibl><ptr target="bib:EC"/><!--update!--></bibl> with facsimile and English translation.
-Not included <!--check Hebbini--> in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl>.
-This edition by Emmanuel Francis (2020), based on the facsimile published in (2008)<bibl><ptr target="bib:EC"/><!--update!--></bibl>.
+Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 252).
+This edition by Emmanuel Francis (2020), based on the edition and facsimile published in <bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl>.
             </p>
 
             <listBibl type="primary">
             	
             	<bibl>
-            		<ptr target="bib:EC"/> <!--Update!-->
+            		<ptr target="bib:Hultzsch1902-1903_01"/>
+            		<citedRange unit="item">III</citedRange>
+            		<citedRange unit="page">24-25</citedRange>
+            	</bibl>
+            	<bibl>
+            		<ptr target="bib:EC"/>
+            		<!--EC 10, Mulbagal Taluk, 211 + pp. XXI-XXII of the intro-->
+            		<!--Update!-->
             		<citedRange unit="item">No</citedRange>
             		<citedRange unit="page">pages</citedRange>
             	</bibl>
             	<bibl>
-            		<ptr target="bib:Sarasvatam"/> <!--Update!-->
-            		<!--add URL
-            		http://sarasvatam.in/en/2016/01/26/va%e1%b9%ad%e1%b9%ade%e1%b8%b9uttu-inscription-of-paramesvara-varma-i-from-kar%e1%b9%87a%e1%b9%adaka/
-            		-->
+            		<ptr target="bib:SankaraNarayanan2016_01"/>
             	</bibl>
+            	            	
+            </listBibl>
+         	
+         	<listBibl type="secondary">
             	
+            	<bibl>
+            		<ptr target="bib:ARIE"/>
+            		<!--ARIE 1899/101-->
+            		<!--Update!-->
+            	</bibl>
+         		            	            	
             </listBibl>
 
          </div>
@@ -176,3 +195,5 @@ This edition by Emmanuel Francis (2020), based on the facsimile published in (20
       </body>
   </text>
 </TEI>
+
+<!--On a stone lying near the Gopālakṛṣṇa temple at Hebbiṇi-->
