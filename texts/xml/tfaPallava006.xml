@@ -70,17 +70,26 @@
         	<ab>No inscription on seal. </ab>
         </div>
       	
-      	 <div type="textpart" xml:lang="san-Latn" n="B">
-        	<head xml:lang="eng">Plates</head>
-        	<pb n="1r"/>
-      	 	<p>
-<fw place="bot-left" n="2r">1<!--<g type="numeral">1</g>--></fw>
-<lb n="1"/>RECTO: jitaṃ bhagavatā śrī-vijaya-palakkaḍa-sthānāt parama-brahmaṇyasya sva
-<lb n="2" break="no"/>bāhu-balārjitorjita-kṣātra-tapo-nidheḥ vihita-sarvva-maryyādasya
-<lb n="3"/>sthiti-<space type="binding-hole"/>sthitasyāmitātmano mahārajasya śrī-skandavarmmaṇaḥ
-<lb n="4"/>prapautrasyā<unclear>r</unclear>ccita-śakti-siddhi-sampannasya pratāpopanata-rāja-
-        	</p>
-        </div>
+      	<div type="textpart" xml:lang="san-Latn" n="B">
+      		<head xml:lang="eng">Plates</head>
+      		<pb n="1r"/>
+      		<p>
+      			<fw place="bot-left" n="2r">1<!--<g type="numeral">1</g>--></fw>
+      			<lb n="1"/>RECTO: jitaṃ bhagavatā śrī-vijaya-palakkaḍa-sthānāt parama-brahmaṇyasya sva
+      			<lb n="2" break="no"/>bāhu-balārjitorjita-kṣātra-tapo-nidheḥ vihita-sarvva-maryyādasya
+      			<lb n="3"/>sthiti-<space type="binding-hole"/>sthitasyāmitātmano mahārajasya śrī-skandavarmmaṇaḥ
+      			<lb n="4"/>prapautrasyā<unclear>r</unclear>ccita-śakti-siddhi-sampannasya pratāpopanata-rāja-
+      		</p>
+      		<pb n="1v"/>
+      		<pb n="2r"/>
+      		<pb n="2v"/>
+      		<pb n="3r"/>
+      		<pb n="3v"/>
+      		<pb n="4r"/>
+      		<pb n="4v"/>
+      		<pb n="5r"/>
+      		<pb n="5v"/>
+      	</div>
       	<div type="apparatus">
       		
          	<listApp>
