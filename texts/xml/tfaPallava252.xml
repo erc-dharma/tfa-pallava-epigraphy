@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Bairakūr hero-stone</title>
+				<title>Hebbiṇi hero-stone</title>
 				<respStmt>
 					<resp>creation of file</resp>
 					<persName ref="part:emfr">
@@ -70,73 +70,75 @@
          	<!-- Have Vaṭṭeḻuttu dont displayed in html-->
          	
 <p>
-	<lb n="1"/>கோவிசையஈச்சுவர
-	<lb n="2" break="no"/>பருமற்கி பந்நிர
+	<lb n="1"/>கொவிசையஈ<unclear>ச்</unclear>சுவர
+	<lb n="2" break="no"/>பருமற்கி பன்னிர
 	<lb n="3" break="no"/>ண்டாவது
 </p>
 <p>
-	காரோ<choice><unclear>நி</unclear><unclear>னி</unclear></choice>ரி
-	<lb n="4"/>வாணராசர்ப் பொர்ச்
-	<lb n="5" break="no"/>சிறைஊ<choice><orig>றி</orig><reg>ரி</reg></choice>ய வாண
-	<lb n="6" break="no"/><unclear>ராசர்</unclear> <gap reason="illegible" quantity="1" unit="character"/> பட்டார் <gap reason="illegible" quantity="1" unit="character"/> <unclear>ய</unclear></p>
-         </div>
+	காரோநிரி
+	<lb n="4"/>வாணராசர் ப்பொ<unclear>ரிற்</unclear>
+	<lb n="5" break="no"/>சிறைஊ <unclear>ரெ</unclear>றிய வாண
+	<lb n="6" break="no"/><unclear>ராச ரரிய</unclear> பட்டா ர<unclear>டியா</unclear><supplied reason="omitted">ர்</supplied>
+</p>
+         	
+         	         		         </div>
 
          <div type="edition" xml:lang="tam-Latn">
          	
-            <p>
-            	<lb n="1"/>kō-vicaiya-Īccuvara
-            	<lb n="2" break="no"/>parumaṟki pannira
-            	<lb n="3"/>ṇṭ-āvatu 
-            </p>
          	<p>
-         		kārō<choice><unclear>n</unclear><unclear>ṉ</unclear></choice>iri
-         		<lb n="4"/>vāṇarācar-p pōr-c
-         		<lb n="5" break="no"/>ciṟai-Ūṟ<choice><orig>ṟ</orig><reg>r</reg></choice>-iya vāṇa
-         		<lb n="6" break="no"/><unclear>rācar</unclear> <gap reason="illegible" quantity="1" unit="character"/> paṭṭār <gap reason="illegible" quantity="1" unit="character"/> <unclear>ya</unclear>
+         		<lb n="1"/>kō-vicaiya-Ī<unclear>c</unclear>cuvara
+         		<lb n="2" break="no"/>parumaṟki paṉṉira
+         		<lb n="3"/>ṇṭ-āvatu 
+         	</p>
+         	<p>
+         		kārōniri
+         		<lb n="4"/>vāṇarācar-p pōr<unclear>iṟ</unclear>         	
+         		<lb n="5" break="no"/>ciṟai-Ū<unclear>r e</unclear>ṟiya vāṇa
+         		<lb n="6" break="no"/><unclear>rācar ariya</unclear> paṭṭār aṭ<unclear>i</unclear>y<unclear>ā</unclear><supplied reason="omitted">r</supplied>
          	</p>
          </div>
 
          <div type="apparatus">
-
+<!--change <gap reason="illegible"  to <gap reason="undefined".  As "undefined" is not validated, it causes display problem (i.e. italicisation)-->
          	<listApp>
          		
          		<app loc="3">
-         			<lem>kārō<choice><unclear>n</unclear><unclear>ṉ</unclear></choice>iri</lem>
-         			<rdg source="bib:EC"><!--Update!-->kāroniri</rdg>
-         			<rdg source="bib:SankaraNarayanan2016_01">kāroṉiri</rdg>
+         			<lem>kārōniri</lem>
+         			<rdg source="bib:SankaraNarayanan2016_01">kārōṉiri</rdg>
          		</app>
          
          		<app loc="4">
-         			<lem>pōr-c</lem>
+         			<lem>pōr<unclear>iṟ</unclear></lem>
+         			<rdg source="bib:EC"><!--update-->pōr-c</rdg>
          			<rdg source="bib:SankaraNarayanan2016_01">pōr</rdg>
          		</app>
          		
          		<app loc="5">
-         			<lem>ciṟai</lem>
-         			<rdg source="bib:SankaraNarayanan2016_01">cciṟai</rdg>
+         			<lem>ciṟai-Ū<unclear>r e</unclear>ṟiya</lem>
+         			<rdg source="bib:EC"><!--update-->ciṟai-Ū <gap reason="illegible" quantity="2" unit="character"/> ṟiya</rdg>
+         			<rdg source="bib:SankaraNarayanan2016_01">cciṟai ū<gap reason="illegible" quantity="3" unit="character"/>ṟiya</rdg>
          		</app>
-         		
+         		         		         		
          		<app loc="5">
-         			<lem>Ū<choice><orig>ṟ</orig><reg>r</reg></choice>iya</lem>
-         			<rdg source="bib:EC"><!--Update!-->Ū<gap reason="illegible" quantity="2" unit="character"/>ṟiya</rdg>
-         			<rdg source="bib:SankaraNarayanan2016_01">Ū<gap reason="illegible" extent="unknown" unit="character"/>ṟiya</rdg>
-         			<note></note>
+         			<lem>vāṇa<unclear>rācar ariya</unclear></lem>
+         			<rdg source="bib:Hultzsch1902-1903_01">vāṇarācar <unclear>ariya</unclear></rdg>
+         			<rdg source="bib:EC"><!--Update!-->vāṇarācar <gap reason="illegible" quantity="2" unit="character"/> ya</rdg>
+         			<rdg source="bib:SankaraNarayanan2016_01">vāṇarācar ya</rdg>
          		</app>
          		
          		<app loc="6">
-         			<lem>rācar <gap reason="illegible" quantity="1" unit="character"/> paṭṭār <gap reason="illegible" quantity="1" unit="character"/> ya</lem>
-         			<rdg source="bib:EC"><!--Update!-->rācar <gap reason="illegible" quantity="2" unit="character"/> ya paṭṭār <gap reason="illegible" quantity="1" unit="character"/> ya</rdg>
-         			<rdg source="bib:SankaraNarayanan2016_01">rācar ya paṭṭār <gap reason="illegible" extent="unknown" unit="character"/> ya</rdg>
+         			<lem>aṭ<unclear>i</unclear>y<unclear>ā</unclear><supplied reason="omitted">r</supplied></lem>
+         			<rdg source="bib:EC"><!--update-->a <gap reason="illegible" quantity="1" unit="character"/> yā</rdg>
+         			<rdg source="bib:SankaraNarayanan2016_01">A<gap reason="illegible" quantity="3" unit="character"/> yā</rdg>
          		</app>
          		
-         		
-         		
+         		      	         		
          	</listApp>
 
          </div>
 
          <div type="translation" xml:lang="eng" source="bib:Hultzsch1902-1903_01">
-       <p>In the twelfth <supplied reason="subaudible">year of the reign</supplied> of king Vijaya-Īśvaravarman, when Kārōniri Bāṇarāja seized Ciṟaiyūr in battle, Aṭiyār fell, cut down by Bāṇarāja.<note>fn3: Literally, ‘while Bāṇarāja cut (him) down.’</note></p>
+       <p>In the twelfth <supplied reason="subaudible">year of the reign</supplied> of king Vijaya-Īśvaravarman, when Kārōniri Bāṇarāja seized Ciṟaiyūr in battle, Aṭiyār fell, cut down by Bāṇarāja.<note>fn3: Literally, ‘while Bāṇarāja cut (him) down.’</note><!--update note--></p>
          		<note>Text standardised according to DHARMA TG and EG.</note><!--check-->
 </div>
          <div type="commentary">
