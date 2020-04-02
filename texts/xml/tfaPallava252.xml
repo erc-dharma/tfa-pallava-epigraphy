@@ -65,23 +65,40 @@
       <body>
 
  
-         <div type="edition" xml:lang="tam">
-         	<!--Add Vaṭṭeḻuttu-->
-         	<!-- Have Vaṭṭeḻuttu dont displayed in html-->
-         	
-<p>
-	<lb n="1"/>கொவிசையஈ<unclear>ச்</unclear>சுவர
-	<lb n="2" break="no"/>பருமற்கி பன்னிர
-	<lb n="3" break="no"/>ண்டாவது
-</p>
-<p>
-	காரோநிரி
-	<lb n="4"/>வாணராசர் ப்பொ<unclear>ரிற்</unclear>
-	<lb n="5" break="no"/>சிறைஊ <unclear>ரெ</unclear>றிய வாண
-	<lb n="6" break="no"/><unclear>ராச ரரிய</unclear> பட்டா ர<unclear>டியா</unclear><supplied reason="omitted">ர்</supplied>
-</p>
-         	
-         	         		         </div>
+      	<div type="edition" xml:lang="tam">
+      		<!--Add Vaṭṭeḻuttu-->
+      		<!-- Have Vaṭṭeḻuttu font displayed in html-->
+      		
+      		<p>
+      			<lb n="1"/>கோவிசையஈ<unclear>ச்</unclear>சுவர
+      			<lb n="2" break="no"/>பருமற்கி பன்னிர
+      			<lb n="3" break="no"/>ண்டாவது
+      		</p>
+      		<p>
+      			காரோநிரி
+      			<lb n="4"/>வாணராசர் ப்போ<unclear>ரிற்</unclear>
+      			<lb n="5" break="no"/>சிறைஊ <unclear>ரெ</unclear>றிய வாண
+      			<lb n="6" break="no"/><unclear>ராச ரரிய</unclear> பட்டா ர<unclear>டியா</unclear><supplied reason="omitted">ர்</supplied>
+      		</p>
+      		
+      	</div>
+      	
+      	<div type="edition" xml:lang="tam">
+      		<!--ind Tamil script, not Vaṭṭeḻuttu-->
+      	
+      		<p>
+      			<lb n="1"/>கொவிசையஈ<unclear>ச்</unclear>சுவர
+      			<lb n="2" break="no"/>பருமற்கி பன்னிர
+      			<lb n="3" break="no"/>ண்டாவது
+      		</p>
+      		<p>
+      			காரொநிரி
+      			<lb n="4"/>வாணராசர் ப்பொ<unclear>ரிற்</unclear>
+      			<lb n="5" break="no"/>சிறைஊ <unclear>ரெ</unclear>றிய வாண
+      			<lb n="6" break="no"/><unclear>ராச ரரிய</unclear> பட்டா ர<unclear>டியா</unclear><supplied reason="omitted">ர்</supplied>
+      		</p>
+      		
+      	</div>
 
          <div type="edition" xml:lang="tam-Latn">
          	
@@ -109,26 +126,26 @@
          
          		<app loc="4">
          			<lem>pōr<unclear>iṟ</unclear></lem>
-         			<rdg source="bib:EC"><!--update-->pōr-c</rdg>
+         			<rdg source="bib:Rice1905_01">pōr-c</rdg>
          			<rdg source="bib:SankaraNarayanan2016_01">pōr</rdg>
          		</app>
          		
          		<app loc="5">
          			<lem>ciṟai-Ū<unclear>r e</unclear>ṟiya</lem>
-         			<rdg source="bib:EC"><!--update-->ciṟai-Ū <gap reason="illegible" quantity="2" unit="character"/> ṟiya</rdg>
+         			<rdg source="bib:Rice1905_01">ciṟai-Ū <gap reason="illegible" quantity="2" unit="character"/> ṟiya</rdg>
          			<rdg source="bib:SankaraNarayanan2016_01">cciṟai ū<gap reason="illegible" quantity="3" unit="character"/>ṟiya</rdg>
          		</app>
          		         		         		
          		<app loc="5">
          			<lem>vāṇa<unclear>rācar ariya</unclear></lem>
          			<rdg source="bib:Hultzsch1902-1903_01">vāṇarācar <unclear>ariya</unclear></rdg>
-         			<rdg source="bib:EC"><!--Update!-->vāṇarācar <gap reason="illegible" quantity="2" unit="character"/> ya</rdg>
+         			<rdg source="bib:Rice1905_01">vāṇarācar <gap reason="illegible" quantity="2" unit="character"/> ya</rdg>
          			<rdg source="bib:SankaraNarayanan2016_01">vāṇarācar ya</rdg>
          		</app>
          		
          		<app loc="6">
          			<lem>aṭ<unclear>i</unclear>y<unclear>ā</unclear><supplied reason="omitted">r</supplied></lem>
-         			<rdg source="bib:EC"><!--update-->a <gap reason="illegible" quantity="1" unit="character"/> yā</rdg>
+         			<rdg source="bib:Rice1905_01">a <gap reason="illegible" quantity="1" unit="character"/> yā</rdg>
          			<rdg source="bib:SankaraNarayanan2016_01">A<gap reason="illegible" quantity="3" unit="character"/> yā</rdg>
          		</app>
          		
@@ -157,7 +174,7 @@ The placename is spelt Hebbaṇi in <bibl><ptr target="bib:EC"/><citedRange unit
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:EC"/><!--update!--></bibl> with facsimile and English translation.
+First edited in <bibl><ptr target="bib:Rice1905_01"/><!--update!--></bibl> with facsimile and English translation.
 Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 252).
 This edition by Emmanuel Francis (2020), based on the edition and facsimile published in <bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl>.
             </p>
@@ -170,12 +187,22 @@ This edition by Emmanuel Francis (2020), based on the edition and facsimile publ
             		<citedRange unit="page">24-25</citedRange>
             	</bibl>
             	<bibl>
-            		<ptr target="bib:EC"/>
-            		<!--EC 10, Mulbagal Taluk, 211 + pp. XXI-XXII of the intro-->
-            		<!--Update!-->
-            		<citedRange unit="item">No</citedRange>
-            		<citedRange unit="page">pages</citedRange>
+            		<ptr target="bib:Rice1905_01"/><!--to be validated-->
+            		<citedRange unit="part">Introduction</citedRange> 
+            		<citedRange unit="page">XXI-XXII</citedRange> 
+            		<citedRange unit="part">Text of the inscriptions in Roman characters</citedRange>
+            		<citedRange unit="part">149</citedRange> 
+            		<citedRange unit="part">Translations of the inscriptions</citedRange>
+            		<citedRange unit="part">123</citedRange> 
+            		<note>I.e. EC 10, Mulbāgal Taluk, n° 211</note>
             	</bibl>
+            	<bibl>
+            		<ptr target="bib:Rice1905_02"/><!--to be validated-->
+            		<citedRange unit="part">Inscriptions in the Kolar district <supplied reason="subaudible">Kannaḍa script</supplied></citedRange>
+            		<citedRange unit="part">49</citedRange> 
+            		<note>I.e. EC 10, Mulbāgal Taluk, n° 211</note>
+            	</bibl>
+            	
             	<bibl>
             		<ptr target="bib:SankaraNarayanan2016_01"/>
             	</bibl>
