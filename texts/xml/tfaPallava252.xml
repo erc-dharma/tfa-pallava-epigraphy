@@ -143,6 +143,11 @@
          			<rdg source="bib:SankaraNarayanan2016_01">vāṇarācar ya</rdg>
          		</app>
          		
+         		<app loc="5">
+         			<lem><unclear>ariya</unclear> paṭṭār</lem>
+         			<note>The sequence <foreign>ariya paṭṭār</foreign> cannot be considered an early passive form, because the subject of <foreign>ariya</foreign>, that is, <foreign>vāṇarācar</foreign>, is explicit. Had the subject of <foreign>ariya</foreign> not been made explicit, the sequence could have been analysed as <foreign>ariya-paṭṭār aṭ<unclear>i</unclear>y<unclear>ā</unclear><supplied reason="omitted">r</supplied></foreign>, “Aṭiyār was cut down.”</note>
+         		</app>
+         		
          		<app loc="6">
          			<lem>aṭ<unclear>i</unclear>y<unclear>ā</unclear><supplied reason="omitted">r</supplied></lem>
          			<rdg source="bib:Rice1905_01">a <gap reason="illegible" quantity="1" unit="character"/> yā</rdg>
