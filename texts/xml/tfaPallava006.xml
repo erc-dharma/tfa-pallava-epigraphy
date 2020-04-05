@@ -72,7 +72,7 @@
       	
 <div type="textpart" xml:lang="san-Latn" n="B">
 <head xml:lang="eng">Plates</head>
-      		
+	<!--In transfo, choice with sic and corr is not fully displayes (only the sic).-->
 	<pb n="1r"/>
 	
 <p>
@@ -111,36 +111,36 @@
 	<fw place="left" n="3v"><g type="numeral">3</g></fw>
 	
 <lb n="17" break="no"/>rmmaṇo vacanena muṇḍarāṣṭre Uruvupalliye grāmeyakā<surplus>ḥ</surplus> vaktavyāḥ Etasmin grāma
-<lb n="18" break="no"/>sīme <space type="binding-hole"/> dviśataṃ sima-nivarttanāni Eteṣāṃ nivarttanānām Avadhayaḥ Apa
-<lb n="19" break="no"/>raṃ diśi <space type="binding-hole"/> kaṇḍukūra-grāmasya sīmāvadhiḥ dakṣiṇaṃ diśi suprayoga-nadī
-<lb n="20"/>Avadhiḥ pūrvvān diśi Avadhiḥ pūrvva-dakṣiṇ<choice><sic>āk</sic><corr>ot</corr></choice>taraṃ mahāpathapā<supplied reason="omitted">r</supplied>śve śilā 
+<lb n="18" break="no"/>sīme <space type="binding-hole"/> dviśataṃ sima-nivarttanāni Eteṣāṃ nivarttanānām Avadhayaḥ <choice><orig>Apa
+<lb n="19" break="no"/>raṃ diśi</orig><reg>Apara-diśi</reg></choice> <space type="binding-hole"/> kaṇḍukūra-grāmasya sīmāvadhiḥ <choice><orig>dakṣiṇaṃ diśi</orig><reg>dakṣiṇaṃ diśi</reg></choice> suprayoga-nadī
+<lb n="20"/>Avadhiḥ <choice><orig>pūrvv<sic>ā</sic>n diśi</orig><reg>pūrvva-diśi</reg></choice> Avadhiḥ pūrvva-dakṣiṇ<choice><sic>āk</sic><corr>ot</corr></choice>taraṃ mahā-patha-pā<supplied reason="omitted">r</supplied>śve śilā 
 
 	<pb n="4r"/>
 	
-<lb n="21"/>Etasyā<surplus>ḥ</surplus> Uttaraṃ gatvā ciñcavṛkṣaḥ tataḥ Uttaraṃ gatvā kurupūra-grāmasya kaṇḍukū
-<lb n="22" break="no"/>ra-grāmasya ca pathi śilā tataḥ Uttaraṃ gatvā śilopalayam tataḥ Uttaraṃ ga
-<lb n="23" break="no"/>tvā karu<space type="binding-hole"/>pūra-grāme br<choice><sic>a</sic><corr>ā</corr></choice>hmaṇānām hala-kṣetrasyāvadhau śilā Uttarāṃdi
-<lb n="24" break="no"/>śi Avadhiḥ śilopalayavṛto mahāciñcavṛkṣaḥ tataḥ Aparadiśaṃ gatvā
+<lb n="21"/>Etasyā<surplus>ḥ</surplus> Uttaraṃ gatvā ciñc<choice><sic>a</sic><corr>ā</corr></choice>vṛkṣaḥ tataḥ Uttaraṃ gatvā kurupūra-grāmasya kaṇḍukū
+<lb n="22" break="no"/>ra-grāmasya ca pathi śilā tata<orig>ḥ</orig> Uttaraṃ gatvā śilopalayam tata<orig>ḥ</orig> Uttaraṃ ga
+<lb n="23" break="no"/>tvā karu<space type="binding-hole"/>pūra-grāme br<choice><sic>a</sic><corr>ā</corr></choice>hmaṇānā<orig>m</orig> hala-kṣetrasyāvadhau śilā <choice><orig>Uttar<sic>ā</sic>ṃ di
+<lb n="24" break="no"/>śi</orig><reg>Uttara-diśi</reg></choice> Avadhiḥ śilopalaya-vṛto mahā-ciñc<choice><sic>a</sic><corr>ā</corr></choice>-vṛkṣaḥ tata<orig>ḥ A</orig>para-diśaṃ gatvā
 
 	<pb n="4v"/>
 	<fw place="left" n="4v"><g type="numeral">4</g></fw>
 
-<lb n="25"/>koṇḍamuruvudu-grāmasya sīmāntam avadhiḥ Evaṃ caturṇā<orig>m</orig> sīmāvadhīnāṃ maddhye sī
-<lb n="26" break="no"/>masya tadviśata nivarttanāni kaṇḍukūre viṣṇu-varmma-senāpati-kṛta-viṣṇuhāra-devaku
-<lb n="27" break="no"/>lāya <space type="binding-hole"/> deva-bhogaṃ kṛtvā Aṣṭādaśa-jātibhiḥ parihārair upetā Asmad-āyur-bala
-<lb n="28" break="no"/>varddhanīyam asmābhiḥ sampradattaṃ tad avagamya tasmin viṣaye sarvvāyuktakāḥ sarvvanaiyyokāḥ
-<lb n="29"/>rājavallābhāḥ sañcarantakāś ca tatsīma<orig>m</orig> sarvvapairihāraiḥ pariharantu parihārayantu ca
+<lb n="25"/>koṇḍamuruvudu-grāmasya sīmāntam avadhiḥ Evaṃ caturṇā<orig>m</orig> sīmāvadhīnāṃ <choice><orig>maddhye sī
+<lb n="26" break="no"/>masya</orig><reg>maddhya-sīmasya</reg></choice> <choice><sic>ta<orig>d</orig>viśata</sic><reg>tad-dviśataṃ</reg></choice> nivarttanāni kaṇḍukūre viṣṇu-varmma-senāpati-kṛta-viṣṇuhāra-devaku<!--check if orig allowed within sic-->
+<lb n="27" break="no"/>lāya <space type="binding-hole"/> deva-bhogaṃ kṛtvā Aṣṭādaśa-jātibhiḥ parihārair upet<choice><sic>ā</sic><corr>aṃ</corr></choice> Asmad-āyur-bala
+<lb n="28" break="no"/>varddhanīyam asmābhiḥ sampradattaṃ tad avagamya tasmin viṣaye sarvvāyuktakāḥ sarvva-naiyyokā<orig>ḥ</orig>
+<lb n="29"/>rāja-vallābhāḥ sañcarantakāś ca tat-sīma<orig>m</orig> sarvva-pairihāraiḥ pariharantu parihārayantu ca
 
 	<pb n="5r"/>
 	
 <lb n="30"/>yaś cedam asmac-chāsanam atikrāmet sa pāpaś śārīra<supplied reason="omitted">da</supplied>ṇḍam arhati Api cārṣa-ślokāḥ
 	
 	<!--Update: add <lg></lg>-->
-<lb n="31"/>bhūmi-dānāt paran dānaṃ na bh<choice><sic>u</sic><corr>ū</corr></choice>tan na bhaviṣyati tasyaiva haraṇa-pāpa na bhūta na bhaviṣyati
-<lb n="32"/>sva-dattā <space type="binding-hole"/> para-dattāṃ vā yo hareta vasundh<choice><sic>u</sic><corr>a</corr></choice>rām gavāṃ śata-sahasrasya hantuḫ pibati du
+<lb n="31"/>bhūmi-dānāt paran dānaṃ na bhūtan na bhaviṣyati tasyaiva haraṇa-pāp<choice><sic>a</sic><corr>ān</corr></choice> na bhūta<supplied reason="omitted">ṃ</supplied> na bhaviṣyati
+<lb n="32"/>sva-dattā<supplied reason="omitted">ṃ</supplied> <space type="binding-hole"/> para-dattāṃ vā yo hareta vasundh<choice><sic>u</sic><corr>a</corr></choice>rām gavāṃ śata-sahasrasya hantuḫ pibati du
 <lb n="33" break="no"/>ṣkṛtam 
 	
-	siṃhavarmma-m<choice><sic>ā</sic><corr>a</corr></choice>hārājasya vijayasaṃvatsare Ekādaśe pauṣyamāse kṛṣṇapakṣe
+	siṃhavarmma-m<choice><sic>ā</sic><corr>a</corr></choice>hārājasya vijaya-saṃvatsare Ekādaśe pauṣya-māse kṛṣṇa-pakṣe
 <lb n="34" style="text-align: right"/>daśamyām <space/> mayā dattā <choice><sic>tāṃpra</sic><corr>tāmra</corr></choice>-paṭṭikā
 	
 </p>
@@ -154,21 +154,19 @@
          		
          		<app loc="1">
          			<lem>śrī</lem>
-         			<note>The word <foreign>śrī</foreign> could be considered a  second auspicious opening formula (see translations by Fleet 1876, Brocquet 1997<!--Update!-->), but it appears to be an honorific prefix to the issuing placename as in <foreign>vijaya-śrī-palakkaḍa-sthānāt</foreign> tfaPallava007<!--Update!--> and <foreign>śrīmad-vijaya-daśanapurādhiṣṭ<supplied reason="omitted">[h*]</supplied>ānāt</foreign> tfaPallava247<!--Update!-->.</note>
+         			<note>The word <foreign>śrī</foreign> could be considered a  second auspicious opening formula (see translations in <bibl><ptr target="bib:Fleet1876_04"/></bibl> and in <bibl><ptr target="bib:Brocquet1997_01"/></bibl>), but it appears to be an honorific prefix to the issuing placename as in <foreign>vijaya-śrī-palakkaḍa-sthānāt</foreign> tfaPallava007<!--Update!--> and <foreign>śrīmad-vijaya-daśanapurādhiṣṭ<supplied reason="omitted">h</supplied>ānāt</foreign> tfaPallava247<!--Update!-->.</note>
          		</app>
          		
          		<app loc="1">
          			<lem>palakkaḍa</lem>
          			<rdg source="bib:Fleet1876_01">palakkada</rdg>
-         			<rdg source="bib:Mahalingam1988_01">palakkaḍa</rdg>
+         			<rdg source="bib:Mahalingam1988_01">palakka<choice><sic>d</sic><corr>ḍ</corr></choice>a</rdg>
          		</app>
-         		         		  		
+         		
          		<app loc="4">
          			<lem>prapautrasyā<unclear>r</unclear>ccita°</lem>
          			<rdg source="bib:Fleet1876_01">prapautrasyārccita</rdg>
-         			<rdg source="bib:Mahalingam1988_01">prapautrasyārccita</rdg>
-         			<!--Brocquet-->
-         			<note>The vowel <foreign>i</foreign> in <foreign>rcci</foreign>, which is postcript, is perfectly round and shows no inclusion of a <foreign>repha</foreign>.</note>
+         			<note>The vowel <foreign>i</foreign> in <foreign>rcci</foreign>, which is postcript, is shows no inclusion of a <foreign>repha</foreign>.</note>
          		</app>
          		
          		<app loc="10">
@@ -178,37 +176,85 @@
          		
          		<app loc="10">
          			<lem>°saṃrañjana°</lem>
-         			<note>IP propose saṃrakṣaṇa, mais rejeté comme non nécessaire par Brocquet (1997 : 378n503)</note>
+         			<rdg source="bib:Mahalingam1988_01">°saṃ<choice><sic>rañjana</sic><corr>rakṣaṇa</corr></choice>°</rdg>
+         			<note>This emendation is rejected in <bibl><ptr target="bib:Brocquet1997_01"/><citedRange unit="page">378</citedRange><citedRange unit="note">503</citedRange></bibl>. Add quotation<!--Update!--></note>
          		</app>
          		
          		<app loc="11">
          			<lem>satra</lem>
-         			<note>Generally corrected by editiors to satya, but unnecessary. See Francis ****</note>
+         			<note>Generally corrected by editiors to satya, but unnecessary. See Francis ****<!--Update!--></note>
+         			<note>+ see <bibl><ptr target="bib:Mahalingam1988_01"/><citedRange unit="page">46</citedRange><citedRange unit="note">1</citedRange></bibl> Add quote<!--Update!--></note>
          		</app>
          		
          		<app loc="11">
-         			<lem>°dita-kṣitasya</lem>
-         			<note>Emendation because of parallels.</note>
+         			<lem>°<choice><sic>dita-kṣitasya</sic><corr>dīkṣitasya</corr></choice></lem>
+         			<note>Emendation because of parallels.<!--Update!--></note>
          		</app>
          		
          		<app loc="16">
          			<lem>°yuvamahārāja-śrī°</lem>
          			<rdg source="bib:Fleet1876_04">°yuvamahārāja<supplied reason="omitted">sya</supplied> śrī°</rdg>
-         			<note>This correction of the text is unnecessary.</note>
+         			<note>This correction of the text appears unnecessary.</note>
          		</app>
          		
          		<app loc="19">
          			<lem>kaṇḍukūra°</lem>
+         			<rdg source="bib:Fleet1876_04">°k<choice><sic>e</sic><corr>a</corr></choice>ṇḍukūra°</rdg>
+         			<!--Encoding of original "ke(ka?)ṇḍukūre" to be checked-->
+         			<rdg source="bib:Brocquet1997_01">°k<choice><sic>e</sic><corr>a</corr></choice>ṇḍukūra°</rdg>
+         			<note>B lit keṇḍukūra qu’il corrige en kaṇḍukūra à cause des 2 occurrences qui suivent. Mais le texte est clairement kaṇḍukūra sur le FS.<!--update and quote B--></note>
+         		</app>
+         		
+         		<app loc="21">
+         			<lem>kurupūra°</lem>
+         			<rdg source="bib:Fleet1876_04">ka(ku?)rupūra°<!--Update!--></rdg>
+         			<rdg source="bib:Brocquet1997_01">k<choice><sic>u</sic><corr>a</corr></choice>rupūra°</rdg>
+         			<note>Quote Bp379n511<!--Update--></note>
+         		</app>
+         		
+         		<app loc="21">
+         			<lem>kaṇḍukūra°</lem>
+         			<rdg source="bib:Fleet1876_04">k<choice><sic>a</sic><corr>e</corr></choice>ṇḍukūra°</rdg>
+         			<!--Encoding of original "ka(ke?)ṇḍukūre" to be checked-->
+         		</app>
+         		
+         		<app loc="23">
+         			<lem>karupūra°</lem>
+         			<rdg source="bib:Fleet1876_04">ka(ku?)rupūra°<!--Update!--></rdg>
          		</app>
          		
          		<app loc="25">
          			<lem>koṇḍamuruvudu°</lem>
+         			<rdg source="bib:Fleet1876_04">koṇḍamuruvudu(ḍu?)°<!--Update!--></rdg>
+         			<note>Mais ce qui est lu d ne ressemble pas au ḍ de la ligne 1 (palakkaḍa).<!--Update!--></note>
          		</app>
          		
+         		<app loc="26">
+         			<lem>kaṇḍukūre</lem>
+         			<rdg source="bib:Fleet1876_04">k<choice><sic>a</sic><corr>e</corr></choice>ṇḍukūre</rdg>
+         			<!--Encoding of original "ka(ke?)ṇḍukūre" to be checked-->
+         		</app>
+         		
+         		<app loc="28">
+         			<lem>°naiyyokā<orig>ḥ</orig></lem>
+         			<rdg source="bib:Fleet1876_04"><choice><sic>naiyyokāḥ</sic> <corr>niyuktā</corr></choice></rdg>
+         			<note>See <bibl><ptr target="bib:Buehler1892_01"/><citedRange unit="page">8</citedRange><citedRange unit="note">13</citedRange></bibl><!--quote Bühler (EI 1, 8n13) propose naiyika. Cf. neyika dans IP 3.--></note>
+         		</app>
+         		         		
          		<app loc="30">
          			<lem>cārṣa-ślokāḥ</lem>
-         			<rdg>cāpi ślokāḥ</rdg><!--Update-->
+         			<rdg source="bib:Fleet1876_04">cāpi ślokāḥ</rdg>
          		</app>
+         		
+         		<app loc="31">
+         			<lem>paran</lem>
+         			<rdg source="bib:Fleet1876_04">par<choice><sic>u</sic><corr>a</corr></choice>n</rdg>
+         		</app>
+         		
+         		<app loc="31">
+         			<lem>bhūta<supplied reason="omitted">ṃ</supplied></lem>
+         			<rdg source="bib:Fleet1876_04">bhūtaṃ</rdg>
+         		</app>       		
          		
          		<app loc="32">
          			<lem>sva-dattā</lem>
@@ -217,30 +263,58 @@
          		
          		<app loc="32">
          			<lem>para-dattāṃ vā</lem>
-         			<rdg></rdg><!--Update-->
+         			<rdg source="bib:Fleet1876_04">para-dattā<supplied reason="omitted">ṃ</supplied> vā</rdg>
          			<note>The <foreign>anusvāra</foreign> at the end of <foreign>°dattāṃ</foreign> is above the next character.</note>
          		</app>
-         		      		         		
+         		
+         		<app loc="34">
+         			<lem>mayā dattā</lem>
+         			<rdg source="bib:Brocquet1997_01">mayādattā</rdg>
+         			<note>That is, <foreign>mayā</foreign> + <foreign>ādattā</foreign> (“seized by me”), although the translation is correct (“J'ai émis”).</note>
+         		</app>
+         		         		         	      		         		
          	</listApp>
 
       	</div>
       	
       	<div type="translation" xml:lang="eng" resp="part:emfr"/>
       	
-      	<div type="translation" xml:lang="fre" resp="part:sybr"/>
+      	<div type="translation" xml:lang="fre" resp="part:sybr">
+<p>Update 1997 translation: (3b1-2=17-18) Etasmin grāmasīme dviśataṃ sima-nivarttanāni
+Dans les limites de ce village, se trouvent 200 nivartana >>> Dans les limites/le bornage du village, il y a en tout (sima-) deux cents nivartana. As we have sima and not sīma!</p><!--Update!-->
+      	</div>
       	
-      	<div type="commentary"/>
+      	<div type="commentary">
+      		
+      		<p>
+In <bibl><ptr target="bib:Fleet1876_04"/></bibl>, the numbering of plates is wrong. This edition was prepared with rubbings of Elliot's collection and Fleet was mislead by the fact that plate 1 recto and plate 5 verso, as they were blank were not rubbed. This was pointed to us by Andrew Grout of the Edinburgh University Library, where the plates are today kept.
+      		</p>
+      		
+      		<p>
+On <foreign>śilopalaya-</foreign> (line 24), see <bibl><ptr target="bib:Mahalingam1988_01"/><citedRange unit="page">46</citedRange><citedRange unit="note">2</citedRange></bibl> Add quote<!--Update!-->
+      		</p>
+      		
+      		<p>
+On <foreign>tad avagamya</foreign> (line 28):comment on translation. See Francis.<!--Update!-->
+      		</p>
 
+      		<p>
+Note the recurrent unstandard forms with <foreign>diśi</foreign>.<!--Update!-->	
+      		</p>
+      		
+      	</div>
+      	
          <div type="bibliography">
 <p>First edited in <bibl><ptr target="bib:Fleet1876_04"/></bibl> (SOCI 12) with facsimile and English translation.
-Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 6).
+Edited, closely following <bibl><ptr target="bib:Fleet1876_04"/></bibl>, and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 6).
+Edited, closely following <bibl><ptr target="bib:Fleet1876_04"/></bibl>, and translated in French in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 3).
 This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs of the original plates in Edinburgh University Library (2017).
             </p>
 
             <listBibl type="primary">
             	
             	<bibl>
-            		<ptr target="bib:Fleet1876_04"/> (SOCI 12)<!--validate/udpate-->
+            		<ptr target="bib:Fleet1876_04"/>
             	</bibl>
             	
             	<bibl>
@@ -259,6 +333,11 @@ This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy
 
             <listBibl type="secondary">
             	
+            	<bibl>
+            		<ptr target="bib:Buehler1892_01"/> <!--to be validated: ue instead of ü-->
+            		
+            	</bibl>
+            	            	
             	<bibl>ARIE 1893/26</bibl> <!--update!-->
             	
            </listBibl>
