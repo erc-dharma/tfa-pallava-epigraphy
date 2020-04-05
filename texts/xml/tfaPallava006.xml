@@ -65,31 +65,89 @@
 	<text xml:space="preserve">
       <body>
 
-        <div type="textpart" xml:lang="san-Latn" n="A">
+<div type="textpart" xml:lang="san-Latn" n="A">
         	<head xml:lang="eng">Seal</head>
-        	<ab>No inscription on seal. </ab>
-        </div>
+        	<ab>No inscription on seal.</ab>
+</div>
       	
-      	<div type="textpart" xml:lang="san-Latn" n="B">
-      		<head xml:lang="eng">Plates</head>
-      		<pb n="1r"/>
-      		<p>
-      			<fw place="bot-left" n="2r">1<!--<g type="numeral">1</g>--></fw>
-      			<lb n="1"/>RECTO: jitaṃ bhagavatā śrī-vijaya-palakkaḍa-sthānāt parama-brahmaṇyasya sva
-      			<lb n="2" break="no"/>bāhu-balārjitorjita-kṣātra-tapo-nidheḥ vihita-sarvva-maryyādasya
-      			<lb n="3"/>sthiti-<space type="binding-hole"/>sthitasyāmitātmano mahārajasya śrī-skandavarmmaṇaḥ
-      			<lb n="4"/>prapautrasyā<unclear>r</unclear>ccita-śakti-siddhi-sampannasya pratāpopanata-rāja-
-      		</p>
-      		<pb n="1v"/>
-      		<pb n="2r"/>
-      		<pb n="2v"/>
-      		<pb n="3r"/>
-      		<pb n="3v"/>
-      		<pb n="4r"/>
-      		<pb n="4v"/>
-      		<pb n="5r"/>
-      		<pb n="5v"/>
-      	</div>
+<div type="textpart" xml:lang="san-Latn" n="B">
+<head xml:lang="eng">Plates</head>
+      		
+	<pb n="1r"/>
+	
+<p>
+	<!--Update: add division in semantic §-->
+	<pb n="1v"/>
+	<fw place="left" n="1v"><g type="numeral">1</g></fw>
+	
+<lb n="1"/>jitaṃ bhagavatā śrī-vijaya-palakkaḍa-sthānāt parama-brahmaṇyasya sva
+<lb n="2" break="no"/>bāhu-balārjitorjita-kṣātra-tapo-nidheḥ vihita-sarvva-maryyādasya
+<lb n="3"/>sthiti-<space type="binding-hole"/>sthitasyāmitātmano mahārajasya śrī-skandavarmmaṇaḥ
+<lb n="4"/>prapautrasyā<supplied reason="omitted">r</supplied>ccita-śakti-siddhi-sampannasya pratāpopanata-rāja
+      	      		
+	<pb n="2r"/>
+	
+<lb n="5" break="no"/>maṇḍalasya mahārājasya vasudhā-talaika-vīrasya śrī-vīravarmmaṇaḥ pau
+<lb n="6" break="no"/>trasya <space type="binding-hole"/> deva-dvija-guru-vṛddhopacāyino vivṛddha-vinayasyāneka-go-hi
+<lb n="7" break="no"/>raṇya-<space type="binding-hole"/>bhūmy-ādi-pradānaiḥ pravṛddha-dharmma-sañcayasya prajā-pālana
+<lb n="8" break="no"/>dakṣasya loka-pālānāṃ pañcamasya loka-pālasya satyātmano mahā
+      		
+	<pb n="2v"/>
+	<fw place="left" n="2v"><g type="numeral">2</g></fw>
+	
+<lb n="9" break="no"/>tmano mahārājasya śrī-skandavarmmaṇaḥ putrasya bhagavad-bhakti-sadbhāva
+<lb n="10" break="no"/>saṃbhāvita-sarvva-kalyā<choice><sic>n</sic><corr>ṇ</corr></choice>asya prajā-saṃrañjana-paripālanodyoga-sata
+<lb n="11" break="no"/>ta-sa<space type="binding-hole"/>tra-vrata-<choice><sic>dita-kṣitasya</sic><corr>dīkṣitasya</corr></choice> Aneka-samar-sāhasāvamardda-la
+<lb n="12" break="no"/>bdha-vijaya-yaśa<supplied reason="omitted">ḥ</supplied>-prakāśasya kali-yuga-doṣāvasanna-dharmmoddharaṇa-nitya-sa
+     		      		
+	<pb n="3r"/>
+	
+<lb n="13"/>nnaddhasya rāja-rṣi-guṇa-sarvva-sandoha-vijigīśor ddharmma-vijigīṣor bhagavat-pādā
+<lb n="14" break="no"/>nuddhyātasya bappa-bhaṭṭāraka-mahārāja-pāda-bhaktasya parama-bhāgavatasya
+<lb n="15"/>bhāra<space type="binding-hole"/>dvāja-sagotrasya sva-vikkramākrāntānya-nṛpa-śrī-nilayānā<orig>m</orig> yath<choice><sic>a</sic><corr>ā</corr></choice>
+<lb n="16" break="no"/>vad āhṛtāśvamedh<choice><sic>a</sic><corr>ā</corr></choice>nām pallavānā<orig>m</orig> dharmma-yuvamahārāja-śrī-viṣṇugopava
+	
+	<pb n="3v"/>
+	<fw place="left" n="3v"><g type="numeral">3</g></fw>
+	
+<lb n="17" break="no"/>rmmaṇo vacanena muṇḍarāṣṭre Uruvupalliye grāmeyakā<surplus>ḥ</surplus> vaktavyāḥ Etasmin grāma
+<lb n="18" break="no"/>sīme <space type="binding-hole"/> dviśataṃ sima-nivarttanāni Eteṣāṃ nivarttanānām Avadhayaḥ Apa
+<lb n="19" break="no"/>raṃ diśi <space type="binding-hole"/> kaṇḍukūra-grāmasya sīmāvadhiḥ dakṣiṇaṃ diśi suprayoga-nadī
+<lb n="20"/>Avadhiḥ pūrvvān diśi Avadhiḥ pūrvva-dakṣiṇ<choice><sic>āk</sic><corr>ot</corr></choice>taraṃ mahāpathapā<supplied reason="omitted">r</supplied>śve śilā 
+
+	<pb n="4r"/>
+	
+<lb n="21"/>Etasyā<surplus>ḥ</surplus> Uttaraṃ gatvā ciñcavṛkṣaḥ tataḥ Uttaraṃ gatvā kurupūra-grāmasya kaṇḍukū
+<lb n="22" break="no"/>ra-grāmasya ca pathi śilā tataḥ Uttaraṃ gatvā śilopalayam tataḥ Uttaraṃ ga
+<lb n="23" break="no"/>tvā karu<space type="binding-hole"/>pūra-grāme br<choice><sic>a</sic><corr>ā</corr></choice>hmaṇānām hala-kṣetrasyāvadhau śilā Uttarāṃdi
+<lb n="24" break="no"/>śi Avadhiḥ śilopalayavṛto mahāciñcavṛkṣaḥ tataḥ Aparadiśaṃ gatvā
+
+	<pb n="4v"/>
+	<fw place="left" n="4v"><g type="numeral">4</g></fw>
+
+<lb n="25"/>koṇḍamuruvudu-grāmasya sīmāntam avadhiḥ Evaṃ caturṇā<orig>m</orig> sīmāvadhīnāṃ maddhye sī
+<lb n="26" break="no"/>masya tadviśata nivarttanāni kaṇḍukūre viṣṇu-varmma-senāpati-kṛta-viṣṇuhāra-devaku
+<lb n="27" break="no"/>lāya <space type="binding-hole"/> deva-bhogaṃ kṛtvā Aṣṭādaśa-jātibhiḥ parihārair upetā Asmad-āyur-bala
+<lb n="28" break="no"/>varddhanīyam asmābhiḥ sampradattaṃ tad avagamya tasmin viṣaye sarvvāyuktakāḥ sarvvanaiyyokāḥ
+<lb n="29"/>rājavallābhāḥ sañcarantakāś ca tatsīma<orig>m</orig> sarvvapairihāraiḥ pariharantu parihārayantu ca
+
+	<pb n="5r"/>
+	
+<lb n="30"/>yaś cedam asmac-chāsanam atikrāmet sa pāpaś śārīra<supplied reason="omitted">da</supplied>ṇḍam arhati Api cārṣa-ślokāḥ
+	
+	<!--Update: add <lg></lg>-->
+<lb n="31"/>bhūmi-dānāt paran dānaṃ na bh<choice><sic>u</sic><corr>ū</corr></choice>tan na bhaviṣyati tasyaiva haraṇa-pāpa na bhūta na bhaviṣyati
+<lb n="32"/>sva-dattā <space type="binding-hole"/> para-dattāṃ vā yo hareta vasundh<choice><sic>u</sic><corr>a</corr></choice>rām gavāṃ śata-sahasrasya hantuḫ pibati du
+<lb n="33" break="no"/>ṣkṛtam 
+	
+	siṃhavarmma-m<choice><sic>ā</sic><corr>a</corr></choice>hārājasya vijayasaṃvatsare Ekādaśe pauṣyamāse kṛṣṇapakṣe
+<lb n="34" style="text-align: right"/>daśamyām <space/> mayā dattā <choice><sic>tāṃpra</sic><corr>tāmra</corr></choice>-paṭṭikā
+	
+</p>
+	
+	<pb n="5v"/>
+	
+</div>
       	<div type="apparatus">
       		
          	<listApp>
@@ -98,11 +156,13 @@
          			<lem>śrī</lem>
          			<note>The word <foreign>śrī</foreign> could be considered a  second auspicious opening formula (see translations by Fleet 1876, Brocquet 1997<!--Update!-->), but it appears to be an honorific prefix to the issuing placename as in <foreign>vijaya-śrī-palakkaḍa-sthānāt</foreign> tfaPallava007<!--Update!--> and <foreign>śrīmad-vijaya-daśanapurādhiṣṭ<supplied reason="omitted">[h*]</supplied>ānāt</foreign> tfaPallava247<!--Update!-->.</note>
          		</app>
+         		
          		<app loc="1">
          			<lem>palakkaḍa</lem>
          			<rdg source="bib:Fleet1876_01">palakkada</rdg>
          			<rdg source="bib:Mahalingam1988_01">palakkaḍa</rdg>
          		</app>
+         		         		  		
          		<app loc="4">
          			<lem>prapautrasyā<unclear>r</unclear>ccita°</lem>
          			<rdg source="bib:Fleet1876_01">prapautrasyārccita</rdg>
@@ -110,41 +170,96 @@
          			<!--Brocquet-->
          			<note>The vowel <foreign>i</foreign> in <foreign>rcci</foreign>, which is postcript, is perfectly round and shows no inclusion of a <foreign>repha</foreign>.</note>
          		</app>
-         		         		
+         		
+         		<app loc="10">
+         			<lem>saṃbhāvita°</lem>
+         			<note>The <foreign>anusvāra</foreign> in <foreign>saṃ</foreign> is above the next character.</note>
+         		</app>
+         		
+         		<app loc="10">
+         			<lem>°saṃrañjana°</lem>
+         			<note>IP propose saṃrakṣaṇa, mais rejeté comme non nécessaire par Brocquet (1997 : 378n503)</note>
+         		</app>
+         		
+         		<app loc="11">
+         			<lem>satra</lem>
+         			<note>Generally corrected by editiors to satya, but unnecessary. See Francis ****</note>
+         		</app>
+         		
+         		<app loc="11">
+         			<lem>°dita-kṣitasya</lem>
+         			<note>Emendation because of parallels.</note>
+         		</app>
+         		
+         		<app loc="16">
+         			<lem>°yuvamahārāja-śrī°</lem>
+         			<rdg source="bib:Fleet1876_04">°yuvamahārāja<supplied reason="omitted">sya</supplied> śrī°</rdg>
+         			<note>This correction of the text is unnecessary.</note>
+         		</app>
+         		
+         		<app loc="19">
+         			<lem>kaṇḍukūra°</lem>
+         		</app>
+         		
+         		<app loc="25">
+         			<lem>koṇḍamuruvudu°</lem>
+         		</app>
+         		
+         		<app loc="30">
+         			<lem>cārṣa-ślokāḥ</lem>
+         			<rdg>cāpi ślokāḥ</rdg><!--Update-->
+         		</app>
+         		
+         		<app loc="32">
+         			<lem>sva-dattā</lem>
+         			<note>The <foreign>ā</foreign> in <foreign>tā</foreign> is very slightly engraved due to the proximity of the binding hole.</note>
+         		</app>
+         		
+         		<app loc="32">
+         			<lem>para-dattāṃ vā</lem>
+         			<rdg></rdg><!--Update-->
+         			<note>The <foreign>anusvāra</foreign> at the end of <foreign>°dattāṃ</foreign> is above the next character.</note>
+         		</app>
+         		      		         		
          	</listApp>
 
       	</div>
       	
       	<div type="translation" xml:lang="eng" resp="part:emfr"/>
       	
-      	<div type="translation" xml:lang="fre" resp="part:emfr"/>
+      	<div type="translation" xml:lang="fre" resp="part:sybr"/>
       	
       	<div type="commentary"/>
 
          <div type="bibliography">
-<p>First edited in <bibl><ptr target="bib:Fleet1876_01"/><!--put in zotero--></bibl> with facsimile and English translation.
+<p>First edited in <bibl><ptr target="bib:Fleet1876_04"/></bibl> (SOCI 12) with facsimile and English translation.
 Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 6).
-This edition by Emmanuel Francis (2020), based on autopsy and photographs of the original plates in Edinburgh University Library (2017).
+This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs of the original plates in Edinburgh University Library (2017).
             </p>
 
             <listBibl type="primary">
             	
             	<bibl>
-            		<ptr target="bib:Mahalingam1988_01"/>
-            		<citedRange unit="item">No</citedRange>
-            		<citedRange unit="page">pages</citedRange>
+            		<ptr target="bib:Fleet1876_04"/> (SOCI 12)<!--validate/udpate-->
             	</bibl>
             	
+            	<bibl>
+            		<ptr target="bib:Mahalingam1988_01"/>
+            		<citedRange unit="item">6</citedRange>
+            		<citedRange unit="page">45-48</citedRange>
+            	</bibl>
+            	
+            	<bibl>
+            		<ptr target="bib:Brocquet1997_01"/>
+            		<citedRange unit="item">3</citedRange>
+            		<citedRange unit="page">377-383</citedRange>
+            	</bibl>
+            	            	
             </listBibl>
 
             <listBibl type="secondary">
             	
             	<bibl>ARIE 1893/26</bibl> <!--update!-->
-            	
-            	<bibl>
-            		<ptr target="bib:Mahalingam1988_01"/> <!--update!-->
-            		<citedRange unit="page">pages</citedRange>
-            	</bibl>
             	
            </listBibl>
 
