@@ -65,12 +65,19 @@
 	<text xml:space="preserve">
       <body>
 
-<div type="textpart" xml:lang="san-Latn" n="A">
-        	<head xml:lang="eng">Seal</head>
-        	<ab>No inscription on seal.</ab>
+<div type="edition" xml:lang="tam-Latn">
+	
+	<div type="textpart" xml:lang="san-Latn" n="A">
+	<head xml:lang="eng">Seal</head>
+<p>
+	<lb n="1"/><gap reason="illegible" quantity="10" unit="character" precision="low"/>
+	<lb n="2"/><gap reason="illegible" quantity="10" unit="character" precision="low"/>
+</p>
+	
 </div>
       	
-<div type="textpart" xml:lang="san-Latn" n="B">
+<div type="textpart" xml:lang="san-Latn" n="B"></div>
+	
 <head xml:lang="eng">Plates</head>
 	<!--In transfo, choice with sic and corr is not fully displayes (only the sic).-->
 	<pb n="1r"/>
@@ -148,6 +155,7 @@
 	<pb n="5v"/>
 	
 </div>
+      	
       	<div type="apparatus">
       		
          	<listApp>
@@ -334,7 +342,7 @@ This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy
             <listBibl type="secondary">
             	
             	<bibl>
-            		<ptr target="bib:Buehler1892_01"/> <!--to be validated: ue instead of ü-->
+            		<ptr target="bib:Buehler1892_01"/>
             		
             	</bibl>
             	            	
