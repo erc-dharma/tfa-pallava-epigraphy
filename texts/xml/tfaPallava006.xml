@@ -67,8 +67,9 @@
 
 <div type="edition" xml:lang="tam-Latn">
 	
-	<div type="textpart" xml:lang="san-Latn" n="A">
-	<head xml:lang="eng">Seal</head>
+<div type="textpart" xml:lang="san-Latn" n="A">
+<head xml:lang="eng">Seal</head>
+	
 <p>
 	<lb n="1"/><gap reason="illegible" quantity="10" unit="character" precision="low"/>
 	<lb n="2"/><gap reason="illegible" quantity="10" unit="character" precision="low"/>
@@ -76,7 +77,7 @@
 	
 </div>
       	
-<div type="textpart" xml:lang="san-Latn" n="B"></div>
+<div type="textpart" xml:lang="san-Latn" n="B">
 	
 <head xml:lang="eng">Plates</head>
 	<!--In transfo, choice with sic and corr is not fully displayes (only the sic).-->
@@ -153,7 +154,7 @@
 </p>
 	
 	<pb n="5v"/>
-	
+</div>	
 </div>
       	
       	<div type="apparatus">
