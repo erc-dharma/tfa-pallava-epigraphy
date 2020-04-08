@@ -77,7 +77,7 @@
 <lb n="5" break="no"/>5. kkattu-k kuṭi Atimattar mu
 <lb n="6" break="no"/>6. rukaṉ mukkuṭṭ<choice><sic>u</sic><corr>ū</corr></choice>r-t toṟu caṉma
 <lb n="7" break="no"/>7. turaru koḷḷa-t toṟu mīṭṭu-p pa
-<lb n="8" break="no"/>8. ṭṭ<choice><sic>u</sic><corr>ā</corr></choice>r
+<lb n="8" break="no"/>8. ṭṭār
             </p>
          </div>
 
@@ -103,6 +103,10 @@
          		<app loc="7">
          			<lem>koḷḷa-t toṟu</lem>
          			<rdg source="bib:Hultzsch1896-1897_15">ko<unclear>ḷ</unclear>ḷa t-<unclear>to</unclear>ṟu</rdg>
+         		</app>
+         		<app loc="7">
+         			<lem>paṭṭār</lem>
+         			<note>The syllable <foreign>ṭā</foreign> is very similar to <foreign>ṭu</foreign>.</note>
          		</app>
          	</listApp>
          	
