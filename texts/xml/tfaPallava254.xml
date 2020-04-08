@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Kīḻmuṭṭukūr hero-stone 4</title>
+				<respStmt>
+					<resp>creation of file</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from the European Research
+						Council (ERC) under the European Union's Horizon 2020 research and
+						innovation programme (grant agreement no 809994).</note>
+				</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">tfaPallava254</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>
+							Records the death of Attimattar Murukaṉ, an inhabitant of Pākkam and servant of Valimatura, chief of Takaṭūr-nāṭu, during a cattle-raid.
+						</summary> 
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p>
+								See Hultzsch.<!--Update!-->
+							</p>
+							</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2020-04-08" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+      <body>
+
+<div type="edition" xml:lang="tam-Latn">
+            <p>
+<lb n="1"/>kō-viceya-naraiciṅka-parumaṟ
+<lb n="2" break="no"/>ku yāṇṭu <unclear>mū</unclear>ṉṟāvatu viṉ
+<lb n="3" break="no"/>ṟu-nāṭṭu vaṭa-karai Āḷun taka
+<lb n="4" break="no"/>4. ṭ<choice><sic>u</sic><corr>ū</corr></choice>r-nāṭar valimatura-cēvakar pā
+<lb n="5" break="no"/>5. kkattu-k kuṭi Atimattar mu
+<lb n="6" break="no"/>6. rukaṉ mukkuṭṭ<choice><sic>u</sic><corr>ū</corr></choice>r-t toṟu caṉma
+<lb n="7" break="no"/>7. turaru koḷḷa-t toṟu mīṭṭu-p pa
+<lb n="8" break="no"/>8. ṭṭ<choice><sic>u</sic><corr>ā</corr></choice>r
+            </p>
+         </div>
+
+         <div type="apparatus">
+
+         	<listApp>
+         		<app loc="1">
+         			<lem>°viceya°</lem>
+         			<rdg source="bib:Hultzsch1896-1897_15">°vice<unclear>ya</unclear>°</rdg>
+         		</app>
+         		<app loc="1">
+         			<lem>°naraiciṅka°</lem>
+         			<rdg source="bib:Hultzsch1896-1897_15">°naraici<unclear>ṅ</unclear>ka°</rdg>
+         		</app>
+         		<app loc="4">
+         			<lem>valimatura°</lem>
+         			<rdg source="bib:Hultzsch1896-1897_15"><unclear>va</unclear>limatura°</rdg>
+         		</app>
+         		<app loc="4">
+         			<lem>pākkattu</lem>
+         			<rdg source="bib:Hultzsch1896-1897_15"><unclear>pā</unclear>kkattu</rdg>
+         		</app>
+         		<app loc="7">
+         			<lem>koḷḷa-t toṟu</lem>
+         			<rdg source="bib:Hultzsch1896-1897_15">ko<unclear>ḷ</unclear>ḷa t-<unclear>to</unclear>ṟu</rdg>
+         		</app>
+         	</listApp>
+         	
+         </div>
+
+         <div type="translation" xml:lang="eng" source="bib:Hultzsch1896-1897_15">
+<p>In the third year <supplied reason="subaudible">of the reign</supplied> of the king, the victorious Narasiṃhavarman,—when Caṉmatura lifted cattle<note>fn6: See above, p. 179, note 2.</note> at Mukkuṭṭūr,<note>fn7: Compare p. 177 above.</note>—Atimattar Murukaṉ, an inhabitant of <unclear>Pā</unclear>kkam <supplied reason="subaudible">and</supplied> a servant of <unclear>Va</unclear>limatura, the chief of Takaṭūrnāṭu,<note>fn8: On Takaṭūr, a place in the Nañjanagūḍu tāluka of the Mysore district, see Ind. Ant. Vol. XXII. p. 66.</note> who ruled over the northern bank <supplied reason="subaudible">of the river</supplied> in Viṉṟunāṭu, having recovered the cattle, fell.</p>
+</div>
+      	
+         <div type="translation" xml:lang="fre" resp="part:emfr"/>
+
+         <div type="commentary">
+         	
+         	<p>
+         		Four hero-stones were found in Kīḻmuṭṭukūr: two dated in a year of the Pallava king Narasiṃhavarman (see also tfaPallava255<!--Update!-->) and two dated in a year of a Cōḻa king identified as Parāntaka I. See <bibl><ptr target="bib:Hultzsch1896-1897_07"/></bibl>
+         	</p>
+         	<p>
+         		See Hultzsch:
+         		<cit><quote>On page 177, above, it was stated that the fourth of the Kîl̤-Muṭṭugûr slabs had been lost since 1887. The Collector of North Arcot has recently succeeded in recovering the missing slab, hidden in a ruined tunnel and broken in three pieces. It bears, in relief, a warrior in a defiant attitude, who holds a bow and some other weapon. At the top of the sculpture is a Tamil inscription, now broken in two pieces, but tolerably well preserved. (...) At my suggestion the four Kîl̤-Muṭṭugûr slabs have now been removed to the Madras Museum.</quote><bibl><ptr target="bib:Hultzsch1896-1897_15"/><citedRange unit="page">360</citedRange></bibl></cit>
+The slab was indeed still exhibited in the Chennai Government Museum in 2019. The label accompanying it has been however interverted with that of another hero-stone from Viracholapuram (Vīracōḻapuram).
+         	</p>	
+         	<p>
+         		Note on Mukkuṭṭūr, ancient name of Muṭṭukūr.<!--Update!-->
+         	</p>
+         	<p>Hultzsch notes about Caṉmatura:<cit><quote>The donee of the other inscription of Narasiṃhavarman was a servant of the same Śan̤madura [i.e. Caṉmatura]. This name represents the Sanskṛit <hi rend="italic">Sanmadhura</hi> and not, as I formerly suggested (p. 178 above), Shâṇmâtura [i.e. Ṣāṇmātura].</quote><bibl><ptr target="bib:Hultzsch1896-1897_15"/><citedRange unit="page">360</citedRange><citedRange unit="note">2</citedRange></bibl></cit>
+</p>
+         </div>
+
+         <div type="bibliography">
+
+            <p>
+First edited in <bibl><ptr target="bib:Hultzsch1896-1897_15"/></bibl> with facsimile and English translation, based on three inked estampages.
+Edited, reproducing the edition in <bibl><ptr target="bib:Hultzsch1896-1897_15"/></bibl>, and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 254).
+This edition by Emmanuel Francis (2020), based on autopsy and photographs (2019).
+</p>
+
+            <listBibl type="primary">
+            	
+            	<bibl>
+            		<ptr target="bib:Hultzsch1896-1897_15"/>
+            	</bibl>
+            	
+            	<bibl>
+            		<ptr target="bib:Mahalingam1988_01"/>
+            		<citedRange unit="item">254</citedRange>
+            		<citedRange unit="page">629</citedRange>
+            	</bibl>
+            	
+            </listBibl>
+
+            <listBibl type="secondary">
+            	            	            	
+            	<bibl>
+            		<ptr target="bib:ARIE"/>
+            		<citedRange>1897/19</citedRange><!--Update!-->
+            	</bibl>
+            	
+            	<bibl>
+            		<ptr target="bib:Hultzsch1896-1897_07"/>
+            	</bibl>
+            	
+           </listBibl>
+
+         </div>
+
+      </body>
+  </text>
+</TEI>
