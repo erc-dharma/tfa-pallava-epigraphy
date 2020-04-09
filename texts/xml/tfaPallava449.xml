@@ -98,7 +98,7 @@
          		
          		<app loc="5">
          			<lem>uṭaiyār-<unclear reason="eccentric_ductus">c= cū</unclear>ḷ<unclear reason="eccentric_ductus">ai</unclear>kaḷ</lem>
-         			<rdg source="bib:Āvaṇam">-uṭaiyār-t ta<unclear>ḷa</unclear>kaḷ</rdg><!--Check for Āvaṇam!-->
+         			<rdg source="bib:Avanam">-uṭaiyār-t ta<unclear>ḷa</unclear>kaḷ</rdg><!--Check for Avanam!-->
          			<rdg source="bib:Dayalan2005-01">-uṭaiyār-t taḷakaḷ</rdg>
          			<note></note><!--Update!-->
          		</app>
@@ -126,16 +126,16 @@
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Āvaṇam"/></bibl> with facsimile.
+First edited in <bibl><ptr target="bib:Avanam"/></bibl> with facsimile.
 Edited in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>
-This edition by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:Āvaṇam"/></bibl>
+This edition by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:Avanam"/></bibl>
 First English <!--and French--> translation.
             </p>
 
             <listBibl type="primary">
             	
             	<bibl>
-            		<ptr target="bib:Āvaṇam"/><!--Check!-->
+            		<ptr target="bib:Avanam"/><!--Check!-->
             		<citedRange>7 (July 1996): 5</citedRange>
             	</bibl>
             	<bibl>
