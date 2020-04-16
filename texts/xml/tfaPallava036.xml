@@ -57,17 +57,23 @@
         		<div type="textpart" subtype="item" n="A">
         			<head xml:lang="eng">Left/South Pillar</head>
         			<p>
-        			<lb n="1"/>pakā-p·-piṭuku laḷitāṅ·kuraṉ·
+        			<lb n="1"/><persName ref="pallava000001
+">pakā-p·-piṭuku</persName> <persName ref="pallava000001
+">laḷitāṅ·kuraṉ·</persName>
         			</p>
         		</div>
 
         		<div type="textpart" subtype="item" n="B">
         			<head xml:lang="eng">Right/North Pillar</head>
         			<p>
-        			<lb n="2"/>cat<unclear>·</unclear>turu<choice><orig>m<unclear>·</unclear><!--unclear inside <orig> not diplayed in html-->m</orig><reg>m</reg></choice>allaṉ· kuṇaparaṉ·
-        			<lb n="3"/>mayēn·tira-p-pōt·t-arēcaru Aṭiyāṉ·
-        			<lb n="4"/>vayan·tap·piri Arēcaru makaṉ· kan·tacēṉa
-        			<lb n="5" break="no"/>ṉ· ceyivit<unclear>·</unclear>ta tēvakulam· <g type="symbol" subtype="finalGomutra"/>
+        			<lb n="2"/><persName ref="pallava000001
+">cat<unclear>·</unclear>turu<choice><orig>m<unclear>·</unclear><!--unclear inside <orig> not diplayed in html-->m</orig><reg>m</reg></choice>allaṉ·</persName> <persName ref="pallava000001
+">kuṇaparaṉ·</persName>
+        			<lb n="3"/><persName ref="pallava000001
+">mayēn·tira-p-pōt·t-arēcaru</persName> Aṭiyāṉ·
+        			<lb n="4"/><persName ref="pallava000003
+">vayan·tap·piri Arēcaru</persName> makaṉ· <persName ref="pallava000004">kan·tacēṉa
+        			<lb n="5" break="no"/>ṉ·</persName> ceyivit<unclear>·</unclear>ta tēvakulam· <g type="symbol" subtype="finalGomutra"/>
         		</p>
                 	</div>
 

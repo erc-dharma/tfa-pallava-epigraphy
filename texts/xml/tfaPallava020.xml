@@ -60,8 +60,8 @@
 	
 	<l>
 <lb n="1"/><hi rend="grantha">śrī</hi> toṇṭai-y-an-tār
-<lb n="2" break="no"/>-vēntaṉ narēntira
-<lb n="3" break="no"/>p-pōtt-araiyaṉ
+<lb n="2" break="no"/>-vēntaṉ <persName ref="pallava000005">narēntira
+<lb n="3" break="no"/>p-pōtt-araiyaṉ</persName>
 	</l>
 	
 	<l>
@@ -73,8 +73,8 @@ ve
 	
 	<l>
 cara mikka ve
-<lb n="7" break="no"/>ñ-cilaiyāṉ <unclear reason="eccentric_ductus">ca</unclear>
-<lb n="8" break="no"/>tturu-malle<hi rend="grantha">ś<unclear>va</unclear></hi>
+<lb n="7" break="no"/>ñ-cilaiyāṉ <persName ref="pallava000001"><unclear reason="eccentric_ductus">ca</unclear>
+<lb n="8" break="no"/>tturu-mall</persName>e<hi rend="grantha">ś<unclear>va</unclear></hi>
 <lb n="9" break="no"/>rāl<unclear>ai</unclear>yam <unclear>eṉ</unclear>
 	</l>
 	
@@ -90,10 +90,10 @@ cara mikka ve
         		<head xml:lang="eng">Southern face of the pillar</head>
       		
       		<p>
-<lb n="11"/>Ivvūr <hi rend="grantha"><unclear reason="eccentric_ductus">b</unclear>ra</hi>m
+<lb n="11"/>Ivvūr <persName ref="pallava000006"><hi rend="grantha"><unclear reason="eccentric_ductus">b</unclear>ra</hi>m
 <lb n="12" break="no"/>mamaṅkalavaṉ
 <lb n="13"/>cellaṉ civa<hi rend="grantha">dā
-<lb n="14" break="no"/>sa</hi>n colliya
+<lb n="14" break="no"/>sa</hi><choice><orig>n</orig><reg>ṉ</reg></choice></persName> colliya
 <lb n="15" break="no"/>tu	     	
       		</p>
       		</div>
