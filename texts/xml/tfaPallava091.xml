@@ -22,9 +22,7 @@
 				</respStmt>
 			</titleStmt>
 			<publicationStmt>
-				<authority>DHARMA <note>This project has received funding from the European Research
-						Council (ERC) under the European Union's Horizon 2020 research and
-						innovation programme (grant agreement no 809994).</note>
+				<authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
 				<idno type="filename">tfaPallava091</idno>
@@ -51,8 +49,8 @@
 	<text xml:space="preserve">
       <body>
 
-<div type="edition" xml:lang="tam-Latn">
-	<!--Add textparts-->
+<div type="edition" xml:lang="tam-tam">
+	<!--update xml:lang and rend"grantha as in <div type="edition" xml:lang="tam-Latn">-->
 	<p><lb n="1" style="text-align: left"/>𑌓𑌮𑍍 𑌨𑌮𑌶𑍍𑌶𑌿𑌵𑌾𑌯{𑌮𑍍} (𑌸𑍍𑌵)𑌸𑍍𑌤𑌿 𑌶𑍍𑌰𑍀</p>
 	<p>
 <lb n="2"/>கொவிசையநந்திவிக்கிரமபருமற்கு யா 
@@ -78,14 +76,14 @@
 </div>
       	
 <div type="edition" xml:lang="tam-Latn">
-	<!--bilingual inscription: sanskrit (l.1) , tamil (ll. 2-14), sanskrit (ll.15-16)-->
+<!--bilingual inscription: sanskrit (l.1), tamil (ll. 2-14), sanskrit (ll.15-16)-->
 	
-<p xml:lang="san-Latn">
-	<!--add hi rend="grantha" as attribute to <p>?-->
+<p xml:lang="san-Latn" rend="grantha">
+<!--add hi rend="grantha" as attribute to <p>?-->
 <lb n="1" style="text-align: left"/><hi rend="grantha">Om· namaś śivāya<surplus>m·</surplus> <unclear>sva</unclear>sti śrī</hi>
 </p>
          	
-<p xml:lang="tam-Latn">
+<p xml:lang="tam-Latn"><!--xml:lang="tam-Latn" unnecessry here? as we have already: <div type="edition" xml:lang="tam-Latn">-->
 <lb n="2"/>kō-vicaiya-nanti-vikkirama-parumaṟku yā 
 <lb n="3" break="no"/>ṇṭ’ aṟupa<unclear>t</unclear>tiraṇ<unclear>ṭ</unclear>ā<unclear>va</unclear>tu <hi rend="grantha">sakala-jagatra</hi>
 <lb n="4" break="no"/>yā<hi rend="grantha">bhi</hi>va<hi rend="grantha">ndi</hi>ta-<hi rend="grantha">surāsurādhīśa-parameśvara-prati</hi> 
@@ -100,16 +98,14 @@
 <lb n="13"/>ko<unclear>ṉṟa pāvattu pa</unclear>ṭuvāṉ Itu Aḻi<unclear>t</unclear>tāṉ Ippāvattu<supplied reason="omitted">k</supplied>ku Añcāṉāyil 
 <lb n="14"/><unclear>Aṉ</unclear> <gap reason="lost" quantity="2" unit="character"/> kōyilu<supplied reason="omitted">k</supplied>ku Āyiram kā<unclear>ṇam ta</unclear>ṇṭappaṭuvōm vāṇapurattō<unclear>m</unclear>
 </p>         	
-<p xml:lang="san-Latn">
-	<!--add hi rend="grantha" as attribute to <p>?-->
 	
-<lg met="anuṣṭubh">
+<lg met="anuṣṭubh" rend="grantha"> <!--rend="grantha" OK with lg-->
 <l><lb n="15"/><choice><sic>va</sic><corr>ba</corr></choice><unclear>hu</unclear>bhir<unclear>·</unclear> vasudhā dattā</l>
 <l>rāja<unclear>bh</unclear>i<supplied reason="omitted">ḥ</supplied> sakaradibhi<supplied reason="omitted">ḥ</supplied></l>
 <l>yasya yasya yadā bhū<lb n="16" break="no"/>mi<supplied reason="omitted">s</supplied></l>	<l>tasya tasya tadā phalam·</l>
 </lg>
 	
-</p>
+
          	
          </div>
 
@@ -119,7 +115,7 @@
          		
          		<app loc="2">
          			<lem>°nanti-vikkirama°</lem>
-         			<note>There is a blank space between <foreign>°nanti°</foreign> and <foreign>°vikkirama°</foreign>, as the final character of line 1 (<foreign><hi rend="grantha">śrī</hi></foreign>) interrupts this word.</note>
+         			<note>There is a blank space between <foreign>°nanti°</foreign> and <foreign>°vikkirama°</foreign>, as the final character of line 1 (<foreign><hi rend="grantha">śrī</hi></foreign>) interrupts this word.</note><!--Restore <gap> descending</gap>-->
          		</app>
          		
          		<app loc="3">
@@ -187,9 +183,9 @@
          	
          </div>
 
-<div type="translation" xml:lang="eng">
+<div type="translation" xml:lang="eng" source="bib:Hultzsch1899_01">
       	<p n="1">Ōm. Obeisance to Śiva! Hail! Prosperity!</p>
-      	<p n="2-9">In the sixty-second year <supplied reason="explanation">of the reign</supplied> of king Vijaya-Nandivikrama-varman, while the glorions Māvalivāṇarāya,— born from the family of Mahābali, who had been made door-keeper by the lord of gods and demons, Parameśvara <supplied reason="explanation">Śiva</supplied>, who is worshipped in all the three worlds,— was ruling the Vaṭu<unclear>kava</unclear>ḻi twelve-thousand,— I, <unclear>A</unclear>ridhiraṉ, the son of Mā<unclear>ta</unclear>ṉ, a goldsmith <supplied reason="explanation">and resident</supplied> of a house in the east of <unclear>A</unclear>ḷiṅganāpā<unclear>kka</unclear>m in <supplied reason="explanation">the district of</supplied> Ūṟṟukkāṭṭu-kōṭṭam,<note>7 See above, Vol. II. p. 345 and note 4.</note> caused to be renewed the Vaṭa-<unclear>ci</unclear>kara-kōyil<note>8 I.e. 'the temple with the tower in the north.'</note> at Vāṇapuram and gave to it the <supplied reason="explanation"><foreign>paṭṭi</foreign></supplied><note>9 On this term see above, Vol. II. p. 359, note 12.</note> <supplied reason="explanation">called</supplied> Aḻiñciṟka<unclear>ḷam</unclear>, <supplied reason="explanation">which I had</supplied> bought from Maṉṟāṭi, the son of Iḷaṅkiḻavar.</p>
+      	<p n="2-9">In the sixty-second year <supplied reason="explanation">of the reign</supplied> of king Vijaya-Nandivikrama-varman, while the glorious Māvalivāṇarāya,— born from the family of Mahābali, who had been made door-keeper by the lord of gods and demons, Parameśvara <supplied reason="explanation">Śiva</supplied>, who is worshipped in all the three worlds,— was ruling the Vaṭu<unclear>kava</unclear>ḻi twelve-thousand,— I, <unclear>A</unclear>ridhiraṉ, the son of Mā<unclear>ta</unclear>ṉ, a goldsmith <supplied reason="explanation">and resident</supplied> of a house in the east of <unclear>A</unclear>ḷiṅganāpā<unclear>kka</unclear>m in <supplied reason="explanation">the district of</supplied> Ūṟṟukkāṭṭu-kōṭṭam,<note>7 See above, Vol. II. p. 345 and note 4.</note> caused to be renewed the Vaṭa-<unclear>ci</unclear>kara-kōyil<note>8 I.e. 'the temple with the tower in the north.'</note> at Vāṇapuram and gave to it the <supplied reason="explanation"><foreign>paṭṭi</foreign></supplied><note>9 On this term see above, Vol. II. p. 359, note 12.</note> <supplied reason="explanation">called</supplied> Aḻiñciṟka<unclear>ḷam</unclear>, <supplied reason="explanation">which I had</supplied> bought from Maṉṟāṭi, the son of Iḷaṅkiḻavar.</p>
 	<p n="10">Mahāvalivāṇarāya circumambulated the hamlet <supplied reason="explanation"><foreign>piṭākai</foreign></supplied> towards the right and granted <supplied reason="explanation">the land</supplied> enjoyed by the god, which <supplied reason="explanation">Aridhīraṉ</supplied> had given.</p>
 	<p n="11">The feet of him who protects this <supplied reason="explanation">charity</supplied>, <supplied reason="explanation">shall be</supplied> on my head.<note>1 See above, p. 39, note 4.</note> He who destroys this <supplied reason="explanation">charity</supplied>, shall incur the sin of one who kills the great men who are permanent <supplied reason="explanation" >members</supplied><note>2 Literally, 'who do not rise.'</note> of the assembly.<note>3 The two Tamil words <foreign>iruvar</foreign> and <foreign>kaṭikai</foreign> correspond to  <foreign>mahājana</foreign> and <foreign>ghaṭige</foreign> in Cāḷukya inscription; Ep. Ind. Vol. III. p. 360.</note> If the destroyer of this <supplied reason="explanation">charity</supplied> does not fear this sin, we, <supplied reason="explanation">the inhabitants</supplied> of Vāṇapuram, shall pay a fine of one thousand <supplied reason="explanation"><foreign>kāṇam</foreign></supplied> to the palace of the king who is then ruling.<note>4 With அன்றாள் கொயில் compare அன்றார் கொ, above, Vol. I. pp. 113 and 115.</note></p>
 <p n="15">Land has been granted by many kings, commencing with Sagara. Whosever
@@ -208,7 +204,7 @@
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with facsimile and English translation.
+First edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with facsimile and English translation (SII 3, n° 42).
 Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 91).
 This edition by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>.
 </p>
@@ -220,7 +216,7 @@ This edition by Emmanuel Francis (2020), based on the facsimile published in <bi
             		<citedRange unit="item">42</citedRange>
             		<citedRange unit="page">90-92</citedRange>
             		<citedRange unit="plate">V</citedRange>
-            		            	</bibl>
+            	</bibl>
             	
             	<bibl>
             		<ptr target="bib:Mahalingam1988_01"/>
