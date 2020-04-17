@@ -95,9 +95,9 @@
 
          </div>
 
-         <div type="translation" xml:lang="eng" source="bib:Hultzsch1902-1903_01">
-       
-</div>
+      	<div type="translation" xml:lang="eng" source="bib:Hultzsch1902-1903_01">
+<p>In the twenty-fourth year <supplied reason="subaudible">of the reign</supplied> of king Vijaya-Narasiṃhavikramavarman, Cēḻikar, the servant of Skanda-Bāṇādhirāja, fell, having seized <supplied reason="subaudible">back</supplied> the cattle that had been seized by Daḍiya, Bāṇarāja and Mahendravikrama. Let the Kaṉṉāḍakas <supplied reason="explanation">(i.e. the Kanarese people)</supplied> look after this <supplied reason="subaudible">stone</supplied>! [Those who] injure it [shall incur the five great sins].</p><!--Update!-->
+      	</div>
          <div type="commentary">
          	
          </div>
@@ -105,7 +105,8 @@
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Rice1905_01"/><!--update!--></bibl> with facsimile and English translation.
+First edited in <bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl> with facsimile and English translation.
+Edited in <bibl><ptr target="bib:Rice1905_01"/><!--update!--></bibl> with facsimile and English translation.
 Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 252).
 This edition by Emmanuel Francis (2020), based on the edition and facsimile published in <bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl>.
             </p>

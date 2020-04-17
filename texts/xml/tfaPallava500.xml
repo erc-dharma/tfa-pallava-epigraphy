@@ -109,14 +109,21 @@
          <div type="bibliography">
 
             <p>
-First reported in <bibl><ptr target="bib:ARIE"/></bibl> with facsimile. 
+First reported in <bibl><ptr target="bib:ARIE2018-2019"/></bibl> with facsimile.<!--update-->
 This edition by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:ARIE"/></bibl>.<!--update-->
 First English translation.
             </p>
                         	            	
             <listBibl type="secondary">
             	
-            	<bibl>ARIE 2018-19/B/371</bibl><!--update! and mention plate-->
+            	<bibl>ARIE 2018-2019/B/371</bibl><!--update! and mention plate-->
+            	
+            	<bibl>
+            		<ptr target="bib:ARIE2018-2019"/>
+            		<citedRange unit="page">Check</citedRange>
+            		<citedRange unit="appendix">B/2018-2019</citedRange>
+            		<citedRange unit="item">371</citedRange>            		
+            	</bibl>
             	                       	
            </listBibl>
 

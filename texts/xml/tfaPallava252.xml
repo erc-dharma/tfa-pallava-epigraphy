@@ -128,6 +128,7 @@
          			<lem>pōr<unclear>iṟ</unclear></lem>
          			<rdg source="bib:Rice1905_01">pōr-c</rdg>
          			<rdg source="bib:SankaraNarayanan2016_01">pōr</rdg>
+         			<note></note>
          		</app>
          		
          		<app loc="5">
@@ -179,9 +180,9 @@ The placename is spelt Hebbaṇi in <bibl><ptr target="bib:Rice1905_01"/><citedR
          <div type="bibliography">
 
             <p>
-First edited in in <bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl>.<!--Check!-->
+First edited in <bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl> (EI 7, no. 4).<!--Check!-->
 Edited in <bibl><ptr target="bib:Rice1905_01"/><!--update!--></bibl> with facsimile and English translation.
-Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 252).
+Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 252).
 This edition by Emmanuel Francis (2020), based on the edition and facsimile published in <bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl>.
             </p>
 
@@ -189,8 +190,9 @@ This edition by Emmanuel Francis (2020), based on the edition and facsimile publ
             	
             	<bibl>
             		<ptr target="bib:Hultzsch1902-1903_01"/>
-            		<citedRange unit="item">III</citedRange>
             		<citedRange unit="page">24-25</citedRange>
+            		<citedRange unit="item">III</citedRange>
+            		
             	</bibl>
             	<bibl>
             		<ptr target="bib:Rice1905_01"/><!--to be validated-->
