@@ -47,18 +47,18 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary></summary> 
+						<summary/>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>
+							<p/>
 						</handDesc>
 					</physDesc>
 				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
-			<change who="part:emfr" when="2020-04-17" status="draft">Creation of the file</change>
+			<change status="draft" when="2020-04-17" who="part:emfr">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -67,16 +67,16 @@
       	<div type="edition" xml:lang="tam-Latn">
       		
       		<p>
-      			<lb n="1"/><unclear>kō</unclear>-vic<choice><orig>e</orig><reg>ai</reg></choice>ya-naraciṅka-vikkirama-<unclear>pa</unclear>ruma<supplied reason="lost">ṟk<choice><orig>i</orig><reg>u</reg></choice></supplied>         		
-      			<lb n="2"/>yā<unclear>ṇ</unclear>ṭu Irupattu-nā<choice><orig>l</orig><reg>ṉ</reg></choice><unclear>k</unclear>-āvatu 
+      			<lb n="1"/><unclear>kō</unclear>-vic<choice><orig>e</orig><reg>ai</reg></choice>ya-naraciṅka-vikkirama-<unclear>pa</unclear>ruma<supplied reason="lost">ṟk<choice><orig>i</orig><reg>u</reg></choice></supplied>		
+      			<lb n="2"/>yā<unclear>ṇ</unclear>ṭu Irupattu nā<choice><orig>l</orig><reg>ṉ</reg></choice><unclear>k</unclear>-āvatu 
       		</p>
       		<p>
-      			<hi rend="grantha">da</hi>ṭiya<choice><sic>n</sic><corr>r</corr></choice>ka
-      			<lb n="3" break="no"/><unclear>ḷu</unclear><supplied reason="omitted">m</supplied> vāṇa-rācar-um mayintira-<choice><sic>m</sic><corr>v</corr></choice>ikk<unclear>i</unclear>ramar-um Eṟ<unclear>i</unclear>
-      			<lb n="4" break="no"/>nta <choice><orig>toṉṟu</orig><reg>toṟu</reg></choice> kanta-vāṇ<unclear>ā</unclear>ti-Aracar cēvakar c<unclear>e</unclear>
-<lb n="5" break="no"/>ḻikar eṟint<unclear>u</unclear> paṭṭār atu kaṉṉāṭakaruṅ kā<choice><sic>ṅ</sic><corr>ṇ</corr></choice>ka 
-<lb n="6"/>Itaṟk’ aḻippu <gap reason="illegible" quantity="10" unit="character" precision="low"/> pāta
-<lb n="7" break="no"/>ka <gap reason="illegible" extent="unknown" unit="character"/>
+      			<hi rend="grantha">da</hi>ṭiya<choice><sic>ṅ</sic><corr>r</corr></choice>ka
+      			<lb break="no" n="3"/><unclear>ḷu</unclear><supplied reason="omitted">m</supplied> vāṇa-rācar-um may<choice><sic>i</sic><corr>e</corr></choice>ntira-<choice><sic>m</sic><corr>v</corr></choice>ikk<unclear>i</unclear>ramar-um Eṟ<unclear>i</unclear>
+      			<lb break="no" n="4"/>nta <choice><orig>toṉṟu</orig><reg>toṟu</reg></choice> kanta-vāṇ<unclear>ā</unclear>ti-Aracar cēvakar c<unclear>e</unclear>
+      			<lb break="no" n="5"/>ḻikar eṟint<unclear>u</unclear> paṭṭār atu kaṉṉāṭakar-uṅ kā<choice><sic>ṅ</sic><corr>ṇ</corr></choice>ka 
+<lb n="6"/>Itaṟk’ aḻippu <gap reason="illegible" quantity="10" unit="character" precision="low" /> pāta
+<lb break="no" n="7"/>ka <gap extent="unknown" reason="illegible" unit="character"/>
       		</p>
          		
          </div>
@@ -84,29 +84,110 @@
          <div type="apparatus">
          	<listApp>
          		
-         		<app loc="3">
-         			<lem></lem>
-         			<rdg source="bib:Hultzsch1902-1903_01"></rdg>
+         		<app loc="1">
+         			<lem><unclear>kō</unclear>-vic<choice><orig>e</orig><reg>ai</reg></choice>ya°</lem><!--Check ce = cai in early Vaṭṭeḷuttu-->
+         			<rdg source="bib:Hultzsch1902-1903_01"><unclear>kō</unclear>-vicaiya°</rdg>
+         			<rdg source="bib:Rice1905_01">kō-vicaiya°</rdg>
          		</app>
-                	
          		
-         		      	         		
+         		<app loc="1">
+         			<lem>°<unclear>pa</unclear>ruma<supplied reason="lost">ṟk<choice><orig>i</orig><reg>u</reg></choice></supplied></lem>
+         			<rdg source="bib:Hultzsch1902-1903_01">°<unclear>pa</unclear>ruma<supplied reason="omitted">ṟki</supplied></rdg>
+         			<rdg source="bib:Rice1905_01">°paruma<gap reason="lost" quantity="2" unit="character"/><!--change @reason to undefined--></rdg>
+         		</app>
+         		
+         		<app loc="2">
+         			<lem>yā<unclear>ṇ</unclear>ṭu</lem>
+         			<rdg source="bib:Rice1905_01">yāṇṭu</rdg>
+         		</app>
+         		
+         		<app loc="2">
+         			<lem>nā<choice><orig>l</orig><reg>ṉ</reg></choice><unclear>k</unclear>-āvatu</lem>
+         			<rdg source="bib:Rice1905_01">nālk-āvatu</rdg>
+         		</app>
+         		
+         		<app loc="2">
+         			<lem><hi rend="grantha">da</hi>ṭiya<choice><sic>ṅ</sic><corr>r</corr></choice>ka<unclear>ḷu</unclear><supplied reason="omitted">m</supplied></lem>
+         			<rdg source="bib:Hultzsch1902-1903_01"><hi rend="grantha">da</hi>ṭiyaṅka<unclear>ḷu</unclear><supplied reason="omitted">m</supplied></rdg>
+         			<rdg source="bib:Rice1905_01">daṭiyaṅka<gap reason="lost" quantity="2" unit="character"/><!--change @reason to undefined--></rdg>
+         			<note><bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl> notes however that <foreign><hi rend="grantha">dā</hi>ṭiyaṅkaḷ</foreign> is a "vulgar form" for <foreign>dāṭiyarkaḷ</foreign>. <bibl><ptr target="bib:Rice1905_01"/>'s original reading, according to his transliteration's scheme, is daḍiyaṅga, which represents, I surmise, daṭiyaṅka.</bibl></note>
+         		</app>
+         		
+         		<app loc="3">
+	<lem>may<choice><sic>i</sic><corr>e</corr></choice>ntira-<choice><sic>m</sic><corr>v</corr></choice>ikk<unclear>i</unclear>ramar-um</lem>
+         			<rdg source="bib:Hultzsch1902-1903_01">mayintiramikkiramar-um</rdg>
+         			<rdg source="bib:Rice1905_01">mayintiramikkiramar-um</rdg>
+         			<note><bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl> notes that mayintiramikkiramar is a Prākrit corruption of Mahendravikrama.</note>
+         		</app>
+         		
+         		<app loc="3">
+         			<lem>Eṟ<unclear>i</unclear>nta</lem>
+         			<rdg source="bib:Rice1905_01">eṟanta</rdg>
+         			<note><bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl> notes that mayintiramikkiramar is a Prākrit corruption of Mahendravikrama.</note>
+         		</app>
+         		
+         		<app loc="4">
+         			<lem><choice><orig>toṉṟu</orig><reg>toṟu</reg></choice></lem>
+         			<note>For toṉṟu as a variant of toṟu, <bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl> refers to "See above, Vol. IV. p. 179, note 2, and Vol. VI. p. 163".</note><!--Update-->
+         		</app>
+         		
+         		<app loc="4">
+         			<lem>°vāṇ<unclear>ā</unclear>ti°</lem>
+         			<rdg source="bib:Rice1905_01">vāṇati</rdg>
+         			<note><bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl> notes that mayintiramikkiramar is a Prākrit corruption of Mahendravikrama.</note>
+         		</app>
+         		
+         		<app loc="4">
+         			<lem>cēvakar</lem>
+         			<rdg source="bib:Rice1905_01">cēvakari</rdg>
+         		</app>
+         		
+         		<app loc="4">
+         			<lem>c<unclear>e</unclear>ḻikar</lem>
+         			<rdg source="bib:Rice1905_01">cēḻi<gap reason="lost" quantity="1" unit="character"/><!--change @reason to undefined-->kar</rdg>
+         		</app>
+         		
+         		<app loc="5">
+         			<lem>eṟint<unclear>u</unclear></lem>
+         			<rdg source="bib:Rice1905_01">eṟinta</rdg>
+         		</app>      		         		
+         		     		
+         		<app loc="5">
+         			<lem>kā<choice><sic>ṅ</sic><corr>ṇ</corr></choice>ka</lem>
+         			<rdg source="bib:Hultzsch1902-1903_01">kāṅka</rdg>
+         			<note><bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl> notes however that <foreign>kāṅka</foreign> is a "vulgar form" for <foreign>kāṇka</foreign>.</note>
+         		</app>
+         		
+         		<app loc="6">
+         			<lem>aḻippu</lem>
+         			<rdg source="bib:Hultzsch1902-1903_01">aḻi<unclear>ppu</unclear></rdg>
+         		</app>
+         		
+         		<app loc="6">
+         			<lem>aḻippu <gap reason="illegible" quantity="10" unit="character" precision="low"/> pāta
+<lb n="7" break="no"/>ka <gap reason="illegible" extent="unknown" unit="character"/></lem>
+         			<rdg source="bib:Rice1905_01">aḻi <gap reason="lost" quantity="2" unit="character"/><!--change @reason to undefined--> ṅ <gap reason="lost" quantity="8" unit="character"/><!--change @reason to undefined--> r pāta <gap reason="lost" quantity="13" unit="character"/><!--change @reason to undefined--></rdg>
+         		</app>
+         		         		      	         		
          	</listApp>
 
          </div>
 
-      	<div type="translation" xml:lang="eng" source="bib:Hultzsch1902-1903_01">
+      	<div source="bib:Hultzsch1902-1903_01" type="translation" xml:lang="eng">
 <p>In the twenty-fourth year <supplied reason="subaudible">of the reign</supplied> of king Vijaya-Narasiṃhavikramavarman, Cēḻikar, the servant of Skanda-Bāṇādhirāja, fell, having seized <supplied reason="subaudible">back</supplied> the cattle that had been seized by Daḍiya, Bāṇarāja and Mahendravikrama. Let the Kaṉṉāḍakas <supplied reason="explanation">(i.e. the Kanarese people)</supplied> look after this <supplied reason="subaudible">stone</supplied>! [Those who] injure it [shall incur the five great sins].</p><!--Update!-->
       	</div>
          <div type="commentary">
-         	
+         	<p>Hultzsch: "bears the representation of a warrior riding on a horse at full gallop".</p><!--Update-->
+         	<p>Hultzsch: "reign of the (Gaṅga-Pallava) king Vijaya-Narasiṃhavikramavarman".</p><!--Update-->
+         	<p>Hultzsch: "The infinitive kâṇga is used in a similar manner in l. 105 of the Kaśākuḍi plates; SII 2, p. 351."</p><!--Update-->
+         	<p>Parallel for the formula "[Those who] injure it [shall incur the five great sins]"?</p><!--Update-->
          </div>
       	
          <div type="bibliography">
 
             <p>
 First edited in <bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl> with facsimile and English translation.
-Edited in <bibl><ptr target="bib:Rice1905_01"/><!--update!--></bibl> with facsimile and English translation.
+Edited in <bibl><ptr target="bib:Rice1905_01"/><!--update!--></bibl> with facsimile (line 6 missing) and English translation (EC 10, Mulbagal, n° 227).
 Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 252).
 This edition by Emmanuel Francis (2020), based on the edition and facsimile published in <bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl>.
             </p>
@@ -119,26 +200,15 @@ This edition by Emmanuel Francis (2020), based on the edition and facsimile publ
             		<citedRange unit="item">I</citedRange>
             	</bibl>
             	<bibl>
-            		<ptr target="bib:Rice1905_01"/><!--Update!--><!--to be validated-->
-            		<citedRange unit="part">Introduction</citedRange> 
-            		<citedRange unit="page">XXI-XXII</citedRange> 
+            		<ptr target="bib:Rice1905_01"/><!--Duplicate entry as two targets in same volume?-->
             		<citedRange unit="part">Text of the inscriptions in Roman characters</citedRange>
-            		<citedRange unit="part">149</citedRange> 
+            		<citedRange unit="page">152</citedRange>
+            		<citedRange unit="item">227</citedRange>
             		<citedRange unit="part">Translations of the inscriptions</citedRange>
-            		<citedRange unit="part">123</citedRange> 
-            		<note>I.e. EC 10, Mulbāgal Taluk, n° 211</note>
+            		<citedRange unit="page">126</citedRange> 
+            		<citedRange unit="item">227</citedRange>
             	</bibl>
-            	<bibl>
-            		<ptr target="bib:Rice1905_02"/><!--Update!--><!--to be validated-->
-            		<citedRange unit="part">Inscriptions in the Kolar district <supplied reason="subaudible">Kannaḍa script</supplied></citedRange>
-            		<citedRange unit="part">49</citedRange> 
-            		<note>I.e. EC 10, Mulbāgal Taluk, n° 211</note>
-            	</bibl>
-            	
-            	<bibl>
-            		<ptr target="bib:SankaraNarayanan2016_01"/><!--Update!-->
-            	</bibl>
-            	            	
+            	            	            	
             </listBibl>
          	
          	<listBibl type="secondary">
@@ -154,5 +224,3 @@ This edition by Emmanuel Francis (2020), based on the edition and facsimile publ
       </body>
   </text>
 </TEI>
-
-
