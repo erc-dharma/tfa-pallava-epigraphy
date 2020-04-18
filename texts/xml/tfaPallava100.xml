@@ -137,16 +137,14 @@ First English translation?
 
             	<bibl>
             		<ptr target="bib:Mahalingam1988_01"/>
-            		<citedRange unit="item">100</citedRange>
             		<citedRange unit="page">338-339</citedRange>
-            		<citedRange unit="plate">V</citedRange>
-
+            		<citedRange unit="item">100</citedRange>            		
             	</bibl>
 
             	<bibl>
             		<ptr target="bib:VenkatasubbaAyyar1943_01"/>
-            		<citedRange unit="item">42</citedRange>
             		<citedRange unit="page">17</citedRange>
+            		<citedRange unit="item">42</citedRange>
             		<citedRange unit="plate">V</citedRange>
             	</bibl>
 

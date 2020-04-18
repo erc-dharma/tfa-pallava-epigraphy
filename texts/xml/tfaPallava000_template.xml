@@ -118,8 +118,8 @@ First English translation.
             	
             	<bibl>
             		<ptr target="bib:Mahalingam1988_01"/>
-            		<citedRange unit="item">No</citedRange>
             		<citedRange unit="page">pages</citedRange>
+            		<citedRange unit="item">No</citedRange>
             	</bibl>
             	
             </listBibl>
