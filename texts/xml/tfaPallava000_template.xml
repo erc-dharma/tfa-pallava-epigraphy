@@ -126,13 +126,13 @@ First English translation.
 
             <listBibl type="secondary">
             	
-            	<bibl>ARIE 1893/26</bibl> <!--update!-->
-            	
-            	<bibl>
-            		<ptr target="bib:Mahalingam1988_01"/> <!--update!-->
-            		<citedRange unit="page">pages</citedRange>
+            	<bibl><!--update!-->
+            		<ptr target="bib:ARIE1904-1905"/>
+            		<citedRange unit="page">32</citedRange>
+            		<citedRange unit="appendix">B/1905</citedRange>
+            		<citedRange unit="item">50</citedRange>
             	</bibl>
-            	
+            	            	           	
            </listBibl>
 
          </div>
