@@ -218,7 +218,7 @@ Api cārṣa-ślokāḥ
          		
          		<app loc="10">
          			<lem>saṃbhāvita°</lem>
-         			<note>The <foreign>anusvāra</foreign> in <foreign>saṃ</foreign> is above the next character.</note>
+         			<note>The <foreign>anusvāra</foreign> in <foreign>saṃ</foreign> is above the next character <foreign>bhā</foreign>. This is probably due, as pointed out to me by Daniel Balogh, to the fact that the character <foreign>tma</foreign> (line 9), right above <foreign>sa</foreign>, leaves no sufficient space for the <foreign>anusvāra</foreign>.</note>
          		</app>
          		
          		<app loc="10">
@@ -311,7 +311,7 @@ Api cārṣa-ślokāḥ
          		<app loc="32">
          			<lem>para-dattāṃ vā</lem>
          			<rdg source="bib:Fleet1876_04">para-dattā<supplied reason="omitted">ṃ</supplied> vā</rdg>
-         			<note>The <foreign>anusvāra</foreign> at the end of <foreign>°dattāṃ</foreign> is above the next character.</note>
+         			<note>The <foreign>anusvāra</foreign> at the end of <foreign>°dattāṃ</foreign> is above the next character.</note><!--Update? Read dattā vāṃ and correct to dattāṃ vā? -->
          		</app>
          		
          		<app loc="34">
