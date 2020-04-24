@@ -403,14 +403,14 @@ This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy
             	
             	<bibl>
             		<ptr target="bib:Mahalingam1988_01"/>
-            		<citedRange unit="item">6</citedRange>
             		<citedRange unit="page">45-48</citedRange>
+            		<citedRange unit="item">6</citedRange>
             	</bibl>
             	
             	<bibl>
             		<ptr target="bib:Brocquet1997_01"/>
-            		<citedRange unit="item">3</citedRange>
             		<citedRange unit="page">377-383</citedRange>
+            		<citedRange unit="item">3</citedRange>
             	</bibl>
             	            	
             </listBibl>
@@ -419,11 +419,8 @@ This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy
             	
             	<bibl>
             		<ptr target="bib:Buehler1892_01"/>
-            		
             	</bibl>
             	            	
-            	<bibl>ARIE 1893/26</bibl> <!--update!-->
-            	
            </listBibl>
 
          </div>

@@ -108,29 +108,40 @@ Temple <supplied reason="explanation"><foreign>tēvakulam</foreign>, Skt. <forei
 </p>
             	
             	<listBibl type="primary">
-               	
-               	<bibl>
-               		<ptr target="bib:Hultzsch1895_01"/>
-               		<citedRange unit="item">72</citedRange>
-               		<citedRange unit="page">340-341</citedRange>
-               	</bibl>
-               	<bibl>
-               		<ptr target="bib:Mahalingam1988_01"/>
-               		<citedRange unit="item">36</citedRange>
-               		<citedRange unit="page">134</citedRange>
-               	</bibl>
-               	</listBibl>
+            		
+            		<bibl>
+            			<ptr target="bib:Hultzsch1895_01"/>
+            			<citedRange unit="page">340-341</citedRange>
+            			<citedRange unit="item">72</citedRange>
+            		</bibl>
+            		
+            		<bibl>
+            			<ptr target="bib:Mahalingam1988_01"/>
+            			<citedRange unit="page">134</citedRange>
+            			<citedRange unit="item">36</citedRange>
+            		</bibl>
+            		
+            	</listBibl>
             	
             	<listBibl type="secondary">
-               	<bibl>ARIE 1892/185</bibl> <!--to be updated-->
-               	<bibl>
-               		<ptr target="bib:Srinivasan1964_01"/>
-               		<citedRange>61-64</citedRange>
-               	</bibl>
-               	<bibl>
-               		<ptr target="bib:Lockwood+al2001_01"/>
-               		<citedRange>267</citedRange>
-               	</bibl>
+            		
+            		<bibl><!--update!-->
+            			<ptr target="bib:ARIE1892-1893"/>
+            			<citedRange unit="page">8</citedRange>
+            			<citedRange unit="appendix">A/1892</citedRange>
+            			<citedRange unit="item">185</citedRange>
+            		</bibl>
+            		
+            		<bibl>
+            			<ptr target="bib:Srinivasan1964_01"/>
+            			<citedRange>61-64</citedRange>
+            		</bibl>
+            		
+            		<bibl>
+            			<ptr target="bib:Lockwood+al2001_01"/>
+            			<citedRange>267</citedRange>
+            		</bibl>
+            		
             	</listBibl>
             </div>
           </body>
