@@ -256,17 +256,17 @@ This edition by Emmanuel Francis (2020), based on partial visual documentation, 
          	<listBibl type="secondary">
          		
          		<bibl>
-            		<ptr target="bib:ARIE1932-1933_01"/>
-            		<citedRange unit="page">17</citedRange>
-            		<citedRange unit="appendix">B/1932-1933</citedRange>
-            		<citedRange unit="item">105-107</citedRange>
-            	</bibl>
-         		<bibl>ARIE 1932-1933/B/105-107 = ARIE 1932-1933, p. 17</bibl> <!--update!-->
+         			<ptr target="bib:ARIE1932-1933_01"/>
+         			<citedRange unit="page">17</citedRange>
+         			<citedRange unit="appendix">B/1932-1933</citedRange>
+         			<citedRange unit="item">105-107</citedRange>
+         		</bibl>
+         		
          		
          		<bibl>
-            		<ptr target="bib:Kasinathan2007-01"/>
-            		<citedRange unit="page">14</citedRange>
-            	</bibl>
+         			<ptr target="bib:Kasinathan2007-01"/>
+         			<citedRange unit="page">14</citedRange>
+         		</bibl>
          		
          	</listBibl>
 
