@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Uttiramērūr, Vaikuṇṭhaperumāl, sale-deed of the time of Kampavarman, year 8</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from the European Research
+						Council (ERC) under the European Union's Horizon 2020 research and
+						innovation programme (grant agreement no 809994).</note>
+				</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">tfaPallava206</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary></summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p></p>
+							</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2020-04-30" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+      <body>
+      	
+      	<div type="edition" xml:lang="tam-Latn">
+      		<!--Add milestones for blocks-->
+      		<p>
+      			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+      		</p>
+      		<p>	
+      			kō-vic<choice><orig>a</orig><reg>>ai</reg></choice>ya-kampa-vik<choice><sic><hi rend="grantha">kri</hi></sic><corr>ki</corr></choice>rama-parumarkku yāṇṭu Eṭṭ-āvatu kāliyūr-k-kōṭṭattu taṉ k<unclear>ū</unclear>ṟṟu Uttaramēru-c-catu<hi rend="grantha"><supplied reason="omitted">r</supplied>vve</hi>ti-maṅkalattu <hi rend="grantha">sabhai</hi>yōm nila-vilai-y-āvaṇa-k-kai-<choice><orig>yy</orig><reg>y</reg></choice>-eḻuttu Emm-<choice><orig>u</orig><reg>ū</reg></choice>r-k kaṟikai-k-kuṭṭattiṉ cuṟṟum
+      			<lb n="2"/>kōliṭu n<choice><orig>i</orig><reg>ī</reg></choice>kki Ik-kōliṭṭōṭum y-aṭaiya Arai-k-kōl Akalattāl I<choice><orig>v</orig><reg>vv</reg></choice>-ēri-karaiyiṉ vaḷaiyil cuṟṟum mañcikkam-āy iṉ-nilam i<choice><orig>v</orig><reg>vv</reg></choice>-ērikkē <hi rend="grantha">bahi</hi>r<hi rend="grantha">bhūmi</hi>-y ākavum maṭam eṭukka-vēṇṭu-nilamum i<choice><orig>v</orig><reg>vv</reg></choice>ūr y-āḷu<surplus>m</surplus>
+      			<lb n="3" break="no"/>-ṅ kaṇattārar-uḷ-k kuravaciri rāma<hi rend="grantha">de</hi>va-<hi rend="grantha">bhaṭṭa</hi>ṉum Ivaṉ <choice><orig>ṟṟ</orig><reg>ṟ</reg></choice>ampi na<hi rend="grantha">ndiśva</hi>ra-<hi rend="grantha">bhaṭṭa</hi>ṉu<choice><orig>mm</orig><reg>m</reg></choice> ivaṉ <choice><orig>ṟṟ</orig><reg>ṟ</reg></choice>ampi ku<hi rend="grantha">ṇḍha-bhaṭṭa</hi>ṉu<choice><orig>mm</orig><reg>m</reg></choice> i<choice><orig>mm</orig><reg>m</reg></choice>-m<choice><orig>u</orig><reg>ū</reg></choice>varkkum I<choice><orig>v</orig><reg>vv</reg></choice>-ēri-c cuṟṟu Arai-k-kōl nilamum i<choice><orig>mm</orig><reg>m</reg></choice>m<choice><orig>u</orig><reg>ū</reg></choice>var pakkalum vi<supplied reason="lost">ai</supplied>-k-kāṇaṅ kaiccella-k koṇṭu v<choice><orig>ī</orig><reg>i</reg></choice>ṟṟu-k kuṭut
+      			<lb n="4" break="no"/>tōm <hi rend="grantha">sabhai</hi>yōm Iru-k-kāl-āvatum viṟṟu kuṭuttōm <hi rend="grantha">sabhai</hi>yōm mu-k-kāl-āvatum viṟṟu kuṭuttō<unclear>m</unclear> <hi rend="grantha">sabhai</hi>yōm Itu-v-ē poru<choice><sic>ḷa</sic><corr>l</corr></choice> māvaṟiti Ōlai-y-āka Oṭṭi-k kuṭuttōm <hi rend="grantha">sabhai</hi>yōm Ik-kaṟikai-kuṭṭattu Ēri-karai-y-il maṇ<surplus>k</surplus> koṇṭāraiyu
+      			<lb n="5" break="no" style="text-align: left"/><unclear>m</unclear> I<choice><orig>-k</orig><reg>k-k</reg></choice>aṟikai-k-kuṭṭatiṉ<surplus>c</surplus> cuṟṟum a<choice><orig>vv</orig><reg>v</reg></choice>-ērikkē <hi rend="grantha">bahi<supplied reason="omitted">r</supplied>bhūmi</hi>-y-āka koṇṭa nilam cuṭṭi mēl-colla-paṭṭa kuravaciri rāma<hi rend="grantha">de</hi>va-<hi rend="grantha">bhaṭṭa</hi>ṉaiyum Ivaṉ ṟampimāraiyum m<choice><sic>u</sic><corr>ū</corr></choice>varaiy<unclear>u</unclear>m nilam <space type="descender"/> cuṭṭi<choice><unclear>ṉa</unclear><unclear>ṉ</unclear></choice> pōla paṭṭa<hi rend="grantha">sā</hi>mantuk k<unclear>u</unclear>ṭ<unclear>u</unclear>vi<unclear>t</unclear>ttōm āṉōm <hi rend="grantha">sabhai</hi>yō
+      			<lb n="6" break="no"/>m Ik-karaiyil muḷ<choice><orig>kk</orig><reg>k</reg></choice>uttiṉāraiyum vaiyiramēkataṭākattu<supplied reason="omitted">k</supplied>kē veṭṭi mutal-āka A<supplied reason="omitted">i</supplied>ñ-kaḻañcu poṉ m<choice><sic>u</sic><corr>ū</corr></choice>lappa<choice><unclear>ṭ</unclear><unclear>ṭṭ</unclear></choice>ārayarē taṇṭippār āka Oṭṭi kuṭuttōm <hi rend="grantha">sabhai</hi>yōm Ik-kaṟikai-kuṭṭattu nīr-viṭṭ<unclear>ā</unclear>r <supplied reason="lost"><hi rend="grantha">grā</hi>ma-ka</supplied>ṇṭakar āka <unclear>pa</unclear><supplied reason="lost">ṇ</supplied><unclear>i</unclear><supplied reason="lost">t</supplied>tōm <hi rend="grantha">sabhai<unclear>yō</unclear></hi><supplied reason="lost">m</supplied>
+      		</p>
+      		     		
+      	</div>
+
+         <div type="apparatus"><!--Complete-->
+         	
+         	<listApp>
+         		
+         		<app loc="1">
+         			<lem></lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01"></rdg>
+         		</app>
+         		         		
+         	</listApp>
+         	
+         </div>
+
+         <div type="translation" xml:lang="eng" resp="part:emfr">
+         	
+         	<p n="1">Prosperity! Fortune!</p>
+         	
+         	<p n="1">Eighth year of the victorious king Kampavikramavarman.</p>
+         	
+         	<p n="1">Handwritten writ document for the sale of a land <supplied reason="explanation">i.e. sale-deed</supplied> <supplied reason="subaudible">by</supplied> We, the members of the assembly of Uttaramērucaturvedimaṅgala in Kāliyūrkkōṭṭam, in the division of the same name.</p>
+         	
+         	<p n="1-4"></p>
+         	
+         	<p n="4">We, the members of the assembly, have given for sale <supplied reason="explanation"><foreign>viṟṟu-k koṭuttōm</foreign></supplied> <supplied reason="explanation">that which is</supplied> two quarters <supplied reason="explanation">iru-k-kāl-āvatum</supplied> <supplied reason="subaudible">of these</supplied>.</p>
+         	
+         	<p n="4">We, the members of the assembly, have given for sale <supplied reason="explanation"><foreign>viṟṟu-k koṭuttōm</foreign></supplied> <supplied reason="explanation">that which is</supplied> three quarters <supplied reason="explanation">mu-k-kāl-āvatum</supplied> <supplied reason="subaudible">of these</supplied>.</p>
+         	
+         	<p n="4">We, the members of the assembly, have solemnly given this <supplied reason="explanation">itu-v-ē</supplied> as a … (poru[ḷā>ḷ] māvaṟiti)<!--Update--> <supplied reason="subaudible">written</supplied> leaf <supplied reason="explanation">ōlai-y-āka</supplied>.</p>
+
+         	<p n="4-6">We, the members of the assembly, will/have<!--Update--> the title-deed given <supplied reason="explanation"><foreign>paṭṭasāmantuk koṭuvitttōm āṉōm</foreign>, literally “we have become those who had title-deed given”</supplied>, <seg cert="low">whereas</seg> <supplied reason="explanation"><foreign>pōla</foreign></supplied> the above-mentioned Kuravaciri Rāmadeva-bhaṭṭa and his younger brothers, the three of them <supplied reason="explanation">mūvaraiyum</supplied> surrounded/rounded/went<!--Update--> round the land, after going round the land got as <foreign>bahirbhūmi</foreign> <supplied reason="explanation"><foreign><hi rend="grantha">bahirbhūmi</hi>-y-āka koṇṭa nilam cuṭṭi</foreign></supplied> to that tank <supplied reason="explanation">avvērikkē</supplied> which surrounds …<!--Update--> <supplied reason="explanation">ik-kaṟikai-kuṭṭattu ēri-karai-y-il maṇ koṇṭāraiyum ik-kaṟikai-k-kuṭṭatiṉ cuṟṟum</supplied>.</p>
+         	
+         	<p n="6">Let the members of the MP<!--Update--> <supplied reason="explanation">mūlappa[ṭ/ṭṭ]ārayarē</supplied><!--Update--> be those who fine those who dig <supplied reason="explanation">muḷ((k))kuttiṉāraiy‡um; IP: the person who dug</supplied><!--Update--> in these banks <supplied reason="subaudible">with</supplied> five <foreign>kaḻañcu</foreign> of gold as capital <supplied reason="explanation">veṭṭi mutal-āka</supplied><!--Update: translate veṭṭi--> for the Vajramegha tank <supplied reason="explanation">vaiyiramēkataṭākattukkē</supplied>. <supplied reason="subaudible">Thus</supplied> have We, the members of the assembly, solemnly given <supplied reason="explanation">declared in this instance; i.e. paṇittōm = kuṭuttōm by mistake</supplied><!--Update--></p>
+         	
+         	<p n="6">Let those who draw/let out<!--Update--> water <supplied reason="explanation">nīrviṭṭār</supplied> in/from this Karikai-kuṭṭam be <supplied reason="explanation">considered</supplied> traitors to the village <supplied reason="explanation"><foreign><hi rend="grantha">grā</hi>makaṇṭakar</foreign></supplied>. <supplied reason="subaudible">Thus</supplied> have We, the members of the assembly, declared/ordered<!--Update-->.</p>         	
+         </div>
+      	
+         <div type="commentary">
+         	
+         </div>
+      	
+         <div type="bibliography"><!--UPDATE-->
+
+            <p>
+First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 288).
+Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 205). 
+This edition by Emmanuel Francis (2020), based on autopsy and photographs (2019).
+First English translation.
+            </p>
+
+            <listBibl type="primary"><!--UPDATE-->
+            	
+            	<bibl>
+            		<ptr target="bib:SubrahmanyaAiyer1928_01"/>
+            		<citedRange unit="page">148</citedRange>
+            		<citedRange unit="item">288</citedRange>
+            	</bibl>
+            	<bibl>
+            		<ptr target="bib:Mahalingam1988_01"/>
+            		<citedRange unit="page">543-544</citedRange>
+            		<citedRange unit="item">205</citedRange>
+            	</bibl>
+            	
+            </listBibl>
+
+            <listBibl type="secondary">
+            	
+            	<bibl>
+            		<ptr target="bib:ARIE1897-1898"/>
+            		<citedRange unit="page">16</citedRange>
+            		<citedRange unit="appendix">B/1898</citedRange>
+            		<citedRange unit="item">6</citedRange>
+            	</bibl>
+            	            	           	
+           </listBibl>
+
+         </div>
+
+      </body>
+  </text>
+</TEI>
