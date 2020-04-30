@@ -75,10 +75,15 @@
          <div type="edition" xml:lang="tam"/>
 <!--Replace ·•-->
          <div type="edition" xml:lang="tam-Latn">
-            <p>
-<lb n="1"/>
-<lb n="2" break="no"/>
-<lb n="3"/>
+            
+         	<p>
+         		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+         	</p>
+         	<p>
+         		
+         		<lb n="1"/>
+         		<lb n="2" break="no"/>
+         		<lb n="3"/>
             </p>
          </div>
 
