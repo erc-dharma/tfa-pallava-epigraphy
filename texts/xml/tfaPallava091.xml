@@ -39,7 +39,7 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<p></p>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -50,7 +50,7 @@
       <body>
 
 <div type="edition" xml:lang="tam-tam">
-	<!--update xml:lang and rend"grantha as in <div type="edition" xml:lang="tam-Latn">-->
+	<!--update structure as for transliteration-->
 	<p><lb n="1" style="text-align: left"/>𑌓𑌮𑍍 𑌨𑌮𑌶𑍍𑌶𑌿𑌵𑌾𑌯{𑌮𑍍} (𑌸𑍍𑌵)𑌸𑍍𑌤𑌿 𑌶𑍍𑌰𑍀</p>
 	<p>
 <lb n="2"/>கொவிசையநந்திவிக்கிரமபருமற்கு யா 
@@ -68,22 +68,32 @@
 <lb n="14"/><unclear>அன்</unclear> <gap reason="lost" quantity="2" unit="character"/> கொயிலு<supplied reason="omitted">க்</supplied>கு ஆயிரம் கா<unclear>ணம் த</unclear>ண்டப்படுவொம் வாணபுரத்தொ<unclear>ம்</unclear>
 	</p>
 	<lg>
-<l><lb n="15"/><choice><sic>𑌵</sic><corr>𑌬</corr></choice><unclear>𑌹𑍁</unclear>𑌭𑌿<unclear>𑌰𑍍</unclear> 𑌵𑌸𑍁𑌧𑌾 𑌦𑌤𑍍𑌤𑌾</l>
-	<l>𑌰𑌜<unclear>𑌭𑌿</unclear><supplied reason="omitted">𑌃</supplied> 𑌸𑌕𑌰𑌦𑌿𑌭𑌿<supplied reason="omitted">𑌃</supplied></l>
-	<l>𑌯𑌸𑍍𑌯 𑌯𑌸𑍍𑌯 𑌯𑌦𑌾 𑌭𑍂<lb n="16" break="no"/>𑌮𑌿<supplied reason="omitted">𑌸𑍍</supplied></l>
-	<l>𑌤𑌸𑍍𑌯 𑌤𑌸𑍍𑌯 𑌤𑌦𑌾 𑌫𑌲𑌮𑍍</l>
+		<l>
+			<lb n="15"/><choice><sic>𑌵</sic><corr>𑌬</corr></choice><unclear>𑌹𑍁</unclear>𑌭𑌿<unclear>𑌰𑍍</unclear> 𑌵𑌸𑍁𑌧𑌾 𑌦𑌤𑍍𑌤𑌾
+		</l>
+		<l>
+			𑌰𑌜<unclear>𑌭𑌿</unclear><supplied reason="omitted">𑌃</supplied> 𑌸𑌕𑌰𑌦𑌿𑌭𑌿<supplied reason="omitted">𑌃</supplied>
+		</l>
+		<l>
+			𑌯𑌸𑍍𑌯 𑌯𑌸𑍍𑌯 𑌯𑌦𑌾 𑌭𑍂<lb n="16" break="no"/>𑌮𑌿<supplied reason="omitted">𑌸𑍍</supplied>
+		</l>
+		<l>
+			𑌤𑌸𑍍𑌯 𑌤𑌸𑍍𑌯 𑌤𑌦𑌾 𑌫𑌲𑌮𑍍
+		</l>
 	</lg>
 </div>
       	
 <div type="edition" xml:lang="tam-Latn">
 <!--bilingual inscription: sanskrit (l.1), tamil (ll. 2-14), sanskrit (ll.15-16)-->
+<!--Check language statement in teiHeader-->
+<!--Check usage of @xml:lang below-->
 	
 <p xml:lang="san-Latn" rend="grantha">
-<!--add hi rend="grantha" as attribute to <p>?-->
 <lb n="1" style="text-align: left"/><hi rend="grantha">Om· namaś śivāya<surplus>m·</surplus> <unclear>sva</unclear>sti śrī</hi>
 </p>
          	
-<p xml:lang="tam-Latn"><!--xml:lang="tam-Latn" unnecessry here? as we have already: <div type="edition" xml:lang="tam-Latn">-->
+<p xml:lang="tam-Latn">
+<!--@xml:lang unnecessary here, as already @ of the <div type="edition">??-->
 <lb n="2"/>kō-vicaiya-nanti-vikkirama-parumaṟku yā 
 <lb n="3" break="no"/>ṇṭ’ aṟupa<unclear>t</unclear>tiraṇ<unclear>ṭ</unclear>ā<unclear>va</unclear>tu <hi rend="grantha">sakala-jagatra</hi>
 <lb n="4" break="no"/>yā<hi rend="grantha">bhi</hi>va<hi rend="grantha">ndi</hi>ta-<hi rend="grantha">surāsurādhīśa-parameśvara-prati</hi> 
@@ -99,14 +109,21 @@
 <lb n="14"/><unclear>Aṉ</unclear> <gap reason="lost" quantity="2" unit="character"/> kōyilu<supplied reason="omitted">k</supplied>ku Āyiram kā<unclear>ṇam ta</unclear>ṇṭappaṭuvōm vāṇapurattō<unclear>m</unclear>
 </p>         	
 	
-<lg met="anuṣṭubh" rend="grantha"> <!--rend="grantha" OK with lg-->
-<l><lb n="15"/><choice><sic>va</sic><corr>ba</corr></choice><unclear>hu</unclear>bhir<unclear>·</unclear> vasudhā dattā</l>
-<l>rāja<unclear>bh</unclear>i<supplied reason="omitted">ḥ</supplied> sakaradibhi<supplied reason="omitted">ḥ</supplied></l>
-<l>yasya yasya yadā bhū<lb n="16" break="no"/>mi<supplied reason="omitted">s</supplied></l>	<l>tasya tasya tadā phalam·</l>
-</lg>
-	
-
-         	
+	<lg met="anuṣṭubh">
+		<l>
+			<lb n="15"/><hi rend="grantha"><choice><sic>va</sic><corr>ba</corr></choice><unclear>hu</unclear>bhir<unclear>·</unclear> vasudhā dattā</hi>
+		</l>
+		<l>
+			<hi rend="grantha">rāja<unclear>bh</unclear>i<supplied reason="omitted">ḥ</supplied> sakaradibhi<supplied reason="omitted">ḥ</supplied></hi>
+		</l>
+		<l>
+			<hi rend="grantha">yasya yasya yadā bhū<lb n="16" break="no"/>mi<supplied reason="omitted">s</supplied></hi>
+		</l>	
+		<l>
+			<hi rend="grantha">tasya tasya tadā phalam·</hi>
+		</l>
+	</lg>
+	         	
          </div>
 
          <div type="apparatus">
@@ -120,7 +137,7 @@
          		
          		<app loc="3">
          			<lem>°jagatrayā°</lem>
-         			<note>That, is <foreign><hi rend="grantha">jagat+trayā°</hi></foreign></note>
+         			<note>That, is <foreign><hi rend="grantha">jagat+trayā°</hi></foreign></note><!--Check EG-->
          		</app>
          		
          		<app loc="5">
