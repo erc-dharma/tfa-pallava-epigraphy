@@ -79,7 +79,10 @@
       		</p>
       		<p>
       			E<unclear>map·</unclear>panār· pa<unclear>ṭai</unclear>t·tuṭaiya paṅ·kiṉ<unclear>·</unclear> vaḻi <unclear>mu</unclear>taṟ<unclear>·</unclear>k<unclear>·</unclear>kuṭum<unclear>·</unclear>piṭ<unclear>ṭ</unclear>u <unclear>nālām</unclear> pāṭa<unclear>ka</unclear>m· <unclear>Ūriṉ· teṟ·k·ku</unclear> <hi rend="grantha"><unclear>pa</unclear></hi><unclear>rame</unclear><hi rend="grantha"><unclear>śva</unclear></hi><unclear>ravatiyi</unclear>
-      			<lb n="3" break="no"/>ṉ<unclear>·</unclear> mē<supplied reason="omitted">ṟ</supplied><unclear>kku kaṇavativāk·kāṉ ka</unclear><supplied reason="lost">rai Eṅ·</supplied>kaḷ pāṭaka<unclear>m-āyiṉa Iru-</unclear><supplied reason="lost">nū</supplied>ṟ<unclear>·</unclear>ṟu nāṟ<unclear>·</unclear>patu kuḻiyālu<unclear>m va</unclear>nta <gap reason="lost" quantity="5" unit="character" cert="low"/> <unclear>m</unclear> <supplied reason="lost">Āṭ·</supplied><unclear>ṭāṇṭu-tōṟu</unclear>m <unclear>va</unclear>yiramēkataṭākattu<unclear>kkē Ēri</unclear>
+      			<lb n="3" break="no"/>ṉ<unclear>·</unclear> mē<supplied reason="omitted">ṟ</supplied><unclear>kku kaṇavativāk·kāṉ ka</unclear><supplied reason="lost">rai Eṅ·</supplied>kaḷ pāṭaka<unclear>m-āyiṉa Iru-</unclear><supplied reason="lost">nū</supplied>ṟ<unclear>·</unclear>ṟu nāṟ<unclear>·</unclear>patu kuḻiyālu<unclear>m va</unclear>nta <gap reason="lost" quantity="5" unit="character" cert="low"/> <unclear>m</unclear>
+      		</p>
+      		<p>
+      			<supplied reason="lost">Āṭ·</supplied><unclear>ṭāṇṭu-tōṟu</unclear>m <unclear>va</unclear>yiramēka-taṭākattu<unclear>kkē Ēri</unclear>
       			<lb n="4" break="no"/><unclear>vāriya-p-perumakkaḷē kaṭai-k-kaṇṭu ku</unclear>ḻi-vāyi<unclear>l Ā</unclear>ṭṭuvittu <hi rend="grantha">prasādam</hi> ceyvarkaḷ āka <unclear>ip-pāṭakam vaittēṉ</unclear> <supplied reason="lost"><hi rend="grantha">A</hi></supplied><hi rend="grantha"><unclear>gnicarmma-kra</unclear></hi><unclear>mavitta-c-cōmā</unclear><hi rend="grantha"><unclear>śi</unclear></hi><unclear>yē</unclear>ṉ <g type="symbol" subtype="finalGomutra"/>
       		</p>
       		      		
@@ -105,12 +108,12 @@
          		</app>
          		
          		<app loc="1">
-         			<lem><unclear>A</unclear><hi rend="grantha">gnica</hi><supplied reason="lost"><hi rend="grantha">rmma-kra</hi></supplied><unclear>mavitta</unclear>°</lem>
+         			<lem><unclear>A</unclear><lb n="2" break="no"/><hi rend="grantha">gnica</hi><supplied reason="lost"><hi rend="grantha">rmma-kra</hi></supplied><unclear>mavitta</unclear>°</lem>
          			<rdg source="bib:SubrahmanyaAiyer1928_01"><hi rend="grantha"><unclear>A</unclear></hi><hi rend="grantha">gnicarma-krama</hi>vitta°</rdg>
          		</app>
          		
          		<app loc="2">
-         			<lem><hi rend="grantha"><unclear>pa</unclear></hi><unclear>rame</unclear><hi rend="grantha"><unclear>śva</unclear></hi><unclear>ravatiyi</unclear>ṉ<unclear>·</unclear></lem>
+         			<lem><hi rend="grantha"><unclear>pa</unclear></hi><unclear>rame</unclear><hi rend="grantha"><unclear>śva</unclear></hi><unclear>ravatiyi</unclear><lb n="3" break="no"/>ṉ<unclear>·</unclear></lem>
          			<rdg source="bib:SubrahmanyaAiyer1928_01">parame<hi rend="grantha">śva</hi>ravatiyiṉ</rdg>
          		</app>
          		
@@ -123,32 +126,36 @@
          			<lem><supplied reason="lost"><hi rend="grantha">A</hi></supplied><hi rend="grantha"><unclear>gnicarmma-kra</unclear></hi><unclear>mavitta-c-cōmā</unclear><hi rend="grantha"><unclear>śi</unclear></hi><unclear>yē</unclear>ṉ</lem>
          			<rdg source="bib:SubrahmanyaAiyer1928_01"><hi rend="grantha">agnicarma-kra</hi>mavit=ta-c-cōmā<hi rend="grantha">śi</hi>yeṉ</rdg>
          		</app>
-         		
-         		<app loc="1">
-         			<lem></lem>
-         			<rdg source="bib:SubrahmanyaAiyer1928_01"></rdg>
-         		</app>
-         		
-         		<app loc="1">
-         			<lem></lem>
-         			<rdg source="bib:SubrahmanyaAiyer1928_01"></rdg>
-         		</app>
-         		
+         		        		
          	</listApp>
          	
          </div>
 
          <div type="translation" xml:lang="eng" resp="part:emfr">
          	<!--Translation of words/phrases chiseled off markedup as unclear in edition: special markup needed?-->
+         	<!--OK for my use of <seg cert="low">named</seg>?-->
          	
-         	<p n="1">Prosperity! Fortune!</p>
+         	<p n="1">
+         		Prosperity! Fortune!
+         	</p>
          	
-         	<p n="1">Tenth year of the victorious king Kampavikramavarman.</p>
+         	<p n="1">
+         		Tenth year of the victorious king <seg cert="low">Kampavikra</seg>mavarman.
+         	</p>
          	
-         	<p n="1-2">Writing/Writ of I, Kuravaciri Agnicarma-kramavitta-cōmāci, <supplied reason="subaudible">one</supplied> among the governing delegates <supplied reason="explanation"><foreign>āḷuṅ kaṇattār-uḷ</foreign></supplied> of Uttaramerucaturvedimaṅgala in Kāliyūrkkōṭtam</p>
+         	<p n="1-2">
+         		Writing/Writ of I, <seg cert="low">Kurava<hi rend="grantha">śiri</hi></seg> Agnica<seg cert="low">rmakramavittacōmāc</seg>i, <supplied reason="subaudible">one</supplied> among the governing delegates <supplied reason="explanation"><foreign>āḷuṅ kaṇattār-uḷ</foreign></supplied> of <seg cert="low">Uttaramerucatur</seg>vedimaṅgala in Kāliyūrk<seg cert="low">kōṭtam</seg>
+         	</p>
          	
-         	<p n="2-4">
-         		...<!--Add translation--> <supplied reason="explanation"><foreign>E(map·)panār· pa(ṭai)t·tuṭaiya paṅ·kiṉ(·) vaḻi (mu)taṟ(·)k(·)kuṭum(·)piṭ(ṭ)u</foreign></supplied> the fourth plot <supplied reason="explanation"><foreign>pāṭakam</foreign></supplied>; <gap reason="lost"/> that come from the two hundred forty <foreign>kuḻi</foreign>s, which is our plot <supplied reason="subaudible">on</supplied> the bank of the Kaṇavativākkāṉ <supplied reason="explanation">tank</supplied>, south of the village, west of Parameśvaravati ― so that, each and every year <supplied reason="explanation"><foreign>Āṭṭāṇṭu-tōṟum</foreign></supplied> the great men of the supervision <supplied reason="subaudible">committee</supplied> <supplied reason="explanation"><foreign>vāriya-p-peru-makkaḷē</foreign></supplied> for the Vajramegha tank be those who graciously <supplied reason="explanation"><foreign>āṭṭuvittu <hi rend="grantha">prasādam</hi> ceyvarkaḷ</foreign>, literally "those of do the grace"</supplied> supervise <supplied reason="explanation"><foreign>kaṭai-k-kaṇṭu</foreign></supplied> the silt removing <supplied reason="explanation"><foreign>kuḻi-vāyil āṭṭuvittu</foreign>, literally “having removing made at the mouth of the tank”</supplied>― I, Agnicarma-kramavitta-c-cōmā<hi rend="grantha">śi</hi>, have given <supplied reason="explanation"><foreign>vaittēṉ</foreign></supplied> this plot <supplied reason="explanation"><foreign>ip-pāṭakam</foreign></supplied>. 
+         	<p n="2">
+         		<gap reason="ellipsis"/><note><foreign>E(map·)panār· pa(ṭai)t·tuṭaiya paṅ·kiṉ(·) vaḻi (mu)taṟ(·)k(·)kuṭum(·)piṭ(ṭ)u</foreign><!--update: add markup if remains untranslated--></note>
+         	</p><!--Update: add translation!-->
+         	
+         	<p n="2-3">
+         		the <seg cert="low">fourth</seg> plot <supplied reason="explanation"><foreign>pāṭakam</foreign></supplied>; <gap reason="lost"/> that come from the two hundred forty <foreign>kuḻi</foreign>s, <seg cert="low">which is our</seg> plot <supplied reason="subaudible">on</supplied> <seg cert="low">the bank of the Kaṇavativākkāṉ</seg> <supplied reason="explanation">tank</supplied>, <seg cert="low">south of the village, west of Parameśvaravati</seg>
+         	</p>
+         	<p n="3-4">
+         		So that, <seg cert="low">each and every year</seg> <supplied reason="explanation"><foreign>Āṭṭāṇṭu-tōṟum</foreign></supplied> <seg cert="low">the great men of the supervision <supplied reason="subaudible">committee</supplied></seg> <supplied reason="explanation"><foreign>vāriya-p-peru-makkaḷē</foreign></supplied> for the Vajramegha tank be those who graciously <supplied reason="explanation"><foreign>āṭṭuvittu <hi rend="grantha">prasādam</hi> ceyvarkaḷ</foreign>, literally "those of do the grace"</supplied> <seg cert="low">supervise</seg> <supplied reason="explanation"><foreign>kaṭai-k-kaṇṭu</foreign></supplied> the silt removing <supplied reason="explanation"><foreign>kuḻi-vāyil āṭṭuvittu</foreign>, literally “having removing made at the mouth of the tank”</supplied> <seg cert="low">I, Agnicarmakramavittaccōmā<hi rend="grantha">śi</hi>, have given</seg> <supplied reason="explanation"><foreign>vaittēṉ</foreign></supplied> <seg cert="low">this plot</seg> <supplied reason="explanation"><foreign>ip-pāṭakam</foreign></supplied>. 
          	</p>
          	         	         	         	      	
          </div>
