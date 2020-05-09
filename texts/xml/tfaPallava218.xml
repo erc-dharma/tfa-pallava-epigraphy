@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Uttiramērūr, Vaikuṇṭhaperumāl, donation of the time of Kampavarman, year 15</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from the European Research
+						Council (ERC) under the European Union's Horizon 2020 research and
+						innovation programme (grant agreement no 809994).</note>
+				</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">tfaPallava218</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary></summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p></p>
+							</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2020-05-09" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+      <body>
+      	
+      	<div type="edition" xml:lang="tam-Latn">
+      		<!--Add <milestone unit="block" n="a"/> instead of ‡-->
+      		
+      		<p>
+      			<lb n="1"/><hi rend="grantha"><supplied reason="lost">svasti śrī</supplied></hi>
+      		</p>
+      		<p>
+      			kō-vicaiya-kam·pa-va<hi rend="grantha">rmma</hi>ṟ·kku ‡ yāṇ·ṭu pa‡ti‡ṉ aint-āvatu <unclear>kā</unclear>liyūr-k-kōṭṭattu ‡ taṉ kūṟ‡ṟu Uttara<hi rend="grantha">meru</hi>-c-catu<hi rend="grantha"><unclear>r</unclear>vve</hi>ti-maṅkalat
+      			<lb n="2" break="no"/> <supplied reason="lost">tu</supplied> <gap reason="illegible" quantity="3" unit="character" precision="low"/>l Aṅkāṭi tēvaṉtai kaḻu‡kkuṉṟa‡ṉ-ēṉ Eḻut<unclear>tu</unclear> kāliyūr-k-kōṭṭat‡tu taṉ ‡ kūṟṟu Ut=ta<hi rend="grantha">rameru-c-ca</hi>tu<hi rend="grantha">rvve</hi>ti-maṅkalattu
+      			<lb n="3"/><supplied reason="lost">vayiramē</supplied>ka-taṭākattukku-<hi rend="grantha"><surplus>d</surplus> dha<supplied reason="omitted">r</supplied>mmam</hi> āka nā‡ṉ<surplus>n</surplus>ūṟ‡ṟuk kaḻañcu poṉṉum Iru-patte‡ṇ kāṭi ne‡llum kuṭuttēṉ Iṉ-nūṟṟuk ka 
+      			<lb n="4" break="no"/><supplied reason="lost">ḻañcu</supplied> [p][[o]]ṉṉālum [[split akṣara]] Iru<supplied reason="lost">pa</supplied><unclear>t’ </unclear>eṇ-kāṭi nellā‡lum Ā‡ṭṭāṇṭu-tōṟum nilamum <choice><sic>n</sic><corr>ñ</corr></choice>āy<choice><sic>a</sic><corr>i</corr></choice>ṟum Uḷḷa ‡ tuṇaiyu‡m poli-y ūṭṭu kaḻañciṉ vāy Iraṇṭu
+      			<lb n="5"/><supplied reason="lost">mañcāṭi</supplied>-<unclear>p</unclear> palicai-y āka tiraḷ patiṉ kaḻañcu ‡ poṉṉu‡mu-k-kāṭi nār-nellum Ip-patiṉ kaḻa‡ñcu po‡ṉṉum mu-k-kāṭi I<unclear>ṟai</unclear> nellum Iv- 
+      			<lb n="6" break="no"/><supplied reason="lost">vayiramē</supplied><unclear>ka</unclear>-taṭākattukkē-y vai<choice><sic>yy</sic><corr>k</corr></choice>āci mutal <unclear>ā</unclear>‡ka Iraṇṭu ‡ tiṅkaḷ Akappaṭa patiṉ kaḻañcu poṉ‡ṉum mu‡-k-kāṭi I<unclear>ṟai</unclear> nellum Aṭṭi-k kuḻi kutti-k <unclear>ka</unclear>- 
+      			<lb n="7" break="no"/><supplied reason="lost">rai mē</supplied><unclear>lē</unclear>y Aṭṭiviyppārkaḷ āka Ippa‡ricu <hi rend="grantha">dha<supplied reason="omitted">r</supplied>mma</hi>‡m āka-k kuṭuttēṉ tēvaṉtai kaḻukkuṉ‡ṟan-ēṉ sa‡bhaiyōmum Ip-paric-ē-y ivv-ēri-k
+      			<lb n="8" break="no"/>kē-y Ip-pat<unclear>i</unclear>ṉ kaḻañcu poṉṉum Im-mu-k=kāṭi I<unclear>ṟai</unclear> nel‡lum Iv‡v-er<unclear>i</unclear>kkēy <hi rend="grantha">dha<supplied reason="omitted">r</supplied>mma</hi>m āka kuḻi kutti (karai/kaḷ) [[check: I read kaḷ on pictures, but must be karai]] mēllē ‡ Aṭṭuvō‡m āṉōm Āṭṭāṇṭu-tōṟum Aṭṭi
+      			<lb n="9" break="no"/>vippōm āṉōm <hi rend="grantha">sabhai</hi>yōm Itu ‡ Aṉṟ’ eṉ‡ṟār I-<hi rend="grantha">dha<supplied reason="omitted">r</supplied>mma</hi>m Iṟakkiṉa pāvattil-p pa‡ṭuvār‡kaḷḷ āka-p paṇitt<unclear>ō</unclear>ṃ <hi rend="grantha">sabhai</hi>yō
+      			<lb n="10" break="no"/>m I-<hi rend="grantha">dha<supplied reason="omitted">r</supplied>mma</hi>ttai ra<choice><sic>t</sic><corr>k</corr></choice>ṣittār <hi rend="grantha">śrī-pāda</hi>m Eṉ ‡ <unclear>ṟa</unclear>lai mēl‡laṉa I<unclear>vvai</unclear> Eḻuttu veṭṭinēṉ ciṟṟalaṉ ‡ makaṉ tē‡vaṭiyēṉ <g type="symbol" subtype="finalGomutra"></g>
+      		</p>
+      		
+      	</div>
+
+         <div type="apparatus">
+         	
+         	<listApp>
+         		
+         		<!--5. <supplied reason="lost">mañcāṭi</supplied> after IP-->
+         		<app loc="1">
+         			<lem></lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01"></rdg>
+         		</app>
+         		
+         		<app loc="1">
+         			<lem></lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01"></rdg>
+         		</app>
+         		<app loc="1">
+         			<lem></lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01"></rdg>
+         		</app>
+         		<app loc="1">
+         			<lem></lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01"></rdg>
+         		</app>
+         		<app loc="1">
+         			<lem></lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01"></rdg>
+         		</app>
+         		<app loc="1">
+         			<lem></lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01"></rdg>
+         		</app>
+         		<app loc="1">
+         			<lem></lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01"></rdg>
+         		</app>
+         		
+         		<app loc="10">
+         			<lem>ciṟṟalaṉ vs SII: [pi]ṭṭayaṉ</lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01"></rdg>
+         		</app>
+         		         		
+         		         		         		        		
+         	</listApp>
+         	
+         </div>
+
+         <div type="translation" xml:lang="eng" resp="part:emfr">
+         	
+         	<p n="1">
+         		<seg cert="low">Prosperity! Fortune!</seg><!--OK for translation of <supplied>?-->
+         	</p>
+         	
+         	<p n="1">
+         		Fifteenth year of the victorious king Kampavikramavarman.
+         	</p>
+         	
+         	<p n="1-2">
+         		
+         	</p>
+         	         	         	         	         	         	      	
+         </div>
+      	
+         <div type="commentary">
+         	<p>11 lines in SII, where in fact line 7 is edited twice (line 7 + line 8).</p>
+         </div>
+      	
+         <div type="bibliography">
+
+            <p>
+First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 375).
+Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 218). 
+This edition, with sunstantial revisions, by Emmanuel Francis (2020), based on autopsy and photographs (2019).
+First English translation.
+            </p>
+
+            <listBibl type="primary">
+            	
+            	<bibl>
+            		<ptr target="bib:SubrahmanyaAiyer1928_01"/>
+            		<citedRange unit="page">172</citedRange>
+            		<citedRange unit="item">375</citedRange>
+            	</bibl>
+            	<bibl>
+            		<ptr target="bib:Mahalingam1988_01"/>
+            		<citedRange unit="page">553</citedRange>
+            		<citedRange unit="item">218</citedRange>
+            	</bibl>
+            	
+            </listBibl>
+
+            <listBibl type="secondary">
+            	
+            	<bibl>
+            		<ptr target="bib:ARIE1897-1898"/>
+            		<citedRange unit="page">18</citedRange>
+            		<citedRange unit="appendix">B/1898</citedRange>
+            		<citedRange unit="item">90</citedRange>
+            	</bibl>
+            	            	           	
+           </listBibl>
+
+         </div>
+
+      </body>
+  </text>
+</TEI>
