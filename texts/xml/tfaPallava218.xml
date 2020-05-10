@@ -82,8 +82,8 @@
       			<lb n="3"/><supplied reason="lost">vayiramē</supplied>ka-taṭākattukku-<hi rend="grantha"><surplus>d</surplus> dha<supplied reason="omitted">r</supplied>mma</hi>m āka nā‡ṉ nūṟ‡ṟuk kaḻañcu poṉṉum Iru-patte‡ṇ kāṭi ne‡llum kuṭuttēṉ
       		</p>
       		<p>
-      			I<choice><orig>ṉ</orig><reg>n</reg></choice>-nūṟṟuk ka 
-      			<lb n="4" break="no"/><supplied reason="lost">ḻañcu</supplied> <unclear>po</unclear>⌉ṉ Iru<supplied reason="lost">pa</supplied><unclear>t’ </unclear>eṇ-kāṭi nellā‡lum Ā‡ṭṭāṇṭu-tōṟum nilamum <choice><sic>n</sic><corr>ñ</corr></choice>āy<choice><sic>a</sic><corr>i</corr></choice>ṟum Uḷḷa ‡ tuṇaiyu‡m poli-y ūṭṭu kaḻañciṉ vāy Iraṇṭu
+      			I<choice><orig>ṉ</orig><reg>n</reg></choice>-nūṟṟu-k ka 
+      			<lb n="4" break="no"/><supplied reason="lost">ḻañcu</supplied> <unclear>po</unclear>⌉ṉṉālum Iru<supplied reason="lost">pat</supplied>t’ eṇ-kāṭi nellā‡lum Ā‡ṭṭāṇṭu-tōṟum nilamum <choice><sic>n</sic><corr>ñ</corr></choice>āy<choice><sic>a</sic><corr>i</corr></choice>ṟum Uḷḷa ‡ tuṇaiyu‡m poli-y ūṭṭu kaḻañciṉ vāy Iraṇṭu
       			<lb n="5"/><supplied reason="lost">mañcāṭi</supplied>-<unclear>p</unclear> palicai-y āka tiraḷ patiṉ kaḻañcu ‡ poṉṉu‡mu-k-kāṭi nār-nellum 
       		</p>
       		<p>
@@ -115,9 +115,14 @@
       	</div>
 
          <div type="apparatus">
-         	
+         	<!--compare readings in SII, IP-->
          	<listApp>
-         		         		
+         		
+         		<app loc="1">
+         			<lem><hi rend="grantha"><supplied reason="lost">svasti śrī</supplied></hi></lem>
+         			<note>Obvious restoration, not made by <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> nor by <bibl><ptr target="bib:Mahalingam1988_01"/></bibl>.</note>
+         		</app>
+         		
          		<app loc="1">
          			<lem>pa‡ti‡ṉ</lem>
          			<rdg source="bib:SubrahmanyaAiyer1928_01">pa<unclear>ti</unclear>ṉ</rdg>
@@ -134,25 +139,25 @@
          			<lem>°taṭākattukku-<hi rend="grantha"><surplus>d</surplus> dha<supplied reason="omitted">r</supplied>mma</hi>m āka nā‡ṉ</lem>
          			<rdg source="bib:SubrahmanyaAiyer1928_01">°taṭākattu<unclear>k</unclear>ku <hi rend="grantha">dha<supplied reason="omitted">r</supplied>mma</hi> <gap reason="lost" quantity="3" unit="character"/><!--lost>undefined!--> ṉ</rdg>
          		</app>
-         		     		
+         		
+         		<app loc="4">
+         			<lem>Iru<supplied reason="lost">pat</supplied>t’</lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01">Irupatt’</rdg>
+         			<note>The stone appears to have suffered recent damage.</note>
+         		</app>
+         		   
          		<app loc="5">
          			<lem><supplied reason="lost">mañcāṭi</supplied>-<unclear>p</unclear></lem>
          			<note>This restoration implied in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl>'s summary is very likely.</note>
          		</app>
-         		
-         		<app loc="5">
-         			<lem>I<unclear>ṟai</unclear></lem><!--Check reading in situ; could well be irai > iṟai. Cf. same word, next line.-->
-         			<rdg source="bib:SubrahmanyaAiyer1928_01">Irai</rdg>
-         			<rdg source="bib:Mahalingam1988_01">Iṟai</rdg>
-         		</app>
-         		
+         		         		        		
          		<app loc="6">
          			<lem>vai<choice><sic>yy</sic><corr>k</corr></choice>āci</lem>
          			<rdg source="bib:SubrahmanyaAiyer1928_01">vaiyāci</rdg>
          		</app>
          		
          		<app loc="6">
-         			<lem><unclear reason="eccentric_ductus">I</unclear><choice><orig>r</orig><reg>ṟ</reg></choice>ai</lem>
+         			<lem><unclear reason="eccentric_ductus">I</unclear><choice><orig>r</orig><reg>ṟ</reg></choice>ai</lem><!--Check reading in situ; could well be i[r>ṟ]ai.-->
          			<rdg source="bib:SubrahmanyaAiyer1928_01">Irai</rdg>
          			<rdg source="bib:Mahalingam1988_01">Iṟai</rdg>
          		</app>
@@ -173,6 +178,12 @@
          		<app loc="8">
          			<lem>I<unclear>ṟai</unclear> nel‡lum Iv‡v-er<unclear>i</unclear>kk-ēy</lem><!--Check reading in situ; could well be irai > iṟai. Cf. same word, above lines.-->
          			<rdg source="bib:SubrahmanyaAiyer1928_01">Irai Ce <!--Update C=consonant to markup!--> <gap reason="lost" quantity="1" unit="character"/><!--lost>undefined!--> lum Iv<unclear>v-eri</unclear>kk-ēy</rdg>
+         		</app>
+         		
+         		<app loc="8">
+         			<lem><hi rend="grantha">dha<supplied reason="omitted">r</supplied>mma</hi>m āka kuḻi</lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01"><hi rend="grantha">dharmma</hi>m āka kuḻi</rdg>
+         			<note>As the <foreign>u</foreign> in <foreign>ku</foreign> extends below the preceding character <foreign>ka</foreign>, one could alternatively read <foreign><hi rend="grantha">dharmma</hi>m āk=kuḻi</foreign>, which does not however make sense.</note>
          		</app>
          		
          		<app loc="8">
@@ -243,17 +254,17 @@
          	</p>
          	<p n="3-5">
          		With these four hundred <foreign>kaḻañcu</foreign>s of gold and and twenty-eight <foreign>kāṭi</foreign>s of paddy, each and every year, as long as the earth and the sun <supplied reason="subaudible">last</supplied> <supplied reason="explanation"><foreign>nilamum ñāyiṟum uḷḷa tuṇaiyum</foreign>, literally “up to the extent which is that of the earth and the sun”</supplied>, whereas the interest rate is <supplied reason="explanation"><foreign>palicai-y āka</foreign></supplied> two <seg cert="low"><foreign>mañcāṭi</foreign>s</seg> <supplied reason="subaudible">per</supplied> <foreign>kaḻañcu</foreign> <supplied reason="explanation"><foreign>kaḻañciṉ vāy iraṇṭu mañcāṭi</foreign></supplied> <supplied reason="subaudible">yielding</supplied> earning interest <supplied reason="explanation"><foreign>poli-y ūṭṭu</foreign></supplied>, 
-<supplied reason="subaudible">there is thus</supplied> a total <supplied reason="explanation"><foreign>tiraḷ</foreign></supplied> of ten <foreign>kaḻañcu</foreign>s of gold and three <foreign>kāṭi</foreign>s of taxable paddy <supplied reason="explanation"><foreign>iṟai-nel</foreign></supplied>.
+<supplied reason="subaudible">there is thus</supplied> a total <supplied reason="explanation"><foreign>tiraḷ</foreign></supplied> of ten <foreign>kaḻañcu</foreign>s of gold and three <foreign>kāṭi</foreign>s of ... <!--update: nār = fibrous?--> paddy <supplied reason="explanation"><foreign>nār-nel</foreign></supplied>.
          	</p>
          	<p n="5-7">
-<supplied reason="subaudible">With</supplied> these ten <foreign>kaḻañcu</foreign>s of gold and three <foreign>kāṭi</foreign>s of taxable paddy, let <supplied reason="subaudible">the members of the assembly</supplied> sabhaiyars) be those who have the silt removed <supplied reason="explanation">kuḻi kutti aṭṭi viyppārkaḷ</supplied> [[IP: for deepening and raising the bunds]]<!--Update!--> for this Vayiramēkam (Skt. vajra-megha) tank, so that two lunar months <supplied reason="explanation"><foreign>tiṅkaḷ</foreign></supplied> be included <supplied reason="explanation"><foreign>akappaṭa</foreign></supplied> beginning in the Vaikāci <supplied reason="explanation">month</supplied> 
+<supplied reason="subaudible">With</supplied> these ten <foreign>kaḻañcu</foreign>s of gold and three <foreign>kāṭi</foreign>s of taxable paddy, let <supplied reason="subaudible">the members of the assembly</supplied> sabhaiyars) be those who have the silt removed <supplied reason="explanation">kuḻi kutti aṭṭi viyppārkaḷ</supplied> [[IP: for deepening and raising the bunds]]<!--Update!--> for this Vayiramēkam (Skt. vajra-megha) tank, so that two lunar months <supplied reason="explanation"><foreign>tiṅkaḷ</foreign></supplied> be included <supplied reason="explanation"><foreign>akappaṭa</foreign></supplied> beginning in the Vaikāci <supplied reason="explanation">month</supplied> <supplied reason="explanation">that is, the term is fixed for two months starting from Vaikāci month</supplied><!--transfer to commentary-->, 
 by remitting/contributing <supplied reason="explanation">aṭṭi, literally “by pouring, putting”</supplied> ten <foreign>kaḻañc</foreign>us of gold and and three <foreign>kāṭi</foreign>s of taxable paddy.
          	</p>
          	<p n="7">
 In this wise <supplied reason="explanation"><foreign>ipparicu</foreign></supplied>, have I, Tēvaṉtai Kaḻukkuṉṟaṉ, given <supplied reason="subaudible">these</supplied> as pious gift.
          	</p>
          	<p n="7-9">
-We, the members of the assembly, in this wise, for this tank, so that these ten <foreign>kaḻañcu</foreign>s of gold and these three <foreign>kāṭi</foreign>s of taxable paddy be a pious gift for this tank, We, the members of the assembly, will, each and every year, remove <supplied reason="explanation"><foreign>aṭṭuvōm āṉōm</foreign></supplied> the silt <supplied reason="explanation"><foreign>kuḻi kutti</foreign></supplied> and have <supplied reason="subaudible">it</supplied> removed <supplied reason="explanation"><foreign>aṭṭivippōm āṉōm</foreign></supplied> [[add literal translation?]]<!--Update!--> above the banks <supplied reason="explanation"><foreign>karai mēl-ē</foreign></supplied>.
+<supplied reason="subaudible">As for</supplied> We, the members of the assembly, in this wise, for this tank, so that these ten <foreign>kaḻañcu</foreign>s of gold and these three <foreign>kāṭi</foreign>s of taxable paddy be a pious gift for this tank, We, the members of the assembly, will, each and every year, remove <supplied reason="explanation"><foreign>aṭṭuvōm āṉōm</foreign></supplied> the silt <supplied reason="explanation"><foreign>kuḻi kutti</foreign></supplied> and have <supplied reason="subaudible">it</supplied> removed <supplied reason="explanation"><foreign>aṭṭivippōm āṉōm</foreign></supplied> [[add literal translation?]]<!--Update!--> above the banks <supplied reason="explanation"><foreign>karai mēl-ē</foreign></supplied>.
          	</p>
          	<p n="9">
 Those who say “This is not <supplied reason="subaudible">so</supplied>”, let them undergo the sin of injuring this pious gift.
@@ -278,10 +289,9 @@ Those who say “This is not <supplied reason="subaudible">so</supplied>”, let
          		<bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl>, followed by <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> edit 11 lines of text whereas there are only 10 lines. The reason is that <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl>'s lines 7 and 8 are in fact two readings of the same line 7, included in the edition due to oversight.
          	</p>
          	<p>
-         		<bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> and <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> locate the lacunae at the end of the lines, while the examination in situ makes it clear that the lacunae are in the beginning of lines as the fragmentary blocks are blocks a and d (area a and e), the left part of which are lost, not the blocks c and f (area d and g). <!--Check block and area number!--> Furthermore, these lacunae on the edges of blocks concern only lines 1–7, not lines 1–9. The lacunae are longer in lines 1-2 (block a) than in lines 3–7 (block d). Restorations of these lacunae are made in the present edition, while <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> and <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> do not suggest any restoration except at the beginning of the second reading of line 7, that is, their line 8.
+         		<bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> and <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> locate the lacunae at the end of the lines, while the examination in situ makes it clear that the lacunae are in the beginning of lines, as the fragmentary blocks are blocks a and d (area a and e), the left part of which are lost, not the blocks c and f (area d and g). <!--Check block and area number!--> Furthermore, these lacunae on the edges of blocks concern only lines 1–7, not lines 1–9. The lacunae are longer in lines 1-2 (block a) than in lines 3–7 (block d). Restorations of these lacunae are made in the present edition, while <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> and <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> do not suggest any restoration except at the beginning of the second reading of line 7, that is, their line 8.
          	</p>
          	<p>Note the notarial/administrative style, replete with redundances and repetions.</p>
-         	<p>TO DO: compare with SII edition for apparatus</p><!--Update-->
          </div>
       	
          <div type="bibliography">
