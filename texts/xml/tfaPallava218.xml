@@ -65,7 +65,7 @@
       <body>
       	
       	<div type="edition" xml:lang="tam-Latn">
-      		<!--Add <milestone unit="area" n="a"/> instead of ‡-->
+      		<!--Add <milestone unit="block" n="a"/> instead of ‡-->
       		
       		<p>
       			<lb n="1"/><hi rend="grantha"><supplied reason="lost">svasti śrī</supplied></hi>
@@ -289,7 +289,7 @@ Those who say “This is not <supplied reason="subaudible">so</supplied>”, let
          		<bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl>, followed by <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> edit 11 lines of text whereas there are only 10 lines. The reason is that <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl>'s lines 7 and 8 are in fact two readings of the same line 7, included in the edition due to oversight.
          	</p>
          	<p>
-         		<bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> and <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> locate the lacunae at the end of the lines, while the examination in situ makes it clear that the lacunae are in the beginning of lines, as the fragmentary blocks are blocks a and d (area a and e), the left part of which are lost, not the blocks c and f (area d and g). <!--Check block and area number!--> Furthermore, these lacunae on the edges of blocks concern only lines 1–7, not lines 1–9. The lacunae are longer in lines 1-2 (block a) than in lines 3–7 (block d). Restorations of these lacunae are made in the present edition, while <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> and <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> do not suggest any restoration except at the beginning of the second reading of line 7, that is, their line 8.
+         		<bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> and <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> locate the lacunae at the end of the lines, while the examination in situ makes it clear that the lacunae are in the beginning of lines, as the fragmentary blocks are blocks a and d, the left parts of which are lost, not the blocks c and f. Furthermore, these lacunae on the edges of blocks concern only lines 1–7, not lines 1–9. The lacunae are longer in lines 1-2 (block a) than in lines 3–7 (block d). Restorations of these lacunae are made in the present edition, while <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> and <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> do not suggest any restoration except at the beginning of the second reading of line 7, that is, their line 8.
          	</p>
          	<p>Note the notarial/administrative style, replete with redundances and repetions.</p>
          </div>
@@ -332,3 +332,5 @@ This edition, with substantial revisions, and first English translation by Emman
       </body>
   </text>
 </TEI>
+
+<!--<history> <p>Three superposed rows of blocks, some displaying projecting pilasters  of the southern base of the smaller platform of the Vaikuṇṭhaperumāḷ temple. The first row (lines 1–2) is made of 3 blocks. The second row (lines 3–7) is made of 2 blocks. The third row (lines 8–10) is made of 3 blocks. In one instance, a projecting pilaster has been engraved with one character on its perpendicular side, i.e., line 1, <foreign>ti</foreign> in <foreign>pattiṉ</foreign>,</p> </history>-->
