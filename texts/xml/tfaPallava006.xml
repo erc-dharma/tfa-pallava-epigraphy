@@ -393,17 +393,17 @@ This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy
 
             <listBibl type="primary">
             	
-            	<bibl>
+            	<bibl n="JFF">
             		<ptr target="bib:Fleet1876_04"/>
             	</bibl>
             	
-            	<bibl>
+            	<bibl n="TVM">
             		<ptr target="bib:Mahalingam1988_01"/>
             		<citedRange unit="page">45-48</citedRange>
             		<citedRange unit="item">6</citedRange>
             	</bibl>
             	
-            	<bibl>
+            	<bibl n="SB">
             		<ptr target="bib:Brocquet1997_01"/>
             		<citedRange unit="page">377-383</citedRange>
             		<citedRange unit="item">3</citedRange>
@@ -413,7 +413,7 @@ This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy
 
             <listBibl type="secondary">
             	
-            	<bibl>
+            	<bibl n="GB">
             		<ptr target="bib:Buehler1892_01"/>
             	</bibl>
             	            	
