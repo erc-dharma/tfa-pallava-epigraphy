@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+
+			<titleStmt>
+				<title>Uttiramērūr, Vaikuṇṭhaperumāḷ, larger platform, southern base, time of Dantivarman, year
+					21</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from the European Research
+						Council (ERC) under the European Union's Horizon 2020 research and
+						innovation programme (grant agreement no 809994).</note>
+				</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">tfaPallava109</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p><!-- not to be filled in at this stage --></p>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2020-05-28" who="part:emfr">Creation of the file on the
+				repository</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="tam-Latn">
+            <!--Add milestones for blocks-->
+         	<p>
+         		<lb n="1"/><hi rend="grantha"><unclear>sva</unclear>sti śrī</hi></p>
+         	<p>
+         		<hi rend="grantha">da</hi>n=ti-vi<hi rend="grantha"><unclear>kra</unclear></hi>ma-pa<hi rend="grantha">rmma</hi>kku yāṇṭu Irupatt' oṉṟ-āvatu nāḷ nūṟṟu Iru-pattu Iraṇṭu
+         	</p>
+         	<p>         		
+         		Uttaramēru-catu‡<hi rend="grantha"><supplied reason="omitted">r</supplied>vve</hi>ti-maṅgalattu <hi rend="grantha">sabhai</hi>yōm ceyta <hi rend="grantha">vya</hi>va<hi rend="grantha">sthai</hi> Emmūr <hi rend="grantha">bhū</hi>mi-Uṭaiya kuṭikaḷ <hi rend="grantha">bhū</hi>mi-<hi rend="grantha">sā</hi>mantu <unclear>ceyka Eṉṟu vantaṉa Epper</unclear>ppaṭṭaṉa
+         		<lb n="2" break="no"/>vum <hi rend="grantha"><unclear>sā</unclear></hi><unclear>man=tu</unclear> ceyya va<choice><orig>ṉ</orig><reg>n</reg></choice>ta <hi rend="grantha">bhū</hi>mi-y-uṭaiyāṉ mu<choice><orig>n</orig><reg>ṉ</reg></choice> ṉi<unclear>ṉṟu</unclear> po<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> iṭātār <hi rend="grantha">bhū</hi>mikku <hi rend="grantha">sā</hi>mantu <gap reason="illegible" quantity="2" unit="character" precision="low"/> m po<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> iṭa-mā‡ṭṭā<unclear>ta</unclear> kuṭi palavum niṟkka-māṭṭātu pōṉamaiyil Ūrōmēy po<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> iṭṭu Avaṉ <hi rend="grantha">bhū</hi>miyil <gap reason="illegible" quantity="2" unit="character"/> poṉ<unclear>ṉu</unclear>kku vēṇṭum aḷa<unclear>vu</unclear> Emmūr vaiyiramē
+         		<lb n="3" break="no"/>ka-taṭākattukkē <hi rend="grantha">bhū</hi>mi-y-āka <hi rend="grantha">sā</hi>ma<unclear>n=tu</unclear> ceytu viṟṟu-k kuṭuttu maṇṭakattu kallilē Eḻuttu <unclear>ve</unclear>ṭṭu‡vat' ākavum 
+         	</p>
+         	<p>
+         		Ipparicēy vayiramēka-taṭākattukku viṟṟa <hi rend="grantha">bhū</hi>mi mu-<unclear>yā</unclear>ṇṭiṉ Akam-paṭi Uṭaiyaṉ mīḷka-varil niyāyattāl
+         		<lb n="4"/>koḷḷa <unclear>U</unclear>ṭaiya poṉ ellām koṇṭu viṭṭu-k kuṭuppat’ ākavum
+         	</p>
+         	<p>
+         		mūṉṟu <hi rend="grantha">sām</hi>va<hi rend="grantha">tsara</hi><unclear>mum</unclear> ‡ kaḻintāl <unclear>I</unclear>ppū<choice><unclear>mi</unclear><unclear>me</unclear></choice> y-<choice><orig>i</orig><reg>iv</reg></choice>-vay<choice><unclear>a</unclear><unclear>i</unclear></choice>ramēkattukkē <unclear>Aṟaviṟṟu Aṭṭuvat' ā</unclear>kavum
+         	</p>
+         	<p>
+         		Ipparic’ aṉṟi Ārā<supplied reason="omitted">ki</supplied><unclear>lu</unclear>m mīḷap paṇippār-uḷar ākil Avaṉ <hi rend="grantha">bhū</hi>miyu
+         		<lb n="5" break="no"/>m va<choice><orig>yy</orig><reg>y</reg></choice>iramēka-taṭākattukē mutal-āka viṟṟu Aṭṭuvat’ ākavum
+         	</p>
+         	<p>
+         		Ivaṉ <hi rend="grantha">grā</hi><unclear>makaṇṭakaṉ</unclear> āvā<choice><unclear>ṉ</unclear><unclear>n</unclear></choice> ākavum
+         	</p>
+         	<p>
+         		‡ <unclear>Itu</unclear> mīḷa-p paṇi kēṭṭa ma<hi rend="grantha">dhyastha</hi>ṉ uḷaṉ ā<choice><sic>y</sic><corr>k</corr></choice>il Avaṉai veṭṭi-p pōka Iṭu<unclear>vat’ ā</unclear>kavum
+         	</p>
+         	<p>
+         		<unclear>I</unclear>pparicu ceytu mīḷa-p paṇi<surplus>t</surplus>ttup paṇi<choice><unclear>ya</unclear><unclear>y</unclear></choice>
+         	</p>
+
+         </div>
+      	<div type="apparatus">
+      		<!--Finalise apparatus: check other editions: letters unclear to me, but not to previous editors-->
+      		<listApp>
+      			<app loc="1">
+      				<lem>°vi<hi rend="grantha"><unclear>kra</unclear></hi>ma°</lem>
+      				<rdg source="bib:SubrahmanyaAiyer1928_01">°vi<hi rend="grantha"><unclear>kra</unclear></hi>ma°</rdg>
+      				<note>Alternative reading: <foreign>°vikk=rama°</foreign></note>
+      			</app>
+      		</listApp>
+      	</div>
+      	
+      	<div type="translation" xml:lang="eng">
+      		<p n="1">
+      			Prosperity! Fortune!
+      		</p>
+      		<p n="1">
+      			Twenty-first year and day one hundred twenty-two of Dantivikramavarman.
+      		</p>
+      		
+      	</div>
+      	      	
+      	<div type="commentary"/>
+      		
+      	        
+      	<div type="bibliography">
+
+ <p>
+ 	First edited by Subrahmanya Aiyer <bibl rend="omitname"><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 334); re-edited and translated by Subrahmanya Aiyer <bibl rend="omitname"><ptr target="bib:SubrahmanyaAiyer1936-1937_01"/></bibl> (EI 24, no. 7/A); these editions reproduced with a summary by Mahalingam <bibl rend="omitname"><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 109); re-edited here by Emmanuel Francis (2020), from autopsy and photographs (2019).
+</p>	
+      		
+<listBibl type="primary">
+            
+	<bibl n="KVSA1928">
+         		<ptr target="bib:SubrahmanyaAiyer1928_01"/>
+         		<citedRange unit="page">161</citedRange>
+		<citedRange unit="item">344</citedRange>
+	</bibl>
+	<bibl n="KVSA1936-1937">
+         		<ptr target="SubrahmanyaAiyer1936-1937_01"/>
+         		<citedRange unit="page">29-34</citedRange>
+	</bibl>
+	<bibl n="TVM">
+		<ptr target="bib:Mahalingam1988_01"/>
+		<citedRange unit="page">352-353</citedRange>
+		<citedRange unit="item">109</citedRange>
+	</bibl>
+</listBibl>
+
+<listBibl type="secondary">
+	<bibl>ARIE 1898/59</bibl> <!--to be updated-->
+</listBibl>
+      	
+      	</div>
+      	
+      </body>
+  </text>
+</TEI>
