@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Pūñcēri list of names</title>
+				<title>Pūñcēri name (1/8)</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -51,204 +51,58 @@
 	<text xml:space="preserve">
       <body>
 
+      	<div type="edition" xml:lang="tam-Latn">
+      		
+      		<p>
+      			<lb n="1"/>ke<unclear reason="eccentric_ductus">v</unclear>āta-peru
+      			<lb n="2" break="no"/>n·tac·caṉ· <g type="symbol" subtype="finalGomutra"/>
+      		</p>      		
+      		
+      	</div>
 
-<div type="edition" xml:lang="tam-Latn">
-		
-<div type="textpart" subtype="item" n="1">
-	<!--choice of item TBC-->
-<p>
-<lb n="1"/>ke<unclear reason="eccentric_ductus">v</unclear>āta-peru
-<lb n="2" break="no"/>n·tac·caṉ· <g type="symbol" subtype="finalGomutra"/>
-</p>
-</div>
-         	
-<div type="textpart" subtype="item" n="2">
-<p>
-<lb n="1"/><hi rend="grantha">ku</hi>ṇa<hi rend="grantha">mal·laḥ</hi>
-</p>
-</div>
-
-<div type="textpart" subtype="item" n="3">
-<p>
-<lb n="1"/>pay<unclear>·</unclear>yami
-<lb n="2" break="no"/>ḻip·pāṉ· <g type="symbol" subtype="finalGomutra"/>
-</p>
-</div>
-         	
-<div type="textpart" subtype="item" n="4">
-<p>
-<lb n="1"/>cātamukkiyaṉ·
-<lb n="2"/><hi rend="grantha">ma</hi> <gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/>
-</p>
-</div>
-         	
-<div type="textpart" subtype="item" n="5">
-<p>
-<lb n="1"/>kaliyā<unclear>ṇi</unclear>
-</p>
-</div>
-         	
-<div type="textpart" subtype="item" n="6">
-<p>
-<lb n="1"/>na<hi rend="grantha">maḥ</hi> tiruveṟṟiyūr Ā<hi rend="grantha">bhā</hi>jar <g type="symbol" subtype="finalGomutra"/>
-</p>
-</div>
-	
-<div type="textpart" subtype="item" n="7">
-<p>
-<lb n="1"/>kol·laṉ<unclear>·</unclear> <unclear reason="eccentric_ductus">se</unclear>makaṉ·
-</p>
-</div>
-	
-<div type="textpart" subtype="item" n="8">
-<p>
-<lb n="1"/>pe<unclear>·</unclear><gap reason="lost" extent="unknown" unit="character"/>
-</p>
-</div>
-	         	
+      	<div type="apparatus">
+      		
+      		<listApp>
+      			<app loc="1">
+      				<lem>ke<unclear reason="eccentric_ductus">v</unclear>āta°</lem>
+      				<rdg source="bib:VenkatasubbaAyyar1943_01">ke<unclear reason="eccentric_ductus">vā</unclear>ta°</rdg>
+      			</app>
+      			
+      		</listApp>
+      		
          </div>
 
-         <div type="apparatus">
-         	
-<div type="textpart" subtype="item" n="1">
-		<listApp>
-		<app loc="1">
-			<lem>ke<unclear reason="eccentric_ductus">v</unclear>āta°</lem>
-			<rdg source="bib:VenkatasubbaAyyar1943_01">ke<unclear reason="eccentric_ductus">vā</unclear>ta°</rdg>
-		</app>
-	</listApp>
-</div>
-         	
-<div type="textpart" subtype="item" n="2">
-	<listApp>
-		<app loc="1">
-			<lem><hi rend="grantha">ku</hi>ṇa<hi rend="grantha">mal·laḥ</hi></lem>
-			<rdg source="bib:ARIE"><hi rend="grantha">ku</hi>ṇa<hi rend="grantha">mal·la</hi></rdg>
-		</app>
-	</listApp>
-</div>
-
-<div type="textpart" subtype="item" n="3">
-</div>
-         	
-<div type="textpart" subtype="item" n="4">
-	<listApp>
-		<app loc="2">
-			<lem><hi rend="grantha">ma</hi> <gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/></lem>
-			<rdg source="bib:VenkatasubbaAyyar1943_01"></rdg>
-			</app>
-	</listApp>
-</div>
-         	
-<div type="textpart" subtype="item" n="5">
-</div>
-         	
-<div type="textpart" subtype="item" n="6">
-	<listApp>
-		<app loc="1">
-			<lem>tiruveṟṟiyūr</lem>
-			<note>This is the reading in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>, which could not be checked by lack of visual documentation. <bibl><ptr target="bib:Kasinathan2007-01"/></bibl> reads or interprets this as Tiruvorriyūr, which makes sense. It is possible that this name was written in more than one epigraphical line.</note> 
-		</app>
-	</listApp>
-</div>
-	
-<div type="textpart" subtype="item" n="7">
-</div>
-	
-<div type="textpart" subtype="item" n="8">
-	
-	<listApp>
-		<app loc="1">
-			<lem>pe<unclear>·</unclear><gap reason="lost" extent="unknown" unit="character"/></lem>
-			<note>This item has not been recorded so far, as far as we know.</note> 
-		</app>
-	</listApp>
-	<p>
-
-</p>
-</div>
-
-         </div>
-
-         <div type="translation" xml:lang="eng" resp="part:emfr">
-         	
-         	<div type="textpart" subtype="item" n="1">
-         		<p>The great carpenter Kevāta</p>
-         	</div>
-         	
-         	<div type="textpart" subtype="item" n="2">
-         		<p>The virtue wrestler</p>
-         	</div>
-         	<div type="textpart" subtype="item" n="3">
-         		<p>Payyamiḻippāṉ</p>
-         	</div>
-         	<div type="textpart" subtype="item" n="4">
-         		<p>Cātamukkiyaṉ</p>
-         	</div>
-         	<div type="textpart" subtype="item" n="5">
-         		<p>Kaliyāṇi (Skt. Kalyāṇi) </p>
-         	</div>
-         	<div type="textpart" subtype="item" n="6">
-         		<p>Homage! Ābhājar of Tiruveṟṟiyūr <supplied reason="explanation">Tiruvōṟṟiyūr?</supplied>. </p>
-         	</div>
-         	<div type="textpart" subtype="item" n="7">
-         		<p>Koḷḷaṉ Cemakaṉ</p>
-         	</div>
-         	<div type="textpart" subtype="item" n="8">
-         		<p>Pe<gap reason="lost"></gap></p>
-         	</div>
-         </div>
+      	<div type="translation" xml:lang="eng" resp="part:emfr">
+      		
+      		<p>The great carpenter Kevātaṉ.</p>
+      		
+      	</div>
          
          <div type="commentary">
-         	<div type="textpart" subtype="item" n="1">
-         		
-         	</div>
-         	
-         	<div type="textpart" subtype="item" n="2">
-         		
-         	</div>
-         	<div type="textpart" subtype="item" n="3">
-         		
-         	</div>
-         	<div type="textpart" subtype="item" n="4">
-         		
-         	</div>
-         	<div type="textpart" subtype="item" n="5">
-         		
-         	</div>
-         	<div type="textpart" subtype="item" n="6">
-         		
-         	</div>
-         	<div type="textpart" subtype="item" n="7">
-         		
-         	</div>
-         	<div type="textpart" subtype="item" n="8">
-         		
-         	</div>	
+         	<p>This inscription is part of a series of names found on a group of rocks. See also tfaPallava514-520.<!--update!--> Six names (tfaPallava52, 514-517, 520 <!--update!-->) are found on the rock locally known as <foreign>noṇṭi vīrappaṉ kutiraitoṭṭi</foreign> ("the watering place of the horse of Noṇṭi Vīrappaṉ"). One on a second rock nearby (tfaPallava518). One on a third rock in the same place (tfaPallava519).<!--Update!--></p>
+         	<p>SII 12: The following seven labels are engraved in archaic Tamil and Grantha characters on a group of rocks, one of which, on account of a natural cavity in it, is locally known as 'Noṇḍi Vīrappaṉ Kudiraitoṭṭi'. The names Kevadaperundachchaṉ and Kollaṉ Śēmagaṉ found in this place indicate that the persons bearing these names belonged to the artisan class. One of the labels also gives the name Guṇamallaḥ. On account of their palaeographical interest, these labels, as also the one given in the previous inscription <supplied reason="explanation">SII 12.23 = IP ***<!--update!--></supplied>, are included here and some of them are reproduced on plate VI <supplied reason="explanation">plate II in fact</supplied>.</p>
          </div>
          	
          <div type="bibliography">
 
-            <p>
-Seven of the eight items first edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, n° 23-A), with facsimile of five items. 
-Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 52).
-This edition by Emmanuel Francis (2020), based on partial visual documentation, that is, the facsimile in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> and photographs of four items (2011).
-            </p>
-
+         	<p>
+First edited by Venkatasubba Ayyar <bibl rend="omitname"><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, n° 23-A/1), with a facsimile; this first edition reproduced with a summary by Mahalingam <bibl rend="omitname"><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 52.1); re-edited here by Emmanuel Francis (2020) from photograph (2011).
+         	</p>
+            
             <listBibl type="primary">
                
-            	<bibl>
+            	<bibl n="VVA">
             		<ptr target="bib:VenkatasubbaAyyar1943_01"/>
-            		<citedRange unit="item">23-A</citedRange>
             		<citedRange unit="page">11</citedRange>
-            		<citedRange unit="plate">II <note>5 items</note></citedRange>
-            		<note>The following seven labels are engraved in archaic Tamil and Grantha characters on a group of rocks, one of which, on account of a natural cavity in it, is locally known as 'Noṇḍi Vīrappaṉ Kudiraitoṭṭi'. The names Kevadaperundachchaṉ and Kollaṉ Śēmagaṉ found in this place indicate that the persons bearing these names belonged to the artisan class. One of the labels also gives the name Guṇamallaḥ. On account of their palaeographical interest, these labels, as also the one given in the previous inscription <supplied reason="explanation">SII 12.23 = IP ***<!--update!--></supplied>, are included here and some of them are reproduced on plate VI <supplied reason="explanation">plate II in fact</supplied>.</note>
+            		<citedRange unit="item">23-A</citedRange>
+            		<citedRange unit="plate">II</citedRange>
             	</bibl>
             	
-            	<bibl>
+            	<bibl n="TVM">
             		<ptr target="bib:Mahalingam1988_01"/>
-            		<citedRange unit="item">52</citedRange>
             		<citedRange unit="page">168</citedRange>
+            		<citedRange unit="item">52</citedRange>
+            		
             	</bibl>
             	
             </listBibl>
@@ -259,10 +113,9 @@ This edition by Emmanuel Francis (2020), based on partial visual documentation, 
          			<ptr target="bib:ARIE1932-1933_01"/>
          			<citedRange unit="page">17</citedRange>
          			<citedRange unit="appendix">B/1932-1933</citedRange>
-         			<citedRange unit="item">105-107</citedRange>
+         			<citedRange unit="item">105</citedRange>
          		</bibl>
-         		
-         		
+         		         		
          		<bibl>
          			<ptr target="bib:Kasinathan2007-01"/>
          			<citedRange unit="page">14</citedRange>
@@ -277,8 +130,3 @@ This edition by Emmanuel Francis (2020), based on partial visual documentation, 
 </TEI>
 
 <!--Check pūñcēri in Avanam-->
-<!--
-	On several rocks in Pūñcēri.
-	A list of 8 items, mostly Tamil Personal names.
-	Tamil in Tamil script (7 items) + Sanskrit in Grantha (1 item).
--->
