@@ -54,7 +54,7 @@
 			<div type="edition" xml:lang="tam-Latn">
 				
 	<p>
-	<lb n="1"/>na<hi rend="grantha">maḥ</hi> tiruveṟṟiyūr Ā<hi rend="grantha">bhā</hi>jar <g type="symbol" subtype="finalGomutra"/>
+	<lb n="1"/>na<hi rend="grantha">maḥ</hi> tiruvoṟṟiyūr Ā<hi rend="grantha">bhā</hi>jar <g type="symbol" subtype="finalGomutra"/>
 	</p>
 				
 			</div>
@@ -63,8 +63,9 @@
 								
 				<listApp>
 					<app loc="1">
-						<lem>tiruveṟṟiyūr</lem>
-						<note>This is the reading in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>, which could not be checked by lack of visual documentation. <bibl><ptr target="bib:Kasinathan2007-01"/></bibl> reads or interprets this as Tiruvorriyūr, which makes sense. It is possible that this name was written in more than one epigraphical line.</note> 
+						<lem>tiruvoṟṟiyūr</lem>
+						<rdg source="bib:VenkatasubbaAyyar1943_01">tiruveṟṟiyūr</rdg>
+						<note>It seems that this reading <foreign>tiruveṟṟiyūr</foreign> by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> is a typo. The ARIE reads <foreign>tiruvoṟṟiyūr</foreign>. <bibl><ptr target="bib:Kasinathan2007-01"/></bibl> also reads <foreign>tiruvorriyūr</foreign> or interprets the reading as such. This reading could not however be checked by lack of visual documentation. </note> 
 					</app>
 				</listApp>
 				
@@ -84,20 +85,20 @@
 			<div type="bibliography">
 				
 				<p>
-					First edited by Venkatasubba Ayyar <bibl rend="omitname"><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, n° 23-A/1), with a facsimile; this first edition reproduced with a summary by Mahalingam <bibl rend="omitname"><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 52.1); re-edited here and translated by Emmanuel Francis (2020) from photograph (2011).
+					First edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, n° 23-A/1), with a facsimile; this first edition reproduced with a summary by <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 52.1); re-edited here and translated by Emmanuel Francis (2020) from photographs (2011).
 				</p>
 				
 				
 				<listBibl type="primary">
 					
-					<bibl>
+					<bibl n="VVK">
 						<ptr target="bib:VenkatasubbaAyyar1943_01"/>
 						<citedRange unit="page">11</citedRange>
 						<citedRange unit="item">23-A</citedRange>
 						<citedRange unit="plate">II <note>5 items</note></citedRange>
 					</bibl>
 					
-					<bibl>
+					<bibl n="TVM">
 						<ptr target="bib:Mahalingam1988_01"/>
 						<citedRange unit="page">168</citedRange>
 						<citedRange unit="item">52</citedRange>						
