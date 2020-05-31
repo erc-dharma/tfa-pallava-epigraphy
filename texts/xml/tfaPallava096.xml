@@ -69,12 +69,9 @@
 <p>Properity! Fortune!</p>
 
 <p>We the members of the assembly <supplied reason="explanation"><foreign>sabhā</foreign></supplied> of Uttaramērucaturvedimaṅkalam, we have allotted <supplied reason="explanation"><foreign>vaittōm</foreign></supplied> one land of four <foreign>paṭṭi</foreign> Malliyaṉ, as a single plot <supplied reason="explanation"><foreign>tiraḷ-ē</foreign></supplied>, as <foreign>arcanābhoga</foreign>, to the great god of Tiruppulivanam.</p>
-<!--<foreign>paṭṭi</foreign> <foreign>arcanābhoga</foreign> = OK?-->
 
-<p>This should be for feeding <supplied reason="explanation"><foreign>uṇpatu</foreign></supplied> a Brahmin, who is reputed as <supplied reason="explanation"><foreign>uktaṉ-ākiya</foreign></supplied> skilled in the Vedas and the proper way of its recitation and who is a <foreign>brahmācārin</foreign>, for making worship <supplied reason="explanation"><foreign>ārādhittu</foreign></supplied> three times <supplied reason="subaudible">a day</supplied>.</p>
-<!--<foreign>brahmācārin</foreign> = OK?-->
-<!--<foreign>ārādhittu</foreign> Keep grantha tagging in translation. <hi rend="grantha">ārādhi</hi>tt'-->
-            	
+<p>This should be for feeding <supplied reason="explanation"><foreign>uṇpatu</foreign></supplied> a Brahmin, who is reputed as <supplied reason="explanation"><foreign>uktaṉ-ākiya</foreign></supplied> skilled in the Vedas and the proper way of its recitation and who is a <foreign>brahmācārin</foreign>, for making worship <supplied reason="explanation"><foreign>ā<hi rend="grantha">rādhi</hi>tt</foreign></supplied> three times <supplied reason="subaudible">a day</supplied>.</p>
+        	
 <p>In this manner <supplied reason="explanation"><foreign>ipparicu</foreign></supplied> we have alloted <supplied reason="subaudible">this</supplied> for a limit of three years for each entrant <supplied reason="explanation"><foreign>pukkār pukkārkku</foreign></supplied>.</p>
 
 <p>Signature of Vastuvidyāmayaṉ.</p>
@@ -82,19 +79,17 @@
             </div>
             
     	<div type="commentary">
-    		<p>(Line 1) Malliyaṉ Kārāṇai designates the land given. It incorporates the personal name Malliyaṉ.</p>
-    		<!--OR <lb n="1"></lb>Malliyaṉ Kārāṇai ...-->
+    		<p n="1">Malliyaṉ Kārāṇai designates the land given. It incorporates the personal name Malliyaṉ.</p>
+    		
     	</div>
             
     	<div type="bibliography">
     		
 <p>
-First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 355).
-Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 96).
-This edition by Emmanuel Francis (2020), based on autopsy and photographs (2019).
+First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 355); summarised by <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 96); re-edited here by Emmanuel Francis (2020), based on autopsy and photographs (2019).
 </p>
     		
-    		<listBibl type="primary"> <!--to be validated in EG-->
+    		<listBibl type="primary">
     			
     			<bibl>
     				<ptr target="bib:SubrahmanyaAiyer1928_01"/>
