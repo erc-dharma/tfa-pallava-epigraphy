@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Uttiramērūr, Vaikuṇṭhaperumāḷ, larger platform, southern base, time of Nandivarman, year 24
+					</title>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from the European Research
+						Council (ERC) under the European Union's Horizon 2020 research and
+						innovation programme (grant agreement no 809994). </note>
+				</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">tfaPallava078</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p><!-- not to be filled in at this stage --></p>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2019-05-31">Creation of the file on the
+				repository</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+    <body>
+        	
+    	<div type="edition" xml:lang="tam-Latn">
+<p>
+	<lb n="1"/> <hi rend="grantha">svasti śrī</hi>
+</p>   		
+<p>	
+	nan=ti-va<hi rend="grantha">rmma</hi>rkku yāṇt’ irupattu nāl-āvatu
+</p>   		
+ <p>
+    	Uttarameru-<hi rend="grantha">ca</hi>tu<hi rend="grantha"><unclear>r</unclear>vvedi</hi>-maṅkalatt’ i<hi rend="grantha">śā</hi>na-<hi rend="grantha">diśai-brahmeśvara-gṛha</hi>ttu <hi rend="grantha">mahāde</hi>varkku Ivv-ūr <hi rend="grantha">madhyastha</hi>ṉ <hi rend="grantha">c<choice><unclear>a</unclear><unclear>ā</unclear></choice>tu<unclear>r</unclear>vvaidya</hi> * * * 
+<lb n="2"/> perumañcikaṉ-ēṉ ku<hi rend="grantha">ra</hi>va-ciri-vi<hi rend="grantha">ṣṇuku</hi>māra-<hi rend="grantha">trivedi</hi>yār paṅkiṉ vaḻi mutal īṭṭu nālām pāṭakamum irāyūr-t taṭakk-aṭiyār <hi rend="grantha">brahmā</hi>ṇiyār paṅkiṉ vaḻi mutal iṭṭu nā<supplied reason="lost">lām</supplied>
+<lb n="3"/> pāṭakamuṅ kuṇṭūr-k kantama-c-caṭaṅkaviyār paṅkiṉ vaḻi mutal īṭṭ’ iraṇṭām pāṭakamum i<choice><orig><unclear>m</unclear></orig><reg>m-m</reg></choice><choice><unclear>u</unclear><unclear>ū</unclear></choice>ṉṟu pāṭakamum y-āṉivar pakkal vilaikku-k koṇṭ’ uṭaiyaṉ Avippuṟam-āka-k ku
+<lb n="4" break="no"/>ṭuttēṉ
+</p>   		
+<p>
+ivaṟṟiṉ <hi rend="grantha">bhoga</hi>ttāl nityamunnāḻi Arici ney-y uṭppaṭa Iraṇṭu poḻutun tiru-v-amirtu kāṭṭuvāṉ āka-p paṇittōm
+</p>   		
+<p>
+	im-m<choice><unclear>u</unclear><unclear>ū</unclear></choice>ṉṟukkum epp<choice><sic>o</sic><corr>ē</corr></choice>rppaṭṭa Iṟaiyu
+<lb n="5" break="no"/>m oḻintōm 
+</p>   		
+<p>
+	<hi rend="grantha">brā<unclear>hma</unclear></hi>ṇaṉ ā<hi rend="grantha">rādhi</hi>tt’ uṇpāṉ āka-p paṇittōm <hi rend="grantha">mahāsabhai</hi>yōm
+</p>   		
+<p>
+	im-<hi rend="grantha">maṇḍapa</hi>ttiṉukk’ ā<hi rend="grantha">cā<unclear>r</unclear>yya</hi>ṉ kā<hi rend="grantha">rīśvara-sū</hi>nu-va<hi rend="grantha">stuvidyāma</hi>yan= nak=kaṉ eḻuttu
+</p>   		
+    	</div>
+    	
+           <div type="apparatus"/>          	                     	
+           
+
+            <div type="translation" xml:lang="eng" resp="part:emfr">
+            	
+<p n="1">Properity! Fortune!</p>
+
+<p>Twenty-fourth year of Nandivarman.</p>
+
+<p>To the Mahādeva of the Īśānadiśā-brahmeśvaragṛha (the temple of the Lord of Brahmā in the north-east direction) in Uttaramēru-caturvedimaṅgala; I, Perumañcikaṉ <foreign>caturvaidya</foreign> <foreign>madhyastha</foreign> of this village; after placing/giving a capital from <supplied reason="explanation"><foreign>vaḻi</foreign></supplied> a share <supplied reason="subaudible">of</supplied> the honourable Kuravaciri Viṣṇukumāra Trivedin, <supplied reason="subaudible">his</supplied> fourth plot; after placing/giving a capital from a capital, from a share <supplied reason="subaudible">of</supplied> the honourable Brahmin lady, <supplied reason="subaudible">wife of</supplied> of the honourable Taṭakkaṭi of Irāyūr, <supplied reason="subaudible">her</supplied> fourth plot; after placing/giving a capital from a capital, from a share <supplied reason="subaudible">of</supplied> the honourable Kantamaccaṭaṅkavi of Kuṇṭūr, <supplied reason="subaudible">his</supplied> second plot; these three plots, having bought <supplied reason="explanation"><foreign>vilaikku-k koṇṭu</foreign>, literally "got a price for"</supplied> <supplied reason="subaudible">them</supplied> from these <supplied reason="explanation"><foreign>yāṉivar/āṉivar</foreign></supplied>, 
+I have given <supplied reason="subaudible"><foreign>them</foreign></supplied> as <foreign>avippuṟam</foreign> <supplied reason="subaudible">for</supplied> the lord <supplied reason="explanation"><foreign>uṭaiyaṉ</foreign>, i.e. Mahādeva of the Īśānadiśā-brahmeśvaragṛha</supplied>.
+</p>
+<p>
+Through the enjoyment <supplied reason="explanation"><foreign>bhogattāl</foreign></supplied> of these <supplied reason="explanation"><foreign>ivaṟṟiṉ</foreign></supplied>, we have ordered/declared, so that there be permanenty <supplied reason="explanation"><foreign>nityam</foreign></supplied> one who offers <supplied reason="explanation"><foreign>kāṭṭuvāṉ</foreign></supplied> glorious <foreign>amṛta</foreign> <supplied reason="explanation"><foreign>tiruvamirtu</foreign>, usually translated as “sacred food-offerings”</supplied> twice <supplied reason="subaudible">a day</supplied> so as to include three <foreign>nāḻi</foreign>s <supplied reason="explanation"><foreign>munnāḻi</foreign></supplied> of rice and oil/ghee.
+</p>
+<p>
+For these three <supplied reason="subaudible">plots</supplied> we have exempted <supplied reason="explanation"><foreign>oḻintōm</foreign>, literally: excepted, cleared</supplied> taxes, of whatsoever kind.
+</p>
+<p>
+We have have ordered/declared so that there be a Brahmin feeding when worshipping.
+</p>
+<p>
+<supplied reason="subaudible">Thus/So did</supplied> We, the members of the assembly <supplied reason="explanation"><foreign>sabhaiyōm</foreign></supplied>.
+</p>
+<p>
+Writing <supplied reason="subaudible">of</supplied> Vastuvidyāmaya, son of Kārīśvara, the <foreign>ācārya</foreign> <supplied reason="subaudible">attached</supplied> to this <foreign>maṇḍapa</foreign>.
+</p>
+            	
+            </div>
+            
+    	<div type="commentary">
+    		
+    	</div>
+            
+    	<div type="bibliography">
+    		
+<p>
+First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 356); summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 78); re-edited and translated for the first time by Emmanuel Francis (2020), based on autopsy and photographs (2019).
+</p>
+    		
+    		<listBibl type="primary"> <!--to be validated in EG-->
+    			
+    			<bibl n="KVS">
+    				<ptr target="bib:SubrahmanyaAiyer1928_01"/>
+	               		<citedRange unit="page">356</citedRange>
+    				<citedRange unit="item">166</citedRange>	               		
+    			</bibl>
+    			
+    			<bibl n="TVM">
+	               		<ptr target="bib:Mahalingam1988_01"/>
+	               		<citedRange unit="page">256-257</citedRange>
+    				<citedRange unit="item">78</citedRange>
+    			</bibl>
+    		</listBibl>
+    		
+    		<listBibl type="secondary">
+    			<bibl n="ARIE">ARIE 1898.1</bibl> <!--to be updated-->
+    		</listBibl>
+    		
+            </div>
+        </body>
+    </text>
+</TEI>
+<!--TBD
+Photos with better light required for final check or ASI rubbings.
+Photograph conjunct nn and tt at the end of line 5.-->
