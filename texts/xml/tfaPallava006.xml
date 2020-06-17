@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Uruvupalli grant</title>
+				<title>Uruvupalli grant, time of Siṃhavarman, year 11</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,12 +47,14 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Grant <foreign>deva-bhoga</foreign> with the eigteen exemptions of the village of Uruvupalli to the temple of Viṣṇuhāradeva, built by the general Viṣṇuvarman, at Kaṇḍukūra, for the increase of life and force.</summary> </msContents>
+						<summary>Grant <foreign>deva-bhoga</foreign> with the eigteen exemptions of
+							the village of Uruvupalli to the temple of Viṣṇuhāradeva, built by the
+							general Viṣṇuvarman, at Kaṇḍukūra, for the increase of life and
+							force.</summary>
+					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>
-								
-							</p>
+							<p> </p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -330,13 +332,15 @@ Api cārṣa-ślokāḥ
       		<p n="4-6">le petit-fils du Grand Roi Śrī-Vīravarman, dont on respecta la puissance et le succès, dont la majesté fit plier le cercle des rois, héros unique sur la surface de la terre;</p>
       		<p n="6-9">le fils du Grand Roi Śrī-Skandavarman, qui honora les dieux, les prêtres, les maîtres et les anciens, qui pratiqua la plus sévère discipline, qui, par de multiples dons, notamment de vaches, d’or et de terres, augmenta son capital dharmique, qui se montra habile à protéger ses sujets, qui fut, parmi les Gardiens du monde, le cinquième Gardien du Monde, qui se montra vrai et magnanime;</p>
       		<p n="9-17">Śrī-Viṣṇugopavarman, Prince Héritier des Pallava selon le <foreign>dharma</foreign>, qui se rendirent maîtres des richesses et des palais des autres rois, vaincus par leur valeur, et accomplirent selon les rites le sacrifice du cheval - lui-même dont la réelle dévotion envers le Bienheureux engendre pour tous la prospérité, qu’un voeu sincère pour toujours consacre avec zèle au bonheur et à la sécurité de ses sujets, qu’illustre la gloire d’avoir, dans plus d’un combat, remporté la victoire en écrasant la témérité, qui, à chaque instant, est prêt à soutenir le <foreign>dharma</foreign> que ruinent les péchés de l’âge Kali, qui souhaite conquérir l’ensemble des vertus des rois ascètes, qui souhaite conquérir le <foreign>dharma</foreign>, qui jouit de la faveur des pieds du Bienheureux, qui offre sa dévotion aux pieds de Bappa, l’illustre Grand Roi, qui se montre un sectateur passionné du Bienheureux, et qui appartient au <foreign>gotra</foreign> de Bharadvāja, ordonne qu’on adresse aux villageois d’Uruvupalliya, dans le Muṇḍa-rāṣṭra, ce commandement de sa bouche:</p>
-      		<!--Paroles du roi: ajouter guillemets?-->
-      		<p n="18-25">"Dans les limites de ce village, se trouvent 200 <foreign>nivartana</foreign>; de ces <foreign>nivartana</foreign>, voici les limites : à l’ouest, la limite sera la frontière du village de Kaṇḍukūra. Au Sud, la rivière Suprayoga servira de limite. A l’Est, la limite sera la suivante : du sud-est vers le Nord, le rocher qui se trouve au bord de la grand-route; en allant vers le nord de celui-ci, le tamarinier; en allant encore vers le Nord, le rocher qui se trouve sur le chemin des villages de Karupūra et de Kaṇḍukūra; en allant encore plus vers le Nord, le tas de pierres; en allant vers le nord à partir de là, le rocher qui se trouve à la limite du champ cultivé appartenant aux brahmanes du village de Karupūra. Au Nord, la limite sera le grand tamarinier entouré d’un tas de pierres; à partir de là et en allant vers l’ouest, la frontière du village de Koṇḍamuruvuḍu fera office de limite. </p>
+      		
+      		<p> lines 17-18: etasmin grāmasīme dviśataṃ sima-nivarttanāni; Dans les limites de ce village, se trouvent 200 nivartana >>> Dans les limites de ce village, il y a en tout (sima-) deux cents nivartana. As we have sima and not sīma!</p>
+
+      		<p n="18-25">"Dans les limites de ce village, se trouvent 200 <foreign>nivartana</foreign> [[A MODIFIER: etasmin grāmasīme dviśataṃ sima-nivarttanāni;>>> Dans les limites de ce village, il y a en tout (sima-) deux cents nivartana. As we have sima and not sīma!]]; de ces <foreign>nivartana</foreign>, voici les limites : à l’ouest, la limite sera la frontière du village de Kaṇḍukūra. Au Sud, la rivière Suprayoga servira de limite. A l’Est, la limite sera la suivante : du sud-est vers le Nord, le rocher qui se trouve au bord de la grand-route; en allant vers le nord de celui-ci, le tamarinier; en allant encore vers le Nord, le rocher qui se trouve sur le chemin des villages de Karupūra et de Kaṇḍukūra; en allant encore plus vers le Nord, le tas de pierres; en allant vers le nord à partir de là, le rocher qui se trouve à la limite du champ cultivé appartenant aux brahmanes du village de Karupūra. Au Nord, la limite sera le grand tamarinier entouré d’un tas de pierres; à partir de là et en allant vers l’ouest, la frontière du village de Koṇḍamuruvuḍu fera office de limite.</p>
       		<p n="25-28">Ces 200 <foreign>nivartana</foreign> d’un terrain situé entre ces quatre limites, nous en faisons don, après les avoir convertis en <foreign>deva-bhoga</foreign> et assortis des dix-huit sortes d’exemption, au temple de Viṣṇuhāradeva, édifié par le général Viṣṇuvarman, à Kaṇḍukūra - pour l’accroissement de la durée de notre vie et celui de notre puissance.</p>
-      		<p n="28-29">Que par conséquent tous les <foreign>āyuktaka</foreign>, tous les <foreign>niyukta</foreign>, les <foreign>rāja-vallabha</foreign> et les <foreign>sañcarantaka</foreign> se rendent dans cette province, respectent et fassent respecter ce terrain, avec toutes ses exemptions.</p>
+      		<p n="28-29">Que par conséquent tous les <foreign>āyuktaka</foreign>, tous les <foreign>niyukta</foreign> [[A MODIFIER: le texte est sarvva-naiyyokā¡ḥ!]], les <foreign>rāja-vallabha</foreign> et les <foreign>sañcarantaka</foreign> se rendent dans cette province [[A MODIFIER: tad avagamya]], respectent et fassent respecter ce terrain, avec toutes ses exemptions.</p>
       		<p n="30">Et quiconque transgressera ce commandement émanant de nous est un criminel qui encourt un châtiment corporel.</p>
       		
-      		<p n="30">Et il y a encore des stances : </p><!--traduction à corriger-->
+      		<p n="30">Et il y a encore des stances : [[A MODIFIER: le texte est api cārṣa-ślokāḥ et non api cāpi ślokāḥ]]</p>
       		
       		<p rend="stanza" n="1">
       			<l>Hormis le don de terre, d’autre don</l>
@@ -353,44 +357,30 @@ Api cārṣa-ślokāḥ
       		</p>
 
 <p n="33-34">J’ai émis ces tablettes de cuivre le dixième jour de la quinzaine sombre du mois Pauṣya, en la onzième AR victorieux du Grand Roi Siṃhavarman."</p>
-
-<p>Update 1997 translation:</p>
-<p> lines 17-18: Etasmin grāmasīme dviśataṃ sima-nivarttanāni; Dans les limites de ce village, se trouvent 200 nivartana >>> Dans les limites de ce village, il y a en tout (sima-) deux cents nivartana. As we have sima and not sīma!</p>
-<p>line 28: niyukta</p>
-<p>line 28: tad avagamya</p>
-<p>line 30: api cārṣa-ślokāḥ</p>
-<p></p>      	
-<!--to be deleted after corrections made!-->
-      		
+			
       	</div>
       	
       	<div type="commentary">
-      		
+      		     		
       		<p>
-In <bibl><ptr target="bib:Fleet1876_04"/></bibl>, the numbering of plates is wrong. This edition was prepared with rubbings of Elliot's collection and Fleet was mislead by the fact that plate 1 recto and plate 5 verso, as they were blank were not rubbed. This was pointed to us by Andrew Grout of the Edinburgh University Library, where the plates are today kept.
+In <bibl><ptr target="bib:Fleet1876_04"/></bibl>, the numbering of plates is wrong. This edition was prepared with rubbings of Elliot's collection and Fleet was mislead by the fact that plate 1 recto and plate 5 verso, as they were blank, were not rubbed. This was pointed to us by Andrew Grout of the Edinburgh University Library, where the plates are today kept.
       		</p>
-      		
-      		<p>
-On <foreign>śilopalaya-</foreign> (line 24), see <bibl><ptr target="bib:Mahalingam1988_01"/><citedRange unit="page">46</citedRange><citedRange unit="note">2</citedRange></bibl> + Add quote.<!--Update!-->
+      		<p n="18-24">
+Note the recurrent unstandard forms with <foreign>diśi</foreign>.	
       		</p>
-      		
-      		<p>
-On <foreign>tad avagamya</foreign> (line 28): comment on translation. See Francis. See Brocquet 1997 p383n524: "On peut aussi comprendre: Que tous les ... se trouvant dans cette province en prennent acte, et ... Toutefois, les « fonctionnaires » royaux dont il s’agit semblent plutôt appartenir à l’entourage immédiat du souverain, et se déplacer dans le royaume pour transmettre ou exécuter ses ordres - notamment les sañcarantaka, dont le titre est dérivé de la racine CAR-, śe déplacer»; il est donc peu vraisemblable qu’ils se trouvent déjà sur place, et qu’il faille prendre ava-GAM- dans le sens de «prendre acte». Noter que dans l’inscr. N° 5, le mot avagamya est omis après le locatif.".
+      		<p n="24">
+      			<foreign>śilopalaya-vṛto</foreign>. <bibl><ptr target="bib:Mahalingam1988_01"/><citedRange unit="page">46</citedRange><citedRange unit="note">2</citedRange></bibl> suggests that <foreign>śilopalaya</foreign> is equivalent to the Kannaḍa <foreign>guḍḍe</foreign>, that is, a heap of stones above a grave, used as a landmark.     			
+      		</p>
+      		<p n="28">
+      			<foreign>tad avagamya</foreign>. Brocquet 1997 p383n524: "On peut aussi comprendre: Que tous les ... se trouvant dans cette province en prennent acte, et ... Toutefois, les "fonctionnaires" royaux dont il s’agit semblent plutôt appartenir à l’entourage immédiat du souverain, et se déplacer dans le royaume pour transmettre ou exécuter ses ordres - notamment les sañcarantaka, dont le titre est dérivé de la racine CAR-, se déplacer; il est donc peu vraisemblable qu’ils se trouvent déjà sur place, et qu’il faille prendre ava-GAM- dans le sens de "prendre acte". Noter que dans l’inscr. N° 5, le mot avagamya est omis après le locatif". But, as this is formulaic, one could understand that this order addresses any officer, who would, in the future, visit the place.
       		</p><!--Update!-->
-
-      		<p>
-Note the recurrent unstandard forms with <foreign>diśi</foreign>.<!--Update!-->	
-      		</p>
-      		
+      		      		
       	</div>
       	
          <div type="bibliography">
-<p>First edited in <bibl><ptr target="bib:Fleet1876_04"/></bibl> (SOCI 12) with facsimile and English translation.
-Edited, closely following <bibl><ptr target="bib:Fleet1876_04"/></bibl>, and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 6).
-Edited, closely following <bibl><ptr target="bib:Fleet1876_04"/></bibl>, and translated in French in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 3).
-This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs of the original plates in Edinburgh University Library (2017).
+<p>First edited by <bibl><ptr target="bib:Fleet1876_04"/></bibl> (SOCI no. 12) with facsimile and English translation; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 6); text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 3); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs of the original plates in Edinburgh University Library (2017).
             </p>
-
+         	
             <listBibl type="primary">
             	
             	<bibl n="JFF">
