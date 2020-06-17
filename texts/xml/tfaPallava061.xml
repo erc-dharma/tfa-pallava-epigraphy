@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Māmallapuram, Kōṭikal Maṇḍapa, <foreign>biruda</foreign>
+									</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from the European Research
+						Council (ERC) under the European Union's Horizon 2020 research and
+						innovation programme (grant agreement no 809994).</note>
+				</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">tfaPallava061</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p><!-- not to be filled in at this stage --></p>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2020-06-17" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+      <body>
+
+
+         <div type="edition" xml:lang="tam-Latn">
+            <p>
+            	<lb n="1"/>śrī-vāmā<unclear>ṃ</unclear>kuśaḥ
+            </p>
+         </div>
+
+<div type="apparatus">
+
+	<listApp>
+
+		<app loc="1">
+			<lem></lem>
+			<note>EI X, p. 8, note 1 : l’anusvāra est douteux. Il n’est pas très clair sur l’estampage, un peu plus sur la pierre examinée in situ. Il semble d’ailleurs que l’espace entre <foreign>mā</foreign> et <foreign>ku</foreign> est plus important qu’entre les autres <foreign>akṣara</foreign>, ce qui semble confirmer sa présence. En tout cas, s’il est bien là (ce qui fait plus sens), il s’agit d’un cercle, de petite taille, de même taille que chacun des points du visarga final.</note>					
+			<note>Le <foreign>visarga</foreign> (présent dans l’édition de EI et perceptible sur l’estampage ; mais supprimé dans les éditions ultérieures) est très clairement visible in situ. S. Brocquet (1997, p. XXXX) édite <foreign>śrī-vāmāṅkuśa</foreign> et note (p. 586, note 1056) qu’en l’absence d’autre désinence, on peut interpréter cette forme comme un vocatif.</note>
+		</app>
+		
+	</listApp>
+
+</div>
+
+      	<div type="translation" xml:lang="eng" resp="part:emfr">
+      		<p>
+      			The hook of Vāma <supplied reason="explanation">Śiva</supplied>
+      		</p>
+      		<p>or</p>
+      		<p>
+      			He whose hook is splendid/terrible/cruel
+      		</p>
+      	</div>
+      	
+      	<div type="translation" xml:lang="fra" resp="part:sybr"><!--second translator:  part:emfr"-->
+      		<p>
+      			Le croc de Vāma <supplied reason="explanation">Śiva</supplied>
+      		</p>
+      		<p>ou</p>
+      		<p>
+      			Celui dont le croc est splendide / terrible / cruel
+      		</p>
+      	</div>
+      	
+      	<div type="commentary">
+<p>
+	Other translations are: Bearer of handsome elephant goad (EI; Madhavan 2004, p. 168), le croc de Vāma (Brocquet).
+</p>
+<p>
+	The inscription -- the only one on the monument bearing it -- consists in what appears to be a <foreign>biruda</foreign>, "gloryfying soubriquet". Although Pallava kings have had hundreds of their <foreign>biruda</foreign>s engraved on their monuments, this one does not appear among these and is found only on the pillar of the Kōṭikal Maṇḍapa. It might be the biruda of one among the Pallava biruda-bearers of Mahābalipuram or of an obscure Pallava prince.
+</p>      		
+         </div>
+      	
+      	<div type="bibliography">
+
+            <p>
+First edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 61); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2009).
+            </p>
+
+            <listBibl type="primary">
+
+            	<bibl>
+            		<ptr target="bib:VenkatasubbaAyyar1943_01"/>
+            		<citedRange unit="page">**</citedRange>
+            		<citedRange unit="item">23</citedRange>
+            	</bibl>
+            	
+            	<bibl>
+            		<ptr target="bib:Mahalingam1988_01"/>
+            		<citedRange unit="page">***-***</citedRange>
+            		<citedRange unit="item">61</citedRange>            		
+            	</bibl>
+
+            </listBibl>
+
+            <listBibl type="secondary">
+              <bibl>ARIE 1907/530</bibl> <!--to be updated-->
+            	<bibl/>
+           </listBibl>
+
+         </div>
+
+      </body>
+  </text>
+</TEI>
