@@ -111,7 +111,7 @@
          		
          		<app loc="1">
          			<lem>Avv-Āṇṭu</lem>
-         			<rdg source="bib:SubrahmanyaAiyer1928_01">Avva Āṇṭu<supplied reason="omitted">r</supplied>k=ku</rdg>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01">Avva Āṇṭu</rdg>
          		</app>
          		
          		<app loc="4">
@@ -178,11 +178,11 @@
 	Let <supplied reason="subaudible">them</supplied> be those who have the silt removed <!--Update/Check!--> <supplied reason="explanation"><foreign>kuḻi kutti vippārkaḷ</foreign></supplied>, for the Vajramegha tank.
 </p>
 <p n="4">
-	In this wise, this Maṇṇipākkiḻāṉ, the temple <supplied reason="explanation"><foreign>kōyil</foreign></supplied>, the Vajramegha tank <supplied reason="explanation"><foreign>vayi<unclear>ra</unclear><supplied reason="lost">mēka-taṭāka</supplied></foreign></supplied> <gap reason="ellipsis"/>.
+	In this wise, this Maṇṇipākkiḻāṉ, the temple <supplied reason="explanation"><foreign>kōyil</foreign></supplied>, the Vajramegha tank <supplied reason="explanation"><foreign>vayi<unclear>ra</unclear><supplied reason="lost">mēka-taṭāka</supplied></foreign></supplied> <gap reason="ellipsis"/>
 </p>
-<p n="5-6"><gap reason="ellipsis"/> the gold <supplied reason="subaudible">with</supplied> earning interest <supplied reason="explanation"><foreign>poli-y-ūṭṭu</foreign></supplied>, that year, the great men of the tank committee, as long as moon and sun <supplied reason="explanation"><foreign>ca<hi rend="grantha">ntrādi</hi>ttar Uḷḷa taṉai-k kālamum</foreign>, literally "for a time of the quantity which is that of moon and the sun"</supplied> <gap reason="ellipsis"/> We, the members of the assembly.</p>
-<p n="6">He who does harm <supplied reason="explanation"><foreign>citilañ ceytāṉ</foreign>, literally "he who does decay"</supplied> to this pious donation, <supplied reason="subaudible">does the harm</supplied> of acting wrong against this pious donation and the village. <gap reason="ellipsis"/></p>
-<p n="7">We have given.</p>
+<p n="5-6"><gap reason="ellipsis"/> the gold <supplied reason="subaudible">with</supplied> earning interest <supplied reason="explanation"><foreign>poli-y-ūṭṭu</foreign></supplied>, that year, the great men of the tank committee, as long as moon and sun <supplied reason="explanation"><foreign>ca<hi rend="grantha">ntrādi</hi>ttar uḷḷa taṉai-k kālamum</foreign>, literally "for a time of the quantity which is that of moon and the sun"</supplied> <gap reason="ellipsis"/> We, the members of the assembly.</p>
+<p n="6">He who does harm <supplied reason="explanation"><foreign>citilañ ceytāṉ</foreign>, literally "he who does decay"</supplied> to this pious donation, <supplied reason="subaudible">does the harm</supplied> of acting wrong against this pious donation and the village <gap reason="ellipsis"/></p>
+<p n="7">We have given <gap reason="ellipsis"/></p>
 <p n="7">The above-mentioned Maṇṇipākkiḻāṉ <gap reason="ellipsis"/></p>
          	                  
          </div>
@@ -190,11 +190,19 @@
       	<div type="commentary">
       		
       		<p n="1">
-      			<foreign>taṉ kūṟṟu</foreign>.  IP: an independent village of KK.
+      			<foreign>taṉ kūṟṟu</foreign>. <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> regularly translates <foreign>taṉ kūṟṟu</foreign> as "an independent village" of Kāliyūrkkōṭṭam.
       		</p>
       		
-      		<p n="3">
-      			<foreign>avv-āṇṭu</foreign>. Or <foreign>avva Āṇṭu</foreign>?
+      		<p n="2">
+      			<foreign>m(ū/u)ṉṟu mañcāṭi</foreign>. This is the interest rate per <foreign>kaḻañcu</foreign> of gold.
+      		</p>
+      		
+      		<p n="4">
+      			<foreign>kuḻi kutti v<choice><orig>iy</orig><reg>i</reg></choice>ppārkaḷ</foreign>. This phrase seems to mean "they will have the silt removed". <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> translates "digging (and removing) the silt".
+      		</p>
+      		
+      		<p n="3, 5">
+      			<foreign>avv-āṇṭu</foreign>. The reading <foreign>avva āṇṭu</foreign>, with same meaning, is also possible.
       		</p>
       		
          </div>
@@ -202,7 +210,7 @@
          <div type="bibliography">
 
             <p>
-First edited by Subrahmanya Aiyer<bibl rend="omitname"><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 348); text and summary in Mahalingam <bibl rend="omitname"><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 223); re-edited here and first translated by Emmanuel Francis (2020) from autopsy and photographs (2019).
+First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 348); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 223); re-edited here and first translated by Emmanuel Francis (2020) from autopsy and photographs (2019).
             </p>
 
             <listBibl type="primary">
