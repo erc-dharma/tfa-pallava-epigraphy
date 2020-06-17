@@ -5,7 +5,8 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Uttiramērūr, Vaikuṇṭhaperumāl, donation of the time of Kampavarman, year 15</title>
+				<title>Uttiramērūr, Vaikuṇṭhaperumāl, donation of the time of Kampavarman, year
+					15</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,12 +48,12 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary></summary>
+						<summary/>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>
-							</handDesc>
+							<p/>
+						</handDesc>
 					</physDesc>
 				</msDesc>
 			</sourceDesc>
@@ -109,7 +110,7 @@
       			I-<hi rend="grantha">dha<supplied reason="omitted">r</supplied>mma</hi>ttai ra<choice><sic>t</sic><corr>k</corr></choice>ṣittār <hi rend="grantha">śrī-pāda</hi>m Eṉ ‡ <unclear>ṟa</unclear>lai mē<choice><orig>l‡l</orig><reg>l</reg></choice>aṉa
       		</p>
       		<p>
-      			I<unclear>vvai</unclear> Eḻuttu veṭṭinēṉ ciṟṟalaṉ ‡ makaṉ tē‡vaṭiyēṉ <g type="symbol" subtype="finalGomutra"></g>
+      			I<unclear>vvai</unclear> Eḻuttu veṭṭinēṉ ciṟṟalaṉ ‡ makaṉ tē‡vaṭiyēṉ <g type="symbol" subtype="finalGomutra"/>
       		</p>
       		
       	</div>
@@ -132,7 +133,7 @@
          		<app loc="1">
          			<lem>Uttara<hi rend="grantha">meru</hi>-c-catu<hi rend="grantha"><unclear>r</unclear>vve</hi>ti°</lem>
          			<rdg source="bib:SubrahmanyaAiyer1928_01">Uttara<hi rend="grantha">meru-c-ca</hi>tu<hi rend="grantha">rvveti</hi>°</rdg>
-         			<note></note>
+         			<note/>
          		</app>
          		
          		<app loc="3">
@@ -219,7 +220,7 @@
          		        
          		<app loc="10">
          			<lem>Eṉ ‡ <unclear>ṟa</unclear>lai</lem>
-         			<rdg source="bib:SubrahmanyaAiyer1928_01">Eṉ ṟa<unclear></unclear>lai</rdg>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01">Eṉ ṟa<unclear/>lai</rdg>
          		</app>
          		
          		<app loc="10">
@@ -331,5 +332,4 @@ First edited by Subrahmanya Aiyer<bibl rend="omitname"><ptr target="bib:Subrahma
       </body>
   </text>
 </TEI>
-
 <!--<history> <p>Three superposed rows of blocks, some displaying projecting pilasters  of the southern base of the smaller platform of the Vaikuṇṭhaperumāḷ temple. The first row (lines 1–2) is made of 3 blocks. The second row (lines 3–7) is made of 2 blocks. The third row (lines 8–10) is made of 3 blocks. In one instance, a projecting pilaster has been engraved with one character on its perpendicular side, i.e., line 1, <foreign>ti</foreign> in <foreign>pattiṉ</foreign>,</p> </history>-->
