@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Māmallapuram, Kōṭikal Maṇḍapa, <foreign>biruda</foreign>
+				<title>Mahābalipuram, Kōṭikal Maṇḍapa, Biruda
 									</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
@@ -53,9 +53,9 @@
       <body>
 
 
-         <div type="edition" xml:lang="tam-Latn">
+         <div type="edition" xml:lang="san-Latn">
             <p>
-            	<lb n="1"/>śrī-vāmā<unclear>ṃ</unclear>kuśaḥ
+            	<lb n="1"/><hi rend="grantha">śrī-vāmā<unclear>ṃ</unclear>kuśaḥ</hi>
             </p>
          </div>
 
@@ -64,9 +64,12 @@
 	<listApp>
 
 		<app loc="1">
-			<lem></lem>
-			<note>EI X, p. 8, note 1 : l’anusvāra est douteux. Il n’est pas très clair sur l’estampage, un peu plus sur la pierre examinée in situ. Il semble d’ailleurs que l’espace entre <foreign>mā</foreign> et <foreign>ku</foreign> est plus important qu’entre les autres <foreign>akṣara</foreign>, ce qui semble confirmer sa présence. En tout cas, s’il est bien là (ce qui fait plus sens), il s’agit d’un cercle, de petite taille, de même taille que chacun des points du visarga final.</note>					
-			<note>Le <foreign>visarga</foreign> (présent dans l’édition de EI et perceptible sur l’estampage ; mais supprimé dans les éditions ultérieures) est très clairement visible in situ. S. Brocquet (1997, p. XXXX) édite <foreign>śrī-vāmāṅkuśa</foreign> et note (p. 586, note 1056) qu’en l’absence d’autre désinence, on peut interpréter cette forme comme un vocatif.</note>
+			<lem><hi rend="grantha">śrī-vāmā<unclear>ṃ</unclear>kuśaḥ</hi></lem>
+			<rdg source="bib:Hultzsch1909-1910_01"><hi rend="grantha">śrīvāmāṅkuśaḥ</hi></rdg>
+			<note><!--<bibl><ptr target="bib:Hultzsch1909-1910_01"/><citedRange unit="page">8</citedRange><citedRange unit="note">1</citedRange></bibl>--> notes that the <foreign>anusvāra</foreign> is doubtful. Il n’est pas très clair sur l’estampage, un peu plus sur la pierre examinée <foreign>in situ</foreign>. Il semble d’ailleurs que l’espace entre <foreign>mā</foreign> et <foreign>ku</foreign> est plus important qu’entre les autres <foreign>akṣara</foreign>s, ce qui semble confirmer sa présence. En tout cas, s’il est bien là (ce qui fait plus sens), il s’agit d’un cercle, de petite taille, de même taille que chacun des points du <foreign>visarga</foreign> final.</note>					
+			<note>Le <foreign>visarga</foreign> est très clairement visible <foreign>in situ</foreign>. 
+				
+				<!--<bibl><ptr target="bib:Brocquet1997_01"/><citedRange unit="page">586</citedRange><citedRange unit="note">1056</citedRange></bibl>--> reads <foreign>śrī-vāmāṅkuśa</foreign> and notes that this should be analysed as a Vocative form.</note>
 		</app>
 		
 	</listApp>
@@ -75,64 +78,91 @@
 
       	<div type="translation" xml:lang="eng" resp="part:emfr">
       		<p>
-      			The hook of Vāma <supplied reason="explanation">Śiva</supplied>
+      			The glorious hook of Vāma <supplied reason="explanation">Śiva</supplied>
       		</p>
       		<p>or</p>
       		<p>
-      			He whose hook is splendid/terrible/cruel
+      			The glorious one whose hook is splendid/terrible/cruel
+      		</p>
+      		<p>or</p>
+      		<p>
+      			The glorious pleasant hook
       		</p>
       	</div>
       	
       	<div type="translation" xml:lang="fra" resp="part:sybr"><!--second translator:  part:emfr"-->
       		<p>
-      			Le croc de Vāma <supplied reason="explanation">Śiva</supplied>
+      			Le glorieux croc de Vāma <supplied reason="explanation">Śiva</supplied>
       		</p>
       		<p>ou</p>
       		<p>
-      			Celui dont le croc est splendide / terrible / cruel
+      			Le glorieux au croc splendide / terrible / cruel
       		</p>
       		<p>ou</p>
       		<p>
-      			Aimable croc
+      			Le glorieux aimable croc
+      		</p>
+      	</div>
+      	
+      	<div type="translation" xml:lang="eng" source="bib:Hultzsch1909-1910_01">
+      		<p>
+      			The glorious Vāmāṅkuśa (bearer of handsome elephant-goad)
       		</p>
       	</div>
       	
       	<div type="commentary">
 <p>
-	Other translations are: Bearer of handsome elephant goad (EI; Madhavan 2004, p. 168), le croc de Vāma (Brocquet).
-</p>
-<p>
-	The inscription -- the only one on the monument bearing it -- consists in what appears to be a <foreign>biruda</foreign>, "gloryfying soubriquet". Although Pallava kings have had hundreds of their <foreign>biruda</foreign>s engraved on their monuments, this one does not appear among these and is found only on the pillar of the Kōṭikal Maṇḍapa. It might be the <foreign>biruda</foreign> of one among the Pallava <foreign>biruda</foreign>-bearers of Mahābalipuram or of an obscure Pallava prince.
+	The inscription -- the only one on the monument bearing it -- consists in what appears to be a <foreign>biruda</foreign>, "gloryfying soubriquet". Although Pallava kings have had hundreds of their <foreign>biruda</foreign>s engraved on their monuments, this one does not appear among these and is found only on this pillar of the Kōṭikal Maṇḍapa. Note that the <foreign>biruda</foreign> Vāma is engraved twice on the Dharmarājaratha at Mahābalipuram. Vāmāṅkuṣa might be the <foreign>biruda</foreign> of one among the Pallava <foreign>biruda</foreign>-bearers of Mahābalipuram or of an obscure Pallava prince or, as suggested by <!--<bibl><ptr target="bib:Srinivasan1964_01"/><citedRange unit="page">110</citedRange></bibl>-->, of a chief, subordinated to the Pallavas. 
 </p>      		
          </div>
       	
       	<div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 61); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2009).
+First edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 61); text and translation in <!--<bibl><ptr target="bib:Brocquet1997_01"/></bibl>--> <!--Update: empêche la transfo--> (B no. 45); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2009).
             </p>
 
             <listBibl type="primary">
 
-            	<bibl>
+            	<bibl n="EH">
+            		<ptr target="bib:Hultzsch1909-1910_01"/>
+            		<citedRange unit="page">8</citedRange>
+            		<citedRange unit="item">19</citedRange>
+            	</bibl>
+            	<bibl n="VVS">
             		<ptr target="bib:VenkatasubbaAyyar1943_01"/>
-            		<citedRange unit="page">**</citedRange>
+            		<citedRange unit="page">11</citedRange>
             		<citedRange unit="item">23</citedRange>
             	</bibl>
             	
-            	<bibl>
+            	<bibl n="TVM">
             		<ptr target="bib:Mahalingam1988_01"/>
-            		<citedRange unit="page">***-***</citedRange>
+            		<citedRange unit="page">199</citedRange>
             		<citedRange unit="item">61</citedRange>            		
+            	</bibl>
+            	
+            	<bibl n="SB">
+            		<ptr target="bib:Brocquet1997_01"/>
+            		<citedRange unit="page">586</citedRange>
+            		<citedRange unit="item">45</citedRange>            		
             	</bibl>
 
             </listBibl>
-
-            <listBibl type="secondary">
-              <bibl>ARIE 1907/530</bibl> <!--to be updated-->
-            	<bibl/>
-           </listBibl>
-
+      		
+      		<listBibl type="secondary">
+      			
+      			<bibl>ARIE 1907/530</bibl> <!--to be updated-->
+      			
+      			<bibl>
+      				<ptr target="bib:Srinivasan1964_01"/>
+      				<citedRange unit="page">110</citedRange>
+      			</bibl>
+      			<bibl>
+      				<ptr target="bib:Francis2013_01"/>
+      				<citedRange unit="page">289</citedRange>
+      			</bibl>
+      		</listBibl>
+      		
          </div>
 
       </body>
