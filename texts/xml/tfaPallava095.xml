@@ -57,11 +57,11 @@
             <!--Add milestones for blocks-->
          	
          	<div type="textpart" subtype="zone" n="1">
-         		<head xml:lang="eng">Stanza I, left portion of plinth</head>
+         		
          		<p>
          			<lb n="1"/>svasti śrī
          		</p>
-         		<lg met="śārdūlavikrīḍita">
+         		<lg met="śārdūlavikrīḍita" n="1">
          			<l>Evaṃ vāstv abhavat· mahat· pravigatan nāmnā ca jāty-ādi‡nā</l> 
          			<l>yenāsmin· bahubhir yyathāgama-vidhair ggrāme prayo‡‡gānvitai<orig>ś</orig></l>
          			<l>śrīmat·-pāṭaka-vāsinā kṛta-dhiyā takṣṇā sadā vāgminā</l> 
@@ -71,13 +71,13 @@
          	</div>
          	
          	<div type="textpart" subtype="zone" n="2">
-         	<head xml:lang="eng">Stanza II, right portion of plinth</head>
+         	
          		<p>
          			<lb n="1"/>svasti śrī</p>
-         		<lg met="anuṣṭubh">
+         		<lg met="anuṣṭubh" n="2">
          			<l>Asyālaṃkāra-mānañ ca</l> 
          			<l>yathā lakṣaṇa-saṃyutam·</l>
-         			<l>yaḥ kaścid vetti sakaḷam· </l>
+         			<l>yaḥ kaścid vetti saka<orig>ḷ</orig>am· </l>
          			<l>sa vai v<choice><sic>a</sic><corr>ā</corr></choice>stu-vidāṃ va‡raḥ</l></lg>
          	</div>
          	
@@ -85,26 +85,47 @@
       	<div type="apparatus">
       		
       	<div type="textpart" subtype="zone" n="1">
-         	<head xml:lang="eng">Stanza I, left portion of plinth</head>
+         	
          		<listApp>
+         			
       			<app loc="1">
-      				<lem></lem>
-      				<rdg source="bib:SubrahmanyaAiyer1928_01"></rdg>
-      				<note></note>
-      			</app> 			
-      			
+      				<lem>svasti śrī</lem>
+      				<rdg source="bib:SubrahmanyaAiyer1928_01">svasti śrī ||</rdg><!--Update markup for punctuation-->
+      			</app> 
+         			
+         			<app loc="1">
+      				<lem>v<choice><sic>a</sic><corr>ā</corr></choice>stuno</lem>
+      				<rdg source="bib:SubrahmanyaAiyer1928_01">vastuno</rdg>
+         			</app> 			
+         			
+         			
       		</listApp>
          	</div>
          	
          	<div type="textpart" subtype="zone" n="2">
-         	<head xml:lang="eng">Stanza II, right portion of plinth</head>
+         	
          		<listApp>
+         			
       			<app loc="1">
-      				<lem></lem>
-      				<rdg source="bib:SubrahmanyaAiyer1928_01"></rdg>
-      				<note></note>
-      			</app> 			
-      			
+      				<lem>svasti śrī</lem>
+      				<rdg source="bib:SubrahmanyaAiyer1928_01">svasti śrī ||</rdg><!--Update markup for punctuation-->
+      			</app>
+         			
+         			<app loc="1">
+      				<lem>Asyālaṃkāra-mānañ ca</lem>
+      				<rdg source="bib:Brocquet1997_01">Asyālaṃkāram ānañca</rdg>
+      			</app>
+         			
+         			<app loc="1">
+         				<lem>saka<orig>ḷ</orig>am·</lem>
+      				<rdg source="bib:Brocquet1997_01">sakalam·</rdg>
+      			</app>
+         			
+         			<app loc="1">
+         				<lem>va‡raḥ</lem>
+         				<rdg source="bib:SubrahmanyaAiyer1928_01">varaḥ ||</rdg><!--Update markup for punctuation-->
+         			</app> 
+         			
       		</listApp>
          	</div>
       		
@@ -113,7 +134,7 @@
       	<div type="translation" xml:lang="eng" resp="part:emfr">
       		
       		<div type="textpart" subtype="zone" n="1">
-      			<head xml:lang="eng">Stanza I, left portion of plinth</head>
+      			
       			<p n="1">
       				Prosperity! Fortune!
       			</p>
@@ -124,7 +145,7 @@
       		</div>
       		
       		<div type="textpart" subtype="zone" n="2">
-      			<head xml:lang="eng">Stanza II, right portion of plinth</head>
+      			
       			<p>Prosperity! Fortune!</p>
       			<p rend="stanza" n="2">
       				The ornaments and measurements of this <supplied reason="subaudible">temple</supplied> as well as its characteristics, whoever knows/masters them fully is really the best among those knowledgeable in architecture.
@@ -135,7 +156,7 @@
       	<div type="translation" xml:lang="fra" resp="part:sybr"><!--add resp="part:emfr"-->
       		      		
       		<div type="textpart" subtype="zone" n="1">
-      			<head xml:lang="eng">Stanza I, left portion of plinth</head>
+      			
       			<p n="1">Salut ! Prospérité !</p>
       			<lg n="1">
       				<l>Celui grâce à qui naquit ainsi ce grand édifice,[[ADD translation of pravigatan nāmnā ca jāty-ādinā]]</l>
@@ -147,7 +168,7 @@
       		</div>
       		
       		<div type="textpart" subtype="zone" n="2">
-      			<head xml:lang="eng">Stanza II, right portion of plinth</head>
+      			
       			<p>Salut ! Prospérité !</p>
       			<lg n="2">
       				<l>Il devint l’ornement de ce monument,[[réviser traduction?]]</l>
@@ -161,26 +182,33 @@
       	<div type="translation" xml:lang="fra" source="bib:Gros+Nagaswamy1970_01">
       		      		
       		<div type="textpart" subtype="zone" n="1">
-      			<head xml:lang="eng">Stanza I, left portion of plinth</head>
+      			
       			<p>Ainsi fut créé un grand édifice, célébré pour son nom et sa classe, dans ce village, par des bien des gens, avec dextérité et selon les <foreign>āgama</foreign> <supplied reason="subaudible">et</supplied>, par cet architecte <supplied reason="explanation"><foreign>takṣan</foreign></supplied> résident de Pāṭaka, intelligent et au verbe sûr, le Grand Parameśvara, soleil de l'architecture <supplied reason="explanation"><foreign>vastu</foreign></supplied>.</p>
       		</div>
       		
       		<div type="textpart" subtype="zone" n="2">
-      			<head xml:lang="eng">Stanza II, right portion of plinth</head>
+      			
       			<p>Les mesures <supplied reason="explanation"><foreign>māna</foreign></supplied> et les ornements <supplied reason="explanation"><foreign>alaṃkāra</foreign></supplied> de ce temple, en conformité avec les définitions <supplied reason="explanation"><foreign>lakṣaṇa</foreign></supplied>; qui les comprend toutes est vraiment le meilleur des connaisseurs en architecture <supplied reason="explanation"><foreign>vastu</foreign></supplied>.</p>
       		</div>
       		
       	</div>
-      	      	
+      	
       	<div type="commentary"><!--update!-->
-      		<p>Gros &amp; Nagaswamy</p>
-      		<p>Colas</p>
+      		
+      		<p>The two verses are edited here from left to right, as both verses appear on the base. Previous editions have the verses in reversed order. NB: the FS in SII reverses the logical/physical succession of verses.</p>
+      		<div type="textpart" subtype="zone" n="1">
+      			<p n="1"><foreign>yyathāgama-vidhair</foreign>. Selon EITA I.1, p. 92 : le texte consulté serait le Vaikhānasāgama tel que fourni par Marīci dans son Vimānārcanakalpa (cf. Colas 1986, p. 3 : MarīciS ou Vimānārcanakalpa, voire Vaikhānasāgama). Colas (1986, p. 59) se demande s’il faut prendre āgama au sens général de « tradition » ou au sens de tradition āgamique avec ou sans connotation sectaire.</p>
+      		</div>
+      		<div type="textpart" subtype="zone" n="2">
+      			<p>Gros &amp; Nagaswamy (1970 : 80-81) : Sur l’architecte Parameśvara. Originaire de Pāṭaka, quartier de Kāñcī mentionné plusieurs fois dans les inscriptions. Parameśvara est aussi le titre du prédécesseur de Nandivarman II. L’architecte (mahākaṣṭakāri [voir si et comment il est dénommé dans la potion Ta ?] Parameśvara a écrit les tablettes de KSK de Nandivarman II et devait être un architecte royal réputé. Le VKP, attribué généralement à Nandivarman II, est dénommé Parameśvaraviṇṇagaram [dans les inscriptions et NTP] et comporte comme le SundaravardaP d’Uttaramērūr trois étages. Pas impossible donc que le même Parameśvara Peruntaccan ait construit le VKP de Kāñcī [comprend donc que le nom dériverait de l’architecte ?] et vu sa renommée se soit vu confier le SundaravardaP d’Uttaramērūr, qui serait une fondation des dernières années de Nandivarman II [la plus ancienne inscription = AR 10 de Dantivarman] et dont le nom originel est sans doute Śrīveḷi Viṣṇugṛha mentionné dans plusieurs inscriptions (pas improbable que Śrīveḷi ait été aussi un titre de Nandivarman II).</p>
+      		</div> 
+      		
       	</div>      		      	      
       	
       	<div type="bibliography">
 
  <p>
- 	First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 333); text and summary in <bibl ><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 95); re-edited here by Sylvain Brocquet &amp;Emmanuel Francis (2020), from autopsy and photographs (2004, 2013).
+ 	First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 333); text and summary in <bibl ><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 95); text and translation in <!--<bibl ><ptr target="bib:Brocquet1997_01"/></bibl>--><!--Check: this <bibl> impedes transfo--> (B no. 59); re-edited here by Sylvain Brocquet &amp;Emmanuel Francis (2020), from autopsy and photographs (2004, 2013).
 </p>	
       		
 <listBibl type="primary">
@@ -210,6 +238,10 @@
 	<bibl>
 		<ptr target="bib:Gros+Nagaswamy1970_01"/>
 		<citedRange unit="page">80-81</citedRange>
+	</bibl>
+	<bibl>
+		<ptr target="bib:Colas1986_01"/>
+		<citedRange unit="page">56-57</citedRange>
 	</bibl>
 	
 </listBibl>
