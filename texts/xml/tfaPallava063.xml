@@ -88,18 +88,18 @@
 </div>
 
       	<div type="translation" xml:lang="eng" resp="part:emfr">
-      		<p rend="stanza" n="1">
+      		<p>
       			May Rājasiṃha <supplied reason="explanation">the lion among kings</supplied> Raṇajaya <supplied reason="explanation">the victorious among kings</supplied> Śrībhara <supplied reason="explanation">the Fortune-bearer</supplied> Citrakarmuka <supplied reason="explanation">he whose quiver is a wonder</supplied> Ekavīra <supplied reason="explanation">the unique hero</supplied> Śivacūḍāmaṇi <supplied reason="explanation">he who has Śiva as diadem</supplied> protect the earth for long.
       		</p>
       	</div>
       	
-      	<div type="translation" xml:lang="fra" resp="part:sybr"><!--add second translator:  part:emfr"-->
-      		<lg>
+      	<div type="translation" xml:lang="fra" resp="part:sybr"><!--add second translator: part:emfr"-->
+      		<p>
       			<l>Puisse Rājasiṃha, le vainqueur au combat,</l>
       			<l>Celui qui apporte la prospérité, celui qui possède un arc resplendissant,</l>
       			<l>Le héros unique, longtemps protéger la terre,</l>
       			<l>Lui qui porte Śiva comme diadème !</l>
-      		</lg>
+      		</p>
       	</div>
       	
       	<div type="commentary">
@@ -109,7 +109,7 @@
       	<div type="bibliography">
       		
             <p>
-First edited by <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1 no. 31); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 63); text and translation in <!--<bibl><ptr target="bib:Brocquet1997_01"/></bibl>--> <!--Update: empêche la transfo--> (B no. 47); re-edited by <!--<bibl><ptr target="bib:MarxiaGandhi+al2011_01"/></bibl>--> <!--Update: empêche la transfo--> (SII 30 no. 266); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2011).
+First edited by <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1, no. 31); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 63); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 47); re-edited by <!--<bibl><ptr target="bib:MarxiaGandhi+al2011_01"/></bibl>--> <!--Update: empêche la transfo--> (SII 30, no. 266); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2011).
             </p>
 
             <listBibl type="primary">
