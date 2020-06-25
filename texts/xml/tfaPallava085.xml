@@ -53,23 +53,21 @@
 <body>
                   
 <div type="edition" xml:lang="tam-Latn">
-
-<p>
-	<lb n="1"/>nantippōttaraca<unclear>r</unclear>kku Ay<unclear>m</unclear>patāvatu nāka<unclear>ṇa</unclear>ndi-kura<unclear>var</unclear>
+	
+	<p>
+		<lb n="1"/>nantippōttaraca<unclear>r</unclear>kku Ay<unclear>m</unclear>patāvatu
+	</p>
+	<p>
+		nāka<unclear>ṇa</unclear>ndi-kura<unclear>var</unclear>
 	<lb n="2"/><unclear>Iru</unclear>kka poṉṉiya<unclear>k</unclear>kiy<unclear>ā</unclear>r paṭimam koṭṭuvittā<unclear>ṉ</unclear>
 	<lb n="3"/>pu<unclear>ka</unclear>ḻālaimaṅka<unclear>la</unclear>ttu maruttuvar makaṉ nāraṇa-
 	<lb n="4"/>ṉ
-</p>
+	</p>
+
 </div>
                   
 <div type="apparatus">
-	
-	<listApp>
-		<app loc="1">
-		<lem>nāka<unclear>ṇa</unclear>ndi-kura<unclear>var Iru</unclear>kka</lem>
-		<note>Literally: while the Preceptor Nākaṇandi is present.</note>
-		</app>
-	</listApp>
+		
 </div>
       	
 <div type="translation" xml:lang="eng" source="part:Venkayya1896-1897_01">
@@ -83,22 +81,25 @@ In the fiftieth <supplied reason="subaudible">year</supplied> of Nandippōttarac
          
 <div type="translation" xml:lang="eng" resp="part:emfr">
       
-<p>Fiftieth <supplied reason="subaudible">year</supplied> of Nantippōttaracar <supplied reason="explanation">Nandippōtaraiyar, Nandivarman</supplied>.</p>
-<p>Nāraṇaṉ <supplied reason="explanation">Nārāyaṇa</supplied>, son of Maruttuvar of Pukaḻālaimaṅkalam, caused to be engraved <supplied reason="subaudible">this</supplied> image of Poṉṉiyakkiyār accompanied with<supplied reason="explanation">irukka</supplied> the Preceptor Nākaṇandi.</p>
+<p>Fiftieth <supplied reason="subaudible">year</supplied> of Nantippōttaracar <supplied reason="explanation">that is, Nandippōtaraiyar, Nandivarman</supplied>.</p>
+<p>Nāraṇaṉ <supplied reason="explanation">Nārāyaṇa</supplied>, son of Maruttuvar of Pukaḻālaimaṅkalam, caused to be engraved <supplied reason="subaudible">this</supplied> image of Poṉṉiyakkiyār accompanied with <supplied reason="explanation">irukka</supplied> the Preceptor Nākaṇandi.</p>
 
 </div>
                   
 <div type="commentary">
 	
-	<p>Add note on the sculptures accompanying the inscription. Cf. EI.</p><!--update!-->
+	<p n="1">
+		<foreign>nāka<unclear>ṇa</unclear>ndi-kura<unclear>var Iru</unclear>kka</foreign>. Literally: "while the Preceptor Nākaṇandi is present".		
+	</p>
+	<p>
+		Add note on the sculptures accompanying the inscription. Cf. EI.
+	</p><!--update!-->
 </div>
          
 <div type="bibliography">
             
             <p>
-First edited in <bibl><ptr target="bib:Venkayya1896-1897_01"/></bibl> (EI 4, no. 14), with facsimile and English translation.
-Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 85).
-This edition by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:Venkayya1896-1897_01"/></bibl>.
+First edited in <bibl><ptr target="bib:Venkayya1896-1897_01"/></bibl> (EI 4, no. 14), with facsimile and English translation; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 85); re-edited here by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:Venkayya1896-1897_01"/></bibl>.
             </p>
             
             <listBibl type="primary">
@@ -106,7 +107,7 @@ This edition by Emmanuel Francis (2020), based on the facsimile published in <bi
             	<bibl>
             		<ptr target="bib:Mahalingam1988_01"/>
             		<citedRange unit="item">85</citedRange>
-            		<citedRange unit="page"></citedRange>
+            		<citedRange unit="page"/>
             	</bibl>
             	<bibl>
             		<ptr target="bib:Venkayya1896-1897_01"/>

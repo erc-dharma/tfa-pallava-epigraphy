@@ -40,16 +40,18 @@
 				</availability>
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
-			<sourceDesc><msDesc><msIdentifier>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
 						<repository>DHARMAbase</repository>
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary><!-- //// NOT MANDATORY  ////--></summary> 
+						<summary> </summary>
 					</msContents>
-				<physDesc>
+					<physDesc>
 						<handDesc>
-							<p></p>
+							<p/>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -62,7 +64,6 @@
 	<text xml:space="preserve">
       <body>
 
-<!--Replace ·•-->
          <div type="edition" xml:lang="tam-Latn">
             <p>
 <lb n="1"/><hi rend="grantha">svasti śrī</hi> nanti-p
@@ -92,7 +93,7 @@
          <div type="translation" xml:lang="eng" resp="part:emfr">
          	<p>Prosperity! Fortune!</p>
          	<p>To the <foreign>koṭukkappiḷḷai</foreign>s <supplied reason="explanation"><foreign>koṭukkappiḷḷaikaḷ</foreign></supplied> <supplied reason="subaudible">at the service of</supplied> Nantippōttaraiyar:</p> 
-         	<p>"<supplied reason="subaudible">We ,</supplied> the <foreign>ūrār</foreign>s of Uḻalūr, according to <supplied reason="explanation"><foreign>paṭi</foreign></supplied> the <foreign>makaḷmai</foreign>, after having made a request to the lord <supplied reason="explanation"><foreign>perumāṉaṭikaḷukku</foreign></supplied>, we have given with <supplied reason="explanation"><foreign>koṇṭu</foreign></supplied> all immunities."</p>
+         	<p>"<supplied reason="subaudible">We,</supplied> the <foreign>ūrār</foreign>s of Uḻalūr, according to <supplied reason="explanation"><foreign>paṭi</foreign></supplied> the <foreign>makaḷmai</foreign>, after having made a request to the lord <supplied reason="explanation"><foreign>perumāṉaṭikaḷukku</foreign></supplied>, we have given with <supplied reason="explanation"><foreign>koṇṭu</foreign></supplied> all immunities."</p>
          	<p>As per the above <supplied reason="explanation"><foreign>mēlālum</foreign></supplied>, the <foreign>koṭukkappiḷḷai</foreign>s:</p>
          	<p>"The feet of he who protects this <supplied reason="explanation"><foreign>donation</foreign></supplied> are on <supplied reason="subaudible">our</supplied> heads <supplied reason="explanation">literally: tufts</supplied>."</p> 
          	<p>At the order <supplied reason="explanation"><foreign>paṇi-y-āl</foreign></supplied> of the <foreign>koṭukkappiḷḷai</foreign>s, <supplied reason="explanation">this is</supplied> what Arituṭṭaṉ, the guard <supplied reason="explanation"><foreign>kāppāṉ</foreign></supplied> of the gem-treasury <supplied reason="explanation"><foreign>māṇikka-p-paṇṭāram</foreign></supplied> and guard of the body of the Siṃhala <supplied reason="subaudible">king</supplied> [OR: the Siṃhala body-guard from]<!--Update!--> <supplied reason="explanation"><foreign>ciṅkaḷa-mey-kāppaṉ</foreign></supplied><!--Update!-->, after coming, had made.
@@ -104,18 +105,15 @@
          </div>
 
          <div type="commentary"><!--Update!-->
-         	<p><foreign>koṭukkappiḷḷaikaḷ: ...</foreign></p>
-         	<p><foreign>makaḷmai</foreign>: i.e. makaṇmai or makaṉmai, a tax? I.e. what is given is a tax? according to sonship? Cf. piḷḷai = "son" of NP?</p>
-         	<p><foreign>ciṅkaḷamey<surplus>ar</surplus>-kāppaṉ</foreign>: ...</p>
+         	<p n="2, 6"><foreign>koṭukkappiḷḷaikaḷ</foreign>: ...</p>
+         	<p n="3"><foreign>makaḷmai</foreign>: i.e. makaṇmai or makaṉmai, a tax? I.e. what is given is a tax? according to sonship? Cf. piḷḷai = "son" of NP?</p>
+         	<p n="10"><foreign>ciṅkaḷamey<surplus>ar</surplus>-kāppaṉ</foreign>: ...</p>
          </div>
       	
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 453).
-Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 94).
-This edition by Emmanuel Francis, based on photographs (2008) (partial coverage).
-First English translation.
+First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 453); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 94); re-edited here and translated for the first time by Emmanuel Francis, based on a partial photographic documentation (2008).
             </p>
 
             <listBibl type="primary">

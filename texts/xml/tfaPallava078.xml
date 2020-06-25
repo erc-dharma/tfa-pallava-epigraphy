@@ -5,8 +5,8 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Uttiramērūr, Vaikuṇṭhaperumāḷ, larger platform, southern base, time of Nandivarman, year 24
-					</title>
+				<title>Uttiramērūr, Vaikuṇṭhaperumāḷ, larger platform, southern base, time of
+					Nandivarman, year 24 </title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:emfr">
@@ -164,7 +164,7 @@ Writing <supplied reason="subaudible">of</supplied> Vastuvidyāmaya, son of Kār
     	<div type="bibliography">
     		
 <p>
-First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 356); summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 78); re-edited and translated for the first time by Emmanuel Francis (2020), based on autopsy and photographs (2019).
+First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 356); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 78); re-edited and translated for the first time by Emmanuel Francis (2020), based on autopsy and photographs (2019).
 </p>
     		
     		<listBibl type="primary">

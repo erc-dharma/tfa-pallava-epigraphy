@@ -77,13 +77,13 @@
 
       	<div type="translation" xml:lang="eng" resp="part:emfr">
       		<p>
-      			The glorious hook of Vāma <supplied reason="explanation">Śiva</supplied>
+      			The glorious hook of Vāma <supplied reason="explanation">Śiva</supplied>.
       		</p>
-      		<p>or</p>
+      		<p><hi rend="italic">or</hi></p>
       		<p>
-      			The glorious one whose hook is splendid/terrible/cruel
+      			The glorious one whose hook is splendid/terrible/cruel.
       		</p>
-      		<p>or</p>
+      		<p><hi rend="italic">or</hi></p>
       		<p>
       			The glorious pleasant hook
       		</p>
@@ -91,21 +91,21 @@
       	
       	<div type="translation" xml:lang="fra" resp="part:sybr"><!--add second translator:  part:emfr"-->
       		<p>
-      			Le glorieux croc de Vāma <supplied reason="explanation">Śiva</supplied>
+      			Le glorieux croc de Vāma <supplied reason="explanation">Śiva</supplied>.
       		</p>
-      		<p>ou</p>
+      		<p><hi rend="italic">ou</hi></p>
       		<p>
-      			Le glorieux au croc splendide / terrible / cruel
+      			Le glorieux au croc splendide / terrible / cruel.
       		</p>
-      		<p>ou</p>
+      		<p><hi rend="italic">ou</hi></p>
       		<p>
-      			Le glorieux aimable croc
+      			Le glorieux aimable croc.
       		</p>
       	</div>
       	
       	<div type="translation" xml:lang="eng" source="bib:Hultzsch1909-1910_01">
       		<p>
-      			The glorious Vāmāṅkuśa (bearer of handsome elephant-goad)
+      			The glorious Vāmāṅkuśa <supplied reason="explanation">bearer of handsome elephant-goad</supplied>.
       		</p>
       	</div>
       	
