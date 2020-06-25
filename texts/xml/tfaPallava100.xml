@@ -127,22 +127,19 @@
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile.
-Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 100).
-This edition by Emmanuel Francis (2020), based on autopsy and photographs (2008).
-First English translation?
+First edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile (SII 12, no. 42); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 100); re-edited here and first (?) translated by Emmanuel Francis (2020), based on autopsy and photographs (2008).
             </p>
 
             <listBibl type="primary">
 
-            	<bibl>
+            	<bibl n="VVA">
             		<ptr target="bib:VenkatasubbaAyyar1943_01"/>
             		<citedRange unit="page">17</citedRange>
             		<citedRange unit="item">42</citedRange>
             		<citedRange unit="plate">V</citedRange>
             	</bibl>
             	
-            	<bibl>
+            	<bibl n= "TVM">
             		<ptr target="bib:Mahalingam1988_01"/>
             		<citedRange unit="page">338-339</citedRange>
             		<citedRange unit="item">100</citedRange>            		
@@ -150,9 +147,13 @@ First English translation?
 
             </listBibl>
 
-            <listBibl type="secondary">
-              <bibl>ARIE 1916/283</bibl> <!--to be updated-->
-            	<bibl/>
+         	<listBibl type="secondary">
+         		<bibl>
+         			<ptr target="bib:ARIE1915-1916_01"/>
+         			<citedRange unit="page">92</citedRange>
+         			<citedRange unit="appendix">C/1916</citedRange>
+         			<citedRange unit="item">283</citedRange>
+         		</bibl>
            </listBibl>
 
          </div>
