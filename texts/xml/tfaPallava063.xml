@@ -5,8 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Paṉaimalai, cave, eulogy, time of Narasiṃhavarman II
-									</title>
+				<title>Paṉaimalai, cave, eulogy, time of Narasiṃhavarman II </title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -57,7 +56,7 @@
             	<l><lb n="1"/>rāja-si<supplied reason="omitted">ṃ</supplied>ho raṇa-jayaḥ</l>
             	<l><lb n="2"/>śrī-bharaś citrakarmuka<supplied reason="omitted">ḥ</supplied></l>
             	<l>E<lb n="3" break="no"/>ka-vīraś ciram pātu<surplus>ḥ</surplus></l>
-            	<l>śi<lb n="4" break="no"/>va-cū<orig>ḷ</orig>ā-maṇir mmahīm·</l><!--check TG on miniature letters-->
+            	<l>śi<lb n="4" break="no"/>va-cū<orig>ḷ</orig>ā-maṇir mmahīM</l>
             </lg>
          </div>
 
@@ -74,7 +73,7 @@
 		<app loc="2">
 			<lem>citrakarmuka<supplied reason="omitted">ḥ</supplied></lem>
 			<rdg source="bib:Hultzsch1890_01">citrakarmuka<supplied reason="omitted">ḥ |</supplied></rdg>
-			<note></note>
+			<note/>
 		</app>
 		
 		<app loc="3">
