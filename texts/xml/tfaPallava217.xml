@@ -5,7 +5,8 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Uttiramērūr, Vaikuṇṭhaperumāl, smaller platform, northern base, donation of the time of Kampavarman, year 15</title>
+				<title>Uttiramērūr, Vaikuṇṭhaperumāl, smaller platform, northern base, donation of
+					the time of Kampavarman, year 15</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,12 +48,12 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary></summary>
+						<summary/>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>
-							</handDesc>
+							<p/>
+						</handDesc>
 					</physDesc>
 				</msDesc>
 			</sourceDesc>
@@ -194,7 +195,7 @@
          	<p n="6">
          		<gap reason="lost"/> 
          		
-         		Even if we give <supplied reason="explanation"><foreign>aṭṭōmāyilum</foreign></supplied>, he who obstructs <supplied reason="explanation"><foreign>vilakkināṉum</foreign></supplied> <supplied reason="subaudible">this</supplied> without giving <supplied reason="explanation"><foreign>aṭṭāmai</foreign></supplied>, he will become <supplied reason="explanation"><foreign><foreign>āṉāṉ</foreign></foreign></supplied> permanently <supplied reason="explanation"><foreign>nicati</foreign></supplied> one who attains <supplied reason= "explanation"><foreign>eytuvāṉ</foreign></supplied> the crime <supplied reason="explanation"><foreign>pātakam</foreign></supplied> of killing <supplied reason="explanation"><foreign>koṉṟa</foreign></supplied> like one thousand tawny cows <supplied reason="explanation"><foreign>āyiraṅ kurāl-āka</foreign></supplied>.
+         		Even if we give <supplied reason="explanation"><foreign>aṭṭōmāyilum</foreign></supplied>, he who obstructs <supplied reason="explanation"><foreign>vilakkināṉum</foreign></supplied> <supplied reason="subaudible">this</supplied> without giving <supplied reason="explanation"><foreign>aṭṭāmai</foreign></supplied>, he will become <supplied reason="explanation"><foreign><foreign>āṉāṉ</foreign></foreign></supplied> permanently <supplied reason="explanation"><foreign>nicati</foreign></supplied> one who attains <supplied reason="explanation"><foreign>eytuvāṉ</foreign></supplied> the crime <supplied reason="explanation"><foreign>pātakam</foreign></supplied> of killing <supplied reason="explanation"><foreign>koṉṟa</foreign></supplied> like one thousand tawny cows <supplied reason="explanation"><foreign>āyiraṅ kurāl-āka</foreign></supplied>.
          	</p>
 <p n="6-7">
 	He who harms this pious donation <gap reason="lost"/> he attains the entire sin done by those who do murder of <supplied reason="subaudible">one among</supplied> the “Seven Hundreds” between the Ganges and Kumari.

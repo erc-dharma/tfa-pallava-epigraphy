@@ -5,7 +5,8 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Uttiramērūr, Vaikuṇṭhaperumāl, donation of the time of Kampavarman, year 10</title>
+				<title>Uttiramērūr, Vaikuṇṭhaperumāl, donation of the time of Kampavarman, year
+					10</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,12 +48,12 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary></summary>
+						<summary/>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>
-							</handDesc>
+							<p/>
+						</handDesc>
 					</physDesc>
 				</msDesc>
 			</sourceDesc>
@@ -66,7 +67,7 @@
       	
       	<div type="edition" xml:lang="tam-Latn">
       		<!--Add milestones for blocks-->
-      		<!--Words/phrases chiseled off markedup as unclear. Do we need a specific markup to distinguish them from "normal" unclear? I do not think so. A statement in the metadata will suffice -->
+      		<!--Words/phrases chiseled off markedup as unclear. Add <del>-->
       		<p>
       			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
       		</p>

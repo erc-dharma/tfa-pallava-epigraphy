@@ -5,8 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Mahābalipuram, Kōṭikal Maṇḍapa, Biruda
-									</title>
+				<title>Mahābalipuram, Kōṭikal Maṇḍapa, Biruda </title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -66,10 +65,10 @@
 		<app loc="1">
 			<lem><hi rend="grantha">śrī-vāmā<unclear>ṃ</unclear>kuśaḥ</hi></lem>
 			<rdg source="bib:Hultzsch1909-1910_01"><hi rend="grantha">śrīvāmāṅkuśaḥ</hi></rdg>
-			<note><!--<bibl><ptr target="bib:Hultzsch1909-1910_01"/><citedRange unit="page">8</citedRange><citedRange unit="note">1</citedRange></bibl>--> notes that the <foreign>anusvāra</foreign> is doubtful. Il n’est pas très clair sur l’estampage, un peu plus sur la pierre examinée <foreign>in situ</foreign>. Il semble d’ailleurs que l’espace entre <foreign>mā</foreign> et <foreign>ku</foreign> est plus important qu’entre les autres <foreign>akṣara</foreign>s, ce qui semble confirmer sa présence. En tout cas, s’il est bien là (ce qui fait plus sens), il s’agit d’un cercle, de petite taille, de même taille que chacun des points du <foreign>visarga</foreign> final.</note>					
+			<note><bibl><ptr target="bib:Hultzsch1909-1910_01"/><citedRange unit="page">8</citedRange><citedRange unit="note">1</citedRange></bibl> notes that the <foreign>anusvāra</foreign> is doubtful. Il n’est pas très clair sur l’estampage, un peu plus sur la pierre examinée <foreign>in situ</foreign>. Il semble d’ailleurs que l’espace entre <foreign>mā</foreign> et <foreign>ku</foreign> est plus important qu’entre les autres <foreign>akṣara</foreign>s, ce qui semble confirmer sa présence. En tout cas, s’il est bien là (ce qui fait plus sens), il s’agit d’un cercle, de petite taille, de même taille que chacun des points du <foreign>visarga</foreign> final.</note>					
 			<note>Le <foreign>visarga</foreign> est très clairement visible <foreign>in situ</foreign>. 
 				
-				<!--<bibl><ptr target="bib:Brocquet1997_01"/><citedRange unit="page">586</citedRange><citedRange unit="note">1056</citedRange></bibl>--> reads <foreign>śrī-vāmāṅkuśa</foreign> and notes that this should be analysed as a Vocative form.</note>
+				<bibl><ptr target="bib:Brocquet1997_01"/><citedRange unit="page">586</citedRange><citedRange unit="note">1056</citedRange></bibl> reads <foreign>śrī-vāmāṅkuśa</foreign> and notes that this should be analysed as a Vocative form.</note>
 		</app>
 		
 	</listApp>
@@ -119,7 +118,7 @@
       	<div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 61); text and translation in <!--<bibl><ptr target="bib:Brocquet1997_01"/></bibl>--> <!--Update: empêche la transfo--> (B no. 45); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2009).
+First edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 61); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl>; re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2009).
             </p>
 
             <listBibl type="primary">

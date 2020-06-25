@@ -5,7 +5,8 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Uttiramērūr, Vaikuṇṭhaperumāl, larger platform, southern base, donation of the time of Kampavarman, year 18</title>
+				<title>Uttiramērūr, Vaikuṇṭhaperumāl, larger platform, southern base, donation of
+					the time of Kampavarman, year 18</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,12 +48,12 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary></summary>
+						<summary/>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>
-							</handDesc>
+							<p/>
+						</handDesc>
 					</physDesc>
 				</msDesc>
 			</sourceDesc>
@@ -162,7 +163,7 @@
          	<p n="1">
          		Eighteenth year of the victorious king Kampavarman.
          	</p>
-         	<p n= "1">
+         	<p n="1">
          		Writ/Writing of Us, the members of the assembly of Uttaramerucaturvedimaṅgala in the Kāliyūrkkōṭṭam <supplied reason="subaudible">and</supplied> the division of the same name.
          	</p>
          	<p n="1-2">
