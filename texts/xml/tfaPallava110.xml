@@ -88,7 +88,7 @@
   			<p>
   				<lb n="25" break="no"/><unclear>ve</unclear>ḷ<unclear>ḷ</unclear>ē
   				<lb n="26" break="no"/>riyi<unclear>l</unclear>ē
-  				<lb n="27"/>kuḻikut-
+  				<lb n="27"/>kuḻikut
   				<lb n="28" break="no"/>ti Aṭṭu
   				<lb n="29" break="no"/>vat’ āka
   				<lb n="30"/>vaittē
@@ -101,7 +101,7 @@
   				<lb n="37" break="no"/>ttu
   				<lb n="38" break="no"/><hi rend="grantha">ddharma</hi>ñ ce
   				<lb n="39" break="no"/>lutti
-  				<lb n="40" break="no"/>ṉāṉ <g type="numeral">1000</g>
+  				<lb n="40" break="no"/>ṉāṉ <num><g type="numeral">1000</g></num>
   				<lb n="41"/><hi rend="grantha">Aśvame
   				<lb n="42" break="no"/>dha</hi>ñ cey
   				<lb n="43" break="no"/>ta palaṉ
@@ -110,7 +110,7 @@
   			</p>
   		</div>
                 <div type="textpart" subtype="face" n="C"><p>
-                    <lb n="46"/>It’ aḻi-
+                    <lb n="46"/>It’ aḻi
                     <lb n="47" break="no"/>ttāṉ
                     <lb n="48"/>vāraṇāci
                     <lb n="49"/>Aḻittā
@@ -179,19 +179,19 @@ This edition by Emmanuel Francis (2020), based on photographs (2019).
   		
   		<listBibl type="primary">
   			
-  			<bibl>
+  			<bibl n="TVGR">
   				<ptr target="bib:GopinathaRao1911_01"/>
   				<citedRange unit="item">E</citedRange>
   				<citedRange unit="page">113-114</citedRange>
   			</bibl>
   			
-  			<bibl>
+  			<bibl n="VV">
   				<ptr target="bib:Venkayya1912_01"/>
   				<citedRange unit="item">B</citedRange>
   				<citedRange unit="page">225-226</citedRange>
   			</bibl>
   			
-  			<bibl>
+  			<bibl n="TVM">
   				<ptr target="bib:Mahalingam1988_01"/>
   				<citedRange unit="item">110</citedRange>
   				<citedRange unit="page">354-357</citedRange>
@@ -201,7 +201,13 @@ This edition by Emmanuel Francis (2020), based on photographs (2019).
   		
   		<listBibl type="secondary">
   			
-  			<bibl>ARIE 1904/A/226 = ARIE 1903/226</bibl> <!--to be updated-->
+  			<!--ARIE 1904/A/226 = ARIE 1903/226. TBC-->
+  			<bibl>
+    				<ptr target="bib:ARIE1903-1904_01"/>
+    				<citedRange unit="page">**</citedRange>
+    				<citedRange unit="appendix">A/1903</citedRange>
+    				<citedRange unit="item">71</citedRange>
+    			</bibl> 
   		
   		</listBibl>
            </div>
