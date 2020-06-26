@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Makēntiraravāṭi, foundation inscription, time of Mahendravarman I</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from the European Research
+						Council (ERC) under the European Union's Horizon 2020 research and
+						innovation programme (grant agreement no 809994).</note>
+				</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">tfaPallava027</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p><!-- not to be filled in at this stage --></p>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2020-06-26" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+      <body>
+
+         <div type="edition" xml:lang="san-Latn">
+         	
+         	<lg n="1" met="gīti"><!--Check EGD-->
+         		
+         		<l n="a" real="...">
+         			<lb n="1"/>etad aniṣṭakam adruma<unclear>m</unclear>
+         		</l>
+         		<l n="b" real="...">
+         			alo<lb n="2" break="no"/>asudhaṃ <unclear>v</unclear>i<unclear>citra</unclear>cittena
+         		</l>
+         		<l n="c" real="...">
+         			<lb n="3"/>nirmmāpitan nṛpe<unclear>ṇa</unclear> 
+         		</l>
+         		<l n="d" real="...">
+         			brahme<lb n="4" break="no"/>śvara-viṣṇu-lakṣitāyatanaM
+         		</l>
+            	            	
+            </lg>
+         	
+         </div>
+
+<div type="apparatus">
+
+	<listApp>
+
+		<app loc="1">
+			<lem></lem>
+			<rdg source="bib:GopinathaRao1924_01"></rdg>
+			<note></note>
+		</app>	
+		
+	</listApp>
+
+</div>
+
+      	<div type="translation" xml:lang="eng" resp="part:emfr">
+      		<!--TO BE ADDED-->
+      	</div>
+      	
+      	<div type="translation" xml:lang="fra" resp="part:sybr part:emfr">
+      		
+      		<p rend="stanza" n="1">
+      			<l>Sans briques, sans bois,</l> 
+      			<l>Sans métal, sans mortier, le roi Vicitracitta,</l>
+      			<l>Fit construire ce temple,</l>
+      			<l>Qui porte les marques de Brahmā, Īśvara et Viṣṇu.</l>
+      		</p>
+      		
+      	</div>
+      	
+      	<div type="commentary"><!--Update!-->
+      		
+      	</div>
+      	
+      	<div type="bibliography">
+      		
+            <p>
+First edited and translated by <bibl><ptr target="bib:GopinathaRao1924_01"/></bibl>, with a poor facsimile (EI 17, no. 5); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 27); text and translation in <bibl><ptr target="bib:Filliozat1984_01"/></bibl> and in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 22); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2008, 2009).
+            </p>
+
+            <listBibl type="primary">
+
+            	<bibl n="TVGR">
+            		<ptr target="bib:GopinathaRao1924_01"/>            		
+            	</bibl>
+            	<bibl n="PSF">
+            		<ptr target="bib:Filliozat1984_01"/>
+            		<citedRange unit="page">102-104</citedRange>
+            	</bibl>
+            	<bibl n="TVM">
+            		<ptr target="bib:Mahalingam1988_01"/>
+            		<citedRange unit="page">117</citedRange>
+            		<citedRange unit="item">27</citedRange>            		
+            	</bibl>            	
+            	<bibl n="SB">
+            		<ptr target="bib:Brocquet1997_01"/>
+            		<citedRange unit="page">476-477</citedRange>
+            		<citedRange unit="item">22</citedRange>            		
+            	</bibl>            	           	
+
+            </listBibl>
+      		
+      		<listBibl type="secondary">
+      			      			
+      			<bibl>
+            			<ptr target="bib:ARIE1904-1905_01"/>
+            			<citedRange unit="page">33, 39</citedRange><!--update!-->
+            			<citedRange unit="appendix">B/1905</citedRange>
+            			<citedRange unit="item">56</citedRange>      				
+            		</bibl>
+      			<bibl>
+      				<ptr target="bib:Srinivasan1964_01"/>
+      				<citedRange unit="page">47</citedRange>
+      			</bibl>
+      			<bibl>
+      				<ptr target="bib:Francis2013_01"/>
+      				<citedRange unit="page">272</citedRange>
+      			</bibl>
+      			<bibl>
+      				<ptr target="bib:Francis2017_01"/>
+      				<citedRange unit="page">511</citedRange>
+      			</bibl>
+      		</listBibl>
+      		
+         </div>
+
+      </body>
+  </text>
+</TEI>
