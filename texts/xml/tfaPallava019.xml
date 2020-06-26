@@ -86,8 +86,8 @@
 
 </div>
 
-      	<div type="translation" xml:lang="eng" resp="part:emfr">
-      		<!--TO BE ADDED-->
+      	<div type="translation" xml:lang="eng" source="bib:Hultzsch1913-1914_01">
+      		<p>Narendra Śatrumalla, who has humbled kings by <supplied reason="subaudible">his</supplied> army, caused to be made on this hill this <supplied reason="subaudible">temple named</supplied> Śatrumalleśvarālaya.</p>
       	</div>
       	
       	<div type="translation" xml:lang="fra" resp="part:sybr part:emfr">
@@ -100,7 +100,7 @@
       	</div>
       	
       	<div type="commentary"><!--Update!-->
-      		<p n="1"><foreign>daṇḍanata</foreign>. Interpretation? See note in B.</p>
+      		<p n="1"><foreign>daṇḍānata</foreign>. Interpretation? See note in B.</p>
       		<p n="2"><foreign>narendra</foreign>. Identification? See note in B.</p>
       		<p>See IP 20<!--cross-ref-->, for a Tamil version.</p>
       	</div>
