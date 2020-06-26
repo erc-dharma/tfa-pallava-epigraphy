@@ -55,17 +55,11 @@
          	
          	<lg n="1" met="gīti"><!--Check EGD-->
          		
-         		<l n="a" real="...">
-         			<lb n="1"/>etad aniṣṭakam adruma<unclear>m</unclear>
+         		<l n="ab" real="+--+--+---+---+-+-++-">
+         			<lb n="1"/>etad aniṣṭakam adruma<unclear>m</unclear> alo<lb n="2" break="no"/>ham asudhaṃ <unclear>v</unclear>i<unclear>citra</unclear>cittena
          		</l>
-         		<l n="b" real="...">
-         			alo<lb n="2" break="no"/>asudhaṃ <unclear>v</unclear>i<unclear>citra</unclear>cittena
-         		</l>
-         		<l n="c" real="...">
-         			<lb n="3"/>nirmmāpitan nṛpe<unclear>ṇa</unclear> 
-         		</l>
-         		<l n="d" real="...">
-         			brahme<lb n="4" break="no"/>śvara-viṣṇu-lakṣitāyatanaM
+         		<l n="cd" real="++-+-++++--+-+-+--+">
+         			<lb n="3"/>nirmmāpitan nṛpe<unclear>ṇa</unclear> brahme<lb n="4" break="no"/>śvara-viṣṇu-lakṣitāyatanaM
          		</l>
             	            	
             </lg>
@@ -77,9 +71,18 @@
 	<listApp>
 
 		<app loc="1">
-			<lem></lem>
-			<rdg source="bib:GopinathaRao1924_01"></rdg>
-			<note></note>
+			<lem>alo<lb n="2" break="no"/>ham</lem>
+			<rdg source="bib:GopinathaRao1924_01"><unclear>alo</unclear><lb n="2" break="no"/>ham</rdg>
+		</app>	
+		
+		<app loc="2">
+			<lem><unclear>v</unclear>i<unclear>citra</unclear>cittena</lem>
+			<rdg source="bib:GopinathaRao1924_01"><unclear>vicitraci</unclear>ttena</rdg>
+		</app>	
+		
+		<app loc="4">
+			<lem>°lakṣitāyatanaM</lem>
+			<rdg source="bib:GopinathaRao1924_01">°la<unclear>kṣi</unclear>tāyatanaM</rdg>
 		</app>	
 		
 	</listApp>

@@ -53,19 +53,19 @@
 
          <div type="edition" xml:lang="san-Latn">
          	
-         	<lg n="1" met="kokilaka?nardaṭaka?"><!--Update + Check EGD-->
+         	<lg n="1" met="nardaṭaka">
          		
-         		<l n="a" real="...">
-         			<lb n="1"/>
+         		<l n="a" real="----+-+---+--+---">
+         			<lb n="1"/>mahitatamaṃ satām upa mahendra-<unclear>ta</unclear>ṭākam ida<orig><unclear>M</unclear></orig>
          		</l>
-         		<l n="b" real="...">
-         			<lb n="2"/>
+         		<l n="b" real="----+-+---+--+---">
+         			<lb n="2"/>sthiram uru kāritaṃ guṇabhareṇa vidāryya śil<unclear>āM</unclear>
          		</l>
-         		<l n="c" real="...">
-         			<lb n="3"/>
+         		<l n="c" real="----+-+---+--+---">
+         			<lb n="3"/>ja<unclear>na</unclear>-nayanābhir<unclear>ā</unclear>ma-guṇa-dhāma mahendrapure
          		</l>
-         		<l n="d" real="...">
-         			<lb n="4"/>
+         		<l n="d" real="----+-+---+--+---">
+         			<lb n="4"/>maha<unclear>t</unclear>i mahendra-viṣṇu-gṛha-nāma murār<unclear>i</unclear>-gṛha<unclear>ṃ</unclear>
          		</l>
             	            	
             </lg>
@@ -77,9 +77,29 @@
 	<listApp>
 
 		<app loc="1">
-			<lem></lem>
-			<rdg source="bib:Hultzsch1896-1897_06"></rdg>
-			<note></note>
+			<lem>upa</lem>
+			<rdg source="bib:Hultzsch1896-1897_06">u<unclear>pa</unclear></rdg>
+		</app>	
+		
+		<app loc="1">
+			<lem>ida<orig><unclear>M</unclear></orig></lem>
+			<rdg source="bib:Hultzsch1896-1897_06">i<unclear>da</unclear><choice><orig><unclear>M</unclear></orig><reg>ṃ</reg></choice></rdg>
+			<note>The final <foreign><unclear>M</unclear></foreign> is written between lines 1 and 2, below the character <foreign>da</foreign>.</note>
+		</app>	
+		
+		<app loc="2">
+			<lem>śil<unclear>āM</unclear></lem>
+			<note>The final <foreign><unclear>M</unclear></foreign> is written between lines 2 and 3, below the character <foreign>l<unclear>ā</unclear></foreign>.</note>
+		</app>	
+		
+		<app loc="4">
+			<lem>maha<unclear>t</unclear>i</lem>
+			<rdg source="bib:Hultzsch1896-1897_06">maha<unclear>ti</unclear></rdg>
+		</app>	
+		
+		<app loc="4">
+			<lem>murār<unclear>i</unclear>-gṛha<unclear>ṃ</unclear></lem>
+			<rdg source="bib:Hultzsch1896-1897_06">murā<unclear>ri</unclear>-gṛ<unclear>haṃ</unclear></rdg>
 		</app>	
 		
 	</listApp>
@@ -93,8 +113,9 @@
       	<div type="translation" xml:lang="fra" resp="part:sybr part:emfr">
       		
       		<p rend="stanza" n="1">
-      			<l></l>
-      			<l></l>
+      			<l>Objet des plus chauds éloges auprès des gens de bien, solide et spacieuse,</l>
+      			<l>Guṇabhara fit construire au bord de l'étang de Mahendra-taṭāka, en creusant la roche,</l>
+      			<l>En la grande cité de Mahendrapura, cette demeure de vertus qui charment les yeux des hommes : la maison de Murāri, nommée Mahendra-Viṣṇugṛha.</l> 
       		</p>
       		
       	</div>
