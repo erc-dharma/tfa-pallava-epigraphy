@@ -60,7 +60,7 @@
             	</l>
             	<l n="cd" real="+--++++-+---+-+++">
             		<lb n="3"/>kāritam etat svedhā-karaṇḍa
-            		<lb n="4" break="no"/>(m) iva puṇyaratnānām
+            		<lb n="4" break="no"/>(m) iva puṇya-ratnānām
             	</l>
             	
             </lg>
@@ -82,7 +82,7 @@
 		<app loc="1">
 			<lem>svedhā°</lem>
 			<rdg source="bib:Hultzsch1900-1901_01">sve<choice><sic>dh</sic><corr>cch</corr></choice>ā°</rdg>
-			<note>This correction by Hultzsch might be unnecessary, as we can make sense of the original text.</note>
+			<note>This correction by Hultzsch might be unnecessary, as we can somehow make sense of the original text.</note>
 		</app>		
 		
 	</listApp>
@@ -103,7 +103,7 @@
       	
       	<div type="commentary">
       		<p n="1-2">Lalitāṅkura and Avanibhājana are <foreign>biruda</foreign>s of the Pallava Mahendravarman I.</p>
-      		<p n="2">Avanibhājanapallaveśvara means "<supplied reason="subaudible">the temple of</supplied> the Lord <supplied reason="explanation">that is, Śiva</supplied> of the Pallava Avanibhājana <supplied reason="explanation">that is, Mahendravarman I Pallava</supplied>" or alternatively "<supplied reason="subaudible">the temple of</supplied> Śiva <supplied reason="subaudible">founded by</supplied> the Pallava Avanibhājana".</p>
+      		<p n="2">Avanibhājanapallaveśvara means "<supplied reason="subaudible">the temple of</supplied> the Lord <supplied reason="explanation">that is, Śiva</supplied> of the Pallava Avanibhājana <supplied reason="explanation">that is, Mahendravarman I Pallava</supplied>", that is, alternatively "<supplied reason="subaudible">the temple of</supplied> Śiva <supplied reason="subaudible">founded by</supplied> the Pallava Avanibhājana".</p>
       	</div>
       	
       	<div type="bibliography">

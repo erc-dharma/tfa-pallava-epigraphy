@@ -67,7 +67,7 @@
 	<l>
 ve
 <lb n="4" break="no"/>ṇpēṭṭiṉ ṟeṉ-pā			
-<lb n="5" break="no"/>l mīka makiḻntu ka
+<lb n="5" break="no"/>l mika makiḻntu ka
 <lb n="6" break="no"/>ṇṭāṉ
 	</l>
 	
@@ -108,7 +108,7 @@ cara mikka ve
            
 	<app loc="1"> 
 		<lem><hi rend="grantha">śrī</hi></lem>
-		<note>We follow here <bibl><ptr target="bib:Hultzsch1913-1914_01"/></bibl> in considering <foreign><hi rend="grantha">śrī</hi></foreign> as an initial benediction. It could alternatively be analysed as a prefix to <foreign>toṇṭai-y-an-tār-vēntaṉ</foreign>, that is "the glorious <supplied reason="explanation"><hi rend="grantha">śrī</hi></supplied> king with the beautiful garland of <foreign>toṇṭai</foreign></note>
+		<note>We follow here <bibl><ptr target="bib:Hultzsch1913-1914_01"/></bibl> in considering <foreign><hi rend="grantha">śrī</hi></foreign> as an initial benediction. It could alternatively be analysed as a prefix to <foreign>toṇṭai-y-an-tār-vēntaṉ</foreign>, that is "the glorious <supplied reason="explanation"><hi rend="grantha">śrī</hi></supplied> king with the beautiful garland of <foreign>toṇṭai</foreign>".</note>
 	</app>
 	
 	<app loc="1">
@@ -132,7 +132,7 @@ cara mikka ve
 		<rdg source="bib:Hultzsch1913-1914_01"><choice><unclear rend="grantha">śa</unclear><unclear>ca</unclear></choice>tturumalle<hi rend="grantha">śva</hi>rālaiyam</rdg>
 		<!--<hi> not allowed? Uncertainty bears on the script of śa-->
 		<rdg source="bib:Mahalingam1988_01"><hi rend="grantha">śa</hi>ttrumalle<hi rend="grantha">śva</hi>rālayam</rdg>
-		<note>Reading in situ enabled to reject the reading <foreign>°ālayam</foreign>. The reading <foreign>°āleyam</foreign> is possible.</note>
+		<note>In situ examination enabled to reject the reading <foreign>°ālayam</foreign>. The reading <foreign>°āleyam</foreign> is possible.</note>
 	</app>
 	
 	<app loc="9">
