@@ -41,7 +41,20 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>This Sanskrit verse records the foundation of a cave-temple by the Pallava king Guṇabhara or Mahendra around 600/625 CE.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p>Grantha stone engraving not yet fully mastered. By a beginner or one of the early attempts to engrave Grantha on stone.</p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -69,6 +82,13 @@
          		</l>
             	            	
             </lg>
+         	
+         	<l>Conventions</l>
+         	<l>(a) • unclear or illegible outside context</l>
+         	<l>[a] • lost/illegible and restored/supplied</l>
+         	<l>¿n? • unstandard</l>
+         	<l>¡a! • incorrect</l>
+         	<l>{a} • supplied/omitted</l>
          	
          </div>
 
@@ -106,11 +126,11 @@
 
 </div>
 
-      	<div type="translation" xml:lang="eng" resp="part:emfr">
-      		<!--TO BE ADDED-->
+      	<div type="translation" xml:lang="eng" >
+      		
       	</div>
       	
-      	<div type="translation" xml:lang="fra" resp="part:sybr part:emfr">
+      	<div type="translation" xml:lang="fra" resp="part:sybr">
       		
       		<p rend="stanza" n="1">
       			<l>Objet des plus chauds éloges auprès des gens de bien, solide et spacieuse,</l>
@@ -127,7 +147,7 @@
       	<div type="bibliography">
       		
             <p>
-First edited and translated by <bibl><ptr target="bib:Hultzsch1896-1897_06"/></bibl>, with a facsimile (EI 4, no. 19); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 24); text and translation in <bibl><ptr target="bib:Filliozat1984_01"/></bibl> and in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 20); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2004).
+First edited and translated by <bibl><ptr target="bib:Hultzsch1896-1897_06"/></bibl>, with a facsimile (EI 4, no. 19); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 24); text and translation in <bibl><ptr target="bib:Filliozat1984_01"/></bibl>, in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 20), <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR no. 24); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2004).
             </p>
 
             <listBibl type="primary">

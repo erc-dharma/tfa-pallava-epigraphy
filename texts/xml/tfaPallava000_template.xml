@@ -71,7 +71,18 @@
 	<text xml:space="preserve">
       <body>
 
-         <div type="edition" xml:lang="san-Latn"/>
+         <div type="edition" xml:lang="san-Latn">
+         	<l>Conventions</l>
+         	<l>(a) • unclear or illegible outside context</l>
+         	<l>[a] • lost/illegible and restored/supplied</l>
+         	<l>¿n? • unstandard</l>
+         	<l>¡a! • incorrect</l>
+         	<l> • standardised</l>
+         	<l> • surplus</l>
+         	<l>{a} • supplied/omitted</l>
+         	<l> • </l>
+         </div>
+      	
          <div type="edition" xml:lang="tam"/>
 <!--Replace ·•-->
          <div type="edition" xml:lang="tam-Latn">
