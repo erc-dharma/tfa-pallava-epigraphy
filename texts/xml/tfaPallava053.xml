@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Ādivarāha cave, list of <foreign>āvatara</foreign>s of Viṣṇu</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from the European Research
+						Council (ERC) under the European Union's Horizon 2020 research and
+						innovation programme (grant agreement no 809994).</note>
+				</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">tfaPallava053</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p><!-- not to be filled in at this stage --></p>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2020-06-28" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+      <body>
+
+         <div type="edition" xml:lang="san-Latn">
+         	
+         	<lg n="1" met="anuṣtubh">
+         		
+         		<l n="a" real="++++-++-">
+         			<lb n="1"/><supplied reason="lost">matsyaḥ kūrmo var</supplied><unclear>ā</unclear>ha<choice><sic>sy</sic><corr>ś c</corr></choice>a
+         		</l >
+         		<l n="b" real="+-++-+--">
+         			nāra<unclear reason="eccentric_ductus">s</unclear>iṃhaś ca vāmana<supplied reason="omitted">ḥ</supplied>
+         		</l>
+         		<l n="c" real="+++-++-">
+         			rāmo rāma<choice><sic>py</sic><corr>ś c</corr></choice>a rāma<choice><sic>sy</sic><corr>ś c</corr></choice>a
+         		</l>
+         		<l n="d" real="++++-+--">
+         			buddha<supplied reason="omitted">ḥ</supplied> kalkī ca te daśa {punctuation}<!--update: double daṇḍa joint-->
+         		</l><!--Punctuation inside <l>?-->
+         		            	            	
+            </lg>
+         	
+         </div>
+
+<div type="apparatus">
+
+	<listApp>
+
+		<app loc="1">
+			<lem><supplied reason="lost">matsyaḥ kūrmo var</supplied><unclear>ā</unclear>ha<choice><sic>sy</sic><corr>ś c</corr></choice>a</lem>
+			<note>We follow here the restoration suggested by <bibl><ptr target="bib:KrishnaSastri1926_01"/></bibl>.</note>
+		</app>	
+		
+		<app loc="1">
+			<lem>nāra<unclear reason="eccentric_ductus">s</unclear>iṃhaś</lem>
+			<rdg source="bib:KrishnaSastri1926_01">nārasiṃhaś</rdg>
+		</app>	
+		
+		<app loc="1">
+			<lem>rāma<choice><sic>py</sic><corr>ś c</corr></choice>a</lem>
+			<rdg source="bib:KrishnaSastri1926_01">rāma<choice><sic>sy</sic><corr>ś c</corr></choice>a</rdg>
+		</app>	
+		
+		<app loc="1">
+			<lem>{punctuation}</lem><!--update!-->
+			<rdg source="bib:KrishnaSastri1926_01">|||</rdg>
+			<note>We seem to a joint double <foreign>daṇḍa</foreign>.</note><!--update!-->
+		</app>
+		
+	</listApp>
+
+</div>
+
+      	<div type="translation" xml:lang="eng" resp="part:emfr">
+      		<!--TO BE ADDED-->
+      	</div>
+      	
+      	<div type="translation" xml:lang="fra" resp="part:sybr part:emfr">
+      		
+      		<p rend="stanza" n="1">
+      			<l>Le poisson, la tortue, et le sanglier,</l>
+      			<l>Et l’homme-lion, le nain,</l>
+      			<l>Rāma, et Rāma, et Rāma,</l>
+      			<l>Buddha, et Kalkin : tels sont les Dix.</l>
+      		</p>
+      		
+      	</div>
+      	
+      	<div type="commentary"><!--Update!-->
+      		<p>The three Rāmas are respectively Paraśurāma, Rāmacandra or Dāśaratha Rāma,  and Balarāma.</p>
+      		<p>This verse is also found in the Southern recension of the Mahābhārata. See <bibl>
+      				<ptr target="bib:Francis2014_02"/>
+      				<citedRange unit="page">216-218</citedRange>.
+      			</bibl>.</p>
+      		
+      	</div>
+      	
+      	<div type="bibliography">
+      		
+            <p>
+First edited and translated by <bibl><ptr target="bib:KrishnaSastri1926_01"/></bibl>, with a facsimile (EI 17, no. 5); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 53); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 69), <bibl><ptr target="bib:Francis2017_01"/></bibl> (IR no. 53); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on estampage published in <bibl><ptr target="bib:KrishnaSastri1926_01"/></bibl>.
+            </p>
+
+            <listBibl type="primary">
+
+            	<bibl n="HKS">
+            		<ptr target="bib:KrishnaSastri1926_01"/>            		
+            	</bibl>
+            	
+            	<bibl n="TVM">
+            		<ptr target="bib:Mahalingam1988_01"/>
+            		<citedRange unit="page">624</citedRange>
+            		<citedRange unit="item">250</citedRange>            		
+            	</bibl>            	
+            	<bibl n="SB">
+            		<ptr target="bib:Brocquet1997_01"/>
+            		<citedRange unit="page">777</citedRange>
+            		<citedRange unit="item">69</citedRange>            		
+            	</bibl>            	           	
+
+            </listBibl>
+      		
+      		<listBibl type="secondary">
+      			      			
+      			<bibl>
+            			<ptr target="bib:ARIE1922-1923_01"/>
+            			<citedRange unit="page">45, 94</citedRange>
+            			<citedRange unit="appendix">B/1922</citedRange>
+            			<citedRange unit="item">663</citedRange>      				
+            		</bibl>
+      			<bibl>
+      				<ptr target="bib:Srinivasan1964_01"/>
+      				<citedRange unit="page">173</citedRange>
+      			</bibl>
+      			<bibl>
+      				<ptr target="bib:Francis2013_01"/>
+      				<citedRange unit="page">285</citedRange>
+      			</bibl>
+      			
+      			<bibl>
+      				<ptr target="bib:Francis2014_02"/>
+      				<citedRange unit="page">216-218</citedRange>
+      			</bibl>
+      			
+      			<bibl>
+      				<ptr target="bib:Francis2017_01"/>
+      				<citedRange unit="page">538</citedRange>
+      			</bibl>
+      		</listBibl>
+      		
+         </div>
+
+      </body>
+  </text>
+</TEI>
