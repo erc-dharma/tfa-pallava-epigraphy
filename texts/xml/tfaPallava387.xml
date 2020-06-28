@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Kāñcīpuram, Maṅgalatīrtha steps</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from the European Research
+						Council (ERC) under the European Union's Horizon 2020 research and
+						innovation programme (grant agreement no 809994).</note>
+				</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">tfaPallava387</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>
+							The first half of a verse also found twice in Mahābalipuram (tfaPallava***, ***).
+						</summary> 
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p>
+								The delineation in <bibl>
+									<ptr target="bib:Lockwood+al2001_01"/>
+									<citedRange unit="page">288</citedRange>
+								</bibl> shows a well executed and almost ornate Grantha.
+							</p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>		</fileDesc>
+		
+		<revisionDesc>
+			<change who="part:emfr" when="2020-06-28" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+		<body>
+			
+			<div type="edition" xml:lang="san-Latn">
+				
+				<!--<note type="credit">
+					Text after <bibl>
+					<ptr target="bib:Lockwood+al2001_01"/>
+					<citedRange unit="page">288</citedRange>
+				</bibl>
+				</note>-->
+				
+				<lg met="anuṣṭubh">
+					<l n="a">
+						sambhava-sthiti-saṃhāra-<!--update hyphen-->
+						
+					</l>
+					<l n="b">
+						kāraṇam vīta-kāraṇaḥ
+					</l>
+				</lg>
+			</div>
+			
+			<div type="apparatus">
+			</div>
+			
+			<div type="translation" xml:lang="eng" resp="part:emfr">
+				
+				<p>
+					The cause of ...
+				</p>
+			</div>
+			
+			<div type="translation" xml:lang="fra" resp="part:sybr">
+				
+				<p>
+					Lui qui est cause des naissances, des existences et de leur destruction, mais n’a lui-même nulle cause
+				</p>
+			</div>
+			
+			<div type="commentary">
+				
+			</div>
+			
+			<div type="bibliography">
+				
+				<p>
+					<!--First reported in the Indian Express (Madras edition) 28.07.1988; edited in <bibl>
+						<ptr target="bib:Lockwood+al2001_01"/>
+						<citedRange unit="page">288</citedRange>
+					</bibl>. This edition encoded for DHARMA by Emmanuel Francis (2020).-->
+				</p>
+				
+				<listBibl type="primary">
+					
+					<bibl>
+						<ptr target="bib:Lockwood+al2001_01"/>
+						<citedRange unit="page">288</citedRange>
+					</bibl>	
+					
+				</listBibl>
+				
+				<listBibl type="secondary">
+					<bibl>
+						<ptr target="bib:Francis2013_01"/>
+					</bibl>			
+				</listBibl>
+				
+			</div>
+			
+		</body>
+	</text>
+</TEI>
