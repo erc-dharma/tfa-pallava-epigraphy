@@ -93,14 +93,16 @@
          <div type="bibliography">
 
          	<p>
-First recorded in <bibl>
-         			<ptr target="bib:IAR1957-1958"/><!--check value! Impedes transfo-->
-         			<citedRange unit="page">56</citedRange>
-         			<citedRange unit="plate">19</citedRange>
-         		</bibl>; text and translation in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 316); digitally edited here by Emmanuel Francis (2020).
+First recorded in <bibl><!--<ptr target="bib:IAR1957-1958"/>--><!--check value! Impedes transfo--></bibl>; text and translation in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 316); digitally edited here by Emmanuel Francis (2020).
          	</p>
          	         	
          	<listBibl type="primary">   
+         		
+         		<bibl>
+         			<ptr target="bib:IAR1957-1958"/>
+         			<citedRange unit="page">56</citedRange>
+         			<citedRange unit="plate">19</citedRange>
+         		</bibl> 
          		
          		<bibl n="TVM">
          			<ptr target="bib:Mahalingam1988_01"/>
@@ -110,18 +112,19 @@ First recorded in <bibl>
          		         		
          	</listBibl>
 
-         	<listBibl type="secondary">
-         		
-         		<bibl>
-         			<ptr target="bib:IAR1957-1958"/><!--check value! Impedes transfo-->
-         			<citedRange unit="page">56</citedRange>
-         			<citedRange unit="plate">19</citedRange>
-         		</bibl>   
+         	<listBibl type="secondary">         		    		
          		
          		<bibl>
          			<ptr target="bib:Srinivasan1975_01"/>
          			<citedRange unit="plate">89</citedRange>
          		</bibl>    
+         		
+         		<bibl>
+         			<ptr target="bib:Francis2013_01"/>
+         			<citedRange unit="page">289</citedRange>
+         			<citedRange unit="item">IR 64</citedRange>
+         		</bibl>    
+         		         	
          		         		
          	</listBibl>
 
