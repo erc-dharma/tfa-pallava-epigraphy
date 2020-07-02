@@ -89,6 +89,7 @@
       	
          <div type="commentary">
          	<p>This fragment could, with another fragment (IP 358<!--update cross-ref!-->), be part of a single inscription.</p>
+         	<p>IP, p. xc = probably an epithet of Mahendravarman I.</p><!--update!-->
          </div>
          	
          <div type="bibliography">
@@ -108,7 +109,7 @@ First recorded in <ptr target="bib:ARIE1939-1943"/>; text in <bibl><ptr target="
         		          		
          		<bibl n="TVM">
          			<ptr target="bib:Mahalingam1988_01"/>
-         			<citedRange unit="page">713</citedRange>
+         			<citedRange unit="page">xc, 713</citedRange>
          			<citedRange unit="item">314</citedRange>
          		</bibl>
          		         		
