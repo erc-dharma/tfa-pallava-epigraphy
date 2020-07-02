@@ -41,7 +41,21 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>A list of 4 <foreign>biruda</foreign>s on a capital stone found lying around the Shore temple.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p>There are two scripts used. The honorific <foreign>śrī</foreign> is written in Siddhamātṛkā, while the rest of the inscription is in Grantha. The double <foreign>daṇḍa</foreign> is of the type where both <foreign>daṇḍa</foreign>s are joined.</p>
+							<p>A rapprocher des biruda des chapelles du Kailāsanātha.</p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -53,7 +67,7 @@
 
       	<div type="edition" xml:lang="san-Latn">      		
       		<p>
-      			<lb n="1"/>śrī-rājasiṃhaḥ {punctuation=double daṇḍa joined}<!--update--> śrī-kṣatrasiṃhaḥ {punctuation=double daṇḍa joined}<!--update--> śrī-na<space type="defect" quantity="3" unit="character"/>rendrasiṃhaḥ {punctuation=double daṇḍa joined}<!--update--> śrī-maheśvara- <space type="defect"/> cūḷāmaṇiḥ
+      			<lb n="1"/>śrī-rāja-siṃhaḥ || śrī-kṣatra-siṃhaḥ || śrī-na<space type="defect" quantity="3" unit="character"/>rendra-siṃhaḥ || śrī-maheśvara- <space type="defect"/> cūḷāmaṇiḥ
       		</p>	
       	</div>
 
@@ -62,9 +76,15 @@
       		<listApp>
       			
       			<app loc="1">
-      				<lem>śrī-maheśvara <space type="defect"/> cūḷāmaṇiḥ</lem>
-      				<rdg source="bib:Lockwood+al2001_01">śrī-maheśvara<supplied reason="undefined">candra</supplied>cūḷāmaṇiḥ</rdg><!--check value @reason in Lockwood-->
-      				<note>This restoration <foreign>candra</foreign> for the blank space does not appear justified, the more so as another blank space interrupts another <foreign>biruda</foreign>. In both cases, a surface defect seems the best explanation for the spaces left blank.</note>
+      				<lem>śrī-na<space type="defect" quantity="3" unit="character"/>rendrasiṃhaḥ</lem>
+      				<rdg source="bib:Lockwood+al2001_01">śrī-narendrasiṃhaḥ</rdg><!--check value @reason in Lockwood-->
+      				<note>The surface defect seems the best explanation for the space left blank. The image in Lockwood (p. 265) is misleading.</note>
+      			</app>
+      			
+      			<app loc="1">
+      				<lem>śrī-maheśvara- <space type="defect"/> cūḷāmaṇiḥ</lem>
+      				<rdg source="bib:Lockwood+al2001_01">śrī-maheśvara- <space/> cūḷāmaṇiḥ</rdg>
+      				<note>The surface defect seems again the best explanation for the space left blank. The restoration <foreign>candra</foreign> suggested by Lockwood is unwarranted, the more so as another blank space interrupts another <foreign>biruda</foreign>.</note>
       			</app>    
       			
       		</listApp>
@@ -73,27 +93,38 @@
 
       	<div type="translation" xml:lang="eng" resp="part:emfr">
       		
-      		<p></p>
+      		<p>The glorious lion among kings.</p>
+      		<p>The glorious lion of the warrior order <supplied reason="explanation"><foreign>kṣatra</foreign></supplied>.</p>
+      		<p>The glorious lion among kings.</p>
+      		<p>The glorious one whose diadem is Maheśvara <supplied reason="explanation">Śiva</supplied>.</p>
       	
       	</div>
       	
-      	<div type="translation" xml:lang="fra" resp="part:sybr">
-      		<p></p>
+      	<div type="translation" xml:lang="fra" resp="part:emfr">
+      		<p>Le glorieux lion d'entre les rois.</p>
+      		<p>Le glorieux lion de la classe guerrière <supplied reason="explanation"><foreign>kṣatra</foreign></supplied>.</p>
+      		<p>Le glorieux lion d'entre les rois.</p>
+      		<p>Le glorieux dont le diadème est Maheśvara <supplied reason="explanation">Śiva</supplied>.</p>
       	</div>
       	
       	<div type="commentary">
-      		<p>Note on <foreign>śrī</foreign> in Siddhamātṛkā, while the rest is in Grantha.</p>
+      		<p>Le premier biruda est bien connu et appartient à Narasiṃhavarman II. Le deuxième apparaît dans IR 40 (ci-dessus) et IR 45 (pilier à Vāyalūr), et le troisième dans IR 39 et IR 40 (ci-dessus), IR 45 (pilier à Vāyalūr), toutes inscriptions attribuées à Narasiṃhavarman II. Le quatrième était un hapax au moment de la découverte de cette inscription [Voir IR 68 (ci-dessous) pour une seconde occurrence]. Il est similaire à d’autres biruda de Narasiṃhavarman II (śivacūḷāmaṇi, candrārdhaśekharaśikhāmaṇi, maheśvaraśikhāmaṇi).</p>
       	</div>
       	
          <div type="bibliography">
 
          	<p>
-First reported in <!--<bibl>
+First reported in <bibl>
          			<ptr target="bib:ARIE1993-1994"/>
          			<citedRange unit="page">3, 40</citedRange>
          			<citedRange unit="appendix">B/1993-1994</citedRange>
          			<citedRange unit="item">217</citedRange>
-         		</bibl>--><!--impedes transfo-->; reported again; re-edited here by Emmanuel Francis (2020), from autopsy and photos (2004).
+         		</bibl>; reported again in <bibl n="ARIE1995-1996">
+         			<ptr target="bib:ARIE1995-1996"/>
+         			<citedRange unit="page">5, 37</citedRange>
+         			<citedRange unit="appendix">B/1995-1996</citedRange>
+         			<citedRange unit="item">32</citedRange>
+         		</bibl>; re-edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), from autopsy and photos (2004).
          	</p>
          	
          	<listBibl type="primary">   
@@ -116,9 +147,13 @@ First reported in <!--<bibl>
 
          	<listBibl type="secondary">         		
          		
-         		<bibl>
+         		<bibl n="ML+al"><!--undisplayed!-->
+         			<ptr target="bib:Lockwood+VishnuBhat1999_01"/>
+         		</bibl>
+         		
+         		<bibl n="ML"><!--undisplayed!-->
          			<ptr target="bib:Lockwood+al2001_01"/>
-         			<citedRange unit="page">263</citedRange>
+         			<citedRange unit="page">263-265</citedRange>
          		</bibl>
          		
          		<bibl>
