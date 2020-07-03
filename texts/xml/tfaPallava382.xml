@@ -47,12 +47,16 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>A list of 4 <foreign>biruda</foreign>s on a capital stone found lying around the Shore temple.</summary>
+						<summary>A list of 4 <foreign>biruda</foreign>s on a capital stone found
+							lying around the Shore temple.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>There are two scripts used. The honorific <foreign>śrī</foreign> is written in Siddhamātṛkā, while the rest of the inscription is in Grantha. The double <foreign>daṇḍa</foreign> is of the type where both <foreign>daṇḍa</foreign>s are joined.</p>
-							<p>A rapprocher des biruda des chapelles du Kailāsanātha.</p>
+							<p>This is a biscript inscription. The honorific <foreign>śrī</foreign> is
+								written in Siddhamātṛkā, while the rest of the inscription is in
+								Grantha. The double <foreign>daṇḍa</foreign> is of the type where
+								both <foreign>daṇḍa</foreign>s are joined.</p>
+							
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -78,7 +82,7 @@
       			<app loc="1">
       				<lem>śrī-na<space type="defect" quantity="3" unit="character"/>rendrasiṃhaḥ</lem>
       				<rdg source="bib:Lockwood+al2001_01">śrī-narendrasiṃhaḥ</rdg><!--check value @reason in Lockwood-->
-      				<note>The surface defect seems the best explanation for the space left blank. The image in Lockwood (p. 265) is misleading.</note>
+      				<note>The surface defect seems the best explanation for the space left blank. The image in Lockwood (p. 265) is misleading as it does not represent the blank space between <foreign>na</foreign> and <foreign>re</foreign>.</note>
       			</app>
       			
       			<app loc="1">
@@ -108,7 +112,9 @@
       	</div>
       	
       	<div type="commentary">
-      		<p>Le premier biruda est bien connu et appartient à Narasiṃhavarman II. Le deuxième apparaît dans IR 40 (ci-dessus) et IR 45 (pilier à Vāyalūr), et le troisième dans IR 39 et IR 40 (ci-dessus), IR 45 (pilier à Vāyalūr), toutes inscriptions attribuées à Narasiṃhavarman II. Le quatrième était un hapax au moment de la découverte de cette inscription [Voir IR 68 (ci-dessous) pour une seconde occurrence]. Il est similaire à d’autres biruda de Narasiṃhavarman II (śivacūḷāmaṇi, candrārdhaśekharaśikhāmaṇi, maheśvaraśikhāmaṇi).</p>
+      		
+      		<p>Rājasiṃha is the favourite <foreign>biruda</foreign> of Narasiṃhavarman II Pallava. The three other <foreign>biruda</foreign>s are attested in other inscriptions: Kṣatrasiṃha (tfaPallava068 and tfaPallava380<!--update!-->), Narendrasiṃha (tfaPallava060, tfaPallava068, and tfaPallava380<!--update!-->), Maheśvaracūḷāmaṇi (tfaPallava064)<!--check!-->.</p> 
+      		<p>Other birudas of of Narasiṃhavarman II Pallava are synonymous with Maheśvaracūḷāmaṇi: Śivacūḷāmaṇi, Candrārdhaśekharaśikhāmaṇi, and Maheśvaraśikhāmaṇi.</p>
       	</div>
       	
          <div type="bibliography">
