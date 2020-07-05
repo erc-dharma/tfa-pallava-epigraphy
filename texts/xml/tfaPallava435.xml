@@ -131,12 +131,12 @@ First edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 11, no. 2); t
             	</bibl>
             	
             	<bibl n="ARIE">
-        			<ptr target="bib:ARIE2000-2001"/>
-        			<citedRange unit="page">4, 94</citedRange>
-        			<citedRange unit="appendix">B/2000-2001/461</citedRange>
-        			<citedRange unit="item">50</citedRange>
+            		<ptr target="bib:ARIE2000-2001"/>
+            		<citedRange unit="page">4, 94</citedRange>
+            		<citedRange unit="appendix">B/2000-2001</citedRange>
+            		<citedRange unit="item">461</citedRange>
             		<citedRange unit="plate">IV</citedRange>
-        		</bibl>            	
+            	</bibl>            	
             	
             </listBibl>
 
