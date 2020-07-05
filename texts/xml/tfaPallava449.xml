@@ -48,12 +48,12 @@
 					</msIdentifier>
 					<msContents>
 						<summary>
-							Foundation of a temple for Siṃhanandi Bhaṭṭāra by Ciṟiya-naṅkaiyār in the name of Vīra-t-toḻilar.
+							Foundation of a temple for Siṃhanandi Bhaṭṭāra by Ciṟiyanaṅkaiyār in the name of Vīrattoḻilar.
 						</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>
+							<p>Lay-out with rules.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -67,14 +67,24 @@
       <body>
 
       	<div type="edition" xml:lang="tam-Latn">
+      		
       		<p>
-<lb n="1"/><hi rend="grantha">svasti śrī</hi> kō-vicaiya-<hi rend="grantha">nṛpa</hi>tuṅk<choice><sic>u</sic><corr>a</corr></choice>
-<lb n="2" break="no"/>ṟku yāṇṭu pattoṉpat-āvatu pe
-<lb n="3" break="no"/>riya-peṇṇākaṭattu <hi rend="grantha">siṃha</hi>-nan=ti-<unclear reason="eccentric_ductus">pa</unclear>ṭārar		
-<lb n="4" break="no"/>kku paṅkala-nāṭ-uṭaiyār koṭukkar vīra-t
-<lb n="5" break="no"/>toḻilar pērāṟ paṅkaḷa-nāṭ-uṭaiyār-<unclear reason="eccentric_ductus">c= cū</unclear>
-<lb n="6" break="no"/>ḷ<unclear reason="eccentric_ductus">ai</unclear>kaḷ ciṟiya-naṅk<choice><sic>e</sic><corr>ai</corr></choice>yār ceyvitta <hi rend="grantha">śrī</hi>-kōyil
+      			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
       		</p>
+      		
+      		<p>
+      			kō-vicaiya-<hi rend="grantha">nṛpa</hi>tuṅk<choice><sic>u</sic><corr>a</corr></choice>
+      			<lb n="2" break="no"/>ṟku yāṇṭu pattoṉpat-āvatu
+      		</p>
+      		
+      		<p>
+      			pe
+      			<lb n="3" break="no"/>riya-peṇṇākaṭattu <hi rend="grantha">siṃha</hi>-nan=ti-<unclear reason="eccentric_ductus">pa</unclear>ṭārar		
+      			<lb n="4" break="no"/>kku paṅkala-nāṭ-uṭaiyār koṭukkar vīra-t
+      			<lb n="5" break="no"/>toḻilar pērāṟ paṅkaḷa-nāṭ-uṭaiyār-<unclear reason="eccentric_ductus">c= cū</unclear>
+      			<lb n="6" break="no"/>ḷ<unclear reason="eccentric_ductus">ai</unclear>kaḷ ciṟiya-naṅk<choice><sic>e</sic><corr>ai</corr></choice>yār ceyvitta <hi rend="grantha">śrī</hi>-kōyil
+      		</p>
+      		
       	</div>
 
          <div type="apparatus">
@@ -93,13 +103,13 @@
          		
          		<app loc="3">
          			<lem>koṭukkar</lem>
-         			<rdg source="bib:Dayalan2005-01">kuṭukkar</rdg>
+         			<rdg source="bib:Dayalan2005_01">kuṭukkar</rdg>
          		</app>
          		
          		<app loc="5">
          			<lem>uṭaiyār-<unclear reason="eccentric_ductus">c= cū</unclear>ḷ<unclear reason="eccentric_ductus">ai</unclear>kaḷ</lem>
          			<rdg source="bib:Avanam">-uṭaiyār-t ta<unclear>ḷa</unclear>kaḷ</rdg><!--Check for Avanam!-->
-         			<rdg source="bib:Dayalan2005-01">-uṭaiyār-t taḷakaḷ</rdg>
+         			<rdg source="bib:Dayalan2005_01">-uṭaiyār-t taḷakaḷ</rdg>
          			<note></note><!--Update!-->
          		</app>
          	
@@ -115,7 +125,7 @@
          	
          	<p>Prosperity! Fortune!</p>
          	<p>Nineteenth year of the victorious king Nṛpatuṅga.</p>
-         	<p>The glorious temple that Ciṟiya-naṅkaiyār, courtesan <supplied reason="explanation">cūḷai-kaḷ</supplied> of the lord <supplied reason="explanation">uṭaiyār</supplied> of Paṇkala-nāṭu has caused to be made for Siṃhanandi Bhaṭṭāra of the great Peṇṇākaṭam in the name of <supplied reason="explanation">pēr-āl</supplied> of Vīra-t-toḻilar <supplied reason="explanation">"the doer of heroic deeds"</supplied>, son <supplied reason="explanation">koṭukkar</supplied> of the lord of Paṇkala-nāṭu.</p>
+         	<p>The glorious temple that Ciṟiya-naṅkaiyār, courtesan <supplied reason="explanation"><foreign>cūḷai-kaḷ</foreign></supplied> of the lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied> of Paṇkala-nāṭu has caused to be made for Siṃhanandi Bhaṭṭāra of the great Peṇṇākaṭam in the name of <supplied reason="explanation"><foreign>pēr-āl</foreign></supplied> of Vīra-t-toḻilar <supplied reason="explanation">"the doer of heroic deeds"</supplied>, son <supplied reason="explanation"><foreign>koṭukkar</foreign></supplied> of the lord of Paṇkala-nāṭu.</p>
 
          </div>
       	
@@ -126,31 +136,34 @@
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Avanam"/></bibl> with facsimile.
-Edited in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>
-This edition by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:Avanam"/></bibl>
-First English <!--and French--> translation.
+First edited in <bibl><ptr target="bib:Avanam"/></bibl> with facsimile (Āvaṇam 7, no. 5); text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; re-edited here and translated for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on the estampage published in <bibl><ptr target="bib:ARIE1996-1997"/></bibl>.
             </p>
 
             <listBibl type="primary">
             	
-            	<bibl>
-            		<ptr target="bib:Avanam"/><!--Check!-->
+            	<bibl n="Āvaṇam">
+            		<ptr target="bib:Avanam"/><!--Check/Update!-->
             		<citedRange>7 (July 1996): 5</citedRange>
             	</bibl>
-            	<bibl>
+            	<bibl n="DD">
             		<ptr target="bib:Dayalan2005_01"/>
             		<citedRange unit="volume">3</citedRange>
             		<citedRange unit="appendix">I</citedRange>
-            		<citedRange unit="item">69</citedRange>
             		<citedRange unit="page">1306</citedRange>
+            		<citedRange unit="item">69</citedRange>            		
             	</bibl>
             	
             </listBibl>
 
             <listBibl type="secondary">
             	
-            	<bibl>ARIE 1996-97, p. 3-4; ARIE 1996-97/B/79 + FS.</bibl> <!--update!-->
+            	<bibl n="ARIE">
+        			<ptr target="bib:ARIE1996-1997"/>
+        			<citedRange unit="page">3-4, 42</citedRange>
+        			<citedRange unit="appendix">B/1996-1997</citedRange>
+        			<citedRange unit="item">79</citedRange>
+            		<citedRange unit="plate">III</citedRange>
+        		</bibl>                     	
             	
            </listBibl>
 
