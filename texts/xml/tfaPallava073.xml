@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruveḷḷaṟai, Puṇḍarikākṣaperumāḷ pillar, time of Nandivarman, year 10</title>
+				<title>Tiruveḷḷaṟai, Puṇḍarikākṣaperumāḷ, pillar, time of Nandivarman, year 10</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -55,7 +55,7 @@
       		
       		<p>
 <lb n="1"/><hi rend="grantha">svasti śrī</hi> na<hi rend="grantha">n=di-parmma</hi><choice><orig>k</orig><reg>rk</reg></choice>ku yā<unclear>ṇṭu</unclear>
-<lb n="2"/><num value="10"><g type="numeral">10</g></num> %<!--update!--> pallava-kula-tilaka <gap reason="lost" quantity="4" unit="character" precision="low"/>
+<lb n="2"/><num value="10"><g type="numeral">10</g></num> ÷ pallava-kula-tilaka <gap reason="lost" quantity="4" unit="character" precision="low"/>
 <lb n="3" break="no"/>na<hi rend="grantha">n=dipanm</hi>a<choice><orig>ṟ</orig><reg>r</reg></choice>kku <gap reason="lost" quantity="5" unit="character" precision="low"/> <supplied reason="lost">ā</supplied>
 <lb n="4" break="no"/><hi rend="grantha"><unclear>di</unclear></hi>t=ta-ku<hi rend="grantha">la-ke</hi>tana <gap reason="lost" quantity="7" unit="character" precision="low"/> 
 <lb n="5"/> vic<choice><orig>a</orig><reg>ai</reg></choice>ya-nalluḻā <gap reason="lost" quantity="7" unit="character" precision="low"/>
@@ -69,7 +69,12 @@
 
       	<div type="apparatus">
       		
-      		
+      		<listApp>
+         		<app loc="2">
+         			<lem><num value="10"><g type="numeral">10</g></num> ÷</lem>
+         			<note>It is unclear what the symbol "÷" represents in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>.</note>
+         		</app>
+         	</listApp>
       			      		
       	</div>
       	
@@ -84,15 +89,15 @@
 <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, no. 32); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 73); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on photos (2011).
+First edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, no. 32); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 73); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020). The available visual documentation does not enable to check <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>.
             </p>
 
 	<listBibl type="primary">
 		
 		<bibl n="VVA">
 			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
-			<citedRange unit="page">14</citedRange><!--check!-->
-			<citedRange unit="item">32</citedRange><!--check!-->
+			<citedRange unit="page">14</citedRange>
+			<citedRange unit="item">32</citedRange>
 		</bibl>
 				
 		<bibl n="TVM">
