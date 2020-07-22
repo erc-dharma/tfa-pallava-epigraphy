@@ -47,12 +47,14 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>A verse list of the ten <foreign>avatāra</foreign>s, which interestingly includes Buddha, but not Kṛṣṇa.</summary> 
+						<summary>A verse list of the ten <foreign>avatāra</foreign>s, which
+							interestingly includes Buddha, but not Kṛṣṇa.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>The Grantha script is not well mastered. See <foreign>p</foreign> and <foreign>s</foreign> confusion.</p>
-							</handDesc>
+							<p>The Grantha script is not well mastered. See <foreign>p</foreign> and
+									<foreign>s</foreign> confusion.</p>
+						</handDesc>
 					</physDesc>
 				</msDesc>
 			</sourceDesc>
@@ -79,7 +81,7 @@
          		
          		<l n="a" real="++++-++-">
          			<lb n="1"/><supplied reason="lost">matsyaḥ kūrmo var</supplied><unclear>ā</unclear>ha<choice><sic>sy</sic><corr>ś c</corr></choice>a
-         		</l >
+         		</l>
          		<l n="b" real="+-++-+--">
          			nāra<unclear reason="eccentric_ductus">s</unclear>iṃhaś ca vāmana<supplied reason="omitted">ḥ</supplied>
          		</l>
@@ -198,7 +200,7 @@ First edited and translated by <bibl><ptr target="bib:KrishnaSastri1926_01"/></b
       			<bibl>
       				<ptr target="bib:Hazra1940_01"/>
       				<citedRange unit="page">84</citedRange>
-      				<note>Summary: Note que la strophe est quasi identique à Mbh XII.348.2 (Kumbhakoṇam ed. mais pas dans les éd. ASB, Bombay et Vaṅga) : matsyaḥ kūrmo varāhaś ca narasiṃho ’tha vāmanaḥ | rāmo rāmaś ca rāmaś ca buddhaḥ kalkīti te daśa ||. </note>
+      				<note>Summary: Note que la strophe est quasi identique à Mbh XII.348.2 (Kumbhakoṇam ed. mais pas dans les éd. ASB, Bombay et Vaṅga) : matsyaḥ kūrmo varāhaś ca narasiṃho ’tha vāmanaḥ | rāmo rāmaś ca rāmaś ca buddhaḥ kalkīti te daśa ||. </note><!--remonter en commentary-->
       			</bibl>
       			
       			<bibl>
