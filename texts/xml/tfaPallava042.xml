@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Tirukkaḻukkuṉṟam, Orukal Maṇḍapa pillar</title>
+				<title>Tirukkaḻukkuṉṟam, Orukal Maṇḍapa pillar, time of Narasiṃhavarman I</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -41,7 +41,23 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<!--implement display [italics] of <foreign> in <sourceDesc>-->
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Donation of land by Naraciṅkapōttaracar, the conqueror of Vātāpi,
+							to the Perumāṉaṭikaḷ of the <foreign>mūlasthāna</foreign> at
+							Tirukkaḵukkuṉṟam.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p>Reduplication of <foreign>ḷ</foreign> at morpheme's boundary.</p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -53,17 +69,22 @@
 
       	<div type="edition" xml:lang="tam-Latn">
       		
-      		<p>
-<lb n="1"/><hi rend="grantha">śrī<surplus>rī</surplus></hi> tiru-k-kaḻu-k<unclear>u</unclear>ṉṟa<unclear>ttu</unclear> pe<unclear>rumāṉ</unclear>
-<lb n="2" break="no"/><unclear>ṉ-aṭ</unclear>ika<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>u<unclear>k</unclear>ku kaḷa<unclear>ttū</unclear>r-kōṭṭa<unclear>t</unclear>
-<lb n="3" break="no"/><unclear>tu</unclear><gap reason="illegible"/> <unclear>tiru-k-kaḻu-k-ku</unclear>ṉṟa
+<p>
+	<lb n="1"/><hi rend="grantha">śrī<surplus>rī</surplus></hi>
+</p>
+<p>
+	tiru-k-kaḻu-k<unclear>u</unclear>ṉṟa<unclear>ttu</unclear> pe<unclear>rumāṉ</unclear>
+<lb n="2" break="no"/><unclear>ṉ-aṭ</unclear>ika<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>u<unclear>k</unclear>ku</p>
+<p>
+	kaḷa<unclear>ttū</unclear>r-kōṭṭa<unclear>t</unclear>
+<lb n="3" break="no"/><unclear>tu</unclear> <gap reason="illegible"/> <unclear>tiru-k-kaḻu-k-ku</unclear>ṉṟa
 <lb n="4" break="no" style="text-align: right"/><unclear>ttu</unclear> <hi rend="grantha">śrī</hi>-ma<unclear>lai</unclear> mēl 
 <lb n="5"/>mūla-tāṉattu perumāṉ
 <lb n="6" break="no"/>n-aṭika<choice><orig><unclear>ḷ</unclear>ḷ</orig><reg>ḷ</reg></choice>ukku valipāṭṭu-p <unclear>pu</unclear>ṟam-<unclear>ā</unclear>
 <lb n="7" break="no"/>ka vāt<unclear>ā</unclear>pi koṇṭa naraciṅka-p
 <lb n="8" break="no"/>-pōtta<supplied reason="omitted">ra</supplied><unclear>car</unclear> vay<supplied reason="omitted">t</supplied>tatu
-      		</p>
-      		
+</p>
+      		      		
       	</div>
 
       	<div type="apparatus">
@@ -76,8 +97,8 @@
       		<app loc="5">
       			<lem>mūla-tāṉattu</lem>
       			<rdg source="bib:ARIE1932-1933"><unclear>mū</unclear>la-tāṉattu</rdg>
-      			<note>
-      				<bibl>
+      			<note>The ARIE
+      				<bibl rend="omitname"><!--display: possible to omit date also-->
 			<ptr target="bib:ARIE1932-1933"/>
 			<citedRange unit="page">55</citedRange>
 			<citedRange unit="note">2</citedRange>
@@ -88,11 +109,11 @@
       		
       		<app loc="8">
       			<lem>pōtta<supplied reason="omitted">ra</supplied><unclear>car</unclear></lem>      			
-      			<note>
-      				<bibl>
+      			<note>The ARIE
+      				<bibl rend="omitname"><!--display: possible to omit date also-->
 			<ptr target="bib:ARIE1932-1933"/>
 			<citedRange unit="page">55</citedRange>
-			<citedRange unit="note">2</citedRange>
+			<citedRange unit="note">3</citedRange>
       				</bibl>
       				notes that the final character <foreign>r</foreign> looks like the character <foreign>ḻ</foreign>.
       			</note>
@@ -100,8 +121,10 @@
       		    				      		
       	</div>
       	
-      	<div type="translation" xml:lang="eng" resp="part:emfr">    
-      		
+      	<div type="translation" xml:lang="eng" resp="part:emfr">
+      		<p n="1">Fortune!</p>
+      		<p n="1-2">To the glorious Perumāṉaṭikaḷ of Tirukkaḻukkuṉṟam.</p>
+      		<p n="2-8">That which Naraciṅkapōttaracar, the conqueror of Vātāpi, gave, as tax-free land <supplied reason="explanation"><foreign>puṟam</foreign></supplied> for the purpose of worship <supplied reason="explanation"><foreign>vaḻipāṭu</foreign></supplied>, to the Perumāṉaṭikaḷ of the <foreign>mūlasthāna</foreign> at Tirukkaḵukkuṉṟam on the glorious hill of Tirukkaḻukkuṉṟam <gap reason="illegible"/> in the Kaḷattūrkōṭṭam.</p> 
       	</div>
       	
 <div type="commentary">	
@@ -132,7 +155,7 @@ First edited in <bibl><ptr target="bib:ARIE1932-1933"/></bibl>; text and summary
 	
 	<listBibl type="secondary">
 		
-		<bibl>
+		<bibl n="ARIE 1908-1909">
 			<ptr target="bib:ARIE1908-1909"/>
 			<citedRange unit="page">65</citedRange>
 			<citedRange unit="appendix">B/1909</citedRange>
