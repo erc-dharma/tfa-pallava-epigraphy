@@ -89,7 +89,8 @@
 
       	<div type="apparatus">
       		
-      		<app loc="1">
+      		<listApp>
+      			<app loc="1">
       			<lem>tiru-k-kaḻu-k<unclear>u</unclear>ṉṟa<unclear>ttu</unclear></lem>
       			<rdg source="bib:ARIE1932-1933">tiru-k-kaḻu-k-<supplied reason="omitted">kuṉ</supplied>ṟa<unclear>ttu</unclear></rdg>
       		</app>
@@ -118,6 +119,7 @@
       				notes that the final character <foreign>r</foreign> looks like the character <foreign>ḻ</foreign>.
       			</note>
       		</app>
+      		</listApp>
       		    				      		
       	</div>
       	
@@ -158,7 +160,7 @@ First edited in <bibl><ptr target="bib:ARIE1932-1933"/></bibl>; text and summary
 		<bibl n="ARIE 1908-1909">
 			<ptr target="bib:ARIE1908-1909"/>
 			<citedRange unit="page">65</citedRange>
-			<citedRange unit="appendix">B/1909</citedRange>
+			<citedRange unit="appendix">C/1909</citedRange>
 			<citedRange unit="item">65</citedRange>
 		</bibl>
 		
