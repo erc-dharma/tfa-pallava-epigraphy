@@ -51,7 +51,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>Puḷḷi.</p>
+							<p>The <foreign>puḷḷi</foreign> is used.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -89,7 +89,7 @@
       		</p>      		      		
       	</div>
 
-      	<div type="apparatus"><!--Add IP, TASSI variant readings-->
+      	<div type="apparatus">
       		
       		<listApp>
       			
@@ -97,39 +97,48 @@
       				<lem>pey<surplus>ī</surplus>yūr-</lem>
       				<rdg source="bib:Butterworth+VenugopaulChetty1905_01">peyyūr-</rdg>
       				<rdg source="bib:Mahalingam1960_03">pey<surplus>i</surplus>yūr-</rdg>
+      				<rdg source="bib:Mahalingam1988_01">peyyūr</rdg>
+      			</app>
+      			
+      			<app loc="3">
+      				<lem>tiruvāṉ·pūr</lem>
+      				<rdg source="bib:Butterworth+VenugopaulChetty1905_01">tiruvāṉpūr</rdg>
+      				<rdg source="bib:Mahalingam1988_01">tiruvāṉ<choice><sic>p</sic><corr>m</corr></choice>ūr</rdg>
       			</app>
       			
       			<app loc="3">
       				<lem>subrahmaṇya<unclear>ṉ</unclear></lem>
-      				<rdg source="bib:Butterworth+VenugopaulChetty1905_01 Mahalingam1960_03">subrahmaṇya<unclear>n</unclear></rdg>
+      				<rdg source="bib:Butterworth+VenugopaulChetty1905_01 Mahalingam1960_03 Mahalingam1988_01">subrahmaṇya<unclear>n</unclear></rdg>
       			</app>
       			
       			<app loc="4">
       				<lem>poṉ</lem>
       				<rdg source="bib:Butterworth+VenugopaulChetty1905_01 Mahalingam1960_03">pon</rdg>
+      				<rdg source="bib:Mahalingam1988_01">pon</rdg>
       			</app>
       			
       			<app loc="4">
       				<lem><unclear>-ka</unclear><lb n="5" break="no"/><unclear>ḻa</unclear>ñ<unclear>c</unclear>i<unclear>ṉ-u</unclear>ḷḷum</lem>
       				<rdg source="bib:Butterworth+VenugopaulChetty1905_01"><unclear>-ka</unclear><lb n="5" break="no"/>ḻañci <unclear>ko</unclear>ḷḷum</rdg>
-      				<rdg source="bib:Mahalingam1960_03"><unclear>-ka</unclear><lb n="5" break="no"/>ḻañci<unclear>ṉ-u</unclear>ḷḷum</rdg>
+      				<rdg source="bib:Mahalingam1960_03 Mahalingam1988_01"><unclear>-ka</unclear><lb n="5" break="no"/>ḻañci<unclear>ṉ-u</unclear>ḷḷum</rdg>
       			</app>
       			
       			<app loc="5">
       				<lem>aṭ<unclear>ṭuvitta-k</unclear></lem>
-      				<rdg source="bib:Butterworth+VenugopaulChetty1905_01 Mahalingam1960_03">aṭ<unclear>ṭuvitta</unclear></rdg>
+      				<rdg source="bib:Butterworth+VenugopaulChetty1905_01 Mahalingam1960_03 Mahalingam1988_01">aṭ<unclear>ṭuvitta</unclear></rdg>
       			</app>
       			
       			<app loc="6">
       				<lem>viḷak·k-<supplied reason="lost">avi</supplied><lb n="7" break="no"/>-<unclear>p</unclear></lem><!--display issue: there is a space before editorial hyphen-->
-      				<rdg source="bib:Butterworth+VenugopaulChetty1905_01">viḷakka<gap reason="illegible" quantity="3" unit="character" precision="low"/></rdg>
-      				<rdg source="bib:Mahalingam1960_03">update</rdg>
+      				<rdg source="bib:Butterworth+VenugopaulChetty1905_01 Mahalingam1988_01">viḷakka<gap reason="illegible" quantity="3" unit="character" precision="low"/><lb n="7" break="no"/>-<unclear>p</unclear></rdg>
+      				<rdg source="bib:Mahalingam1960_03">viḷak·k-<supplied reason="lost">avi</supplied><lb n="7" break="no"/>-<unclear>p</unclear></rdg>
       			</app>
       			
       			<app loc="10">
       				<lem>Āḷ<unclear>·</unclear>vāṉum</lem>
       				<rdg source="bib:Butterworth+VenugopaulChetty1905_01">Āḷavāḷum</rdg>
       				<rdg source="bib:Mahalingam1960_03">Āḷvāṉum</rdg>
+      				<rdg source="bib:Mahalingam1988_01">Āḷuvāṉum</rdg>
       			</app>
       			
       		</listApp>
@@ -140,36 +149,37 @@
       		
       		<p n="1">Prosperity! Fortune!</p>
       		<p n="1-2">Twenty-fifth <supplied reason="subaudible">year</supplied> of Nantippōttaracar.</p>
-      		<p n="2-9"><supplied reason="subaudible">For</supplied> the Subrahmaṇya of Tiruvāṉpūr in the Peyyūriḷaṅkōṭṭam, in that manner, <seg cert="low">among</seg> <supplied reason="explanation"><foreign>-uḷḷum</foreign></supplied> fifty-five <foreign>kaḻañcu</foreign>s of gold, we have ordered/declared <supplied reason="subaudible">these/some of these</supplied> <foreign>kaḻañcu</foreign>s of gold that the Matuvārs had given as tax-free land for a lamp <seg cert="low">and offerings</seg>, whereas there was an order <supplied reason="subaudible">by</supplied> Caḷukki Aracar at the request <supplied reason="subaudible">of</supplied> Āḷuva Aracar.</p>
-      		<p n="9-10">The <foreign>nāṭṭār</foreign>s, the <foreign>Ūrār</foreign>s, and the ruler shall not foget <supplied reason="explanation"><foreign>aṟamaṟavaṟka</foreign></supplied>!<!--Check translation!--></p>
+      		<p n="2-9"><supplied reason="subaudible">For</supplied> the Subrahmaṇya of Tiruvāṉpūr in the Peyyūriḷaṅkōṭṭam, in that manner, <seg cert="low">among</seg> <supplied reason="explanation"><foreign>-uḷḷum</foreign></supplied> fifty-five <foreign>kaḻañcu</foreign>s of gold, we have ordered/declared <supplied reason="subaudible">these/some of these</supplied> <foreign>kaḻañcu</foreign>s of gold that the Matuvārs had given as tax-free land for a lamp <seg cert="low">and offerings</seg>, at the request/petition of Āḷuva Aracar whereas the order/execution was <supplied reason="subaudible">by</supplied> Caḷukki Aracar.</p>
+      		<p n="9-10">The <foreign>nāṭṭār</foreign>s, the <foreign>Ūrār</foreign>s, and the ruler shall not forget <supplied reason="explanation"><foreign>aṟamaṟavaṟka</foreign></supplied>!<!--Check translation!--></p>
       		
       	</div>
       	
-      	<div type="commentary">
-      		<p n="3">Tiruvāṉpūr = Tiruvāṉmūr.</p>	
-      		<p n="5">Matuvārs =  toddy drawers?</p>
+      	<div type="commentary"><!--Update!-->
+      		<p n="3">Tiruvāṉpūr = Tiruvāṉmūr, according to <bibl><ptr target="bib:Mahalingam1988_01"/></bibl>.</p>	
+      		<p n="5">Matuvārs = toddy drawers?</p>
+      		<p>On the identity of Caḷukki Aracar and Āḷuva Aracar, see <bibl><ptr target="bib:Mahalingam1988_01"/></bibl>. Caḷukki Aracar appears to be the executor of the order of a superior king (Nandivarman II Pallava?) rather than the issuer and/or executor of his own order.</p>
       		
       	</div>
       	
 <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Butterworth+VenugopaulChetty1905_01"/></bibl>; re-edited in <bibl><ptr target="bib:Mahalingam1960_03"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 75); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:Butterworth+VenugopaulChetty1905_01"/></bibl>.
+First edited in <bibl><ptr target="bib:Butterworth+VenugopaulChetty1905_01"/></bibl>; re-edited, with improvements, in <bibl><ptr target="bib:Mahalingam1960_03"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 75); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:Butterworth+VenugopaulChetty1905_01"/></bibl>.
             </p>
 
 	<listBibl type="primary">
 		
-		<bibl n="ABVVC">
+		<bibl n="BVC">
 			<ptr target="bib:Butterworth+VenugopaulChetty1905_01"/>
 			<citedRange unit="page">429-430</citedRange>
 			<citedRange unit="plate">before p. 429</citedRange>
 		</bibl>	
 		
-		<bibl n="TVM 1960">
+		<bibl n="TVM1">
 			<ptr target="bib:Mahalingam1960_03"/>
 		</bibl>
 		
-		<bibl n="TVM 1988">
+		<bibl n="TVM2">
 			<ptr target="bib:Mahalingam1988_01"/>
 			<citedRange unit="page">225-226</citedRange>
 			<citedRange unit="item">75</citedRange>
