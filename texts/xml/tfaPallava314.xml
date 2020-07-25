@@ -41,7 +41,20 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Fragment comprising a <foreign>biruda</foreign> (?).</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p>Ornate Grantha script.</p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -54,7 +67,7 @@
       	<div type="edition" xml:lang="san-Latn">
       		
       		<p>
-      			<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> laḥ {punctuation}<!--update!--> nṛpa-c<supplied reason="lost">ū</supplied>ḷāmaṇi <gap reason="lost" extent="unknown" unit="character"/>
+      			<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>lanaḥ <g type="ddandaOrnate">.</g> nṛpa-c<supplied reason="lost">ū</supplied>ḷāmaṇi<gap reason="lost" extent="unknown" unit="character"/>
       		</p>      		
       		
       	</div>
@@ -64,8 +77,8 @@
       		<listApp>
       			
       			<app loc="1">
-      				<lem><gap reason="lost" extent="unknown" unit="character"/>laḥ {punctuation}<!--update: double daṇḍa joined!--></lem>
-      				<rdg source="bib:ARIE1939-1943">nil<!--update!--></rdg>
+      				<lem><gap reason="lost" extent="unknown" unit="character"/>lanaḥ <g type="ddandaOrnate">.</g></lem>
+      				<rdg source="bib:ARIE1939-1943"/>
       			</app>
       			
       			<app loc="1">
@@ -88,8 +101,11 @@
       	</div>
       	
          <div type="commentary">
-         	<p>This fragment could, with another fragment (IP 358<!--update cross-ref!-->), be part of a single inscription.</p>
-         	<p>IP, p. xc = probably an epithet of Mahendravarman I.</p><!--update!-->
+         	<p>This fragment is possibly to be considered with another fragment (IP 358<!--update cross-ref!-->) as parts of a single inscription.</p>
+         	<p>According to Mahalingam <bibl rend="omitname">
+         			<ptr target="bib:Mahalingam1988_01"/>
+         			<citedRange unit="page">xc</citedRange>
+         		</bibl>Nṛpacūḷāmaṇi is probably an epithet of Mahendravarman I. The palaeography however points towards one of his successors.</p>
          </div>
          	
          <div type="bibliography">
