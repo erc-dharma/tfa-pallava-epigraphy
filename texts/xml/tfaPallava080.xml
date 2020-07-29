@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Kāñcīpuram, Mukteśvara, time of Nandivarman, year 28</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from the European Research
+						Council (ERC) under the European Union's Horizon 2020 research and
+						innovation programme (grant agreement no 809994).</note>
+				</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">tfaPallava080</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary/>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p>The <foreign>puḷḷi</foreign> is used almost consistently. It has the form of a dot of or a wedge, and is placed exactly above the consonant or to the right above of it.</p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2020-07-29" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+      <body>
+
+      	<div type="edition" xml:lang="tam-Latn"><!--Add milestones-->
+      		
+      		<p>
+      			
+      			<milestone unit="area" n="W1"/>
+      			<label xml:lang="eng">Western plinth of the <foreign>maṇḍapa</foreign></label>
+      			
+      			<milestone unit="block" n="1"/>
+      			<lb n="1"/>
+      			<supplied reason="lost"><hi rend="grantha">svasti śrī</hi></supplied> nan=t<supplied reason="lost">i</supplied>-va<supplied reason="lost"><hi rend="grantha">rmma</hi>r·k=ku yāṇṭ’ i</supplied>ru patt’ eṭ·ṭ-āvatu <hi rend="grantha"><unclear>dha</unclear></hi><supplied reason="lost"><hi rend="grantha">rmma</hi></supplied>
+      			
+      			<milestone unit="block" n="2a" break="no"/>
+      			-<hi rend="grantha"><unclear>ma</unclear></hi><hi rend="grantha">hāde</hi>v<choice><unclear>i</unclear><unclear>ī</unclear></choice><hi rend="grantha">śva</hi>ra-<hi rend="grantha">gṛ<supplied reason="omitted">ha</supplied></hi>ttu <hi rend="grantha">mā</hi>ṇik=ka-<hi rend="grantha">de</hi>var·k=ku <hi rend="grantha">de</hi>vatāṉam-āyiṉa nāyivaṭṭi kuḷat
+      			
+      			<milestone unit="area" n="S1" break="no"/>
+      			<label xml:lang="eng">Southern plinth of the <foreign>maṇḍapa</foreign></label>
+      			
+      			<milestone unit="area" n="2b" break="no"/><!--Check-->
+      			tūr·k kaṇ·ṇantai kuṭi-p·-pāṭ·ṭ’ uḷ·pa
+      			<milestone unit="block" n="3" break="no"/>
+      			<unclear reason="eccentric_ductus">ṭa</unclear> ṉilam· pattu-p paṭṭiy<unclear>u</unclear>māṇik=k<choice><sic>u</sic><corr>a</corr></choice>-tēvark=k’ uṇ·ṇāḻikai-p puṟam-<unclear>ā</unclear>
+      			<milestone unit="block" n="4" break="no"/>
+      			ka paṇittu-k= kuṭuttēṉ· <hi rend="grantha">dharma-mahādevi</hi>-y-ēṉ· Itu <hi rend="grantha">A<unclear>r</unclear>cca</hi>ṉayi cey<unclear>i</unclear>t’ uṇ<unclear>pā</unclear>r-āṉār· In·nilat·t<choice><sic>a</sic><corr>ā</corr></choice>l
+      			      			
+      			<milestone unit="area" n="W2"/>
+      			<label xml:lang="eng">Western plinth of the <foreign>vimāna</foreign></label>
+      			<milestone unit="block" n="5a"/>Ūr· varin=tat’ ellām 
+      			
+      			<milestone unit="area" n="W1"/>
+      			<label xml:lang="eng">Western plinth of the <foreign>maṇḍapa</foreign></label>
+      			<milestone unit="block" n="1"/>
+      			<lb n="2"/>tattaśivaṉu<supplied reason="omitted">kku</supplied>m· <hi rend="grantha">dharmma</hi>kaṇ<supplied reason="lost">·</supplied>ṇaṉuk=kum· Aṉan·taśi<supplied reason="lost">va</supplied>      			    			
+      			<milestone unit="block" n="2a" break="no"/>      	
+      			ṉukkum· Iva<supplied reason="omitted">r</supplied>kaḷ makkaḷ mak=kaḷ-ē Arccaṉai ceyit’ uṇṇa-p paṇittu
+      			      			
+      			<milestone unit="area" n="S1" break="no"/>
+      			<label xml:lang="eng">Southern plinth of the <foreign>maṇḍapa</foreign></label>
+      			<milestone unit="block" n="2b" break="no"/>
+      			k kuṭuttēṉ· Ittaḷikkut taṭṭaḻi
+      			<milestone unit="block" n="3" break="no"/>
+      			<unclear>vu</unclear>y ivaraik· koṇ·ṭu koṭṭuvāṉ· Amutarayaṉ· <unclear>nā</unclear>yaṟṟu-k· kaṇi I<supplied reason="omitted">va</supplied>ṉuk
+      			<milestone unit="block" n="4" break="no"/>
+      			kum· māṭalar makaṉ· māta-<hi rend="grantha">śarmma</hi>nuk·kum· Iruvark·kumm utaka-<hi rend="grantha">pūrvva</hi>kam· ceytu Iraṇṭu koṟṟu kuṭut·tōm·
+      			
+      			<milestone unit="area" n="S2"/>
+      			<label xml:lang="eng">Southern plinth of the <foreign>vimāna</foreign></label>
+      			<milestone unit="block" n="5b"/>
+      			<lb n="3"/>
+      			perunaṅ·kai-y i-poṉ·ṉaṭi Atimāṉi mātēvi kumaraṭi māṇikkat·tēvi tikaimaṇi kuṇatuṅ·ki ti
+      			<milestone unit="block" n="6" break="no"/>
+      			kaimaṇi vācat·ti c<unclear>i</unclear>n·taṭi kumaraṭi naṅ·k<unclear>ā</unclear>
+      			<milestone unit="block" n="7" break="no"/>
+      			ṭai Aṇiyātitti mūt·ti Av·vaṭi viñ·caṭi pātaṭi ku 
+      			<milestone unit="block" n="8" break="no"/>
+      			lakkoṭi Av·vaṭi naṅ·kaṉ·
+      			<milestone unit="block" n="9a"/>
+      			muciyak·kaṉ· <hi rend="grantha">śrī</hi>-tēvi naṅ·kāmi mātēvi nīlī maṇavāṭ·ṭi tēvaṭi mānip·poṟṟi
+      			
+      			<milestone unit="area" n="E"/>
+      			<label xml:lang="eng">Eastern plinth of the <foreign>vimāna</foreign></label>
+      			<milestone unit="block" n="9b"/>
+      			Atimāṇi naṅ·kuṇavi
+      			<milestone unit="block" n="10"/>
+      			<hi rend="grantha">bahu</hi>va<hi rend="grantha"><unclear>ḷa</unclear></hi><unclear>kāmi</unclear> maḻalai nocci tāḻi-māṇikkam· cittiraniti neṟippāki viṉa
+      			<milestone unit="block" n="11" break="no"/>
+      			yaṭi Avvaṭi ciṟu naṅkai kāmaṭi māti
+      			<milestone unit="block" n="12" break="no"/>
+      			tikaimaṇi
+      			
+      			<milestone unit="area" n="S2"/>
+      			<label xml:lang="eng">Southern plinth of the <foreign>vimāna</foreign></label>
+      			<milestone unit="block" n="5b"/>
+      			<lb n="4"/><unclear reason="eccentric_ductus">ma</unclear><hi rend="grantha">ntrācāryya</hi>r aivar· viḷak=kun= tavacikaṇāvar· paṉṉiruvar tavacikaḷ uṇ·ṇak k<unclear>u</unclear>ṭukka taḷiyāḷ·vār <unclear>ū</unclear>ṭṭārāka paṉṉiruva
+      			<milestone unit="block" n="6" break="no"/>
+      			r kut=tikaḷai<choice><unclear>p</unclear><unclear>m</unclear></choice>eyitu kuṭut=tēṉ mutal mup
+      			<milestone unit="block" n="7" break="no"/>
+      			patiruvarum· Ippaṉṉiruva<supplied reason="omitted">ru</supplied>m ēṟṟi nāṟpattunālvar kam·pa
+      			<milestone unit="block" n="8" break="no"/>
+      			<unclear>ṉa</unclear>ttu k<unclear>u</unclear>ṭut=tēṉ· taruma-mādeviyēṉ
+      			<milestone unit="block" n="9a"/>
+      			It-taḷi-puṟam-āṉa nāyvaṭṭi k<unclear>u</unclear>ḷattūrum· It<unclear>=t</unclear>aḷi parivāramum· taḷiyum· I<hi rend="grantha">dharmma</hi>m· Aḻiy<unclear>ā</unclear>mai k<unclear>ā</unclear>t=tāṉ aṭi eṉ· muṭi mēl atu
+      		
+      		</p>      		
+      		
+      	</div>
+
+      	<div type="apparatus">
+      		
+      		<listApp>
+      			
+      			<app loc="1">
+      				<lem>°va<supplied reason="lost"><hi rend="grantha">rmma</hi>r·k=ku</supplied></lem>
+      				<note>The restoration <foreign>°va<supplied reason="lost"><hi rend="grantha">rmma</hi>ṟ·ku</supplied></foreign> is also possible, but see <foreign>-<hi rend="grantha">de</hi>var·k=ku</foreign> in the same line</note>
+      			</app>
+      			
+      			
+      			<app loc="3">
+      				<lem>vācat·ti</lem>
+      				<rdg source="bib:KrishnaSastri1923_03"><hi rend="grantha">su</hi>cat·ti</rdg>
+      			</app>
+      			
+      			<app loc="3">
+      				<lem>nīlī</lem>
+      				<rdg source="bib:KrishnaSastri1923_03">nili</rdg>
+      			</app>
+      			
+      		</listApp>
+      		
+         </div>
+
+      	<div type="translation" xml:lang="eng" resp="part:emfr">
+      		
+      		<p></p>
+      		
+      	</div>
+      	
+      	      	
+         <div type="commentary">
+         	
+         </div>
+         	
+      	<div type="bibliography">
+      		<p>      			
+      			First edited by <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4, n° 827); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 80); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy and photos (2015).
+      		</p>
+      		
+      		<listBibl type="primary">
+               
+            	<bibl n="HKS">
+            		<ptr target="bib:KrishnaSastri1923_03"/>
+            		<citedRange unit="page">285-286</citedRange>
+            		<citedRange unit="item">827</citedRange>
+            		<citedRange unit="plate">IX</citedRange>
+            	</bibl>
+            	
+            	<bibl n="TVM">
+            		<ptr target="bib:Mahalingam1988_01"/>
+            		<citedRange unit="page">259-260</citedRange>
+            		<citedRange unit="item">80</citedRange>
+            	</bibl>
+            	            	            	
+            </listBibl>
+
+         	<listBibl type="secondary">
+         		
+         		<bibl>
+         			<ptr target="bib:ARIE1892-1893_01"/>
+         			<citedRange unit="page">4, 13</citedRange>
+         			<citedRange unit="appendix">B/1893</citedRange>
+         			<citedRange unit="item">14</citedRange>
+         		</bibl>
+         		
+         	</listBibl>
+
+         </div>
+
+      </body>
+  </text>
+</TEI>
