@@ -47,13 +47,12 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>
-							Foundation of the Śrī-Śikhari-Pallaveśvara, at Siṅhapura, by Candrāditya
-						</summary> 
+						<summary> Foundation of the Śrī-Śikhari-Pallaveśvara, at Siṅhapura, by
+							Candrāditya </summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>
+							<p/>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -134,8 +133,8 @@
 
          <div type="commentary">
          	<p>The name Śrī-Śikhari-Pallaveśvara might be translated as "The glorious <supplied reason="subaudible">temple</supplied> of the Lord of the Pallava Śikharin." Śikharin (literally "peaked" or "mountain") appears to be the <foreign>biruda</foreign> (gloryfying soubriquet) of an unidentified Pallava king, meaning "eminent." This is its only attestattion. Alternatively, one could also translated "The glorious <supplied reason="subaudible">temple</supplied> of the Lord of the Pallava <supplied reason="subaudible">founded by</supplied> Śikharin." In that case Śikharin would be a <foreign>biruda</foreign> of the founder Candrāditya."</p>
-         	<p>The founder Candrāditya has not been identified with certainty. He could be a Pallava prince, not known from other sources. According to <bibl><ptr target="bib:Srinivasan1964_01"/><citedRange  unit="page">118</citedRange></bibl> he might be a Cāḷukya prince, contemporary of the Pallava king Narasiṃhavarman II Māmalla, who was the son of Pulakeśin and is known from records of his queen Vijayamahādevī. <bibl><ptr target="bib:Srinivasan1964_01"/></bibl> notes that Vijayamahādevī is known as Pōtti, the feminine of Pōttaṉ, that is, Pallava, and suggests that she was a Pallava princess. This would explain how her husband, a Cāḷukya prince, could have founded a rock-cut cave in the Pallava realm.
-         However, <bibl><ptr target="bib:Nagaswamy1982_01"/><citedRange  unit="page">188</citedRange></bibl> considers that the cave was founded by a Pallava king, as the name Pallava is included in the name of the foundation and as Pallava kings had <foreign>biruda</foreign>s ending with the term <foreign>āditya</foreign>.</p>
+         	<p>The founder Candrāditya has not been identified with certainty. He could be a Pallava prince, not known from other sources. According to <bibl><ptr target="bib:Srinivasan1964_01"/><citedRange unit="page">118</citedRange></bibl> he might be a Cāḷukya prince, contemporary of the Pallava king Narasiṃhavarman II Māmalla, who was the son of Pulakeśin and is known from records of his queen Vijayamahādevī. <bibl><ptr target="bib:Srinivasan1964_01"/></bibl> notes that Vijayamahādevī is known as Pōtti, the feminine of Pōttaṉ, that is, Pallava, and suggests that she was a Pallava princess. This would explain how her husband, a Cāḷukya prince, could have founded a rock-cut cave in the Pallava realm.
+         However, <bibl><ptr target="bib:Nagaswamy1982_01"/><citedRange unit="page">188</citedRange></bibl> considers that the cave was founded by a Pallava king, as the name Pallava is included in the name of the foundation and as Pallava kings had <foreign>biruda</foreign>s ending with the term <foreign>āditya</foreign>.</p>
          	<p>The placename Siṃhapura ("The city of the lion") is reflected in that of the nearby village Ciṅkavaram.</p>
          	         </div>
 
@@ -184,28 +183,31 @@ This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on facsimi
             	
             </listBibl>
 
-            <listBibl type="secondary">
-            	
-            	<bibl>ARIE 1916/284</bibl><!--update!-->
-            	            	          	
-            	<bibl>
-            		<ptr target="bib:Srinivasan1964_01"/>
-            		<citedRange  unit="page">116-118</citedRange>
-            	</bibl>
-            	
-            	<bibl>
-            		<ptr target="bib:Nagaswamy1982_01"/>
-            	            	</bibl>
-            	
-                        	            	            	
-           </listBibl>
+         	<listBibl type="secondary">
+         		
+         		<bibl>
+         			<ptr target="bib:ARIE1915-1916"/>
+         			<citedRange unit="page">92</citedRange>
+         			<citedRange unit="appendix">C/1916</citedRange>
+         			<citedRange unit="item">284</citedRange>
+         		</bibl>
+         		
+         		<bibl>
+         			<ptr target="bib:Srinivasan1964_01"/>
+         			<citedRange unit="page">116-118</citedRange>
+         		</bibl>
+         		
+         		<bibl>
+         			<ptr target="bib:Nagaswamy1982_01"/>
+         		</bibl>
+         		         		
+         	</listBibl>
 
          </div>
 
       </body>
   </text>
 </TEI>
-
 <!--
 	On the upper portion of the right pillar in the Śikharipallaveśvara rock-cut cave, also called Maṭṭileśvara (Hiltebeitel, Draupadī, vol. 1).
 	7th c. on paleographical grounds.

@@ -227,30 +227,36 @@
 First edited by <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with facsimile and English translation (SII 3, n° 42); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 91); re-edited here by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>.
 </p>
 
-            <listBibl type="primary">
-            	     	
-            	<bibl>
-            		<ptr target="bib:Hultzsch1899_01"/>
-            		<citedRange unit="item">42</citedRange>
-            		<citedRange unit="page">90-92</citedRange>
-            		<citedRange unit="plate">V</citedRange>
-            	</bibl>
-            	
-            	<bibl>
-            		<ptr target="bib:Mahalingam1988_01"/>
-            		<citedRange unit="item">91</citedRange>
-            		<citedRange unit="page">321-322</citedRange>
-            	</bibl>
-            	
-            </listBibl>
-
-            <listBibl type="secondary">
-              <bibl>ARIE 1889/76</bibl> <!--to be updated-->
-            	<bibl/>
-           </listBibl>
-
+         	<listBibl type="primary">
+         		
+         		<bibl>
+         			<ptr target="bib:Hultzsch1899_01"/>
+         			<citedRange unit="item">42</citedRange>
+         			<citedRange unit="page">90-92</citedRange>
+         			<citedRange unit="plate">V</citedRange>
+         		</bibl>
+         		
+         		<bibl>
+         			<ptr target="bib:Mahalingam1988_01"/>
+         			<citedRange unit="item">91</citedRange>
+         			<citedRange unit="page">321-322</citedRange>
+         		</bibl>
+         		
+         	</listBibl>
+         	
+         	<listBibl type="secondary">
+         		
+         		<bibl>
+         			<ptr target="bib:ARIE1889-1890"/>
+         			<citedRange unit="page">5</citedRange>
+         			<citedRange unit="appendix">A/1899</citedRange>
+         			<citedRange unit="item">76</citedRange>
+         		</bibl>
+         		
+         	</listBibl>
+         	
          </div>
-
+      	
       </body>
   </text>
 </TEI>

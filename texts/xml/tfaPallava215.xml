@@ -5,8 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Encoding template for inscription of the pallava corpus, approx. 500
-					inscriptions</title>
+				<title>Ukkal, time of Kampavarman, year 15</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -145,7 +144,13 @@ This edition by Emmanuel Francis (2020), based on photographs (2019).
             </listBibl>
                        
             <listBibl type="secondary">
-              <bibl>ARIE 1893/26</bibl> <!--to be updated-->
+            	
+            	<bibl>
+            		<ptr target="bib:ARIE1892-1893"/>
+            		<citedRange unit="page">13</citedRange>
+            		<citedRange unit="appendix">B/1893</citedRange>
+            		<citedRange unit="item">26</citedRange>
+            	</bibl>
            </listBibl>
         
          </div>

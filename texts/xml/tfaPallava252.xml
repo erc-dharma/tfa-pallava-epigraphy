@@ -47,12 +47,13 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Hero-stone set up in honour of Aṭiyār who fell at Ciṟiyūr in a battle with Kārōniri Bāṇarāja.</summary> 
+						<summary>Hero-stone set up in honour of Aṭiyār who fell at Ciṟiyūr in a
+							battle with Kārōniri Bāṇarāja.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>
-													</handDesc>
+							<p/>
+						</handDesc>
 					</physDesc>
 				</msDesc>
 			</sourceDesc>
@@ -128,7 +129,7 @@
          			<lem>pōr<unclear>iṟ</unclear></lem>
          			<rdg source="bib:Rice1905_01">pōr-c</rdg>
          			<rdg source="bib:SankaraNarayanan2016_01">pōr</rdg>
-         			<note></note>
+         			<note/>
          		</app>
          		
          		<app loc="5">
@@ -216,13 +217,14 @@ This edition by Emmanuel Francis (2020), based on the edition and facsimile publ
             </listBibl>
          	
          	<listBibl type="secondary">
-            	
-            	<bibl>
-            		<ptr target="bib:ARIE"/>
-            		<!--ARIE 1899/101-->
-            		<!--Update!-->
-            	</bibl>
-         		            	            	
+            	         		
+         		<bibl>
+         			<ptr target="bib:ARIE1898-1899"/>
+         			<citedRange unit="page">25</citedRange>
+         			<citedRange unit="appendix">B/1899</citedRange>
+         			<citedRange unit="item">101</citedRange>
+         		</bibl>
+         		
             </listBibl>
 
          </div>
@@ -230,5 +232,4 @@ This edition by Emmanuel Francis (2020), based on the edition and facsimile publ
       </body>
   </text>
 </TEI>
-
 <!--On a stone lying near the Gopālakṛṣṇa temple at Hebbiṇi-->

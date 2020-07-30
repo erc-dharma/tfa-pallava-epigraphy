@@ -199,14 +199,13 @@ This edition by Emmanuel Francis (2020), based on photographs (2019).
   			
   		</listBibl>
   		
-  		<listBibl type="secondary">
+  		<listBibl type="secondary">  			
   			
-  			<!--ARIE 1904/A/226 = ARIE 1903/226. TBC-->
   			<bibl>
-    				<ptr target="bib:ARIE1903-1904_01"/>
-    				<citedRange unit="page">**</citedRange>
+    				<ptr target="bib:ARIE1903-1904"/>
+    				<citedRange unit="page">22</citedRange>
     				<citedRange unit="appendix">A/1903</citedRange>
-    				<citedRange unit="item">71</citedRange>
+    				<citedRange unit="item">226</citedRange>
     			</bibl> 
   		
   		</listBibl>

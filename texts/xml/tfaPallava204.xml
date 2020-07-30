@@ -6,7 +6,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Uttiramērūr, Vaikuṇṭhaperumāḷ temple, larger platform, western base, donation
-					of the time of Kampavarman, year 7</title>
+					of the time of Kampavarman, year 8</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -164,8 +164,14 @@ First English translation?
 </listBibl>
 
             <listBibl type="secondary">
-              <bibl>ARIE 1898/5</bibl> <!--to be updated-->
-            	<bibl/>
+            	
+            	<bibl>
+            		<ptr target="bib:ARIE1897-1898"/>
+            		<citedRange unit="page">16</citedRange>
+            		<citedRange unit="appendix">B/1898</citedRange>
+            		<citedRange unit="item">5</citedRange>
+            	</bibl>
+            	
            </listBibl>
 
          </div>

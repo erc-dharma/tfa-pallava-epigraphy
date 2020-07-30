@@ -6,8 +6,8 @@
 		<fileDesc>
 
 			<titleStmt>
-				<title>Uttiramērūr, Vaikuṇṭhaperumāḷ, larger platform, western base, time of Kampavarman, year
-					8</title>
+				<title>Uttiramērūr, Vaikuṇṭhaperumāḷ, larger platform, western base, time of
+					Kampavarman, year 8</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -153,9 +153,15 @@ First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6,
 	</bibl>
 </listBibl>
 
-<listBibl type="secondary">
-	<bibl>ARIE 1898/3</bibl> <!--to be updated-->
-</listBibl>
+      		<listBibl type="secondary">
+      			
+      			<bibl>
+      				<ptr target="bib:ARIE1897-1898"/>
+      				<citedRange unit="page">16</citedRange>
+      				<citedRange unit="appendix">B/1898</citedRange>
+      				<citedRange unit="item">3</citedRange>
+      			</bibl>
+      		</listBibl>
       	
       	</div>
       	

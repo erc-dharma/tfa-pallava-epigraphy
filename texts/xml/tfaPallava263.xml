@@ -59,8 +59,7 @@
                   
 <div type="edition" xml:lang="san-Latn">
          	<p>
-         		<lb n="1"/>
-         		śrīkalinārai
+         		<lb n="1"/>śrīkalinārai
          		<!--Grantha, thus default language = Sanskrit-->
             </p>
 </div>
@@ -75,9 +74,18 @@
 	<p>La Grue de l'âge Kali</p>
 </div>
 
-<div type="commentary"/>
-
-<div type="bibliography">
+	<div type="commentary">
+		<p>
+			<bibl>
+				<ptr target="bib:ARIE1901-1902"/>
+				<citedRange unit="page">21</citedRange>
+				<citedRange unit="appendix">B/1902</citedRange>
+				<citedRange unit="item">376</citedRange>
+			</bibl>: “On a sculptured stone recently inserted into the west wall of the prākāra of the Bhaktajanēśvara temple at Tirunāmanallūr. Consists of the word Śrī-Kalinārai, which according to No. 365 formed part of the name of a shrine which has been recently demolished by the villagers.”
+		</p>
+	</div>
+	
+	<div type="bibliography">
             
             <p>
 First edited in <bibl/> with facsimile and English translation. <!--update!-->
@@ -93,19 +101,22 @@ This edition by Emmanuel Francis (2020), based on autopsy and photographs (2008)
             	</bibl>
             </listBibl>
                        
-            <listBibl type="secondary">
-              <bibl>ARIE 1902/B/376<!--update!-->
-              <note>“On a sculptured stone recently inserted into the west wall of the prākāra of the Bhaktajanēśvara temple at Tirunāmanallūr. Consists of the word Śrī-Kalinārai, which according to No. 365 formed part of the name of a shrine which has been recently demolished by the villagers.”</note>
-              	<!--Quotation of ARIE: where? In commentary?-->
-              </bibl>
-            	
-            	<bibl>
-            		<ptr target="bib:Francis et al.Francis+al2007_01"/>
-            		<citedRange unit="page">304-306</citedRange>
-            	</bibl>
-            	            	
-           </listBibl>
-        
+	<listBibl type="secondary">
+		
+		<bibl>
+			<ptr target="bib:ARIE1901-1902"/>
+			<citedRange unit="page">21</citedRange>
+			<citedRange unit="appendix">B/1902</citedRange>
+			<citedRange unit="item">376</citedRange>
+		</bibl>
+		
+		<bibl>
+			<ptr target="bib:Francis+al2007_01"/>
+			<citedRange unit="page">304-306</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
          </div>
          
       </body>

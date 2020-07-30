@@ -52,13 +52,13 @@
       <body>
 
       	<div type="edition" xml:lang="san-Latn">
-      		<!--add milestones-->
-      		<lg met ="vasantatilakā" n="1">
-      			<l real="++-+---+--+-+"><lb n="1"/><supplied reason="lost">śrī-pallavānvaya-kulācala-r</supplied>ājasi<unclear>ṃ</unclear>ho</l>
+      		
+      		<lg met="vasantatilakā" n="1">
+      			<l real="++-+---+--+-+"><milestone unit="block" n="a"/><lb n="1"/><supplied reason="lost">śrī-pallavānvaya-kulācala-r</supplied>ājasi<unclear>ṃ</unclear>ho</l>
       			<l real="++-+---+--+-+">yaḥ kṣatrasi<unclear>ṃ</unclear>ha Iti viśruta-puṇya-kīrttiḥ</l>
-      			<l real="++-+---+--+-+">jīyā‡t maheśvara-śikhāmaṇi-dīpta-mauli‡<unclear>r</unclear></l>
+      			<l real="++-+---+--+-+">jīyā<milestone unit="block" n="b"/>t maheśvara-śikhāmaṇi-dīpta-mauli<milestone unit="block" n="c"/><unclear>r</unclear></l>
       			<l real="++-+---+--+-=">yy<unclear>u</unclear>ddhārjjuno nikhila-loka-nare<supplied reason="lost">ndra-siṃhaḥ</supplied></l><!--check "= in @real-->
-      		</lg>      		
+      		</lg><!--Display issue: milestones not displayed-->		
       		
       	</div>
 
@@ -67,8 +67,8 @@
       		<listApp>
       			
       			<app loc="1">
-      				<lem></lem>
-      				<rdg source="bib:ARIE1966-1967"></rdg>
+      				<lem/>
+      				<rdg source="bib:ARIE1966-1967"/>
       			</app>    
       			
       		</listApp>
@@ -77,7 +77,7 @@
 
       	<div type="translation" xml:lang="eng" resp="part:emfr">
       		
-      		<p></p>
+      		<p/>
       	
       	</div>
       	
@@ -99,12 +99,12 @@
          <div type="bibliography">
 
          	<p>
-First recorded in <!--<bibl>
+First recorded in <bibl>
          			<ptr target="bib:ARIE1990-1991"/>
          			<citedRange unit="page">87</citedRange>
          			<citedRange unit="appendix">B/1990-1991</citedRange>
          			<citedRange unit="item">158</citedRange>
-         		</bibl>--><!--impedes transfo-->; re-edited here by Emmanuel Francis (2020), from autopsy and photos (2004).
+         		</bibl>; re-edited here by Emmanuel Francis (2020), from autopsy and photos (2004).
          	</p>
          	         	
          	<listBibl type="primary">   

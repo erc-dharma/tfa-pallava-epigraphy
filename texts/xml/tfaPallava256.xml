@@ -75,7 +75,7 @@
       			<lb break="no" n="3"/><unclear>ḷu</unclear><supplied reason="omitted">m</supplied> <choice><orig>v</orig><reg>p</reg></choice>āṇa-rācar-um may<choice><sic>i</sic><corr>e</corr></choice>ntira-<choice><sic>m</sic><corr>v</corr></choice>ikk<unclear>i</unclear>ramar-um Eṟ<unclear>i</unclear>
       			<lb break="no" n="4"/>nta <choice><orig>toṉṟu</orig><reg>toṟu</reg></choice> kanta-<choice><orig>v</orig><reg>p</reg></choice>āṇ<unclear>ā</unclear>ti-Aracar cēvakar c<unclear>e</unclear>
       			<lb break="no" n="5"/>ḻikar eṟint<unclear>u</unclear> paṭṭār atu kaṉṉāṭakar-uṅ kā<choice><sic>ṅ</sic><corr>ṇ</corr></choice>ka 
-<lb n="6"/>Itaṟk’ aḻippu <gap reason="illegible" quantity="10" unit="character" precision="low" /> pāta
+<lb n="6"/>Itaṟk’ aḻippu <gap reason="illegible" quantity="10" unit="character" precision="low"/> pāta
 <lb break="no" n="7"/>ka <gap extent="unknown" reason="illegible" unit="character"/>
       		</p>
          		
@@ -213,12 +213,15 @@ This edition by Emmanuel Francis (2020), based on the edition and facsimile publ
             </listBibl>
          	
          	<listBibl type="secondary">
-            	
-            	<bibl>
-            		<ptr target="bib:ARIE"><!--ARE1899, no. 103.--></ptr>
-            	</bibl>
-         		            	            	
-            </listBibl>
+         		
+         		<bibl>
+         			<ptr target="bib:ARIE1898-1899"/>
+         			<citedRange unit="page">25</citedRange>
+         			<citedRange unit="appendix">B/1899</citedRange>
+         			<citedRange unit="item">103</citedRange>
+         		</bibl>
+         		
+         	</listBibl>
 
          </div>
       	

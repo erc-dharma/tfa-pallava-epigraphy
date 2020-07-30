@@ -5,7 +5,8 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Kūram, Keśavaperumāḷ temple, pillar inscription</title><!--check localisation! Which of the 2 temples-->
+				<title>Kūram, Keśavaperumāḷ temple, pillar inscription</title>
+				<!--check localisation! Which of the 2 temples-->
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -131,4 +132,3 @@ First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7,
       </body>
   </text>
 </TEI>
-

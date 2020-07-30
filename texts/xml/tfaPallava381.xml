@@ -52,8 +52,8 @@
       <body>
 
       	<div type="edition" xml:lang="san-Latn">
-      		<!--add milestones-->
-      		<p><lb n="1"/>śrī-rājasiṃhaḥ śrī-raṇajayaḥ śrī-<unclear>bh</unclear>araḥ ‡ śrī-citrakārmmukaḥ</p>	
+      		
+      		<p><lb n="1"/><milestone unit="face" n="a"/>śrī-rājasiṃhaḥ śrī-raṇajayaḥ śrī-<unclear>bh</unclear>araḥ <milestone unit="face" n="b"/> śrī-citrakārmmukaḥ</p>	
       	</div>
 
       	<div type="apparatus">

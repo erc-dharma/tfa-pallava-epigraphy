@@ -65,12 +65,12 @@
       			
       			<app loc="1">
       				<lem><supplied reason="lost">śrībha</supplied>raś</lem>
-      				<rdg source="bib:ARIE1959-1960_01"><supplied reason="undefined">śrībha</supplied>raś</rdg>
+      				<rdg source="bib:ARIE1959-1960"><supplied reason="undefined">śrībha</supplied>raś</rdg>
       			</app>
       			
       			<app loc="1">
       				<lem>cit<unclear>r</unclear>akārm<supplied reason="lost">mu</supplied>kha<supplied reason="lost">ḥ</supplied></lem>
-      				<rdg source="bib:ARIE1959-1960_01">citrakārmukaḥ</rdg>
+      				<rdg source="bib:ARIE1959-1960">citrakārmukaḥ</rdg>
       				<note>It is probable that <foreign>m</foreign> is duplicated after <foreign>r</foreign>.<!--Check other birudas in Mahāblipuram--></note>
       			</app>
       			
@@ -101,44 +101,44 @@
          	<p>These appear to be <foreign>biruda</foreign>s of Narasiṃhavarman II Pallava, also attested in IP 54, 60 and 63.</p><!--Update!-->
          </div>
          	
-         <div type="bibliography">
-
-         	<!--<p>
-First recorded in <bibl>
-         			<ptr target="bib:ARIE1959-1960_01"/><!-\-update!-\->
-         			<citedRange unit="page">73</citedRange>
-         			<citedRange unit="appendix">B/1959-1960</citedRange>
-         			<citedRange unit="item">263</citedRange>
-         		</bibl><!-\-impedes transfo-\->; text and translation in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 318); re-edited here by Emmanuel Francis (2020), from estampage kept at ASI, Mysore.
-         	</p>-->
-         	         	
-         	<listBibl type="primary">   
-         		
-         		<bibl n="ARIE">
-         			<ptr target="bib:ARIE1959-1960_01"/><!--update!-->
-         			<citedRange unit="page">73</citedRange>
-         			<citedRange unit="appendix">B/1959-1960</citedRange>
-         			<citedRange unit="item">263</citedRange>
-         		</bibl>
-         		<bibl n="TVM">
-         			<ptr target="bib:Mahalingam1988_01"/>
-         			<citedRange unit="page">717</citedRange>
-         			<citedRange unit="item">318</citedRange>
-         		</bibl>
-         		         		
-         	</listBibl>
-
-         	<listBibl type="secondary">
-         		
-         		<bibl>
-         			<ptr target="bib:Francis2013_01"/>
-         			<citedRange unit="page">289-290</citedRange>
-         			<citedRange unit="item">IR 65</citedRange>
-         		</bibl>    
-         		         		
-         	</listBibl>
-
-         </div>
+      	<div type="bibliography">
+      		
+      		<p>
+      			First recorded in <bibl>
+      				<ptr target="bib:ARIE1959-1960"/>
+      				<citedRange unit="page">73</citedRange>
+      				<citedRange unit="appendix">B/1959-1960</citedRange>
+      				<citedRange unit="item">263</citedRange>
+      			</bibl>; text and translation in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 318); re-edited here by Emmanuel Francis (2020), from estampage kept at ASI, Mysore.
+      		</p>
+      		
+      		<listBibl type="primary">   
+      			
+      			<bibl n="ARIE">
+      				<ptr target="bib:ARIE1959-1960"/><!--Check!-->
+      				<citedRange unit="page">73</citedRange>
+      				<citedRange unit="appendix">B/1959-1960</citedRange>
+      				<citedRange unit="item">263</citedRange>
+      			</bibl>
+      			<bibl n="TVM">
+      				<ptr target="bib:Mahalingam1988_01"/>
+      				<citedRange unit="page">717</citedRange>
+      				<citedRange unit="item">318</citedRange>
+      			</bibl>
+      			
+      		</listBibl>
+      		
+      		<listBibl type="secondary">
+      			
+      			<bibl>
+      				<ptr target="bib:Francis2013_01"/>
+      				<citedRange unit="page">289-290</citedRange>
+      				<citedRange unit="item">IR 65</citedRange>
+      			</bibl>    
+      			
+      		</listBibl>
+      		
+      	</div>
 
       </body>
   </text>
