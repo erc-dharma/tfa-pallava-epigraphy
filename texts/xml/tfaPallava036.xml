@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Vallam, Vedānteśvara temple, pillar inscription of Kantacēṉaṉ</title>
+				<title>Vallam, Vedānteśvara, pillar inscription of Kantacēṉaṉ</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -41,7 +41,20 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary/>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -123,9 +136,9 @@ First edited by <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2, no. 72)
             	
             	<listBibl type="secondary">
             		
-            		<bibl><!--update!-->
+            		<bibl>
             			<ptr target="bib:ARIE1892-1893_01"/>
-            			<citedRange unit="page">8</citedRange>
+            			<citedRange unit="page">2, 8</citedRange>
             			<citedRange unit="appendix">A/1892</citedRange>
             			<citedRange unit="item">185</citedRange>
             		</bibl>

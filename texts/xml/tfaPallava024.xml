@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Makēntiraravāṭi, foundation record, time of Mahendravarman I</title>
+				<title>Makēntiraravāṭi, foundation, time of Mahendravarman I</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,11 +47,13 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>This Sanskrit verse records the foundation of a cave-temple by the Pallava king Guṇabhara or Mahendra around 600/625 CE.</summary>
+						<summary>This Sanskrit verse records the foundation of a cave-temple by the
+							Pallava king Guṇabhara or Mahendra around 600/625 CE.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>Grantha stone engraving not yet fully mastered. By a beginner or one of the early attempts to engrave Grantha on stone.</p>
+							<p>Grantha stone engraving not yet fully mastered. By a beginner or one
+								of the early attempts to engrave Grantha on stone.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -126,7 +128,7 @@
 
 </div>
 
-      	<div type="translation" xml:lang="eng" >
+      	<div type="translation" xml:lang="eng">
       		
       	</div>
       	
@@ -175,7 +177,7 @@ First edited and translated by <bibl><ptr target="bib:Hultzsch1896-1897_06"/></b
       		<listBibl type="secondary">
       			      			
       			<bibl>
-            			<ptr target="bib:ARIE1895-1896_01"/><!--update!-->
+            			<ptr target="bib:ARIE1895-1896_01"/>
             			<citedRange unit="page">9</citedRange>
             			<citedRange unit="appendix">B/1896</citedRange>
             			<citedRange unit="item">13</citedRange>
