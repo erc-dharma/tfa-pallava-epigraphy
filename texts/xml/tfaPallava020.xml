@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Talavāṉūr pillar inscription, time of Narēntirappōttaraiyaṉ</title>
+				<title>Talavāṉūr, time of Narēntirappōttaraiyaṉ</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -41,7 +41,20 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Tamil foundation inscription.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -217,7 +230,7 @@ First edited and translated by <bibl><ptr target="bib:Hultzsch1913-1914_01"/></b
 		
 		<bibl>
 			<ptr target="bib:ARIE1904-1905_01"/>
-			<citedRange unit="page">32</citedRange>
+			<citedRange unit="page">32, 39</citedRange>
 			<citedRange unit="appendix">B/1905</citedRange>
 			<citedRange unit="item">50</citedRange>
 		</bibl>

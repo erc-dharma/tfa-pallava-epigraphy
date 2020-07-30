@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Taḷavāṉūr, Sanskrit foundation inscription, time of Mahendravarman I</title>
+				<title>Taḷavāṉūr, time of Mahendravarman I</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -41,7 +41,20 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Sanskrit foundation inscription.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -79,7 +92,7 @@
 		<app loc="1">
 			<lem>’smi<orig>N</orig></lem>
 			<rdg source="bib:Hultzsch1913-1914_01">’smi<choice><sic>n</sic><corr>ñ</corr></choice></rdg>
-			<note></note>
+			<note/>
 		</app>	
 		
 	</listApp>
@@ -102,7 +115,7 @@
       	<div type="commentary"><!--Update!-->
       		<p n="1"><foreign>daṇḍānata</foreign>. Interpretation? See note in B.</p>
       		<p n="2"><foreign>narendra</foreign>. Identification? See note in B.</p>
-      		<p>See IP 20<!--cross-ref-->, for a Tamil version.</p>
+      		<p>See IP 20<!--cross-ref-->, for a probably later Tamil foundation inscription.</p>
       	</div>
       	
       	<div type="bibliography">
@@ -111,34 +124,34 @@
 First edited and translated by <bibl><ptr target="bib:Hultzsch1913-1914_01"/></bibl>, with a facsimile (EI 12, no. 27/A); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 19); text and translation in <bibl><ptr target="bib:Filliozat1984_01"/></bibl> and in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 16); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2009).
             </p>
 
-            <listBibl type="primary">
-
-            	<bibl n="EH">
-            		<ptr target="bib:Hultzsch1913-1914_01"/>
-            		<citedRange unit="page">320</citedRange>
-            		<citedRange unit="item">A</citedRange>
-            	</bibl>
-            	<bibl n="PSF">
-            		<ptr target="bib:Filliozat1984_01"/>
-            		<citedRange unit="page">105</citedRange>
-            	</bibl>
-            	<bibl n="TVM">
-            		<ptr target="bib:Mahalingam1988_01"/>
-            		<citedRange unit="page">97</citedRange>
-            		<citedRange unit="item">19</citedRange>            		
-            	</bibl>            	
-            	<bibl n="SB">
-            		<ptr target="bib:Brocquet1997_01"/>
-            		<citedRange unit="page">465-466</citedRange>
-            		<citedRange unit="item">24</citedRange>            		
-            	</bibl>            	           	
-
-            </listBibl>
+      		<listBibl type="primary">
+      			
+      			<bibl n="EH">
+      				<ptr target="bib:Hultzsch1913-1914_01"/>
+      				<citedRange unit="page">320</citedRange>
+      				<citedRange unit="item">A</citedRange>
+      			</bibl>
+      			<bibl n="PSF">
+      				<ptr target="bib:Filliozat1984_01"/>
+      				<citedRange unit="page">105</citedRange>
+      			</bibl>
+      			<bibl n="TVM">
+      				<ptr target="bib:Mahalingam1988_01"/>
+      				<citedRange unit="page">97</citedRange>
+      				<citedRange unit="item">19</citedRange>            		
+      			</bibl>            	
+      			<bibl n="SB">
+      				<ptr target="bib:Brocquet1997_01"/>
+      				<citedRange unit="page">465-466</citedRange>
+      				<citedRange unit="item">24</citedRange>            		
+      			</bibl>            	           	
+      			
+      		</listBibl>
       		
       		<listBibl type="secondary">
       			
       			<bibl>
-      				<ptr target="bib:ARIE1904-1905_01"/><!--update!-->
+      				<ptr target="bib:ARIE1904-1905_01"/>
       				<citedRange unit="page">32, 39</citedRange>
       				<citedRange unit="appendix">B/1905</citedRange>
       				<citedRange unit="item">51</citedRange>
@@ -157,8 +170,8 @@ First edited and translated by <bibl><ptr target="bib:Hultzsch1913-1914_01"/></b
       			</bibl>
       		</listBibl>
       		
-         </div>
-
+      	</div>
+      	
       </body>
   </text>
 </TEI>
