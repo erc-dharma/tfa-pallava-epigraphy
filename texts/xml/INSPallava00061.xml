@@ -27,7 +27,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava061</idno>
+				<idno type="filename">INSPallava00061</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -41,7 +41,20 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>A <foreign>biruda</foreign>.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -64,11 +77,12 @@
 
 		<app loc="1">
 			<lem><hi rend="grantha">śrī-vāmā<unclear>ṃ</unclear>kuśaḥ</hi></lem>
-			<rdg source="bib:Hultzsch1909-1910_01"><hi rend="grantha">śrīvāmāṅkuśaḥ</hi></rdg>
-			<note><bibl><ptr target="bib:Hultzsch1909-1910_01"/><citedRange unit="page">8</citedRange><citedRange unit="note">1</citedRange></bibl> notes that the <foreign>anusvāra</foreign> is doubtful. Il n’est pas très clair sur l’estampage, un peu plus sur la pierre examinée <foreign>in situ</foreign>. Il semble d’ailleurs que l’espace entre <foreign>mā</foreign> et <foreign>ku</foreign> est plus important qu’entre les autres <foreign>akṣara</foreign>s, ce qui semble confirmer sa présence. En tout cas, s’il est bien là (ce qui fait plus sens), il s’agit d’un cercle, de petite taille, de même taille que chacun des points du <foreign>visarga</foreign> final.</note>					
-			<note>Le <foreign>visarga</foreign> est très clairement visible <foreign>in situ</foreign>. 
-				
-				<bibl><ptr target="bib:Brocquet1997_01"/><citedRange unit="page">586</citedRange><citedRange unit="note">1056</citedRange></bibl> reads <foreign>śrī-vāmāṅkuśa</foreign> and notes that this should be analysed as a Vocative form.</note>
+			<note><bibl><ptr target="bib:Hultzsch1909-1910_01"/><citedRange unit="page">8</citedRange><citedRange unit="note">1</citedRange></bibl> notes that the <foreign>anusvāra</foreign> is doubtful. It does not indeed appear clearly on the facsimile published in <bibl n="EH">
+      				<ptr target="bib:Hultzsch1909-1910_01"/>
+      				<citedRange unit="page">8</citedRange>
+      				<citedRange unit="item">19</citedRange>
+      			</bibl>. <foreign>In situ</foreign>, it seems to be above the letter <foreign>ku</foreign>.</note>					
+			<note>The <foreign>visarga</foreign> is clear <foreign>in situ</foreign>. <bibl><ptr target="bib:Brocquet1997_01"/><citedRange unit="page">586</citedRange><citedRange unit="note">1056</citedRange></bibl> reads <foreign>śrī-vāmāṅkuśa</foreign> and notes that this should be analysed as a Vocative form.</note>
 		</app>
 		
 	</listApp>
@@ -85,7 +99,7 @@
       		</p>
       		<p><hi rend="italic">or</hi></p>
       		<p>
-      			The glorious pleasant hook
+      			The glorious pleasant hook.
       		</p>
       	</div>
       	
@@ -95,7 +109,7 @@
       		</p>
       		<p><hi rend="italic">ou</hi></p>
       		<p>
-      			Le glorieux au croc splendide / terrible / cruel.
+      			Le glorieux au croc splendide/terrible/cruel.
       		</p>
       		<p><hi rend="italic">ou</hi></p>
       		<p>
@@ -118,7 +132,11 @@
       	<div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Hultzsch1909-1910_01"/></bibl> (EI 10, no. 1.18); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 61); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl>; re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2009).
+First edited in <bibl><ptr target="bib:Hultzsch1909-1910_01"/></bibl> (EI 10, no. 1.18), with a facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 61); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl>; re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy, photographs (2009), and facsimile published in <bibl n="EH">
+      				<ptr target="bib:Hultzsch1909-1910_01"/>
+      				<citedRange unit="page">8</citedRange>
+      				<citedRange unit="item">19</citedRange>
+      			</bibl>.
             </p>
 
       		<listBibl type="primary">
@@ -148,7 +166,7 @@ First edited in <bibl><ptr target="bib:Hultzsch1909-1910_01"/></bibl> (EI 10, no
       		
       		<listBibl type="secondary">
       			
-      			<bibl>
+      			<bibl n="ARIE 1907-1908">
       				<ptr target="bib:ARIE1907-1908"/>
       				<citedRange unit="page">36</citedRange>
       				<citedRange unit="appendix">B/1907</citedRange>
