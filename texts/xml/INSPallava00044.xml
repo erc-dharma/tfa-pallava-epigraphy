@@ -27,7 +27,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava044</idno>
+				<idno type="filename">INSPallava00044</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -41,7 +41,20 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Records the foundation of a temple (kōyil) by Kumāraṉ, the nephew of Cōmāciyār.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -54,11 +67,11 @@
       	<div type="edition" xml:lang="tam-Latn">
       		
       		<p>
-      			<lb n="1"/><hi rend="grantha">śrī-mahārāja-parameśvara</hi>varu<hi rend="grantha">mma</hi>ṟkku yāṇṭu talaitt-<unclear>ā</unclear>
+      			<lb n="1"/><hi rend="grantha">śrī-mahārāja-parameśvara</hi>-varu<hi rend="grantha">mma</hi>ṟkku yāṇṭu talaitt-<unclear>ā</unclear>
       			<lb n="2" break="no"/>vatu
       		</p> 
       		<p>
-      			tūṇāṅ-kiḻavaruḷ ālavāyil cōmāciyā
+      			tūṇāṅ-kiḻavar-uḷ ālavāyil cōmāciyā
       			<lb n="3" break="no" rend="tb-rotated"/>ru maru-maḵaṉ kumā<unclear>raṉ</unclear> <gap reason="lost" quantity="3" unit="character"/> <supplied reason="lost">e</supplied>
       			<lb n="4" break="no" rend="tb-rotated"/>ṭuppitta kō<unclear>yil</unclear>
       		</p> 
@@ -66,7 +79,7 @@
       			<gap reason="illegible" quantity="3" unit="character"/>
       			<lb n="5" rend="tb-rotated"/><gap reason="illegible" quantity="3" unit="character"/> <unclear reason="eccentric_ductus">A</unclear>ḻi<unclear reason="eccentric_ductus">vu</unclear>m <unclear>c</unclear>e
       			<lb n="6" break="no" rend="tb-rotated"/>ytār taṭumāv ēṟkka
-      		</p><!--Check: lines 3-4 are tb-rotated compared to lines 1-2; line 5 is tb-rotated compared to lines 3-4; line 6 is tb-rotated compared to lines5!-->
+      		</p><!--Check: lines 3-4 are tb-rotated compared to lines 1-2; line 5 is tb-rotated compared to lines 3-4; line 6 is tb-rotated compared to line 5!-->
       		
       	</div>
 
@@ -80,7 +93,7 @@
       		<app loc="5">
       			<lem><unclear reason="eccentric_ductus">A</unclear>ḻi<unclear reason="eccentric_ductus">vu</unclear>m</lem>
       			<rdg source="bib:Desai1957-1958_01">Aḻi<unclear>vu</unclear>m</rdg>
-      			<note>Desai's reading makes sense, but is not warranted on the facsimile, where one would read at once <foreign>yuḻim<choice><unclear>e</unclear><unclear>ē</unclear></choice></foreign>.</note><!--<choice> not displayed in note of app-->
+      			<note><bibl n="PBD"><ptr target="bib:Desai1957-1958_01"/></bibl>'s reading makes sense, but is not warranted on the facsimile, where one would read at once <foreign>yuḻim<choice><unclear>e</unclear><unclear>ē</unclear></choice></foreign>.</note><!--display issue: <choice> not correctly displayed in note of app-->
       		</app>      		      		
       		
       	</div>
@@ -88,7 +101,7 @@
       	<div type="translation" xml:lang="eng" resp="part:emfr">
       		
       		<p n="1-2">First year of the glorious Mahārāja Parameśvaravarman.</p>
-      		<p n="3-4">The temple that Kumāra, nephew (sister’s son) of Cōmāci in <supplied reason="explanation">that is, from</supplied> Ālavāy, <supplied reason="subaudible">one</supplied> among the <foreign>tūṇaṅ-kiḷavar</foreign>s <gap reason="lost"/> has built.</p>
+      		<p n="3-4">The temple that Kumāraṉ, nephew (sister’s son) of Cōmāciyār in <supplied reason="explanation">that is, from</supplied> Ālavāy, <supplied reason="subaudible">one</supplied> among the <foreign>tūṇaṅ-kiḷavar</foreign>s <gap reason="lost"/> has built.</p>
       		<p n="5-6">He who does <supplied reason="explanation"><foreign><unclear>c</unclear>eytār</foreign></supplied> harm <supplied reason="explanation"><foreign>aḻivu</foreign></supplied> <gap reason="lost"/> will be considered like <supplied reason="explanation"><foreign>ēṟkka</foreign></supplied> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>taṭumāv</foreign></supplied>.</p>     		
       		
       	</div>
@@ -96,7 +109,7 @@
 <div type="commentary">
 	
 	<p n="1-2"><foreign>talaitt-<unclear>ā</unclear>vatu</foreign>. See EI, p. 199 fn3.</p><!--Update!-->
-	<p n="2"><foreign>ālavāyil</foreign>. <bibl><ptr target="bib:Desai1957-1958_01"/></bibl> connects this word with <foreign>eṭuppitta</foreign> (lines 3-4), suggesting that Ālavāy is the ancient name of Ciṟṟampākkam/Teṉkāraṇai. We follow Sircar's opinion (editor's note to <bibl><ptr target="bib:Desai1957-1958_01"/></bibl>) that Ālavāy is the residence of Cōmāci. So does <bibl n="TVM">
+	<p n="2"><foreign>ālavāyil</foreign>. <bibl><ptr target="bib:Desai1957-1958_01"/></bibl> connects this word with <foreign>eṭuppitta</foreign> (lines 3-4), suggesting that Ālavāy is the ancient name of Ciṟṟampākkam/Teṉkāraṇai. We follow Sircar's opinion (editor's note to <bibl><ptr target="bib:Desai1957-1958_01"/></bibl>) that Ālavāy is the residence of Cōmāciyār. So does <bibl n="TVM">
 			<ptr target="bib:Mahalingam1988_01"/>
 			<citedRange unit="page">147</citedRange>
 			<citedRange unit="note">1</citedRange>
@@ -131,7 +144,7 @@ First edited by <bibl><ptr target="bib:Desai1957-1958_01"/></bibl> (EI 32, no. 2
 	
 	<listBibl type="secondary">
 		
-		<bibl>
+		<bibl n="ARIE 1947-1948">
 			<ptr target="bib:ARIE1947-1948"/>
 			<citedRange unit="page">12</citedRange>
 			<citedRange unit="appendix">B/1947-1948</citedRange>
