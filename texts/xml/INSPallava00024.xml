@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Makēntiraravāṭi, foundation, time of Mahendravarman I</title>
+				<title>Makēntiraravāṭi, time of Mahendravarman I</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -27,7 +27,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava024</idno>
+				<idno type="filename">INSPallava00024</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -47,13 +47,14 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>This Sanskrit verse records the foundation of a cave-temple by the
-							Pallava king Guṇabhara or Mahendra around 600/625 CE.</summary>
+						<summary>A Sanskrit verse recording the foundation of a cave-temple by the
+							Guṇabhara  (Mahendravarman I Pallava) around 600/625 CE.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>Grantha stone engraving not yet fully mastered. By a beginner or one
-								of the early attempts to engrave Grantha on stone.</p>
+							<p>The stone engraving of Grantha script is not yet fully mastered. This
+								inscription was engraved by a beginner or was one of the early
+								attempts to engrave Grantha script on stone.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -85,13 +86,7 @@
             	            	
             </lg>
          	
-         	<l>Conventions</l>
-         	<l>(a) • unclear or illegible outside context</l>
-         	<l>[a] • lost/illegible and restored/supplied</l>
-         	<l>¿n? • unstandard</l>
-         	<l>¡a! • incorrect</l>
-         	<l>{a} • supplied/omitted</l>
-         	
+         	         	
          </div>
 
 <div type="apparatus">
@@ -137,7 +132,8 @@
       		<p rend="stanza" n="1">
       			<l>Objet des plus chauds éloges auprès des gens de bien, solide et spacieuse,</l>
       			<l>Guṇabhara fit construire au bord de l'étang de Mahendra-taṭāka, en creusant la roche,</l>
-      			<l>En la grande cité de Mahendrapura, cette demeure de vertus qui charment les yeux des hommes : la maison de Murāri, nommée Mahendra-Viṣṇugṛha.</l> 
+      			<l>En la grande cité de Mahendrapura, cette demeure de vertus qui charment les yeux des hommes :</l> 
+      			<l>la maison de Murāri, nommée Mahendra-Viṣṇugṛha.</l> 
       		</p>
       		
       	</div>
@@ -149,7 +145,7 @@
       	<div type="bibliography">
       		
             <p>
-First edited and translated by <bibl><ptr target="bib:Hultzsch1896-1897_06"/></bibl>, with a facsimile (EI 4, no. 19); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 24); text and translation in <bibl><ptr target="bib:Filliozat1984_01"/></bibl>, in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 20), <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR no. 24); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2004).
+First edited and translated by <bibl><ptr target="bib:Hultzsch1896-1897_06"/></bibl>, with a facsimile (EI 4, no. 19); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 24); text and translation in <bibl><ptr target="bib:Filliozat1984_01"/><citedRange unit="page">104-105</citedRange></bibl>, in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 20), <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR no. 24); re-edited here  for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2004).
             </p>
 
             <listBibl type="primary">
@@ -180,10 +176,14 @@ First edited and translated by <bibl><ptr target="bib:Hultzsch1896-1897_06"/></b
             			<ptr target="bib:ARIE1895-1896"/>
             			<citedRange unit="page">9</citedRange>
             			<citedRange unit="appendix">B/1896</citedRange>
-            			<citedRange unit="item">13</citedRange>
-      				
-      				<!-- + ARIE 1943-44.83--> 
-      				
+            			<citedRange unit="item">13</citedRange>      				     				
+            		</bibl>
+      			
+      			<bibl>
+            			<ptr target="bib:ARIE1943-1945"/>
+            			<citedRange unit="page">17</citedRange>
+            			<citedRange unit="appendix">B/1943-1944</citedRange>
+            			<citedRange unit="item">83</citedRange>   
             		</bibl>
       			<bibl>
       				<ptr target="bib:Srinivasan1964_01"/>

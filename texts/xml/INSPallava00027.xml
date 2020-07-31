@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Maṇṭakapaṭṭu, foundation, time of Mahendravarman I</title>
+				<title>Maṇṭakapaṭṭu, time of Mahendravarman I</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -27,7 +27,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava027</idno>
+				<idno type="filename">INSPallava00027</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary/>
+						<summary>A Sanskrit verse recording the foundation of a cave-temple by Vicitracitta (Mahendravarman I Pallava) around 600/625 CE.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -124,39 +124,39 @@
       	<div type="bibliography">
       		
             <p>
-First edited and translated by <bibl><ptr target="bib:GopinathaRao1924_01"/></bibl>, with a poor facsimile (EI 17, no. 5); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 27); text and translation in <bibl><ptr target="bib:Filliozat1984_01"/></bibl> and in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 22); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2008, 2009).
+First edited and translated by <bibl><ptr target="bib:GopinathaRao1924_01"/></bibl>, with a poor facsimile (EI 17, no. 5); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 27); text and translation in <bibl><ptr target="bib:Filliozat1984_01"/></bibl> and in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 22); re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2008, 2009).
             </p>
 
-            <listBibl type="primary">
-
-            	<bibl n="TVGR">
-            		<ptr target="bib:GopinathaRao1924_01"/>            		
-            	</bibl>
-            	<bibl n="PSF">
-            		<ptr target="bib:Filliozat1984_01"/>
-            		<citedRange unit="page">102-104</citedRange>
-            	</bibl>
-            	<bibl n="TVM">
-            		<ptr target="bib:Mahalingam1988_01"/>
-            		<citedRange unit="page">117</citedRange>
-            		<citedRange unit="item">27</citedRange>            		
-            	</bibl>            	
-            	<bibl n="SB">
-            		<ptr target="bib:Brocquet1997_01"/>
-            		<citedRange unit="page">476-477</citedRange>
-            		<citedRange unit="item">22</citedRange>            		
-            	</bibl>            	           	
-
-            </listBibl>
+      		<listBibl type="primary">
+      			
+      			<bibl n="TVGR">
+      				<ptr target="bib:GopinathaRao1924_01"/>            		
+      			</bibl>
+      			<bibl n="PSF">
+      				<ptr target="bib:Filliozat1984_01"/>
+      				<citedRange unit="page">102-104</citedRange>
+      			</bibl>
+      			<bibl n="TVM">
+      				<ptr target="bib:Mahalingam1988_01"/>
+      				<citedRange unit="page">117</citedRange>
+      				<citedRange unit="item">27</citedRange>            		
+      			</bibl>            	
+      			<bibl n="SB">
+      				<ptr target="bib:Brocquet1997_01"/>
+      				<citedRange unit="page">476-477</citedRange>
+      				<citedRange unit="item">22</citedRange>            		
+      			</bibl>            	           	
+      			
+      		</listBibl>
       		
       		<listBibl type="secondary">
-      			      			
+      			
       			<bibl>
-            			<ptr target="bib:ARIE1904-1905"/>
-            			<citedRange unit="page">33, 39</citedRange>
-            			<citedRange unit="appendix">B/1905</citedRange>
-            			<citedRange unit="item">56</citedRange>      				
-            		</bibl>
+      				<ptr target="bib:ARIE1904-1905"/>
+      				<citedRange unit="page">33, 39</citedRange>
+      				<citedRange unit="appendix">B/1905</citedRange>
+      				<citedRange unit="item">56</citedRange>      				
+      			</bibl>
       			<bibl>
       				<ptr target="bib:Srinivasan1964_01"/>
       				<citedRange unit="page">47</citedRange>
@@ -171,8 +171,8 @@ First edited and translated by <bibl><ptr target="bib:GopinathaRao1924_01"/></bi
       			</bibl>
       		</listBibl>
       		
-         </div>
-
+      	</div>
+      	
       </body>
   </text>
 </TEI>
