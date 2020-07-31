@@ -27,7 +27,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava075</idno>
+				<idno type="filename">INSPallava00075</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -47,7 +47,8 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Donation of land for a lamp (and offerings?) for the Subrahmaṇya at Tiruvāṉpūr in the Peyiyūriḷaṅkōṭṭam.</summary>
+						<summary>Donation of land for a lamp (and offerings?) for the Subrahmaṇya at
+							Tiruvāṉpūr in the Peyiyūriḷaṅkōṭṭam.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -150,14 +151,14 @@
       		<p n="1">Prosperity! Fortune!</p>
       		<p n="1-2">Twenty-fifth <supplied reason="subaudible">year</supplied> of Nantippōttaracar.</p>
       		<p n="2-9"><supplied reason="subaudible">For</supplied> the Subrahmaṇya of Tiruvāṉpūr in the Peyyūriḷaṅkōṭṭam, in that manner, <seg cert="low">among</seg> <supplied reason="explanation"><foreign>-uḷḷum</foreign></supplied> fifty-five <foreign>kaḻañcu</foreign>s of gold, we have ordered/declared <supplied reason="subaudible">these/some of these</supplied> <foreign>kaḻañcu</foreign>s of gold that the Matuvārs had given as tax-free land for a lamp <seg cert="low">and offerings</seg>, at the request/petition of Āḷuva Aracar whereas the order/execution was <supplied reason="subaudible">by</supplied> Caḷukki Aracar.</p>
-      		<p n="9-10">The <foreign>nāṭṭār</foreign>s, the <foreign>Ūrār</foreign>s, and the ruler shall not forget <supplied reason="explanation"><foreign>aṟamaṟavaṟka</foreign></supplied>!<!--Check translation!--></p>
+      		<p n="9-10">The <foreign>nāṭṭār</foreign>s, the <foreign>Ūrār</foreign>s, and the ruler shall not forget <supplied reason="explanation"><foreign>maṟavaṟka</foreign></supplied> this pious act <supplied reason="explanation"><foreign>aṟam</foreign></supplied>!<!--Check translation: aṟam + maṟavaṟka!--></p>
       		
       	</div>
       	
       	<div type="commentary"><!--Update!-->
       		<p n="3">Tiruvāṉpūr = Tiruvāṉmūr, according to <bibl><ptr target="bib:Mahalingam1988_01"/></bibl>.</p>	
       		<p n="5">Matuvārs = toddy drawers?</p>
-      		<p>On the identity of Caḷukki Aracar and Āḷuva Aracar, see <bibl><ptr target="bib:Mahalingam1988_01"/></bibl>. Caḷukki Aracar appears to be the executor of the order of a superior king (Nandivarman II Pallava?) rather than the issuer and/or executor of his own order.</p>
+      		<p>On the identity of Caḷukki Aracar and Āḷuva Aracar, see <bibl><ptr target="bib:Mahalingam1960_03"/></bibl>. Caḷukki Aracar appears to be the executor of the order of a superior king (Nandivarman II Pallava?) rather than the issuer and/or executor of his own order.</p>
       		
       	</div>
       	
