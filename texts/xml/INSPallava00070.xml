@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Kāñcīpuram slab, temple-name, time of Mahendravarman</title>
+				<title>Kāñcīpuram, temple-name on slab, time of Mahendravarman</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -27,7 +27,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava070</idno>
+				<idno type="filename">INSPallava00070</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -41,7 +41,22 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>The name of a temple: Mahendravarmeśvaragṛha.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p><foreign>Halanta</foreign>
+								<foreign>m</foreign> is used, with
+								proto-<foreign>virāma</foreign>.</p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -86,15 +101,15 @@
       	</div>
       	
          <div type="commentary">
-         	<p>The lack of context hinders the identification of the Pallava Mahendravarman. But paleography could help when comparing with similar labels (see tfaPallava 488-489)<!--update!-->. Observe and compare the shape of the characters <foreign>śa</foreign> and <foreign>ga</foreign>. See ARIE argument (p. 54) and others (IP, SRB).</p><!--Update!-->
+         	<p>The lack of context hinders the identification of the Pallava Mahendravarman. But paleography could help when comparing with similar labels (see INSPallava00488-00489)<!--update cros-ref!-->. Observe and compare the shape of the characters <foreign>śa</foreign> and <foreign>ga</foreign>. See ARIE argument (p. 54) and others (IP, SRB).</p><!--Update!-->
          </div>
          	
          <div type="bibliography">
 
          	<p>
-First edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, n° 31); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 70); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 53/c); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on the facsimile published in <bibl>
+First edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, n° 31); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 70); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 53/c); re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on the facsimile published in <bibl>
          			<ptr target="bib:ARIE1932-1933"/><citedRange unit="plate">I</citedRange>
-         			</bibl><!--Update-->.</p>
+         			</bibl>.</p>
          	         	
          	<listBibl type="primary">
          		
