@@ -28,7 +28,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava000</idno>
+				<idno type="filename">INSPallava#####</idno>
 				<!--update!-->
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -49,11 +49,11 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary></summary>
+						<summary/>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>
+							<p/>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -74,7 +74,7 @@
          	<l>¡a! • incorrect</l>
          	<l> • standardised</l>
          	<l> • surplus</l>
-         	<l>{a} • supplied/omitted</l>
+         	<l> • supplied (omitted)</l>
          	<l> • </l>
          </div>
       	

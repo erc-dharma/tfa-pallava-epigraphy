@@ -27,7 +27,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava072</idno>
+				<idno type="filename">INSPallava00072</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -41,7 +41,20 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Seemingly records the grant of exemptions to merchants (<foreign>nakarattār</foreign>s).</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -52,29 +65,41 @@
       <body>
 
       	<div type="edition" xml:lang="tam-Latn">      		
-      		      			      			
-      			<p>
-      				<lb n="1"/><hi rend="grantha">śrī</hi>      				  				
-      			</p>   
       		
-      			<p>
-      				kōvicaiya-nanti-vik<unclear>kirama-paruma</unclear>
-<lb n="2" break="no"/>ṟku yāṇṭu Oṉpatāvatu
-      			</p>   
+      		<p>
+      			<lb n="1"/><hi rend="grantha">śrī</hi>      				  				
+      		</p>   
       		
-      			<p>
-      				<gap reason="undefined" quantity="3" unit="character"/> <supplied reason="lost">peru</supplied>
-      				<lb n="3" break="no"/>māṉaṭikaṉ cerut=talai-maṅ<supplied reason="lost">kala</supplied>
-      				<lb n="4" break="no"/>tu nakarattārkku Uḷḷūr <gap reason="undefined" quantity="4" unit="character"/>
-      				<lb n="5"/>viṭṭu <hi rend="grantha">sarvva</hi>paricālam koṭu <gap reason="undefined" quantity="4" unit="character"/>
-      				<lb n="6"/>viṭēlviṭuku mammaḷi na <gap reason="undefined" quantity="5" unit="character"/>
-      				<lb n="7" break="no"/>ṇamum pi <gap reason="undefined" quantity="6" unit="character"/>
-      				<lb n="8" break="no"/>m maḻit <gap reason="undefined" quantity="5" unit="character"/>    	      				
-      			</p>
-      		      		
+      		<p>
+      			kōvicaiya-nanti-vik<unclear>kirama-paruma</unclear>
+      			<lb n="2" break="no"/>ṟku yāṇṭu Oṉpatāvatu
+      		</p>   
+      		
+      		<p>
+      			<gap reason="undefined" quantity="3" unit="character"/> <supplied reason="lost">peru</supplied>
+      			<lb n="3" break="no"/>māṉaṭikaṉ cerut=talai-maṅ<supplied reason="lost">kala</supplied>
+      			<lb n="4" break="no"/>tu nakarattārkku Uḷḷūr <gap reason="undefined" quantity="4" unit="character"/>
+      			<lb n="5"/>viṭṭu <hi rend="grantha">sarvva</hi>paricālam koṭu<gap reason="undefined" quantity="4" unit="character"/>
+      			<lb n="6"/>viṭēlviṭuku mammaḷi na<gap reason="undefined" quantity="5" unit="character"/>
+      			<lb n="7" break="no"/>ṇamum pi<gap reason="undefined" quantity="6" unit="character"/>
+      			<lb n="8" break="no"/>m maḻit<gap reason="undefined" quantity="5" unit="character"/>    	      				
+      		</p>
+      		
       	</div>
-
+      	
       	<div type="apparatus">
+      		
+      		<listApp>
+      			<app loc="3">
+      				<lem>cerut=talai°</lem>
+      				<rdg source="bib:ARIE1939-1943">ceruvālai°</rdg>
+      			</app>
+      		</listApp><listApp>
+      			<app loc="5">
+      				<lem>paricālam</lem>
+      				<note>Seems to be a variant of <foreign>parikāram</foreign> (Skt. <foreign>parihāra</foreign>).</note>
+      			</app>
+      		</listApp>
       		
       	</div>
         
@@ -129,9 +154,12 @@ Date phrase first edited by <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SI
 	
 	<listBibl type="secondary">
 		
-		<bibl>
-			ARE, 1888, no. 54; Ibid., 1939-40, no. 206
-		</bibl><!--Update!-->
+		<bibl n="ARIE 1939-1943">
+			<ptr target="bib:ARIE1939-1943"/>
+			<citedRange unit="page">55</citedRange>
+			<citedRange unit="appendix">B/1939-1940</citedRange>
+			<citedRange unit="item">206</citedRange>
+		</bibl>
 		
 	</listBibl>
 	
