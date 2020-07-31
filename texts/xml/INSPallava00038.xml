@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Kūram, Keśavaperumāḷ temple, pillar inscription</title>
+				<title>Kūram, Keśavaperumāḷ, pillar inscription</title>
 				<!--check localisation! Which of the 2 temples-->
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
@@ -28,7 +28,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava038</idno>
+				<idno type="filename">INSPallava00038</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -53,25 +53,12 @@
       <body>
 
       	<div type="edition" xml:lang="tam-Latn">
-      		
-      		<div type="textpart" subtype="face" n="A">
-      		<head xml:lang="eng">First face of the pillar</head>
-      			      			
-      			<p>
-      				<lb n="1"/><hi rend="grantha">śrī</hi>-pallava
-      			</p><!--Check <p> accross div:textpart?--> <!--break="no" not displayed between two textparts!-->
-      			
-      		</div>
-      		
-      		<div type="textpart" subtype="face" n="B">
-      			<head xml:lang="eng">Second face of the pillar</head>
-      			
-      			<p>
-      				<lb n="2" break="no"/>mā-rācaṉ
-      				<lb n="3"/><gap reason="lost" quantity="3" unit="character"/><!--update value to "undefined"--> māmalla<unclear>ṉ</unclear>
-      				
-      			</p>
-      		</div>
+      		          			
+      		<p>
+      			<lb n="1"/><milestone unit="face" n="A"/><hi rend="grantha">śrī</hi>-pallava
+      			<lb n="2" break="no"/><milestone unit="face" n="B"/>mā-rācaṉ
+      			<lb n="3"/><gap reason="undefined" quantity="3" unit="character"/> māmalla<unclear>ṉ</unclear>
+      		</p>      		
       		
       	</div>
 
@@ -83,12 +70,21 @@
       	<div type="translation" xml:lang="eng" resp="part:emfr">
       		
       		<p>
-      			The glorious great Pallava king <gap reason="lost"/><!--update value to "undefined"--> Māmalla
+      			The glorious great Pallava king <gap reason="undefined"/> Māmalla.
       		</p>
-      		<!--Alternative: Prosperity! The great Pallava king-->      		
+      		<p><hi rend="italic">OR</hi></p>
+      		<p>
+      			Prosperity!
+      		</p>
+      		<p>
+      			The great Pallava king <gap reason="undefined"/> Māmalla.
+      		</p>
+      		     		
       	</div>
       	      	
 <div type="commentary">
+	
+	<p n="1">It is not clear whether <foreign><hi rend="grantha">śrī</hi></foreign> is an auspicious beginning or an honorific prefix.</p>
 	
 </div>
       	
@@ -116,11 +112,11 @@ First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7,
 	
 	<listBibl type="secondary">
 		
-		<bibl>
+		<bibl n="ARIE 1899-1900">
 			<ptr target="bib:ARIE1899-1900"/>
 			<citedRange unit="page">50</citedRange>
 			<citedRange unit="appendix">B/1900</citedRange>
-			<citedRange unit="item">39-A</citedRange><!--note on 39-A: renamed as such when editing 39: the editor realised that two different inscriptions were reported under a single ARIE number-->
+			<citedRange unit="item">39 <note>Renamed 39-A, when edited by <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> as he realized that more than one inscription was registered under number 39.</note><!--display issue: implement display of <note>--></citedRange>
 		</bibl>
 		
 		
