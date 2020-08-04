@@ -21,7 +21,7 @@
 						innovation programme (grant agreement no 809994). </note>
 				</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">tfaPallava078</idno>
+				<idno type="filename">INSPallava00078</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -164,7 +164,7 @@ Writing <supplied reason="subaudible">of</supplied> Vastuvidyāmaya, son of Kār
     	<div type="bibliography">
     		
 <p>
-First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 356); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 78); re-edited and translated for the first time by Emmanuel Francis (2020), based on autopsy and photographs (2019).
+First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 356); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 78); re-edited here for DHARMA (ERC n° 809994) and translated for the first time by Emmanuel Francis (2020), based on autopsy and photographs (2019).
 </p>
     		
     		<listBibl type="primary">
@@ -182,7 +182,7 @@ First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6,
     		</listBibl>
     		
     		<listBibl type="secondary">
-    			<bibl>
+    			<bibl n="ARIE 1897-1898">
     				<ptr target="bib:ARIE1897-1898"/>
     				<citedRange unit="page">18</citedRange>
     				<citedRange unit="appendix">B/1898</citedRange>
