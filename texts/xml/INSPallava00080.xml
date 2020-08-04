@@ -27,7 +27,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava080</idno>
+				<idno type="filename">INSPallava00080</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Donation by Dharmamahādevi.</summary>
+						<summary>Donation by Dharmamahādevi.</summary><!--Update: add some details!-->
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -262,7 +262,7 @@
 
          	<listBibl type="secondary">
          		
-         		<bibl>
+         		<bibl n="ARIE 1892-1893">
          			<ptr target="bib:ARIE1892-1893"/>
          			<citedRange unit="page">4, 13</citedRange>
          			<citedRange unit="appendix">B/1893</citedRange>
