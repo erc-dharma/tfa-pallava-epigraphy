@@ -27,7 +27,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava091</idno>
+				<idno type="filename">INSPallava00091</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -41,7 +41,20 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p/>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary/>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -53,7 +66,7 @@
 
 <div type="edition" xml:lang="tam-tam">
 	<!--update structure as for transliteration-->
-	<!--remove Grantha markup for letters common to bot alphabets in the Sanskrit phrases-->
+	<!--remove Grantha markup for letters common to both alphabets in the Sanskrit phrases-->
 	<p><lb n="1" style="text-align: left"/>𑌓𑌮𑍍 𑌨𑌮𑌶𑍍𑌶𑌿𑌵𑌾𑌯{𑌮𑍍} (𑌸𑍍𑌵)𑌸𑍍𑌤𑌿 𑌶𑍍𑌰𑍀</p>
 	<p>
 <lb n="2"/>கொவிசையநந்திவிக்கிரமபருமற்கு யா 
@@ -70,7 +83,7 @@
 <lb n="13"/>கொ<unclear>ன்ற பாவத்து ப</unclear>டுவான் இது அழி<unclear>த்</unclear>தான் இப்பாவத்து<supplied reason="omitted">க்</supplied>கு அஞ்சானாயில் 
 <lb n="14"/><unclear>அன்</unclear> <gap reason="lost" quantity="2" unit="character"/> கொயிலு<supplied reason="omitted">க்</supplied>கு ஆயிரம் கா<unclear>ணம் த</unclear>ண்டப்படுவொம் வாணபுரத்தொ<unclear>ம்</unclear>
 	</p>
-	<lg met="anuṣṭubh">
+	<lg met="anuṣṭubh" n="1">
 		<l>
 			<lb n="15"/><choice><sic>𑌵</sic><corr>𑌬</corr></choice><unclear>𑌹𑍁</unclear>𑌭𑌿<unclear>𑌰𑍍</unclear> 𑌵𑌸𑍁𑌧𑌾 𑌦𑌤𑍍𑌤𑌾
 		</l>
@@ -112,7 +125,7 @@
 <lb n="14"/><unclear>Aṉ</unclear> <gap reason="lost" quantity="2" unit="character"/> kōyilu<supplied reason="omitted">k</supplied>ku Āyiram kā<unclear>ṇam ta</unclear>ṇṭappaṭuvōm vāṇapurattō<unclear>m</unclear>
 </p>         	
 	
-	<lg met="anuṣṭubh">
+	<lg met="anuṣṭubh" n="1">
 		<l>
 			<lb n="15"/><hi rend="grantha"><choice><sic>va</sic><corr>ba</corr></choice><unclear>hu</unclear>bhir<unclear>·</unclear> vasudhā dattā</hi>
 		</l>
@@ -229,14 +242,14 @@ First edited by <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with facsimile 
 
          	<listBibl type="primary">
          		
-         		<bibl>
+         		<bibl n="EH">
          			<ptr target="bib:Hultzsch1899_01"/>
          			<citedRange unit="item">42</citedRange>
          			<citedRange unit="page">90-92</citedRange>
          			<citedRange unit="plate">V</citedRange>
          		</bibl>
          		
-         		<bibl>
+         		<bibl n="TVM">
          			<ptr target="bib:Mahalingam1988_01"/>
          			<citedRange unit="item">91</citedRange>
          			<citedRange unit="page">321-322</citedRange>
@@ -246,7 +259,7 @@ First edited by <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with facsimile 
          	
          	<listBibl type="secondary">
          		
-         		<bibl>
+         		<bibl n="ARIE1889-1890">
          			<ptr target="bib:ARIE1889-1890"/>
          			<citedRange unit="page">5</citedRange>
          			<citedRange unit="appendix">A/1899</citedRange>

@@ -27,7 +27,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava094</idno>
+				<idno type="filename">INSPallava00094</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -113,18 +113,18 @@
          <div type="bibliography">
 
             <p>
-First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 453); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 94); re-edited here and translated for the first time by Emmanuel Francis, based on a partial photographic documentation (2008).
+First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 453); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 94); re-edited here for DHARMA (ERC n° 809994) and translated for the first time by Emmanuel Francis, based on a partial photographic documentation (2008).
             </p>
 
          	<listBibl type="primary">
          		
-         		<bibl>
+         		<bibl n="KVSA">
          			<ptr target="bib:SubrahmanyaAiyer1928_01"/>
          			<citedRange unit="page">87</citedRange>
          			<citedRange unit="item">453</citedRange>
          			
          		</bibl>
-         		<bibl>
+         		<bibl n="TVM">
          			<ptr target="bib:Mahalingam1988_01"/>
          			<citedRange unit="page">330</citedRange>
          			<citedRange unit="item">94</citedRange>
@@ -134,7 +134,7 @@ First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6,
          	
          	<listBibl type="secondary">
          		         		
-         		<bibl>
+         		<bibl n="ARIE 1898-1899">
          			<ptr target="bib:ARIE1898-1899"/>
          			<citedRange unit="page">23</citedRange>
          			<citedRange unit="appendix">B/1899</citedRange>
