@@ -27,7 +27,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava072</idno>
+				<idno type="filename">INSPallava00079</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -41,7 +41,20 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Construction of a sluice by Pullayakaṭampaṉ, son of Āritam Pullaṉ.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -87,7 +100,7 @@
       			Stone-sluice that Pullayakaṭampaṉ, son of Āritam Pullaṉ had built.
       		</p>
       		      		
-      	</div><!--change gap reason="lost" to reason="undefined"-->
+      	</div>
       	      	
 <div type="commentary">
 	
@@ -96,7 +109,7 @@
 <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:PSP1929_02"/></bibl><!--impedes transfo--> (IPS no. 16); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 79); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020).
+First edited in <bibl><ptr target="bib:PSP1929_02"/></bibl> and translated in <bibl><ptr target="bib:SrinivasaAiyar1941_01"/></bibl> (IPS no. 16); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 79); encoded  and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020).
             </p>
 
 	<listBibl type="primary">
