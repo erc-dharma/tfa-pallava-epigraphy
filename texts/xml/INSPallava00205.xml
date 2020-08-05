@@ -108,13 +108,13 @@
          		<app loc="2">
          			<lem>malliyaṉ</lem>
          			<rdg source="bib:SubrahmanyaAiyer1928_01">malliyaṉ</rdg>
-         			<note>The letter <foreign>ya</foreign> is nowadays partially lost, due, presumably, to a damage later than when <bibl><ptr source="bib:SubrahmanyaAiyer1928_01"/></bibl> edited the inscription.</note><!--display issue with the <ptr>: retrieve more than 10 short titles from Zotero-->
+         			<note>The letter <foreign>ya</foreign> is nowadays partially lost, due, presumably, to a damage later than when <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> edited the inscription.</note>
          		</app>
          		     	
          		<app loc="3">
          			<lem>kuṭuttōm</lem>
          			<rdg source="bib:SubrahmanyaAiyer1928_01">kuṭuttōm</rdg>
-         			<note>The letter <foreign>m</foreign> is nowadays entirely lost, due, presumably, to a damage later than when <bibl><ptr source="bib:SubrahmanyaAiyer1928_01"/></bibl> edited the inscription.</note>
+         			<note>The letter <foreign>m</foreign> is nowadays entirely lost, due, presumably, to a damage later than when <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> edited the inscription.</note>
          		</app>
          		
          		<app loc="4">
@@ -125,13 +125,13 @@
          		<app loc="4">
          			<lem>uṇpā<choice><orig><unclear>n</unclear></orig><reg>n</reg></choice> <unclear>ā</unclear><supplied reason="lost">ka</supplied></lem>
          			<rdg source="bib:SubrahmanyaAiyer1928_01">uṇpan āka</rdg>
-         			<note>The letter <foreign>ka</foreign> is nowadays entirely lost, due, presumably, to a damage later than when <bibl><ptr source="bib:SubrahmanyaAiyer1928_01"/></bibl> edited the inscription. </note>
+         			<note>The letter <foreign>ka</foreign> is nowadays entirely lost, due, presumably, to a damage later than when <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> edited the inscription. </note>
          		</app>
          		
          		<app loc="4">
          			<lem>U<hi rend="grantha">pāsi</hi><unclear>t</unclear>t’ u</lem>
          			<rdg source="bib:SubrahmanyaAiyer1928_01">U<hi rend="grantha"><unclear>pā</unclear>si</hi>tt’ u</rdg>
-         			<note>The letter <foreign>t</foreign> is nowadays partially lost, due, presumably, to a damage later than when <bibl><ptr source="bib:SubrahmanyaAiyer1928_01"/></bibl> edited the inscription.</note>
+         			<note>The letter <foreign>t</foreign> is nowadays partially lost, due, presumably, to a damage later than when <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> edited the inscription.</note>
          		</app>
          		
          		<app loc="5">
@@ -143,7 +143,7 @@
          		<app loc="6">
          			<lem>°<hi rend="grantha">ca</hi>tu<hi rend="grantha"><supplied reason="omitted">r</supplied>vvedi</hi>°</lem>
          			<rdg source="bib:SubrahmanyaAiyer1928_01">°<hi rend="grantha">ca</hi>tu<hi rend="grantha">rvve</hi>ti°</rdg>
-         			<note>The letter <foreign>t</foreign> in <foreign>tu</foreign> is nowadays partially lost, due, presumably, to a damage later than when <bibl><ptr source="bib:SubrahmanyaAiyer1928_01"/></bibl> edited the inscription. </note>
+         			<note>The letter <foreign>t</foreign> in <foreign>tu</foreign> is nowadays partially lost, due, presumably, to a damage later than when <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> edited the inscription. </note>
          		</app>
          		
          	</listApp>
