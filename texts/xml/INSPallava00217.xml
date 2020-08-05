@@ -28,7 +28,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava217</idno>
+				<idno type="filename">INSPallava00217</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -76,7 +76,7 @@
       		</p>
       		<p>
       			Īkkāṭṭu-k-kōṭṭattu-t toḻūr-nāṭṭu-t ‡ tiru <gap reason="illegible" quantity="10" unit="character" precision="low"/>
-      			<lb n="2"/>perumā<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice>aṭika<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice> aṭiyēṉ ceyya ‡ <hi rend="grantha">Aparāji</hi>‡taṉēṉ Eḻuttu-k=
+      			<lb n="2"/>perumā<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice>aṭika<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice> aṭiyēṉ ceyya ‡ <hi rend="grantha">Aparāji</hi>‡taṉēṉ Eḻuttu-k
       		</p>
       		<p>            			
       			kāliyūr-k-kōṭṭattu Utta<hi rend="grantha">ra-me‡ru-c-catu<unclear>r</unclear>vve</hi>ti‡-maṅkalattu vayira<hi rend="grantha">me</hi>ka-taṭākattukku <gap reason="illegible" quantity="4" unit="character" precision="low"/>
@@ -181,7 +181,7 @@
          	</p> 
          	
          	<p n="1-2">
-         		Writ/Writing of me Aparājita, whereas I, servant <supplied reason="explanation"><foreign>aṭiyēṉ</foreign></supplied> of Perumāṇaṭikaḷ of <gap reason="illegible"/> the glorious <supplied reason="explanation"><foreign>tiru</foreign></supplied> <gap reason="illegible"/> in the Īkkāṭṭukkōṭṭam in the Toḻūrnāṭu .
+         		Writ/Writing of me Aparājita, whereas I, servant <supplied reason="explanation"><foreign>aṭiyēṉ</foreign></supplied> of Perumāṇaṭikaḷ of <gap reason="illegible"/> the glorious <supplied reason="explanation"><foreign>tiru</foreign></supplied> <gap reason="illegible"/> in the Īkkāṭṭukkōṭṭam in the Toḻūrnāṭu.
          	</p>
          	<p n="2-3">
          		I have given one thousand <foreign>kaḻañcu</foreign>s of gold <gap reason="illegible"/> for the Vajramegha tank in Uttaramēruccaturvedimaṅgala in the Kāliyūrkkōṭṭam.
@@ -216,7 +216,7 @@
          <div type="bibliography">
 
             <p>
-First edited by Subrahmanya Aiyer<bibl rend="omitname"><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 325); text and summary in Mahalingam <bibl rend="omitname"><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 217); re-edited here, with substantial additional readings, and first translated by Emmanuel Francis (2020) from autopsy and photographs (2019).
+First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 325); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 217); re-edited, with substantial additional readings, and first translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020) from autopsy and photographs (2019).
             </p>
 
             <listBibl type="primary">
@@ -236,7 +236,7 @@ First edited by Subrahmanya Aiyer<bibl rend="omitname"><ptr target="bib:Subrahma
 
             <listBibl type="secondary">
             	
-            	<bibl>
+            	<bibl n="ARIE 1897-1898">
             		<ptr target="bib:ARIE1897-1898"/>
             		<citedRange unit="page">17</citedRange>
             		<citedRange unit="appendix">B/1898</citedRange>
