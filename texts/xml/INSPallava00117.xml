@@ -27,7 +27,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava117</idno>
+				<idno type="filename">INSPallava00117</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -41,7 +41,20 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p/>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary/>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -50,25 +63,36 @@
 	</teiHeader>
 	<text xml:space="preserve">
 		<body>
-<div type="edition" xml:lang="tam-Latn">
-<p>
-<lb n="1"/><hi rend="grantha">svasti śrī</hi> kō-vicai
-<lb n="2" break="no"/>ya-nantiv<unclear>i</unclear>kkirama
-<lb n="3" break="no"/>parumaṟku yā
-<lb n="4" break="no"/>ṇṭu mūṉṟ-ā
-<lb n="5" break="no"/>vatu Ūṟṟukkā
-<lb n="6" break="no"/>ṭṭu-<unclear>k</unclear>-kōṭṭa<unclear>t</unclear>tu
-<lb n="7" break="no"/><unclear>p</unclear> perumpālai
-<lb n="8" break="no"/>-Ūr-t tiruppālai
-<lb n="9" break="no"/>y-ūr kiḻava<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> aṭa
-<lb n="10" break="no"/>vi śrī-kaṅkaraiyar
-<lb n="11"/>nērkuṭṭi perumāṉā
-<lb n="12" break="no"/>rkku viṇṇappañ ceytu
-<lb n="13"/>aṭavi taṉ ṟāyār naṅka<unclear>ṉ</unclear>i naṅkaiyārkk-āka-c ce
-<lb n="14" break="no"/>y<unclear>ta mu</unclear>kamaṇṭakam It’ aḻi-Āmai-k kāttāṉ a
-<lb n="15" break="no"/>ṭi Eṉ <unclear>muṭi mē</unclear>
-<lb n="16" break="no"/>l		
-</p>
+			<div type="edition" xml:lang="tam-Latn">
+				
+				<p>
+					<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+				</p>
+				<p>
+					kō-vicai
+					<lb n="2" break="no"/>ya-nanti-v<unclear>i</unclear>kkirama
+					<lb n="3" break="no"/>-parumaṟku yā
+					<lb n="4" break="no"/>ṇṭu mūṉṟ-ā
+					<lb n="5" break="no"/>vatu
+				</p>
+				<p>
+					Ūṟṟukkā
+					<lb n="6" break="no"/>ṭṭu-<unclear>k</unclear>-kōṭṭa<unclear>t</unclear>tu
+					<lb n="7" break="no"/><unclear>p</unclear> perum-pālai
+					<lb n="8" break="no"/>-Ūr-t tiru-p-pālai
+					<lb n="9" break="no"/>y-ūr kiḻava<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> aṭa
+					<lb n="10" break="no"/>vi śrī-kaṅkaraiyar
+					<lb n="11"/>nērkuṭṭi perumāṉā
+					<lb n="12" break="no"/>rkku viṇṇappañ ceytu
+					<lb n="13"/>aṭavi taṉ ṟāyār naṅka<unclear>ṉ</unclear>i naṅkaiyārkk-āka-c ce
+					<lb n="14" break="no"/>y<unclear>ta mu</unclear>ka-maṇṭakam
+				</p>
+				<p>
+					It’ aḻi-Āmai-k kāttāṉ a
+					<lb n="15" break="no"/>ṭi Eṉ <unclear>muṭi mē</unclear>
+					<lb n="16" break="no"/>l		
+				</p>
+				
 </div>
                   
          <div type="apparatus">
@@ -86,13 +110,13 @@
          
          <div type="translation" xml:lang="eng" resp="part:emfr">
 	
-         	<p>Prosperity! Fortune!</p>
+         	<p n="1">Prosperity! Fortune!</p>
          	
-	<p>Third year of the victorious king Nandivikramavarman <supplied reason="explanation"><foreign>kō-vicaiya-nantivikkiramaparumaṉ</foreign></supplied>.</p>
+	<p n="1-5">Third year of the victorious king Nandivikramavarman.</p>
          	
-	<p>Aṭavi, the lord <supplied reason="explanation"><foreign>kiḻavaṉ</foreign></supplied> of Tiruppālaiyūr in Perumpālaiyūr in the district <supplied reason="explanation"><foreign>kōṭṭam</foreign></supplied> of Ūṟṟukkāṭu, after having made request to the glorious king of the Gaṅgas, the <foreign>mukhamaṇḍapa</foreign> that Aṭavi made for his own mother Naṅkaṉi Naṅkaiyār.</p>
+	<p n="5-14">Aṭavi, the lord <supplied reason="explanation"><foreign>kiḻavaṉ</foreign></supplied> of Tiruppālaiyūr in Perumpālaiyūr in the district <supplied reason="explanation"><foreign>kōṭṭam</foreign></supplied> of Ūṟṟukkāṭu, after having made request to the glorious king of the Gaṅgas, the <foreign>mukhamaṇḍapa</foreign> that Aṭavi made for his own mother Naṅkaṉi Naṅkaiyār.</p>
          	
-	<p>This <supplied reason="subaudible">pious act</supplied>, the feet of he who protects it without destroying it are on my head.</p>
+	<p n="14-16">This <supplied reason="subaudible">pious act</supplied>, the feet of he who protects it without destroying it are on my head.</p>
         
          </div>
 			
@@ -102,7 +126,7 @@
       			<foreign>perumpālai-ūr</foreign>. Compare with <foreign>tiruppālai-y-ūr</foreign>, line 8.
       		</p>
       		<p n="14">
-      			<foreign>aḻi-āmai</foreign>. Here again, there is no <foreign>sandhi</foreign>. A more frequent, but probably later, form is <foreign>aḻi-y-āmai</foreign>.
+      			<foreign>aḻi-āmai</foreign>. Here again, there is no <foreign>sandhi</foreign>. A more frequent form is <foreign>aḻi-y-āmai</foreign>.
       		</p>
             	
       	</div>
@@ -110,7 +134,7 @@
       	<div type="bibliography">
             
             <p>
-First edited by <bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl> with facsimile and English translation (EI 7, no. 4); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 117); re-edited here and translated by Emmanuel Francis (2020), based on autopsy and photographs (2019).
+First edited by <bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl> with facsimile and English translation (EI 7, no. 4); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 117); re-edited and first translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy and photographs (2019).
             </p>
       		<listBibl type="primary">
       			<bibl n="EH">

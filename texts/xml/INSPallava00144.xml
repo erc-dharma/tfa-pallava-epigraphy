@@ -28,7 +28,7 @@
 						innovation programme (grant agreement no 809994). </note>
 				</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">tfaPallava144</idno>
+				<idno type="filename">INSPallava00144</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -42,7 +42,20 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary/>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -53,42 +66,47 @@
 	</teiHeader>
 	<text xml:space="preserve">
   <body>
-            <div type="edition" xml:lang="tam-Latn">
-                <div type="textpart" subtype="face" n="A">
-                    <p>
-                        <lb n="1"/><hi rend="grantha">svasti śrī</hi> nanti
-                        <lb n="2" break="no"/>ppō<supplied reason="omitted">t</supplied>taraiyark
-                        <lb n="3" break="no"/>ku yāṇṭu Iru
-                        <lb n="4" break="no"/>pattu mūṉṟā
-                        <lb n="5" break="no"/>vatu vikkiramā
-                        <lb n="6" break="no"/>titt<choice><sic>e</sic><corr>a</corr></choice>-māvali
-                        <lb n="7" break="no"/>vāṇarāyar vaṭu
-                        <lb n="8" break="no"/>kavaḻi-mēṟku
-                        <lb n="9"/><hi rend="grantha">pṛthivirājya</hi>ñ
-                        <lb n="10"/>ceya <hi rend="grantha"><g type="symbol" subtype="visarga">ḥ</g></hi> tiruvi<choice><orig>p</orig><reg>pp</reg></choice>ira
-                        <lb n="11" break="no"/>mpēṭ’ āḷuṅ-kaṇa
-                        <lb n="12" break="no"/>ttār-uḷ muḷḷiṟ kiḻā
-                        <lb n="13" break="no"/>r vēppampoḻa
-                        <lb n="14" break="no"/>ppāḻ Ivvūr āḷu
-                        <lb n="15" break="no"/>ṅ-kaṇattār-uḷ ku
-                        <lb n="16" break="no"/>ḻaippa<unclear reason="eccentric_ductus">lū</unclear>rk ka
-                    		<!--OR read ḷū instead of lū; check-->
-                        <lb n="17" break="no"/>ṇiyar A<hi rend="grantha">gniśarmma</hi>
-                        <lb n="18" break="no"/>ṉ vilai-<hi rend="grantha">śrā</hi>vaṇai
-                        <lb n="19" break="no"/>yāl viṟṟu koṇ
-                        <lb n="20" break="no"/>ṭu Ivvūr <hi rend="grantha">paraśu
-                        <lb n="21" break="no"/>r<choice><sic>a</sic><corr>ā</corr></choice>m<choice><orig>ī</orig><reg>e</reg></choice>śvara</hi>ttu <hi rend="grantha">mahāde</hi>
-                        <lb n="22" break="no"/>varkku tiruviḷak
-                        <lb n="23" break="no"/>ku-ney-p-puṟam-<unclear>ā</unclear>
-                        <lb n="24" break="no"/>ka kuṭuttār</p>
-                </div>
-                
-                <div type="textpart" subtype="face" n="B" rend="tb-rotated">
-                    <p>
-                        <lb n="25"/>Ivvūr <hi rend="grantha">sabhai</hi>yō<choice><orig>mm</orig><reg>m</reg></choice>um In-nilatt-ē I-v-vūr-c cekk-uḷḷaṉa Ellām
-                        <lb n="26"/>naṭṭu-t tiruviḷakkukk-ē-y vāya Eṇṇai koḷvaṭ’ āka-p paṇittōm·
-                    </p>
-                </div>
+  	<div type="edition" xml:lang="tam-Latn">
+  		
+  		<p>
+  			<milestone unit="face" n="A"/>  			
+  			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+  		</p>            	
+  		<p>
+  			nanti
+  			<lb n="2" break="no"/>ppō<supplied reason="omitted">t</supplied>taraiyark
+  			<lb n="3" break="no"/>ku yāṇṭu Iru
+  			<lb n="4" break="no"/>pattu mūṉṟā
+  			<lb n="5" break="no"/>vatu
+  		</p>
+  		<p>
+  			vikkiramā
+  			<lb n="6" break="no"/>titt<choice><sic>e</sic><corr>a</corr></choice>-māvali
+  			<lb n="7" break="no"/>vāṇarāyar vaṭu
+  			<lb n="8" break="no"/>kavaḻi-mēṟku
+  			<lb n="9"/><hi rend="grantha">pṛthivirājya</hi>ñ
+  			<lb n="10"/>ceya <hi rend="grantha"><g type="symbol" subtype="visarga">ḥ</g><!--update: visarga as punctuation--></hi> tiruvi<choice><orig>p</orig><reg>pp</reg></choice>ira
+  			<lb n="11" break="no"/>mpēṭ’ āḷuṅ-kaṇa
+  			<lb n="12" break="no"/>ttār-uḷ muḷḷiṟ kiḻā
+  			<lb n="13" break="no"/>r vēppampoḻa
+  			<lb n="14" break="no"/>ppāḻ Ivvūr āḷu
+  			<lb n="15" break="no"/>ṅ-kaṇattār-uḷ ku
+  			<lb n="16" break="no"/>ḻaippa<unclear reason="eccentric_ductus">lū</unclear>rk ka
+  			<!--OR read ḷū instead of lū; check-->
+  			<lb n="17" break="no"/>ṇiyar A<hi rend="grantha">gniśarmma</hi>
+  			<lb n="18" break="no"/>ṉ vilai-<hi rend="grantha">śrā</hi>vaṇai
+  			<lb n="19" break="no"/>yāl viṟṟu koṇ
+  			<lb n="20" break="no"/>ṭu Ivvūr <hi rend="grantha">paraśu
+  			<lb n="21" break="no"/>r<choice><sic>a</sic><corr>ā</corr></choice>m<choice><orig>ī</orig><reg>e</reg></choice>śvara</hi>ttu <hi rend="grantha">mahāde</hi>
+  			<lb n="22" break="no"/>varkku tiruviḷak
+  			<lb n="23" break="no"/>ku-ney-p-puṟam-<unclear>ā</unclear>
+  			<lb n="24" break="no"/>ka kuṭuttār
+  		</p>
+  		<p>
+  			<milestone unit="face" n="B"/>
+  			<lb n="25" rend="tb-rotated"/>Ivvūr <hi rend="grantha">sabhai</hi>yō<choice><orig>mm</orig><reg>m</reg></choice>um In-nilatt-ē I-v-vūr-c cekk-uḷḷaṉa Ellām
+  			<lb n="26" rend="tb-rotated"/>naṭṭu-t tiruviḷakkukk-ē-y vāya Eṇṇai koḷvaṭ’ āka-p paṇittōm·
+  		</p>     
 
             </div>
 
@@ -98,24 +116,24 @@
 
                     <app loc="1">
                        <lem><hi rend="grantha">śrī</hi></lem>
-                       <rdg source="bib:Venkayya1912_01">śrī-</rdg>
+                       <rdg source="bib:Venkayya1911-1912_01">śrī-</rdg>
                        <note>We believe that <foreign>śrī</foreign> is not a prefix to the name of the king, but part of the auspicious beginning.</note>
                     </app>
 
                     <app loc="1">
                         <lem>nantippō<supplied reason="omitted">t</supplied>taraiyarkku</lem>
-                        <rdg source="bib:Venkayya1912_01">na<choice><sic>nti</sic><corr><hi rend="grantha">ndi</hi></corr></choice>ppō<supplied reason="omitted">t</supplied>taraiyarkku</rdg>
+                        <rdg source="bib:Venkayya1911-1912_01">na<choice><sic>nti</sic><corr><hi rend="grantha">ndi</hi></corr></choice>ppō<supplied reason="omitted">t</supplied>taraiyarkku</rdg>
                     	<note>The correction seems to us unnecessary, as we consider that the conjunct <foreign>nti</foreign> is in Tamil script and not in Grantha, both alphabets sharing these characters. Note that <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> writes in the word <foreign>nanti</foreign> the same syllable <foreign>nti</foreign> is with two <foreign>eḻuttu</foreign>s.</note>
                     </app>
 
                     <app loc="4">
                         <lem>mūṉṟāvatu</lem>
-                        <note><bibl><ptr target="bib:Venkayya1912_01"/></bibl> notes: “The secondary <hi rend="italic">ā</hi> of <hi rend="italic">ṟā</hi> is a separate symbol.”</note>
+                        <note><bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: “The secondary <hi rend="italic">ā</hi> of <hi rend="italic">ṟā</hi> is a separate symbol.”</note>
                     </app>
 
                     <app loc="10">
                         <lem>ḥ</lem>
-                        <note><bibl><ptr target="bib:Venkayya1912_01"/></bibl> notes: “The <hi rend="italic">visarga</hi> is used here as a sign of punctuation. Compare <hi rend="italic">South-Ind. Inscrs.</hi> Vol. II p. 111, note 1.”</note>
+                        <note><bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: “The <hi rend="italic">visarga</hi> is used here as a sign of punctuation. Compare <hi rend="italic">South-Ind. Inscrs.</hi> Vol. II p. 111, note 1.”</note>
                     </app>
 
                     <app loc="10">
@@ -125,29 +143,29 @@
 
                     <app loc="12">
                         <lem> kiḻār</lem>
-                        <rdg source="bib:Venkayya1912_01">kiḻ<unclear>ā</unclear>r</rdg>
+                        <rdg source="bib:Venkayya1911-1912_01">kiḻ<unclear>ā</unclear>r</rdg>
                         <note>The medial <foreign>ā</foreign> is clear on the stone, but smaller.</note>
                     </app>
 
                     <app loc="17">
                         <lem><hi rend="grantha">Agniśarmma</hi>ṉ</lem>
-                        <rdg source="bib:Venkayya1912_01"><unclear>A</unclear>gniśa<unclear>r</unclear>mmaṉ</rdg>
+                        <rdg source="bib:Venkayya1911-1912_01"><unclear>A</unclear>gniśa<unclear>r</unclear>mmaṉ</rdg>
                         <note>All letters are clear on the stone.</note>
                     </app>
 
                     <app loc="18">
                         <lem><hi rend="grantha">śrā</hi>vaṇai</lem>
-                        <rdg source="bib:Venkayya1912_01">vilaiśrāva<unclear>ṇ</unclear>ai</rdg>
+                        <rdg source="bib:Venkayya1911-1912_01">vilaiśrāva<unclear>ṇ</unclear>ai</rdg>
                         <note>All letters are clear on the stone.</note>
                     </app>
 
                     <app loc="21">
                         <lem><hi rend="grantha">mahāde</hi>varkku</lem>
-                        <note><bibl><ptr target="bib:Venkayya1912_01"/></bibl> notes: “The <hi rend="italic">aksharas hādē</hi> are much smaller than the rest of the inscription.”</note></app>
+                        <note><bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: “The <hi rend="italic">aksharas hādē</hi> are much smaller than the rest of the inscription.”</note></app>
 
                     <app loc="25">
                         <lem>cekk-uḷḷaṉa</lem>
-                        <rdg source="bib:Venkayya1912_01"><unclear>ce</unclear>kkuḷ<unclear>ḷa</unclear>ṉa</rdg>
+                        <rdg source="bib:Venkayya1911-1912_01"><unclear>ce</unclear>kkuḷ<unclear>ḷa</unclear>ṉa</rdg>
                         <note>All letters are clear on the stone.</note>
                     </app>
 
@@ -158,7 +176,7 @@
 
                     <app loc="26">
                         <lem>paṇittōm·</lem>
-                        <note><bibl><ptr target="bib:Venkayya1912_01"/></bibl> notes: “The <hi rend="italic">puḷḷi</hi> which is conspicuous by its absence in the whole inscription is marked on the last letter <hi rend="italic">m</hi>.”--></note>
+                        <note><bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: “The <hi rend="italic">puḷḷi</hi> which is conspicuous by its absence in the whole inscription is marked on the last letter <hi rend="italic">m</hi>.”--></note>
                     </app>
 
                 </listApp>
@@ -174,17 +192,17 @@
   			
                         <app loc="18">
                             <lem>vilai-<hi rend="grantha">śrā</hi>vaṇai</lem>
-                            <note><bibl><ptr target="bib:Venkayya1912_01"/></bibl> notes: “The term <hi rend="italic">vilai-śravaṇai</hi> occurs twice in a similar context in <hi rend="italic">South-Ind. Inscrs.</hi> Vol. III. p. 105, text-line 5.”</note>
+                            <note><bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: “The term <hi rend="italic">vilai-śravaṇai</hi> occurs twice in a similar context in <hi rend="italic">South-Ind. Inscrs.</hi> Vol. III. p. 105, text-line 5.”</note>
                         </app>
 
                         <app loc="22">
                             <lem>tiruviḷakku-ney-p-puṟam</lem>
-                            <note><bibl><ptr target="bib:Venkayya1912_01"/></bibl> notes: “With <hi rend="italic">tiruviḷakku-ney-ppuṟam</hi> compare <hi rend="italic">ambala-ppuṟam</hi> (above<hi rend="italic">=South-Ind. Inscrs.</hi>, Vol. III. p. 285, text-line 7), <hi rend="italic">nandavāṉa-puram<!--check original spelling--></hi> (<hi rend="italic">South-Ind. Inscrs.</hi> Vol. III. p. 5, text-line 5), <hi rend="italic">pudukku-ppuṟam<!--check original spelling--></hi> (ibid. p. 7, text-line 8) and <hi rend="italic">uṇṇāḻigai-ppuṟam<!--check original spelling--></hi> (ibid. p. 19, text-line 6).”</note>
+                            <note><bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: “With <hi rend="italic">tiruviḷakku-ney-ppuṟam</hi> compare <hi rend="italic">ambala-ppuṟam</hi> (above<hi rend="italic">=South-Ind. Inscrs.</hi>, Vol. III. p. 285, text-line 7), <hi rend="italic">nandavāṉa-puram<!--check original spelling--></hi> (<hi rend="italic">South-Ind. Inscrs.</hi> Vol. III. p. 5, text-line 5), <hi rend="italic">pudukku-ppuṟam<!--check original spelling--></hi> (ibid. p. 7, text-line 8) and <hi rend="italic">uṇṇāḻigai-ppuṟam<!--check original spelling--></hi> (ibid. p. 19, text-line 6).”</note>
                         </app>
 
                         <app loc="25">
                             <lem>cekk-uḷḷaṉa</lem>
-                            <note><bibl><ptr target="bib:Venkayya1912_01"/></bibl> notes: “It is also possible that the reading is <hi rend="italic">cēkk-uḷḷana</hi> (instead of <hi rend="italic">cekk-uḷḷaṉa</hi>), in which case the translation would be “all (the crops) for which the fields of this village are (fit) shall be raised on this field, and the oil required for the sacred lamps shall be purchased (out of the produce).”</note>
+                            <note><bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: “It is also possible that the reading is <hi rend="italic">cēkk-uḷḷana</hi> (instead of <hi rend="italic">cekk-uḷḷaṉa</hi>), in which case the translation would be “all (the crops) for which the fields of this village are (fit) shall be raised on this field, and the oil required for the sacred lamps shall be purchased (out of the produce).”</note>
                         </app>
 
                     </listApp>            
@@ -193,26 +211,22 @@
   	<div type="bibliography">
   		
 <p>
-<!--normally add page quotation in this <p>-->
-First edited in <bibl><ptr target="bib:GopinathaRao1911_01"/></bibl> with English translation.
-Edited in <bibl><ptr target="bib:Venkayya1912_01"/></bibl> (EI 11, no. 22A) with facsimile and English translation.
-Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no.144).
-This edition by Emmanuel Francis (2020), based on photographs (2019).
+First edited in <bibl><ptr target="bib:GopinathaRao1911_01"/></bibl> with English translation; re-edited in <bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> (EI 11, no. 22A) with facsimile and English translation; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no.144); re-edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on photographs (2019).
 </p>
 
   		
   		<listBibl type="primary">
-  			<bibl>
+  			<bibl n="TVGR">
   				<ptr target="bib:GopinathaRao1911_01"/>
   				<citedRange unit="item">D</citedRange>
   				<citedRange unit="page">111-113</citedRange>
   			</bibl>
-  			<bibl>
-  				<ptr target="bib:Venkayya1912_01"/>
+  			<bibl n="VV">
+  				<ptr target="bib:Venkayya1911-1912_01"/>
   				<citedRange unit="item">A</citedRange>
   				<citedRange unit="page">224-225</citedRange>
   			</bibl>
-  			<bibl>
+  			<bibl n="TVM">
   				<ptr target="bib:Mahalingam1988_01"/>
   				<citedRange unit="item">144</citedRange>
   				<citedRange unit="page">421-422</citedRange>
@@ -221,7 +235,7 @@ This edition by Emmanuel Francis (2020), based on photographs (2019).
   		
   		<listBibl type="secondary">
   			
-  			<bibl>
+  			<bibl n="ARIE 1903-1904">
   				<ptr target="bib:ARIE1903-1904"/>
     				<citedRange unit="page">22</citedRange>
     				<citedRange unit="appendix">A/1903</citedRange>
