@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Uttiramērūr, Vaikuṇṭhaperumāl, incomplete inscription of the time of
+				<title>Uttiramērūr, Vaikuṇṭhaperumāl, time of
 					Nṛpatuṅgavarman, year 25</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
@@ -28,7 +28,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava163</idno>
+				<idno type="filename">INSPallava00163</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -48,7 +48,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary/>
+						<summary>Unfinished inscription.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -70,37 +70,34 @@
       		</p>
       		<p>
       			<hi rend="grantha">nṛpa</hi>t<choice><orig>o</orig><reg>u</reg></choice>ṅkaṟku yāṇṭu Irupattu <choice><orig>Ay</orig><reg>Ai</reg></choice>nt-āvatu 			
-      		</p><!--Update: use <gap> to indicate incompleteness?-->
+      		</p>
       	</div>
 
          <div type="apparatus"/>
 
          <div type="translation" xml:lang="eng" resp="part:emfr">
-         	<p>Prosperity! Fortune!</p>
-         	<p>Twenty-fifth year of Nṛpatuṅga.</p>
+         	<p n="1">Prosperity! Fortune!</p>
+         	<p n="1">Twenty-fifth year of Nṛpatuṅga.</p>
          </div>
       	
          <div type="commentary">
-         	<p>Incomplete/Unfinished inscription.</p><!--Update-->
+         	
          </div>
       	
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 366).
-Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 187). 
-This edition by Emmanuel Francis (2020), based on autopsy and photographs (2019).
-First English translation.
+First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 366); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 187); re-edited and first translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy and photographs (2019).
             </p>
 
             <listBibl type="primary">
             	
-            	<bibl>
+            	<bibl n="KVSA">
             		<ptr target="bib:SubrahmanyaAiyer1928_01"/>
             		<citedRange unit="page">169</citedRange>
             		<citedRange unit="item">366</citedRange>
             	</bibl>
-            	<bibl>
+            	<bibl n="TVM">
             		<ptr target="bib:Mahalingam1988_01"/>
             		<citedRange unit="page">518</citedRange>
             		<citedRange unit="item">187</citedRange>
@@ -110,7 +107,7 @@ First English translation.
 
             <listBibl type="secondary">
             	
-            	<bibl>
+            	<bibl n="ARIE 1897-1898">
             		<ptr target="bib:ARIE1897-1898"/>
             		<citedRange unit="page">18</citedRange>
             		<citedRange unit="appendix">B/1898</citedRange>

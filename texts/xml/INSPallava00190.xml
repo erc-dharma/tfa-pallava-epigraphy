@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Uttiramērūr, Vaikuṇṭhaperumāl, sale-deed of the time of Nṛpatuṅgavarman, year
+				<title>Uttiramērūr, Vaikuṇṭhaperumāl, sale-deed, time of Nṛpatuṅgavarman, year
 					26</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
@@ -28,7 +28,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava190</idno>
+				<idno type="filename">INSPallava00190</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -81,7 +81,7 @@
       			muttar<choice><orig>a</orig><reg>ai</reg></choice>yar-n<unclear>ā</unclear>ṭṭu mī-kūṟṟu viḷā-nāṭṭu-k kūkūr-k <supplied reason="lost">kū</supplied>
       			<lb n="4" break="no"/>kūr vic<choice><orig>a</orig><reg>ai</reg></choice>yanalluḷāṉ kāṭavati<unclear reason="eccentric_ductus">y</unclear>āṉ-ākiya p<unclear>ū</unclear>ti-tīraṉukku Emm-ūr-t teṉ-paṭākai
       			<lb n="5" break="no"/>p peruṅ-kōṭṭ' ēri-k kīḻ āṭalam pūṇṭi-t teṟku-k kūṟiṭātē kiṭanta kīḻ-p-pūṇṭiy<unclear>u</unclear>m
-      		</p><!--Update: use <gap> to indicate incompleteness?-->
+      		</p>
       		
       	</div>
 
@@ -153,11 +153,16 @@
          </div>
 
          <div type="translation" xml:lang="eng" resp="part:emfr">
-         	<p>Prosperity! Fortune!</p>
-         	<p>Twenty-sixth year of the victorious king Nṛpatuṅgavikramavarman.</p>
-         	<p>Hand-written <supplied reason="explanation"><foreign>kai-y-eḻuttu</foreign></supplied> document <supplied reason="explanation"><foreign>āvaṇam<!--or Āvaṇam? cf. TG--></foreign></supplied> for the price of a land <supplied reason="explanation"><foreign>nila-vilai</foreign>, that is, sale-deed</supplied> <supplied reason="subaudible">by</supplied> We, the members of the assembly <supplied reason="explanation"><foreign><hi rend="grantha">sabhai</hi>yōm</foreign></supplied> of Uttaramērucaturvedimaṅgalam in the Kāliyūr-k-kōṭṭam <!--Update to "district of K"?--> and the division of the same <supplied reason="explanation"><foreign>taṉ kūṟṟu</foreign>, that is, literally, "in the division of itself"</supplied>.
+         	<p n="1">
+         		Prosperity! Fortune!
          	</p>
-         	<p>
+         	<p n="1">
+         		Twenty-sixth year of the victorious king Nṛpatuṅgavikramavarman.
+         	</p>
+         	<p n="1-2">
+         		Hand-written <supplied reason="explanation"><foreign>kai-y-eḻuttu</foreign></supplied> document <supplied reason="explanation"><foreign>āvaṇam<!--or Āvaṇam? cf. TG--></foreign></supplied> for the price of a land <supplied reason="explanation"><foreign>nila-vilai</foreign>, that is, sale-deed</supplied> <supplied reason="subaudible">by</supplied> We, the members of the assembly <supplied reason="explanation"><foreign><hi rend="grantha">sabhai</hi>yōm</foreign></supplied> of Uttaramērucaturvedimaṅgalam in the Kāliyūr-k-kōṭṭam <!--Update to "district of K"?--> and the division of the same <supplied reason="explanation"><foreign>taṉ kūṟṟu</foreign>, that is, literally, "in the division of itself"</supplied>.
+         	</p>
+         	<p n="3-5">
          		<supplied reason="subaudible">In</supplied> Kūkūr, in the Viḷā-nāṭu, in the western division <supplied reason="explanation"><foreign>mī-kūṟṟu</foreign></supplied>, in the Muttaraiyar-nāṭu, to Pūti Tīraṉ alias Vicaiyanalluḷāṉ Kāṭavati <supplied reason="subaudible">of</supplied> Kūkūr, the whole of Kīl-p-pūṇṭi <supplied reason="explanation">literally, "the eastern village/hamlet"</supplied>, which lies fallow <supplied reason="explanation"><foreign>kiṭanta</foreign></supplied> without being ...<!--Update!--> <supplied reason="explanation"><foreign>kūṟiṭātē</foreign></supplied>, in the southern hamlet <supplied reason="explanation"><foreign>paṭākai</foreign></supplied> of our village, east of the Peruṅ-kōṭu lake <!--update: add literal translation-->, south of Āṭalam Pūṇṭi<!--add gap-->
          	</p>
          </div>
@@ -172,20 +177,17 @@
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 368).
-Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 190). 
-This edition by Emmanuel Francis (2020), based on autopsy and photographs (2019).
-First English translation.
+First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 368); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 190); re-edited and first translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy and photographs (2019).
             </p>
 
             <listBibl type="primary">
             	
-            	<bibl>
+            	<bibl n="KVSA">
             		<ptr target="bib:SubrahmanyaAiyer1928_01"/>
             		<citedRange unit="page">169</citedRange>
             		<citedRange unit="item">368</citedRange>
             	</bibl>
-            	<bibl>
+            	<bibl n="TVM">
             		<ptr target="bib:Mahalingam1988_01"/>
             		<citedRange unit="page">521</citedRange>
             		<citedRange unit="item">190</citedRange>
@@ -195,7 +197,7 @@ First English translation.
 
             <listBibl type="secondary">
             	
-            	<bibl>
+            	<bibl n="ARIE 1897-1898">
             		<ptr target="bib:ARIE1897-1898"/>
             		<citedRange unit="page">18</citedRange>
             		<citedRange unit="appendix">B/1898</citedRange>
