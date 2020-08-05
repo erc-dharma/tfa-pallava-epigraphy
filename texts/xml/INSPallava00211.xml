@@ -28,7 +28,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava211</idno>
+				<idno type="filename">INSPallava00211</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -84,7 +84,7 @@
       		</p>
       		<p>
       			<supplied reason="lost">Āṭ·</supplied><unclear>ṭāṇṭu-tōṟu</unclear>m <unclear>va</unclear>yiramēka-taṭākattu<unclear>kkē Ēri</unclear>
-      			<lb n="4" break="no"/><unclear>vāriya-p-perumakkaḷē kaṭai-k-kaṇṭu ku</unclear>ḻi-vāyi<unclear>l Ā</unclear>ṭṭuvittu <hi rend="grantha">prasādam</hi> ceyvarkaḷ āka <unclear>ip-pāṭakam vaittēṉ</unclear> <supplied reason="lost"><hi rend="grantha">A</hi></supplied><hi rend="grantha"><unclear>gnicarmma-kra</unclear></hi><unclear>mavitta-c-cōmā</unclear><hi rend="grantha"><unclear>śi</unclear></hi><unclear>yē</unclear>ṉ <g type="symbol" subtype="finalGomutra"/>
+      			<lb n="4" break="no"/><unclear>vāriya-p-perumakkaḷē kaṭai-k-kaṇṭu ku</unclear>ḻi-vāyi<unclear>l Ā</unclear>ṭṭuvittu <hi rend="grantha">prasādam</hi> ceyvarkaḷ āka <unclear>ip-pāṭakam vaittēṉ</unclear> <supplied reason="lost"><hi rend="grantha">A</hi></supplied><hi rend="grantha"><unclear>gnicarmma-kra</unclear></hi><unclear>mavitta-c-cōmā</unclear><hi rend="grantha"><unclear>śi</unclear></hi><unclear>yē</unclear>ṉ <g type="finalGomutra"><!--update encoding?-->.</g>
       		</p>
       		      		
       	</div>
@@ -168,20 +168,17 @@
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 294).
-Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 211). 
-This edition by Emmanuel Francis (2020), based on autopsy and photographs (2019).
-First English translation.
+First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 294); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 211); re-edited and first translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy and photographs (2019).
             </p>
 
             <listBibl type="primary">
             	
-            	<bibl>
+            	<bibl n="KVSA">
             		<ptr target="bib:SubrahmanyaAiyer1928_01"/>
             		<citedRange unit="page">149</citedRange>
             		<citedRange unit="item">294</citedRange>
             	</bibl>
-            	<bibl>
+            	<bibl n="TVM">
             		<ptr target="bib:Mahalingam1988_01"/>
             		<citedRange unit="page">553</citedRange>
             		<citedRange unit="item">211</citedRange>
@@ -191,7 +188,7 @@ First English translation.
 
             <listBibl type="secondary">
             	
-            	<bibl>
+            	<bibl n="ARIE 1897-1898">
             		<ptr target="bib:ARIE1897-1898"/>
             		<citedRange unit="page">16</citedRange>
             		<citedRange unit="appendix">B/1898</citedRange>

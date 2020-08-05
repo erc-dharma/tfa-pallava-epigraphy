@@ -30,7 +30,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">tfaPallava208</idno>
+				<idno type="filename">INSPallava00208</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -44,7 +44,20 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary/>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -66,11 +79,12 @@
          		kāl<choice><sic>ī</sic><corr>i</corr></choice>‡yūr-k-kōṭṭattu taṉ kūṟṟu Uttiramēru-cat<choice><sic>i</sic><corr>u</corr></choice><unclear>r</unclear><hi rend="grantha">ve</hi>tima‡ṅkalattu sabhaiyōm
          		<lb n="2"/>ceyta <unclear>vya</unclear><surplus>ya</surplus>vasthai-<unclear>y</unclear>
          	</p>
-         	<p>Emm<choice><unclear>ū</unclear><unclear>u</unclear></choice>r mē<supplied reason="omitted">ṟ</supplied>kku niṉṟum n‡ālān teruvu telkil aṅkāṭikkēy U<choice><unclear>r</unclear><unclear>ḻ</unclear></choice>uva‡ppukka vaḻiyiṉ mēṟ
+         	<p>
+         		Emm<choice><unclear>ū</unclear><unclear>u</unclear></choice>r mē<supplied reason="omitted">ṟ</supplied>kku niṉṟum n‡ālān teruvu telkil aṅkāṭikkēy U<choice><unclear>r</unclear><unclear>ḻ</unclear></choice>uva‡ppukka vaḻiyiṉ mēṟ
          		<lb n="3" break="no"/><unclear>kum ātaṇi</unclear>maṅkalaviti teṉ-ciṟakil kiḻakkaṭaiya‡p peruṅkuṟi-y <hi rend="grantha">sabhai</hi>yōm mutal-āy n<unclear>ā</unclear>‡lu maṉai<choice><orig>yy</orig><reg>y</reg></choice>ilum kiḻa
          		<lb n="4" break="no"/>kkaṭaiya <unclear>Oru</unclear> maṉai-<choice><orig>yy</orig><reg>y</reg></choice> Añ-kō<choice><orig>ll</orig><reg>l</reg></choice>-uḷḷa maṉai<choice><orig>yy</orig><reg>y</reg></choice>il ‡ telkil aṅkāṭi-c caṭṭi makaṉ pu‡liyaṉukku viṟṟu ki
-         		<lb n="5" break="no"/>ḻakkaṭaiya nālu kōlum n<choice><orig>i</orig><corr>ī</corr></choice>kki-y ‡ niṉṟa Oru kōlum I<unclear>tiṉ</unclear> Ōṭai-y Aṭai‡nta mēlai-y m<choice><unclear>ū</unclear><unclear>u</unclear></choice>ṉṟu maṉaiy<unclear>u</unclear>m<surplus>u</surplus> Icca  <g type="dashPlain"/>          	
-         		<lb n="6" break="no"/>ṭṭi makaṉ puliyaṉukku viṟṟa nāl k‡ōlukkum maṟutalai-y Āka kurava-ci<supplied reason="omitted">ri</supplied> Irā<hi rend="grantha">ma</hi>-tēva‡-<hi rend="grantha">bha</hi>ṭṭar pakkal Im-maṉaikaḷ <unclear>O</unclear>ṭum <g type="dashPlain"/>
+         		<lb n="5" break="no"/>ḻakkaṭaiya nālu kōlum n<choice><orig>i</orig><corr>ī</corr></choice>kki-y ‡ niṉṟa Oru kōlum I<unclear>tiṉ</unclear> Ōṭai-y Aṭai‡nta mēlai-y m<choice><unclear>ū</unclear><unclear>u</unclear></choice>ṉṟu maṉaiy<unclear>u</unclear>m<surplus>u</surplus> Icca <g type="dash"/>          	
+         		<lb n="6" break="no"/>ṭṭi makaṉ puliyaṉukku viṟṟa nāl k‡ōlukkum maṟutalai-y Āka kurava-ci<supplied reason="omitted">ri</supplied> Irā<hi rend="grantha">ma</hi>-tēva‡-<hi rend="grantha">bha</hi>ṭṭar pakkal Im-maṉaikaḷ <unclear>O</unclear>ṭum <g type="dash"/>
          		<lb n="7"/>Aṭaiya vilaikku koṇṭa Oru m‡aṉaiyum Āy In-nālē-y Oru kōl maṉai‡yum Ivaiy <hi rend="grantha">sabhai</hi>yōmukkē-y
          		<lb n="8"/>vēṇṭuvaṉa Ātaṉamai<choice><orig>y‡y</orig><reg>y‡</reg></choice>il Im-maṉaikaḷ Ārum viṟkavum piṟa‡rkku paṇik<unclear>k</unclear>avum peṟātār ākavum
          	</p>
@@ -84,12 +98,13 @@
          	<p>
          		Ip-paricu v<unclear>i</unclear>yava<hi rend="grantha">sthai</hi>-y paṇittōm <hi rend="grantha">sa
          		<lb n="11" break="no"/>bhai</hi>yōm 
-         		</p>
+         	</p>
          	<p>
-         		paṇippa Eḻutiṉēṉ tiru<supplied reason="omitted">va</supplied>ṭikaḷ {finalGomutra}<!--update markup gomutra!-->
+         		paṇippa Eḻutiṉēṉ tiru<supplied reason="omitted">va</supplied>ṭikaḷ <g type="finalGomutra">.</g><!--Check markup gomutra!-->
          	</p>
          			
          </div>
+      	
       	<div type="apparatus">
       		<!--Finalise apparatus: check other editions: letters unclear to me, but not to previous editors-->
       		<listApp>
@@ -158,7 +173,7 @@
       	<div type="bibliography">
 
  <p>
-First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 290); this first edition reproduced with a summary by Mahalingam <bibl rend="omitname"><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 208); re-edited here by Emmanuel Francis (2020), from autopsy and photographs (2019).
+First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 290); text and summary in Mahalingam <bibl rend="omitname"><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 208); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), from autopsy and photographs (2019).
 </p>	
       		
 <listBibl type="primary">
@@ -178,7 +193,7 @@ First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6,
 
 <listBibl type="secondary">
 	
-	<bibl>
+	<bibl n="ARIE 1897-1898">
 		<ptr target="bib:ARIE1897-1898"/>
 		<citedRange unit="page">16</citedRange>
 		<citedRange unit="appendix">B/1898</citedRange>
