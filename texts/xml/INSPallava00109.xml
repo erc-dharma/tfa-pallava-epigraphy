@@ -30,7 +30,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">tfaPallava109</idno>
+				<idno type="filename">INSPallava00109</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -44,7 +44,20 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary/>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -65,7 +78,7 @@
          		Uttaramēru-catu‡<hi rend="grantha"><supplied reason="omitted">r</supplied>vve</hi>ti-maṅgalattu <hi rend="grantha">sabhai</hi>yōm ceyta <hi rend="grantha">vya</hi>va<hi rend="grantha">sthai</hi>
          	</p>
          	<p> Emmūr <hi rend="grantha">bhū</hi>mi-Uṭaiya kuṭikaḷ <hi rend="grantha">bhū</hi>mi-<hi rend="grantha">sā</hi>mantu <unclear>ceyka Eṉṟu van=taṉa Epper</unclear>ppaṭṭaṉa
-         		<lb n="2" break="no"/>vum <hi rend="grantha"><unclear>sā</unclear></hi><unclear>man=tu</unclear> ceyya va<choice><orig>ṉ</orig><reg>n</reg></choice>ta <hi rend="grantha">bhū</hi>mi-y-uṭaiyāṉ muṉ ṉi<unclear>ṉṟu</unclear> po<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> iṭātār <hi rend="grantha">bhū</hi>mikku <hi rend="grantha">sā</hi>mantu <gap reason="illegible" quantity="2" unit="character" precision="low"/> m po<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> iṭa-mā‡ṭṭā<unclear>ta</unclear> kuṭi palavum niṟkka-māṭṭātu pōṉamaiyil Ūrōmēy po<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> iṭṭu Avaṉ <hi rend="grantha">bhū</hi>miyil <gap reason="illegible" quantity="2" unit="character"/> poṉ<unclear>ṉu</unclear>kku vēṇṭum aḷa<unclear>vu</unclear> Emmūr vaiyiramē
+         		<lb n="2" break="no"/>vum <!--display issue: opening parenthes is in bold and should not be--><hi rend="grantha"><unclear>sā</unclear></hi><unclear>man=tu</unclear> ceyya va<choice><orig>ṉ</orig><reg>n</reg></choice>ta <hi rend="grantha">bhū</hi>mi-y-uṭaiyāṉ muṉ ṉi<unclear>ṉṟu</unclear> po<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> iṭātār <hi rend="grantha">bhū</hi>mikku <hi rend="grantha">sā</hi>mantu <gap reason="illegible" quantity="2" unit="character" precision="low"/> m po<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> iṭa-mā‡ṭṭā<unclear>ta</unclear> kuṭi palavum niṟkka-māṭṭātu pōṉamaiyil Ūrōmēy po<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> iṭṭu Avaṉ <hi rend="grantha">bhū</hi>miyil <gap reason="illegible" quantity="2" unit="character"/> poṉ<unclear>ṉu</unclear>kku vēṇṭum aḷa<unclear>vu</unclear> Emmūr vaiyiramē
          		<lb n="3" break="no"/>ka-taṭākattukkē <hi rend="grantha">bhū</hi>mi-y-āka <hi rend="grantha">sā</hi>ma<unclear>n=tu</unclear> ceytu viṟṟu-k kuṭuttu maṇṭakattu kallilē Eḻuttu <unclear>ve</unclear>ṭṭu‡vat' ākavum 
          	</p>
          	<p>
@@ -132,8 +145,8 @@
 <p n="5">Having done <supplied reason="explanation"><foreign>ceytu</foreign></supplied> in this wise, and having ordered to return <supplied reason="subaudible">such lands</supplied> <supplied reason="explanation"><foreign>mīḷa-p paṇittu</foreign></supplied> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>paṇi-y</foreign></supplied> <gap reason="lost"/></p>      		
       	</div>
       	      	
-      	<div type="commentary"><!--Update!
--->      		<p>EI version: 4 lines. Incorrect for 5 lines.</p>
+      	<div type="commentary"><!--Update!-->
+      		<p>EI version: 4 lines. Incorrect for 5 lines.</p>
       		<p><foreign>sāmantu</foreign>. See EI discussion.</p>
       		<p n="4-5"><foreign>niyāyattāl koḷḷa uṭaiya poṉ ellām</foreign>. See EI, p. 33. Literally: "the entire gold owned so as to get [the land] as per regulation".</p>
       		<p n="4-5"><foreign>veṭṭi-p pōka iṭu<unclear>vat’ ā</unclear>kavum</foreign>. See EI, p. 34. Literally: "...".</p>
@@ -142,17 +155,17 @@
       	<div type="bibliography">
 
  <p>
- 	First edited by Subrahmanya Aiyer <bibl rend="omitname"><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 334); re-edited and translated by Subrahmanya Aiyer <bibl rend="omitname"><ptr target="bib:SubrahmanyaAiyer1936-1937_01"/></bibl> (EI 24, no. 7/A); these editions reproduced with a summary by Mahalingam <bibl rend="omitname"><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 109); re-edited here by Emmanuel Francis (2020), from autopsy and photographs (2019).
+ 	First edited by Subrahmanya Aiyer <bibl rend="omitname"><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 334); re-edited and translated by Subrahmanya Aiyer <bibl rend="omitname"><ptr target="bib:SubrahmanyaAiyer1936-1937_01"/></bibl> (EI 24, no. 7/A); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 109); re-edited and first translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), from autopsy and photographs (2019).
 </p>	
       		
       		<listBibl type="primary">
       			
-      			<bibl n="KVSA1928">
+      			<bibl n="KVSA 1928">
       				<ptr target="bib:SubrahmanyaAiyer1928_01"/>
       				<citedRange unit="page">161</citedRange>
       				<citedRange unit="item">344</citedRange>
       			</bibl>
-      			<bibl n="KVSA1936-1937">
+      			<bibl n="KVSA 1936-1937">
       				<ptr target="SubrahmanyaAiyer1936-1937_01"/>
       				<citedRange unit="page">29-34</citedRange>
       			</bibl>
@@ -165,7 +178,7 @@
       		
       		<listBibl type="secondary">
       			
-      			<bibl>
+      			<bibl n="ARIE 1897-1898">
       				<ptr target="bib:ARIE1897-1898"/>
       				<citedRange unit="page">18</citedRange>
       				<citedRange unit="appendix">B/1898</citedRange>

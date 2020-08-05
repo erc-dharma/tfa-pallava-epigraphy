@@ -30,7 +30,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">tfaPallava103</idno>
+				<idno type="filename">INSPallava00103</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -44,7 +44,20 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Unfinished inscription.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -71,7 +84,7 @@
          	         <listApp>
                   <app loc="1">
                      <lem>kāliyū</lem>
-                     <note>The inscription stops short here (<bibl rend="omitname"><!--display not yet implemented--><ptr target="bib:SubrahmanyaAiyer1928_01"/>
+                     <note>The inscription stops short here (<bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/>
          		<citedRange unit="page">158</citedRange>
 		<citedRange unit="note">1</citedRange></bibl>). Evidently <foreign>kāliyūr-k-kōṭṭatu</foreign> was intended, followed presumably by <foreign>taṉ kūṟṟu Uttaramēru-c-catu<hi rend="grantha">rvve</hi>timaṅkalattu <hi rend="grantha">sabhai</hi>yōm</foreign> or a variant of it. Compare other inscriptions from Uttiramērūr.</note>
                   </app>
@@ -86,7 +99,7 @@
       			Tenth year of the victorious king Dantivikramavarman.
       		</p>
       		<p n="1">
-      			<supplied reason="explanation">in</supplied> the Kāliyū<supplied reason="explanation">r-k-kōṭṭam</supplied><!--Check encoding: inscription stopping short, but word intended quite clear--></p>
+      			<supplied reason="subaudible">in</supplied> the Kāliyū<supplied reason="subaudible">r-k-kōṭṭam</supplied><!--Check encoding: inscription stopping short, but word intended quite clear--></p>
       	</div>
       	      	
       	<div type="commentary"/>
@@ -95,8 +108,7 @@
       	<div type="bibliography">
 
  <p>
- First edited by Subrahmanya Aiyer <bibl rend="omitname"><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 334); 
- this first edition reproduced with a summary by Mahalingam <bibl rend="omitname"><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 103); re-edited here and first translated by Emmanuel Francis (2020) from photographs (2019).
+First edited by Subrahmanya Aiyer <bibl rend="omitname"><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 334); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 103); re-edited and first translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020) from photographs (2019).
 </p>	
       		
 <listBibl type="primary">
@@ -115,7 +127,7 @@
 
 <listBibl type="secondary">
 	
-	<bibl>
+	<bibl n="ARIE 1897-1898">
 		<ptr target="bib:ARIE1897-1898"/>
 		<citedRange unit="page">17</citedRange>
 		<citedRange unit="appendix">B/1898</citedRange>
