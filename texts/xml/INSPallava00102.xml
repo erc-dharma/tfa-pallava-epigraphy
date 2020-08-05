@@ -30,7 +30,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">tfaPallava102</idno>
+				<idno type="filename">INSPallava00102</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -44,7 +44,20 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary/>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -55,13 +68,24 @@
 	<text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tam-Latn">
-            <p>
-<lb n="1"/><hi rend="grantha">svasti śrī da</hi>n=tippōttaracarkku yāṇṭ’ oṉpatāvatu Ut=ta<hi rend="grantha"><unclear>rameru</unclear>ca</hi>tu<hi rend="grantha"><unclear>r</unclear>vvedimaṃgala</hi>ttu <hi rend="grantha">sabhai</hi>yōm eḻuttuk ka<unclear>c</unclear>cippē<unclear>ṭ</unclear>ṭup <gap reason="lost" quantity="3" unit="character"/> tuvāy<unclear>ccēri</unclear> cēṭṭatarayar tā
-<lb n="2" break="no"/>ṉavēntaṉ pakkal irupatiṉ kaḻañcu poṉ koṇṭ’ emmūr ellāccērit toṟu-nilaiyum mēlait toṟu-nilaiyum ivvaṉaittiṉālum vanta Eru-vilaiyāl vanta
-<lb n="3"/>māṭ’ epp<choice><sic>o</sic><corr>e</corr></choice>rppaṭṭatum ippoṉṉukk’ immāṭu vilaiy aṟutiyāy vayiramēkataṭākattuṭk kuḻi kuttuvat’ āka Oṭṭi-k-kuṭuttōm <hi rend="grantha">sabhai</hi>yōn tāṉavēnta
-<lb n="4" break="no"/>ṉ eṉum appoṉṉum ivveru-vilaiyāl vanta <hi rend="grantha">dravya</hi>mum avvērikkēy aṟam-āka-k kuṭuttēṉ <hi rend="grantha">sabhai</hi>yōmum maṟṟu viniyō<hi rend="grantha">ga</hi>ñ ceyyātēy av
-<lb n="5" break="no"/>vakkālattu vāriyarēy <hi rend="grantha">māsa</hi>ntōṟun kuḻi kut=tuvat’ ākavu<supplied reason="omitted">m</supplied> paṇittōm maṟ<unclear>ṟu</unclear> viniyō<hi rend="grantha">ga</hi>ñ ceytār paṇiyum piḻaitt’ aṟam iṟakkiṉa pāpamum paṭuvā<unclear>r-āka</unclear>
-<lb n="6" break="no"/>p paṇittōm <hi rend="grantha">sabhai</hi>yōm</p>
+            
+<p>
+	<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+</p>
+<p>
+	<hi rend="grantha">da</hi>n=tippōttaracarkku yāṇṭ’ oṉpat-āvatu
+</p>
+<p>
+	Ut=ta<hi rend="grantha"><unclear>rameru</unclear>ca</hi>tu<hi rend="grantha"><unclear>r</unclear>vvedimaṃgala</hi>ttu <hi rend="grantha">sabhai</hi>yōm eḻuttu-k
+</p>
+<p><!--Segment in further paragraphs-->
+	ka<unclear>c</unclear>cippē<unclear>ṭ</unclear>ṭup <gap reason="lost" quantity="3" unit="character"/> tuvāy<unclear>ccēri</unclear> cēṭṭatarayar tā
+	<lb n="2" break="no"/>ṉavēntaṉ pakkal irupatiṉ kaḻañcu poṉ koṇṭ’ emmūr ellāccērit toṟu-nilaiyum mēlait toṟu-nilaiyum ivvaṉaittiṉālum vanta Eru-vilaiyāl vanta
+	<lb n="3"/>māṭ’ epp<choice><sic>o</sic><corr>e</corr></choice>rppaṭṭatum ippoṉṉukk’ immāṭu vilaiy aṟutiyāy vayiramēkataṭākattuṭk kuḻi kuttuvat’ āka Oṭṭi-k-kuṭuttōm <hi rend="grantha">sabhai</hi>yōn tāṉavēnta
+	<lb n="4" break="no"/>ṉ eṉum appoṉṉum ivveru-vilaiyāl vanta <hi rend="grantha">dravya</hi>mum avvērikkēy aṟam-āka-k kuṭuttēṉ <hi rend="grantha">sabhai</hi>yōmum maṟṟu viniyō<hi rend="grantha">ga</hi>ñ ceyyātēy av
+	<lb n="5" break="no"/>vakkālattu vāriyarēy <hi rend="grantha">māsa</hi>ntōṟun kuḻi kut=tuvat’ ākavu<supplied reason="omitted">m</supplied> paṇittōm maṟ<unclear>ṟu</unclear> viniyō<hi rend="grantha">ga</hi>ñ ceytār paṇiyum piḻaitt’ aṟam iṟakkiṉa pāpamum paṭuvā<unclear>r-āka</unclear>
+	<lb n="6" break="no"/>p paṇittōm <hi rend="grantha">sabhai</hi>yōm
+</p>
 
          </div>
          <div type="apparatus">
@@ -91,7 +115,7 @@
          
          </div>
       	
-      	<div type="translation" xml:lang="eng">
+      	<div type="translation" xml:lang="eng" resp="part:emfr">
       		<p n="1">
       			Prosperity! Fortune!
       		</p>
@@ -99,10 +123,10 @@
       			Ninth year of Dantippōttaracar <supplied reason="explanation">Dantivarman</supplied>.
       		</p>
       		<p n="1">
-      			Writ <supplied reason="explanation"><foreign>eḻuttu</foreign></supplied> of We the member of the assembly <supplied reason="explanation"><foreign>sabhā</foreign></supplied> of Uttaramerucaturvedimaṅgalam:
+      			Writ <supplied reason="explanation"><foreign>eḻuttu</foreign></supplied> of We the members of the assembly <supplied reason="explanation"><foreign>sabhā</foreign></supplied> of Uttaramerucaturvedimaṅgalam:
       		</p>
       		<p n="1-6">
-      			bla bla
+      			Translation to be completed.<!--Update-->
       		</p>
       	</div>
       	      	
@@ -113,21 +137,18 @@
       	<div type="bibliography">
 
  <p>
- First edited with a facsimile in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 359).
- Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 102).
- This edition by Emmanuel Francis (2020), based on autopsy and photographs (2019).
- </p>
+ First edited with a facsimile in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 359); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 102); re-edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy and photographs (2019).
+</p>
       		
 <listBibl type="primary">
             
-	<bibl>
+	<bibl n="KVSA">
          		<ptr target="bib:SubrahmanyaAiyer1928_01"/>
          		<citedRange unit="item">359</citedRange>
          		<citedRange unit="page">167</citedRange>
          	</bibl>
-         	<bibl>
+         	<bibl n="TVM">
   		<ptr target="bib:Mahalingam1988_01"/>
-         		<!--= IP 102-->
   		<citedRange unit="item">102</citedRange>
   		<citedRange unit="page">342-343</citedRange>
   	</bibl>
@@ -135,7 +156,7 @@
 
 <listBibl type="secondary">
 	
-	<bibl>
+	<bibl n="ARIE 1897-1898">
 		<ptr target="bib:ARIE1897-1898"/>
 		<citedRange unit="page">18</citedRange>
 		<citedRange unit="appendix">B/1898</citedRange>
