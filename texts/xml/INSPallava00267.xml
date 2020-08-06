@@ -29,7 +29,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">tfaPallava267</idno>
+				<idno type="filename">INSPallava00267</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -43,7 +43,20 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary/>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -56,9 +69,18 @@
       <body>
       	<div type="edition" xml:lang="tam-Latn">
       		
+      		
       		<p>
-      			<lb n="1"/><hi rend="grantha">svasti śrī</hi> Uttaramēru-c-catu<hi rend="grantha">rvvedi</hi>maṅkalattu-k kuravaciri tukkaṭi<hi rend="grantha">bha</hi>ṭṭaṉ <hi rend="grantha">brāhma</hi>ṇi kan=ticcāṉiyēṉ Ivvūr-k kaṇa-p-perumakkaḷ Eṭuppitta cittirakūṭattukku-k kuṭuttēṉ
-<lb n="2"/>nārāyaṇa<hi rend="grantha"><unclear>sv</unclear>āmi</hi>kaḷukku-t tiruviḷakkukk-āka-p pattu-p poṉ kuṭuttēṉ Itu <hi rend="grantha">sabhai</hi>yārē <hi rend="grantha">raṭṣi</hi>ppār-āvarkaḷ <hi rend="grantha">śrī-pādaM</hi>kaḷ Aṭiyēṉ ṟalai mēlaṉa <g type="gomutraFinal"/>
+      			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+      		</p>
+      		<p>
+      			Uttaramēru-c-catu<hi rend="grantha">rvvedi</hi>-maṅkalattu-k kuravaciri tukkaṭi <hi rend="grantha">bha</hi>ṭṭaṉ <hi rend="grantha">brāhma</hi>ṇi kan=ticcāṉiyēṉ Ivvūr-k kaṇa-p-perumakkaḷ Eṭuppitta cittira-kūṭattukku-k kuṭuttēṉ
+      		</p>
+      		<p>
+      			<lb n="2"/>nārāyaṇa-<hi rend="grantha"><unclear>sv</unclear>āmi</hi>kaḷukku-t tiruviḷakkukk-āka-p pattu-p poṉ kuṭuttēṉ
+      		</p>
+      		<p>
+      			Itu <hi rend="grantha">sabhai</hi>yārē <hi rend="grantha">raṭṣi</hi>ppār-āvarkaḷ <hi rend="grantha">śrī-pādaM</hi>kaḷ Aṭiyēṉ ṟalai mēlaṉa <g type="gomutraFinal">.</g>
       		</p>
       		
          </div>
@@ -75,14 +97,18 @@
       	</div>
       	
       	<div type="translation" xml:lang="eng">
+      		
       		<p n="1">
       			Prosperity! Fortune!
       		</p>
-      		<p n="1-2">
-      			I, Kanticcāṉi, a Brahman lady, <supplied reason="subaudible">wife of</supplied> Kuravaciri Tukkaṭibhaṭṭa of Uttaramērucaturvedimaṅgala, I have given for the Cittirakūṭam that the great men of this village have built: I have given ten <foreign>poṉ</foreign> for the sake of a glorious lamp for Nārāyaṇasvāmi.
-      		</p>      		
+      		<p n="1">
+      			I, Kanticcāṉi, a Brahman lady, <supplied reason="subaudible">wife of</supplied> Kuravaciri Tukkaṭi Bhaṭṭa of Uttaramērucaturvedimaṅgala, I have given for the Cittirakūṭam that the great men of this village have built.
+      		</p>
       		<p n="2">
-      			The feet of the members of the assembly who will protect this (pious donation) are on the head of me, (their) servant.
+      			I have given ten <foreign>poṉ</foreign> for the sake of a glorious lamp for Nārāyaṇasvāmi.
+      		</p>            		
+      		<p n="2">
+      			The feet of the members of the assembly who will protect this <supplied reason="subaudible">pious donation</supplied> are on the head of me, <supplied reason="subaudible">their</supplied> servant.
       		</p> 		
       		  		
       	</div>
@@ -113,7 +139,7 @@ First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6,
       		
       		<listBibl type="secondary">
       			
-      			<bibl>
+      			<bibl n="ARIE 1897-1898">
       				<ptr target="bib:ARIE1897-1898"/>
       				<citedRange unit="page">18</citedRange>
       				<citedRange unit="appendix">B/1898</citedRange>

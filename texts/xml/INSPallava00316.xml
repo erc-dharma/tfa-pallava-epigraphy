@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Kāñcipuram, Ekāmbaranātha, fragment (1/2)</title>
+				<title>Mahābalipuram Shore Temple biruda (1/2)</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -27,7 +27,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava314</idno>
+				<idno type="filename">INSPallava00316</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -47,18 +47,18 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Fragment comprising a <foreign>biruda</foreign> (?).</summary>
+						<summary>An isolated <foreign>biruda</foreign>.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>Ornate Grantha script.</p>
+							<p/>
 						</handDesc>
 					</physDesc>
 				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
-			<change who="part:emfr" when="2020-07-02" status="draft">Creation of the file</change>
+			<change who="part:emfr" when="2020-07-01" status="draft">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -67,7 +67,7 @@
       	<div type="edition" xml:lang="san-Latn">
       		
       		<p>
-      			<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>lanaḥ <g type="ddandaOrnate">.</g> nṛpa-c<supplied reason="lost">ū</supplied>ḷāmaṇi<gap reason="lost" extent="unknown" unit="character"/>
+      			<lb n="1"/>Ekavīra
       		</p>      		
       		
       	</div>
@@ -75,15 +75,9 @@
       	<div type="apparatus">
       		
       		<listApp>
-      			
       			<app loc="1">
-      				<lem><gap reason="lost" extent="unknown" unit="character"/>lanaḥ <g type="ddandaOrnate">.</g></lem>
-      				<rdg source="bib:ARIE1939-1943"/>
-      			</app>
-      			
-      			<app loc="1">
-      				<lem>°c<supplied reason="lost">ū</supplied>ḷāmaṇi</lem>
-      				<rdg source="bib:ARIE1939-1943">°cū<unclear>ḍā</unclear>maṇi</rdg>
+      				<lem>Ekavīra</lem>
+      				<note>The reading <foreign>Ekavīraḥ</foreign> seems possible, considering the other <foreign>biruda</foreign> inscriptions at Mahābalipuram.<!--add ref--></note>
       			</app>
       			
       		</listApp>
@@ -92,52 +86,58 @@
 
       	<div type="translation" xml:lang="eng" resp="part:emfr">
       		
-      		<p><gap reason="lost"/> the best among kings <gap reason="lost"/></p>
+      		<p>The unique hero.</p>
       		
       	</div>
       	
       	<div type="translation" xml:lang="fra" resp="part:emfr">
-      		<p><gap reason="lost"/> le meilleur d'entre les rois <gap reason="lost"/></p>
+      		<p>Le héros unique.</p>
       	</div>
       	
          <div type="commentary">
-         	<p>This fragment is possibly to be considered with another fragment (IP 358<!--update cross-ref!-->) as parts of a single inscription.</p>
-         	<p>According to Mahalingam <bibl rend="omitname">
-         			<ptr target="bib:Mahalingam1988_01"/>
-         			<citedRange unit="page">xc</citedRange>
-         		</bibl>Nṛpacūḷāmaṇi is probably an epithet of Mahendravarman I. The palaeography however points towards one of his successors.</p>
+         	<p><bibl n="TVM">
+            		<ptr target="bib:Mahalingam1988_01"/>
+            		<citedRange unit="page">715</citedRange>
+            		<citedRange unit="item">316</citedRange>
+            	</bibl> translates as "The unrivalled hero".</p>
+         	<p>This appears to be a <foreign>biruda</foreign> of Narasiṃhavarman II Pallava, also attested in IP 54, 60 and 63.</p><!--Update!-->
          </div>
          	
          <div type="bibliography">
 
          	<p>
-First recorded in <ptr target="bib:ARIE1939-1943"/>; text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 314); re-edited for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), from the estampage kept at the ASI, Mysore.
+First recorded in <bibl><!--<ptr target="bib:IAR1957-1958"/>--><!--check value! Impedes transfo--></bibl>; text and translation in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 316); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020).
          	</p>
          	         	
          	<listBibl type="primary">   
          		
-         		<bibl n="ARIE">
-        			<ptr target="bib:ARIE1939-1943"/>
-        			<citedRange unit="page">69, 272</citedRange>
-        			<citedRange unit="appendix">B/1939-1940</citedRange>
-        			<citedRange unit="item">347</citedRange>
-        		</bibl>
-        		          		
+         		<bibl n="IAR">
+         			<ptr target="bib:IAR1957-1958"/><!--IAR Zotero short tilte: with or without year [that is, referred to in a <citedRange/>?-->
+         			<citedRange unit="page">56</citedRange>
+         			<citedRange unit="plate">19</citedRange>
+         		</bibl> 
+         		
          		<bibl n="TVM">
          			<ptr target="bib:Mahalingam1988_01"/>
-         			<citedRange unit="page">xc, 713</citedRange>
-         			<citedRange unit="item">314</citedRange>
+         			<citedRange unit="page">715</citedRange>
+         			<citedRange unit="item">316</citedRange>
          		</bibl>
          		         		
          	</listBibl>
 
          	<listBibl type="secondary">         		    		
          		
-         		         		<bibl>
+         		<bibl>
+         			<ptr target="bib:Srinivasan1975_01"/>
+         			<citedRange unit="plate">89</citedRange>
+         		</bibl>    
+         		
+         		<bibl>
          			<ptr target="bib:Francis2013_01"/>
-         			<citedRange unit="page">292</citedRange>
-         			<citedRange unit="item">IR 72</citedRange>
-         		</bibl>             		         	
+         			<citedRange unit="page">289</citedRange>
+         			<citedRange unit="item">IR 64</citedRange>
+         		</bibl>    
+         		         	
          		         		
          	</listBibl>
 
