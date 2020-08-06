@@ -27,7 +27,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava249</idno>
+				<idno type="filename">INSPallava00249</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -132,50 +132,50 @@
 </div>
 
          <div type="commentary">
-         	<p>The name Śrī-Śikhari-Pallaveśvara might be translated as "The glorious <supplied reason="subaudible">temple</supplied> of the Lord of the Pallava Śikharin." Śikharin (literally "peaked" or "mountain") appears to be the <foreign>biruda</foreign> (gloryfying soubriquet) of an unidentified Pallava king, meaning "eminent." This is its only attestattion. Alternatively, one could also translated "The glorious <supplied reason="subaudible">temple</supplied> of the Lord of the Pallava <supplied reason="subaudible">founded by</supplied> Śikharin." In that case Śikharin would be a <foreign>biruda</foreign> of the founder Candrāditya."</p>
-         	<p>The founder Candrāditya has not been identified with certainty. He could be a Pallava prince, not known from other sources. According to <bibl><ptr target="bib:Srinivasan1964_01"/><citedRange unit="page">118</citedRange></bibl> he might be a Cāḷukya prince, contemporary of the Pallava king Narasiṃhavarman II Māmalla, who was the son of Pulakeśin and is known from records of his queen Vijayamahādevī. <bibl><ptr target="bib:Srinivasan1964_01"/></bibl> notes that Vijayamahādevī is known as Pōtti, the feminine of Pōttaṉ, that is, Pallava, and suggests that she was a Pallava princess. This would explain how her husband, a Cāḷukya prince, could have founded a rock-cut cave in the Pallava realm.
+         	
+         	<p n="2">
+         		The founder Candrāditya has not been identified with certainty. He could be a Pallava prince, not known from other sources. According to <bibl><ptr target="bib:Srinivasan1964_01"/><citedRange unit="page">118</citedRange></bibl> he might be a Cāḷukya prince, contemporary of the Pallava king Narasiṃhavarman II Māmalla, who was the son of Pulakeśin and is known from records of his queen Vijayamahādevī. <bibl><ptr target="bib:Srinivasan1964_01"/></bibl> notes that Vijayamahādevī is known as Pōtti, the feminine of Pōttaṉ, that is, Pallava, and suggests that she was a Pallava princess. This would explain how her husband, a Cāḷukya prince, could have founded a rock-cut cave in the Pallava realm.
          However, <bibl><ptr target="bib:Nagaswamy1982_01"/><citedRange unit="page">188</citedRange></bibl> considers that the cave was founded by a Pallava king, as the name Pallava is included in the name of the foundation and as Pallava kings had <foreign>biruda</foreign>s ending with the term <foreign>āditya</foreign>.</p>
-         	<p>The placename Siṃhapura ("The city of the lion") is reflected in that of the nearby village Ciṅkavaram.</p>
+         	<p n="3">
+         		The name Śrī-Śikhari-Pallaveśvara might be translated as "The glorious <supplied reason="subaudible">temple</supplied> of the Lord of the Pallava Śikharin." Śikharin (literally "peaked" or "mountain") appears to be the <foreign>biruda</foreign> (gloryfying soubriquet) of an unidentified Pallava king, meaning "eminent." This is its only attestattion. Alternatively, one could also translated "The glorious <supplied reason="subaudible">temple</supplied> of the Lord of the Pallava <supplied reason="subaudible">founded by</supplied> Śikharin." In that case Śikharin would be a <foreign>biruda</foreign> of the founder Candrāditya."</p>
+         	<p n="4">
+         		The placename Siṃhapura ("The city of the lion") is reflected in that of the nearby village Ciṅkavaram.</p>
          	         </div>
 
          <div type="bibliography">
 
             <p>
-First tentatively edited and translated in French and in English in <bibl><ptr target="bib:Jouveau-Dubreuil1916-1917_01"/></bibl> and <bibl><ptr target="bib:Jouveau-Dubreuil1916_01"/></bibl> with facsimile.
-Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile.
-Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 249).
-Edited and translated in French in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 68).
-This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on facsimile published in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> and photographs (2008). French translation by Sylvain Brocquet (2020).
+First tentatively edited and translated into French and into English by <bibl><ptr target="bib:Jouveau-Dubreuil1916-1917_01"/></bibl> and <bibl><ptr target="bib:Jouveau-Dubreuil1916_01"/></bibl> with facsimile; edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile (SII 12, no. 115; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 249); edited and translated into French by <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 68); re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on facsimile published in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> and photographs (2008).
             </p>
 
             <listBibl type="primary">
             	
-            	<bibl>
-            		<ptr target="bib:Jouveau-Dubreuil1916-1917_01"/>
-            		<citedRange unit="page">63-65</citedRange>
-            		<citedRange unit="plate">XXXII</citedRange> (facing page 61).
-            	</bibl>
-            	
-            	<bibl>
+            	<bibl n="GJD1">
             		<ptr target="bib:Jouveau-Dubreuil1916_01"/>
             		<citedRange unit="page">65-66</citedRange>
-            		<citedRange unit="plate">XXXII</citedRange> (facing page 65).
+            		<citedRange unit="plate">XXXII (facing page 65)</citedRange>
             	</bibl>
             	
-            	<bibl>
+            	<bibl n="GJD2">
+            		<ptr target="bib:Jouveau-Dubreuil1916-1917_01"/>
+            		<citedRange unit="page">63-65</citedRange>
+            		<citedRange unit="plate">XXXII (facing page 61)</citedRange>
+            	</bibl>
+            	
+            	<bibl n="VVA">
             		<ptr target="bib:VenkatasubbaAyyar1943_01"/>
             		<citedRange unit="item">115</citedRange>
             		<citedRange unit="page">54</citedRange>
-            		<citedRange unit="plate">V</citedRange> facing p. 17
+            		<citedRange unit="plate">V (facing page 17)</citedRange>             	
             	</bibl>
             	
-            	<bibl>
+            	<bibl n="TVM">
             		<ptr target="bib:Mahalingam1988_01"/>
             		<citedRange unit="item">249</citedRange>
             		<citedRange unit="page">623</citedRange>
             	</bibl>
             	
-            	<bibl>
+            	<bibl n="SB">
             		<ptr target="bib:Brocquet1997_01"/>
             		<citedRange unit="item">68</citedRange>
             		<citedRange unit="page">776</citedRange>
@@ -185,7 +185,7 @@ This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on facsimi
 
          	<listBibl type="secondary">
          		
-         		<bibl>
+         		<bibl n="ARIE 1915-1916">
          			<ptr target="bib:ARIE1915-1916"/>
          			<citedRange unit="page">92</citedRange>
          			<citedRange unit="appendix">C/1916</citedRange>

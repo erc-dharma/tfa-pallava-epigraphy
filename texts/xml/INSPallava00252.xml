@@ -27,7 +27,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava252</idno>
+				<idno type="filename">INSPallava00252</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -167,13 +167,13 @@
 </div>
          <div type="commentary">
          	
-         	<p>
+         	<p n="1-2">
 Īśvaravarman <supplied reason="explanation">Īccuvaraparumaṉ</supplied> is most probably a Pallava king, as his name is prefixed with <foreign>kō-vicaiya-</foreign>. He might be identified with Parameśvaravarman I or Parameśvaravarman II. For other hero-stones dated in the reign of Īśvaravarman, see tfaPallava252, tfaPallava253, and tfaPallava297<!--update refs-->. 
          	</p>
          	<p>
 The stone <cit><quote>bears the representation of a bearded warrior with helmet, sword, shield and sword-belt</quote><bibl><ptr target="bib:Hultzsch1902-1903_01"/><citedRange unit="page">24</citedRange></bibl></cit>.</p>
          	<p>
-The placename is spelt Hebbaṇi in <bibl><ptr target="bib:Rice1905_01"/><citedRange unit="page">148</citedRange> of the section "Text of the inscriptions in Roman characters", while the facsimile, next page, is labelled "Bairakūr vaṭṭeḻuttu stone."</bibl><!--Update!-->
+The placename is spelt Hebbaṇi in <bibl><ptr target="bib:Rice1905_01"/><citedRange unit="page">148</citedRange></bibl> of the section "Text of the inscriptions in Roman characters", while the facsimile, next page, is labelled "Bairakūr vaṭṭeḻuttu stone."<!--Update!-->
          	</p>
                   	
          </div>
@@ -181,43 +181,38 @@ The placename is spelt Hebbaṇi in <bibl><ptr target="bib:Rice1905_01"/><citedR
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl> (EI 7, no. 4).<!--Check!-->
-Edited in <bibl><ptr target="bib:Rice1905_01"/><!--update!--></bibl> with facsimile and English translation (EC 10, Mulbagal, no. 211).
-Edited and summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 252).
-This edition by Emmanuel Francis (2020), based on the edition and facsimile published in <bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl>.
+First edited in <bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl> (EI 7, no. 4.3); edited in <bibl><ptr target="bib:Rice1905_01"/><!--update!--></bibl> with facsimile and English translation (EC 10, Mulbagal, no. 211); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 252); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on the edition and facsimile published in <bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl>.
             </p>
 
-            <listBibl type="primary">
-            	
-            	<bibl>
-            		<ptr target="bib:Hultzsch1902-1903_01"/>
-            		<citedRange unit="page">24-25</citedRange>
-            		<citedRange unit="item">III</citedRange>
-            		
-            	</bibl>
-            	<bibl>
-            		<ptr target="bib:Rice1905_01"/><!--Duplicate entry as two targets in same volume?-->
-            		<citedRange unit="part">Text of the inscriptions in Roman characters</citedRange>
-            		<citedRange unit="page">149</citedRange>
-            		<citedRange unit="item">211</citedRange>
-            		<citedRange unit="part">Translations of the inscriptions</citedRange>
-            		<citedRange unit="item">211</citedRange>
-            	</bibl>
-            	<bibl>
-            		<ptr target="bib:Rice1905_02"/><!--to be validated-->
-            		<citedRange unit="part">Inscriptions in the Kolar district <supplied reason="subaudible">Kannaḍa script</supplied></citedRange>
-            		<citedRange unit="part">49</citedRange> 
-            		<note>I.e. EC 10, Mulbāgal Taluk, n° 211</note>
-            	</bibl>
-            	
-            	<bibl>
-            		<ptr target="bib:SankaraNarayanan2016_01"/>
-            	</bibl>
-            	            	
-            </listBibl>
+         	<listBibl type="primary">
+         		
+         		<bibl n="EH">
+         			<ptr target="bib:Hultzsch1902-1903_01"/>
+         			<citedRange unit="page">24-25</citedRange>
+         			<citedRange unit="item">III</citedRange>
+         			
+         		</bibl>
+         		
+         		<bibl n="BLR1">
+         			<ptr target="bib:Rice1905_01"/><!--Duplicate entry as two targets in same volume?-->
+         			<citedRange unit="part">Text of the inscriptions in Roman characters</citedRange>
+         			<citedRange unit="page">149</citedRange>
+         			<citedRange unit="item">211</citedRange>
+         			<citedRange unit="part">Translations of the inscriptions</citedRange>
+         			<citedRange unit="item">211</citedRange>
+         		</bibl>
+         		
+         		<bibl n="BLR2">
+         			<ptr target="bib:Rice1905_02"/><!--to be validated-->
+         			<citedRange unit="part">Inscriptions in the Kolar district <supplied reason="subaudible">Kannaḍa script</supplied></citedRange>
+         			<citedRange unit="part">49</citedRange> 
+         			<note>I.e. EC 10, Mulbāgal Taluk, n° 211</note>
+         		</bibl>       
+         		
+         	</listBibl>
          	
          	<listBibl type="secondary">
-            	         		
+         		
          		<bibl>
          			<ptr target="bib:ARIE1898-1899"/>
          			<citedRange unit="page">25</citedRange>
@@ -225,8 +220,12 @@ This edition by Emmanuel Francis (2020), based on the edition and facsimile publ
          			<citedRange unit="item">101</citedRange>
          		</bibl>
          		
-            </listBibl>
-
+         		<bibl>
+         			<ptr target="bib:SankaraNarayanan2016_01"/>
+         		</bibl>	
+         		
+         	</listBibl>
+         	
          </div>
       	
       </body>

@@ -27,7 +27,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava053</idno>
+				<idno type="filename">INSPallava00250</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -129,7 +129,7 @@
 
       	<div type="translation" xml:lang="eng" resp="part:emfr">
       		<p rend="stanza" n="1">
-      			<l>The Fish, the Turtle, and the Boar,</l><!--add Markup supplied-->
+      			<l><supplied reason="lost">The Fish, the Turtle</supplied>, and the Boar,</l>
       			<l>The Man-Lion and the Dwarf,</l>
       			<l>Rāma, Rāma, and Rāma,</l>
       			<l>Buddha and Kalkin: such are the ten.</l>
@@ -139,7 +139,7 @@
       	<div type="translation" xml:lang="fra" resp="part:sybr">
       		
       		<p rend="stanza" n="1">
-      			<l>Le poisson, la tortue, et le sanglier,</l>
+      			<l><supplied reason="lost">Le poisson, la tortue,</supplied> et le sanglier,</l>
       			<l>Et l’homme-lion, le nain,</l>
       			<l>Rāma, et Rāma, et Rāma,</l>
       			<l>Buddha, et Kalkin : tels sont les Dix.</l>
@@ -169,15 +169,10 @@
       			<bibl><ptr target="bib:Srinivasan1964_01"/><citedRange unit="page">173</citedRange></bibl>: la plus ancienne énumération épigraphique des dix avatāra. Fait intéressant, elle n’inclut pas Kṛṣṇa et inclut Buddha.      			
       		</p>
       		<p>
-      				<bibl>
-      				<ptr target="bib:Gail1969_01"/>
-      				<citedRange unit="page">15</citedRange>
-      				</bibl>: renvoie à R. C. HAZRA (1940, p. 88) avec une strophe encore plus proche : matsyaḥ kūrmo varāhaś ca nārasiṃho ’tha vāmanaḥ | rāmo rāmaś ca rāmaś ca buddhaḥ kalkī ca te daśa ||.   	
+      			<bibl><ptr target="bib:Gail1969_01"/><citedRange unit="page">15</citedRange></bibl>: renvoie à R. C. HAZRA (1940, p. 88) avec une strophe encore plus proche : matsyaḥ kūrmo varāhaś ca nārasiṃho ’tha vāmanaḥ | rāmo rāmaś ca rāmaś ca buddhaḥ kalkī ca te daśa ||.   	
       		</p>
       		<p>
-      			<bibl>
-      				<ptr target="bib:Rabe1996_01"/>
-      				<citedRange unit="page">227</citedRange></bibl>: atteste l’implication dynastique, impliquant que le roi appartient à la continuation de la lignée des avatāra de Viṣṇu (et les 2 autres rois aussi). But it is not clear if this is a royal inscription or not.  
+      			<bibl><ptr target="bib:Rabe1996_01"/><citedRange unit="page">227</citedRange></bibl>: atteste l’implication dynastique, impliquant que le roi appartient à la continuation de la lignée des avatāra de Viṣṇu (et les 2 autres rois aussi). But it is not clear if this is a royal inscription or not.  
       		</p>
       		
       	</div>
@@ -213,7 +208,7 @@ First edited and translated by <bibl><ptr target="bib:KrishnaSastri1926_01"/></b
       		
       		<listBibl type="secondary">
       			
-      			<bibl>
+      			<bibl n="ARIE 1922-1923">
       				<ptr target="bib:ARIE1922-1923"/>
       				<citedRange unit="page">45, 94</citedRange>
       				<citedRange unit="appendix">B/1922</citedRange>
