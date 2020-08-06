@@ -27,7 +27,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava318</idno>
+				<idno type="filename">INSPallava00318</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -41,7 +41,20 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Isolated <foreign>biruda</foreign>s.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -80,15 +93,15 @@
 
       	<div type="translation" xml:lang="eng" resp="part:emfr">
       		
-      		<p>The Fortune-bearer.</p>
-      		<p>He whose quiver is wonderful.</p>
+      		<p n="1">The Fortune-bearer.</p>
+      		<p n="1">He whose quiver is wonderful.</p>
       		
       	</div>
       	
       	<div type="translation" xml:lang="fra" resp="part:sybr part:emfr">
       		
-      		<p>The Fortune-bearer.</p>
-      		<p>He whose quiver is wonderful.</p>
+      		<p n="1">The Fortune-bearer.</p>
+      		<p n="1">He whose quiver is wonderful.</p>
       		<!--Update! See Brocquet's translation.-->
       	</div>
       	
@@ -98,7 +111,7 @@
             		<citedRange unit="page">715</citedRange>
             		<citedRange unit="item">316</citedRange>
             	</bibl> translates as "The bearer of prosperity" and "The wonderful archer".</p>
-         	<p>These appear to be <foreign>biruda</foreign>s of Narasiṃhavarman II Pallava, also attested in IP 54, 60 and 63.</p><!--Update!-->
+         	<p>These appear to be <foreign>biruda</foreign>s of Narasiṃhavarman II Pallava, also attested in IP 54, 60 and 63.</p><!--Update cross-ref!-->
          </div>
          	
       	<div type="bibliography">
@@ -109,13 +122,13 @@
       				<citedRange unit="page">73</citedRange>
       				<citedRange unit="appendix">B/1959-1960</citedRange>
       				<citedRange unit="item">263</citedRange>
-      			</bibl>; text and translation in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 318); re-edited here by Emmanuel Francis (2020), from estampage kept at ASI, Mysore.
+      			</bibl>; text and translation in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 318); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), from the estampage kept at ASI, Mysore, consulted with the kind permission of the Director of Epigraphy.
       		</p>
       		
       		<listBibl type="primary">   
       			
-      			<bibl n="ARIE">
-      				<ptr target="bib:ARIE1959-1960"/><!--Check!-->
+      			<bibl n="ARIE 1959-1960">
+      				<ptr target="bib:ARIE1959-1960"/>
       				<citedRange unit="page">73</citedRange>
       				<citedRange unit="appendix">B/1959-1960</citedRange>
       				<citedRange unit="item">263</citedRange>

@@ -28,7 +28,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava323</idno>
+				<idno type="filename">INSPallava00323</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -42,7 +42,20 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary/>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -53,23 +66,26 @@
       <body>
 
       	<div type="edition" xml:lang="tam-Latn">
-            
+      		
       		<p>
-<lb n="1"/>kō-vicaiya-ta
-<lb n="2" break="no"/>nti-vikkiramaparu
-<lb n="3" break="no"/>maṟk<choice><orig>i</orig><reg>u</reg></choice> yāṇṭu nā
-<lb n="4" break="no"/>l-āvatu Ūṟṟu-k
-<lb n="5" break="no"/>-kāṭṭu-k-kōṭṭattu-p
-<lb n="6"/>perump<unclear>ā</unclear>lai-Ūr
-<lb n="7" break="no"/>-t tiruppālai-Ūr
-<lb n="8"/>kiḻava<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> a<unclear>ṭa</unclear>vi <hi rend="grantha">śrī</hi>
-<lb n="9" break="no"/>-kaṅkar<choice><orig>e</orig><reg>ai</reg></choice>yar nērkuṭ
-<lb n="10" break="no"/>ṭi perumāṉārk=ku vi
-<lb n="11" break="no"/>ṇṇappañ cey
-<lb n="12" break="no"/><unclear>t</unclear>u ceyvi[tta]tu
-<lb n="13"/>kumāravāyt tūm
-<lb n="14" break="no" style="text-align: center"/>pu				
+      			<lb n="1"/>kō-vicaiya-ta
+      			<lb n="2" break="no"/>nti-vikkiramaparu
+      			<lb n="3" break="no"/>maṟk<choice><orig>i</orig><reg>u</reg></choice> yāṇṭu nā
+      			<lb n="4" break="no"/>l-āvatu
       		</p>
+      		<p>
+      			Ūṟṟu-k
+      			<lb n="5" break="no"/>-kāṭṭu-k-kōṭṭattu-p
+      			<lb n="6"/>perump<unclear>ā</unclear>lai-Ūr
+      			<lb n="7" break="no"/>-t tiruppālai-Ūr
+      			<lb n="8"/>kiḻava<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> a<unclear>ṭa</unclear>vi <hi rend="grantha">śrī</hi>
+      			<lb n="9" break="no"/>-kaṅkar<choice><orig>e</orig><reg>ai</reg></choice>yar nērkuṭ
+      			<lb n="10" break="no"/>ṭi perumāṉārk=ku vi
+      			<lb n="11" break="no"/>ṇṇappañ cey
+      			<lb n="12" break="no"/><unclear>t</unclear>u ceyvi[tta]tu
+      			<lb n="13"/>kumāravāyt tūm
+      			<lb n="14" break="no" style="text-align: center"/>pu
+      		</p>     		
       		
       	</div>
 
@@ -78,8 +94,12 @@
          </div>
 
 <div type="translation" xml:lang="eng" resp="part:emfr">
-<p>Fourth year of the victorious king Dantivarman <supplied reason="explanation"><foreign>kō-vicaiya-tanti-vikkiramaparumaṉ</foreign></supplied>.</p>
-<p>Aṭavi, the lord <supplied reason="explanation"><foreign>kiḻavaṉ</foreign></supplied> of Tiruppālaiyūr in Perumpālaiyūr in the district <supplied reason="explanation"><foreign>kōṭṭam</foreign></supplied> of Ūṟṟukkāṭu, after having made request to the glorious Gaṅga king, the lord <supplied reason="explanation"><foreign>perumāṉār</foreign></supplied> Nērkuṭṭi, the sluice <supplied reason="explanation"><foreign>tūmpu</foreign></supplied> <supplied reason="subaudible">named</supplied> Kumāṟavāy that he had made.</p>
+	<p n="1-4">
+		Fourth year of the victorious king Dantivarman <supplied reason="explanation"><foreign>kō-vicaiya-tanti-vikkiramaparumaṉ</foreign></supplied>.
+	</p>
+	<p n="4-14">
+		Aṭavi, the lord <supplied reason="explanation"><foreign>kiḻavaṉ</foreign></supplied> of Tiruppālaiyūr in Perumpālaiyūr in the district <supplied reason="explanation"><foreign>kōṭṭam</foreign></supplied> of Ūṟṟukkāṭu, after having made request to the glorious Gaṅga king, the lord <supplied reason="explanation"><foreign>perumāṉār</foreign></supplied> Nērkuṭṭi, the sluice <supplied reason="explanation"><foreign>tūmpu</foreign></supplied> <supplied reason="subaudible">named</supplied> Kumāṟavāy that he had made.
+	</p>
 </div>
 
          <div type="commentary"/>
@@ -87,22 +107,22 @@
          <div type="bibliography">
 
             <p>
-Summarised in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 323).
-First edition (?) by Emmanuel Francis (2020), based on autopsy and photographs (2019).
-First English translation?
+Summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 323); first edited and translated (?) here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy and photographs (2019).
             </p>
 
-            <listBibl type="primary">
-               <bibl>
-                  <ptr target="bib:Mahalingam1988_01"/>
-                  <citedRange unit="item">323</citedRange>
-                  <citedRange unit="page">722</citedRange>
-               </bibl>
-            </listBibl>
-
+         	<listBibl type="primary">
+         		
+         		<bibl n="TVM">
+         			<ptr target="bib:Mahalingam1988_01"/>
+         			<citedRange unit="item">323</citedRange>
+         			<citedRange unit="page">722</citedRange>
+         		</bibl>
+         		
+         	</listBibl>
+         	
          	<listBibl type="secondary">
-         		         		
-         		<bibl><!--Check!-->
+         		
+         		<bibl n="ARIE1956-1957">
          			<ptr target="bib:ARIE1956-1957"/>
          			<citedRange unit="page">**</citedRange>
          			<citedRange unit="appendix">B/1956-1957</citedRange>
@@ -113,7 +133,7 @@ First English translation?
          			<citedRange>89-94</citedRange>
          		</bibl>
          		
-         		</listBibl>
+         	</listBibl>
 
          </div>
 
