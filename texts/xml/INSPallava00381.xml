@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Mahābalipuram Shore Temple, Varāha tank verse</title>
+				<title>Mahābalipuram Shore Temple, Varāha's birudas</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -27,7 +27,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava380</idno>
+				<idno type="filename">INSPallava00381</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -41,7 +41,20 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>A series of <foreign>biruda</foreign>s.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -53,13 +66,7 @@
 
       	<div type="edition" xml:lang="san-Latn">
       		
-      		<lg met="vasantatilakā" n="1">
-      			<l real="++-+---+--+-+"><milestone unit="block" n="a"/><lb n="1"/><supplied reason="lost">śrī-pallavānvaya-kulācala-r</supplied>ājasi<unclear>ṃ</unclear>ho</l>
-      			<l real="++-+---+--+-+">yaḥ kṣatrasi<unclear>ṃ</unclear>ha Iti viśruta-puṇya-kīrttiḥ</l>
-      			<l real="++-+---+--+-+">jīyā<milestone unit="block" n="b"/>t maheśvara-śikhāmaṇi-dīpta-mauli<milestone unit="block" n="c"/><unclear>r</unclear></l>
-      			<l real="++-+---+--+-=">yy<unclear>u</unclear>ddhārjjuno nikhila-loka-nare<supplied reason="lost">ndra-siṃhaḥ</supplied></l><!--check "= in @real-->
-      		</lg><!--Display issue: milestones not displayed-->		
-      		
+      		<p><lb n="1"/><milestone unit="face" n="a"/>śrī-rājasiṃhaḥ śrī-raṇajayaḥ śrī-<unclear>bh</unclear>araḥ <milestone unit="face" n="b"/> śrī-citrakārmmukaḥ</p>	
       	</div>
 
       	<div type="apparatus">
@@ -67,8 +74,8 @@
       		<listApp>
       			
       			<app loc="1">
-      				<lem/>
-      				<rdg source="bib:ARIE1966-1967"/>
+      				<lem>śrī-<unclear>bh</unclear>araḥ</lem>
+      				<rdg source="bib:ARIE1990-1991">śrī-dharaḥ</rdg>
       			</app>    
       			
       		</listApp>
@@ -77,43 +84,36 @@
 
       	<div type="translation" xml:lang="eng" resp="part:emfr">
       		
-      		<p/>
+      		<p>The glorious lion among kings, the glorious victorious one in fight, the Fortune-bearer; the glorious one with a wonderful quiver.</p>
       	
       	</div>
       	
       	<div type="translation" xml:lang="fra" resp="part:sybr">
-      		
-      		<p rend="stanza" n="1">
-      			<l><seg cert="low">Montagne la plus haute de la lignée de Śrī-Pallava</seg>, puisse Rājasiṃha,</l>
-      			<l>Qui, sous le nom de Kṣatrasiṃha, vit sa gloire sans tache se répandre,</l>
-      			<l>Etre vainqueur, lui dont Maheśvara, son diadème, fait resplendir le cimier,</l>
-      			<l>Lui qui est un Arjuna au combat, un <seg cert="low">lion parmi les souverains</seg> du monde entier !</l>
-      		</p>   	      		
+      		<p>Le glorieux lion d'entre les rois, le glorieux vainqueur au combat, le soutien de la prospérité, le glorieux au carquois formidable.</p>
       	</div>
       	
          <div type="commentary">
-         	<p>This verse is also attested in IP 68 (verse 1)<!--update cross-ref-->.</p>
-         	<p>The first two blocks were in reverse order in situ at the time of our visits.</p>
+         	<p>
+         		According to <bibl>
+         			<ptr target="bib:Willis2004_01"/>
+         			<citedRange unit="page">223</citedRange>
+         		</bibl>, these <foreign>biruda</foreign>s are descriptive labels.
+         	</p>
          </div>
       	
          <div type="bibliography">
 
          	<p>
-First recorded in <bibl>
-         			<ptr target="bib:ARIE1990-1991"/>
-         			<citedRange unit="page">87</citedRange>
-         			<citedRange unit="appendix">B/1990-1991</citedRange>
-         			<citedRange unit="item">158</citedRange>
-         		</bibl>; re-edited here by Emmanuel Francis (2020), from autopsy and photos (2004).
+First recorded in <bibl><ptr target="bib:ARIE1990-1991"/></bibl>; re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), from autopsy and photos (20**).
          	</p>
          	         	
          	<listBibl type="primary">   
          		
-         		<bibl n="ARIE">
+         		<bibl n="ARIE 1990-1991">
          			<ptr target="bib:ARIE1990-1991"/>
          			<citedRange unit="page">6, 87</citedRange>
          			<citedRange unit="appendix">B/1990-1991</citedRange>
-         			<citedRange unit="item">158</citedRange>
+         			<citedRange unit="item">159-162</citedRange>
          		</bibl>
          		         		         		         		
          	</listBibl>
@@ -122,18 +122,23 @@ First recorded in <bibl>
          		
          		<bibl>
          			<ptr target="bib:Lockwood1993_01"/>
-         			<citedRange unit="page">111</citedRange>
+         			<citedRange unit="page">108</citedRange>
          		</bibl>
          		
          		<bibl>
          			<ptr target="bib:Lockwood+al2001_01"/>
-         			<citedRange unit="page">224</citedRange>
+         			<citedRange unit="page">223</citedRange>
+         		</bibl>
+         		
+         		<bibl>
+         			<ptr target="bib:Willis2004_01"/>
+         			<citedRange unit="page">223</citedRange>
          		</bibl>
          		
          		<bibl>
          			<ptr target="bib:Francis2013_01"/>
          			<citedRange unit="page">280</citedRange>
-         			<citedRange unit="item">IR 40</citedRange>
+         			<citedRange unit="item">IR 41</citedRange>
          		</bibl>    
          		         		
          	</listBibl>

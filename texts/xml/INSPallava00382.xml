@@ -27,7 +27,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava382</idno>
+				<idno type="filename">INSPallava00382</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -82,11 +82,11 @@
       			<app loc="1">
       				<lem>śrī-na<space type="defect" quantity="3" unit="character"/>rendrasiṃhaḥ</lem>
       				<rdg source="bib:Lockwood+al2001_01">śrī-narendrasiṃhaḥ</rdg><!--check value @reason in Lockwood-->
-      				<note>The surface defect seems the best explanation for the space left blank. The image in Lockwood (p. 265) is misleading as it does not represent the blank space between <foreign>na</foreign> and <foreign>re</foreign>.</note>
+      				<note>The surface defect seems the best explanation for the space left blank. The image in Lockwood (p. 265)<!--update ref--> is misleading as it does not represent the blank space between <foreign>na</foreign> and <foreign>re</foreign>.</note>
       			</app>
       			
       			<app loc="1">
-      				<lem>śrī-maheśvara- <space type="defect"/> cūḷāmaṇiḥ</lem>
+      				<lem>śrī-maheśvara- <space type="defect"/> cūḷāmaṇiḥ</lem><!--Check encoding of space and editorial hyphen. Use @break="no" to <space>?-->
       				<rdg source="bib:Lockwood+al2001_01">śrī-maheśvara- <space/> cūḷāmaṇiḥ</rdg>
       				<note>The surface defect seems again the best explanation for the space left blank. The restoration <foreign>candra</foreign> suggested by Lockwood is unwarranted, the more so as another blank space interrupts another <foreign>biruda</foreign>.</note>
       			</app>    
@@ -113,27 +113,17 @@
       	
       	<div type="commentary">
       		
-      		<p>Rājasiṃha is the favourite <foreign>biruda</foreign> of Narasiṃhavarman II Pallava. The three other <foreign>biruda</foreign>s are attested in other inscriptions: Kṣatrasiṃha (tfaPallava068 and tfaPallava380<!--update!-->), Narendrasiṃha (tfaPallava060, tfaPallava068, and tfaPallava380<!--update!-->), Maheśvaracūḷāmaṇi (tfaPallava064)<!--check!-->.</p> 
-      		<p>Other birudas of of Narasiṃhavarman II Pallava are synonymous with Maheśvaracūḷāmaṇi: Śivacūḷāmaṇi, Candrārdhaśekharaśikhāmaṇi, and Maheśvaraśikhāmaṇi.</p>
+      		<p>Rājasiṃha is the favourite <foreign>biruda</foreign> of Narasiṃhavarman II Pallava. The three other <foreign>biruda</foreign>s are attested in other inscriptions: Kṣatrasiṃha (tfaPallava068 and tfaPallava380), Narendrasiṃha (tfaPallava060, tfaPallava068, and tfaPallava380<!--update cross-refs!-->), Maheśvaracūḷāmaṇi (tfaPallava064)<!--check!-->.</p> 
+      		<p>Other <foreign>biruda</foreign>s of of Narasiṃhavarman II Pallava are synonymous with Maheśvaracūḷāmaṇi: Śivacūḷāmaṇi, Candrārdhaśekharaśikhāmaṇi, and Maheśvaraśikhāmaṇi.</p>
       	</div>
       	
-         <div type="bibliography">
-
-         	<p>
-First reported in <bibl>
-         			<ptr target="bib:ARIE1993-1994"/>
-         			<citedRange unit="page">3, 40</citedRange>
-         			<citedRange unit="appendix">B/1993-1994</citedRange>
-         			<citedRange unit="item">217</citedRange>
-         		</bibl>; reported again in <bibl n="ARIE1995-1996">
-         			<ptr target="bib:ARIE1995-1996"/>
-         			<citedRange unit="page">5, 37</citedRange>
-         			<citedRange unit="appendix">B/1995-1996</citedRange>
-         			<citedRange unit="item">32</citedRange>
-         		</bibl>; re-edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), from autopsy and photos (2004).
-         	</p>
-         	
-         	<listBibl type="primary">   
+      	<div type="bibliography">
+      		
+      		<p>
+      			First reported in <bibl><ptr target="bib:ARIE1993-1994"/></bibl>; reported again in <bibl><ptr target="bib:ARIE1995-1996"/></bibl>; re-edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), from autopsy and photos (2004).
+      		</p>
+      		
+      		<listBibl type="primary">   
          		
          		<bibl n="ARIE1993-1994">
          			<ptr target="bib:ARIE1993-1994"/>
@@ -148,16 +138,16 @@ First reported in <bibl>
          			<citedRange unit="appendix">B/1995-1996</citedRange>
          			<citedRange unit="item">32</citedRange>
          		</bibl>
-
+         		
          	</listBibl>
-
+         	
          	<listBibl type="secondary">         		
          		
-         		<bibl n="ML+al"><!--undisplayed!-->
+         		<bibl n="ML+al">
          			<ptr target="bib:Lockwood+VishnuBhat1999_01"/>
          		</bibl>
          		
-         		<bibl n="ML"><!--undisplayed!-->
+         		<bibl n="ML">
          			<ptr target="bib:Lockwood+al2001_01"/>
          			<citedRange unit="page">263-265</citedRange>
          		</bibl>
@@ -167,7 +157,7 @@ First reported in <bibl>
          			<citedRange unit="page">281</citedRange>
          			<citedRange unit="item">IR 42</citedRange>
          		</bibl>    
-         		         		
+         		
          	</listBibl>
 
          </div>
