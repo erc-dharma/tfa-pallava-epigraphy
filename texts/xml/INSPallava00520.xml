@@ -23,11 +23,11 @@
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA <note>This project has received funding from the European Research
-					Council (ERC) under the European Union's Horizon 2020 research and
-					innovation programme (grant agreement no 809994).</note>
+						Council (ERC) under the European Union's Horizon 2020 research and
+						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava520</idno>
+				<idno type="filename">INSPallava00520</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -41,7 +41,20 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary/>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -67,12 +80,12 @@
 			<div type="translation" xml:lang="eng" resp="part:emfr">
 				
 				
-				<p>Pe<gap reason="illegible"></gap>.</p>
+				<p>Pe<gap reason="illegible"/>.</p>
 				
 			</div>
 			
-			<div type="commentary">
-				<p>This inscription is part of a series of names found on a group of rocks. See also ttfaPallava52, tfaPallava514-519.<!--update!--> Six names (tfaPallava52, 514-517, 520 <!--update!-->) are found on the rock locally known as <foreign>noṇṭi vīrappaṉ kutiraitoṭṭi</foreign> ("the watering place of the horse of Noṇṭi Vīrappaṉ"). One on a second rock nearby (tfaPallava518). One on a third rock in the same place (tfaPallava519).<!--Update!--></p>
+			<div type="commentary"><!--update by import from INSPallava0052-->
+				<p>This inscription is part of a series of names found on a group of rocks. See also ttfaPallava52, tfaPallava514-519.<!--update!--> Six names (tfaPallava52, 514-517, 520<!--update!-->) are found on the rock locally known as <foreign>noṇṭi vīrappaṉ kutiraitoṭṭi</foreign> ("the watering place of the horse of Noṇṭi Vīrappaṉ"). One on a second rock nearby (tfaPallava518). One on a third rock in the same place (tfaPallava519).<!--Update!--></p>
 				<p>SII 12: The following seven labels are engraved in archaic Tamil and Grantha characters on a group of rocks, one of which, on account of a natural cavity in it, is locally known as 'Noṇḍi Vīrappaṉ Kudiraitoṭṭi'. The names Kevadaperundachchaṉ and Kollaṉ Śēmagaṉ found in this place indicate that the persons bearing these names belonged to the artisan class. One of the labels also gives the name Guṇamallaḥ. On account of their palaeographical interest, these labels, as also the one given in the previous inscription <supplied reason="explanation">SII 12.23 = IP ***<!--update!--></supplied>, are included here and some of them are reproduced on plate VI <supplied reason="explanation">plate II in fact</supplied>.</p>
 			</div>
 			
@@ -81,15 +94,7 @@
 				<p>
 					First reported here and edited by Emmanuel Francis (2020) from photographs (2011).
 				</p>
-				
-				<!--<listBibl type="primary">
-					<bibl></bibl>					
-				</listBibl>
-				
-				<listBibl type="secondary">
-					<bibl></bibl>
-				</listBibl>-->
-				
+						
 			</div>
 			
 		</body>
