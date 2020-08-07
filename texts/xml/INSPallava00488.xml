@@ -5,7 +5,8 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Kāñcīpuram, Kailāsanātha, Mahendravameśvaragṛha, temple-name on southern string wall, time of Mahendravarman (1/2)</title>
+				<title>Kāñcīpuram, Kailāsanātha, Mahendravameśvaragṛha, temple-name on southern
+					string wall, time of Mahendravarman (1/2)</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -27,7 +28,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava488</idno>
+				<idno type="filename">INSPallava00488</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -41,7 +42,20 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Name of a temple.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -66,13 +80,13 @@
 
       	<div type="translation" xml:lang="eng" resp="part:emfr">
       		
-      		<p>The temple of the Lord of Mahendravarman.</p>
+      		<p n="1">The temple of the Lord of Mahendravarman.</p>
       		      		
       	</div>
       	
       	<div type="translation" xml:lang="fra" resp="part:sybr part:emfr">
       		
-      		<p>Le temple de Mahendravarmeśvara.</p>
+      		<p n="1">Le temple du Seigneur de Mahendravarman.</p>
       		
       	</div>
       	
@@ -83,7 +97,7 @@
          <div type="bibliography">
 
          	<p>
-First recorded and edited by <bibl><ptr target="bib:Hultzsch1890_01"/><citedRange unit="page">22</citedRange><citedRange unit="note">2</citedRange></bibl> (SII 1); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 53/b); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2004).</p>
+First recorded and edited by <bibl><ptr target="bib:Hultzsch1890_01"/><citedRange unit="page">22</citedRange><citedRange unit="note">2</citedRange></bibl> (SII 1); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 53.b); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2004).</p>
          	         	
          	<listBibl type="primary">
          		
@@ -114,7 +128,7 @@ First recorded and edited by <bibl><ptr target="bib:Hultzsch1890_01"/><citedRang
          		</bibl>
          		
          	</listBibl>
-
+         	
          </div>
 
       </body>

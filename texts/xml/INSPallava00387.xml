@@ -27,7 +27,7 @@
 						innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">tfaPallava387</idno>
+				<idno type="filename">INSPallava00387</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -47,23 +47,21 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>
-							The first half of a verse also found twice in Mahābalipuram (tfaPallava***, ***).
-						</summary> 
+						<summary> The first half of a verse also found twice in Mahābalipuram
+							(tfaPallava***, ***)<!--update cross-refs-->.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>
-								The delineation in <bibl>
+							<p> The delineation in <bibl>
 									<ptr target="bib:Lockwood+al2001_01"/>
 									<citedRange unit="page">288</citedRange>
-								</bibl> shows a well executed and almost ornate Grantha.
-							</p>
+								</bibl><!--display <bibl>--> shows a well executed and almost ornate Grantha.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
-			</sourceDesc>		</fileDesc>
-		
+			</sourceDesc>
+		</fileDesc>
+
 		<revisionDesc>
 			<change who="part:emfr" when="2020-06-28" status="draft">Creation of the file</change>
 		</revisionDesc>
@@ -73,22 +71,19 @@
 			
 			<div type="edition" xml:lang="san-Latn">
 				
-				<!--<note type="credit">
+				<note type="credit">
 					Text after <bibl>
 					<ptr target="bib:Lockwood+al2001_01"/>
 					<citedRange unit="page">288</citedRange>
 				</bibl>
-				</note>-->
+				</note>
 				
 				<lg met="anuṣṭubh">
-					<l n="a">
-						sambhava-sthiti-saṃhāra-<!--update hyphen-->
-						
-					</l>
-					<l n="b">
-						kāraṇam vīta-kāraṇaḥ
-					</l>
-				</lg>
+					<l n="a" enjamb="yes">
+						sambhava-sthiti-saṃhāra</l>
+					<l n="b" >
+						-kāraṇam vīta-kāraṇaḥ</l>
+				</lg><!--encode missing <l> of this half-verse?-->
 			</div>
 			
 			<div type="apparatus">
@@ -104,7 +99,7 @@
 			<div type="translation" xml:lang="fra" resp="part:sybr">
 				
 				<p>
-					Lui qui est cause des naissances, des existences et de leur destruction, mais n’a lui-même nulle cause
+					Lui qui est cause des naissances, des existences et de leur destruction, mais n’a lui-même nulle cause.
 				</p>
 			</div>
 			
@@ -115,15 +110,15 @@
 			<div type="bibliography">
 				
 				<p>
-					<!--First reported in the Indian Express (Madras edition) 28.07.1988; edited in <bibl>
+					First reported in the Indian Express (Madras edition) 28.07.1988<!--update!-->; edited in <bibl>
 						<ptr target="bib:Lockwood+al2001_01"/>
 						<citedRange unit="page">288</citedRange>
-					</bibl>. This edition encoded for DHARMA by Emmanuel Francis (2020).-->
+					</bibl>; encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020).
 				</p>
 				
 				<listBibl type="primary">
 					
-					<bibl>
+					<bibl n="ML+al">
 						<ptr target="bib:Lockwood+al2001_01"/>
 						<citedRange unit="page">288</citedRange>
 					</bibl>	
