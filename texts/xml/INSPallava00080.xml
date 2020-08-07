@@ -47,7 +47,8 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Donation by Dharmamahādevi.</summary><!--Update: add some details!-->
+						<summary>Donation by Dharmamahādevi.</summary>
+						<!--Update: add some details!-->
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -68,6 +69,15 @@
       <body>
 
       	<div type="edition" xml:lang="tam-Latn">
+      		
+      		<!--Check milestones. See EGD, p. 141.-->
+      		<milestone type="pagelike" unit="facets" n="ABC"/>
+      		<label>Maṇḍapa, west and south, and Vimāna, west</label>
+      		<!--= lines 1-2, with line 1 on ABC and line 2 on AB only-->
+      		<!--Add milestones gridlike-type within for the different blocks, but note transition between end of Maṇḍapa west and beginning of Maṇḍapa south is not between two different blocks, but between two faces of the same block.-->
+      		<milestone type="pagelike" unit="facets" n="DE"/>
+      		<label>Vimāna, south and east</label>
+      		<!--= lines 3-4, with line 1 on DE and line 2 on D only-->
       		
       		<p>      					
       			<milestone unit="block" n="Maṇḍapa West 1"/>
