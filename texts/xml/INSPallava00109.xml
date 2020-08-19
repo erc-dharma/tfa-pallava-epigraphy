@@ -99,7 +99,7 @@
          		‡ <unclear>Itu</unclear> mīḷa-p paṇi kēṭṭa ma<hi rend="grantha">dhyastha</hi>ṉ-uḷaṉ ā<choice><sic>y</sic><corr>k</corr></choice>il Avaṉai veṭṭi-p pōka Iṭu<unclear>vat’ ā</unclear>kavum
          	</p>
          	<p>
-         		<unclear>I</unclear>pparicu ceytu mīḷa-p paṇi<surplus>t</surplus>ttu-p paṇi-y <gap reason="lost" extent="unknown" unit="character"/>
+         		<unclear>I</unclear>pparicu ceytu mīḷa-p paṇi<surplus>t</surplus>ttu-p paṇi-y <gap reason="undefined" extent="unknown" unit="character"/>
          	</p>
 
          </div>
@@ -166,7 +166,7 @@
       				<citedRange unit="item">344</citedRange>
       			</bibl>
       			<bibl n="KVSA 1936-1937">
-      				<ptr target="SubrahmanyaAiyer1936-1937_01"/>
+      				<ptr target="bib:SubrahmanyaAiyer1936-1937_01"/>
       				<citedRange unit="page">29-34</citedRange>
       			</bibl>
       			<bibl n="TVM">
