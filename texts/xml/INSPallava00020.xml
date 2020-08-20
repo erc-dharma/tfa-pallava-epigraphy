@@ -72,20 +72,16 @@
       			
 <lg met="veṇpā">
 	
-	<l>
-<lb n="1"/><hi rend="grantha">śrī</hi> toṇṭai-y-an-tār
+	<l><lb n="1"/><hi rend="grantha">śrī</hi> toṇṭai-y-an-tār
 <lb n="2" break="no"/>-vēntaṉ <persName ref="pallava000005">narēntira
-<lb n="3" break="no"/>p-pōtt-araiyaṉ</persName>
-	</l>
+<lb n="3" break="no"/>p-pōtt-araiyaṉ</persName></l>
 	
-	<l>
-ve
+	<l>ve
 <lb n="4" break="no"/>ṇpēṭṭiṉ ṟeṉ-pā			
 <lb n="5" break="no"/>l mika makiḻntu ka
-<lb n="6" break="no"/>ṇṭāṉ
-	</l>
+<lb n="6" break="no"/>ṇṭāṉ</l>
 	
-	<l enjamb="yes"><!--display issue: undesirable space before the hyphen displayed for enjamb-->
+	<l enjamb="yes"><!--display issue: undesirable space before the hyphen displayed for enjamb--><!-- the issue is actually coming from your encoding. You are leaving an intentional space at the end of the <l>. See files INSPallava00387.xml, the display is as expected. I can't automatically trim the space otherwise all the content of <l> becomes text, meaning <lb/> and <unclear> disapear. So I found a rather dirty solution, be it implies being attentive to the behaviour of all the signs hyphens at end of lines... let's hope it works-->
 cara mikka ve
 <lb n="7" break="no"/>ñ-cilaiyāṉ <persName ref="pallava000001"><unclear reason="eccentric_ductus">ca</unclear>
 <lb n="8" break="no"/>tturu-mall</persName>e<hi rend="grantha">ś<unclear>va</unclear></hi>
