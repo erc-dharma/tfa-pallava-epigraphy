@@ -42,7 +42,7 @@
 			</publicationStmt>
 			<sourceDesc>
 				<msDesc>
-					<!--display issue: implement display [italics] of <foreign> in <sourceDesc>-->
+					<!--display issue: implement display [italics] of <foreign> in <sourceDesc>--><!-- DONE. I had to use @mode to avoid having to rewrite everything. -->
 					<msIdentifier>
 						<repository>DHARMAbase</repository>
 						<idno/>
