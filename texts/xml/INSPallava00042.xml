@@ -99,7 +99,7 @@
       			<lem>mūla-tāṉattu</lem>
       			<rdg source="bib:ARIE1932-1933"><unclear>mū</unclear>la-tāṉattu</rdg>
       			<note>
-      				<bibl><!--display: possible to display siglum instead of full bibliographical reference?-->
+      				<bibl rend="siglum"><!--display: possible to display siglum instead of full bibliographical reference?--><!-- Sure but I need a rend on the bibl. See the result implemented for this example. If you are happy with it, just add the @rend="siglum" wherever needed. I guess it will have to be added also in the encoding guide.-->
 			<ptr target="bib:ARIE1932-1933"/>
 			<citedRange unit="page">55</citedRange>
 			<citedRange unit="note">2</citedRange>
@@ -111,7 +111,7 @@
       		<app loc="8">
       			<lem>pōtta<supplied reason="omitted">ra</supplied><unclear>car</unclear></lem>      			
       			<note>
-      				<bibl><!--display: possible to display siglum instead of full bibliographical reference?-->
+      				<bibl><!--display: possible to display siglum instead of full bibliographical reference?--> <!-- See my answer above with @rend="siglum" -->
 			<ptr target="bib:ARIE1932-1933"/>
 			<citedRange unit="page">55</citedRange>
 			<citedRange unit="note">3</citedRange>
@@ -136,7 +136,7 @@
 <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:ARIE1932-1933"/></bibl><!--display issue: the numerals in the "Title" are unduly circumscribed by parentheses-->; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 42)<!--display issue: parentheses unduly fused in display-->; re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:ARIE1932-1933"/></bibl>.
+First edited in <bibl><ptr target="bib:ARIE1932-1933"/></bibl><!--display issue: the numerals in the "Title" are unduly circumscribed by parentheses--><!-- I have rewritten the regex pattern deleting the unnecessary html tags and others. Seem to work fine even with the other Zotero entries, but it still need to be watched over -->; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 42)<!--display issue: parentheses unduly fused in display--><!--Noted but until a found a solution to deal with the unclear and all, I won't be able to resolve it-->; re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:ARIE1932-1933"/></bibl>.
             </p>
 
 	<listBibl type="primary">

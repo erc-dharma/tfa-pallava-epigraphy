@@ -43,7 +43,7 @@
 			</publicationStmt>
 			<sourceDesc>
 				<msDesc>
-					<!--implement display [italics] of <foreign> in <sourceDesc>-->
+					<!--implement display [italics] of <foreign> in <sourceDesc>--><!-- it has been implemented, there is no italic in your <sourceDesc> though-->
 					<msIdentifier>
 						<repository>DHARMAbase</repository>
 						<idno/>
@@ -81,7 +81,7 @@
       			pallava-kula-tilaka <gap reason="lost" quantity="4" unit="character" precision="low"/>
       			<lb n="3" break="no"/>na<hi rend="grantha">n=dipanm</hi>a<choice><orig>ṟ</orig><reg>r</reg></choice>kku <gap reason="lost" quantity="5" unit="character" precision="low"/> <supplied reason="lost">ā</supplied>
       			<lb n="4" break="no"/><hi rend="grantha"><unclear>di</unclear></hi>t=ta-ku<hi rend="grantha">la-ke</hi>tana <gap reason="lost" quantity="7" unit="character" precision="low"/> 
-      			<lb n="5"/> vic<choice><orig>a</orig><reg>ai</reg></choice>ya-nalluḻā <gap reason="lost" quantity="7" unit="character" precision="low"/><!--Display issue: at the beginning of line the brackets around di should not be in bold-->
+      			<lb n="5"/> vic<choice><orig>a</orig><reg>ai</reg></choice>ya-nalluḻā <gap reason="lost" quantity="7" unit="character" precision="low"/><!--Display issue: at the beginning of line the brackets around di should not be in bold--><!-- Can't solve it for now since I am still figuring something for unclear -->
       			<lb n="6"/><gap reason="lost" quantity="1" unit="character" precision="low"/> <unclear>rai</unclear>yaṉāl ni <gap reason="lost" quantity="7" unit="character" precision="low"/>
       			<lb n="7"/><gap reason="lost" quantity="3" unit="character" precision="low"/> ni <gap reason="lost" quantity="4" unit="character" precision="low"/> ḷiṭam
       			<lb n="8"/>yā <gap reason="lost" quantity="3" unit="character" precision="low"/> tiyā <gap reason="lost" quantity="5" unit="character" precision="low"/>

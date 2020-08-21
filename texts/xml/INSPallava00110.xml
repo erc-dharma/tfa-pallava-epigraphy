@@ -208,7 +208,7 @@ First edited in <bibl><ptr target="bib:GopinathaRao1911_01"/></bibl> with Englis
   				<citedRange unit="page">113-114</citedRange>
   			</bibl>
   			
-  			<bibl n="VV"><!--display issue: only the first of the years of the date is displayed-->
+  			<bibl n="VV"><!--display issue: only the first of the years of the date is displayed--><!-- I have changed the CSL in favor of DHARMA's and change the regex pattern again to take into account the range -->
   				<ptr target="bib:Venkayya1911-1912_01"/>
   				<citedRange unit="item">B</citedRange>
   				<citedRange unit="page">225-226</citedRange>
