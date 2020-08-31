@@ -87,7 +87,7 @@
          		<app loc="1">
          			<lem>ma
 <lb n="4" break="no"/>l<unclear>ai</unclear>yaṉṉār</lem>
-         			<rdg source="bib:ARIE2000-2001 bib:IAR2000-2001">maliyaṉṉār</rdg><!--IAR not displayed!--> 
+         			<rdg source="bib:ARIE2000-2001 bib:IAR2000-2001">maliyaṉṉār</rdg><!--IAR not displayed!--> <!-- I have a display in the tooltip as well as siglum. Can you clarify please?-->
          		</app>         		
          		
          	</listApp>

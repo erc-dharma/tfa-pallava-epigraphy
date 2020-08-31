@@ -55,7 +55,7 @@
 							<p> The delineation in <bibl>
 									<ptr target="bib:Lockwood+al2001_01"/>
 									<citedRange unit="page">288</citedRange>
-								</bibl><!--display <bibl>--> shows a well executed and almost ornate Grantha.</p>
+								</bibl><!--display <bibl>--><!-- DONE --> shows a well executed and almost ornate Grantha.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>

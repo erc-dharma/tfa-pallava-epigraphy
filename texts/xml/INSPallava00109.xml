@@ -78,7 +78,7 @@
          		Uttaramēru-catu‡<hi rend="grantha"><supplied reason="omitted">r</supplied>vve</hi>ti-maṅgalattu <hi rend="grantha">sabhai</hi>yōm ceyta <hi rend="grantha">vya</hi>va<hi rend="grantha">sthai</hi>
          	</p>
          	<p> Emmūr <hi rend="grantha">bhū</hi>mi-Uṭaiya kuṭikaḷ <hi rend="grantha">bhū</hi>mi-<hi rend="grantha">sā</hi>mantu <unclear>ceyka Eṉṟu van=taṉa Epper</unclear>ppaṭṭaṉa
-         		<lb n="2" break="no"/>vum <!--display issue: opening parenthes is in bold and should not be--><hi rend="grantha"><unclear>sā</unclear></hi><unclear>man=tu</unclear> ceyya va<choice><orig>ṉ</orig><reg>n</reg></choice>ta <hi rend="grantha">bhū</hi>mi-y-uṭaiyāṉ muṉ ṉi<unclear>ṉṟu</unclear> po<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> iṭātār <hi rend="grantha">bhū</hi>mikku <hi rend="grantha">sā</hi>mantu <gap reason="illegible" quantity="2" unit="character" precision="low"/> m po<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> iṭa-mā‡ṭṭā<unclear>ta</unclear> kuṭi palavum niṟkka-māṭṭātu pōṉamaiyil Ūrōmēy po<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> iṭṭu Avaṉ <hi rend="grantha">bhū</hi>miyil <gap reason="illegible" quantity="2" unit="character"/> poṉ<unclear>ṉu</unclear>kku vēṇṭum aḷa<unclear>vu</unclear> Emmūr vaiyiramē
+         		<lb n="2" break="no"/>vum <!--display issue: opening parenthes is in bold and should not be--><!-- No solution for now --><hi rend="grantha"><unclear>sā</unclear></hi><unclear>man=tu</unclear> ceyya va<choice><orig>ṉ</orig><reg>n</reg></choice>ta <hi rend="grantha">bhū</hi>mi-y-uṭaiyāṉ muṉ ṉi<unclear>ṉṟu</unclear> po<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> iṭātār <hi rend="grantha">bhū</hi>mikku <hi rend="grantha">sā</hi>mantu <gap reason="illegible" quantity="2" unit="character" precision="low"/> m po<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> iṭa-mā‡ṭṭā<unclear>ta</unclear> kuṭi palavum niṟkka-māṭṭātu pōṉamaiyil Ūrōmēy po<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> iṭṭu Avaṉ <hi rend="grantha">bhū</hi>miyil <gap reason="illegible" quantity="2" unit="character"/> poṉ<unclear>ṉu</unclear>kku vēṇṭum aḷa<unclear>vu</unclear> Emmūr vaiyiramē
          		<lb n="3" break="no"/>ka-taṭākattukkē <hi rend="grantha">bhū</hi>mi-y-āka <hi rend="grantha">sā</hi>ma<unclear>n=tu</unclear> ceytu viṟṟu-k kuṭuttu maṇṭakattu kallilē Eḻuttu <unclear>ve</unclear>ṭṭu‡vat' ākavum 
          	</p>
          	<p>
@@ -99,7 +99,7 @@
          		‡ <unclear>Itu</unclear> mīḷa-p paṇi kēṭṭa ma<hi rend="grantha">dhyastha</hi>ṉ-uḷaṉ ā<choice><sic>y</sic><corr>k</corr></choice>il Avaṉai veṭṭi-p pōka Iṭu<unclear>vat’ ā</unclear>kavum
          	</p>
          	<p>
-         		<unclear>I</unclear>pparicu ceytu mīḷa-p paṇi<surplus>t</surplus>ttu-p paṇi-y <gap reason="lost" extent="unknown" unit="character"/>
+         		<unclear>I</unclear>pparicu ceytu mīḷa-p paṇi<surplus>t</surplus>ttu-p paṇi-y <gap reason="undefined" extent="unknown" unit="character"/>
          	</p>
 
          </div>
@@ -166,7 +166,7 @@
       				<citedRange unit="item">344</citedRange>
       			</bibl>
       			<bibl n="KVSA 1936-1937">
-      				<ptr target="SubrahmanyaAiyer1936-1937_01"/>
+      				<ptr target="bib:SubrahmanyaAiyer1936-1937_01"/>
       				<citedRange unit="page">29-34</citedRange>
       			</bibl>
       			<bibl n="TVM">
