@@ -140,7 +140,7 @@ cara mikka ve
 	<app loc="7">
 		<lem><unclear reason="eccentric_ductus">ca</unclear>tturu-malle<hi rend="grantha">ś<unclear>va</unclear></hi>rāl<unclear>ai</unclear>yam</lem>
 		<rdg source="bib:Hultzsch1913-1914_01"><choice><hi rend="grantha"><unclear>śa</unclear></hi><unclear>ca</unclear></choice>tturumalle<hi rend="grantha">śva</hi>rālaiyam</rdg>
-		<!--<hi> not allowed? Uncertainty bears on the script of śa-->
+		<!--<hi> not allowed? Uncertainty bears on the script of śa--> <!-- DONE-->
 		<rdg source="bib:Mahalingam1988_01"><hi rend="grantha">śa</hi>ttrumalle<hi rend="grantha">śva</hi>rālayam</rdg>
 		<note> Examination in situ enabled to reject the reading <foreign>°ālayam</foreign>. The alternative reading <foreign>°āleyam</foreign> is possible.</note>
 	</app>
