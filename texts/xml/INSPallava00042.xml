@@ -136,7 +136,7 @@
 <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:ARIE1932-1933"/></bibl><!--display issue: the numerals in the "Title" are unduly circumscribed by parentheses--><!-- I have rewritten the regex pattern deleting the unnecessary html tags and others. Seem to work fine even with the other Zotero entries, but it still need to be watched over -->; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 42)<!--display issue: parentheses unduly fused in display--><!--Noted but until a found a solution to deal with the unclear and all, I won't be able to resolve it-->; re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:ARIE1932-1933"/></bibl>.
+First edited in <bibl><ptr target="bib:ARIE1932-1933"/></bibl><!--display issue: the numerals in the "Title" are unduly circumscribed by parentheses--><!-- I have rewritten the regex pattern deleting the unnecessary html tags and others. Seem to work fine even with the other Zotero entries, but it still need to be watched over -->; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 42)<!--display issue: parentheses unduly fused in display--><!--Resolved with the new code to handle the brackets – evne though I am still working on it.-->; re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:ARIE1932-1933"/></bibl>.
             </p>
 
 	<listBibl type="primary">

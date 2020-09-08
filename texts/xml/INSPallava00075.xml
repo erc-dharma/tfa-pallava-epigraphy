@@ -130,7 +130,7 @@
       			</app>
       			
       			<app loc="6">
-      				<lem>viḷak·k-<supplied reason="lost">avi</supplied><lb n="7" break="no"/>-<unclear>p</unclear></lem><!--display issue: there is a space before editorial hyphen-->
+      				<lem>viḷak·k-<supplied reason="lost">avi</supplied><lb n="7" break="no"/>-<unclear>p</unclear></lem><!--display issue: there is a space before editorial hyphen--><!-- Do you mean this space [avi-] -(p)? -->
       				<rdg source="bib:Butterworth+VenugopaulChetty1905_01 Mahalingam1988_01">viḷakka<gap reason="illegible" quantity="3" unit="character" precision="low"/><lb n="7" break="no"/>-<unclear>p</unclear></rdg>
       				<rdg source="bib:Mahalingam1960_03">viḷak·k-<supplied reason="lost">avi</supplied><lb n="7" break="no"/>-<unclear>p</unclear></rdg>
       			</app>
