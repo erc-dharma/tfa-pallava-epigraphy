@@ -82,6 +82,7 @@
 <lb n="6" break="no"/>ṇṭāṉ</l>
 	
 	<l enjamb="yes"><!--display issue: undesirable space before the hyphen displayed for enjamb--><!-- the issue is actually coming from your encoding. You are leaving an intentional space at the end of the <l>. See files INSPallava00387.xml, the display is as expected. I can't automatically trim the space otherwise all the content of <l> becomes text, meaning <lb/> and <unclear> disapear. So I found a rather dirty solution, be it implies being attentive to the behaviour of all the signs hyphens at end of lines... let's hope it works-->
+		<!-- Because of the implementation of the new unclear related to unclear, I add to come up with another solution. Should be good to go, but enjemb behavious new to be watched. -->
 cara mikka ve
 <lb n="7" break="no"/>ñ-cilaiyāṉ <persName ref="pallava000001"><unclear reason="eccentric_ductus">ca</unclear>
 <lb n="8" break="no"/>tturu-mall</persName>e<hi rend="grantha">ś<unclear>va</unclear></hi>
