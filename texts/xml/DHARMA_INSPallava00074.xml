@@ -179,6 +179,7 @@
 
       	<div type="translation" xml:lang="eng" resp="part:emfr">
       		<!--Check/Update translation + if necessary encode properly "..."-->
+      		<!--add @n to p-->
       		<p>Fortune!</p>
       		<p>Fourteenth year of Nantippōttaraicar.</p>
       		<p>The pious donation <supplied reason="explanation"><foreign>aṟam</foreign></supplied> that Antai Iḷaiyār Appananti, <supplied reason="subaudible">of this</supplied> village, gave for the ascetics who reside <supplied reason="subaudible">here</supplied>, excluding those belonging <supplied reason="explanation"><foreign>uṭai</foreign></supplied> to this <foreign>paḷḷi</foreign>: seven <foreign>kaḻañcu</foreign>s of gold, <supplied reason="subaudible">as</supplied> alms <supplied reason="explanation"><foreign>piccai</foreign></supplied>.</p>

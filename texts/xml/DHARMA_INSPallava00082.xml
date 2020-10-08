@@ -111,7 +111,7 @@
       	<div type="apparatus">
       		
       		<listApp>
-      			      
+      			      <!--Fuse identical readings by different editors-->
       			<app loc="3">
       				<lem>kāṇamuma<lb n="4" break="no"/><unclear>t</unclear>tu</lem>      				
       				<rdg source="bib:Nagaswamy1970_02">kāṇamuma<lb n="4" break="no"/><unclear>t</unclear>tu</rdg>
@@ -125,7 +125,7 @@
       			</app>      	
       			
       			<app loc="6">
-      				<lem></lem>      				
+      				<lem/>      				
       				<rdg source="bib:Nagaswamy1970_02">nāyakarallā</rdg>
       				<rdg source="bib:Mahalingam1988_01">nāyakarallār</rdg>
       				<note>Read possibly <foreign>nāyakarallar</foreign>.</note>
@@ -157,6 +157,7 @@
 
       	<div type="translation" xml:lang="eng" resp="part:emfr">
       		<!--Check/Update translation + if necessary encode properly "..."-->
+      		<!--add @n to p-->
       		<p>Fortune!</p>
       		<p>Thirty-third year of Nantippōttaraicar.</p>
       		<p><!--Add translation--></p>
