@@ -1,68 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:lang="eng">
-		<fileDesc>
-			<titleStmt>
-				<title>Vilāppākkam rock inscription, sculpture donation of the time of Dantivarman,
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vilāppākkam rock inscription, sculpture donation of the time of Dantivarman,
 					year 50</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA <note>This project has received funding from the European Research
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA <note>This project has received funding from the European Research
 						Council (ERC) under the European Union's Horizon 2020 research and
 						innovation programme (grant agreement no 809994).</note>
-				</authority>
-				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">DHARMA_INSPallava00085</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+            </authority>
+            <pubPlace>Paris, CEIAS</pubPlace>
+            <idno type="filename">DHARMA_INSPallava00085</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
 							Licence. To view a copy of the licence, visit
 							https://creativecommons.org/licenses/by/4.0/ or send a letter to
 							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary>Foundation <!--OK for an image?--> of an image of Poṉṉiyakkiyār and Nākaṇandi by Nāraṇaṉ (Nārāyaṇa), son of Maruttuvar of Pukaḻālaimaṅkalam.</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p/>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2020-02-04" status="draft">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
+                  <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary>Foundation <!--OK for an image?--> of an image of Poṉṉiyakkiyār and Nākaṇandi by Nāraṇaṉ (Nārāyaṇa), son of Maruttuvar of Pukaḻālaimaṅkalam.</summary>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change who="part:emfr" when="2020-02-04" status="draft">Creation of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
 <body>
                   
 <div type="edition" xml:lang="tam-Latn">
@@ -83,7 +83,7 @@
 		
 </div>
       	
-<div type="translation" xml:lang="eng" source="bib:Venkayya1896-1897_01">
+<div type="translation" source="bib:Venkayya1896-1897_01">
 
 <p>
 In the fiftieth <supplied reason="subaudible">year</supplied> of Nandippōttaracar,— Nāraṇaṉ <supplied reason="explanation">Nārāyaṇa</supplied>, the son of Maruttuvar <note n="'4">The word <foreign>maruttuvaṉ</foreign>  means ‘a physician.’ In the present case it seems to be the proper name of a person.</note> of Pugaḻālaimaṅkalam, caused to be engraved an image of Poṉṉiyakkiyār, along with <note n="5">Literally: “while there is present.”</note> the preceptor (<foreign>gurava</foreign>) <note n="6">On this word, which appears to be derived from the honorific plural of <foreign>guru</foreign>, see <hi rend="italic">South-Indian Inscriptions</hi>, Vol. II. p. 251, note 3.</note> Nāgaṇandi <supplied reason="explanation">Nāganandin</supplied>.
@@ -92,7 +92,7 @@ In the fiftieth <supplied reason="subaudible">year</supplied> of Nandippōttarac
 
 </div>
          
-<div type="translation" xml:lang="eng" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       
 <p>Fiftieth <supplied reason="subaudible">year</supplied> of Nantippōttaracar <supplied reason="explanation">that is, Nandippōtaraiyar, Nandivarman</supplied>.</p>
 <p>Nāraṇaṉ <supplied reason="explanation">Nārāyaṇa</supplied>, son of Maruttuvar of Pukaḻālaimaṅkalam, caused to be engraved <supplied reason="subaudible">this</supplied> image of Poṉṉiyakkiyār accompanied with <supplied reason="explanation">irukka</supplied> the Preceptor Nākaṇandi.</p>
@@ -122,7 +122,7 @@ First edited in <bibl><ptr target="bib:Venkayya1896-1897_01"/></bibl> (EI 4, no.
 			<citedRange unit="item">85</citedRange>
 			<citedRange unit="page"/>
 		</bibl>
-		<bibl n= "VV">
+		<bibl n="VV">
 			<ptr target="bib:Venkayya1896-1897_01"/>
 			<citedRange unit="item">A</citedRange>
 			<citedRange unit="page">136-137</citedRange>

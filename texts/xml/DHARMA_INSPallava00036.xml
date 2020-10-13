@@ -1,93 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:lang="eng">
-		<fileDesc>
-			<titleStmt>
-				<title>Vallam, Vedānteśvara, pillar inscription of Kantacēṉaṉ</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA <note>This project has received funding from the European Research
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vallam, Vedānteśvara, pillar inscription of Kantacēṉaṉ</title>
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA <note>This project has received funding from the European Research
 						Council (ERC) under the European Union's Horizon 2020 research and
 						innovation programme (grant agreement no 809994). </note>
-				</authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSPallava00036</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+            </authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_INSPallava00036</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
 							Licence. To view a copy of the licence, visit
 							https://creativecommons.org/licenses/by/4.0/ or send a letter to
 							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary>Records the foundation of a cave-temple by Kantacēṉaṉ (Skt.
+                  <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary>Records the foundation of a cave-temple by Kantacēṉaṉ (Skt.
 							Skandasena), son of Vayantappiri (Skt. Vasantapriya) and servant of
 							Mayēntirappōttarēcaru (Mahendravarman I Pallava).</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p/>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<revisionDesc>
-			<change who="part:axja" when="2020-01-08">Update the template</change>
-			<change who="part:emfr" when="2019-11-15">Creation of the file on the
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change who="part:axja" when="2020-01-08">Update the template</change>
+         <change who="part:emfr" when="2019-11-15">Creation of the file on the
 				repository</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
     <body>
         	<div type="edition" xml:lang="tam-Latn">
 
         		<div type="textpart" subtype="item" n="A">
         			<head xml:lang="eng">Left/South Pillar</head>
         			<p>
-        			<lb n="1"/><persName ref="pallava000001
-">pakā-p·-piṭuku</persName> <persName ref="pallava000001
-">laḷitāṅ·kuraṉ·</persName>
+        			<lb n="1"/><persName ref="pallava000001 ">pakā-p·-piṭuku</persName> <persName ref="pallava000001 ">laḷitāṅ·kuraṉ·</persName>
         			</p>
         		</div>
 
         		<div type="textpart" subtype="item" n="B">
         			<head xml:lang="eng">Right/North Pillar</head>
         			<p>
-        			<lb n="2"/><persName ref="pallava000001
-">cat<unclear>·</unclear>turu<choice><orig>m<unclear>·</unclear>m</orig><reg>m</reg></choice>allaṉ·</persName> <persName ref="pallava000001
-">kuṇaparaṉ·</persName> <!-- Display issue: Unclear not displayed inside choice/orig --><!-- Unclear display – still need to display the brackets – using mode mgiht create a loop. -->
-        			<lb n="3"/><persName ref="pallava000001
-">mayēn·tira-p-pōt·t-arēcaru</persName> Aṭiyāṉ·
-        			<lb n="4"/><persName ref="pallava000003
-">vayan·tap·piri Arēcaru</persName> makaṉ· <persName ref="pallava000004">kan·tacēṉa
+        			<lb n="2"/><persName ref="pallava000001 ">cat<unclear>·</unclear>turu<choice><orig>m<unclear>·</unclear>m</orig><reg>m</reg></choice>allaṉ·</persName> <persName ref="pallava000001 ">kuṇaparaṉ·</persName> <!-- Display issue: Unclear not displayed inside choice/orig --><!-- Unclear display – still need to display the brackets – using mode mgiht create a loop. -->
+        			<lb n="3"/><persName ref="pallava000001 ">mayēn·tira-p-pōt·t-arēcaru</persName> Aṭiyāṉ·
+        			<lb n="4"/><persName ref="pallava000003 ">vayan·tap·piri Arēcaru</persName> makaṉ· <persName ref="pallava000004">kan·tacēṉa
         			<lb n="5" break="no"/>ṉ·</persName> ceyivit<unclear>·</unclear>ta tēvakulam· <g type="symbol" subtype="finalGomutra"/>
         		</p>
                 	</div>
@@ -96,14 +90,14 @@
 
           <div type="apparatus"/>
 
-            <div type="translation" xml:lang="eng" source="bib:Hultzsch1895_01">
+            <div type="translation" source="bib:Hultzsch1895_01">
             	<note>Translation by Hultzsch (1895). Standardised according to DHARMA TG and EG.</note><!--check-->
 <p>Kantaceṉaṉ <supplied reason="explanation">Skandasena</supplied>, the son of Vayantappiriarecaru <supplied reason="explanation">Vasantapriyarāja</supplied>, the servant of Pakāppiṭuku Laḷitāṅkuraṉ <supplied reason="explanation">Lalitāṅkura</supplied> Catturummallaṉ <supplied reason="explanation">Śatrumalla</supplied> Kuṇaparaṉ <supplied reason="explanation">Guṇabhara</supplied> Mayentirappōttarecaru <supplied reason="explanation">Mahendrapōtarāja</supplied>, caused <supplied reason="subaudible">this</supplied> temple <supplied reason="explanation"><foreign>devakula</foreign></supplied> to be made.</p>
 
             </div>
 
 
-            <div type="translation" xml:lang="eng" resp="part:emfr">
+            <div type="translation" resp="part:emfr">
 <p>
 Temple <supplied reason="explanation"><foreign>tēvakulam</foreign>, Skt. <foreign>devakula</foreign></supplied> caused to be made by Kantacēṉaṉ <supplied reason="explanation">Skt. Skandasena</supplied>, son of the king <supplied reason="explanation"><foreign>arēcaru</foreign></supplied> Vayantappiri (Skt. Vasantapriya), servant <supplied reason="explanation"><foreign>aṭiyāṉ</foreign></supplied> of Pakāppiṭuku Laḷitāṅkuraṉ <supplied reason="explanation">Skt. Lalitāṅkura</supplied> Catturummallaṉ <supplied reason="explanation">Skt. Śatrumalla</supplied> Kuṇaparaṉ <supplied reason="explanation">Skt. Guṇabhara</supplied> Mayēntirappōttarēcaru <supplied reason="explanation">i.e. Mahendravarman I Pallava</supplied>.
 </p>

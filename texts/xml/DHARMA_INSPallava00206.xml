@@ -1,68 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:lang="eng">
-		<fileDesc>
-			<titleStmt>
-				<title>Uttiramērūr, Vaikuṇṭhaperumāl, sale-deed of the time of Kampavarman, year
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Uttiramērūr, Vaikuṇṭhaperumāl, sale-deed of the time of Kampavarman, year
 					8</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA <note>This project has received funding from the European Research
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA <note>This project has received funding from the European Research
 						Council (ERC) under the European Union's Horizon 2020 research and
 						innovation programme (grant agreement no 809994).</note>
-				</authority>
-				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">DHARMA_INSPallava00206</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+            </authority>
+            <pubPlace>Paris, CEIAS</pubPlace>
+            <idno type="filename">DHARMA_INSPallava00206</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
 							Licence. To view a copy of the licence, visit
 							https://creativecommons.org/licenses/by/4.0/ or send a letter to
 							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary/>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p/>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2020-04-30" status="draft">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
+                  <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change who="part:emfr" when="2020-04-30" status="draft">Creation of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
       	
       	<div type="edition" xml:lang="tam-Latn">
@@ -71,7 +71,7 @@
       			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
       		</p>
       		<p>	
-      			kō-vic<choice><orig>a</orig><reg>>ai</reg></choice>ya-kampa-vik<choice><sic><hi rend="grantha">kri</hi></sic><corr>ki</corr></choice>rama-parumarkku yāṇṭu Eṭṭ-āvatu
+      			kō-vic<choice><orig>a</orig><reg>&gt;ai</reg></choice>ya-kampa-vik<choice><sic><hi rend="grantha">kri</hi></sic><corr>ki</corr></choice>rama-parumarkku yāṇṭu Eṭṭ-āvatu
       		</p>
       		<p>
       			kāliyūr-k-kōṭṭattu taṉ k<unclear>ū</unclear>ṟṟu Uttaramēru-c-catu<hi rend="grantha"><supplied reason="omitted">r</supplied>vve</hi>ti-maṅkalattu <hi rend="grantha">sabhai</hi>yōm nila-vilai-y āvaṇa-k kai-<choice><orig>yy</orig><reg>y</reg></choice>-eḻuttu
@@ -170,7 +170,7 @@
          	
          </div>
 
-         <div type="translation" xml:lang="eng" resp="part:emfr">
+         <div type="translation" resp="part:emfr">
          	
          	<p n="1">Prosperity! Fortune!</p>
          	
@@ -184,7 +184,7 @@
          	
          	<p n="4">We, the members of the assembly, have given for sale three quarters <supplied reason="explanation"><foreign>mu-k-kāl-āvatum</foreign></supplied> <supplied reason="subaudible">among these lands</supplied>.</p>
          	
-         	<p n="4">We, the members of the assembly, have solemnly given this <supplied reason="explanation"><foreign>itu-v-ē</foreign></supplied> as a …<!--check translation--> <supplied reason="explanation"><foreign>poru[ḷā>ḷ] māvaṟiti</foreign></supplied> <supplied reason="subaudible">written</supplied> leaf <supplied reason="explanation"><foreign>ōlai-y-āka</foreign></supplied>.</p>
+         	<p n="4">We, the members of the assembly, have solemnly given this <supplied reason="explanation"><foreign>itu-v-ē</foreign></supplied> as a …<!--check translation--> <supplied reason="explanation"><foreign>poru[ḷā&gt;ḷ] māvaṟiti</foreign></supplied> <supplied reason="subaudible">written</supplied> leaf <supplied reason="explanation"><foreign>ōlai-y-āka</foreign></supplied>.</p>
 
          	<p n="4-6">We, the members of the assembly, have had the title-deed given <supplied reason="explanation"><foreign>paṭṭa-sāmantu-k koṭuvitttōm āṉōm</foreign>, literally “we have become those who had the title-deed given”</supplied>, <supplied reason="subaudible">with details</supplied> as <supplied reason="explanation"><foreign>pōla</foreign></supplied> the above-mentioned Kuravaciri Rāmadeva-bhaṭṭa and his younger brothers, the three of them <supplied reason="explanation"><foreign>mūvaraiyum</foreign></supplied>, pointed out <supplied reason="explanation"><foreign>cuṭṭi(ṉa/ṉ)</foreign></supplied><!--update-->, after pointing out <supplied reason="explanation"><foreign>cuṭṭi</foreign></supplied> the land got as <foreign>bahirbhūmi</foreign> <supplied reason="explanation"><foreign><hi rend="grantha">bahirbhūmi</hi>-y-āka koṇṭa nilam cuṭṭi</foreign></supplied> for that tank <supplied reason="explanation"><foreign>avvērikkē</foreign></supplied> which surrounds <supplied reason="explanation"><foreign>cuṟṟum</foreign></supplied> … <supplied reason="explanation"><foreign>maṇ koṇṭāraiyum</foreign></supplied><!--Update--> in this Kāṟikaikkuṭṭam <supplied reason="subaudible">tank</supplied> <supplied reason="explanation"><foreign>ik-kaṟikai-k-kuṭṭatiṉ</foreign></supplied> on the tank-banks <supplied reason="explanation"><foreign>ēri-karai-y-il</foreign></supplied> of this this Kāṟikaikkuṭṭam <supplied reason="subaudible">tank</supplied>.</p>
          	
