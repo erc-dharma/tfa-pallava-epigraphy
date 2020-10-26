@@ -183,7 +183,7 @@
       				<lem>kampai<lb n="10" break="no"/>yara<supplied reason="omitted">ya</supplied>ṉ</lem>
       				<rdg source="bib:Sampath1968_01">kampai<lb n="10" break="no"/>yaraṉ</rdg>
       				<rdg source="bib:Mahalingam1988_01">kampai<lb n="10" break="no"/>yara<supplied reason="omitted">ya</supplied>ṉ</rdg>
-      				<rdg source="bib:Dayalan2005_01"></rdg>
+      				<rdg source="bib:Dayalan2005_01"/>
       				<note>I.e. kampai-y-araiyaṉ</note><!--Update! Encode regularised text in div edition?-->			
       			</app>  
       			
@@ -228,7 +228,7 @@ First edited by <bibl><ptr target="bib:Sampath1968_01"/></bibl>; text and summar
             			<citedRange unit="item">84</citedRange>
             		</bibl>
             		
-            		<bibl n="RN">
+            		<bibl n="DD">
             			<ptr target="bib:Dayalan2005_01"/>
             			<citedRange unit="page">1276</citedRange>
             		</bibl>
