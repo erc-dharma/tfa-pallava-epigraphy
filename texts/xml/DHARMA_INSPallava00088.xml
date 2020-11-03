@@ -22,7 +22,7 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <authority>DHARMA </authority>
+            <authority>DHARMA</authority>
             <pubPlace>Paris, CEIAS</pubPlace>
             <idno type="filename">DHARMA_INSPallava00088</idno>
             <availability>
@@ -79,6 +79,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:emfr" when="2020-10-08" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
