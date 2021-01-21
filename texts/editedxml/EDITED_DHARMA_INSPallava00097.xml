@@ -189,13 +189,13 @@ First edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 1
 
 	<listBibl type="primary">
 		
-		<bibl n="SII_12.39">
+		<bibl n="VVA">
 			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
 			<citedRange unit="page">16</citedRange>
 			<citedRange unit="item">39</citedRange>
 		</bibl>
 				
-		<bibl n="IP_97">
+		<bibl n="TVM">
 			<ptr target="bib:Mahalingam1988_01"/>
 			<citedRange unit="page">333-334</citedRange>
 			<citedRange unit="item">97</citedRange>
