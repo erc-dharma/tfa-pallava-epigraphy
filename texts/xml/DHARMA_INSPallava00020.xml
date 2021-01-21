@@ -92,24 +92,25 @@
 <div type="textpart" subtype="face" n="A">
 <head xml:lang="eng">Eastern face of the pillar</head>
       			
-<lg met="veṇpā">
-	
-	<l><lb n="1"/><hi rend="grantha">śrī</hi> toṇṭai-y-an-tār
-<lb n="2" break="no"/>-vēntaṉ <persName ref="pallava000005">narēntira
-<lb n="3" break="no"/>p-pōtt-araiyaṉ</persName></l>
-	
-	<l>ve
-<lb n="4" break="no"/>ṇpēṭṭiṉ ṟeṉ-pā			
-<lb n="5" break="no"/>l mika makiḻntu ka
-<lb n="6" break="no"/>ṇṭāṉ</l>
-	
-	<l enjamb="yes"><!--display issue: undesirable space before the hyphen displayed for enjamb--><!-- the issue is actually coming from your encoding. You are leaving an intentional space at the end of the <l>. See files INSPallava00387.xml, the display is as expected. I can't automatically trim the space otherwise all the content of <l> becomes text, meaning <lb/> and <unclear> disapear. So I found a rather dirty solution, be it implies being attentive to the behaviour of all the signs hyphens at end of lines... let's hope it works-->
-		<!-- Because of the implementation of the new unclear related to unclear, I add to come up with another solution. Should be good to go, but enjemb behavious new to be watched. -->
-cara mikka ve
-<lb n="7" break="no"/>ñ-cilaiyāṉ <persName ref="pallava000001"><unclear reason="eccentric_ductus">ca</unclear>
-<lb n="8" break="no"/>tturu-mall</persName>e<hi rend="grantha">ś<unclear>va</unclear></hi>
-<lb n="9" break="no"/>rāl<unclear>ai</unclear>yam <unclear>eṉ</unclear>
-	</l>
+	<lg met="veṇpā">
+		
+		<l>
+			<lb n="1"/><hi rend="grantha">śrī</hi> toṇṭai-y-an-tār
+			<lb n="2" break="no"/>-vēntaṉ <persName ref="pallava000005">narēntira
+			<lb n="3" break="no"/>p-pōtt-araiyaṉ</persName></l>
+		
+		<l>
+			ve
+			<lb n="4" break="no"/>ṇpēṭṭiṉ ṟeṉ-pā			
+			<lb n="5" break="no"/>l mika makiḻntu ka
+			<lb n="6" break="no"/>ṇṭāṉ</l>
+		
+		<l enjamb="yes">
+			cara mikka ve
+			<lb n="7" break="no"/>ñ-cilaiyāṉ <persName ref="pallava000001"><unclear reason="eccentric_ductus">ca</unclear>
+			<lb n="8" break="no"/>tturu-mall</persName>e<hi rend="grantha">ś<unclear>va</unclear></hi>
+			<lb n="9" break="no"/>rāl<unclear>ai</unclear>yam <unclear>eṉ</unclear>
+		</l>
 	
 	<l>
 <unclear>ṟ’ ara</unclear>
@@ -139,47 +140,47 @@ cara mikka ve
 <head xml:lang="eng">Eastern face of the pillar</head>
 	<listApp>
            
-	<app loc="1"> 
-		<lem><hi rend="grantha">śrī</hi></lem>
-		<note>We follow here <bibl><ptr target="bib:Hultzsch1913-1914_01"/></bibl> in considering <foreign><hi rend="grantha">śrī</hi></foreign> as an initial benediction. It could alternatively be analysed as a prefix to <foreign>toṇṭai-y-an-tār-vēntaṉ</foreign>, that is "the glorious <supplied reason="explanation"><foreign><hi rend="grantha">śrī</hi></foreign></supplied> king with the beautiful garland of <foreign>toṇṭai</foreign>".</note><!--display issue: Grantha not displayed as bold in <note>.--> <!-- It is because of the order of your encoding. Because of the relationship with <unclear>, you need to put it as <hi rend="grantha"><foreign>śrī</foreign></hi> rather than <foreign><hi rend="grantha">śrī</hi></foreign>. Of course I could change all the priorities order... but I rather not because it could cause major disturbance in the display. let's rediscussed when we are both back for holidays. -->
-	</app>
-	
-	<app loc="1">
-		<lem>vēntaṉ</lem>
-		<rdg source="bib:Mahalingam1988_01">vēntāṉ</rdg>
-	</app>
-	
-	<app loc="4">
-		<lem>ṟeṉpāl</lem>
-		<rdg source="bib:Hultzsch1913-1914_01">ṟeṉp<unclear>ā</unclear>l</rdg>
-		<rdg source="bib:Mahalingam1988_01">ṟeṉp<unclear>ā</unclear>l</rdg>
-	</app>
-	
-	<app loc="5">
-		<lem>kaṇṭāṉ</lem>
-		<rdg source="bib:Mahalingam1988_01">ko<unclear>ṇṭāṉ</unclear></rdg>
-	</app>
-	
-	<app loc="7">
-		<lem><unclear reason="eccentric_ductus">ca</unclear>tturu-malle<hi rend="grantha">ś<unclear>va</unclear></hi>rāl<unclear>ai</unclear>yam</lem>
-		<rdg source="bib:Hultzsch1913-1914_01"><choice><hi rend="grantha"><unclear>śa</unclear></hi><unclear>ca</unclear></choice>tturumalle<hi rend="grantha">śva</hi>rālaiyam</rdg>
-		<!--<hi> not allowed? Uncertainty bears on the script of śa--> <!-- DONE-->
-		<rdg source="bib:Mahalingam1988_01"><hi rend="grantha">śa</hi>ttrumalle<hi rend="grantha">śva</hi>rālayam</rdg>
-		<note> Examination in situ enabled to reject the reading <foreign>°ālayam</foreign>. The alternative reading <foreign>°āleyam</foreign> is possible.</note>
-	</app>
-	
-	<app loc="9">
-		<lem><unclear>eṉṟ’ ara</unclear>ṉukk’</lem>
-		<rdg source="bib:Hultzsch1913-1914_01">eṉṟ' araṇukk'</rdg>
-		<rdg source="bib:Mahalingam1988_01">eṉṟ' araṇukk'</rdg>
-	</app>
-	
-	<app loc="10">
-		<lem>āka-<unclear reason="eccentric_ductus">v</unclear> āṅku</lem>
-		<rdg source="bib:Hultzsch1913-1914_01">āka-v aṅku</rdg>
-		<rdg source="bib:Mahalingam1988_01">āka-v aṅku</rdg>
-	</app>
-					
+		<app loc="1"> 
+			<lem><hi rend="grantha">śrī</hi></lem>
+			<note>We follow here <bibl><ptr target="bib:Hultzsch1913-1914_01"/></bibl> in considering <hi rend="grantha"><foreign>śrī</foreign></hi> as an initial benediction. It could alternatively be analysed as a prefix to <foreign>toṇṭai-y-an-tār-vēntaṉ</foreign>, that is "the glorious <supplied reason="explanation"><foreign><hi rend="grantha">śrī</hi></foreign></supplied> king with the beautiful garland of <foreign>toṇṭai</foreign>".</note>
+		</app>
+		
+		<app loc="1">
+			<lem>vēntaṉ</lem>
+			<rdg source="bib:Mahalingam1988_01">vēntāṉ</rdg>
+		</app>
+		
+		<app loc="4">
+			<lem>ṟeṉpāl</lem>
+			<rdg source="bib:Hultzsch1913-1914_01">ṟeṉp<unclear>ā</unclear>l</rdg>
+			<rdg source="bib:Mahalingam1988_01">ṟeṉp<unclear>ā</unclear>l</rdg>
+		</app>
+		
+		<app loc="5">
+			<lem>kaṇṭāṉ</lem>
+			<rdg source="bib:Mahalingam1988_01">ko<unclear>ṇṭāṉ</unclear></rdg>
+		</app>
+		
+		<app loc="7">
+			<lem><unclear reason="eccentric_ductus">ca</unclear>tturu-malle<hi rend="grantha">ś<unclear>va</unclear></hi>rāl<unclear>ai</unclear>yam</lem>
+			<rdg source="bib:Hultzsch1913-1914_01"><choice><hi rend="grantha"><unclear>śa</unclear></hi><unclear>ca</unclear></choice>tturumalle<hi rend="grantha">śva</hi>rālaiyam</rdg>
+			<!--<hi> not allowed. Uncertainty bears on the script of original śa, which Hultzsch uses for Grantha śa and Tamil ca-->
+			<rdg source="bib:Mahalingam1988_01"><hi rend="grantha">śa</hi>ttrumalle<hi rend="grantha">śva</hi>rālayam</rdg>
+			<note> Examination in situ enabled to reject the reading <foreign>°ālayam</foreign>. The alternative reading <foreign>°āleyam</foreign> is possible.</note>
+		</app>
+		
+		<app loc="9">
+			<lem><unclear>eṉṟ’ ara</unclear>ṉukk’</lem>
+			<rdg source="bib:Hultzsch1913-1914_01">eṉṟ' araṇukk'</rdg>
+			<rdg source="bib:Mahalingam1988_01">eṉṟ' araṇukk'</rdg>
+		</app>
+		
+		<app loc="10">
+			<lem>āka-<unclear reason="eccentric_ductus">v</unclear> āṅku</lem>
+			<rdg source="bib:Hultzsch1913-1914_01">āka-v aṅku</rdg>
+			<rdg source="bib:Mahalingam1988_01">āka-v aṅku</rdg>
+		</app>
+		
 	</listApp>
 </div>
 </div>
