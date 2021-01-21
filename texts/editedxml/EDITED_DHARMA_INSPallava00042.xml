@@ -38,7 +38,7 @@
             <date from="2019" to="2025">2019-2025</date>
          </publicationStmt>
          <sourceDesc>
-            <msDesc><!--display issue: implement display [italics] of <foreign> in <sourceDesc>--><!-- DONE. I had to use @mode to avoid having to rewrite everything. -->
+            <msDesc>
                <msIdentifier>
                   <repository>DHARMAbase</repository>
                   <idno/>
@@ -120,7 +120,7 @@
       			<lem>mūla-tāṉattu</lem>
       			<rdg source="bib:ARIE1932-1933"><unclear>mū</unclear>la-tāṉattu</rdg>
       			<note>
-      				<bibl rend="siglum"><!--display: possible to display siglum instead of full bibliographical reference?--><!-- Sure but I need a rend on the bibl. See the result implemented for this example. If you are happy with it, just add the @rend="siglum" wherever needed. I guess it will have to be added also in the encoding guide.-->
+      				<bibl rend="siglum">
 			<ptr target="bib:ARIE1932-1933"/>
 			<citedRange unit="page">55</citedRange>
 			<citedRange unit="note">2</citedRange>
@@ -132,7 +132,7 @@
       		<app loc="8">
       			<lem>pōtta<supplied reason="omitted">ra</supplied><unclear>car</unclear></lem>      			
       			<note>
-      				<bibl><!--display: possible to display siglum instead of full bibliographical reference?--> <!-- See my answer above with @rend="siglum" -->
+      				<bibl rend="siglum">&gt;
 			<ptr target="bib:ARIE1932-1933"/>
 			<citedRange unit="page">55</citedRange>
 			<citedRange unit="note">3</citedRange>
@@ -162,7 +162,7 @@ First edited in <bibl><ptr target="bib:ARIE1932-1933"/></bibl><!--display issue:
 
 	<listBibl type="primary">
 		
-		<bibl n="ARIE 1932-1933">
+		<bibl n="ARIE">
 			<ptr target="bib:ARIE1932-1933"/>
 			<citedRange unit="page">54-55</citedRange>
 			<citedRange unit="plate">I</citedRange>
@@ -178,14 +178,14 @@ First edited in <bibl><ptr target="bib:ARIE1932-1933"/></bibl><!--display issue:
 	
 	<listBibl type="secondary">
 		
-		<bibl n="ARIE 1908-1909">
+		<bibl>
 			<ptr target="bib:ARIE1908-1909"/>
 			<citedRange unit="page">65</citedRange>
 			<citedRange unit="appendix">C/1909</citedRange>
 			<citedRange unit="item">65</citedRange>
 		</bibl>
 		
-		<bibl n="VVA">
+		<bibl>
             		<ptr target="bib:VenkatasubbaAyyar1943_01"/>
             		<citedRange unit="page">9</citedRange>
             		<citedRange unit="item">16</citedRange>
