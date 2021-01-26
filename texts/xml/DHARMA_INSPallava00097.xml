@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -108,12 +111,12 @@
             </p>
             
             <p>
-               <gap reason="lost" quantity="1" unit="character"></gap>	
-               <lb n="14" break="no"/> <gap reason="lost" quantity="2" unit="character"></gap> tt’ ūṭṭuvōm ā<unclear>ka-k</unclear>
+               <gap reason="lost" quantity="1" unit="character"/>	
+               <lb n="14" break="no"/> <gap reason="lost" quantity="2" unit="character"/> tt’ ūṭṭuvōm ā<unclear>ka-k</unclear>
             </p>
             
             <p>
-               <lb n="15"/><gap reason="lost" quantity="10" unit="character" precision="low"></gap> <supplied reason="lost">ā</supplied>
+               <lb n="15"/><gap reason="lost" quantity="10" unit="character" precision="low"/> <supplied reason="lost">ā</supplied>
                <lb n="16" break="no"/><unclear>nō</unclear>m
             </p>
             
@@ -145,13 +148,13 @@
                
                <app loc="13">
                   <lem>kuṭuttō<supplied reason="lost">m</supplied></lem>
-                  <rdg source="bib:VenkatasubbaAyyar1943_01">kuṭuttō<gap reason="lost" quantity="1" unit="character"></gap></rdg>
+                  <rdg source="bib:VenkatasubbaAyyar1943_01">kuṭuttō<gap reason="lost" quantity="1" unit="character"/></rdg>
                </app>
                
                <app loc="15">
                   <lem><supplied reason="lost">ā</supplied>
                <lb n="16" break="no"/><unclear>nō</unclear>m</lem>
-                  <rdg source="bib:VenkatasubbaAyyar1943_01"><gap reason="lost" quantity="1" unit="character"></gap><lb n="16" break="no"/><unclear>nō</unclear>m</rdg>
+                  <rdg source="bib:VenkatasubbaAyyar1943_01"><gap reason="lost" quantity="1" unit="character"/><lb n="16" break="no"/><unclear>nō</unclear>m</rdg>
                </app>
                
                <app loc="17">
