@@ -152,13 +152,13 @@
 
             	<listBibl type="primary">
         		
-        		<bibl><!--update!-->
+        		<bibl n="siglum"><!--update!-->
         			<ptr target="bib:Mahalingam1988_01"/>
         			<citedRange unit="page">pages</citedRange>
         			<citedRange unit="item">No</citedRange>
         		</bibl>
         		
-        		<bibl><!--update!-->
+        		<bibl n="siglum"><!--update!-->
         			<ptr target="bib:Avanam1991_01"/>
         			<citedRange unit="volume">1</citedRange>
         			<citedRange unit="page">23</citedRange>
