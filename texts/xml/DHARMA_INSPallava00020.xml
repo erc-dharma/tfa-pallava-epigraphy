@@ -145,7 +145,7 @@
            
 		<app loc="1"> 
 			<lem><hi rend="grantha">śrī</hi></lem>
-			<note>We follow here <bibl><ptr target="bib:Hultzsch1913-1914_01"/></bibl> in considering <hi rend="grantha"><foreign>śrī</foreign></hi> as an initial benediction. It could alternatively be analysed as a prefix to <foreign>toṇṭai-y-an-tār-vēntaṉ</foreign>, that is "the glorious <supplied reason="explanation"><foreign><hi rend="grantha">śrī</hi></foreign></supplied> king with the beautiful garland of <foreign>toṇṭai</foreign>".</note>
+			<note>We follow here <bibl rend="siglum"><ptr target="bib:Hultzsch1913-1914_01"/></bibl> in considering <hi rend="grantha"><foreign>śrī</foreign></hi> as an initial benediction. It could alternatively be analysed as a prefix to <foreign>toṇṭai-y-an-tār-vēntaṉ</foreign>, that is "the glorious <supplied reason="explanation"><foreign><hi rend="grantha">śrī</hi></foreign></supplied> king with the beautiful garland of <foreign>toṇṭai</foreign>".</note>
 		</app>
 		
 		<app loc="1">
