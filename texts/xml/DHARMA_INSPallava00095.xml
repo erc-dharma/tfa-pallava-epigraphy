@@ -99,10 +99,10 @@
          			<lb n="1"/>svasti śrī
          		</p>
          		<lg met="śārdūlavikrīḍita" n="1">
-         			<l>Evaṃ vāstv abhavat· mahat· pravigatan nāmnā ca jāty-ādi‡nā</l> 
-         			<l>yenāsmin· bahubhir yyathāgama-vidhair ggrāme prayo‡‡gānvitai<orig>ś</orig></l>
-         			<l>śrīmat·-pāṭaka-vāsinā kṛta-dhiyā takṣṇā sadā vāgminā</l> 
-         			<l>tenedam· ‡‡ parameśva‡reṇa mahatā yo v<choice><sic>a</sic><corr>ā</corr></choice>stuno bhāskaraḥ <g type="gomutra">.</g><!--check markup--><!--punctuation inside <l> or not?--></l>
+         			<l n="a">Evaṃ vāstv abhavat· mahat· pravigatan nāmnā ca jāty-ādi‡nā</l> 
+         			<l n="b">yenāsmin· bahubhir yyathāgama-vidhair ggrāme prayo‡‡gānvitai<orig>ś</orig></l>
+         			<l n="c">śrīmat·-pāṭaka-vāsinā kṛta-dhiyā takṣṇā sadā vāgminā</l> 
+         			<l n="d">tenedam· ‡‡ parameśva‡reṇa mahatā yo v<choice><sic>a</sic><corr>ā</corr></choice>stuno bhāskaraḥ <g type="gomutra">.</g><!--check markup--><!--punctuation inside <l> or not?--></l>
          		</lg>
          		
          	</div>
@@ -112,10 +112,10 @@
          		<p>
          			<lb n="1"/>svasti śrī</p>
          		<lg met="anuṣṭubh" n="2">
-         			<l>Asyālaṃkāra-mānañ ca</l> 
-         			<l>yathā lakṣaṇa-saṃyutam·</l>
-         			<l>yaḥ kaścid vetti saka<orig>ḷ</orig>am· </l>
-         			<l>sa vai v<choice><sic>a</sic><corr>ā</corr></choice>stu-vidāṃ va‡raḥ</l></lg>
+         			<l n="a">Asyālaṃkāra-mānañ ca</l> 
+         			<l n="b">yathā lakṣaṇa-saṃyutam·</l>
+         			<l n="c">yaḥ kaścid vetti saka<orig>ḷ</orig>am· </l>
+         			<l n="d">sa vai v<choice><sic>a</sic><corr>ā</corr></choice>stu-vidāṃ va‡raḥ</l></lg>
          	</div>
          	
          </div>

@@ -89,156 +89,157 @@
    <text xml:space="preserve">
       <body>
 
-<div type="edition" xml:lang="tam-tam">
-	<!--update structure as for transliteration-->
-	<!--remove Grantha markup for letters common to both alphabets in the Sanskrit phrases-->
-	<p><lb n="1" style="text-align: left"/>𑌓𑌮𑍍 𑌨𑌮𑌶𑍍𑌶𑌿𑌵𑌾𑌯{𑌮𑍍} (𑌸𑍍𑌵)𑌸𑍍𑌤𑌿 𑌶𑍍𑌰𑍀</p>
-	<p>
-<lb n="2"/>கொவிசையநந்திவிக்கிரமபருமற்கு யா 
-<lb n="3" break="no"/>ண்டறுப<unclear>த்</unclear>திரண்<unclear>டாவ</unclear>து 𑌸𑌕𑌲𑌜𑌗𑌤𑍍𑌰
-<lb n="4" break="no"/>𑌯𑌾𑌭𑌿𑌵𑌨𑍍𑌦𑌿𑌤𑌸𑍁𑌰𑌾𑌸𑍁𑌰𑌾𑌧𑍀𑌶𑌪𑌰𑌮𑍇𑌶𑍍𑌵𑌰𑌪𑍍𑌰𑌤𑌿
-<lb n="5" break="no"/>𑌹𑌾𑌰𑌿𑌕𑍃𑌤𑌮𑌹𑌾𑌵𑌲𑌿𑌕𑍁𑌲𑍋𑌤𑍍𑌭𑌵𑌶𑍍𑌰𑍀மாவலிவாண𑌰𑌾யர்
-<lb n="6"/>வடு<unclear>கவ</unclear>ழி <unclear>ப</unclear>ன்னீ<choice><orig>ர்ரா</orig><reg>ரா</reg></choice>யிரமும் ஆழ <unclear>வாண</unclear>புரத்து 
-<lb n="7"/>வட<unclear>சி</unclear>கரகொயில் புதுக்குவித்து இதற்கு இளங்
-<lb n="8" break="no"/>கிழவர் மகன் மன்றாடிடை அழிஞ்சிற்க<unclear>ளம்</unclear> பட்டி <unclear>வி</unclear>லைக்கு 
-<lb n="9"/>கொண்டு குடுத்தென் உ<unclear>ற்</unclear>றுக்காட்டு கொட்டத்து <unclear>அ</unclear>ளிங்கணபா<supplied reason="omitted">க்க</supplied>த்து 
-<lb n="10" break="no"/>கீழகத்து தட்டான் மா<unclear>த</unclear><choice><orig>ந்</orig><reg>ன்</reg></choice> மக<choice><orig>ந்</orig><reg>ன்</reg></choice> <unclear>அ</unclear>ரிதீரன் குடுத்த தெவர் பொகம்
-<lb n="11" break="no"/>ம<hi rend="grantha">ஹா</hi>வலிவாணராயர் பிடாகை வலஞ்-செய்து கொடுத்தார் இது காத்
-<lb n="12" break="no"/>தா<unclear>ர் அ</unclear>டி<supplied reason="lost">யெண்  முடி மெ</supplied>லன இது அழித்தான் கடிகை <unclear>எ</unclear>ழா இரு<unclear>வ</unclear>ரையும்
-<lb n="13"/>கொ<unclear>ன்ற பாவத்து ப</unclear>டுவான் இது அழி<unclear>த்</unclear>தான் இப்பாவத்து<supplied reason="omitted">க்</supplied>கு அஞ்சானாயில் 
-<lb n="14"/><unclear>அன்</unclear> <gap reason="lost" quantity="2" unit="character"/> கொயிலு<supplied reason="omitted">க்</supplied>கு ஆயிரம் கா<unclear>ணம் த</unclear>ண்டப்படுவொம் வாணபுரத்தொ<unclear>ம்</unclear>
-	</p>
-	<lg met="anuṣṭubh" n="1">
-		<l>
-			<lb n="15"/><choice><sic>𑌵</sic><corr>𑌬</corr></choice><unclear>𑌹𑍁</unclear>𑌭𑌿<unclear>𑌰𑍍</unclear> 𑌵𑌸𑍁𑌧𑌾 𑌦𑌤𑍍𑌤𑌾
-		</l>
-		<l>
-			𑌰𑌜<unclear>𑌭𑌿</unclear><supplied reason="omitted">𑌃</supplied> 𑌸𑌕𑌰𑌦𑌿𑌭𑌿<supplied reason="omitted">𑌃</supplied>
-		</l>
-		<l>
-			𑌯𑌸𑍍𑌯 𑌯𑌸𑍍𑌯 𑌯𑌦𑌾 𑌭𑍂<lb n="16" break="no"/>𑌮𑌿<supplied reason="omitted">𑌸𑍍</supplied>
-		</l>
-		<l>
-			𑌤𑌸𑍍𑌯 𑌤𑌸𑍍𑌯 𑌤𑌦𑌾 𑌫𑌲𑌮𑍍
-		</l>
-	</lg>
-</div>
-      	
-<div type="edition" xml:lang="tam-Latn">
-<!--bilingual inscription: sanskrit (l.1), tamil (ll. 2-14), sanskrit (ll.15-16)-->
-<!--Check language statement in teiHeader-->
-<!--Check usage of @xml:lang below-->
-	
-<p xml:lang="san-Latn" rend="grantha">
-<lb n="1" style="text-align: left"/><hi rend="grantha">Om· namaś śivāya<surplus>m·</surplus> <unclear>sva</unclear>sti śrī</hi>
-</p>
-         	
-<p xml:lang="tam-Latn">
-<!--@xml:lang unnecessary here, as already @ of the <div type="edition">??-->
-<lb n="2"/>kō-vicaiya-nanti-vikkirama-parumaṟku yā 
-<lb n="3" break="no"/>ṇṭ’ aṟupa<unclear>t</unclear>tiraṇ<unclear>ṭ</unclear>ā<unclear>va</unclear>tu <hi rend="grantha">sakala-jagatra</hi>
-<lb n="4" break="no"/>yā<hi rend="grantha">bhi</hi>va<hi rend="grantha">ndi</hi>ta-<hi rend="grantha">surāsurādhīśa-parameśvara-prati</hi> 
-<lb n="5" break="no"/><hi rend="grantha">hārikṛ</hi>ta-<hi rend="grantha">mahā</hi>va<hi rend="grantha">li-kulot·bha</hi>va-<hi rend="grantha">śrī</hi>-māvalivāṇa<hi rend="grantha">rā</hi>yar 
-<lb n="6"/>vaṭu<unclear>kava</unclear>ḻi <unclear>pa</unclear>ṉṉī<choice><orig>rr</orig><reg>r</reg></choice>āyiramum Āḻa v<unclear>āṇa</unclear>purattu 
-<lb n="7"/>vaṭa-<unclear>c</unclear>ikara-kōyil putukkuvittu Itaṟku Iḷaṅ
-<lb n="8" break="no"/>kiḻavar makaṉ maṉṟāṭiṭai Aḻiñciṟka<unclear>ḷam</unclear> paṭṭi <unclear>vi</unclear>laikku 
-<lb n="9"/>koṇṭu kuṭuttēṉ U<unclear>ṟ</unclear>ṟukkāṭṭu kōṭṭattu <unclear>A</unclear>ḷiṅkaṇa-pā<supplied reason="omitted">kka</supplied>ttu 
-<lb n="10" break="no"/>kīḻakattu taṭṭāṉ mā<unclear>ta</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> maka<choice><orig>n</orig><reg>ṉ</reg></choice> <unclear>A</unclear>ritīraṉ kuṭutta tēvar pōkam
-<lb n="11" break="no"/>ma<hi rend="grantha">hā</hi>valivāṇarāyar piṭākai valañ-ceytu koṭuttār Itu kāt
-<lb n="12" break="no"/>tā<unclear>r A</unclear>ṭi<supplied reason="lost">yeṇ  muṭi mē</supplied>laṉa Itu Aḻittāṉ kaṭikai <unclear>E</unclear>ḻā Iru<unclear>va</unclear>raiyum
-<lb n="13"/>ko<unclear>ṉṟa pāvattu pa</unclear>ṭuvāṉ Itu Aḻi<unclear>t</unclear>tāṉ Ippāvattu<supplied reason="omitted">k</supplied>ku Añcāṉāyil 
-<lb n="14"/><unclear>Aṉ</unclear> <gap reason="lost" quantity="2" unit="character"/> kōyilu<supplied reason="omitted">k</supplied>ku Āyiram kā<unclear>ṇam ta</unclear>ṇṭappaṭuvōm vāṇapurattō<unclear>m</unclear>
-</p>         	
-	
-	<lg met="anuṣṭubh" n="1">
-		<l>
-			<lb n="15"/><hi rend="grantha"><choice><sic>va</sic><corr>ba</corr></choice><unclear>hu</unclear>bhir<unclear>·</unclear> vasudhā dattā</hi>
-		</l>
-		<l>
-			<hi rend="grantha">rāja<unclear>bh</unclear>i<supplied reason="omitted">ḥ</supplied> sakaradibhi<supplied reason="omitted">ḥ</supplied></hi>
-		</l>
-		<l>
-			<hi rend="grantha">yasya yasya yadā bhū<lb n="16" break="no"/>mi<supplied reason="omitted">s</supplied></hi>
-		</l>	
-		<l>
-			<hi rend="grantha">tasya tasya tadā phalam·</hi>
-		</l>
-	</lg>
-	         	
+         <div type="edition" xml:lang="tam-tam">
+            <!--update structure as for transliteration-->
+            <!--remove Grantha markup for letters common to both alphabets in the Sanskrit phrases-->
+            <p><lb n="1" style="text-align: left"/>𑌓𑌮𑍍 𑌨𑌮𑌶𑍍𑌶𑌿𑌵𑌾𑌯{𑌮𑍍} (𑌸𑍍𑌵)𑌸𑍍𑌤𑌿 𑌶𑍍𑌰𑍀</p>
+            <p>
+               <lb n="2"/>கொவிசையநந்திவிக்கிரமபருமற்கு யா 
+               <lb n="3" break="no"/>ண்டறுப<unclear>த்</unclear>திரண்<unclear>டாவ</unclear>து 𑌸𑌕𑌲𑌜𑌗𑌤𑍍𑌰
+               <lb n="4" break="no"/>𑌯𑌾𑌭𑌿𑌵𑌨𑍍𑌦𑌿𑌤𑌸𑍁𑌰𑌾𑌸𑍁𑌰𑌾𑌧𑍀𑌶𑌪𑌰𑌮𑍇𑌶𑍍𑌵𑌰𑌪𑍍𑌰𑌤𑌿
+               <lb n="5" break="no"/>𑌹𑌾𑌰𑌿𑌕𑍃𑌤𑌮𑌹𑌾𑌵𑌲𑌿𑌕𑍁𑌲𑍋𑌤𑍍𑌭𑌵𑌶𑍍𑌰𑍀மாவலிவாண𑌰𑌾யர்
+               <lb n="6"/>வடு<unclear>கவ</unclear>ழி <unclear>ப</unclear>ன்னீ<choice><orig>ர்ரா</orig><reg>ரா</reg></choice>யிரமும் ஆழ <unclear>வாண</unclear>புரத்து 
+               <lb n="7"/>வட<unclear>சி</unclear>கரகொயில் புதுக்குவித்து இதற்கு இளங்
+               <lb n="8" break="no"/>கிழவர் மகன் மன்றாடிடை அழிஞ்சிற்க<unclear>ளம்</unclear> பட்டி <unclear>வி</unclear>லைக்கு 
+               <lb n="9"/>கொண்டு குடுத்தென் உ<unclear>ற்</unclear>றுக்காட்டு கொட்டத்து <unclear>அ</unclear>ளிங்கணபா<supplied reason="omitted">க்க</supplied>த்து 
+               <lb n="10" break="no"/>கீழகத்து தட்டான் மா<unclear>த</unclear><choice><orig>ந்</orig><reg>ன்</reg></choice> மக<choice><orig>ந்</orig><reg>ன்</reg></choice> <unclear>அ</unclear>ரிதீரன் குடுத்த தெவர் பொகம்
+               <lb n="11" break="no"/>ம<hi rend="grantha">ஹா</hi>வலிவாணராயர் பிடாகை வலஞ்-செய்து கொடுத்தார் இது காத்
+               <lb n="12" break="no"/>தா<unclear>ர் அ</unclear>டி<supplied reason="lost">யெண்  முடி மெ</supplied>லன இது அழித்தான் கடிகை <unclear>எ</unclear>ழா இரு<unclear>வ</unclear>ரையும்
+               <lb n="13"/>கொ<unclear>ன்ற பாவத்து ப</unclear>டுவான் இது அழி<unclear>த்</unclear>தான் இப்பாவத்து<supplied reason="omitted">க்</supplied>கு அஞ்சானாயில் 
+               <lb n="14"/><unclear>அன்</unclear> <gap reason="lost" quantity="2" unit="character"/> கொயிலு<supplied reason="omitted">க்</supplied>கு ஆயிரம் கா<unclear>ணம் த</unclear>ண்டப்படுவொம் வாணபுரத்தொ<unclear>ம்</unclear>
+            </p>
+            
+            <lg n="1" met="anuṣṭubh">
+               <l n="a">
+                  <lb n="15"/><choice><sic>𑌵</sic><corr>𑌬</corr></choice><unclear>𑌹𑍁</unclear>𑌭𑌿<unclear>𑌰𑍍</unclear> 𑌵𑌸𑍁𑌧𑌾 𑌦𑌤𑍍𑌤𑌾
+               </l>
+               <l n="b">
+                  𑌰𑌜<unclear>𑌭𑌿</unclear><supplied reason="omitted">𑌃</supplied> 𑌸𑌕𑌰𑌦𑌿𑌭𑌿<supplied reason="omitted">𑌃</supplied>
+               </l>
+               <l n="c">
+                  𑌯𑌸𑍍𑌯 𑌯𑌸𑍍𑌯 𑌯𑌦𑌾 𑌭𑍂<lb n="16" break="no"/>𑌮𑌿<supplied reason="omitted">𑌸𑍍</supplied>
+               </l>
+               <l n="d">
+                  𑌤𑌸𑍍𑌯 𑌤𑌸𑍍𑌯 𑌤𑌦𑌾 𑌫𑌲𑌮𑍍
+               </l>
+            </lg>
          </div>
-
+         
+         <div type="edition" xml:lang="tam-Latn">
+            <!--bilingual inscription: sanskrit (l.1), tamil (ll. 2-14), sanskrit (ll.15-16)-->
+            <!--Check language statement in teiHeader-->
+            <!--Check usage of @xml:lang below-->
+            
+            <p xml:lang="san-Latn" rend="grantha">
+               <lb n="1" style="text-align: left"/><hi rend="grantha">Om· namaś śivāya<surplus>m·</surplus> <unclear>sva</unclear>sti śrī</hi>
+            </p>
+            
+            <p xml:lang="tam-Latn">
+               <!--@xml:lang unnecessary here, as already @ of the <div type="edition">??-->
+               <lb n="2"/>kō-vicaiya-nanti-vikkirama-parumaṟku yā 
+               <lb n="3" break="no"/>ṇṭ’ aṟupa<unclear>t</unclear>tiraṇ<unclear>ṭ</unclear>ā<unclear>va</unclear>tu <hi rend="grantha">sakala-jagatra</hi>
+               <lb n="4" break="no"/>yā<hi rend="grantha">bhi</hi>va<hi rend="grantha">ndi</hi>ta-<hi rend="grantha">surāsurādhīśa-parameśvara-prati</hi> 
+               <lb n="5" break="no"/><hi rend="grantha">hārikṛ</hi>ta-<hi rend="grantha">mahā</hi>va<hi rend="grantha">li-kulot·bha</hi>va-<hi rend="grantha">śrī</hi>-māvalivāṇa<hi rend="grantha">rā</hi>yar 
+               <lb n="6"/>vaṭu<unclear>kava</unclear>ḻi <unclear>pa</unclear>ṉṉī<choice><orig>rr</orig><reg>r</reg></choice>āyiramum Āḻa v<unclear>āṇa</unclear>purattu 
+               <lb n="7"/>vaṭa-<unclear>c</unclear>ikara-kōyil putukkuvittu Itaṟku Iḷaṅ
+               <lb n="8" break="no"/>kiḻavar makaṉ maṉṟāṭiṭai Aḻiñciṟka<unclear>ḷam</unclear> paṭṭi <unclear>vi</unclear>laikku 
+               <lb n="9"/>koṇṭu kuṭuttēṉ U<unclear>ṟ</unclear>ṟukkāṭṭu kōṭṭattu <unclear>A</unclear>ḷiṅkaṇa-pā<supplied reason="omitted">kka</supplied>ttu 
+               <lb n="10" break="no"/>kīḻakattu taṭṭāṉ mā<unclear>ta</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> maka<choice><orig>n</orig><reg>ṉ</reg></choice> <unclear>A</unclear>ritīraṉ kuṭutta tēvar pōkam
+               <lb n="11" break="no"/>ma<hi rend="grantha">hā</hi>valivāṇarāyar piṭākai valañ-ceytu koṭuttār Itu kāt
+               <lb n="12" break="no"/>tā<unclear>r A</unclear>ṭi<supplied reason="lost">yeṇ  muṭi mē</supplied>laṉa Itu Aḻittāṉ kaṭikai <unclear>E</unclear>ḻā Iru<unclear>va</unclear>raiyum
+               <lb n="13"/>ko<unclear>ṉṟa pāvattu pa</unclear>ṭuvāṉ Itu Aḻi<unclear>t</unclear>tāṉ Ippāvattu<supplied reason="omitted">k</supplied>ku Añcāṉāyil 
+               <lb n="14"/><unclear>Aṉ</unclear> <gap reason="lost" quantity="2" unit="character"/> kōyilu<supplied reason="omitted">k</supplied>ku Āyiram kā<unclear>ṇam ta</unclear>ṇṭappaṭuvōm vāṇapurattō<unclear>m</unclear>
+            </p>         	
+            
+            <lg n="1" met="anuṣṭubh">
+               <l n="a">
+                  <lb n="15"/><hi rend="grantha"><choice><sic>va</sic><corr>ba</corr></choice><unclear>hu</unclear>bhir<unclear>·</unclear> vasudhā dattā</hi>
+               </l>
+               <l n="b">
+                  <hi rend="grantha">rāja<unclear>bh</unclear>i<supplied reason="omitted">ḥ</supplied> sakaradibhi<supplied reason="omitted">ḥ</supplied></hi>
+               </l>
+               <l n="c">
+                  <hi rend="grantha">yasya yasya yadā bhū<lb n="16" break="no"/>mi<supplied reason="omitted">s</supplied></hi>
+               </l>	
+               <l n="d">
+                  <hi rend="grantha">tasya tasya tadā phalam·</hi>
+               </l>
+            </lg>
+            
+         </div>
+         
          <div type="apparatus">
-
-         	<listApp>
-         		
-         		<app loc="2">
-         			<lem>°nanti-vikkirama°</lem>
-         			<note>There is a blank space between <foreign>°nanti°</foreign> and <foreign>°vikkirama°</foreign>, as the final character of line 1 (<foreign><hi rend="grantha">śrī</hi></foreign>) interrupts this word.</note><!--Restore <gap> descending</gap>-->
-         		</app>
-         		
-         		<app loc="3">
-         			<lem>°jagatrayā°</lem>
-         			<note>That, is <foreign><hi rend="grantha">jagat+trayā°</hi></foreign></note><!--Check EG-->
-         		</app>
-         		
-         		<app loc="5">
-         			<lem><hi rend="grantha">°kulot·bha</hi>va°</lem>
-         			<note>That is, <foreign><hi rend="grantha">°kulod·bha</hi>va°</foreign></note>
-         		</app>
-         		
-         		<app loc="7">
-         			<lem>vaṭa-<unclear>c</unclear>ikara-kōyil</lem>
-         			<rdg source="bib:Hultzsch1899_01">vaṭa-<unclear>ci</unclear>kara-kōyil</rdg>
-         		</app>
-         		
-         		<app loc="7">
-         			<lem>Itaṟku</lem>
-         			<rdg source="bib:Hultzsch1899_01">I<unclear>ta</unclear>ṟku</rdg>
-         		</app>
-         		
-         		<app loc="9">
-         			<lem>U<unclear>ṟ</unclear>ṟukkāṭṭu</lem>
-         			<rdg source="bib:Hultzsch1899_01">Uṟṟukkāṭṭu</rdg>
-         		</app>
-         		
-         		<app loc="12">
-         			<lem>Iru<unclear>va</unclear>raiyum</lem>
-         			<rdg source="bib:Mahalingam1988_01">I<choice><sic>ru</sic><corr>ra</corr></choice><unclear>va</unclear>raiyum</rdg>
-         		</app>
-         		
-         		<app loc="13">
-         			<lem>ko<unclear>ṉṟa pāvattu pa</unclear>ṭuvāṉ</lem>
-         			<rdg source="bib:Hultzsch1899_01">ko<unclear>ṉṟa p</unclear>āvattu <unclear>pa</unclear>ṭuvāṉ</rdg>
-         		</app>
-         		
-         		<app loc="14">
-         			<lem><unclear>Aṉ</unclear> <gap reason="lost" quantity="2" unit="character"/></lem>
-         			<note>see SII fn3.</note>
-         		</app>
-         		
-         		<app loc="14">
-         			<lem>kā<unclear>ṇam</unclear></lem>
-         			<rdg source="bib:Hultzsch1899_01">kāṇam</rdg>
-         		</app>
-         		
-         		<app loc="15">
-         			<lem><hi rend="grantha"><choice><sic>va</sic><corr>ba</corr></choice><unclear>hu</unclear>bhir<unclear>·</unclear></hi></lem>
-         			<rdg source="bib:Hultzsch1899_01"><hi rend="grantha"><choice><sic>va</sic><corr>ba</corr></choice><unclear>hu</unclear>bhir·</hi></rdg>
-         			<note>The reading <foreign><hi rend="grantha">bahubhir·</hi></foreign> seems also possible</note>
-         		</app>
-         		
-         		<app loc="15">
-         			<lem>rāja<unclear>bh</unclear>i<supplied reason="omitted">ḥ</supplied></lem>
-         			<rdg source="bib:Hultzsch1899_01">rāja<unclear>bhi</unclear><supplied reason="omitted">ḥ</supplied></rdg>        
-         		</app>
-         		
-         		<app loc="15">
-         			<lem>sakaradibhi<supplied reason="omitted">ḥ</supplied></lem>
-         			<note>That is, <foreign><hi rend="grantha">sagaradibhi</hi>ḥ</foreign>.</note>
-         		</app>
-         		
-         	</listApp>
-         	
+            
+            <listApp>
+               
+               <app loc="2">
+                  <lem>°nanti-vikkirama°</lem>
+                  <note>There is a blank space between <foreign>°nanti°</foreign> and <foreign>°vikkirama°</foreign>, as the final character of line 1 (<foreign><hi rend="grantha">śrī</hi></foreign>) interrupts this word.</note><!--Restore <gap> descending</gap>-->
+               </app>
+               
+               <app loc="3">
+                  <lem>°jagatrayā°</lem>
+                  <note>That, is <foreign><hi rend="grantha">jagat+trayā°</hi></foreign></note><!--Check EG-->
+               </app>
+               
+               <app loc="5">
+                  <lem><hi rend="grantha">°kulot·bha</hi>va°</lem>
+                  <note>That is, <foreign><hi rend="grantha">°kulod·bha</hi>va°</foreign></note>
+               </app>
+               
+               <app loc="7">
+                  <lem>vaṭa-<unclear>c</unclear>ikara-kōyil</lem>
+                  <rdg source="bib:Hultzsch1899_01">vaṭa-<unclear>ci</unclear>kara-kōyil</rdg>
+               </app>
+               
+               <app loc="7">
+                  <lem>Itaṟku</lem>
+                  <rdg source="bib:Hultzsch1899_01">I<unclear>ta</unclear>ṟku</rdg>
+               </app>
+               
+               <app loc="9">
+                  <lem>U<unclear>ṟ</unclear>ṟukkāṭṭu</lem>
+                  <rdg source="bib:Hultzsch1899_01">Uṟṟukkāṭṭu</rdg>
+               </app>
+               
+               <app loc="12">
+                  <lem>Iru<unclear>va</unclear>raiyum</lem>
+                  <rdg source="bib:Mahalingam1988_01">I<choice><sic>ru</sic><corr>ra</corr></choice><unclear>va</unclear>raiyum</rdg>
+               </app>
+               
+               <app loc="13">
+                  <lem>ko<unclear>ṉṟa pāvattu pa</unclear>ṭuvāṉ</lem>
+                  <rdg source="bib:Hultzsch1899_01">ko<unclear>ṉṟa p</unclear>āvattu <unclear>pa</unclear>ṭuvāṉ</rdg>
+               </app>
+               
+               <app loc="14">
+                  <lem><unclear>Aṉ</unclear> <gap reason="lost" quantity="2" unit="character"/></lem>
+                  <note>see SII fn3.</note>
+               </app>
+               
+               <app loc="14">
+                  <lem>kā<unclear>ṇam</unclear></lem>
+                  <rdg source="bib:Hultzsch1899_01">kāṇam</rdg>
+               </app>
+               
+               <app loc="15">
+                  <lem><hi rend="grantha"><choice><sic>va</sic><corr>ba</corr></choice><unclear>hu</unclear>bhir<unclear>·</unclear></hi></lem>
+                  <rdg source="bib:Hultzsch1899_01"><hi rend="grantha"><choice><sic>va</sic><corr>ba</corr></choice><unclear>hu</unclear>bhir·</hi></rdg>
+                  <note>The reading <foreign><hi rend="grantha">bahubhir·</hi></foreign> seems also possible</note>
+               </app>
+               
+               <app loc="15">
+                  <lem>rāja<unclear>bh</unclear>i<supplied reason="omitted">ḥ</supplied></lem>
+                  <rdg source="bib:Hultzsch1899_01">rāja<unclear>bhi</unclear><supplied reason="omitted">ḥ</supplied></rdg>        
+               </app>
+               
+               <app loc="15">
+                  <lem>sakaradibhi<supplied reason="omitted">ḥ</supplied></lem>
+                  <note>That is, <foreign><hi rend="grantha">sagaradibhi</hi>ḥ</foreign>.</note>
+               </app>
+               
+            </listApp>
+            
          </div>
 
 <div type="translation" source="bib:Hultzsch1899_01">
