@@ -97,28 +97,28 @@
       			
 	<lg n="1" met="veṇpā">
 		
-		<l>
+		<l n="1">
 			<lb n="1"/><hi rend="grantha">śrī</hi> toṇṭai-y-an-tār
 			<lb n="2" break="no"/>-vēntaṉ <persName ref="pallava000005">narēntira
-			<lb n="3" break="no"/>p-pōtt-araiyaṉ</persName></l>
+				<lb n="3" break="no"/>p-pōtt-araiyaṉ</persName></l>
 		
-		<l>
+		<l n="2">
 			ve
 			<lb n="4" break="no"/>ṇpēṭṭiṉ ṟeṉ-pā			
 			<lb n="5" break="no"/>l mika makiḻntu ka
 			<lb n="6" break="no"/>ṇṭāṉ</l>
 		
-		<l enjamb="yes">
+		<l n="3" enjamb="yes">
 			cara mikka ve
 			<lb n="7" break="no"/>ñ-cilaiyāṉ <persName ref="pallava000001"><unclear reason="eccentric_ductus">ca</unclear>
-			<lb n="8" break="no"/>tturu-mall</persName>e<hi rend="grantha">ś<unclear>va</unclear></hi>
+				<lb n="8" break="no"/>tturu-mall</persName>e<hi rend="grantha">ś<unclear>va</unclear></hi>
 			<lb n="9" break="no"/>rāl<unclear>ai</unclear>yam <unclear>eṉ</unclear>
 		</l>
-	
-	<l>
-<unclear>ṟ’ ara</unclear>
-<lb n="10" break="no"/>ṉukk’ iṭam āka-<unclear reason="eccentric_ductus">v</unclear> āṅku
-	</l>
+		
+		<l n="4">
+			<unclear>ṟ’ ara</unclear>
+			<lb n="10" break="no"/>ṉukk’ iṭam āka-<unclear reason="eccentric_ductus">v</unclear> āṅku
+		</l>
 </lg>
       		
       		</div>

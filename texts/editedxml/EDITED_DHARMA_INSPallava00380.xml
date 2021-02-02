@@ -93,10 +93,10 @@
 			<div type="edition" xml:lang="san-Latn">
 				
 				<lg met="vasantatilakā" n="1">
-					<l real="++-+---+--+-+"><milestone unit="block" n="a"/><lb n="1"/><supplied reason="lost">śrī-pallavānvaya-kulācala-r</supplied>ājasi<unclear>ṃ</unclear>ho</l>
-					<l real="++-+---+--+-+">yaḥ kṣatrasi<unclear>ṃ</unclear>ha Iti viśruta-puṇya-kīrttiḥ</l>
-					<l real="++-+---+--+-+">jīyā<milestone unit="block" n="b"/>t maheśvara-śikhāmaṇi-dīpta-mauli<milestone unit="block" n="c"/><unclear>r</unclear></l>
-					<l real="++-+---+--+-=">yy<unclear>u</unclear>ddhārjjuno nikhila-loka-nare<supplied reason="lost">ndra-siṃhaḥ</supplied></l><!--check "= in @real-->
+					<l n="a" real="++-+---+--+-+"><milestone unit="block" n="a"/><lb n="1"/><supplied reason="lost">śrī-pallavānvaya-kulācala-r</supplied>ājasi<unclear>ṃ</unclear>ho</l>
+					<l n="b" real="++-+---+--+-+">yaḥ kṣatrasi<unclear>ṃ</unclear>ha Iti viśruta-puṇya-kīrttiḥ</l>
+					<l n="c" real="++-+---+--+-+">jīyā<milestone unit="block" n="b"/>t maheśvara-śikhāmaṇi-dīpta-mauli<milestone unit="block" n="c"/><unclear>r</unclear></l>
+					<l n="d" real="++-+---+--+-=">yy<unclear>u</unclear>ddhārjjuno nikhila-loka-nare<supplied reason="lost">ndra-siṃhaḥ</supplied></l><!--check "= in @real-->
 				</lg><!--Display issue: milestones displayed only once before <lg>-->	<!-- there are issues related to the current model for milestone and expectation of display. We need to discuss it when we are both back from vacations -->	
 				
 			</div>
