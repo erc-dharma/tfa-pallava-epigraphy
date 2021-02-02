@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tiruvatikai slab</title>
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris, CEIAS</pubPlace>
+            <idno type="filename">DHARMA_INSPallava00071</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary>Donation of paddy in favour of the Mahādeva of the Akatti<hi rend="grantha">śvara</hi>m temple in Aviṉūr.</summary>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p>Puḷḷi.</p>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:emfr" when="2021-02-02" status="draft">Creation of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="tam-Latn">
+            
+            <p>
+               <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+            </p>
+            
+            <p>
+               paramēccura-p
+               <lb n="2" break="no"/>-pōt·taraiyar·k<unclear>·</unclear>ku yāṇ·ṭu m(u/ū)
+               <lb n="3" break="no"/>ṉṟ-āvatu
+            </p>
+            <p>
+               Aviṉūr·t tiru-Akatti
+               <lb n="4" break="no"/><hi rend="grantha">śva</hi>rattu ma<hi rend="grantha">hāde</hi>var-aṭiyāṉ maṇi
+               <lb n="5" break="no"/>yaṉ tirup<unclear>·</unclear>pali pōtavataṟkum tiru
+               <lb n="6" break="no"/>-Ami<supplied reason="omitted">tu</supplied>kkum Oṭ·ṭip poliyūṭṭu vait<unclear>·</unclear>ta
+               <lb n="7"/>(pa)ricāvatu
+            </p>
+            <p>
+               ko<unclear>ṟu</unclear>t·ta<unclear>lai nā</unclear>c·ca<unclear>ṉ ma</unclear>
+               <lb n="8" break="no"/><unclear>ṇ·</unclear>ṭ<unclear>aiyāḻ</unclear>·vā <gap reason="illegible" quantity="4" unit="character" precision="low"></gap> <unclear>rēt</unclear>·ta<supplied reason="omitted">t</supplied>tu
+               <lb n="9"/><supplied reason="lost">m</supplied>akiḻa<unclear>r</unclear>ēttat<unclear>tu mēl Uṭai</unclear>ya Aññ<unclear>ū</unclear>	
+               <lb n="10" break="no"/><supplied reason="lost">ṟ</supplied><unclear>ṟu</unclear>-k kāṭi<unclear>yum</unclear> Ūruṇi <unclear>A</unclear>kattu-p<unclear>·</unclear> po
+               <lb n="11" break="no"/><supplied reason="lost">ṟ</supplied>kuṉ<supplied reason="omitted">ṟa</supplied>-c-caṭaṅ·kaviyārē<unclear>ttatu</unclear> mēlai pir<unclear>ā</unclear>
+               
+               <lb n="12" break="no"/>[ya]-ceṟuv(i)ṉ ṟalai Uṭaiya kalam [space=1]
+               <lb n="13"/>n(e)l· mup·patiṉ· kāṭiyum· poṉ· kaḻañ·
+               <lb n="14" break="no"/>(cu)m· Ic-ceṟuviṉuḷ poṟ·ṟattaṉā[r*] kūṟā
+               <lb n="15" break="no"/>(ya)tum· koṭuṅ· ceṟuvu tala-c·-camāṭāka
+               <lb n="16"/>[ne]l Ampatiṉ kāṭikkum poli-Ūṭ
+               <lb n="17" break="no"/>(ṭu)ṇṇa Uṭaiyatu koṟut·talai po
+               <lb n="18" break="no"/>[ṟ](k)kattiyār makanṉiṭai Ūruṇi-(A)ka[t]
+               <lb n="19" break="no"/>(tu kaiyi)ṭoṟ·ṟi Uṭaiya kala(m) poṉ (Aṟu)
+               <lb n="20"/>kaḻañcum neṟ· patiṉāṟ·kāṭiyu(m) k(ai)vi(ṭo)
+               <lb n="21" break="no"/>(ṟ)ṟi ko(ṟut)talai-p poṟ(ṟā)ḻiyā(rr)-iṭ(ai)
+               <lb n="22"/>(Ū)r(u)ṇi-Akattu-k koṇṭa(ṇa)ṅku(ḻi Iva)
+               <lb n="23" break="no"/>[ru]ṭ[ai]ya nilattiṉ· ṟalaiyum· karuppēt·
+               <lb n="24" break="no"/>[ta]tu Ivar-uṭaiya mūṉ·ṟu ceṟuviṉ ṟa
+               <lb n="25" break="no"/>l[ai]yum(ā)ka Uṭaiya kalam Aṟu kaḻañcum
+               <lb n="26"/>nel Aṟupatiṉ kāṭiyum mik-ko
+               <lb n="27" break="no"/>ṇṭaṇaṅkuḻi naṭu(vil) Iraṇṭu ku
+               <lb n="28" break="no"/>[ḻiyi]ṉ· ṟalaiyum· koṇṭaṇaṅ-k(i)
+               <lb n="29" break="no"/>(ḻa)var poḻa na[[hole]]ṉtiyār-iṭai Uṭai
+               <lb n="30" break="no"/>ya nāṟpatiṉ· kāṭi nel·lum piṇṭi
+               <lb n="31"/>Ūṭ·ṭippaṭṭi-t· tēvapūti Aṅ·kama(ṇi)
+               <lb n="32"/>p(e)ṟṟa ceṟuviṉ· ṟalai-Uṭaiya nel· n(ā)
+               <lb n="33" break="no"/>(n)āṟpatiṉ· kāṭiyum· (koṟuttalai-p)
+               <lb n="34"/>(poṟ)· katti(yār makan iḻuk)·ka[ṅkāṭṭu]
+               <lb n="35"/>(ppaṭṭi nilattilum ? lama)[ṉa paṭṭi-t]
+               <lb n="36"/>(talai Uṭaiya Aññuṟṟu) [kāṭiyum]
+               <lb n="37"/>ko(ṟuttalai-p po)ṉ· (ṉi)la(ṉārē)tat	
+               <lb n="38" break="no"/>(tu)-p· paṭṭi nilan talai-c-caimāṭ-(ā)ka
+               <lb n="39"/>Uṭaiya nel· la(ññūṟ)ṟu-k (kāṭiyum)
+               <lb n="40"/>Aḻicu-p· poṟ·ṟiṇṭat tiruvētiyā
+               <lb n="41" break="no"/>(r) tal(ai)-p·-pāṭakka(ttu Āṟu) ceṟuvi[ṉ ṟa]
+               <lb n="42" break="no"/>(lai)Uṭ(ai)ya kalam· (Aṟu ka)ḻañcu poṉ·
+               <lb n="43" break="no"/>ṉum· Ivar-iṭa(yē va)ṭa-(pālai) pa(ḷ)ḷa-c
+               <lb n="44" break="no"/>ceṟuvi(ṉ ṟalai) muppati(ṉ kā)ṭi (nel)
+               <lb n="45" break="no"/>(lu)m (poli-Ū)ṭṭu Aḻi(cūr ciṟṟayaṉ ta)
+               <lb n="46" break="no"/>(lai)-p-pā(ṭakattu m(u/ū)ṉṟu ceṟuviṉ ṟalai)		
+               <lb n="47" break="no"/>yum (Aṟupatiṉ kāṭi nellālum pa)
+               <lb n="48" break="no"/>tiṉ· (Añ)kāṭi (nellum poli-Ūṭṭu)-
+               <lb n="49" break="no"/>vatā[ka*]vum (Iṉ-ne)l muta(l)ā(l) pati(ṉ kā)
+               <lb n="50" break="no"/>ṭi(yāl) Oru kāṭi (ne)l· poli-Ūṭṭuva	
+               <lb n="51" break="no"/>tum poṉ kaḻañciṉ vāy Aṟu
+               <lb n="52" break="no"/>kāl nel· poli Uṉpatākavum
+            </p>
+            
+            <p>
+               <lb n="53"/><hi rend="grantha">sa<unclear>bhai</unclear>yuM panmāheśvararuM</hi>               
+               <lb n="54"/><hi rend="grantha">Iddha<unclear>r</unclear>mmaM rakṣittā</hi>r aṭi Eṉ ṟalai
+               <lb n="55"/>mēlaṉa <g type="symbol" subtype="finalGomutra"/> kāl·kaṭu taṭ·ṭam               
+            </p>
+         </div>
+
+         <div type="apparatus">
+
+            <listApp>
+               <app loc="1">
+                  <lem/>
+                  <rdg source="bib:SubrahmanyaAiyer1937_01"/>
+                  <rdg source="bib:Mahalingam1988_01"/>
+               </app>
+            </listApp>
+
+         </div>
+
+         <div type="translation" resp="part:emfr">
+         	
+         </div>      	
+         
+         <div type="commentary">
+         	
+         </div>
+
+         <div type="bibliography">
+
+            <p>
+            	First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 3, no. 331); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 71); re-edited and first translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy and photographs (2007).           	
+            </p>
+
+            	<listBibl type="primary">
+        		
+        		<bibl n="KVS">
+        			<ptr target="bib:SubrahmanyaAiyer1937_01"/>        			
+        			<citedRange unit="page">177-178</citedRange>
+        			<citedRange unit="item">331</citedRange>
+        		</bibl>
+            	   
+        		<bibl n="TVM">
+        			<ptr target="bib:Mahalingam1988_01"/>
+        			<citedRange unit="page">215-217</citedRange>
+        			<citedRange unit="item">71</citedRange>
+        		</bibl>
+        		
+        		
+        	</listBibl>
+        	
+        	<listBibl type="secondary">
+        		
+        		<bibl>ARE 1903.56<!--update!-->
+        			<ptr target="bib:ARIE1904-1905"/>
+        			<citedRange unit="page">32</citedRange>
+        			<citedRange unit="appendix">B/1905</citedRange>
+        			<citedRange unit="item">50</citedRange>
+        		</bibl>
+        		
+        	</listBibl>
+
+         </div>
+
+      </body>
+  </text>
+</TEI>
