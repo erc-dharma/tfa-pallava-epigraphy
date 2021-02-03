@@ -48,8 +48,7 @@
 					</msIdentifier>
 					<msContents>
 						<summary>Donation of paddy and gold by Maṇiyaṉ, a devotee of the Mahādeva of
-							the Akatti<hi rend="grantha">śvara</hi>m temple in Aviṉūr, presumably to
-							the Mahādeva of Tiruvatikai.</summary>
+							the Akatti<hi rend="grantha">śvara</hi>m temple in Aviṉūr.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -102,7 +101,7 @@
       			Aviṉūr·-t tiru-Akatti
       			<lb n="4" break="no"/><hi rend="grantha">śva</hi>rattu ma<hi rend="grantha">hāde</hi>var aṭiyāṉ maṇi
       			<lb n="5" break="no"/>yaṉ tiru-p<unclear>·</unclear>-pali pōtavataṟkum tiru
-      			<lb n="6" break="no"/>-Ami<supplied reason="omitted">tu</supplied>kkum Oṭ·ṭi-p poli-y-ūṭṭu vait<unclear>·</unclear>ta
+      			<lb n="6" break="no"/>-Am<choice><orig>i</orig><reg>u</reg></choice><supplied reason="omitted">tu</supplied>kkum Oṭ·ṭi-p poli-y-ūṭṭu vait<unclear>·</unclear>ta
       			<lb n="7"/>(pa)ric-āvatu
       		</p>
       		
@@ -202,8 +201,8 @@
       	</div>
 
          <div type="apparatus">
-
-            <listApp>
+         	<!--Complete apparatus-->
+         	<listApp>
                <app loc="1">
                   <lem/>
                   <rdg source="bib:SubrahmanyaAiyer1937_01"/>
@@ -214,10 +213,14 @@
          </div>
 
       	<div type="translation" resp="part:emfr">
+      		<!--Complete translation-->
       		
-      		<p n="1">Prosperity! Fortune!</p>
-      		<p n="1-3">Third year of Paramēccurppōttaraiyar<note>That is, the Pallava king Parameśvara.</note>.</p>
-      		<p n="3-7">[This is] the way that Maṇiyaṉ gave ... interests ...</p>
+      		<p n="1">
+      			Prosperity! Fortune!</p>
+      		<p n="1-3">
+      			Third year of Paramēccurppōttaraiyar<note>That is, the Pallava king Parameśvara.</note>.</p>
+      		<p n="3-7">
+      			[This is] the way that Maṇiyaṉ, the devotee <supplied reason="explanation"><foreign>atiyāṉ</foreign></supplied> of the Mahādeva of the glorious Akattiśvaram at Aviṉūr, gave interests so as provide <supplied reason="explanation"><foreign>oṭṭi</foreign></supplied> for the food-offerings <supplied reason="explanation"><foreign>amutu</foreign></supplied> and for what is adequate <supplied reason="explanation"><foreign>pōtavataṟku</foreign></supplied> <supplied reason="subaudible">for</supplied> the glorious offerings <supplied reason="explanation"><foreign>pali</foreign><note>That is, Sanskrit <foreign>bali</foreign>.</note></supplied>:</p>
       		<p n="7-10"/>
       		<p n="10-14"/>
       		<p n="14-20"/>
@@ -230,20 +233,24 @@
       		<p n="43-45"/>
       		<p n="45-49"/>
       		<p n="49-52"/>
-      		<p n="53-55">The feet <supplied reason="subaudible">of</supplied> those, <supplied reason="explanation">among</supplied> the assembly <supplied reason="explanation"><foreign>sabhai</foreign></supplied> and the Panmāheśvarars, who protect this pious donation <supplied reason="explanation"><foreign>dharma</foreign></supplied> are on my head.</p>
+      		<p n="53-55">
+      			The feet <supplied reason="subaudible">of</supplied> those, <supplied reason="explanation">among</supplied> the assembly <supplied reason="explanation"><foreign>sabhai</foreign></supplied> and the Panmāheśvarars, who protect this pious donation <supplied reason="explanation"><foreign>dharma</foreign></supplied> are on my head.</p>
       		<p n="55">... <supplied reason="explanation"><foreign>kālkaṭu taṭṭam</foreign></supplied>.</p>
          	
          </div>      	
          
          <div type="commentary">
-         	<p n="53"><foreign><hi rend="grantha">sa<unclear>bhai</unclear>yuM panmāheśvararuM</hi></foreign>. It is not clear if this phrase is the signature of the record or if, as translated above, it is part of the following benediction phrase.</p>
+         	<p n="3-7">
+         		It is not clear in favour of which god the donation is made: the Mahādeva of Tiruvatikai, the find-spot of the slab, or the Mahādeva of the Akatti<hi rend="grantha">śvara</hi>m temple in Aviṉūr, the residence of the donor Maṇiyaṉ.</p>
+         	<p n="53">
+         		<foreign><hi rend="grantha">sa<unclear>bhai</unclear>yuM panmāheśvararuM</hi></foreign>. It is not clear if this phrase is the signature of the record or if, as translated above, it is part of the following benediction phrase.</p>
          	
          </div>
 
          <div type="bibliography">
 
             <p>
-            	First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 3, no. 331); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 71); re-edited and first translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy and photographs (2007).           	
+            	First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 3, no. 331); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 71); re-edited and first translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on photographs (2007).           	
             </p>
 
             	<listBibl type="primary">
