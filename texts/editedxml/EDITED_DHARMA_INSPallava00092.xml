@@ -59,7 +59,9 @@
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            <p>This project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union’s Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
          </projectDesc>
          <schemaRef type="guide"
                     key="EGDv01"
@@ -68,12 +70,14 @@
             <prefixDef ident="bib"
                        matchPattern="([a-zA-Z0-9\-\_]+)"
                        replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
             <prefixDef ident="part"
                        matchPattern="([a-z]+)"
                        replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+               <p>Internal URIs using the part prefix to point to person elements in the
+							<ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -96,7 +100,7 @@
                         <lb n="2" break="no"/><hi rend="grantha">bodhu</hi>va<hi rend="grantha">rmmaku rā<unclear>jy</unclear>ā</hi><unclear>vi</unclear><hi rend="grantha"><unclear>bh</unclear>i<unclear>r</unclear>ddh<unclear>ya</unclear></hi>
 <!--display issue: closing parentheses of vi is diplayed-->                        
                         <lb n="3" break="no"/>ñ <unclear>ce</unclear><choice><orig>l</orig><reg>ll</reg></choice>ā-niṉṟatu Āṟupatt<unclear>u</unclear>
-                        <lb n="4"/><choice><sic>A</sic>&gt;<corr>Ai</corr></choice>nt-āvatu
+                        <lb n="4"/><choice><sic>A</sic><corr>Ai</corr></choice>nt-āvatu
                      </p>
                      
                      <p>
@@ -117,7 +121,7 @@
                      </p>
                      
                      <p>
-                        maḻiṉai nal<uncler>lu</uncler>
+                        maḻiṉai nal<unclear>lu</unclear>
                         <lb n="14" break="no"/>ḻār tōṭṭa<supplied reason="omitted">t</supplied>ti<unclear>ṉ</unclear> mē<choice><sic>l</sic><corr>ṟ</corr></choice>kum <unclear>teṉ</unclear>
                         <lb n="15" break="no"/>pāl Ellai
                      </p>

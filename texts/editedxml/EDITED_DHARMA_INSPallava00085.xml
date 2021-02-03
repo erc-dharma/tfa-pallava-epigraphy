@@ -48,7 +48,9 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Foundation <!--OK for an image?--> of an image of Poṉṉiyakkiyār and Nākaṇandi by Nāraṇaṉ (Nārāyaṇa), son of Maruttuvar of Pukaḻālaimaṅkalam.</summary>
+                  <summary>Foundation <!--OK for an image?--> of an image of Poṉṉiyakkiyār and
+							Nākaṇandi by Nāraṇaṉ (Nārāyaṇa), son of Maruttuvar of
+							Pukaḻālaimaṅkalam.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -61,8 +63,8 @@
       <encodingDesc>
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC)
-                        under the European Union’s Horizon 2020 research and innovation programme (grant
-                        agreement no 809994).</p>
+					under the European Union’s Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
          </projectDesc>
          <schemaRef type="guide"
                     key="EGDv01"
@@ -72,18 +74,19 @@
                        matchPattern="([a-zA-Z0-9\-\_]+)"
                        replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
-                            ERC-DHARMA whose data are open to the public.</p>
+						ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
             <prefixDef ident="part"
                        matchPattern="([a-z]+)"
                        replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+							<ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
+         <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding
+				template v03</change>
          <change who="part:emfr" when="2020-02-04" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
@@ -111,7 +114,7 @@
 <div type="translation" source="bib:Venkayya1896-1897_01">
 
 <p>
-In the fiftieth <supplied reason="subaudible">year</supplied> of Nandippōttaracar,— Nāraṇaṉ <supplied reason="explanation">Nārāyaṇa</supplied>, the son of Maruttuvar <note n="’4">The word <foreign>maruttuvaṉ</foreign>  means ‘a physician.’ In the present case it seems to be the proper name of a person.</note> of Pugaḻālaimaṅkalam, caused to be engraved an image of Poṉṉiyakkiyār, along with <note n="5">Literally: “while there is present.”</note> the preceptor (<foreign>gurava</foreign>) <note n="6">On this word, which appears to be derived from the honorific plural of <foreign>guru</foreign>, see <hi rend="italic">South-Indian Inscriptions</hi>, Vol. II. p. 251, note 3.</note> Nāgaṇandi <supplied reason="explanation">Nāganandin</supplied>.
+In the fiftieth <supplied reason="subaudible">year</supplied> of Nandippōttaracar,— Nāraṇaṉ <supplied reason="explanation">Nārāyaṇa</supplied>, the son of Maruttuvar<note>The word <foreign>maruttuvaṉ</foreign>  means ‘a physician.’ In the present case it seems to be the proper name of a person.</note> of Pugaḻālaimaṅkalam, caused to be engraved an image of Poṉṉiyakkiyār, along with<note>Literally: “while there is present.”</note> the preceptor (<foreign>gurava</foreign>)<note>On this word, which appears to be derived from the honorific plural of <foreign>guru</foreign>, see <hi rend="italic">South-Indian Inscriptions</hi>, Vol. II. p. 251, note 3.</note> Nāgaṇandi <supplied reason="explanation">Nāganandin</supplied>.
 </p>
 	<note>Translation by Venkayya (1996-1897). Standardised according to DHARMA TG and EG.</note>
 
