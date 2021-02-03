@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mahābalipuram Ādivaraha Cave slab</title>
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris, CEIAS</pubPlace>
+            <idno type="filename">DHARMA_INSPallava00092</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary>Land-sale of pasture-land for calves.</summary>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p>Puḷḷi.</p>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:emfr" when="2021-02-02" status="draft">Creation of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+      <body>
+
+                  <div type="edition" xml:lang="tam-Latn">
+            <!--Add milestone for front and back side of slab-->
+         	
+                     <p>
+                        <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                     </p>
+                     
+                     <p>
+                        <hi rend="grantha">palla</hi><supplied reason="omitted">va</supplied>-va<hi rend="grantha">ṃsasya</hi> na<unclear>n=ti</unclear>
+                        <lb n="2" break="no"/><hi rend="grantha">bodhu</hi>va<hi rend="grantha">rmmaku rā<unclear>jy</unclear>ā</hi><unclear>vi</unclear><hi rend="grantha"><unclear>bh</unclear>i<unclear>r</unclear>ddh<unclear>ya</unclear></hi>
+<!--display issue: closing parentheses of vi is diplayed-->                        
+                        <lb n="3" break="no"/>ñ <unclear>ce</unclear><choice><orig>l</orig><reg>ll</reg></choice>ā-niṉṟatu Āṟupatt<unclear>u</unclear>
+                        <lb n="4"/><choice><sic>A</sic>&gt;<corr>Ai</corr></choice>nt-āvatu
+                     </p>
+                     
+                     <p>
+                        māmallap<unclear>u</unclear>				
+                        <lb n="5" break="no"/>rattu nakarattār Iṭaivala<unclear>ñ</unclear>			
+                        <lb n="6" break="no"/>cāṉ kaṇṭaṉ kaṉṟu-mē<supplied reason="omitted">y</supplied>-<unclear>kaḻa</unclear>
+                        <lb n="7" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>i-y-āka koṇṭa nilam
+                     </p>
+
+                     <p>
+                        <unclear>Ā</unclear>
+                        <lb n="8" break="no"/>mūr-nāṭṭu Kuṉṟattūr i[ṭai] 
+                        <lb n="9" break="no"/>vāḻum<unclear>·</unclear> Kuṉṟat<unclear>·</unclear>tūr-<unclear>ki</unclear><supplied reason="lost">ḻā</supplied>
+                        <lb n="10" break="no"/>r Iḷa-naṭuvuṇār makaṉ	
+                        <lb n="11"/><surplus>ṉ</surplus> kaṇṭa<choice><orig>n</orig><reg>ṉ</reg></choice> iṭ<unclear>ai</unclear> kaṉṟu-mē<supplied reason="omitted">y</supplied>-ka<unclear>ḻa</unclear>
+                        <lb n="12" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>i-y-āka viṟṟu-<supplied reason="omitted">k</supplied>-koṇṭa nilat<unclear>tu</unclear>
+                        <lb n="13" break="no"/><supplied reason="omitted">k</supplied>k’ ellai
+                     </p>
+                     
+                     <p>
+                        maḻiṉai nal<uncler>lu</uncler>
+                        <lb n="14" break="no"/>ḻār tōṭṭa<supplied reason="omitted">t</supplied>ti<unclear>ṉ</unclear> mē<choice><sic>l</sic><corr>ṟ</corr></choice>kum <unclear>teṉ</unclear>
+                        <lb n="15" break="no"/>pāl Ellai
+                     </p>
+                     
+                     <p>
+                        kō<choice><orig>n</orig><reg>ṉ</reg></choice>-ē
+                        <lb n="16" break="no"/><supplied reason="lost">ri</supplied>-<unclear>l</unclear>ṉ vaṭak=kum mēl-pāl
+                        <lb n="17" break="no"/><supplied reason="lost">e</supplied>-llai
+                     </p>
+                     
+                     <p>
+                        mān<unclear>·</unclear>tai talaiva				
+                        <lb n="18" break="no"/><supplied reason="lost">ṉ ē</supplied>rikkum· peru-vaḻi-Iṉ· 
+                        <lb n="19"/><supplied reason="lost">kiḻak</supplied>kum· vaṭa-pāl-el<supplied reason="omitted">l</supplied>ai
+                     </p>
+                     
+                     <p>
+                        pa
+                        <lb n="20" break="no"/>nappāṭi-e<supplied reason="omitted">l</supplied>lai-I<unclear>ṉ te</unclear>
+                        <lb n="21" break="no"/><supplied reason="lost">ṟku</supplied>m
+                     </p>
+                     
+                     <p>
+                        <supplied reason="lost"><choice><orig>I-ṉ</orig><reg>In-n</reg></choice></supplied>āṉk’ ellai
+                        <lb n="22"/><supplied reason="lost">A</supplied>ka-<supplied reason="omitted">p</supplied>-paṭṭa nilamum kaṇṭa<unclear>n</unclear>
+                        <lb n="23"/><supplied reason="lost">I</supplied>ṭai viṟṟu-<supplied reason="omitted">k</supplied>-koṇ·ṭu po
+                        <lb n="24" break="no"/><unclear>ṉ</unclear> kaṉṟu-mē<supplied reason="omitted">y</supplied>-kaḻa<choice><orig>n</orig><reg>ṉ</reg></choice>i<surplus>y</surplus>
+                        <lb n="25" break="no"/><unclear>kku</unclear> peyitāṉ
+                     </p>
+                     
+                     <p>
+                        Itu A
+                        <lb n="26" break="no"/><unclear>ḻi</unclear>yāmai kāttā<choice><orig>n</orig><reg>ṉ</reg></choice> aṭi E
+                        <lb n="27" break="no"/><supplied reason="lost">ṉ</supplied> ṟal<unclear>ai</unclear> mēlatu
+                     </p>
+
+         </div>
+
+         <div type="apparatus">
+
+            <listApp>
+               <app loc="1">
+                  <lem/>
+                  <rdg source="bib:KrishnaSastri1926_01"/>
+                  <rdg source="bib:Mahalingam1988_01"/>
+                  <rdg source="bib:Lockwood+al2001_01"/>
+               </app>
+            </listApp>
+
+         </div>
+
+         <div type="translation" resp="part:emfr">
+            
+<p n="1">Prosperity! Fortune!</p>
+
+<p n="1-4">Sixty-fifth year of current <supplied reason="explanation"><foreign>cellā niṉṟatu</foreign></supplied> prosperous reign of Nandibodhuvarman<note>That is, Nantipōtavarman, that is the Pallava king Nandivarman.</note> of the Pallava lineage.</p>
+
+<p n="4-7"><supplied reason="subaudible">This is about</supplied> the land that Iṭaivalañcāṉ Kaṇṭaṉ <supplied reason="subaudible">among</supplied> the <foreign>nakarattār</foreign>s of Māmallapuram got<note>That is, “purchased”.</note> as pasture-land for calves <supplied reason="explanation"><foreign>kaṉṟu-mēy-kaḻaṉi-y-āka</foreign></supplied>.</p>
+
+<p n="7-13">The boundaries to the land purchased as pasture-land for calves from <supplied reason="explanation"><foreign>iṭai</foreign></supplied>Kōṉ Kaṇṭaṉ, son of Iḷa-naṭuvuṇār, the lord of Kuṉṟattūr, who resides in Kuṉṟattūr in the Āmūr-nāṭu <supplied reason="subaudible">are as follows:</supplied></p>
+
+<p n="13-15">the boundary on the southern side is west of the garden of Maḻiṉai Nalluḻār;</p>
+            
+<p n="15-17">the boundary on the western side is north of the royal tank;</p>
+
+<p n="17-19">the boundary on the northern side is east of the tank of the chief of Māntai and of the great road;</p>
+ 
+<p n="19-21"><supplied reason="subaudible">the boundary on the eastern side</supplied> is south of the boundary of Panappāṭi;</p>
+
+<p n="21-25">The land comprised within these four boundaries, he<note>That is, Iṭaivalañcāṉ Kaṇṭaṉ.</note> bought <supplied reason="subaudible">it</supplied> from Kaṇṭaṉ, <supplied reason="subaudible">with</supplied> gold, and made the libation <supplied reason="explanation"><foreign>peytāṉ</foreign></supplied><note>Literally: “poured <supplied reason="subaudible">water</supplied>".</note> <supplied reason="subaudible">so as to enjoy it</supplied> for pasture-land for calves.</p>
+
+<p n="25-27">The feet <supplied reason="subaudible">of</supplied> he who protects this<note>That is, “this donation”.</note> without destroying <supplied reason="subaudible">it</supplied> are on my head.</p>
+         	
+         </div>
+      	
+         <div type="commentary">
+            
+            <p>On the akward description of boundaries and missing mention of the boundary on the eastern side.</p>
+         	
+         </div>
+
+         <div type="bibliography">
+
+            <p><!--update-->
+            	First edited and translated by <bibl><ptr target="bib:KrishnaSastri1926_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 92); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on published visual documentation.           	
+            </p>
+
+            <listBibl type="primary">
+               
+               <bibl n="HKS">
+                  <ptr target="bib:KrishnaSastri1926_01"/>
+                  <citedRange unit="page">10-11</citedRange>
+                  <citedRange unit="plate">IB</citedRange>
+               </bibl> 
+               
+               <bibl n="TVM">
+                  <ptr target="bib:Mahalingam1988_01"/>
+                  <citedRange unit="page">323-324</citedRange>
+                  <citedRange unit="item">92</citedRange>
+               </bibl> 
+               
+               <bibl n="ML">
+                  <ptr target="bib:Lockwood+al2001_01"/>
+                  <citedRange unit="page">290-291</citedRange>
+                  <note>With a delineation.</note>
+               </bibl>    
+               
+            </listBibl>
+        	
+            <listBibl type="secondary">
+               
+               <bibl>ARE 1922.666<!--update!-->
+                  <ptr target="bib:ARIE1904-1905"/>
+                  <!--display issue: ARIE should not be in italics-->
+                  <citedRange unit="page">32</citedRange>
+                  <citedRange unit="appendix">B/1905</citedRange>
+                  <citedRange unit="item">50</citedRange>
+               </bibl>
+               
+               <bibl n="VVA">
+                  <ptr target="bib:VenkatasubbaAyyar1943_01"/>
+                  <citedRange unit="page">16</citedRange>
+                  <citedRange unit="item">38</citedRange>
+                  <note>Summary only.</note>
+               </bibl>
+               
+            </listBibl>
+
+         </div>
+
+      </body>
+  </text>
+</TEI>
