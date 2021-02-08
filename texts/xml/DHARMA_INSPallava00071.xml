@@ -52,7 +52,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>Puḷḷi.</p>
+							<p>Puḷḷi. In line 53 note the Grantha <foreign>yu</foreign>, with two strokes for the <foreign>u</foreign>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -86,6 +86,7 @@
 	<text xml:space="preserve">
       <body>
       	<div type="edition" xml:lang="tam-Latn">
+      		<!--Add milestone for slab 1 and slab 2-->
       		
       		<p>
       			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
@@ -93,58 +94,58 @@
       		
       		<p>
       			paramēccura-p
-      			<lb n="2" break="no"/>-pōt·taraiyar·k<unclear>·</unclear>ku yāṇ·ṭu m(u/ū)
+      			<lb n="2" break="no"/>-pōt·taraiyar·k<unclear>·</unclear>ku yāṇ·ṭu mū
       			<lb n="3" break="no"/>ṉṟ-āvatu
       		</p>
       		
       		<p>
       			Aviṉūr·-t tiru-Akatti
       			<lb n="4" break="no"/><hi rend="grantha">śva</hi>rattu ma<hi rend="grantha">hāde</hi>var aṭiyāṉ maṇi
-      			<lb n="5" break="no"/>yaṉ tiru-p<unclear>·</unclear>-pali pōtavataṟkum tiru
+      			<lb n="5" break="no"/>yaṉ· tiru-p<unclear>·</unclear>-pali pōtavataṟkum tiru
       			<lb n="6" break="no"/>-Am<choice><orig>i</orig><reg>u</reg></choice><supplied reason="omitted">tu</supplied>kkum Oṭ·ṭi-p poli-y-ūṭṭu vait<unclear>·</unclear>ta
       			<lb n="7"/>(pa)ric-āvatu
       		</p>
       		
       		<p>
       			ko<unclear>ṟu</unclear>t·ta<unclear>lai nā</unclear>c·ca<unclear>ṉ ma</unclear>
-      			<lb n="8" break="no"/><unclear>ṇ·</unclear>ṭ<unclear>aiyāḻ</unclear>·vā <gap reason="illegible" quantity="4" unit="character" precision="low"/> <unclear>r ēt</unclear>·ta<supplied reason="omitted">t</supplied>tu
+      			<lb n="8" break="no"/><unclear>ṇ·</unclear>ṭ<unclear>aiyāḻ</unclear>·vā<unclear>ṉ</unclear> <gap reason="illegible" quantity="4" unit="character" precision="low"/> <unclear>r ēt</unclear>·ta<supplied reason="omitted">t</supplied>tu
       			<lb n="9"/><supplied reason="lost">m</supplied>akiḻa<unclear>r</unclear> ēttat<unclear>tu mēl Uṭai</unclear>ya Aññ<unclear>ū</unclear>	
       			<lb n="10" break="no"/><supplied reason="lost">ṟ</supplied><unclear>ṟu</unclear>-k kāṭi<unclear>yum</unclear>
       		</p>
       		
       		<p>
       			Ūruṇi <unclear>A</unclear>kattu-p<unclear>·</unclear> po
-      			<lb n="11" break="no"/><supplied reason="lost">ṟ</supplied>kuṉ<supplied reason="omitted">ṟa</supplied>-c-caṭaṅ·kaviyār ē<unclear>ttatu</unclear> mēlai pir<unclear>ā</unclear>
+      			<lb n="11" break="no"/><supplied reason="lost">ṟ</supplied>kuṉ<supplied reason="omitted">ṟa</supplied>-c-caṭaṅ·kaviyār ē<unclear>tta</unclear><supplied reason="omitted">t</supplied><unclear>tu</unclear> mēlai pir<unclear>ā</unclear>
       			
       			<lb n="12" break="no"/><supplied reason="lost">ya]</supplied>-ceṟuv<unclear>i</unclear>ṉ ṟalai Uṭaiya kalam [space=1]
-      			<lb n="13"/>n<unclear>e</unclear>l· mup·patiṉ· kāṭiyum· poṉ· kaḻañ·
+      			<lb n="13"/>n<unclear>e</unclear>l· mu-p·-patiṉ· kāṭiyum· poṉ· kaḻañ·
       			<lb n="14" break="no"/><unclear>cu</unclear>m·
       		</p>
       		
       		<p>          	
       			Ic-ceṟuviṉuḷ poṟ·ṟattaṉā<supplied reason="omitted">r</supplied> kūṟā
       			<lb n="15" break="no"/><unclear>ya</unclear>tum· koṭuṅ· ceṟuvu tala-c·-camāṭāka
-      			<lb n="16"/><supplied reason="lost">ne</supplied>l Ampatiṉ kāṭikkum poli-Ūṭ
-      			<lb n="17" break="no"/><unclear>ṭu</unclear>ṇṇa Uṭaiyatu koṟut·talai po
-      			<lb n="18" break="no"/><supplied reason="lost">ṟ</supplied><unclear>k</unclear>kattiyār makanṉiṭai Ūruṇi-<unclear>A</unclear>ka<supplied reason="lost">t</supplied>
+      			<lb n="16"/><supplied reason="lost">ne</supplied>l <choice><orig>Am</orig><reg>ain</reg></choice>-patiṉ kāṭikkum poli-Ūṭ
+      			<lb n="17" break="no"/><unclear>ṭ' u</unclear>ṇṇa Uṭaiyatu koṟut·talai po
+      			<lb n="18" break="no"/><supplied reason="lost">ṟ</supplied><unclear>k</unclear>kattiyār maka<surplus>n</surplus>ṉ iṭai Ūruṇi-<unclear>A</unclear>ka<supplied reason="lost">t</supplied>
       			<lb n="19" break="no"/><unclear>tu kaiyi</unclear>ṭoṟ·ṟi Uṭaiya kala<unclear>m</unclear> poṉ <unclear>Aṟu</unclear>
-      			<lb n="20"/>kaḻañcum neṟ· patiṉāṟ· kāṭiyu<unclear>m</unclear>
+      			<lb n="20"/>kaḻañcum neṟ· patiṉā<choice><sic>ṟ·</sic><corr>ṟu</corr></choice> kāṭiyu<unclear>m</unclear>
       		</p>
       		
       		<p>    		
       			k<unclear>ai</unclear>vi<unclear>ṭo</unclear>
-      			<lb n="21" break="no"/><unclear>ṟ</unclear>ṟi ko<unclear>ṟut</unclear>talai-p poṟ<unclear>ṟā</unclear>ḻiyā<unclear>rr</unclear>-iṭ<unclear>ai</unclear>
+      			<lb n="21" break="no"/><unclear>ṟ</unclear>ṟi ko<unclear>ṟut</unclear>talai-p poṟ<unclear>ṟā</unclear>ḻiyār<surplus>r</surplus> iṭ<unclear>ai</unclear>
       			<lb n="22"/><unclear>Ū</unclear>r<unclear>u</unclear>ṇi-Akattu-k koṇṭa<unclear>ṇa</unclear>ṅku<unclear>ḻi Iva</unclear>
       			<lb n="23" break="no"/><supplied reason="lost">r-u</supplied>ṭ<supplied reason="lost">ai</supplied>ya nilattiṉ· ṟalaiyum· karuppēt·
-      			<lb n="24" break="no"/><supplied reason="lost">ta</supplied>tu Ivar-uṭaiya mūṉ·ṟu ceṟuviṉ ṟa
+      			<lb n="24" break="no"/><supplied reason="lost">ta</supplied><supplied reason="omitted">t</supplied>tu Ivar-uṭaiya mūṉ·ṟu ceṟuviṉ ṟa
       			<lb n="25" break="no"/>l<supplied reason="lost">ai</supplied>yum <unclear>ā</unclear>ka Uṭaiya kalam Aṟu kaḻañcum
-      			<lb n="26"/>nel Aṟupatiṉ kāṭiyum
+      			<lb n="26"/>nel Aṟupatiṉ kāṭiyum<surplus>m</surplus>
       		</p>
       		
-      		<p>      mik-ko
-      			<lb n="27" break="no"/>ṇṭaṇaṅkuḻi naṭu<unclear>vil</unclear> Iraṇṭu ku
-      			<lb n="28" break="no"/><supplied reason="lost">ḻiyi</supplied>ṉ· ṟalaiyum· koṇṭaṇaṅ-k<unclear>i</unclear>
-      			<lb n="29" break="no"/><unclear>ḻa</unclear>var poḻa na[[hole]]ṉtiyār-iṭai Uṭai
+      		<p>      ik-ko
+      			<lb n="27" break="no"/>ṇṭaṇaṅ-kuḻi naṭu<unclear>vil</unclear> Iraṇṭu <unclear>ku</unclear>
+      			<lb n="28" break="no"/><gap reason="illegible" quantity="1" unit="character"/>ṭiṉ· ṟalaiyum· koṇṭaṇaṅ-k<unclear>i</unclear>
+      			<lb n="29" break="no"/><unclear>ḻa</unclear>var poḻa na<gap reason="lost" quantity="2" unit="character" precision="low"/>ṉtiyār iṭai Uṭai
       			<lb n="30" break="no"/>ya nāṟpatiṉ· kāṭi nel·lum
       		</p>
       		
@@ -156,20 +157,20 @@
       		</p>
       		
       		<p>            	<unclear>koṟuttalai-p</unclear>
-      			<lb n="34"/><unclear>poṟ</unclear>· katti<unclear>yār makan iḻuk</unclear>·ka<supplied reason="lost">ṅkāṭṭu</supplied>
-      			<lb n="35" break="no"/><unclear>-p-paṭṭi nilattilum ? lama</unclear><supplied reason="lost">ṉa paṭṭi-t</supplied>
-      			<lb n="36"/><unclear>talai Uṭaiya Aññuṟṟu</unclear> <supplied reason="lost">kāṭiyum</supplied>
+      			<lb n="34"/><unclear>poṟ</unclear>· katti<unclear>yār maka</unclear><choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice> <unclear>iḻuk</unclear>·ka<supplied reason="lost">ṅkāṭṭu</supplied>
+      			<lb n="35" break="no"/><unclear>-p-paṭṭi nilattilum</unclear> <gap reason="illegible" quantity="1" unit="character"/> <unclear>lama</unclear><supplied reason="lost">ṉa paṭṭi-t</supplied>
+      			<lb n="36"/><unclear>talai Uṭaiya</unclear> <choice><orig><unclear>Añ-ñ</unclear></orig><reg>Ain-</reg></choice><unclear>ūṟṟu</unclear> <supplied reason="lost">kāṭiyum</supplied>
       		</p>
       		
       		<p>            	
       			<lb n="37"/>ko<unclear>ṟuttalai-p po</unclear>ṉ· <unclear>ṉi</unclear>la<unclear>ṉār ē</unclear>tat	
-      			<lb n="38" break="no"/><unclear>tu</unclear>-p· paṭṭi nilan talai-c-caimāṭ-<unclear>ā</unclear>ka
-      			<lb n="39"/>Uṭaiya ne<choice><orig>l·l</orig><reg>l·</reg></choice> a<unclear>ññūṟ</unclear>ṟu-k <unclear>kāṭiyum</unclear>
+      			<lb n="38" break="no"/><supplied reason="omitted">t</supplied><unclear>tu</unclear>-p· paṭṭi nilan talai-c-caimāṭ-<unclear>ā</unclear>ka
+      			<lb n="39"/>Uṭaiya ne<choice><orig>l·l</orig><reg>l·</reg></choice> <choice><orig>a<unclear>ñ-ñūṟ</unclear></orig><reg>ain-nūṟ</reg></choice>ṟu-k <unclear>kāṭiyum</unclear>
       		</p>
       		
       		<p>            	
       			<lb n="40"/>Aḻicu-p· poṟ·ṟiṇṭat tiruvētiyā
-      			<lb n="41" break="no"/><unclear>r</unclear> tal<unclear>ai</unclear>-p·-pāṭakka<unclear>ttu Āṟu</unclear> ceṟuvi<supplied reason="lost">ṉ ṟa</supplied>
+      			<lb n="41" break="no"/><unclear>r</unclear> tal<unclear>ai</unclear>-p·-pāṭa<surplus>k</surplus>ka<unclear>ttu Āṟu</unclear> ceṟuvi<supplied reason="lost">ṉ ṟa</supplied>
       			<lb n="42" break="no"/><unclear>lai</unclear>-Uṭ<unclear>ai</unclear>ya kalam· <abbr>Aṟu ka</abbr>ḻañcu poṉ·
       			<lb n="43" break="no"/>ṉum·      			
       		</p>
@@ -180,7 +181,7 @@
       			<lb n="45" break="no"/><unclear>lu</unclear>m <unclear>poli-Ū</unclear>ṭṭu
       		</p>
       		
-      		<p>            	Aḻi<unclear>cūr ciṟṟayaṉ ta</unclear>
+      		<p>      Aḻi<unclear>cūr ciṟṟayaṉ ta</unclear>
       			<lb n="46" break="no"/><unclear>lai</unclear>-p-pā<unclear>ṭakattu m</unclear><choice><unclear>u</unclear><unclear>ū</unclear></choice><unclear>ṉṟu ceṟuviṉ ṟalai</unclear>	
       			<lb n="47" break="no"/>yum <unclear>Aṟupatiṉ kāṭi nellālum pa</unclear>
       			<lb n="48" break="no"/>tiṉ· <unclear>Añ</unclear>kāṭi <unclear>nellum poli-Ūṭṭu</unclear>
@@ -201,15 +202,112 @@
       	</div>
 
          <div type="apparatus">
-         	<!--Complete apparatus-->
+         	<!--recheck readings by others-->
          	<listApp>
-               <app loc="1">
-                  <lem/>
-                  <rdg source="bib:SubrahmanyaAiyer1937_01"/>
-                  <rdg source="bib:Mahalingam1988_01"/>
-               </app>
-            </listApp>
-
+         		
+         		<app loc="2">
+         			<lem>mū<lb n="3" break="no"/>ṉṟ-āvatu</lem>
+         			<rdg source="bib:SubrahmanyaAiyer1937_01 bib:Mahalingam1988_01">mu<lb n="3" break="no"/>ṉṟ-āvatu</rdg>
+         		</app>
+         		
+         		<app loc="6">
+         			<lem>Am<choice><orig>i</orig><reg>u</reg></choice><supplied reason="omitted">tu</supplied>kkum</lem>
+         			<rdg source="bib:SubrahmanyaAiyer1937_01 bib:Mahalingam1988_01">A<unclear>mi</unclear>tukkum</rdg>
+         		</app>
+         		
+         		<app loc="7">
+         			<lem><unclear>ma</unclear><lb n="8" break="no"/><unclear>ṇ·</unclear>ṭ<unclear>aiyāḻ</unclear>·vā<unclear>ṉ</unclear> <gap reason="illegible" quantity="4" unit="character" precision="low"/></lem>
+         			<rdg source="bib:SubrahmanyaAiyer1937_01 bib:Mahalingam1988_01"><unclear>ma</unclear><lb n="8" break="no"/><unclear>ṇ·ṭaiyāḻ·vā</unclear> <gap reason="illegible" quantity="3" unit="character"/></rdg>
+         		</app>
+         		
+         		<app loc="8">
+         			<lem><unclear>ēt</unclear>·ta<supplied reason="omitted">t</supplied>tu</lem>
+         			<rdg source="bib:SubrahmanyaAiyer1937_01"><unclear>ēttatu</unclear></rdg>
+         			<rdg source="bib:Mahalingam1988_01"><unclear>ētta</unclear><supplied reason="omitted">t</supplied><unclear>tu</unclear></rdg>
+         		</app>
+         		
+         		<app loc="11">
+         			<lem>ē<unclear>tta</unclear><supplied reason="omitted">t</supplied><unclear>tu</unclear></lem>
+         			<rdg source="bib:SubrahmanyaAiyer1937_01">ētattu</rdg>
+         			<rdg source="bib:Mahalingam1988_01">ētta<supplied reason="omitted">t</supplied>tu</rdg>
+         		</app>
+         		
+         		<app loc="16">
+         			<lem><choice><orig>Am</orig><reg>ain</reg></choice>-patiṉ</lem>
+         			<rdg source="bib:SubrahmanyaAiyer1937_01">Añpatiṉ</rdg>
+         			<rdg source="bib:Mahalingam1988_01">Aiñpati</rdg>
+         		</app>
+         		
+         		<app loc="20">
+         			<lem>patiṉā<choice><sic>ṟ·</sic><corr>ṟu</corr></choice></lem>
+         			<rdg source="bib:SubrahmanyaAiyer1937_01 bib:Mahalingam1988_01">patiṉāṟ</rdg>
+         		</app>
+         		
+         		<app loc="23">
+         			<lem>karuppēt·<lb n="24" break="no"/><supplied reason="lost">ta</supplied><supplied reason="omitted">t</supplied>tu</lem>
+         			<rdg source="bib:SubrahmanyaAiyer1937_01">karuppēt<lb n="24" break="no"/>tatu</rdg>
+         			<rdg source="bib:Mahalingam1988_01">karuppēt<lb n="24" break="no"/>ta<supplied reason="omitted">t</supplied>tu</rdg>
+         		</app>
+         		
+         		<app loc="26">
+         			<lem>kāṭiyum<surplus>m</surplus>ik-ko<lb n="27" break="no"/>ṇṭaṇaṅ-kuḻi</lem>
+         			<rdg source="bib:SubrahmanyaAiyer1937_01">kāṭiyum mikko<lb n="27" break="no"/>ṇṭaṇaṅkuḻi</rdg>
+         			<rdg source="bib:Mahalingam1988_01">kāṭiyum ikko<lb n="27" break="no"/>ṇṭaṇaṅkuḻi</rdg>
+         		</app>
+         		
+         		<app loc="27">
+         			<lem><unclear>ku</unclear>
+      			<lb n="28" break="no"/><gap reason="illegible" quantity="1" unit="character"/>ṭiṉ·</lem>
+         			<rdg source="bib:SubrahmanyaAiyer1937_01 bib:Mahalingam1988_01">ku<lb n="28" break="no"/><unclear>ḻiyi</unclear>ṉ</rdg>
+         			<note>The reading <foreign>kuḻiyiṉ</foreign> however makes better sense.</note>
+         		</app>
+         		
+         		<app loc="29">
+         			<lem>na<gap reason="lost" quantity="2" unit="character" precision="low"/>ṉtiyār</lem>
+         			<rdg source="bib:SubrahmanyaAiyer1937_01 bib:Mahalingam1988_01">naṉtiyār</rdg>
+         		</app>
+         		
+         		<app loc="34">
+         			<lem><unclear>maka</unclear><choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice></lem>
+         			<rdg source="bib:SubrahmanyaAiyer1937_01">makan</rdg>
+         			<rdg source="bib:Mahalingam1988_01">makaṉ</rdg>
+         		</app>
+         		
+         		<app loc="37">
+         			<lem><unclear>ē</unclear>tat	
+      			<lb n="38" break="no"/><supplied reason="omitted">t</supplied><unclear>tu</unclear>-p·</lem>
+         			<rdg source="bib:SubrahmanyaAiyer1937_01">ētat	
+      			<lb n="38" break="no"/>tup</rdg>
+         			<rdg source="bib:Mahalingam1988_01">ēt<supplied reason="omitted">t</supplied>at	
+      			<lb n="38" break="no"/>tup</rdg>
+         		</app>
+         		
+         		<app loc="39">
+         			<lem><choice><orig>a<unclear>ñ-ñūṟ</unclear></orig><reg>ain-nūṟ</reg></choice>ṟu-k <unclear>kāṭiyum</unclear></lem>
+         			<rdg source="bib:SubrahmanyaAiyer1937_01">aññūṟṟu kāṭiyum</rdg>
+         			<rdg source="bib:Mahalingam1988_01"><choice><orig>a<unclear>ñ-ñūṟ</unclear></orig><reg>ain-nūṟ</reg></choice>ṟuk kāṭiyum</rdg>
+         		</app>
+         		
+         		<app loc="41">
+         			<lem>-pāṭa<surplus>k</surplus>ka<unclear>ttu</unclear></lem>
+         			<rdg source="bib:SubrahmanyaAiyer1937_01">pāṭakkattu</rdg>
+         			<rdg source="bib:Mahalingam1988_01">pāṭa<surplus>k</surplus>kattu</rdg>
+         		</app>
+         		
+         		<app loc="46">
+         			<lem><unclear>m</unclear><choice><unclear>u</unclear><unclear>ū</unclear></choice><unclear>ṉṟu</unclear></lem>
+         			<rdg source="bib:SubrahmanyaAiyer1937_01">muṉṟu</rdg>
+         			<rdg source="bib:Mahalingam1988_01">mūṉṟu</rdg>
+         		</app>
+         		
+         		<app loc="50">
+         			<lem>-Ūṭṭuva<lb n="51" break="no"/>tum</lem>
+         			<rdg source="bib:SubrahmanyaAiyer1937_01 bib:Mahalingam1988_01">Ūṭṭuva<lb n="51" break="no"/>tum</rdg>
+         			<note>It seems that there is one more character engraved between <foreign>Ūṭṭuva</foreign> and <foreign>tum</foreign>, but this would hardly make sense.</note>
+         		</app>
+         		
+         	</listApp>
+         	
          </div>
 
       	<div type="translation" resp="part:emfr">
@@ -220,7 +318,7 @@
       		<p n="1-3">
       			Third year of Paramēccurppōttaraiyar<note>That is, the Pallava king Parameśvara.</note>.</p>
       		<p n="3-7">
-      			[This is] the way that Maṇiyaṉ, the devotee <supplied reason="explanation"><foreign>atiyāṉ</foreign></supplied> of the Mahādeva of the glorious Akattiśvaram at Aviṉūr, gave interests so as provide <supplied reason="explanation"><foreign>oṭṭi</foreign></supplied> for the food-offerings <supplied reason="explanation"><foreign>amutu</foreign></supplied> and for what is adequate <supplied reason="explanation"><foreign>pōtavataṟku</foreign></supplied> <supplied reason="subaudible">for</supplied> the glorious offerings <supplied reason="explanation"><foreign>pali</foreign><note>That is, Sanskrit <foreign>bali</foreign>.</note></supplied>:</p>
+      			<supplied reason="subaudible">This is</supplied> the way that Maṇiyaṉ, the devotee <supplied reason="explanation"><foreign>atiyāṉ</foreign></supplied> of the Mahādeva of the glorious Akattiśvaram at Aviṉūr, gave interests so as provide <supplied reason="explanation"><foreign>oṭṭi</foreign></supplied> for the food-offerings <supplied reason="explanation"><foreign>amutu</foreign></supplied> and for what is adequate <supplied reason="explanation"><foreign>pōtavataṟku</foreign></supplied> <supplied reason="subaudible">for</supplied> the glorious offerings <supplied reason="explanation"><foreign>pali</foreign><note>That is, Sanskrit <foreign>bali</foreign>.</note></supplied>:</p>
       		<p n="7-10"/>
       		<p n="10-14"/>
       		<p n="14-20"/>
@@ -235,7 +333,7 @@
       		<p n="49-52"/>
       		<p n="53-55">
       			The feet <supplied reason="subaudible">of</supplied> those, <supplied reason="explanation">among</supplied> the assembly <supplied reason="explanation"><foreign>sabhai</foreign></supplied> and the Panmāheśvarars, who protect this pious donation <supplied reason="explanation"><foreign>dharma</foreign></supplied> are on my head.</p>
-      		<p n="55">... <supplied reason="explanation"><foreign>kālkaṭu taṭṭam</foreign></supplied>.</p>
+      		<p n="55">... <!--update encoding of untranslated!--> <supplied reason="explanation"><foreign>kālkaṭu taṭṭam</foreign></supplied>.</p>
          	
          </div>      	
          
@@ -244,6 +342,7 @@
          		It is not clear in favour of which god the donation is made: the Mahādeva of Tiruvatikai, the find-spot of the slab, or the Mahādeva of the Akatti<hi rend="grantha">śvara</hi>m temple in Aviṉūr, the residence of the donor Maṇiyaṉ.</p>
          	<p n="53">
          		<foreign><hi rend="grantha">sa<unclear>bhai</unclear>yuM panmāheśvararuM</hi></foreign>. It is not clear if this phrase is the signature of the record or if, as translated above, it is part of the following benediction phrase.</p>
+         	<p n="55">After this final line, a later phrase, unrelated to the original record and consisting in a name (<foreign>nataṅ·karācareṭ·ṭi</foreign>) has been engraved upside down.</p>
          	
          </div>
 
