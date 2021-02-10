@@ -51,7 +51,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>The <foreign>puḷḷi</foreign> is consistently used. The <foreign>daṇḍa</foreign> is vertical stroke with a shorter horizontal stroke attached in its middle on the right side.</p>
+                     <p>The <foreign>puḷḷi</foreign> is consistently used, although not for most of duplicated consonants and sometimes unduly. The <foreign>daṇḍa</foreign> consists in a vertical stroke with a shorter horizontal stroke attached in its middle on the right side.</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -106,7 +106,7 @@
             </p>
          	
             <p>
-               Itu ra<choice><orig><hi rend="grantha">tṣi</hi></orig><reg><hi rend="grantha">kṣi</hi></reg></choice>p·pār· Iv-vūr mū-v-<choice><sic>āI</sic><corr>āyi</corr></choice>ratt’ eḻu-nūṟṟuvarum· <g type="dandaCross">.</g><!--check encoding of daṇḍa-->
+               Itu ra<choice><orig><hi rend="grantha">tṣi</hi></orig><reg><hi rend="grantha">kṣi</hi></reg></choice>p·pār· Ivv-ūr mū-v-<choice><sic>āI</sic><corr>āyi</corr></choice>ratt’ eḻu-nūṟṟuvarum· <g type="dandaCross">.</g><!--check encoding of daṇḍa-->
             </p>
             
          </div>
@@ -119,12 +119,7 @@
          			<lem>ti<hi rend="grantha">la</hi>ta</lem>
          			<note><foreign>tilata</foreign> is a <foreign>tadbhava</foreign> of Skt. <foreign>tilaka</foreign>.</note>
          		</app>
-         		
-         		<app loc="1">
-         			<lem/>
-         			<rdg source="bib:SubrahmanyaAiyar1911-1912_01"/>
-         		</app>
-         		
+         		         		
          	</listApp>
 
          </div>
@@ -162,10 +157,10 @@
                See DHARMA_INSPallava00525<!--update!-->.
             </p>
          	<p n="1">
-         		<foreign><hi rend="grantha">palla</hi>va-ti<hi rend="grantha">la</hi>ta-ku<hi rend="grantha">lorbha</hi>vaṉ</foreign>. <foreign><hi rend="grantha">palla</hi>va-ku<hi rend="grantha">la</hi>-ti<hi rend="grantha">la</hi>to<hi rend="grantha">rbha</hi>vaṉ</foreign>, “who appeared as the ornament of the Pallava lineage” would be more straightforward. Alternatively, as suggested by Christophe Vielle, <foreign><hi rend="grantha">palla</hi>va-ti<hi rend="grantha">la</hi>ta-ku<hi rend="grantha">lorbha</hi>vaṉ</foreign> can be translated as “who appeared in the lineage whose ornament is the sprout”, with a play on the dynastic name Pallava (“sprout” in Skt.). The phrase <foreign>pallava-tilaka</foreign>, “ornament of the Pallava (lineage)" is attested in the Pallava corpus.
+         		<foreign><hi rend="grantha">palla</hi>va-ti<hi rend="grantha">la</hi>ta-ku<hi rend="grantha">lorbha</hi>vaṉ</foreign>. <foreign><hi rend="grantha">palla</hi>va-ku<hi rend="grantha">la</hi>-ti<hi rend="grantha">la</hi>to<hi rend="grantha">rbha</hi>vaṉ</foreign>, “who appeared as the ornament of the Pallava lineage” would be more straightforward. Alternatively, as suggested by Christophe Vielle, <foreign><hi rend="grantha">palla</hi>va-ti<hi rend="grantha">la</hi>ta-ku<hi rend="grantha">lorbha</hi>vaṉ</foreign> can be translated as “who appeared in the lineage whose ornament is the sprout”, with a play, attested elsewehere in the Pallava corpus, on the dynastic name Pallava (“sprout” in Skt.). As the the phrase <foreign>pallava-tilaka</foreign>, “ornament of the Pallava (lineage)", is also attested in the Pallava corpus as an epithet of Pallava kings, it seems that the present writer either deliberately used it in a new way or misused it. On this epithet, see <bibl><ptr target="bib:SubrahmanyaAiyar1911-1912_01"/><citedRange unit="page">157</citedRange></bibl><!--update!-->
          	</p>
          	<p n="2">
-         		<foreign>mārppiṭuku</foreign>.<!--update!-->
+         		<foreign>mārppiṭuku</foreign>. See <bibl><ptr target="bib:SubrahmanyaAiyar1911-1912_01"/><citedRange unit="page">156</citedRange></bibl><!--update!-->
          	</p>
          	
          </div>
@@ -173,7 +168,7 @@
          <div type="bibliography">
 
             <p><!--update-->
-            	First edited by <bibl><ptr target="bib:SubrahmanyaAiyar1911-1912_01"/></bibl> (EI 11, no. 15); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 98); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy, photographs, and facsimile published in <bibl><ptr target="bib:SubrahmanyaAiyar1911-1912_01"/></bibl>.           	
+            	First edited by <bibl><ptr target="bib:SubrahmanyaAiyar1911-1912_01"/></bibl> (EI 11, no. 15); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 98); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy, photographs, and the facsimile published in <bibl><ptr target="bib:SubrahmanyaAiyar1911-1912_01"/></bibl>.           	
             </p>
 
             	<listBibl type="primary">
@@ -200,7 +195,7 @@
         	      <citedRange unit="item">50</citedRange>
         	   </bibl>
         	   
-        	   <bibl n="VVA">
+        	   <bibl>
         	      <ptr target="bib:VenkatasubbaAyyar1943_01"/>
         	      <citedRange unit="page">16</citedRange>
         	      <citedRange unit="item">40</citedRange>
