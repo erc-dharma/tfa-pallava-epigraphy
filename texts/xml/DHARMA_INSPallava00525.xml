@@ -5,121 +5,156 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Tiruveḷḷaṟai well (2/2)</title>
-            <respStmt>
-               <resp>EpiDoc encoding</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
-                  <surname>Francis</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
-                  <surname>Francis</surname>
-               </persName>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <authority>DHARMA</authority>
-            <pubPlace>Paris, CEIAS</pubPlace>
-            <idno type="filename">DHARMA_INSPallava00525</idno>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
-                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tiruveḷḷaṟai well (2/2)</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">DHARMA_INSPallava00525</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
 							Licence. To view a copy of the licence, visit
 							https://creativecommons.org/licenses/by/4.0/ or send a letter to
 							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 							California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-               </licence>
-            </availability>
-            <date from="2019" to="2025">2019-2025</date>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc>
-               <msIdentifier>
-                  <repository>DHARMAbase</repository>
-                  <idno/>
-               </msIdentifier>
-               <msContents>
-                  <summary>Gnomic verse.</summary>
-               </msContents>
-               <physDesc>
-                  <handDesc>
-                     <p>Puḷḷi.</p>
-                  </handDesc>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
-         </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-         <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
-            </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
-            </prefixDef>
-         </listPrefixDef>
-      </encodingDesc>
-      <revisionDesc>
-         <change who="part:emfr" when="2021-02-08" status="draft">Creation of the file</change>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:space="preserve">
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Gnomic verse.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p>The <foreign>puḷḷi</foreign> is consistently used.</p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>This project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union's Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
+							<ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2021-02-08" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
       
       <body>
          
-         <div type="edition" xml:lang="tam-Latn">
-            
-            <lg n="1" met="āciriyaviruttam">
-               <l n="1"><lb n="1"/>kaṇ·ṭār kāṇā-v ulakattiṟ· kātala ceytu nillātē-y</l> 
-               <l n="2">paṇ·ṭē-y paramaṉ paṭait·ta nāḷ pārttu niṉ·ṟu naiyyātē-y·</l>
-               <l n="3"><lb n="2"/>taṇ·ṭ’ ār· mūp<unclear>·</unclear>pu van·t’ uṉ·ṉai-t· taḷara-c· cey·tu nillā muṉ·-ṉ</l>
-               <l n="1">uṇ·ṭ’ ēll uṇṭu mik·katu Ulakam·-m aṟiya vaimmiṉ·ē-y</l>
-            </lg>
-                                    
-         </div>
+      	<div type="edition" xml:lang="tam-Latn">
+      		
+      		<p>
+      			<lb n="1"/><hi rend="grantha">śrī</hi>
+      			
+      		</p>
+      		<lg n="1" met="āciriyaviruttam">
+      			<l n="1"><lb n="1"/>kaṇ·ṭār kāṇā-v ulakattiṟ· kātal-a ceytu nillātē-y</l> 
+      			<l n="2">paṇ·ṭē-y paramaṉ paṭait·ta nāḷ pārttu niṉ·ṟu naiyyātē-y·</l>
+      			<lb n="2"/>
+      			<l n="3"><lb n="2"/>taṇ·ṭ’ ār· mūp<unclear>·</unclear>pu van·t’ uṉ·ṉai-t· taḷara-c· cey·tu nillā muṉ·-ṉ</l>
+      			<l n="1">uṇ·ṭ’ ē<choice><orig>ll</orig><reg>l</reg></choice> uṇṭu mik·katu Ulakam·-m aṟiya vaimmiṉ<surplus>·</surplus>ē-y</l>
+      		</lg>
+      		
+      	</div>
          
          <div type="apparatus">
 
          	<listApp>
+         		
+         		<app loc="1">
+         			<lem>kātal-a</lem>
+         			<rdg source="bib:SubrahmanyaAiyar1911-1912_01">kātal</rdg>
+         			<note>There is not <foreign>puḷḷi</foreign> on the final <foreign>l</foreign>. One could concur with <ptr target="bib:SubrahmanyaAiyar1911-1912_01"/> and emend <foreign>kātala</foreign> to <foreign>kātal</foreign>, or, alternatively, analyse, without emending the original text, this word as <foreign>kātal-a</foreign>, adjectival form of <foreign>kātal</foreign>, “things related to love.” </note>
+         		</app>
+         		
          		<app loc="1">
          			<lem/>
          			<rdg source="bib:SubrahmanyaAiyar1911-1912_01"/>
          		</app>
+
+         		<app loc="1">
+         			<lem/>
+         			<rdg source="bib:SubrahmanyaAiyar1911-1912_01"/>
+         		</app>
+         		
+         		<app loc="1">
+         			<lem/>
+         			<rdg source="bib:SubrahmanyaAiyar1911-1912_01"/>
+         		</app>
+         		
          	</listApp>
 
          </div>
 
-         <div type="translation" resp="part:emfr">
-         	
+         <div type="translation" source="bib:SubrahmanyaAiyar1911-1912_01">
+         	<p>Prosperity!</p> 
+<p>Without being <supplied reason="subaudible">passionately</supplied> attached to this world where men seen <supplied reason="subaudible">today</supplied> are not seen <supplied reason="subaudible">tomorrow</supplied>; without giving <supplied reason="subaudible">yourself</supplied> up to despair looking for the <supplied reason="subaudible">final</supplied> day appointed by the Creator; and before your <supplied reason="subaudible">limbs</supplied> become weak at the appearance of old age with its <supplied reason="subaudible">appendage of a</supplied> stick; if you have <supplied reason="subaudible">wealth</supplied> maintain <supplied reason="subaudible">yourself</supplied> and devote <supplied reason="subaudible">what remains to charity</supplied> so that <supplied reason="subaudible">all</supplied> the world may know <supplied reason="subaudible">it</supplied>. </p>
+
          </div>
       	
          <div type="translation" xml:lang="fra" resp="part:emfr">
+         	
+         	<p rend="stanza" n="1">
+         		<l>Dans ce monde que ne voient plus ceux qui ont vu, sans t'affairer à l'amour <note>Littéralement "sans t'arrêter aux choses de l’amour".</note>,</l>
+         		<l>Sans dépérir à penser<note>Littéralement "à regarder".</note> sans cesse au jour qu’a jadis fixé le Seigneur suprême,</l>
+         		<l>Avant de succomber<note>Littéralement "ne plus pouvoir tenir debout".</note> à la venue du vieil âge qui ressemble à un bâton<note>Alternativement: "un châtiment".</note> et te fera décrépir<note>Littéralement "le vieil âge étant venu … et t’ayant fait décrépir".</note>,</l> 
+         		<l>Si tu as quelque chose en abondance<note>Littéralement "ce qui est abondant et existe, s’il en est".</note>, afin que le monde sache, donne-le !</l> 
+         	</p>
          	
          </div>
 
          <div type="commentary">
             <p>
-               See DHARMA_INSPallava00098<!--update!-->.
+            	See DHARMA_INSPallava00098<!--update!-->.
             </p>
-         	
+         	<p>
+         		On final y and duplicated l. See KVS.<!--update!-->
+         	</p>
          </div>
 
          <div type="bibliography">
