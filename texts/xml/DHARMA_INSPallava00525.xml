@@ -51,7 +51,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>The <foreign>puḷḷi</foreign> is consistently used.</p>
+							<p>The <foreign>puḷḷi</foreign> is consistently used, although not for most of duplicated consonants and sometimes unduly.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -93,11 +93,11 @@
       			
       		</p>
       		<lg n="1" met="āciriyaviruttam">
-      			<l n="1"><lb n="1"/>kaṇ·ṭār kāṇā-v ulakattiṟ· kātal-a ceytu nillātē-y</l> 
-      			<l n="2">paṇ·ṭē-y paramaṉ paṭait·ta nāḷ pārttu niṉ·ṟu naiyyātē-y·</l>
+      			<l n="1"><lb n="1"/>kaṇ·ṭār kāṇā-v ulakattiṟ· kātal-a cey<supplied reason="omitted">·</supplied>tu nillātē<surplus>y</surplus></l> 
+      			<l n="2">paṇ·ṭē<surplus>y</surplus> paramaṉ paṭait·ta nāḷ pārttu niṉ·ṟu naiyyātē<surplus>y·</surplus></l>
       			<lb n="2"/>
-      			<l n="3"><lb n="2"/>taṇ·ṭ’ ār· mūp<unclear>·</unclear>pu van·t’ uṉ·ṉai-t· taḷara-c· cey·tu nillā muṉ·-ṉ</l>
-      			<l n="1">uṇ·ṭ’ ē<choice><orig>ll</orig><reg>l</reg></choice> uṇṭu mik·katu Ulakam·-m aṟiya vaimmiṉ<surplus>·</surplus>ē-y</l>
+      			<l n="3"><lb n="2"/>taṇ·ṭ’ ār· mūp<unclear>·</unclear>pu van·t’ uṉ·ṉai-t· taḷara-c· cey·tu nillā muṉ·<surplus>ṉ</surplus></l>
+      			<l n="1">uṇ·ṭ’ ēl<surplus>l</surplus> uṇ<unclear>·</unclear>ṭu mik<unclear>·</unclear>katu Ulakam·<surplus>m</surplus> aṟiya vaim<unclear>·</unclear>miṉ<surplus>·</surplus>ē<surplus>y</surplus></l>
       		</lg>
       		
       	</div>
@@ -109,24 +109,9 @@
          		<app loc="1">
          			<lem>kātal-a</lem>
          			<rdg source="bib:SubrahmanyaAiyar1911-1912_01">kātal</rdg>
-         			<note>There is not <foreign>puḷḷi</foreign> on the final <foreign>l</foreign>. One could concur with <ptr target="bib:SubrahmanyaAiyar1911-1912_01"/> and emend <foreign>kātala</foreign> to <foreign>kātal</foreign>, or, alternatively, analyse, without emending the original text, this word as <foreign>kātal-a</foreign>, adjectival form of <foreign>kātal</foreign>, “things related to love.” </note>
+         			<note>There is not <foreign>puḷḷi</foreign> on the final <foreign>l</foreign>. One could concur with <ptr target="bib:SubrahmanyaAiyar1911-1912_01"/> and emend <foreign>kātala</foreign> to <foreign>kātal</foreign>, or, alternatively, analyse, without emending the original text, this word as <foreign>kātal-a</foreign>, an adjectival form of <foreign>kātal</foreign>, “things related to love.”</note>
          		</app>
-         		
-         		<app loc="1">
-         			<lem/>
-         			<rdg source="bib:SubrahmanyaAiyar1911-1912_01"/>
-         		</app>
-
-         		<app loc="1">
-         			<lem/>
-         			<rdg source="bib:SubrahmanyaAiyar1911-1912_01"/>
-         		</app>
-         		
-         		<app loc="1">
-         			<lem/>
-         			<rdg source="bib:SubrahmanyaAiyar1911-1912_01"/>
-         		</app>
-         		
+         		         		
          	</listApp>
 
          </div>
@@ -139,8 +124,11 @@
       	
          <div type="translation" xml:lang="fra" resp="part:emfr">
          	
+         	<p n="1">
+         		Fortune !
+         	</p>
          	<p rend="stanza" n="1">
-         		<l>Dans ce monde que ne voient plus ceux qui ont vu, sans t'affairer à l'amour <note>Littéralement "sans t'arrêter aux choses de l’amour".</note>,</l>
+         		<l>Dans ce monde que ne voient plus ceux qui ont vu, sans t'affairer à l'amour <note>Littéralement "sans t'arrêter à faire les choses de l’amour".</note>,</l>
          		<l>Sans dépérir à penser<note>Littéralement "à regarder".</note> sans cesse au jour qu’a jadis fixé le Seigneur suprême,</l>
          		<l>Avant de succomber<note>Littéralement "ne plus pouvoir tenir debout".</note> à la venue du vieil âge qui ressemble à un bâton<note>Alternativement: "un châtiment".</note> et te fera décrépir<note>Littéralement "le vieil âge étant venu … et t’ayant fait décrépir".</note>,</l> 
          		<l>Si tu as quelque chose en abondance<note>Littéralement "ce qui est abondant et existe, s’il en est".</note>, afin que le monde sache, donne-le !</l> 
@@ -148,18 +136,21 @@
          	
          </div>
 
-         <div type="commentary">
-            <p>
-            	See DHARMA_INSPallava00098<!--update!-->.
-            </p>
-         	<p>
-         		On final y and duplicated l. See KVS.<!--update!-->
-         	</p>
-         </div>
+      	<div type="commentary">
+      		<p>
+      			See DHARMA_INSPallava00098<!--update!-->.
+      		</p>
+      		<p>
+      			In two instances, consonants are unduly duplicated at word <foreign>sandhi</foreign> (<foreign>uṇṭ’ ēl<surplus>l</surplus></foreign>, <foreign>ulakam<surplus>m</surplus></foreign>).
+      		</p>
+      		<p>
+      			The particle <foreign>-ē</foreign> is consistently appended with a <foreign>y</foreign> (<foreign>nillātē<surplus>y</surplus></foreign>, <foreign>paṇṭē<surplus>y</surplus></foreign>, <foreign>naiyyātē<surplus>y</surplus></foreign>, <foreign>vaimmiṉē<surplus>y</surplus></foreign>). <bibl><ptr target="bib:SubrahmanyaAiyar1911-1912_01"/><citedRange unit="page">157</citedRange><citedRange unit="note">7</citedRange></bibl> notes: <q>In these four instances the final <foreign>y</foreign> seems to have been inserted to represent the full sound produced in pronouncing the words.</q>
+      		</p>
+      	</div>
 
          <div type="bibliography">
 
-            <p><!--update-->
+            <p>
             	First edited by <bibl><ptr target="bib:SubrahmanyaAiyar1911-1912_01"/></bibl> (EI 11, no. 15); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 98); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy, photographs, and facsimile published in <bibl><ptr target="bib:SubrahmanyaAiyar1911-1912_01"/></bibl>.           	
             </p>
 
