@@ -160,13 +160,11 @@
                <app loc="10">
                   <lem>po<supplied reason="undefined">ṉ</supplied></lem>
                   <rdg source="bib:SubrahmanyaAiyer1932_01">po<gap reason="undefined" quantity="1" unit="character"/></rdg>
-                  <rdg source="bib:Mahalingam1988_01"></rdg>
                </app>
                
                <app loc="21">
                   <lem>ūṭṭuvat<supplied reason="undefined">-āka</supplied> <gap reason="undefined" quantity="3" unit="character" precision="low"/></lem>
                   <rdg source="bib:SubrahmanyaAiyer1932_01">ūṭṭuvata  <gap reason="undefined" quantity="5" unit="character" precision="low"/></rdg>
-                  <rdg source="bib:Mahalingam1988_01"></rdg>
                </app>     
                
             </listApp>
@@ -200,7 +198,7 @@
 <div type="bibliography">
 
             <p>
-First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7, no. 39); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 174); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020).
+First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7, no. 39); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 174); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021).
             </p>
 
 	<listBibl type="primary">
