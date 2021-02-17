@@ -5,7 +5,7 @@
 DHARMA project Task Force A Tamil Nadu, South India, Pallava epigraphic corpus.
 For more information, see the [website description](https://dharma.hypotheses.org/task-forces).
 
-## Pallava Inscriptions to be found elsewhere
+## Pallava Inscriptions in other repositories
 - **DHARMA_INSPallava00353**: Telugu inscription from Nalajanampāḍu = edited and encoded by Jens Thomas in [tfb-telugu-epigraphy](https://github.com/erc-dharma/tfb-telugu-epigraphy) (add filename when updated according to DHARMA file-naming conventions)
 
 ## Help and Guides
