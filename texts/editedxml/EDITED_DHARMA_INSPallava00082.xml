@@ -142,34 +142,36 @@
       				<lem>uḷaṉāyilum</lem>      				
       				<rdg source="bib:Nagaswamy1970_02">uḷaṉāyilum</rdg>
       				<rdg source="bib:Mahalingam1988_01">uḷaṉayilum</rdg>
-      				<note>Mahalingam’s reading appears to be the result of a typo.</note><!--Update ref to Mahalingam-->
+      				<note><ptr target="bib:Mahalingam1988_01"/>’s reading appears to be the result of a typo.</note>
       			</app>
       			
-      			<app loc="8">
-      				<lem>ture <gap reason="undefined" quantity="1" unit="character"/></lem>      				      				<rdg source="bib:Nagaswamy1970_02">ture <gap reason="undefined" quantity="1" unit="character"/></rdg>
-      				<rdg source="bib:Mahalingam1988_01"><unclear>ture</unclear> <gap reason="undefined" quantity="1" unit="character"/></rdg>
-      				<note>Mahalingam also considers the gap of one character as unclear.</note><!--Update ref to Mahalingam-->
-      			</app>     
+      		   <app loc="8">
+      		      <lem>ture <gap reason="undefined" quantity="1" unit="character"/></lem>
+      		      <rdg source="bib:Nagaswamy1970_02">ture <gap reason="undefined" quantity="1" unit="character"/></rdg>
+      		      <rdg source="bib:Mahalingam1988_01"><unclear>ture</unclear> <gap reason="undefined" quantity="1" unit="character"/></rdg>
+      		      <note><ptr target="bib:Mahalingam1988_01"/> also considers the gap of one character as unclear.</note>
+      		   </app>     
       			
       			<app loc="9">
       				<lem>Aṭai-c</lem>      				
       				<rdg source="bib:Nagaswamy1970_02">Aṭai-c</rdg>
       				<rdg source="bib:Mahalingam1988_01">A<surplus>yi</surplus>ṭai-c</rdg>
-      				<note>Mahalingam reads <foreign>a(yi)ḍai</foreign>, which I interpret as surplus, but what his parentheses means is in fact unclear.</note><!--Update ref to Mahalingam-->
+      				<note><ptr target="bib:Mahalingam1988_01"/> reads <foreign>a(yi)ḍai</foreign>, which I interpret as surplus, but what his parentheses means is in fact unclear.</note>
       			</app>   
       			
       		</listApp>
 
          </div>
 
-      	<div type="translation" resp="part:emfr">
-      		<!--Check/Update translation + if necessary encode properly "..."-->
-      		<!--add @n to p-->
-      		<p>Fortune!</p>
-      		<p>Thirty-third year of Nantippōttaraicar.</p>
-      		<p><!--Add translation--></p>
-      		
-      	</div>
+         <div type="translation" resp="part:emfr">
+            <!--Check/Update translation + if necessary encode properly "..."-->
+            
+            <p n="1">Fortune!</p>
+            <p n="1">Thirty-third year of Nantippōttaraicar.</p>
+            <p n="1-8"/>
+            <p n="9-10"/>
+            
+         </div>
       	
          <div type="commentary">
          	         	
@@ -187,7 +189,8 @@ First edited by <bibl><ptr target="bib:Nagaswamy1970_02"/></bibl>; text and summ
             			<ptr target="bib:Nagaswamy1970_02"/>
             			<citedRange unit="page">122</citedRange>
             		</bibl>
-            		<bibl n="IP 82">
+            	   
+            		<bibl n="TVM">
             			<ptr target="bib:Mahalingam1988_01"/>
             			<citedRange unit="page">277-278</citedRange>
             			<citedRange unit="item">82</citedRange>
