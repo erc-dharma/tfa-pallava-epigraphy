@@ -104,7 +104,7 @@
         		<div type="textpart" subtype="item" n="B">
         			<head xml:lang="eng">Right/North Pillar</head>
         			<p>
-        			<lb n="2"/><persName ref="pallava000001 ">cat<unclear>·</unclear>turu<choice><orig>m<unclear>·</unclear>m</orig><reg>m</reg></choice>allaṉ·</persName> <persName ref="pallava000001 ">kuṇaparaṉ·</persName> <!-- Display issue: Unclear not displayed inside choice/orig --><!-- Unclear display – still need to display the brackets – using mode mgiht create a loop. -->
+        			<lb n="2"/><persName ref="pallava000001 ">cat<unclear>·</unclear>turu<choice><orig>m<unclear>·</unclear>m</orig><reg>m</reg></choice>allaṉ·</persName> <persName ref="pallava000001 ">kuṇaparaṉ·</persName>
         			<lb n="3"/><persName ref="pallava000001 ">mayēn·tira-p-pōt·t-arēcaru</persName> Aṭiyāṉ·
         			<lb n="4"/><persName ref="pallava000003 ">vayan·tap·piri Arēcaru</persName> makaṉ· <persName ref="pallava000004">kan·tacēṉa
         			<lb n="5" break="no"/>ṉ·</persName> ceyivit<unclear>·</unclear>ta tēvakulam· <g type="symbol" subtype="finalGomutra"/>
@@ -116,7 +116,7 @@
           <div type="apparatus"/>
 
             <div type="translation" source="bib:Hultzsch1895_01">
-            	<note>Translation by Hultzsch (1895). Standardised according to DHARMA TG and EG.</note><!--check-->
+            	
 <p>Kantaceṉaṉ <supplied reason="explanation">Skandasena</supplied>, the son of Vayantappiriarecaru <supplied reason="explanation">Vasantapriyarāja</supplied>, the servant of Pakāppiṭuku Laḷitāṅkuraṉ <supplied reason="explanation">Lalitāṅkura</supplied> Catturummallaṉ <supplied reason="explanation">Śatrumalla</supplied> Kuṇaparaṉ <supplied reason="explanation">Guṇabhara</supplied> Mayentirappōttarecaru <supplied reason="explanation">Mahendrapōtarāja</supplied>, caused <supplied reason="subaudible">this</supplied> temple <supplied reason="explanation"><foreign>devakula</foreign></supplied> to be made.</p>
 
             </div>

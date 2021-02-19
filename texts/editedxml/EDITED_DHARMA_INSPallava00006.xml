@@ -229,18 +229,18 @@
       				
       				<app loc="1">
       					<lem>śrī</lem>
-      					<note>The word <foreign>śrī</foreign> could be considered a  second auspicious opening formula (see translations in <bibl><ptr target="bib:Fleet1876_04"/></bibl> and in <bibl><ptr target="bib:Brocquet1997_01"/></bibl>), but it appears to be an honorific prefix to the issuing placename as in <foreign>vijaya-śrī-palakkaḍa-sthānāt</foreign> INSPallava00007<!--Update!--> and <foreign>śrīmad-vijaya-daśanapurādhiṣṭ<supplied reason="omitted">h</supplied>ānāt</foreign> INSPallava00247<!--Update!-->.</note>
+      					<note>The word <foreign>śrī</foreign> could be considered a  second auspicious opening formula (see translations in <bibl><ptr target="bib:Fleet1876_02"/></bibl> and in <bibl><ptr target="bib:Brocquet1997_01"/></bibl>), but it appears to be an honorific prefix to the issuing placename as in <foreign>vijaya-śrī-palakkaḍa-sthānāt</foreign> (<ref target="INSPallava00007.xml">INSPallava00007</ref>) and <foreign>śrīmad-vijaya-daśanapurādhiṣṭ<supplied reason="omitted">h</supplied>ānāt</foreign> (<ref target="INSPallava00247.xml">INSPallava00247</ref>).</note>
       				</app>
       				
       				<app loc="1">
       					<lem>palakkaḍa</lem>
-      					<rdg source="bib:Fleet1876_04">palakkada</rdg>
+      					<rdg source="bib:Fleet1876_02">palakkada</rdg>
       					<rdg source="bib:Mahalingam1988_01">palakka<choice><sic>d</sic><corr>ḍ</corr></choice>a</rdg>
       				</app>
       				
       				<app loc="4">
       					<lem>prapautrasyā<unclear>r</unclear>ccita°</lem>
-      					<rdg source="bib:Fleet1876_04">prapautrasyārccita</rdg>
+      					<rdg source="bib:Fleet1876_02">prapautrasyārccita</rdg>
       					<note>The vowel <foreign>i</foreign> in <foreign>rcci</foreign>, which is postcript, shows no inclusion of a <foreign>repha</foreign>.</note>
       				</app>
       				
@@ -269,66 +269,66 @@
       				
       				<app loc="16">
       					<lem>°yuvamahārāja-śrī°</lem>
-      					<rdg source="bib:Fleet1876_04">°yuvamahārāja<supplied reason="omitted">sya</supplied> śrī°</rdg>
+      					<rdg source="bib:Fleet1876_02">°yuvamahārāja<supplied reason="omitted">sya</supplied> śrī°</rdg>
       					<note>This correction by Fleet appears unnecessary.</note>
       				</app>
       				
       				<app loc="19">
       					<lem>kaṇḍukūra°</lem>
-      					<rdg source="bib:Fleet1876_04">°k<choice><sic>e</sic><corr>a</corr></choice>ṇḍukūra°</rdg>
+      					<rdg source="bib:Fleet1876_02">°k<choice><sic>e</sic><corr>a</corr></choice>ṇḍukūra°</rdg>
       					<rdg source="bib:Brocquet1997_01">°k<choice><sic>e</sic><corr>a</corr></choice>ṇḍukūra°</rdg>
       					<note>Fleet’s correction is tentative. Brocquet reads <foreign>keṇḍukūra</foreign>, which he emends to <foreign>kaṇḍukūra</foreign>, because of the other occurrences of this placename (lines 21 and 26). However, in these three instances, the reading is clearly <foreign>kaṇḍukūra</foreign>.</note>
       				</app>
       				
       				<app loc="21">
       					<lem>kurupūra°</lem>
-      					<rdg source="bib:Fleet1876_04">k<choice><sic>a</sic><corr>u</corr></choice>rupūra°</rdg>
+      					<rdg source="bib:Fleet1876_02">k<choice><sic>a</sic><corr>u</corr></choice>rupūra°</rdg>
       					<rdg source="bib:Brocquet1997_01">k<choice><sic>u</sic><corr>a</corr></choice>rupūra°</rdg>
       					<note>Fleet’s correction is tentative. The same placename is written <foreign>karupūra</foreign>, line 23. See <bibl><ptr target="bib:Brocquet1997_01"/><citedRange unit="page">379</citedRange><citedRange unit="note">511</citedRange></bibl>.<!--Update? Add quotation?--></note>
       				</app>
       				
       				<app loc="21">
       					<lem>kaṇḍukūra°</lem>
-      					<rdg source="bib:Fleet1876_04">k<choice><sic>a</sic><corr>e</corr></choice>ṇḍukūra°</rdg>
+      					<rdg source="bib:Fleet1876_02">k<choice><sic>a</sic><corr>e</corr></choice>ṇḍukūra°</rdg>
       					<note>Fleet’s correction is tentative.</note>
       				</app>
       				
       				<app loc="23">
       					<lem>k<choice><sic>a</sic><corr>u</corr></choice>ru<space type="binding-hole"/>pūra°</lem>
-      					<rdg source="bib:Fleet1876_04">k<choice><sic>a</sic><corr>u</corr></choice>rupūra°</rdg>
+      					<rdg source="bib:Fleet1876_02">k<choice><sic>a</sic><corr>u</corr></choice>rupūra°</rdg>
       					<note>Fleet’s correction is tentative. </note>
       				</app>
       				
       				<app loc="25">
       					<lem>koṇḍamuruvudu°</lem>
-      					<rdg source="bib:Fleet1876_04">koṇḍamuruvu<choice><sic>d</sic><corr>ḍ</corr></choice>u°.</rdg>
+      					<rdg source="bib:Fleet1876_02">koṇḍamuruvu<choice><sic>d</sic><corr>ḍ</corr></choice>u°.</rdg>
       					<note>Fleet’s correction is tentative.</note>
       				</app>
       				
       				<app loc="26">
       					<lem>kaṇḍukūre</lem>
-      					<rdg source="bib:Fleet1876_04">k<choice><sic>a</sic><corr>e</corr></choice>ṇḍukūre</rdg>
+      					<rdg source="bib:Fleet1876_02">k<choice><sic>a</sic><corr>e</corr></choice>ṇḍukūre</rdg>
       				</app>
       				
       				<app loc="28">
       					<lem>°naiyyokā<orig>ḥ</orig></lem>
-      					<rdg source="bib:Fleet1876_04"><choice><sic>naiyyokāḥ</sic><corr>niyuktā</corr></choice></rdg>
+      					<rdg source="bib:Fleet1876_02"><choice><sic>naiyyokāḥ</sic><corr>niyuktā</corr></choice></rdg>
       					<note>See <bibl><ptr target="bib:Buehler1892_01"/><citedRange unit="page">8</citedRange><citedRange unit="note">13</citedRange></bibl><!--quote Bühler (EI 1, 8n13) propose naiyika. Cf. neyika dans IP 3.--></note>
       				</app>
       				
       				<app loc="30">
       					<lem>cārṣa-ślokāḥ</lem>
-      					<rdg source="bib:Fleet1876_04">cāpi ślokāḥ</rdg>
+      					<rdg source="bib:Fleet1876_02">cāpi ślokāḥ</rdg>
       				</app>
       				
       				<app loc="31">
       					<lem>paran</lem>
-      					<rdg source="bib:Fleet1876_04">par<choice><sic>u</sic><corr>a</corr></choice>n</rdg>
+      					<rdg source="bib:Fleet1876_02">par<choice><sic>u</sic><corr>a</corr></choice>n</rdg>
       				</app>
       				
       				<app loc="31">
       					<lem>bhūta<supplied reason="omitted">ṃ</supplied></lem>
-      					<rdg source="bib:Fleet1876_04">bhūtaṃ</rdg>
+      					<rdg source="bib:Fleet1876_02">bhūtaṃ</rdg>
       				</app>       		
       				
       				<app loc="32">
@@ -338,7 +338,7 @@
       				
       				<app loc="32">
       					<lem>para-dattāṃ vā</lem>
-      					<rdg source="bib:Fleet1876_04">para-dattā<supplied reason="omitted">ṃ</supplied> vā</rdg>
+      					<rdg source="bib:Fleet1876_02">para-dattā<supplied reason="omitted">ṃ</supplied> vā</rdg>
       					<note>The <foreign>anusvāra</foreign> at the end of <foreign>°dattāṃ</foreign> is above the next character <foreign>vā</foreign>.</note><!--Update? Read dattā vāṃ and correct to dattāṃ vā? -->
       				</app>
       				
@@ -396,7 +396,7 @@
       	<div type="commentary">
       		     		
       		<p>
-In <bibl><ptr target="bib:Fleet1876_04"/></bibl>, the numbering of plates is wrong. This edition was prepared with rubbings of Elliot’s collection and Fleet was mislead by the fact that plate 1 recto and plate 5 verso, as they were blank, were not rubbed. This was pointed to us by Andrew Grout of the Edinburgh University Library, where the plates are today kept.
+In <bibl><ptr target="bib:Fleet1876_02"/></bibl>, the numbering of plates is wrong. This edition was prepared with rubbings of Elliot’s collection and Fleet was mislead by the fact that plate 1 recto and plate 5 verso, as they were blank, were not rubbed. This was pointed to us by Andrew Grout of the Edinburgh University Library, where the plates are today kept.
       		</p>
       		<p n="18-24">
 Note the recurrent unstandard forms with <foreign>diśi</foreign>.	
@@ -411,13 +411,13 @@ Note the recurrent unstandard forms with <foreign>diśi</foreign>.
       	</div>
       	
          <div type="bibliography">
-<p>First edited by <bibl><ptr target="bib:Fleet1876_04"/></bibl> (SOCI no. 12) with facsimile and English translation; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 6); text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 3); re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs of the original plates in Edinburgh University Library (2017).
+<p>First edited by <bibl><ptr target="bib:Fleet1876_02"/></bibl> (SOCI no. 12) with facsimile and English translation; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 6); text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 3); re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs of the original plates in Edinburgh University Library (2017).
             </p>
          	
             <listBibl type="primary">
             	
             	<bibl n="JFF">
-            		<ptr target="bib:Fleet1876_04"/>
+            		<ptr target="bib:Fleet1876_02"/>
             	</bibl>
             	
             	<bibl n="TVM">
