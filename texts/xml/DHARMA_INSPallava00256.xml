@@ -165,7 +165,7 @@
          		
          		<app loc="4">
          			<lem>c<unclear>e</unclear>ḻikar</lem>
-         			<rdg source="bib:Rice1905_01">cēḻi<gap reason="undefined" quantity="1" unit="character"/><!--change @reason to undefined-->kar</rdg>
+         			<rdg source="bib:Rice1905_01">cēḻi<gap reason="undefined" quantity="1" unit="character"/>kar</rdg>
          		</app>
          		
          		<app loc="5">
@@ -186,7 +186,7 @@
          		
          		<app loc="6">
          			<lem>aḻippu <gap reason="illegible" quantity="10" unit="character" precision="low"/> pātaka <gap reason="illegible" extent="unknown" unit="character"/></lem>
-         			<rdg source="bib:Rice1905_01">aḻi <gap reason="undefined" quantity="2" unit="character"/><!--change @reason to undefined--> ṅ <gap reason="undefined" quantity="8" unit="character"/><!--change @reason to undefined--> r pāta <gap reason="undefined" quantity="13" unit="character"/><!--change @reason to undefined--></rdg>
+         			<rdg source="bib:Rice1905_01">aḻi <gap reason="undefined" quantity="2" unit="character"/> ṅ <gap reason="undefined" quantity="8" unit="character"/> r pāta <gap reason="undefined" quantity="13" unit="character"/></rdg>
          		</app>
          		         		      	         		
          	</listApp>
