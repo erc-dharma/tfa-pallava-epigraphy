@@ -95,9 +95,9 @@
          	
          	<div type="textpart" subtype="zone" n="1">
          		
-         		<p>
+         		<ab>
          			<lb n="1"/>svasti śrī
-         		</p>
+         		</ab>
          		<lg met="śārdūlavikrīḍita" n="1">
          			<l n="a">Evaṃ vāstv abhavat· mahat· pravigatan nāmnā ca jāty-ādi‡nā</l> 
          			<l n="b">yenāsmin· bahubhir yyathāgama-vidhair ggrāme prayo‡‡gānvitai<orig>ś</orig></l>
@@ -109,8 +109,10 @@
          	
          	<div type="textpart" subtype="zone" n="2">
          	
-         		<p>
-         			<lb n="1"/>svasti śrī</p>
+         		<ab>
+         			<lb n="1"/>svasti śrī
+         		</ab>
+         	   
          		<lg met="anuṣṭubh" n="2">
          			<l n="a">Asyālaṃkāra-mānañ ca</l> 
          			<l n="b">yathā lakṣaṇa-saṃyutam·</l>

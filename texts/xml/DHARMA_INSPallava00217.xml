@@ -93,9 +93,9 @@
       	<div type="edition" xml:lang="tam-Latn">
       		<!--Add <milestone unit="block" n="a"/> instead of ‡-->
       		
-      		<p>
+      		<ab>
       			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
-      		</p>
+      		</ab>
       		<p>
       			kō-vicaiya-kampa-<hi rend="grantha">varmma</hi>ṟku yāṇṭu pa‡tiṉ ain‡t-āvatu
       		</p>

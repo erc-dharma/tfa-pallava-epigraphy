@@ -104,11 +104,11 @@
       		<label xml:lang="eng">Vimāna, south and east</label>
       		<!--= lines 3-4, with line 1 on DE and line 2 on D only-->
       		
-      		<p>      					
+      		<ab>      					
       			<milestone unit="block" n="Maṇḍapa West 1"/>
       			<lb n="1"/>
       			<supplied reason="lost"><hi rend="grantha">svasti śrī</hi></supplied>
-      		</p>
+      		</ab>
       		<p>
       			nan=t<supplied reason="lost">i</supplied>-va<supplied reason="lost"><hi rend="grantha">rmma</hi>r·k=ku yāṇṭ’ i</supplied>ru patt’ eṭ·ṭ-āvatu
       		</p>

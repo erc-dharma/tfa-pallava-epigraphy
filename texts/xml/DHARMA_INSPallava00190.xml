@@ -91,9 +91,9 @@
       <body>
       	<div type="edition" xml:lang="tam-Latn">
       		<!--Add milestones for separated svasti śrī-->
-      		<p>
+      		<ab>
       			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
-      		</p>
+      		</ab>
       		<p>
       			kō-vic<choice><orig><choice><unclear>a</unclear><unclear>e</unclear></choice></orig><reg>ai</reg></choice>ya-<hi rend="grantha">nṛpa</hi>tu<hi rend="grantha">ṃ</hi>ka-vi<hi rend="grantha">krama</hi>va-<hi rend="grantha">r<unclear>·</unclear>mma</hi>ṟku yāṇṭu Irupattāṟāvatu
       		</p>
