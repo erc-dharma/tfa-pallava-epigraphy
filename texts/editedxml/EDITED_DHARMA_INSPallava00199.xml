@@ -93,9 +93,9 @@
       <body>
          <div type="edition" xml:lang="tam-Latn">
             <!--Add milestones for blocks: replace ‡ by markup-->
-         	<p>
+         	<ab>
          		<lb n="1"/><hi rend="grantha"><unclear>sva</unclear>sti śrī</hi>
-         	</p>
+         	</ab>
          	<p>
          		kō-vic<choice><unclear>a</unclear><unclear>ai</unclear></choice>‡ya-kampava<hi rend="grantha"><unclear>r</unclear>mma</hi>ṟku yāṇṭ’ āṟ-āvatu
          	</p>

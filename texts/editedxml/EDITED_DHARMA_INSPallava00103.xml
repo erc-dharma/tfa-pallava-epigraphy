@@ -93,8 +93,9 @@
       <body>
          <div type="edition" xml:lang="tam-Latn">
             
-         	<p>
-         		<lb n="1"/><hi rend="grantha">svasti śrī</hi></p>
+         	<ab>
+         		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+         	</ab>
          	<p>
          		kō-vic<choice><orig>a</orig><reg>ai</reg></choice>ya-tanti-vikkirama-parumaṟku yāṇṭu patt-āvatu
          	</p>

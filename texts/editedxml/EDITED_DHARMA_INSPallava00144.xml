@@ -94,10 +94,10 @@
   <body>
   	<div type="edition" xml:lang="tam-Latn">
   		
-  		<p>
+  		<ab>
   			<milestone unit="face" n="A"/>  			
   			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
-  		</p>            	
+  		</ab>            	
   		<p>
   			nanti
   			<lb n="2" break="no"/>ppō<supplied reason="omitted">t</supplied>taraiyark

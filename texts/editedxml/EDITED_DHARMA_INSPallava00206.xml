@@ -92,9 +92,9 @@
       	
       	<div type="edition" xml:lang="tam-Latn">
       		<!--Add milestones for blocks-->
-      		<p>
+      		<ab>
       			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
-      		</p>
+      		</ab>
       		<p>	
       			kō-vic<choice><orig>a</orig><reg>&gt;ai</reg></choice>ya-kampa-vik<choice><sic><hi rend="grantha">kri</hi></sic><corr>ki</corr></choice>rama-parumarkku yāṇṭu Eṭṭ-āvatu
       		</p>

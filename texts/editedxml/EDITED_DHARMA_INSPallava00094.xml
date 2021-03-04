@@ -90,17 +90,22 @@
       <body>
 
          <div type="edition" xml:lang="tam-Latn">
+            
+            <ab>
+               <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+            </ab> 
+            
             <p>
-<lb n="1"/><hi rend="grantha">svasti śrī</hi> nanti-p
-<lb n="2" break="no"/>pōttaraiyar koṭukka-p-pi
-<lb n="3" break="no"/>ḷḷaika<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>ukku Uḻalū<choice><orig>rr</orig><reg>r</reg></choice> <choice><sic>u</sic><corr>ū</corr></choice>rār makaḷmai paṭi	
-<lb n="4"/>perumāṉaṭika<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>ukku viṇṇappañ ce<lb n="5" break="no"/>ytu <hi rend="grantha">sa<unclear>r</unclear>vva</hi>-pari<hi rend="grantha">hā</hi>ram koṇṭu koṭu		
-<lb n="6" break="no"/>ttōm mēlālum koṭukka-p-pi
-<lb n="7" break="no"/><choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>aika<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice> itu k<unclear>ā</unclear>tt<unclear>ā</unclear>r Aṭi muṭi mēliṉa
-<lb n="8"/>koṭukka-p-piḷḷaikaḷ paṇiyāl mā
-<lb n="9" break="no"/>ṇikka-p-paṇṭāraṅ-kāppāṉ	
-<lb n="10"/>ciṅkaḷamey<surplus>ar</surplus>-kāppaṉ Arituṭṭa	
-<lb n="11" break="no"/>ṉ vantu ceyvittatu
+               nanti-p
+               <lb n="2" break="no"/>pōttaraiyar koṭukka-p-pi
+               <lb n="3" break="no"/>ḷḷaika<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>ukku Uḻalū<choice><orig>rr</orig><reg>r</reg></choice> <choice><sic>u</sic><corr>ū</corr></choice>rār makaḷmai paṭi	
+               <lb n="4"/>perumāṉaṭika<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>ukku viṇṇappañ ce<lb n="5" break="no"/>ytu <hi rend="grantha">sa<unclear>r</unclear>vva</hi>-pari<hi rend="grantha">hā</hi>ram koṇṭu koṭu		
+               <lb n="6" break="no"/>ttōm mēlālum koṭukka-p-pi
+               <lb n="7" break="no"/><choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>aika<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice> itu k<unclear>ā</unclear>tt<unclear>ā</unclear>r Aṭi muṭi mēliṉa
+               <lb n="8"/>koṭukka-p-piḷḷaikaḷ paṇiyāl mā
+               <lb n="9" break="no"/>ṇikka-p-paṇṭāraṅ-kāppāṉ	
+               <lb n="10"/>ciṅkaḷamey<surplus>ar</surplus>-kāppaṉ Arituṭṭa	
+               <lb n="11" break="no"/>ṉ vantu ceyvittatu
             </p>
          </div>
 

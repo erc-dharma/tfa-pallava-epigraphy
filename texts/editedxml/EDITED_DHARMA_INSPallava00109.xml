@@ -93,8 +93,8 @@
       <body>
          <div type="edition" xml:lang="tam-Latn">
             <!--Add milestones for blocks-->
-         	<p>
-         		<lb n="1"/><hi rend="grantha"><unclear>sva</unclear>sti śrī</hi></p>
+         	<ab>
+         		<lb n="1"/><hi rend="grantha"><unclear>sva</unclear>sti śrī</hi></ab>
          	<p>
          		<hi rend="grantha">da</hi>n=ti-vi<hi rend="grantha"><unclear>kra</unclear></hi>ma-pa<hi rend="grantha">rmma</hi><supplied reason="omitted">r</supplied>kku yāṇṭu Irupatt’ oṉṟ-āvatu nāḷ nūṟṟu Iru-pattu Iraṇṭu
          	</p>
