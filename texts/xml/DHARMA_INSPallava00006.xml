@@ -6,91 +6,89 @@
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Uruvupalli grant, time of Siṃhavarman, year 11</title>
-            <respStmt>
-               <resp>EpiDoc encoding</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
-                  <surname>Francis</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
-                  <surname>Francis</surname>
-               </persName>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <authority>DHARMA</authority>
-            <pubPlace>Paris, CEIAS</pubPlace>
-            <idno type="filename">DHARMA_INSPallava00006</idno>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
-                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Uruvupalli grant, time of Siṃhavarman, year 11</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">DHARMA_INSPallava00006</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
 							Licence. To view a copy of the licence, visit
 							https://creativecommons.org/licenses/by/4.0/ or send a letter to
 							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 							California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Sylvain Brocquet &amp; Emmanuel Francis.</p>
-               </licence>
-            </availability>
-            <date from="2019" to="2025">2019-2025</date>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc>
-               <msIdentifier>
-                  <repository>DHARMAbase</repository>
-                  <idno/>
-               </msIdentifier>
-               <msContents>
-                  <summary>Grant (<foreign>deva-bhoga</foreign>), with the eigteen exemptions,
+						<p>Copyright (c) 2019-2025 by Sylvain Brocquet &amp; Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Grant (<foreign>deva-bhoga</foreign>), with the eigteen exemptions,
 							of the village of Uruvupalli to the temple (<foreign>devakula</foreign>)
 							of Viṣṇuhāradeva, built by the general Viṣṇuvarman, at Kaṇḍukūra, for
 							the increase of life and force.</summary>
-               </msContents>
-               <physDesc>
-                  <handDesc>
-                     <p>The <foreign>virāma</foreign> is sometimes oddly located.</p>
-                  </handDesc>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>This project DHARMA has received funding from the European Research Council (ERC)
-                        under the European Union's Horizon 2020 research and innovation programme (grant
-                        agreement no 809994).</p>
-         </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-         <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
-                            ERC-DHARMA whose data are open to the public.</p>
-            </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-               <p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
-            </prefixDef>
-         </listPrefixDef>
-      </encodingDesc>
-      <revisionDesc>
-         <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
-         <change who="part:emfr" when="2020-03-29" status="draft">Creation of the file</change>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:space="preserve">
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p>The <foreign>virāma</foreign> is sometimes oddly located.</p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>This project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union's Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
+							<ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding
+				template v03</change>
+			<change who="part:emfr" when="2020-03-29" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
       <body>
 
 <div type="edition" xml:lang="tam-Latn">
@@ -368,7 +366,7 @@
       		<p n="9-17">Śrī-Viṣṇugopavarman, Prince Héritier des Pallava selon le <foreign>dharma</foreign>, qui se rendirent maîtres des richesses et des palais des autres rois, vaincus par leur valeur, et accomplirent selon les rites le sacrifice du cheval - lui-même dont la réelle dévotion envers le Bienheureux engendre pour tous la prospérité, qu’un voeu sincère pour toujours consacre avec zèle au bonheur et à la sécurité de ses sujets, qu’illustre la gloire d’avoir, dans plus d’un combat, remporté la victoire en écrasant la témérité, qui, à chaque instant, est prêt à soutenir le <foreign>dharma</foreign> que ruinent les péchés de l’âge Kali, qui souhaite conquérir l’ensemble des vertus des rois ascètes, qui souhaite conquérir le <foreign>dharma</foreign>, qui jouit de la faveur des pieds du Bienheureux, qui offre sa dévotion aux pieds de Bappa, l’illustre Grand Roi, qui se montre un sectateur passionné du Bienheureux, et qui appartient au <foreign>gotra</foreign> de Bharadvāja, ordonne qu’on adresse aux villageois d’Uruvupalliya, dans le Muṇḍa-rāṣṭra, ce commandement de sa bouche:</p>
       		
       		<p> lines 17-18: etasmin grāmasīme dviśataṃ sima-nivarttanāni; Dans les limites de ce village, se trouvent 200 nivartana &gt;&gt;&gt; Dans les limites de ce village, il y a en tout (sima-) deux cents nivartana. As we have sima and not sīma!</p>
-
+<!--check translation: 2 fois le même §; conflit de versions?-->
       		<p n="18-25">"Dans les limites de ce village, se trouvent 200 <foreign>nivartana</foreign> [[A MODIFIER: etasmin grāmasīme dviśataṃ sima-nivarttanāni;&gt;&gt;&gt; Dans les limites de ce village, il y a en tout (sima-) deux cents nivartana. As we have sima and not sīma!]]; de ces <foreign>nivartana</foreign>, voici les limites : à l’ouest, la limite sera la frontière du village de Kaṇḍukūra. Au Sud, la rivière Suprayoga servira de limite. A l’Est, la limite sera la suivante : du sud-est vers le Nord, le rocher qui se trouve au bord de la grand-route; en allant vers le nord de celui-ci, le tamarinier; en allant encore vers le Nord, le rocher qui se trouve sur le chemin des villages de Karupūra et de Kaṇḍukūra; en allant encore plus vers le Nord, le tas de pierres; en allant vers le nord à partir de là, le rocher qui se trouve à la limite du champ cultivé appartenant aux brahmanes du village de Karupūra. Au Nord, la limite sera le grand tamarinier entouré d’un tas de pierres; à partir de là et en allant vers l’ouest, la frontière du village de Koṇḍamuruvuḍu fera office de limite.</p>
       		<p n="25-28">Ces 200 <foreign>nivartana</foreign> d’un terrain situé entre ces quatre limites, nous en faisons don, après les avoir convertis en <foreign>deva-bhoga</foreign> et assortis des dix-huit sortes d’exemption, au temple de Viṣṇuhāradeva, édifié par le général Viṣṇuvarman, à Kaṇḍukūra - pour l’accroissement de la durée de notre vie et celui de notre puissance.</p>
       		<p n="28-29">Que par conséquent tous les <foreign>āyuktaka</foreign>, tous les <foreign>niyukta</foreign> [[A MODIFIER: le texte est sarvva-naiyyokā¡ḥ!]], les <foreign>rāja-vallabha</foreign> et les <foreign>sañcarantaka</foreign> se rendent dans cette province [[A MODIFIER: tad avagamya]], respectent et fassent respecter ce terrain, avec toutes ses exemptions.</p>
