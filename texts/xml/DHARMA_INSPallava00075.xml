@@ -134,29 +134,29 @@
       			
       			<app loc="3">
       				<lem>subrahmaṇya<unclear>ṉ</unclear></lem>
-      				<rdg source="bib:Butterworth+VenugopaulChetty1905_01 Mahalingam1960_03 Mahalingam1988_01">subrahmaṇya<unclear>n</unclear></rdg>
+      				<rdg source="bib:Butterworth+VenugopaulChetty1905_01 bib:Mahalingam1960_03 bib:Mahalingam1988_01">subrahmaṇya<unclear>n</unclear></rdg>
       			</app>
       			
       			<app loc="4">
       				<lem>poṉ</lem>
-      				<rdg source="bib:Butterworth+VenugopaulChetty1905_01 Mahalingam1960_03">pon</rdg>
+      				<rdg source="bib:Butterworth+VenugopaulChetty1905_01 bib:Mahalingam1960_03">pon</rdg>
       				<rdg source="bib:Mahalingam1988_01">pon</rdg>
       			</app>
       			
       			<app loc="4">
       				<lem><unclear>-ka</unclear><lb n="5" break="no"/><unclear>ḻa</unclear>ñ<unclear>c</unclear>i<unclear>ṉ-u</unclear>ḷḷum</lem>
       				<rdg source="bib:Butterworth+VenugopaulChetty1905_01"><unclear>-ka</unclear><lb n="5" break="no"/>ḻañci <unclear>ko</unclear>ḷḷum</rdg>
-      				<rdg source="bib:Mahalingam1960_03 Mahalingam1988_01"><unclear>-ka</unclear><lb n="5" break="no"/>ḻañci<unclear>ṉ-u</unclear>ḷḷum</rdg>
+      				<rdg source="bib:Mahalingam1960_03 bib:Mahalingam1988_01"><unclear>-ka</unclear><lb n="5" break="no"/>ḻañci<unclear>ṉ-u</unclear>ḷḷum</rdg>
       			</app>
       			
       			<app loc="5">
       				<lem>aṭ<unclear>ṭuvitta-k</unclear></lem>
-      				<rdg source="bib:Butterworth+VenugopaulChetty1905_01 Mahalingam1960_03 Mahalingam1988_01">aṭ<unclear>ṭuvitta</unclear></rdg>
+      				<rdg source="bib:Butterworth+VenugopaulChetty1905_01 bib:Mahalingam1960_03 bib:Mahalingam1988_01">aṭ<unclear>ṭuvitta</unclear></rdg>
       			</app>
       			
       			<app loc="6">
       				<lem>viḷak·k-<supplied reason="lost">avi</supplied><lb n="7" break="no"/>-<unclear>p</unclear></lem><!--display issue: there is a space before editorial hyphen--><!-- Do you mean this space [avi-] -(p)? -->
-      				<rdg source="bib:Butterworth+VenugopaulChetty1905_01 Mahalingam1988_01">viḷakka<gap reason="illegible" quantity="3" unit="character" precision="low"/><lb n="7" break="no"/>-<unclear>p</unclear></rdg>
+      				<rdg source="bib:Butterworth+VenugopaulChetty1905_01 bib:Mahalingam1988_01">viḷakka<gap reason="illegible" quantity="3" unit="character" precision="low"/><lb n="7" break="no"/>-<unclear>p</unclear></rdg>
       				<rdg source="bib:Mahalingam1960_03">viḷak·k-<supplied reason="lost">avi</supplied><lb n="7" break="no"/>-<unclear>p</unclear></rdg>
       			</app>
       			

@@ -160,19 +160,7 @@
                   <rdg source="bib:Mahalingam1988_01">ca<supplied reason="undefined">ṉṉa</supplied>-c</rdg>
                   <!--<supplied reason="undefined"> not displayed-->
                </app>
-               <app loc="1">
-                  <lem/>
-                  <rdg source="bib:AuthorYear_01"/>
-               </app>
-               <app loc="1">
-                  <lem/>
-                  <rdg source="bib:AuthorYear_01"/>
-               </app>
-               <app loc="1">
-                  <lem/>
-                  <rdg source="bib:AuthorYear_01"/>
-               </app>
-               
+                             
             </listApp>
             
          </div>

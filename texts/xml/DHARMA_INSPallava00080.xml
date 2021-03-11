@@ -201,30 +201,30 @@
       			
       			<app loc="1">
       				<lem><supplied reason="lost">yāṇṭ’ i</supplied>ru patt’ eṭ·ṭ-āvatu</lem>
-      				<rdg source="bib:KrishnaSastri1923_03"><gap reason="lost" unit="character" quantity="3"/>patt’ eṭ·ṭ-āvatu</rdg>
+      				<rdg source="bib:KrishnaSastri1923_01"><gap reason="lost" unit="character" quantity="3"/>patt’ eṭ·ṭ-āvatu</rdg>
       				<note>The restoration <foreign>°va<supplied reason="lost"><hi rend="grantha">rmma</hi>ṟ·ku</supplied></foreign> is also possible, but see <foreign>-<hi rend="grantha">de</hi>var·k=ku</foreign> in the same line.</note>
       			</app>
       			
       			<app loc="2">
       				<lem>tatta<hi rend="grantha">śi</hi>vaṉu<supplied reason="omitted">kku</supplied><unclear reason="eccentric_ductus">m·</unclear></lem>
-      				<rdg source="bib:KrishnaSastri1923_03"><unclear>tatta</unclear><hi rend="grantha">śi</hi>vanum</rdg>
+      				<rdg source="bib:KrishnaSastri1923_01"><unclear>tatta</unclear><hi rend="grantha">śi</hi>vanum</rdg>
       				<note>The final <foreign>m·</foreign> looks like <foreign>ru</foreign>, but the vertical stroke is too short to be <foreign>r</foreign>.</note>
       			</app>		      		
       			      		
       			<app loc="3">
       				<lem>vācat·ti</lem>
-      				<rdg source="bib:KrishnaSastri1923_03"><hi rend="grantha">su</hi>cat·ti</rdg>
+      				<rdg source="bib:KrishnaSastri1923_01"><hi rend="grantha">su</hi>cat·ti</rdg>
       				<note>Krishna Sastri reads anachronistically a later form of Grantah <foreign><hi rend="grantha">su</hi></foreign>.</note>
       			</app>
       			
       			<app loc="3">
       				<lem>nīlī</lem>
-      				<rdg source="bib:KrishnaSastri1923_03">nili</rdg>
+      				<rdg source="bib:KrishnaSastri1923_01">nili</rdg>
       			</app>
       			
       			<app loc="3">
       				<lem><hi rend="grantha">bahu</hi>va<hi rend="grantha"><unclear>ḷa</unclear></hi><unclear>kāmi</unclear></lem>
-      				<rdg source="bib:KrishnaSastri1923_03"><hi rend="grantha">ba</hi><hi rend="grantha"><unclear>hu</unclear></hi><unclear>va</unclear><hi rend="grantha"><unclear>ḷa</unclear></hi>kāmi</rdg>
+      				<rdg source="bib:KrishnaSastri1923_01"><hi rend="grantha">ba</hi><hi rend="grantha"><unclear>hu</unclear></hi><unclear>va</unclear><hi rend="grantha"><unclear>ḷa</unclear></hi>kāmi</rdg>
       			</app>
       			
       			<app loc="4">
@@ -234,13 +234,13 @@
       			
       			<app loc="4">
       				<lem>kut=tikaḷai <choice><unclear>p</unclear><unclear>m</unclear></choice>eyitu</lem><!--check!-->
-      				<rdg source="bib:KrishnaSastri1923_03">kut=tika<unclear>ḷai</unclear>meytu</rdg>
+      				<rdg source="bib:KrishnaSastri1923_01">kut=tika<unclear>ḷai</unclear>meytu</rdg>
       				<note><!--Add note on reading.--></note>
       			</app>
       			
       			<app loc="4">
       				<lem>Ip-paṉṉiruva<supplied reason="omitted">ru</supplied>m ēṟṟi</lem><!--check!-->
-      				<rdg source="bib:KrishnaSastri1923_03">Ip-paṉṉiru<unclear>var ē</unclear>ṟṟi</rdg>
+      				<rdg source="bib:KrishnaSastri1923_01">Ip-paṉṉiru<unclear>var ē</unclear>ṟṟi</rdg>
       				<note><!--Add note on reading.--></note>
       			</app>     	
       			      		</listApp>
@@ -281,7 +281,7 @@
       		<listBibl type="primary">
                
             	<bibl n="HKS">
-            		<ptr target="bib:KrishnaSastri1923_03"/>
+            		<ptr target="bib:KrishnaSastri1923_01"/>
             		<citedRange unit="page">285-286</citedRange>
             		<citedRange unit="item">827</citedRange>
             		<citedRange unit="plate">IX</citedRange>
