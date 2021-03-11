@@ -111,12 +111,12 @@
 
          <div type="apparatus">
 
-         	<listApp>
+         	<!--<listApp>
          		<app loc="10">
          			<lem>ciṅkaḷamey<surplus>ar</surplus>°</lem>
-         			<rdg source="bib:AuthorYear_01">ciṅkaḷameyā/ciṅkaḷameyā?<!--Update!--></rdg> 
+         			<rdg source="bib:AuthorYear_01">ciṅkaḷameyā/ciṅkaḷameyā?<!-\-Update!-\-></rdg> UPDATE bib:
          		</app>
-         	</listApp>
+         	</listApp>-->
 
          </div>
 

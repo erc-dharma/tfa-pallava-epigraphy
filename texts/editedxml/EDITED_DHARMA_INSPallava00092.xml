@@ -219,7 +219,7 @@
                               
                <app loc="10">
                   <lem><gap reason="lost" quantity="2" unit="character" precision="low"/><lb n="11"/>ṉ</lem>
-                  <rdg source="bib:KrishnaSastri1926_01 Lockwood+al2001_01"><gap reason="lost" quantity="2" unit="character" precision="low"/><lb n="11"/>ṉ</rdg>
+                  <rdg source="bib:KrishnaSastri1926_01 bib:Lockwood+al2001_01"><gap reason="lost" quantity="2" unit="character" precision="low"/><lb n="11"/>ṉ</rdg>
                   <note><ptr target="bib:KrishnaSastri1926_01"/> suggests restoring <foreign>kōṉ</foreign>.</note>
                   <!--Undesirable space before and after slash-->
                </app>
@@ -269,7 +269,7 @@
                               
                <app loc="19">
                   <lem>pa<lb n="20" break="no"/><gap reason="lost" unit="character" quantity="1" precision="low"/>nappāṭi-</lem>
-                  <rdg source="bib:KrishnaSastri1926_01 Lockwood+al2001_01">pa<lb n="20" break="no"/>nappāṭi-</rdg>
+                  <rdg source="bib:KrishnaSastri1926_01 bib:Lockwood+al2001_01">pa<lb n="20" break="no"/>nappāṭi-</rdg>
                </app>
                
                <app loc="21">

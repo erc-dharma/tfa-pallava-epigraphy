@@ -286,7 +286,7 @@ First edited by <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with facsimile 
          	<listBibl type="secondary">
          		
          		<bibl n="ARIE1889-1890">
-         			<ptr target="bib:ARIE1889-1890"/>
+         			<ptr target="bib:ARIE1889-1890_01"/> <!--CHECK "_01"-->
          			<citedRange unit="page">5</citedRange>
          			<citedRange unit="appendix">A/1899</citedRange>
          			<citedRange unit="item">76</citedRange>

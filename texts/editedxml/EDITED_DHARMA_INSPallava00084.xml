@@ -175,12 +175,12 @@
                <app loc="8">
                   <lem>vaittu-k</lem>
                   <rdg source="bib:Sampath1968_01">vaitta <surplus>t</surplus></rdg>
-                  <rdg source="bib:Mahalingam1988_01 Dayalan2005_01">vaittu-k</rdg>
+                  <rdg source="bib:Mahalingam1988_01 bib:Dayalan2005_01">vaittu-k</rdg>
                </app>      	
                               
                <app loc="8">
                   <lem>paṭā<lb n="9" break="no"/>rakku</lem>
-                  <rdg source="bib:Sampath1968_01 Mahalingam1988_01">paṭā<lb n="9" break="no"/>rakku</rdg>
+                  <rdg source="bib:Sampath1968_01 bib:Mahalingam1988_01">paṭā<lb n="9" break="no"/>rakku</rdg>
                   <rdg source="bib:Dayalan2005_01">pa<lb n="9" break="no"/>
                      <gap reason="undefined" quantity="9" unit="character"/>
                      tārarkku</rdg>
