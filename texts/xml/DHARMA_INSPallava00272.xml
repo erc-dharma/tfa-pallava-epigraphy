@@ -52,7 +52,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>Note the epenthetic <foreign>u</foreign> for final <foreign>r</foreign> of words.</p>
+							<p>Note the epenthetic <foreign>u</foreign> for <foreign>r</foreign> at the end of words.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -96,8 +96,8 @@
 	<p>
 		mīkoṉ
 		<lb n="3" break="no"/>ṟai-nāṭṭu per<choice><orig>u</orig><reg>um</reg></choice>-puḷi-<choice><orig>Ū</orig><reg>y-ū</reg></choice>r tol-<unclear>tē</unclear>
-		<lb n="4" break="no"/>va<choice><orig>ru</orig><reg>r</reg></choice> cuṭṭa ñāṉṟu maṟu Atiraica
-		<lb n="5" break="no"/><choice><orig>ru</orig><reg>r</reg></choice> cēvakaṉ katavacātta<supplied reason="omitted">ṉ</supplied> paṭṭāṉ
+		<lb n="4" break="no"/>va<choice><orig>ru</orig><reg>r</reg></choice> cuṭṭa ñāṉṟu maṟu-Atiraica
+		<lb n="5" break="no"/><choice><orig>ru</orig><reg>r</reg></choice> cēvakaṉ katava-cātta<supplied reason="omitted">ṉ</supplied> paṭṭāṉ
 	</p>
          	         	
          </div>
@@ -112,7 +112,7 @@
          		</app>
          		<app loc="1">
          			<lem>°tirumāṉi<choice><sic>l</sic><corr>ṟ</corr></choice>ku</lem>
-         			<note>That is <foreign>tirumāṉ</foreign> + infix <foreign>iṉ</foreign> + dative case <foreign>ku</foreign>.</note>
+         			<note>That is, <foreign>tirumāṉ</foreign> + infix <foreign>iṉ</foreign> + dative case <foreign>ku</foreign>.</note>
          		</app>
          	</listApp>
 
@@ -120,8 +120,8 @@
 
       	<div type="translation" resp="part:emfr">
       		
-      		<p n="1-2">Twenty-first year of Cōmaci-kō-tirumāṉ<note>Note on the meaning of Cōmaci-kō-tirumāṉ.</note></p>
-      		<p n="2-5">Katavacāttaṉ, the servant of Maṟu Atiraicar, died, when Tol Tēvar of Perumpuḷiyūr in Mīkoṉṟai-nāṭu attacked <supplied reason="explanation"><foreign>cuṭṭa</foreign><note>Note on the meaning of this word.</note></supplied>  <supplied reason="subaudible">him</supplied>
+      		<p n="1-2">Twenty-first year of Cōmaci-kō-tirumāṉ<note><!--Update!-->Note on the meaning of Cōmaci-kō-tirumāṉ.</note>.</p>
+      		<p n="2-5">Katavacāttaṉ, the servant of Maṟu Atiraicar, died, when Tol Tēvar of Perumpuḷiyūr in Mīkoṉṟai-nāṭu attacked <supplied reason="explanation"><foreign>cuṭṭa</foreign><note><!--Update!-->Note on the meaning of this word.</note></supplied>  <supplied reason="subaudible">him</supplied>.
       		</p>
       		
       	</div>
@@ -137,7 +137,7 @@
          <div type="bibliography">
 
             <p>
-            	First edited by <bibl><ptr target="bib:Nākacāmi1972_01"/></bibl> (CN 1971/62); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 272); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous edition.           	
+            	First edited by <bibl><ptr target="bib:Nākacāmi1972_01"/></bibl> (CN 1971/62); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 272); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous editions.           	
             </p>
          	
             	<listBibl type="primary">

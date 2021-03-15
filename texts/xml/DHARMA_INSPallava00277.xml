@@ -52,7 +52,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>Note the epenthetic <foreign>u</foreign> for final <foreign>r</foreign> of words.</p>
+							<p>Note the epenthetic <foreign>u</foreign> for <foreign>r</foreign> at the end of words.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -116,7 +116,9 @@
          		</app>
          		<app loc="8">
          			<lem>rārāṟṟū</lem>
-         			<note>Reading difficult to make sense of. The final <foreign>ū</foreign> should probably be corrected to <foreign>u</foreign>. </note>
+         			<rdg source="bib:Nākacāmi1972_01">rārāṟṟū</rdg>
+         			<rdg source="bib:Mahalingam1988_01">rārāṟṟu</rdg>
+         			<note>Reading difficult to make sense of. The reading <foreign>rārāṟṟu</foreign> by <ptr target="bib:Mahalingam1988_01"/> is apparently a typographical error as he gives Rārāṟṟūr in his summary.</note>
          		</app>
          	</listApp>
 
@@ -129,7 +131,7 @@
       		</p>
       		
       		<p n="2-5">
-      			<supplied reason="subaudible">This is</supplied> the stone of Kuṉṟakkaṇṇiyār, who ruled <seg cert="low">Rārāṟṟu</seg>, he who fell fighting/attacking, <supplied reason="subaudible">as</supplied> a servant of Kaṅkaraicar<note>That is, the Gaṅga king</note>, when Poṉṉantiyār attacked Perumukai along with Kaṅkaraicar <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>pavvatu</foreign></supplied> and the people of Kaṅkaraicar. <!--Update: translation of pavvatu???-->
+      			<supplied reason="subaudible">This is</supplied> the stone of Kuṉṟakkaṇṇiyār, who ruled <seg cert="low">Rārāṟṟūr</seg>, he who fell fighting/attacking, <supplied reason="subaudible" cert="low">as</supplied> a servant of Kaṅkaraicar<note>That is, the Gaṅga king</note>, when Poṉṉantiyār attacked Perumukai along with Kaṅkaraicar <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>pavvatu</foreign></supplied> and the people of Kaṅkaraicar. <!--Update: translation of pavvatu???-->
       		</p>
       		
       	</div>
