@@ -9,7 +9,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Toraippāṭi hero-stone, time of Mahendravarman, year unclear</title>
+            <title>Taṇṭampaṭṭu hero-stone, time of Mahendravarman, year 18</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -28,7 +28,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris, CEIAS</pubPlace>
-            <idno type="filename">DHARMA_INSPallava00277</idno>
+            <idno type="filename">DHARMA_INSPallava00279</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -83,58 +83,47 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:emfr" when="2021-03-15" status="draft">Creation of the file</change>
+         <change who="part:emfr" when="2021-03-16" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
 
-      	<div type="edition" xml:lang="tam-Latn">
-      		
-      		<p>
-      			<lb n="1"/>kō-vicaiya-mayēntira
-      			<lb n="2" break="no"/>parumaṟku <unclear>ṟaṇṇu</unclear>-Āvatu
-      		</p>
-      		
-      		<p>
-      			ka
-      			<lb n="3" break="no"/>ṅkaraicar-ōṭu pavvatu kaṅ
-      			<lb n="4" break="no"/>karaicaru makkaḷ poṉ
-      			<lb n="5" break="no"/>ṉantiyāru peru-mukai
-      			<lb n="6"/>eṟinta ñāṉṟu kaṅka
-      			<lb n="7" break="no"/>raicaru cēvakaru Eṟintu
-      			<lb n="8"/>paṭṭāru rārāṟṟū Āṇṭa
-      			<lb n="9"/>kuṉṟa-k-kaṇṇiyār
-      			<lb n="10"/>kal
+<div type="edition" xml:lang="tam-Latn">
+	
+	<p>
+		<lb n="1"/>kō-vicaiya-mayīntira-paru
+		<lb n="2" break="no"/>maṟku patiṉ Eṭṭ-āvatu		
 	</p>
-         	         	
+	
+	<p>
+		mī
+		<lb n="3" break="no"/>-vēṇāṭṭu Āntai-pāṭi Īcai
+		<lb n="4"/>perum-pāṇaraicaru maru-makkaḷ
+		<lb n="5"/>poṟ-cēntiyāñ cēvakaru toṟu
+		<lb n="6" break="no"/>-k-koṇṭa ñāṉṟu mīṭṭu paṭṭā
+		<lb n="7" break="no"/>ṉ <unclear>vē</unclear>ṇāṭ<unclear>ṭu</unclear> nanti
+		<lb n="8" break="no"/><unclear>yār</unclear> kal ka<gap reason="undefined" quantity="2" unit="character"/>
+	</p>
+	
          </div>
 
          <div type="apparatus">
 
          	<listApp>
-         		<app loc="2">
-         			<lem><unclear>ṟaṇṇu</unclear>-Āvatu</lem>
-         			<note>Reading difficult to make sense of. This is a year in the twenty according to <ptr target="bib:Nākacāmi1972_01"/>. This is the first year according to <ptr target="bib:Deshpande1975_01"/>.</note>
-         		</app>
          		<app loc="8">
-         			<lem>rārāṟṟū</lem>
-         			<rdg source="bib:Nākacāmi1972_01">rārāṟṟū</rdg>
-         			<rdg source="bib:Mahalingam1988_01">rārāṟṟu</rdg>
-         			<note>Reading difficult to make sense of. The reading <foreign>rārāṟṟu</foreign> by <ptr target="bib:Mahalingam1988_01"/> is apparently a typographical error as he gives Rārāṟṟūr in his summary.</note>
+         			<lem>ka<gap reason="undefined" quantity="2" unit="character"/></lem>
+         			<note><ptr target="bib:Mahalingam1988_01"/> suggests these are to be read in continuation with line 7.</note>
          		</app>
+         		
          	</listApp>
 
          </div>
 
       	<div type="translation" resp="part:emfr">
       		
-      		<p n="1-2">
-      			<seg cert="low">Twenty-<gap reason="ellipsis"/></seg> <supplied reason="explanation"><foreign>ṟaṇṇu</foreign></supplied> <supplied reason="subaudible">year</supplied> of the victorious king Mahendravarman<note>Mayēntiraparumaṉ in the original Tamil.</note>.
-      		</p>
-      		
-      		<p n="2-10">
-      			<supplied reason="subaudible">This is</supplied> the stone of Kuṉṟakkaṇṇiyār, who ruled <seg cert="low">Rārāṟṟūr</seg>, he who fell fighting/attacking, <supplied reason="subaudible" cert="low">as</supplied> a servant of Kaṅkaraicar<note>That is, the Gaṅga king</note>, when Poṉṉantiyār attacked Perumukai along with Kaṅkaraicar <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>pavvatu</foreign></supplied> and the people of Kaṅkaraicar. <!--Update: translation of pavvatu???-->
+      		<p n="1-2">Seventeenth <supplied reason="subaudible">year</supplied> of the victorious king Mahendravarman<note>Mayīntiraparumaṉ in the original Tamil.</note>.</p>
+      		<p n="2-8"><supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> Nantiyār of Vēṇāṭu, he who fell rescuing <supplied reason="explanation"><foreign>mīṭṭu</foreign></supplied> <supplied reason="subaudible">cattle</supplied> when the servant of Poṟcēntiyāṉ, the nephew of Īcai Perumpāṇaraicar <supplied reason="subaudible">of</supplied> Āntaipāṭi in Mīvēṇāṭu, seized cattle.
       		</p>
       		
       	</div>
@@ -144,39 +133,40 @@
          </div>
 
          <div type="commentary">
-         	<p>Kaṅkaraicar: rather than a proper name, a generic title?</p>
+         	
          </div>
 
          <div type="bibliography">
 
             <p>
-            	First edited by <bibl><ptr target="bib:Nākacāmi1972_01"/></bibl> (CN 1971/33); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 277); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous edition.           	
+            	First edited by <bibl><ptr target="bib:Nākacāmi1972_01"/></bibl> (CN 1971/77); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 279); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous editions.           	
             </p>
          	
             	<listBibl type="primary">
         		
         		<bibl n="RN">
         			<ptr target="bib:Nākacāmi1972_01"/>
-        			<citedRange unit="item">1971/33</citedRange>
+        			<citedRange unit="item">1971/77</citedRange>
         		</bibl>
         		
         		<bibl n="TVM">
          			<ptr target="bib:Mahalingam1988_01"/>
-         			<citedRange unit="page">664</citedRange>
-         			<citedRange unit="item">277</citedRange>
+         			<citedRange unit="page">667</citedRange>
+         			<citedRange unit="item">279</citedRange>
          		</bibl>
         		        		        		
         	</listBibl>
         	
-        	<listBibl type="secondary">
+        	<!--<listBibl type="secondary">
         		
-        		<bibl n="D"><!--Check Zotero encoding: IAR-->
+        		<bibl n="D"><!-\-Check Zotero encoding: IAR-\->
         			<ptr target="bib:Deshpande1975_01"/>
-        			<citedRange unit="page">59</citedRange>
-        			<citedRange unit="item">40</citedRange>
+        			<citedRange unit="page">58</citedRange>
+        			<citedRange unit="item">37</citedRange>
         		</bibl>
         		
-        	</listBibl>
+        	</listBibl>-->
+         	<!--Check if mentioned in IAR-->
 
          </div>
 
