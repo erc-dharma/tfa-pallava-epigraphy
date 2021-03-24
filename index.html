@@ -48,7 +48,7 @@
         width: 100%;
         flex: 1 1;
       }
-    
+
       </style>
   </head>
   <body>
@@ -63,6 +63,24 @@
       </ul>
     </div>
     <script>
+      // Render search result list
+      const updateList = (data, filter = '') => {
+        let htmlString = '';
+        for (let file of data.filter(filterFiles(filter)).sort(sortFiles(filter))) {
+          const fileName = file.path.replace('.html', '');
+          const fileDisplayName = fileName.split('-').join(' ');
+          htmlString += `<li><a href="${fileName}">${fileDisplayName}</a></li>`;
+        }
+        document.getElementById('list').innerHTML = htmlString;
+      }
+      // Quick navigate to file if perfect match
+      const navigateToFile = (data, filter = '') => {
+        files = data.filter(filterFiles(filter));
+        if (files.length === 1) {
+          const fileName = files[0].path.replace('.md', '');
+          document.location = fileName;
+        }
+      }
       (async () => {
         const response = await fetch('https://api.github.com/repos/erc-dharma/tfa-pallava-epigraphy/contents/texts/htmloutput');
         const data = await response.json();
