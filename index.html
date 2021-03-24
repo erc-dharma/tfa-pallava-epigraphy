@@ -28,30 +28,9 @@
 {"@type":"WebSite","url":"https://erc-dharma.github.io/tfa-pallava-epigraphy/","headline":"tfa-pallava-epigraphy","description":"DHARMA Task Force A Tamil Nadu, South India, Pallava corpus","name":"tfa-pallava-epigraphy","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <style class="anchorjs"></style><link rel="stylesheet" href="/tfa-pallava-epigraphy/assets/css/style.css?v=96189ac074f2227f2b02fee47f8ca5d3dfb6c238">
-    <style>
+    <style class="anchorjs"></style>
 
-      body {
-        overflow-y: scroll;
-      }
-      .markdown-body h1 {
-        display: flex;
-      }
-      .markdown-body form {
-        margin-left: 10px;
-      }
-      .markdown-body input {
-        color: #808080;
-        font-weight: 400;
-        margin: 0;
-        padding: 0 10px;
-        border: 1px solid #eaecef;
-        border-radius: 3px;
-        width: 100%;
-        flex: 1 1;
-      }
 
-      </style>
   </head>
   <body>
     <div class="container">
@@ -64,12 +43,17 @@
         </form>
       </h1>
       </div>
+      </div>
+      <div class="row">
+        <div class="col">
+        <p>Texts edited in XML TEI by Manu Francis for the ERC-DHARMA Task force A.</p></div>
       <div class="col">
       <ul id="list" class="list-group">
       </ul>
     </div>
     </div>
     </div>
+    </body>
     <!-- (async () => {
         const response = await fetch('https://api.github.com/repos/erc-dharma/tfa-pallava-epigraphy/contents/texts/htmloutput');
         const data = await response.json();
@@ -123,7 +107,7 @@
         for (let file of data.filter(filterFiles(filter)).sort(sortFiles(filter))) {
           const fileName = file.path.replace('.md', '');
           const fileDisplayName = fileName.split('-').join(' ').replace('texts/htmloutput/', '').replace('.html', '');
-          htmlString += `<li><a href="${fileName}">${fileDisplayName}</a></li>`;
+          htmlString += `<li class="list-group-item"><a href="${fileName}">${fileDisplayName}</a></li>`;
         }
         document.getElementById('list').innerHTML = htmlString;
       }
