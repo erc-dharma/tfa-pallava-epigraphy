@@ -121,8 +121,8 @@
       const updateList = (data, filter = '') => {
         let htmlString = '';
         for (let file of data.filter(filterFiles(filter)).sort(sortFiles(filter))) {
-          const fileName = file.path.replace('.html', '').replace('texts/htmloutput/', '');
-          const fileDisplayName = fileName.split('-').join(' ');
+          const fileName = file.path.replace('.md', '');
+          const fileDisplayName = fileName.split('-').join(' ').replace('texts/htmloutput/', '').replace('.html', '');
           htmlString += `<li><a href="${fileName}">${fileDisplayName}</a></li>`;
         }
         document.getElementById('list').innerHTML = htmlString;
@@ -131,7 +131,7 @@
       const navigateToFile = (data, filter = '') => {
         files = data.filter(filterFiles(filter));
         if (files.length === 1) {
-          const fileName = files[0].path.replace('.html', '').replace('texts/htmloutput/', '');
+          const fileName = files[0].path.replace('.md', '');
           document.location = fileName;
         }
       }
