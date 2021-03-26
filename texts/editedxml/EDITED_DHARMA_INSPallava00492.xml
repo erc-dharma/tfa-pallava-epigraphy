@@ -44,7 +44,7 @@
 							https://creativecommons.org/licenses/by/4.0/ or send a letter to
 							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 							California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                  <p>Copyright (c) 2019-2025 by Emmanuel Francis and Valérie Gillet.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -91,7 +91,8 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:emfr part:vagi" when="2021-03-26" status="draft">Creation of the file</change>
+         <change who="part:emfr part:vagi" when="2021-03-26" status="draft">Creation of the
+				file</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
@@ -140,7 +141,7 @@
          <div type="commentary">
          	
          	<p n="1-2">
-         		Possible regnal years are 61st, 67th, and 68th. In ARIE<!--Update-->, 69th is suggested, but here is not enough space on the stone to accomodate three characters in the gap and obtain <foreign>oṉpatāvatu</foreign>.
+         		Possible regnal years are 61st, 67th, and 68th. In ARIE<!--Update-->, 69th is suggested, but there is not enough space on the stone to accomodate three characters in the gap and obtain <foreign>oṉpatāvatu</foreign>.
          	</p>
          	<p n="2">
          		<foreign>mi<choice><unclear>l</unclear><unclear>y</unclear></choice>ivaḻi</foreign>. ARIE<!--Update--> reads Mīlvaḻi.
