@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>-->
-<!--REMOVE comment when encoding a new inscriptions!!!-->
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kāṭṭumalaiyaṉūr hero-stone, time of Nandīśvara, year 6?</title>
+				<title>Kāṭṭumalaiyaṉūr hero-stone, time of Nandīśvara, year 6[?]</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -99,27 +98,39 @@
 	
 	<p>
 		<lb n="1"/><gap reason="lost" quantity="3" unit="character" precision="low"/> kō-vicaiya-nanticcu<unclear>va</unclear>ra-<unclear>ma</unclear>ṟku yāṇṭu Āṟupatt’ <choice><unclear>o</unclear><unclear>e</unclear></choice>	
-		<lb n="2" break="no"/><supplied reason="lost"><choice><unclear>ṭṭ</unclear><unclear>ḻ</unclear><unclear>ṉṟ</unclear><!--Display issue: third unclear not displayed--></choice>ā</supplied><unclear>va</unclear>tu
+		<lb n="2" break="no"/><supplied reason="lost"><choice><unclear>ṭṭ</unclear><unclear>ḻ</unclear><unclear>ṉṟ</unclear><!--Display issue: third <unclear> within choice not displayed. Check EGD!--></choice>ā</supplied><unclear>va</unclear>tu
 	</p>	
 		
 	<p>
-		ciṅapura-nāṭu mi<choice><unclear>l</unclear><unclear>y</unclear></choice>ivaḻi ma<unclear>l</unclear>aiya<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice><choice><sic>ū</sic><corr>u</corr></choice>r mīṇṭu
+		ci<choice><orig>ṅ</orig><reg>ṅk</reg></choice>apura-nāṭu mi<choice><unclear>l</unclear><unclear>y</unclear></choice>ivaḻi ma<unclear>l</unclear>aiya<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice><choice><sic>ū</sic><corr>u</corr></choice>r mīṇṭu
 		<lb n="3"/><gap reason="lost" quantity="2" unit="character" precision="low"/> <unclear>Am</unclear>maṇiyaṉṉār <choice><orig>mm</orig><reg>m</reg></choice>akaṉ Iṭ<choice><unclear>ara</unclear><unclear>ā</unclear></choice><unclear>ṉ</unclear> <choice><unclear>v</unclear><unclear>p</unclear></choice>iyum paya
 		<lb n="4" break="no"/><gap reason="lost" quantity="7" unit="character" precision="low"/> ce<unclear>ṉ</unclear>ṟu pā<choice><unclear>re</unclear><unclear>ḷa</unclear></choice>ṭṭi<choice><unclear>ṟ</unclear><unclear>ṟa</unclear></choice>t<choice><unclear>t</unclear><unclear>n</unclear></choice>i <gap reason="lost" quantity="10" unit="character" precision="low"/> 
-		<lb n="5" break="no"/><gap reason="lost" quantity="4" unit="character" precision="low"/> <!--headdress--> <gap reason="lost" quantity="6" unit="character" precision="low"/> <unclear>k</unclear>ku <gap reason="lost" quantity="5" unit="character" precision="low"/>  kal
+		<lb n="5" break="no"/><gap reason="lost" quantity="4" unit="character" precision="low"/> <space/> <gap reason="lost" quantity="6" unit="character" precision="low"/> <unclear>k</unclear>ku <gap reason="lost" quantity="5" unit="character" precision="low"/>  kal
 	</p>
 	
          </div>
 
-         <div type="apparatus">
+      	<div type="apparatus">
+      		
+      		<app loc="1">
+      			<lem><choice><unclear>o</unclear><unclear>e</unclear></choice>	
+		<lb n="2" break="no"/><supplied reason="lost"><choice><unclear>ṭṭ</unclear><unclear>ḻ</unclear><unclear>ṉṟ</unclear><!--Display issue: third <unclear> within choice not displayed. Check EGD!--></choice>ā</supplied><unclear>va</unclear>tu</lem>
+      			<note>Three different readings are possible for the regnal year: 61st (<foreign>Āṟupatt’ oṉṟāvatu</foreign>), 67th (<foreign>Āṟupatt’ ēḻāvatu</foreign>), and 68th (<foreign>Āṟupatt’ eṭṭāvatu</foreign>). In <ptr target="bib:ARIE2018-2019"/>, the reading 69th is suggested, but there is not enough space on the stone to accomodate three characters in the gap and obtain <foreign>Āṟupatt’ oṉpatāvatu</foreign>.</note>
+      		</app>
+      		
+      		<app loc="2">
+      			<lem>mi<choice><unclear>l</unclear><unclear>y</unclear></choice>ivaḻi</lem>
+      			<note>The reading is <foreign>mīlvaḻi</foreign> according to <ptr target="bib:ARIE2018-2019"/>.</note>
+      		</app>
+      		
+      		<app loc="5">
+      			<lem><gap reason="lost" quantity="4" unit="character" precision="low"/> <space/> <gap reason="lost" quantity="6" unit="character" precision="low"/></lem>
+      			<note>The upper part of the headdress of the left-hand figure (represented below the inscription on the stele) comes between these two lacunae.</note>
+      		</app>
+      		
+      	</div>
 
-         	<!--<listApp>
-         		         		
-         	</listApp>-->
-
-         </div>
-
-      	<div type="translation" resp="part:emfr">
+      	<div type="translation" resp="part:emfr part:vagi">
       		
       		<p n="1-2">
       			Sixty-<gap reason="ellipsis"/> year of the victorious king Nandīśvara.
@@ -131,31 +142,32 @@
       		
       	</div>
       	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
+         <div type="translation" xml:lang="fra" resp="part:emfr part:vagi">
          	
          </div>
 
-         <div type="commentary">
-         	
-         	<p n="1-2">
-         		Possible regnal years are 61st, 67th, and 68th. In ARIE<!--Update-->, 69th is suggested, but there is not enough space on the stone to accomodate three characters in the gap and obtain <foreign>oṉpatāvatu</foreign>.
-         	</p>
-         	<p n="2">
-         		<foreign>mi<choice><unclear>l</unclear><unclear>y</unclear></choice>ivaḻi</foreign>. ARIE<!--Update--> reads Mīlvaḻi.
-         	</p>
-         </div>
+      	<div type="commentary">
+      		
+      		<p n="2">
+      			<foreign>mi<choice><unclear>l</unclear><unclear>y</unclear></choice>ivaḻi</foreign>. Check Subbarayalu<!--Check-->.
+      		</p>
+      	</div>
 
          <div type="bibliography">
 
             <p>
-            	First noticed in ARIE <!--Update-->; edited here for DHARMA (ERC n° 809994) by Emmanuel Francis &amp; Valérie Gillet (2021), based on photos.           	
+            	First noticed in <ptr target="bib:ARIE2018-2019"/>; edited here for DHARMA (ERC n° 809994) by Emmanuel Francis &amp; Valérie Gillet (2021), based on photos.           	
             </p>         	
             	        	
-        	<!--<listBibl type="secondary">
-        		
-        		Add ARIE 
-        		        		
-        	</listBibl>-->
+        	<listBibl type="secondary">
+      			
+      			<bibl n="ARIE">
+      				<ptr target="bib:ARIE2018-2019"/>
+      				<citedRange unit="page">83</citedRange>
+      				<citedRange unit="appendix">B/2018-2019</citedRange>
+      				<citedRange unit="item">363</citedRange>
+      			</bibl>
+      		</listBibl>
 
          </div>
 
