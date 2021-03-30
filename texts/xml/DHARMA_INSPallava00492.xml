@@ -102,7 +102,7 @@
 	</p>	
 		
 	<p>
-		ci<choice><orig>ṅ</orig><reg>ṅk</reg></choice>apura-nāṭu mi<choice><unclear>l</unclear><unclear>y</unclear></choice>ivaḻi ma<unclear>l</unclear>aiya<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice><choice><sic>ū</sic><corr>u</corr></choice>r mīṇṭu
+		ci<choice><orig>ṅ</orig><reg>ṅk</reg></choice>apura-nāṭu mi<choice><unclear>l</unclear><unclear>y</unclear></choice>i-vaḻi ma<unclear>l</unclear>aiya<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice><choice><sic>ū</sic><corr>u</corr></choice>r mīṇṭu
 		<lb n="3"/><gap reason="lost" quantity="2" unit="character" precision="low"/> <unclear>Am</unclear>maṇiyaṉṉār <choice><orig>mm</orig><reg>m</reg></choice>akaṉ Iṭ<choice><unclear>ara</unclear><unclear>ā</unclear></choice><unclear>ṉ</unclear> <choice><unclear>v</unclear><unclear>p</unclear></choice>iyum paya
 		<lb n="4" break="no"/><gap reason="lost" quantity="7" unit="character" precision="low"/> ce<unclear>ṉ</unclear>ṟu pā<choice><unclear>re</unclear><unclear>ḷa</unclear></choice>ṭṭi<choice><unclear>ṟ</unclear><unclear>ṟa</unclear></choice>t<choice><unclear>t</unclear><unclear>n</unclear></choice>i <gap reason="lost" quantity="10" unit="character" precision="low"/> 
 		<lb n="5" break="no"/><gap reason="lost" quantity="4" unit="character" precision="low"/> <space/> <gap reason="lost" quantity="6" unit="character" precision="low"/> <unclear>k</unclear>ku <gap reason="lost" quantity="5" unit="character" precision="low"/>  kal
@@ -119,8 +119,8 @@
       		</app>
       		
       		<app loc="2">
-      			<lem>mi<choice><unclear>l</unclear><unclear>y</unclear></choice>ivaḻi</lem>
-      			<note>The reading is <foreign>mīlvaḻi</foreign> according to <ptr target="bib:ARIE2018-2019"/>.</note>
+      			<lem>mi<choice><unclear>l</unclear><unclear>y</unclear></choice>i-vaḻi</lem>
+      			<note>The reading is <foreign>mīlvaḻi</foreign> according to <ptr target="bib:ARIE2018-2019"/>. It is possible that <foreign>mēl-vaḻi</foreign> is meant.</note>
       		</app>
       		
       		<app loc="5">
@@ -147,10 +147,7 @@
          </div>
 
       	<div type="commentary">
-      		
-      		<p n="2">
-      			<foreign>mi<choice><unclear>l</unclear><unclear>y</unclear></choice>ivaḻi</foreign>. Check Subbarayalu<!--Check-->.
-      		</p>
+      		      		
       	</div>
 
          <div type="bibliography">
