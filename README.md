@@ -9,7 +9,7 @@ For more information, see the [website description](https://dharma.hypotheses.or
 - **DHARMA_INSPallava00353**: Telugu inscription from Nalajanampāḍu = edited and encoded by Jens Thomas in [tfb-telugu-epigraphy](https://github.com/erc-dharma/tfb-telugu-epigraphy) (add filename when updated according to DHARMA file-naming conventions)
 
 ## Repository Static page
-You can consult the current state of the work on this repository at https://erc-dharma.github.io/tfa-pallave-epigraphy/.
+You can consult the current state of the work on this repository at https://erc-dharma.github.io/tfa-pallava-epigraphy/.
 
 ## Help and Guides
 * A Guide for Git is provided in the [project documentation repository](https://github.com/erc-dharma/project-documentation) at [DHARMA_Git_guide_v01.md](https://github.com/erc-dharma/project-documentation/blob/master/guides/git/DHARMA_git_guide_v01.md)
