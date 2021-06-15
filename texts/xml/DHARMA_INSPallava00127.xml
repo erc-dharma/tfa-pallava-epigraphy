@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kaḷattūr, tax regulation of the time of Nandivarman, year 16</title>
+            <title>Kaḷattūr, tax regulation of the time of Nandivarman, year 14</title>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:emfr">
@@ -144,7 +144,7 @@
     	<div type="bibliography">
     		
 <p>
-First edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, no. 51); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 126); endoded here for DHARMA (ERC n° 809994) and translated for the first time by Emmanuel Francis, based on precious editions.
+First edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, no. 51); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 126); encoded here for DHARMA (ERC n° 809994) and translated for the first time by Emmanuel Francis, based on previous editions.
 </p>
     		
     		<listBibl type="primary">
