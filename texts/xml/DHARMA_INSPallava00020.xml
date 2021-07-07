@@ -189,7 +189,7 @@
 
 <div type="translation" source="bib:Hultzsch1913-1914_01">
 	<!--reproduce Hultzsch's notes!-->
-	<note>Translation by Hultzsch (1913-1914). Standardised according to DHARMA TG and EG.</note><!--check-->
+	<note type="credit">Translation by Hultzsch (1913-1914). Standardised according to DHARMA TG and EG.</note><!--check-->
 <div type="textpart" subtype="face" n="A">
 <head xml:lang="eng">Eastern face of the pillar</head>
       		<p n="1-10"> 
