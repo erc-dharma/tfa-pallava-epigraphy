@@ -105,7 +105,7 @@
 						<lem>tiruvoṟṟiyūr</lem>
 						<rdg source="bib:ARIE1932-1933">tiruvoṟṟiyūr</rdg>
 						<rdg source="bib:VenkatasubbaAyyar1943_01">tiruveṟṟiyūr</rdg>
-						<note>It seems that this reading <foreign>tiruveṟṟiyūr</foreign> by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> is a typo. The ARIE reads <foreign>tiruvoṟṟiyūr</foreign>. <bibl><ptr target="bib:Kasinathan2007-01"/></bibl> also reads <foreign>tiruvorriyūr</foreign> or interprets the reading as such. This reading could not however be checked by lack of visual documentation. </note> 
+						<note>It seems that this reading <foreign>tiruveṟṟiyūr</foreign> by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> is a typo. The ARIE reads <foreign>tiruvoṟṟiyūr</foreign>. <bibl><ptr target="bib:Kasinathan2007_01"/></bibl> also reads <foreign>tiruvorriyūr</foreign> or interprets the reading as such. This reading could not however be checked by lack of visual documentation. </note> 
 					</app>
 				</listApp>
 				
@@ -157,7 +157,7 @@ First edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 1
 					
 					
 					<bibl>
-						<ptr target="bib:Kasinathan2007-01"/>
+						<ptr target="bib:Kasinathan2007_01"/>
 						<citedRange unit="page">14</citedRange>
 					</bibl>
 					

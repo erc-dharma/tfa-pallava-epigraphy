@@ -111,17 +111,17 @@
 
 		<app loc="1">
 			<lem>alo<lb n="2" break="no"/>ham</lem>
-			<rdg source="bib:GopinathaRao1924_01"><unclear>alo</unclear><lb n="2" break="no"/>ham</rdg>
+			<rdg source="bib:GopinathaRao1923-1924_01"><unclear>alo</unclear><lb n="2" break="no"/>ham</rdg>
 		</app>	
 		
 		<app loc="2">
 			<lem><unclear>v</unclear>i<unclear>citra</unclear>cittena</lem>
-			<rdg source="bib:GopinathaRao1924_01"><unclear>vicitraci</unclear>ttena</rdg>
+			<rdg source="bib:GopinathaRao1923-1924_01"><unclear>vicitraci</unclear>ttena</rdg>
 		</app>	
 		
 		<app loc="4">
 			<lem>°lakṣitāyatanaM</lem>
-			<rdg source="bib:GopinathaRao1924_01">°la<unclear>kṣi</unclear>tāyatanaM</rdg>
+			<rdg source="bib:GopinathaRao1923-1924_01">°la<unclear>kṣi</unclear>tāyatanaM</rdg>
 		</app>	
 		
 	</listApp>
@@ -150,13 +150,13 @@
       	<div type="bibliography">
       		
             <p>
-First edited and translated by <bibl><ptr target="bib:GopinathaRao1924_01"/></bibl>, with a poor facsimile (EI 17, no. 5); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 27); text and translation in <bibl><ptr target="bib:Filliozat1984_01"/></bibl> and in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 22); re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2008, 2009).
+First edited and translated by <bibl><ptr target="bib:GopinathaRao1923-1924_01"/></bibl>, with a poor facsimile (EI 17, no. 5); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 27); text and translation in <bibl><ptr target="bib:Filliozat1984_01"/></bibl> and in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 22); re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2008, 2009).
             </p>
 
       		<listBibl type="primary">
       			
       			<bibl n="TVGR">
-      				<ptr target="bib:GopinathaRao1924_01"/>            		
+      				<ptr target="bib:GopinathaRao1923-1924_01"/>            		
       			</bibl>
       			<bibl n="PSF">
       				<ptr target="bib:Filliozat1984_01"/>
