@@ -86,7 +86,7 @@
     		</ab> 
     		
     		<p>
-    			<lb n="2"/>2 teḷḷāṟṟ’ eṟi
+    			<lb n="2"/>teḷḷāṟṟ’ eṟi
     			<lb n="3" break="no"/>nta nanti-p
     			<lb n="4" break="no"/>-pōttaraiyar<surplus><choice><unclear>ya</unclear><unclear>y</unclear></choice></surplus>
     			<lb n="5"/>yāṇṭu Irupat
@@ -162,7 +162,7 @@
     	<div type="bibliography">
     		
 <p>
-First edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, no. 56); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 141); encoded here for DHARMA (ERC n° 809994) and translated for the first time by Emmanuel Francis, based on previous editions.
+First edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, no. 56); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 142); encoded here for DHARMA (ERC n° 809994) and translated for the first time by Emmanuel Francis, based on previous editions.
 </p>
     		
     		<listBibl type="primary">
@@ -175,8 +175,8 @@ First edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 1
     		   
     			<bibl n="TVM">
 	               		<ptr target="bib:Mahalingam1988_01"/>
-	               		<citedRange unit="page">415-416</citedRange>
-    				<citedRange unit="item">141</citedRange>
+	               		<citedRange unit="page">417-418</citedRange>
+    				<citedRange unit="item">142</citedRange>
     			</bibl>
     		</listBibl>
     		
