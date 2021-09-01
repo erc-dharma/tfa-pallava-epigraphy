@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tiruvatikai, donation of the time of Nṛpatuṅgavarman, year 18</title>
+            <title>Tiruvoṟṟiyūr, donation of the time of Nṛpatuṅgavarman, year 18</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris, CEIAS</pubPlace>
-            <idno type="filename">DHARMA_INSPallava00167</idno>
+            <idno type="filename">DHARMA_INSPallava00168</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -82,7 +82,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:emfr" when="2021-08-25" status="draft">Creation of the file</change>
+         <change who="part:emfr" when="2021-08-27" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
@@ -96,70 +96,76 @@
    			</ab>
    			
    			<p>
-   				<hi rend="grantha">nṛpa</hi>t<choice><orig>o</orig><reg>u</reg></choice>
-   				<lb n="2" break="no"/>ṅkapa<hi rend="grantha">nma</hi>ṟku <unclear>yāṇṭu</unclear>
-   				<lb n="3"/>pati<choice><orig>n</orig><reg>ṉ</reg></choice> eṭṭāvatu
+   				kō-vicai
+   				<lb n="2" break="no"/>ya-<hi rend="grantha">nṛ</hi>patuṅka-va<hi rend="grantha"><supplied reason="omitted">r</supplied>mma</hi>k=ku
+   				<lb n="3"/>yāṇṭu patiṉ eṭṭ-āvatu   
    			</p>
+   			
    			<p>
-   				<unclear>A</unclear>
-   				<lb n="4" break="no"/>ti<unclear>ya</unclear>raiya-maṅka
-   				<lb n="5" break="no"/>lattu tiruviraṭṭā
-   				<lb n="6" break="no"/>nattu <hi rend="grantha">mahāde</hi>va
-   				<lb n="7" break="no"/>rkku <unclear>p</unclear>āṇ
-   				<lb n="8" break="no"/><unclear>ṭi</unclear>-varakuṇa-<hi rend="grantha">mahā</hi>rā
-   				<lb n="9" break="no"/><hi rend="grantha">ja</hi>ṉ kuṭutta poṉ
-   				<lb n="10"/><choice><orig>Añ-ñ</orig><reg>Ain-n</reg></choice>ūṟṟ’ eḻu-patiṉ ka
-   				<lb n="11" break="no"/>ḻañcu
+   				<lb n="4"/><supplied reason="lost">t</supplied>iru-v-oṟṟi<unclear>yū</unclear><supplied reason="lost">r</supplied>-p-puṟattu
+   				<lb n="5"/><unclear>m</unclear>aṇali <hi rend="grantha">sabhai</hi>yōm
+   				<lb n="6"/><unclear>E</unclear>mm<choice><orig>u</orig><reg>ū</reg></choice>r-uṭaiya <hi rend="grantha">mahāde</hi>
+   				<lb n="7" break="no"/><supplied reason="lost">va</supplied><unclear>r</unclear>k=ku Umpaḷa-nāṭṭu viṭē
+   				<lb n="8" break="no"/><supplied reason="lost">l</supplied>-<unclear>vi</unclear>ṭuku pallavarai
+   				<lb n="9" break="no"/><unclear>yar</unclear> <supplied reason="lost"><hi rend="grantha">de</hi>vi</supplied>yāri<supplied reason="lost">ṟ</supplied> paḻiya
+   				<lb n="10" break="no"/><supplied reason="lost">n</supplied> pilli kuṭutta po
+   				<lb n="11" break="no"/>ṉ Ūrkkaṟ cemmai
+   				<lb n="12"/><unclear>ayṅ</unclear>-kaḻañcu I
+   				<lb n="13" break="no"/><unclear>y poṉayṅka</unclear><supplied reason="omitted">ḻañcu po</supplied>
+   				<lb n="14" break="no"/>ṉ koṇ<supplied reason="lost">ṭu celu</supplied>tta
+   				<lb n="15" break="no"/>k kaṭavōm āyiṉa pari<surplus>c</surplus>
+   				<lb n="16" break="no"/>cāvatu
    			</p>
    			<p>   				
-   				Ippoṉ koṇ
-   				<lb n="12" break="no"/>ṭu kaṭavōm Atiyarai
-   				<lb n="13" break="no"/>ya-maṅkalattu nakara
-   				<lb n="14" break="no"/>ttōm
+   				cen-neṟ kuttaṟ
+   				<lb n="17"/><unclear>pa</unclear>ḻa-v arici karu-nāḻiyiṉā<supplied reason="lost">l</supplied>
+   				<lb n="18" break="no"/><unclear>nā</unclear>-ṉāḻiyum Uḻak=ku ne
+   				<lb n="19" break="no"/>yyum <choice><sic>ā</sic><corr>a</corr></choice>ṭukk’ ilaiy<unclear>u</unclear>m ai
+   				<lb n="20" break="no"/>ntu k<unclear>ā</unclear>yum nālu-paḻa<supplied reason="omitted">mu</supplied>m saṅ
+   				<lb n="21" break="no"/>ki<unclear>rā</unclear>n=ti-tōṟum muṭṭāmai
+   				<lb n="22"/><supplied reason="lost">ni</supplied>l<unclear>ai</unclear>-p poli-y-ūṭṭ-āka-t ti
+   				<lb n="23" break="no"/>ṅkaṭoṟum āka kuṭup
+   				<lb n="24" break="no"/>pōm āṉōm muṭṭuvatā
+   				<lb n="25" break="no"/>yiṟ <hi rend="grantha">dhammāsa</hi>nattu nicati nā<unclear>lē</unclear>	
+   				<lb n="26" break="no"/><supplied reason="lost">kā</supplied>l kāṇam paṭuvō<surplus>m</surplus>
+   				<lb n="27" break="no"/>m āṉōm paṭṭum po
+   				<lb n="28" break="no"/>li-y-<supplied reason="lost">ū</supplied>ṭṭu muṭṭāmai <unclear>caṉ</unclear>
+   				<gap reason="lost" extent="unknown" unit="line"/>
    			</p>
-   			<p>
-   				Ip-poṉni
-   				<lb n="15" break="no"/>l Iru-nūṟṟu-t toṇṇū
-   				<lb n="16" break="no"/>ṟṟu-k kaḻañcu poṉnā
-   				<lb n="17" break="no"/>l palicaiyāl nicati
-   				<lb n="18"/><gap reason="lost" extent="unknown" unit="character"/> 
-   				<lb n="19"/><gap reason="lost" extent="unknown" unit="character"/>
-   				<lb n="20"/><gap reason="lost" quantity="2" unit="character"/><unclear>mun</unclear>nā<unclear>ḻi Uri</unclear>
-   				<lb n="21" break="no"/>kkum <unclear>me</unclear>ṟṟi pa<unclear>tiṟ</unclear>
-   				<lb n="22" break="no"/><unclear>ṟu</unclear> nāḻi Ari<unclear>ciyum</unclear> <gap reason="lost" quantity="2" unit="character"/>
-   				<lb n="23"/>poḻutukku Uri pacca
-   				<lb n="24" break="no"/>payaṟṟupparuppu kum
-   				<lb n="25" break="no"/>māyam uḷḷiṭṭa <choice><orig>Añc</orig><reg>Aint</reg></choice>u kā
-   				<lb n="26" break="no"/>yum poḻutu puḷi<unclear>ṅkaṟi</unclear>
-   				<lb n="27" break="no"/>kku Uḻakku tayirum po
-   				<lb n="28" break="no"/>ḻutu kaṟikku kā
-   				<lb n="29" break="no"/>ya<choice><orig>mm</orig><reg>m</reg></choice> iru-c-ce<unclear>vi</unclear><surplus>ṭa</surplus>ṭu<supplied reason="omitted">m</supplied>
-   				<lb n="30" break="no"/>poḻutu kaṟi tu<unclear>mi</unclear>kka
-   				<lb n="31" break="no"/>c cevi<surplus>ṭ</surplus>ṭu neyum
-   				<lb n="32"/>nivētikka naṟune
-   				<lb n="33" break="no"/>y potu Uḻakk-ā
-   				<lb n="34" break="no"/>ka nālu poḻutukku
-   				<lb n="35" break="no"/>m mēṟṟi ney nāḻi
-   				<lb n="36"/>nivētikka poḻutu
-   				<lb n="37" break="no"/>kkuṉ tayir Uri nālu
-   				<lb n="38"/>poḻutumē   				
-   			</p>
-            
-         </div>
+   			
+   		</div>
+   		
+   		<div type="apparatus">
+   			
+   			<listApp>
+   				
+   				<app loc="2">
+   					<lem>°va<hi rend="grantha"><supplied reason="omitted">r</supplied>mma</hi>k=ku</lem>
+   					<rdg source="bib:VenkatasubbaAyyar1943_01">°va<hi rend="grantha">rmma</hi>k=ku</rdg>
+   					<note/>
+   				</app>
 
-         <!--<div type="apparatus">
-         	
-            <listApp>
-               
-               <app loc="0">
-                  <lem></lem>
-                  <rdg source="bib:VenkatasubbaAyyar1943_01"></rdg>
-                  <note></note>
-               </app>
-                              
-            </listApp>
-         	
-         </div>-->
+   				<app loc="12">
+   					<lem><unclear>ayṅ</unclear>°</lem>
+   					<rdg source="bib:VenkatasubbaAyyar1943_01">°<unclear>ayṅ</unclear></rdg>
+   					<note><ptr target="bib:VenkatasubbaAyyar1943_01"/> notes: <quote>Engraved over an erasure.</quote></note>
+   				</app>
+   				   				
+   				<app loc="13">
+   					<lem><unclear>poṉayṅka</unclear></lem>
+   					<rdg source="bib:VenkatasubbaAyyar1943_01"><unclear>poṉayṅka</unclear></rdg>
+   					<note><ptr target="bib:VenkatasubbaAyyar1943_01"/> notes: <quote>Engraved over an erasure.</quote></note>
+   				</app>
+   				
+   				<app loc="25">
+   					<lem><hi rend="grantha">dhammāsa</hi>nattu</lem>
+   					<rdg source="bib:VenkatasubbaAyyar1943_01"><hi rend="grantha">dhammā<choice><sic>dha</sic><corr>sa</corr></choice></hi>nattu</rdg>
+   					<note/>
+   				</app>
+   				   				   				
+   			</listApp>
+   			
+   		</div>
 
       	<div type="translation" resp="part:emfr">
       		      		
@@ -168,43 +174,42 @@
       		</p>
       	   
       		<p n="1-3">
-      			Eighteenth year of Nṛpatuṅkavarman.       		</p>
+      			Eighteenth year of the victorious king Nṛpatuṅkavarman.       		</p>
       	   
-      		<p n="3-11">
+      		<p n="4-16">
       		   
       		</p>
       			
-      		<p n="11-14">
+      		<p n="16-28">
       		   
       		</p>
-      		
-      		<p n="14-38">
-      		   
-      		</p>      		         	
+      				         	
          </div>      	
          
          <div type="commentary">
+         	
+         	<p n="28"><ptr target="bib:VenkatasubbaAyyar1943_01"/> notes: <quote>The slab is broken at this place and the continuation of the inscription is lost.</quote></p>
          	         	
          </div>
 
          <div type="bibliography">
 
             <p>
-            	First edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, no. 71); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 167); encoded and first translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous editions.           	
+            	First edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, no. 70); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 168); encoded and first translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous editions and photos.           	
             </p>
 
             	<listBibl type="primary">
         		
         		<bibl n="VVA">
     				<ptr target="bib:VenkatasubbaAyyar1943_01"/>
-    				<citedRange unit="page">30-31</citedRange>
-    				<citedRange unit="item">71</citedRange>
+    				<citedRange unit="page">30</citedRange>
+    				<citedRange unit="item">70</citedRange>
     			</bibl> 
             	   
         		<bibl n="TVM">
         			<ptr target="bib:Mahalingam1988_01"/>
-        			<citedRange unit="page">478-480</citedRange>
-        			<citedRange unit="item">167</citedRange>
+        			<citedRange unit="page">481-482</citedRange>
+        			<citedRange unit="item">168</citedRange>
         		</bibl>
         		
         		
@@ -212,7 +217,7 @@
         	
         	<listBibl type="secondary">
         		
-        		<bibl>ARE 1921.360<!--update!-->
+        		<bibl>ARE 1912, no. 162<!--update!-->
         			<ptr target="bib:ARIE1904-1905"/>
         			<citedRange unit="page">32</citedRange>
         			<citedRange unit="appendix">B/1905</citedRange>
