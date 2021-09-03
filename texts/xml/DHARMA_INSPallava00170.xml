@@ -94,26 +94,26 @@
    			<p>
    				<!--display: undesired hyphen before lb-->
    				<lb n="2"/><hi rend="grantha">nṛ</hi><surplus>ru</surplus>pa<unclear>t</unclear><choice><orig><unclear>o</unclear></orig><reg><unclear>u</unclear></reg></choice>ṅ
-   				<lb n="4" break="no"/>ka<unclear>r</unclear>kku yāṇ
-   				<lb n="5" break="no"/>ṭu Iru-pat-āva
-   				<lb n="6" break="no"/>tu
+   				<lb n="3" break="no"/>ka<unclear>r</unclear>kku yāṇ
+   				<lb n="4" break="no"/>ṭu Iru-pat-āva
+   				<lb n="5" break="no"/>tu
    			</p>
    			
    			<p>
    				Iv-vūṟ ṟa
-   				<lb n="7" break="no"/><unclear>la</unclear>ttu <unclear>ne</unclear><choice><orig>ll</orig><reg>l</reg></choice> a
-   				<lb n="8" break="no"/><unclear>ṭ</unclear>ṭuvār kaṅkai
-   				<lb n="9" break="no"/>Iṭai kumari
-   				<lb n="10" break="no"/>yiṭai-c cey
-   				<lb n="11" break="no"/>tār ceyta<!--display: undesired hyphen after "ceyta"-->
-   				<lb n="12"/>pāvam paṭuvā
-   				<lb n="13" break="no"/>r
+   				<lb n="6" break="no"/><unclear>la</unclear>ttu <unclear>ne</unclear><choice><orig>ll</orig><reg>l</reg></choice> a
+   				<lb n="7" break="no"/><unclear>ṭ</unclear>ṭuvār kaṅkai
+   				<lb n="8" break="no"/>Iṭai kumari
+   				<lb n="9" break="no"/>yiṭai-c cey
+   				<lb n="10" break="no"/>tār ceyta<!--display: undesired hyphen after "ceyta"-->
+   				<lb n="11"/>pāvam paṭuvā
+   				<lb n="12" break="no"/>r
    				</p>
    			<p>
    				<unclear>ne</unclear><choice><orig>ll</orig><reg>l</reg></choice> aṭṭi
-   				<lb n="14" break="no"/>ṉārum aṭṭav uṭaṉ
-   				<lb n="15" break="no"/>paṭṭāruñ <gap reason="lost" quantity="2" unit="character"/>
-   				<lb n="3" break="no"/>ta <gap reason="lost" quantity="3" unit="character"/>
+   				<lb n="13" break="no"/>ṉārum aṭṭav uṭaṉ
+   				<lb n="14" break="no"/>paṭṭāruñ <gap reason="lost" quantity="2" unit="character"/>
+   				<lb n="15" break="no"/>ta <gap reason="lost" quantity="3" unit="character"/>
    				<lb n="16"/> <gap reason="lost" quantity="5" unit="character"/>
    				<gap reason="lost" extent="unknown" unit="character"/>
    			</p>
@@ -140,14 +140,14 @@
       			Prosperity! Fortune!
       		</p>
       	   
-      		<p n="2-6">
+      		<p n="2-5">
       			Twentieth year of Nṛpatuṅka.
       		</p>
       	   
-      		<p n="6-13">
+      		<p n="5-12">
       			Those who dump paddy on the premises <supplied reason="lost"><foreign>talam</foreign></supplied> of this village will encur the sin done by those who did <supplied reason="subaudible">sin</supplied> between the Ganges and Kanniyakumari.
       		</p>
-      		<p n="13-16"></p>
+      		<p n="12-16"/>
       		      				         	
          </div>      	
          
