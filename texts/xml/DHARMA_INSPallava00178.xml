@@ -47,7 +47,9 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Donation of gold for performing rituals (<foreign>hiraṇyagrbha</foreign> and <foreign>tulābhāra</foreign>).</summary>
+						<summary>Donation of gold for performing rituals
+								(<foreign>hiraṇyagrbha</foreign> and
+							<foreign>tulābhāra</foreign>).</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -122,7 +124,6 @@
    				<app loc="1">
    					<lem>yāṇṭu I<unclear>rupa</unclear>tt' iraṇ<surplus>ṭ</surplus>ṭu</lem>
    					<rdg source="bib:VenkatasubbaAyyar1943_01"><unclear>Irupattiraṇ</unclear><surplus>ṭ</surplus>ṭu</rdg>
-   					<note></note>
    				</app>    
    						
    			</listApp>
