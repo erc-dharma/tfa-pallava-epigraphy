@@ -147,6 +147,12 @@
         			<citedRange unit="page">pages</citedRange>
         			<citedRange unit="item">No</citedRange>
         		</bibl>
+            		
+            		<bibl n="VVA"><!--= SII 12-->
+         			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
+         			<citedRange unit="page">13</citedRange>
+         			<citedRange unit="item">31</citedRange>
+         		</bibl>
         		
         		        		
         	</listBibl>
