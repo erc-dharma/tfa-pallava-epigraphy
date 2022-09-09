@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Piḷḷaippākkam, donation of the time of Nṛpatuṅgavikramavarman, year 2*</title>
+				<title>Piḷḷaippākkam, donation of the time of Nṛpatuṅgavikramavarman, year 2[.]</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -97,11 +97,15 @@
 	
 	<p>
 		pi<unclear>ḷḷai</unclear>-p-pā<supplied reason="omitted">kka</supplied>ttu-p piḷḷai-p-pākkiḻār <gap reason="lost" quantity="5" unit="character"/> <unclear>pi</unclear>yārkku-t <hi rend="grantha">dharmma</hi>m-āka <hi rend="grantha">mahāde</hi>varkku nāṭ <gap reason="lost" quantity="3" unit="character"/>
-		<lb n="2"/>pōṉakaṅ kāṭṭuvataṟku Ivar tampiyār Ayyakkuṭṭiyār kuṭutta nilam puṟampāṭṭilē <unclear>Ā</unclear>ṟu mā nilam Ittēvarai vaḻipaṭum tiru-p-pācūraṉukkum mutti <gap reason="lost" quantity="3" unit="character"/> Ip-paricu kāṭṭa-k kuṭuttēṉ
+		<lb n="2"/>pōṉakaṅ kāṭṭuvataṟku Ivar tampiyār Ayyakkuṭṭiyār kuṭutta nilam 
 	</p>
 	
 	<p>	
-		Ip-paricu muṭṭil UnaE taṇṭa<unclear>-p-pa</unclear>-   				
+		puṟampāṭṭilē <unclear>Ā</unclear>ṟu mā nilam Ittēvarai vaḻipaṭum tiru-p-pācūraṉukkum mutti <gap reason="lost" quantity="3" unit="character"/> Ip-paricu kāṭṭa-k kuṭuttēṉ
+	</p>
+	
+	<p>	
+		Ip-paricu muṭṭil UnaE taṇṭa<unclear>-p-pa</unclear> 				
 		<lb n="3" break="no"/>ṭuvā<choice><orig>nṉ</orig><reg>ṉ</reg></choice> āka<unclear>vum</unclear>
 	</p>
 	
@@ -129,14 +133,18 @@
 				</p>
 				
 				<p n="1">
-					Twenty-<gap reason="lost"/>th year of Nṛpatuṅgavikramavarman.
+					Twenty-[...]th year of Nṛpatuṅgavikramavarman.
 				</p>
 				
-				<p n="1-2">...
+				<p n="1-2">For presenting food […] to the Mahādeva as a pious donation for (the sake of) Piḷḷaipākkiḻār [Nam?]pi of Piḷḷaippākkam, the land that Ayyakkuṭṭiyār, his younger brother gave.
 					
 				</p>
 				
-				<p n="2-3">...
+				<p n="2">I gave in this matter six <foreign>mā</foreign>s of land in Puṟampāṭu […] to the honourable Pācūraṉ who worships this god.
+					
+				</p>
+				
+				<p n="2-3">In this matter, if opposing/failing, let he be fined (an amount of) […].
 					
 				</p>
 				
