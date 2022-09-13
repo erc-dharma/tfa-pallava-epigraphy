@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Vantavāci, sale-deed of the time of Nantippōtairayar, year 6</title>
+            <title>Kāvantaṇṭalam, donation transaction of the time of Kampavarman, year 18</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris, CEIAS</pubPlace>
-            <idno type="filename">DHARMA_INSPallava00120</idno>
+            <idno type="filename">DHARMA_INSPallava00222</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -47,11 +47,11 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Sale-deed of tax incomes for conducting worship.</summary>
+                  <summary>Transaction by an assembly concerning a donation for conducting worship.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p/>
+                     <p>Medial <foreign>u</foreign> and <foreign>ū</foreign> interchangeable.</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -82,60 +82,73 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change status="draft" when="2021-06-02" who="part:emfr">Creation of the file</change>
+         <change status="draft" when="2022-09-13" who="part:emfr">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
          
-         <div type="edition" xml:lang="tam-Latn">
+<div type="edition" xml:lang="tam-Latn">
             
-            <ab>
-               <lb n="1"/><hi rend="grantha">svasti śrī</hi>
-            </ab>
-            
-            <p>               
-               nanti-p-pōttaraiya<unclear>rk</unclear>ku yāṇṭ’ ā
-               <lb n="2" break="no"/><unclear>ṟ-ā</unclear>vatu
-            </p>
-            
-            <p>
-               veṇ-kuṉ<unclear>ṟa</unclear>-k-kōṭṭattu veṇ-kuṉṟattu
-               <lb n="3"/><hi rend="grantha">sabhai</hi>yōm Emm-<choice><unclear>u</unclear><unclear>ū</unclear></choice>r malai mēṟ-p <hi rend="grantha">bha</hi>ṭārarai nō
-               <lb n="4" break="no"/>k<unclear>ka</unclear>tt’ ellā-nellum Aiyaciyum poṉṉun
-               <lb n="5"/>neyyum Epp<choice><sic>o</sic><corr>ē</corr></choice>rppaṭṭatum nelvāyilil iruntu
-               <lb n="6" break="no"/><unclear>v</unclear>āḻum tōciyārkku viṟṟu vilai-y-āva<unclear reason="eccentric ductus">ṇa</unclear>m cey<unclear>tu</unclear> ku               
-               <lb n="7" break="no"/>ṭuttōm veṇ-kuṉ<supplied reason="omitted">ṟa</supplied>ttu <hi rend="grantha">sabhai</hi>yō<choice><orig>m-m</orig><reg>m</reg></choice>               
-            </p>
-            
-            <p>
-               it’ aṉṟ’ eṉ<unclear>ṟō</unclear>
-               <lb n="8" break="no"/>m Uṇṭik<choice><sic>e</sic><corr>ai</corr></choice>yum paṭṭikaiyum kāṭṭāmē<choice><unclear>y</unclear><unclear>l</unclear></choice> nilaikk<unclear>ā</unclear>t
-               <lb n="9" break="no"/>tu muṉpu ni<unclear>ṟka</unclear>vēy meyv<unclear>oṟ ā</unclear>yiraṅ-
-               <lb n="10" break="no"/>kāṇam iṭa-v oṭṭi-k kuṭuttōm
-            </p>
-            
-            <p>
-               It-tarmma
-               <lb n="11" break="no"/>ttai <choice><sic>Ilakkittāṉ</sic><corr>Irakṣittāṉ</corr></choice> aṭi Eṉ ṟal<choice><sic>e</sic><corr>ai</corr></choice> mēlaṉa
-            </p>            
-            
-         </div>
+   <ab>
+      <lb n="1"/><hi rend="grantha">svasti śrī</hi> |--<!--update encoding-->
+   </ab>
+   
+   <p>               
+      kampava<hi rend="grantha"><unclear>r</unclear>mma</hi>r<supplied reason="omitted">k</supplied>ku yāṇṭu patiṉ eṭṭāvatu
+   </p>
+   
+   <p>
+      Ūṟṟukkāṭṭukkōṭṭa<supplied reason="omitted">t</supplied>tut tamaṉūrnāṭṭu <hi>catu[r]vvedi</hi>maṅkalattu <hi rend="grantha">sabhai</hi>y<unclear>ō</unclear>m Eḻuttu
+   </p>
+   
+   <p>
+      Emm<choice><orig>u</orig><reg>ū</reg></choice>r māṉa<hi rend="grantha">sa<choice><sic>t</sic><corr>r</corr></choice>paviṣṇugr̥ha</hi>ttu Irunta perumāṉaṭikaḷ pakkal yāṅkaḷ koṇṭu <unclear>kaṭa</unclear>va poṉ Ūrkkaṟ cemmai muppatiṉ kaḻañcu
+   </p>
+   
+   <p>
+      Ippoṉ kaḻañciṉvāy nālu mañcāṭip pali<unclear>cai</unclear>yāka Irupatiṉ ka
+      <lb n="2" break="no"/>ḻañcāl nāṟ kaḻañcukkum Āṭ<unclear>ṭā</unclear>ṇṭutōṟum cittirait tiruvōṇam peruviḻāvāka Eḻu nāḷum nicati nūṟu viḷakkum patiṉāṟāḷ taṭṭaḻikoṭṭikaḷaiyuṅ koṇṭu ceyvittu <hi rend="grantha">sna</hi>paṉam āṭṭuvittu tiruvamirtu Eḻu nāḷuṅ kuṭuttu ceyvippō<supplied reason="omitted">m ā</supplied>kavum
+   </p>
+   
+   <p>
+      niṉṟa pattup poṉṉāl Iru-kaḻañcukkum nicati Uri Eṇṇai Uṇṇāḻikaippuṟa<unclear>m</unclear> aṭṭuvō<unclear>m āṉ</unclear>ōm
+   </p>
+   
+   <p>
+      Emmūrc caṅ
+      <lb n="3" break="no"/>karappāṭi koṇṭu polippuṭaittākac cevippōm āṉōm <hi rend="grantha">sabhai</hi>yōm
+   </p>
+   
+   <p>
+      Ipparicu <hi rend="grantha">sabhai</hi>yāyu<unclear>n</unclear> taṉiyāyuñ cellāmai kāttārai <hi rend="grantha">śraddhāma<unclear>nta</unclear></hi>rē <hi rend="grantha">dha<unclear>r</unclear>mmāsa</hi><unclear>ṉa</unclear>ttu nicatam Irupattu nālu kāṇan taṇṭappaṭuvōm ākavuṅ
+   </p>
+   
+   <p>
+      <hi rend="grantha">gaṅgai</hi>-Iṭaik kumari-Iṭaic ceytār ceyta <unclear>pāvam pa</unclear>ṭavun tirunāraṇam piḻaitta taṇṭappaṭuvōm āṉom <hi rend="grantha">catu<unclear>r</unclear>vve</hi>timaṅkalattu <hi rend="grantha">sabhai</hi>yōm
+   </p>
+   
+   <p>
+      I<hi rend="grantha">tu</hi> ra<hi rend="grantha">kṣi</hi>ttār aṭi en talai melaṉa |||--<!--update encoding-->      
+   </p>
+      
+   
+</div>
 
-<div type="apparatus">
+<!--<div type="apparatus">
 
    <listApp>
       
-      <app loc="2">
-         <lem>°kuṉ<unclear>ṟa</unclear>°</lem>
-         <rdg source="bib:SubrahmanyaAiyer1932_01">°kuṉṟa°</rdg>
-         <note>A damage appears to have occurred after the edition by <ptr target="bib:SubrahmanyaAiyer1932_01"/>.</note>
+      <app loc="0">
+         <lem></lem>
+         <rdg source="bib:SubrahmanyaAiyer1932_01"></rdg>
+         <note></note>
       </app>  
       
    </listApp>
 
    
-</div>
+</div>-->
 
          <div resp="part:emfr" type="translation">
             
@@ -143,20 +156,39 @@
                Prosperity! Fortune!
             </p>
             
+            <p n="1">
+               Eighteenth year of Kampavarman.             </p>
+            
+            <p n="1">
+               Writing of we, the members of the assembly of Caturvedimaṅgala in the Tamaṉūrnāṭu in the Ūṟṟukkāṭukkōṭṭam.
+            </p>
+            
+            <p n="1">
+               ...
+            </p>
+                        
+            <p n="1-2">
+               ...
+            </p>
+                        
+            <p n="2">
+               ...
+            </p>
+                        
             <p n="2-3">
-               Sixth year of Nantippōtaraiyar.
+               We have become ... we, the members of the assembly.
             </p>
-            
-            <p n="2-7">
-               We the members of the assembly of Veṇkuṉṟam in the Veṇkuṉṟakkōṭṭam, so as to look for <supplied reason="explanation"><foreign>nōkka</foreign></supplied> the god <supplied reason="explanation"><foreign><hi rend="grantha">bha</hi>ṭār</foreign></supplied> on the hill in our village, having sold to Tōciyār, who resides in Nelvāyil, all <supplied reason="subaudible">the tax income from</supplied> the paddy, the gold of the Aippaci month, and the oil, of whatsoever kind, having made the sale-document, We the members of the assembly of Veṇkuṉṟam, we have given it.
+                        
+            <p n="3">
+               In that manner ...
             </p>
-            
-            <p n="7-10">
-               If we say that this is not so, we solemnly declare <supplied reason="explanation"><foreign>oṭṭi-k kuṭuttōm</foreign></supplied> so that we place one thousand <foreign>kāṇam</foreign>s ...
+                        
+            <p n="3">
+               We have become ... we, the members of the assembly of Caturvedimaṅgala.
             </p>
-            
-            <p n="10-11">
-               The feet of he who protects this pious deed are on my head.
+                        
+            <p n="3">
+               The feet of he who protects this <supplied reason="subaudible">pious deed</supplied> are on my head.
             </p>
             
          </div>
@@ -168,21 +200,21 @@
          <div type="bibliography">
 
             <p>
-First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7, no. 80); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 120); re-edited by Valérie Gillet (ref<!--Update-->); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on photos.
+First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7, no. 421); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 222); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on available editions.
             </p>
 
             <listBibl type="primary">
                
                <bibl n="KVSA">
                   <ptr target="bib:SubrahmanyaAiyer1932_01"/>
-                  <citedRange unit="page">34</citedRange>
-                  <citedRange unit="item">80</citedRange>
+                  <citedRange unit="page">265</citedRange>
+                  <citedRange unit="item">421</citedRange>
                </bibl>
                
                <bibl n="TVM">
                   <ptr target="bib:Mahalingam1988_01"/>
-                  <citedRange unit="page">369-371</citedRange>
-                  <citedRange unit="item">120</citedRange>            		
+                  <citedRange unit="page">571-572</citedRange>
+                  <citedRange unit="item">222</citedRange>            		
                </bibl>              
                
                
@@ -192,10 +224,10 @@ First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7,
                             
                <bibl n="ARIE">
                   
-                  <ptr target="bib:ARIE1899-1900"/>
-                  <citedRange unit="page">53</citedRange>
-                  <citedRange unit="appendix">B/1900</citedRange>
-                  <citedRange unit="item">73</citedRange>
+                  <ptr target="bib:ARIE1900-1901"/>
+                  <citedRange unit="page">22</citedRange>
+                  <citedRange unit="appendix">A/1901</citedRange>
+                  <citedRange unit="item">208</citedRange>
                </bibl>
             </listBibl>
 
