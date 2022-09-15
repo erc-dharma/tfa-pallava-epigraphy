@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Maṭam, donation of the time of Kampavikramavarman, year 26</title>
+            <title>Olakkūr, hero-stone of the time of Kampapperumāḷ, no year</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris, CEIAS</pubPlace>
-            <idno type="filename">DHARMA_INSPallava00232</idno>
+            <idno type="filename">DHARMA_INSPallava00234</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Donation of land after purchase, for the upkeeping of village tank.</summary>
+                  <summary>Hero-stone commemorating the death of Totupatti Mātirakaṉ.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -92,23 +92,23 @@
 <div type="edition" xml:lang="tam-Latn">
 	
 	<p>
-		<lb n="1"/>kō-vicaiya-kampa-vikkirama-parumaṟk<choice><orig>i</orig><reg>u</reg></choice>
-		<lb n="2"/>yāṇṭu Irupatt’ āṟ-āvatu
+		<lb n="1"/>kampa-p-pe
+		<lb n="2" break="no"/>rumāḷ Āṉai-y ā
+		<lb n="3" break="no"/>ṭiṉa kontaḷat
+		<lb n="4" break="no"/>tu Ivv-ūr aḻin
+		<lb n="5" break="no"/>ta nāṭ paṭṭāṉ I
+		<lb n="6" break="no"/>v
+		<lb n="7" break="no"/>v-ūr
+		<lb n="8"/>to
+		<lb n="9" break="no"/>tupa
+		<lb n="10" break="no"/>tti
+		<lb n="11"/>mātira
+		<lb n="12" break="no"/>kaṉ		
 	</p>
 	
 	<p>
-		pa
-		<lb n="3" break="no"/>l-kuṉṟa-k-kōṭṭattu teṉṉāṟṟū
-		<lb n="4" break="no"/>r-nāṭṭu-k kuḷattūr vāṇiyar caya-va
-		<lb n="5" break="no"/>llavaṉ kuḷattūr Ūrār pakkal vi
-		<lb n="6" break="no"/>ṟṟu-k koṇṭu Ēri-<supplied reason="omitted">p</supplied>-paṭṭi ceyta caḻai
-		<lb n="7" break="no"/>yāppāṟai-c ceṟuvu Ēri-p-paṭṭi ceytatu		
+		<lb n="13"/><hi rend="grantha">svasti śrī</hi>		
 	</p>
-	
-	<p>
-		<lb n="8"/>Itukku Eṉṟu<unclear>m</unclear> kuttukkāl kātt’ ū
-<lb n="9" break="no"/>ṭṭiṉṉā<supplied reason="omitted">r</supplied> Aṭi-y eṉ muṭi mēl
-	</p>	
 	
 </div>
 			
@@ -128,42 +128,45 @@
 			
 <div type="translation" resp="part:emfr">
 							
-	<p n="1-2">
-		Twenty-sixth year of the victorious king Kampavikramvarman. 	</p>
-	
-	<p n="4-9">
-		The Caḻaiyāppāṟai field that Cayavallavaṉ, a merchant <supplied reason="subaudible">from</supplied> Kuḷattūr in the Teṉṉāṟṟūrnaṭu in the Palkuṉṟakōṭṭam, made as land for the tank, after buying it from the villagers of  Kuḷattūr, has been made as land for the tank.
+	<p n="1-12">
+		On the day this village was destroyed in the turmoil that the elephant(s) of Kampaperumāḷ<note>That is, the Pallava king Kampavarman</note> caused, he who fell <supplied reason="subaudible">was</supplied> Totupatti Mātirakaṉ of this village<note>alternative translation: “he fell: Totupatti Mātirakaṉ of this village”.</note>. 
 	</p>
 	
-	<p n="9-12">
-		The feet of he who ... to this are on my head.
+	<p n="13">
+		Prosperity! Fortune!
 	</p>
-	
-
 </div>      	
 			
-			<div type="commentary">
-				
-			</div>
+	
+	<div type="commentary">
+		
+		<p n="1-13">
+			<ptr target="bib:VenkatasubbaAyyar1943_01"/> suggests that Totupatti Mātirakaṉ was a mahout a and notes that <cit><quote>A figure of this hero advancing with a drawn sword in his right hand is also represented on the stone</quote></cit>. This figure undermines, according to <ptr target="bib:Mahalingam1988_01"/>, the identification of Totupatti Mātirakaṉ as a mahout, as he is not represented mounted on a elephant. The fact that Totupatti Mātirakaṉ hailed from the attacked village suggests that he opposed the soldiers of Kampavarman. The absence of regnal year, which can be interpreted as a non allegiance mark to Kampavarman, is also noteworthy. 
+		</p>
 			
+		
+		<p n="14">
+			The auspicious words <foreign><hi rend="grantha">svasti śrī</hi></foreign> are usually found at the beginning of inscriptions. It is possible that this phrase here belongs to another inscription, engraved after the present one on the same slab.</p>
+		
+         </div>	
 			<div type="bibliography">
 				
 				<p>
-					First edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, no. 111); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 233); encoded and first translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on previous editions.          	
+					First edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, no. 112); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 234); encoded and first translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on previous editions.          	
 				</p>
 				
 				<listBibl type="primary">
 					
 					<bibl n="VVA">
 						<ptr target="bib:VenkatasubbaAyyar1943_01"/>
-						<citedRange unit="page">52</citedRange>
-						<citedRange unit="item">111</citedRange>
+						<citedRange unit="page">53</citedRange>
+						<citedRange unit="item">112</citedRange>
 					</bibl> 
 					
 					<bibl n="TVM">
 						<ptr target="bib:Mahalingam1988_01"/>
-						<citedRange unit="page">590</citedRange>
-						<citedRange unit="item">233</citedRange>
+						<citedRange unit="page">591</citedRange>
+						<citedRange unit="item">234</citedRange>
 					</bibl>
 					
 					
@@ -172,10 +175,10 @@
 				<listBibl type="secondary">
 					
 					<bibl>
-					<ptr target="bib:ARIE1923-1924"/>
-						<citedRange unit="page">53</citedRange>
-						<citedRange unit="appendix">C/1924</citedRange>
-						<citedRange unit="item">144</citedRange>
+					<ptr target="bib:ARIE1910-1911"/>
+						<citedRange unit="page">30</citedRange>
+						<citedRange unit="appendix">B/1909</citedRange>
+						<citedRange unit="item">357</citedRange>
 					</bibl>
 					
 				</listBibl>
