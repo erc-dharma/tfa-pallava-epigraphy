@@ -135,6 +135,22 @@
          </div>
 
          <div type="commentary">
+         	
+         	<p>
+         		See DHARMA_INSPallava00294, from the same place and of similar content.
+         	</p>
+         	<p>
+         		<bibl> <ptr target="bib:Mahalingam1988_01"/><citedRange unit="page">685</citedRange><citedRange unit="note">1</citedRange> notes</bibl>: <quote>The figure of a soldier facing left is engraved on the stone. It bears a bow in the left hand and a short stagger in the right hand. There is a festoon over the right hand. To the right of the figure is seen a casket, mirror while on the side of the left leg is seen a spout.</quote>
+         	</p>
+         	
+         	<p>
+         		The inscription is described as follows in <bibl n="IAR"><ptr target="bib:Deshpande1975_01"/></bibl>: <quote>An inscription from Tandrampattu, in characters of about the eighth century A.D. and dated in the seventh year of the reign of Narasimhavarman, records the death of Marudakalan, son of Eruma[nda]nar while Merkovalur was auacked by Vanako-Puttaraisar.</quote>
+         	</p>
+         	
+         	<p n="1-2">
+         		Naraiciṅkaparumaṉ (Sanskrit Narasiṃhavarman) has been identified as Narasiṃhavarman I by <bibl><ptr target="bib:Nākacāmi1972_01"/></bibl>.         		
+         	</p>         	
+         	
          </div>
 
          <div type="bibliography">
@@ -158,16 +174,15 @@
         		        		        		
         	</listBibl>
         	
-        	<!--<listBibl type="secondary">
+        	<listBibl type="secondary">
         		
-        		<bibl n="D"><!-\-Check Zotero encoding: IAR-\->
+        		<bibl n="IAR">
         			<ptr target="bib:Deshpande1975_01"/>
-        			<citedRange unit="page">58</citedRange>
-        			<citedRange unit="item">37</citedRange>
+        			<citedRange unit="page">59</citedRange>
+        			<citedRange unit="item">40</citedRange>
         		</bibl>
         		
-        	</listBibl>-->
-         	<!--Check if mentioned in IAR-->
+        	</listBibl>
 
          </div>
 
