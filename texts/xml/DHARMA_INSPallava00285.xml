@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>-->
-<!--REMOVE comment when encoding a new inscriptions!!!-->
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
 	<teiHeader>
 		<fileDesc>
@@ -52,7 +52,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>Two types of ṉ?<!--Check. Compare lines 5 to 7, e.g.--></p>
+							<p>Two types of <foreign>ṉ</foreign>. Compare occurrences in lines 6 to 8.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -91,17 +91,17 @@
 	<p>
 		<lb n="1"/>kō-vicai
 		<lb n="2" break="no"/>ya-ma<choice><orig>I</orig><reg>yi</reg></choice>ntira-paru
-		<lb n="3" break="no"/>maṟku mu-p-patt’ eṭṭ-ā
+		<lb n="3" break="no"/>maṟ·ku <unclear>mu</unclear>-p-patt’ eṭṭ-ā
 		<lb n="4" break="no"/>vātu
 	</p>
 	
 	<p>
 		vāṇa-kō-<choice><orig>A</orig><reg>v-a</reg></choice>raicaru maru
-		<lb n="5" break="no"/>-makkaḷ kanta-viṇṇa
-		<lb n="6" break="no"/>ṉār kūṭal toṟu-k koṇṭa
-		<lb n="7"/>ñāṉṟu<!--ṇāṉṟu in fact??--> Check toṟu Iṭuvittu-p <!--read viṭuvittu-p? A vi eccenctric looking like I (two instances on the stone)--> paṭṭā
-		<lb n="8" break="no"/>ṉ poṉṉarampaṉār kollaka-c
-		<lb n="9" break="no"/>cēvakaṉ kākaṇṭi <!--kākkaṇṭi on Ravi's pictures--> Aṇṇāvaṉ kal		
+		<lb n="5" break="no"/>-makkaḷ kan·ta-viṇṇa
+		<lb n="6" break="no"/><unclear>ṉā</unclear>r kūṭal toṟu-k koṇṭa
+		<lb n="7"/><unclear>ñ</unclear>āṉṟu toṟu Iṭuvittu-p paṭṭā
+		<lb n="8" break="no"/>ṉ poṉ·ṉarampa<unclear>ṉā</unclear>r kol·laka-c
+		<lb n="9" break="no"/>c<unclear>ē</unclear>vakaṉ<unclear>·</unclear> kākkaṇṭi Aṇṇāvaṉ kal		
 	</p>
 	
 	<p>
@@ -113,24 +113,26 @@
 
          <div type="apparatus">
 
-         	<!--<listApp>
-         		<app loc="3">
-         			<lem></lem>         			
+         	<listApp>
+         		<app loc="9">
+         			<lem>kākkaṇṭi</lem>         						
+         			<rdg source="bib:Nākacāmi1972_01">kākaṇṭi</rdg>
          		</app>  	
-         	</listApp>-->
+         	</listApp>
 
          </div>
 
       	<div type="translation" resp="part:emfr">
       		
-      		<p n="1-4">Tirthy-eight <supplied reason="subaudible">year</supplied> of the victorious king Mahendravarman<note>May<choice><orig>I</orig><reg>yi</reg></choice>ntiraparumaṉ <!--Display issue: space unneeded: May ¡i!--> the original Tamil.</note>.</p>
+      		<p n="1-4">
+      			Tirthy-eight <supplied reason="subaudible">year</supplied> of the victorious king Mahendravarman<note>May<choice><orig>I</orig><reg>yi</reg></choice>ntiraparumaṉ the original Tamil.</note>.</p>
       		
       		<p n="4-9">
       			<supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> Kākaṇṭi Aṇṇāvaṉ, the servant of Poṉṉarampaṉār, he who fell recapturing <supplied reason="explanation"><foreign>iṭuvittu</foreign><note>That is (?), <foreign>viṭuvittu</foreign>, literally "liberating".</note></supplied> cattle when Kantaviṇṇaṉār, the nephew of the royal Bāṇa king seized cattle <supplied reason="subaudible">in</supplied> kūṭal.	
       		</p>
       		
       		<p n="10-12">
-      			<supplied reason="subaudible">This is</supplied> stone that the <seg cert="low">people</seg> <supplied reason="explanation"><foreign>iḷa-makkaḷ</foreign><note><ptr target="bib:Mahalingam1988_01"/> suggests to translate as "soldiers".<!--Display issue: siglum not displayed.--></note></supplied> of Kūṭal had planted.
+      			<supplied reason="subaudible">This is</supplied> stone that the <seg cert="low">people</seg> <supplied reason="explanation"><foreign>iḷa-makkaḷ</foreign><note><bibl><ptr target="bib:Mahalingam1988_01"/></bibl> suggests to translate as "soldiers".</note></supplied> of Kūṭal had planted.
       		</p>
       		
       	</div>
@@ -146,7 +148,7 @@
          <div type="bibliography">
 
             <p>
-            	First edited by <bibl><ptr target="bib:Nākacāmi1972_01"/></bibl> (CN 1971/50); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 285); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous editions.           	
+            	First edited by <bibl><ptr target="bib:Nākacāmi1972_01"/></bibl> (CN 1971/50); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 285); encoded an re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on photographs (2009).           	
             </p>
          	
             	<listBibl type="primary">
@@ -166,7 +168,7 @@
         	
         	<!--<listBibl type="secondary">
         		
-        		CHESK if mentioned in this publication.
+        		CHECK if mentioned in this publication.
         		
         		<bibl n="D"><!-\-Check Zotero encoding: IAR-\->
         			<ptr target="bib:Deshpande1975_01"/>
