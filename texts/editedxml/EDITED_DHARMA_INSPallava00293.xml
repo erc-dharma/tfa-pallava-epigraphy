@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Cē. Kūṭalūr hero-stone, time of Mahendravarman, year 38</title>
+            <title>Taṇṭarāmpaṭṭu hero-stone, time of Narasiṃhavarman, year 7</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris, CEIAS</pubPlace>
-            <idno type="filename">DHARMA_INSPallava00285</idno>
+            <idno type="filename">DHARMA_INSPallava00293</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -47,11 +47,11 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Records the death of a hero in a fight.</summary>
+                  <summary>Records the death of a hero.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>Two types of <foreign>ṉ</foreign>. Compare occurrences in lines 6 to 8.</p>
+                     <p/>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -82,7 +82,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:emfr" when="2021-03-17" status="draft">Creation of the file</change>
+         <change who="part:emfr" when="2022-09-26" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
@@ -91,50 +91,44 @@
 <div type="edition" xml:lang="tam-Latn">
 	
 	<p>
-		<lb n="1"/>kō-vicai
-		<lb n="2" break="no"/>ya-ma<choice><orig>I</orig><reg>yi</reg></choice>ntira-paru
-		<lb n="3" break="no"/>maṟ·ku <unclear>mu</unclear>-p-patt’ eṭṭ-ā
-		<lb n="4" break="no"/>vātu
+		<lb n="1"/>kō-vicaiya-narai
+<lb n="2" break="no"/>ciṅka-parumaṟku yā
+<lb n="3" break="no"/>ṇṭ’ Eḻ-āvatu
 	</p>
-	
 	<p>
-		vāṇa-kō-<choice><orig>A</orig><reg>v-a</reg></choice>raicaru maru
-		<lb n="5" break="no"/>-makkaḷ kan·ta-viṇṇa
-		<lb n="6" break="no"/><unclear>ṉā</unclear>r kūṭal toṟu-k koṇṭa
-		<lb n="7"/><unclear>ñ</unclear>āṉṟu toṟu Iṭuvittu-p paṭṭā
-		<lb n="8" break="no"/>ṉ poṉ·ṉarampa<unclear>ṉā</unclear>r kol·laka-c
-		<lb n="9" break="no"/>c<unclear>ē</unclear>vakaṉ<unclear>·</unclear> kākkaṇṭi Aṇṇāvaṉ kal		
+		vāṇa-kō-mut
+<lb n="4" break="no"/>taraicaru nāṭu pāviya mēṟ-kō
+<lb n="5" break="no"/>valūr mēl vantu tañ ciṟṟa-p
+<lb n="6" break="no"/>-paṭikaḷai Eṟinta ñāṉ
+<lb n="7" break="no"/>ṟu paṭṭāṉ cēvarpari Aṭṭuṅ koḷ
+<lb n="8" break="no"/>ḷi turumā
+<lb n="9" break="no"/>vaṉār maka
+<lb n="10" break="no"/>ṉ mārkaṭa
+<lb n="11" break="no"/>laṉ
 	</p>
-	
-	<p>
-		<lb n="10"/>kūṭal Iḷa
-		<lb n="11" break="no"/>-makkaḷ naṭuvi
-		<lb n="12" break="no"/>tta kal
-	</p>
-</div>
+         	         	
+         </div>
 
-         <div type="apparatus">
+         <!--<div type="apparatus">
 
          	<listApp>
-         		<app loc="9">
-         			<lem>kākkaṇṭi</lem>         						
-         			<rdg source="bib:Nākacāmi1972_01">kākaṇṭi</rdg>
-         		</app>  	
+         		<app loc="0">
+         			<lem></lem>
+         			<note></note>
+         		</app>
+         		
          	</listApp>
 
-         </div>
+         </div>-->
 
       	<div type="translation" resp="part:emfr">
       		
-      		<p n="1-4">
-      			Tirthy-eight <supplied reason="subaudible">year</supplied> of the victorious king Mahendravarman<note>May<choice><orig>I</orig><reg>yi</reg></choice>ntiraparumaṉ the original Tamil.</note>.</p>
-      		
-      		<p n="4-9">
-      			<supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> Kākaṇṭi Aṇṇāvaṉ, the servant of Poṉṉarampaṉār, he who fell recapturing <supplied reason="explanation"><foreign>iṭuvittu</foreign><note>That is (?), <foreign>viṭuvittu</foreign>, literally “liberating”.</note></supplied> cattle when Kantaviṇṇaṉār, the nephew of the royal Bāṇa king seized cattle <supplied reason="subaudible">in</supplied> kūṭal.	
+      		<p n="1-3">
+      			Seventh year of the victorious king Narasiṃhavarman<note>Naraiciṅkaparumaṉ in the original Tamil.</note>.
       		</p>
       		
-      		<p n="10-12">
-      			<supplied reason="subaudible">This is</supplied> stone that the <seg cert="low">people</seg> <supplied reason="explanation"><foreign>iḷa-makkaḷ</foreign><note><bibl><ptr target="bib:Mahalingam1988_01"/></bibl> suggests to translate as “soldiers”.</note></supplied> of Kūṭal had planted.
+      		<p n="3-11">
+      			<supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> Mārkaṭalaṉ, the son <supplied reason="subaudible">of</supplied> Turumāvaṉār <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>cēvarpari Aṭṭuṅ koḷḷi</foreign></supplied>, he who fell at the time the royal Bāṇa Muttaraiyar attacked <supplied reason="explanation"><foreign>eṟinta</foreign><note>Literally “destroyed”.</note></supplied> his <supplied reason="explanation"><foreign>tañ</foreign><note>That is, <foreign>taṉ</foreign> in <foreign>sandhi</foreign>.</note></supplied> uncle <supplied reason="explanation"><foreign>ciṟṟappaṭikaḷ</foreign><note>That is, <foreign>ciṟṟappaṉ</foreign> + <foreign>aṭikaḷ</foreign>.</note></supplied>, when marching <supplied reason="explanation"><foreign>vantu</foreign><note>Literally “coming”.</note></supplied> upon Mēṟ-Kōvalūr <gap reason="ellipsis"/> <supplied reason="explanation">nāṭu pāviya</supplied>.
       		</p>
       		
       	</div>
@@ -145,40 +139,53 @@
 
          <div type="commentary">
          	
+         	<p>
+         		See DHARMA_INSPallava00294, from the same place and of similar content.
+         	</p>
+         	<p>
+         		<bibl> <ptr target="bib:Mahalingam1988_01"/><citedRange unit="page">685</citedRange><citedRange unit="note">1</citedRange> notes</bibl>: <quote>The figure of a soldier facing left is engraved on the stone. It bears a bow in the left hand and a short stagger in the right hand. There is a festoon over the right hand. To the right of the figure is seen a casket, mirror while on the side of the left leg is seen a spout.</quote>
+         	</p>
+         	
+         	<p>
+         		The inscription is described as follows in <bibl n="IAR"><ptr target="bib:Deshpande1975_01"/></bibl>: <quote>An inscription from Tandrampattu, in characters of about the eighth century A.D. and dated in the seventh year of the reign of Narasimhavarman, records the death of Marudakalan, son of Eruma[nda]nar while Merkovalur was auacked by Vanako-Puttaraisar.</quote>
+         	</p>
+         	
+         	<p n="1-2">
+         		Naraiciṅkaparumaṉ (Sanskrit Narasiṃhavarman) has been identified as Narasiṃhavarman I by <bibl><ptr target="bib:Nākacāmi1972_01"/></bibl>.         		
+         	</p>         	
+         	
          </div>
 
          <div type="bibliography">
 
             <p>
-            	First edited by <bibl><ptr target="bib:Nākacāmi1972_01"/></bibl> (CN 1971/50); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 285); encoded an re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on photographs (2009).           	
+            	First edited by <bibl><ptr target="bib:Nākacāmi1972_01"/></bibl> (CN 1971/69); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 293); encoded and first translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous editions.           	
             </p>
          	
             	<listBibl type="primary">
         		
         		<bibl n="RN">
         			<ptr target="bib:Nākacāmi1972_01"/>
-        			<citedRange unit="item">1971/50</citedRange>
+        			<citedRange unit="item">1971/69</citedRange>
         		</bibl>
         		
         		<bibl n="TVM">
          			<ptr target="bib:Mahalingam1988_01"/>
-         			<citedRange unit="page">676-677</citedRange>
-         			<citedRange unit="item">285</citedRange>
+         			<citedRange unit="page">685-686</citedRange>
+         			<citedRange unit="item">293</citedRange>
          		</bibl>
         		        		        		
         	</listBibl>
         	
-        	<!--<listBibl type="secondary">
+        	<listBibl type="secondary">
         		
-        		CHECK if mentioned in this publication.
-        		
-        		<bibl n="D"><!-\-Check Zotero encoding: IAR-\->
+        		<bibl n="IAR">
         			<ptr target="bib:Deshpande1975_01"/>
         			<citedRange unit="page">59</citedRange>
         			<citedRange unit="item">40</citedRange>
         		</bibl>
-        		        		        		
-        	</listBibl>-->
+        		
+        	</listBibl>
 
          </div>
 
