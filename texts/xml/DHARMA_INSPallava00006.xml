@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Grant (<foreign>deva-bhoga</foreign>), with the eigteen exemptions,
+						<summary>Grant (<foreign>devabhoga</foreign>), with the eigtheen exemptions,
 							of the village of Uruvupalli to the temple (<foreign>devakula</foreign>)
 							of Viṣṇuhāradeva, built by the general Viṣṇuvarman, at Kaṇḍukūra, for
 							the increase of life and force.</summary>
@@ -82,7 +82,8 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding
+			<change who="part:axja" when="2020-11-03" status="draft"
+				>Updating toward the encoding
 				template v03</change>
 			<change who="part:emfr" when="2020-03-29" status="draft">Creation of the file</change>
 		</revisionDesc>
