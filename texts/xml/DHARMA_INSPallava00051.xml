@@ -178,11 +178,13 @@ First edited by <bibl><ptr target="bib:KrishnaSastri1926_01"/></bibl>, with a fa
       			</bibl>
       			<bibl>
       				<ptr target="bib:Francis2013_01"/>
-      				<citedRange unit="page">288-289</citedRange>
+      				<citedRange unit="page">288-289</citedRange>      			   
+      				<citedRange unit="item">IR 62</citedRange>
       			</bibl>
       			<bibl>
       				<ptr target="bib:Francis2017_01"/>
       				<citedRange unit="page">754</citedRange>
+      			   <citedRange unit="item">IR 62</citedRange>
       			</bibl>
       		</listBibl>
       		
