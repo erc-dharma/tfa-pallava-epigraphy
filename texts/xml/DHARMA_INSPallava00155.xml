@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Vākūr (Pākūr, Bāhūr) plates, time of Nṛpatuṅgavarman, year 8</title>
+				<title>Vākūr (Pākūr) plates, time of Nṛpatuṅgavarman, year 8</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -51,7 +51,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>Sanskrit spelling influenced by Tamil usage. Tamil medial <foreign>i</foreign> and <foreign>ī</foreign> not distinguished and interchangeable.</p>
+							<p>Sanskrit spelling influenced by Tamil usage. Tamil medial <foreign>i</foreign> and <foreign>ī</foreign> not distinguished and interchangeable. Tamil oblique suffix <foreign>-iṉ</foreign> with initial <foreign>i</foreign>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -106,9 +106,9 @@
 		
 		<lg n="1" met="drutavilambita">
 			<l n="a">diśatu va<supplied reason="omitted">ḥ</supplied> śriyam ambuja-locanas</l>
-			<l n="b">tridaśa-mauli-nighṛ<lb n="1r2" break="no"/>ṣta-padāmbujaḥ</l>
+			<l n="b">tridaśa-mauli-nighṛ<lb n="1r2=2" break="no"/>ṣta-padāmbujaḥ</l>
 			<l n="c" enjamb="yes">sakala-loka-bhayaṃ-kara-rākṣasa</l>
-			<l n="d">praśama-hetur a<lb n="1r3" break="no"/>j<choice><sic>e</sic><corr>o</corr></choice> madh<choice><sic>a</sic><corr>u</corr></choice>-sūdanaḥ ||-</l>
+			<l n="d">praśama-hetur a<lb n="1r3=3" break="no"/>j<choice><sic>e</sic><corr>o</corr></choice> madh<choice><sic>a</sic><corr>u</corr></choice>-sūdanaḥ ||-</l>
 		</lg>
 		
 		<lg n="2" met="incorrect">
@@ -327,32 +327,53 @@
 		
 		<p>			
 			vēcāli-p-pēraraiyaṉ viṇṇap
-			<lb n="3v2"/>pattāl viṭēlviṭuku-kāṭupaṭṭi-t-tamiḻ-p-pēraraiyaṉ Āṇaṭṭi Āka
-			<lb n="3v3"/>Aruvā-nāṭṭu k-k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-vaḻi-vākūr-nāṭṭu nāṭṭār kāṇka
+			<lb n="3v2=47"/>pattāl viṭēlviṭuku-kāṭupaṭṭi-t-tamiḻ-p-pēraraiyaṉ Āṇaṭṭi Āka
+			<lb n="3v3=48"/>Aruvā-nāṭṭu k-k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-vaḻi-vākūr-nāṭṭu nāṭṭār kāṇka
 		</p>
 		
 		<p>
 			ta<orig>n-n</orig>āṭṭu ceṭṭu
-			<lb n="3v4" break="no"/>p-pā<supplied reason="omitted">k</supplied>kam-um viḷaṅkāṭṭaṅkaṭuvaṉūr-um Iṟaippuṇaiccēri-y-u
-			<lb n="3v5" break="no"/>m āka I-m-muṉṟūr-um paḻ<choice><orig>a</orig><reg>ai</reg></choice>ya-v-aṟam-um <hi rend="grantha">brahmade</hi>yam-um n<choice><orig>i</orig><reg>ī</reg></choice>kki mu
-			<lb n="3v6" break="no"/>ṉ-peṟṟār-ai māṟṟi yāṇṭu Eṭṭāvatu vākūr <hi rend="grantha">vidyā-sthā</hi>ṉat
-			<lb n="3v7" break="no"/>tārkku <hi rend="grantha">vidyā-bhoga</hi>m-āka-p paṇittōm
+			<lb n="3v4=49" break="no"/>p-pā<supplied reason="omitted">k</supplied>kam-um viḷaṅkāṭṭaṅkaṭuvaṉūr-um Iṟaippuṇaiccēri-y-u
+			<lb n="3v5=50" break="no"/>m āka I-m-muṉṟūr-um paḻ<choice><orig>a</orig><reg>ai</reg></choice>ya-v-aṟam-um <hi rend="grantha">brahmade</hi>yam-um n<choice><orig>i</orig><reg>ī</reg></choice>kki mu
+			<lb n="3v6=51" break="no"/>ṉ-peṟṟār-ai māṟṟi yāṇṭu Eṭṭāvatu vākūr <hi rend="grantha">vidyā-sthā</hi>ṉat
+			<lb n="3v7=52" break="no"/>tārkku <hi rend="grantha">vidyā-bhoga</hi>m-āka-p paṇittōm
 		</p>
 		
 		<p>
 			tāṅkaḷ-um paṭākai naṭan
-			<lb n="3v8" break="no"/>tu kallum kaḷḷiyum n<choice><sic>a</sic><corr>ā</corr></choice>ṭṭi Aṟai-y-ōlai ceytu viṭutaka-v eṉ<unclear>ṟu</unclear>
-			<lb n="3v9"/>nāṭṭārkku-t tirumukam viṭa nāṭṭār tirumukaṅ kaṇṭu toḻutu talai
-			<lb n="3v10" break="no"/><unclear>k</unclear>ku vaittu-p paṭākai naṭantu kalluṅ kaḷḷiyu<supplied reason="omitted">m</supplied> nāṭṭi Aṟai-<supplied reason="lost">y</supplied>-<unclear>ō</unclear><supplied reason="lost">lai</supplied>
-
-			
+			<lb n="3v8=53" break="no"/>tu kallum kaḷḷiyum n<choice><sic>a</sic><corr>ā</corr></choice>ṭṭi Aṟai-y-ōlai ceytu viṭutaka-v eṉ<unclear>ṟu</unclear>
+			<lb n="3v9=54"/>nāṭṭārkku-t tirumukam viṭa nāṭṭār tirumukaṅ kaṇṭu toḻutu talai
+			<lb n="3v10=55" break="no"/><unclear>k</unclear>ku vaittu-p paṭākai naṭantu kalluṅ kaḷḷiyu<supplied reason="omitted">m</supplied> nāṭṭi Aṟai-<supplied reason="lost">y</supplied>-<unclear>ō</unclear><supplied reason="lost">lai</supplied>			
 			<pb n="4r"/>
-			<lb n="4r1=56"/>...
-			
-			<pb n="4v"/>
-			<lb n="4v1=66"/>...
-	
-			<lb n="4v9=74"/> tu :||⸺</p>
+			<lb n="4r1=56"/>ceytu nāṭṭār viṭunta Aṟai-y-ōlai-p paṭi nilattukk' ellai
+		</p>
+		<p>
+			viḷā
+			<lb n="4r2=57" break="no"/>ṅkāṭṭaṅkaṭuvaṉūrk=kuñ ceṭṭuppāk=kattuk=kum-āka Iraṇṭūrk=kuṅ k<choice><orig>i</orig><reg>ī</reg></choice>
+			<lb n="4r3=58" break="no"/>ḻpāṟk' ellai kāṭṭu Ellai<choice><orig>Iṉṉ</orig><reg>y-iṉ</reg></choice>um neṉmalippāk=kattu Ellai<choice><orig>I</orig><reg>y-i</reg></choice>ṉ			
+			<lb n="4r4=59"/>mēṟkun teṉpāṟk' ellai neṉmalippākkatt' Ellai<choice><orig>Iṉṉ</orig><reg>y-iṉ</reg></choice>un nelvā
+			<lb n="4r5=60" break="no"/>yippāk=katt' ellai<choice><orig>Iṉṉ</orig><reg>y-iṉ</reg></choice>um Uṟattūr ellaik=ku vaṭak=kum mēlpā
+			<lb n="4r6=61" break="no"/>ṟk' ellai māmpāk=katt' ellai<choice><orig>Iṉṉ</orig><reg>y-iṉ</reg></choice>um Iv-viḷāṅkāṭṭāṅkaṭuvaṉū
+			<lb n="4r7=62" break="no"/>r-p pāṟ piramatēyam-ā<choice><orig>I</orig><reg>yi</reg></choice>ṉa Aṟupatu ceṟuvuk=ku k=kiḻakkum vaṭapāṟk' ellai vā
+			<lb n="4r8=63" break="no"/>kūr ellai<choice><orig>I</orig><reg>y-i</reg></choice>ṉ ṟeṟkum			
+		</p>
+		
+		<p>
+			Iṟaippuṇaiccērikk' ellai k<choice><orig>i</orig><reg>ī</reg></choice>ḻpāṟkellai natta
+			<lb n="4r9=64" break="no"/>m Uḷḷiṭṭa kāṭṭuk=ku mēṟkun teṉpāṟk' ellai neruñci kuṟumpiṉ Ellai
+			<lb n="4r10=65" break="no"/><choice><orig>I</orig><reg>y-i</reg></choice>ṉ vaṭakku mēlpāṟk' ellai vākūr ellai<choice><orig>I</orig><reg>y-i</reg></choice>ṉ kiḻak=kum vaṭapāṟkellai							<pb n="4v"/>
+			<lb n="4v1=66"/>kiṟimāṉpātti Ellai<choice><orig>I</orig><reg>y-i</reg></choice>ṉ ṟeṟkum-āka
+		</p>
+		<p>			
+			Ivvicaitta perunāṉk' ellai
+			<lb n="4v2=67" break="no"/>kaḷil-um akappaṭṭa nilaṉ n<choice><orig>i</orig><reg>ī</reg></choice>r-nilaṉum puṉ-ce<choice><orig>yy</orig><reg>y</reg></choice>um Ū<choice><sic>ma</sic><corr>ru</corr></choice>m Ūr-irukkaiyu
+			<lb n="4v3=68" break="no"/>maṉaiyu maṉai-p-paṭappu maṉṟuṅ kaṉṟu-mē<choice><orig>yi</orig><reg>y</reg></choice>-pāḻuṅ kuḷamuṅ koṭṭakāra
+			<lb n="4v4=69" break="no"/>muṅ kiṭaṅkuṅ kēṇiyuṅ kāṭuṅ kaḷarum Ōṭaiyum Uṭaipp-um Uḷḷiṭṭu n<choice><orig>i</orig><reg>ī</reg></choice>r
+			<lb n="4v5=70" break="no"/>pūci neṭum paramp' eṟintu Uṭump' ōṭi Āmai tavaḻntat' ellā
+			<lb n="4v6=71" break="no"/>m Uṇṇilaṉ oḻi-v-iṉṟi vākūr-<hi rend="grantha">vidyā-sthā</hi>ṉattārkku <hi rend="grantha">vidyā</hi><surplus><gap reason="illegible" quantity="1" unit="character"/></surplus>				
+			<lb n="4v7=72" break="no"/><hi rend="grantha">bhogam</hi>-āyi vākūrōṭē Ēṟi vākūr peṟṟa pari<hi rend="grantha">hā</hi>ram-um <hi rend="grantha">vyavastai</hi><unclear>yu</unclear>
+			<lb n="4v8=73" break="no"/>m peṟṟu <hi rend="grantha">sarvva-parihā</hi>ram-āyi <hi rend="grantha">brahma</hi>tēyam-āyi-p para<hi rend="grantha">datti</hi> ceṉṟa
+			<lb n="4v9=74" break="no"/> tu :||⸺</p>
 	</div>
 	
 	<div type="textpart" xml:lang="san-Latn" n="C">
@@ -374,12 +395,12 @@
 			<l n="d">pallava-kula-<unclear>m</unclear>ūla-bhṛtyo ’tra :||-</l></lg>
 	</div>
 	
-	<div type="textpart" xml:lang="san-Latn" n="D">
+	<div type="textpart" xml:lang="tam-Latn" n="D">
 	<head xml:lang="eng">Tamil portion 2 of 2</head>
 			
 		<p>
-			<lb n="5r3=78"/>kaccipēṭṭu kīḻ-paicārattu Uditodaya peru<supplied reason="omitted">n</supplied>-taṭṭā<supplied reason="omitted">ṉ</supplied> makaṉ mādevi peru<supplied reason="omitted">n</supplied>
-			<lb n="5r4=79"/>ṉ makan <hi rend="grantha">nṛpa</hi>tu<hi rend="grantha">ṃga</hi> Eḻuttu :||-
+			<lb n="5r3=78"/>kaccipēṭṭu k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-paicārattu U<hi rend="grantha">di</hi>to<hi rend="grantha">da</hi>ya peru<supplied reason="omitted">n</supplied>-taṭṭā<supplied reason="omitted">ṉ</supplied> makaṉ mā<hi rend="grantha">de</hi>vi-peru<supplied reason="omitted">n</supplied>-taṭṭā<supplied reason="omitted">ṉ</supplied>
+			<lb n="5r4=79"/>ṉ maka<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">nṛpa</hi>tu<hi rend="grantha">ṃga</hi><supplied reason="omitted">ṉ</supplied> Eḻuttu :||-
 		</p>
 		
 		<p>
@@ -401,13 +422,100 @@
 	
 </div>-->
 
-      	<div type="translation" resp="part:emfr">
-      		<p>English translation to be added after finalisation of the French translation.</p>
-      	</div>
-
-      	<div type="translation" xml:lang="fra" resp="part:sybr">
+<div type="translation" resp="part:emfr">
       		
-      	</div>
+	<div type="textpart" n="A">		
+		<head xml:lang="eng">Sanskrit portion 1 of 2</head>
+	</div>
+	
+	<div type="textpart" n="B">
+		<head xml:lang="eng">Tamil portion 1 of 2</head>
+		
+		<p n="3r9-3v1=45-46">
+			Seventh year of the victorious king Nṛpatuṅgavarman.
+		</p>
+		
+		<p n="46-48">
+			...
+		</p>		
+				
+		<p n="48-52">
+			...
+		</p>
+				
+		<p n="52-56">
+			...
+		</p>
+				
+		<p n="56-63">
+			As for both Viḷāṃkāṭṭāṅkaṭuvaṉūr and Ceṭṭuppākkam: 
+			
+			<l>the eastern-side boundary <supplied reason="subaudible">is</supplied> west of the boundary of the forest and of the boundary of Neṉmalippākkam;</l>
+			<l>the southern-side boundary <supplied reason="subaudible">is</supplied> north of the boundary of Neṉmalippākkam, of the boundary of Nelvāyippākkam and of the boudary of Urattūr;</l>
+			<l>the western-side boundary <supplied reason="subaudible">is</supplied> east of the boundary of Māmpākkam and of the sixty fields which are the <foreign>brahmadeya</foreign> on the side of Viḷāṃkāṭṭāṅkaṭuvaṉūr;</l>
+			<l>the northern-side boundary <supplied reason="subaudible">is</supplied> south of the boundary of Vākūr.</l>
+			
+		</p>
+		
+		<p n="63-66">
+			
+			As for the boundaries of Iṟaippuṇaiccēri: 
+			
+			<l>the eastern-side boundary <supplied reason="subaudible">is</supplied> west of the forest which includes the <foreign>nattam</foreign>;</l>
+			<l>the southern-side boundary <supplied reason="subaudible">is</supplied> north of the boundary of the <foreign>neruñci kuṟumpu</foreign>;</l>
+			<l>the western-side boundary <supplied reason="subaudible">is</supplied> east of the boundary of Vākūr;</l>
+			<l>the northern-side boundary <supplied reason="subaudible">is</supplied> south of the boundary of Kiṟimānpātti.</l>
+		</p>
+				
+		<p n="66-74">
+			...
+		</p>
+	</div>
+	
+	<div type="textpart" n="C">
+		<head xml:lang="eng">Sanskrit portion 2 of 2</head>
+	</div>
+	
+	<div type="textpart" n="D">
+		<head xml:lang="eng">Tamil portion 2 of 2</head>
+		
+		<p n="78-74">
+			Writing of Nṛpatuṅga, son of Mahādeviperuntaṭṭāṉ, son of Uditodayaperuntaṭṭāṉ, of Kīḻpaicāram in Kaccippēṭu.
+		</p>
+	</div>
+	
+</div>
+
+<div type="translation" xml:lang="fra" resp="part:sybr">
+	
+	<div type="textpart" n="A">
+		<head xml:lang="eng">Sanskrit portion 1 of 2</head>
+		
+		<p n="1">
+			Salut ! Prospérité !
+		</p> 
+		
+		<p rend="stanza" n="1">
+			<l>Qu’il vous montre la prospérité, celui dont les yeux sont des lotus, dont les pieds sont des lotus que les diadèmes des Trente usent de leur contact</l>,
+			
+			<l>Celui qui causa la perte des Rākṣasa qui terrifiaient le monde entier, le Non né, le meurtrier de Madhu !</l>
+		</p>
+
+	</div>
+	
+	<div type="textpart" n="B">
+		<head xml:lang="eng">Tamil portion 1 of 2</head>
+	</div>
+	
+	<div type="textpart" n="C">
+		<head xml:lang="eng">Sanskrit portion 2 of 2</head>
+	</div>
+	
+	<div type="textpart" n="D">
+		<head xml:lang="eng">Tamil portion 2 of 2</head>
+	</div>
+      		
+</div>
 
       	<div type="commentary">
 
@@ -415,7 +523,7 @@
       	</div>
 
          <div type="bibliography">
-<p>First edited by <bibl><ptr target="bib:Vinson1905_01"/></bibl>; re-edited by <bibl><ptr target="bib:KrishnaSastri1916_01"/></bibl> (postscript to SII 2, no. 98), <bibl><ptr target="bib:Hultzsch1925-1926_01"/></bibl> (EI 18.2), <bibl><ptr target="bib:Subrahmaniam1966_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 155); Sanskrit text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 62); re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2022), based on autopsy and photographs of the original plates in the BnF.
+<p>First edited and translated into French by <bibl><ptr target="bib:Vinson1905_01"/></bibl>; re-edited by <bibl><ptr target="bib:KrishnaSastri1916_01"/></bibl> (postscript to SII 2, no. 98); re-edited and translated into English by <bibl><ptr target="bib:Hultzsch1925-1926_01"/></bibl> (EI 18.2); re-edited by <bibl><ptr target="bib:Subrahmaniam1966_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 155); Sanskrit text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 62); <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR no. 91); re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2022), based on autopsy and photographs of the original plates in the BnF.
 	
             </p>
 
@@ -442,19 +550,33 @@
 
             	<bibl n="SB">
             		<ptr target="bib:Brocquet1997_01"/>
-            		<citedRange unit="page">***</citedRange>
+            		<citedRange unit="page">732-748</citedRange>
             		<citedRange unit="item">62</citedRange>
             	</bibl>
 
             </listBibl>
 
-           <!-- <listBibl type="secondary">
-
-            	<bibl>
-            		<ptr target="bib:"/>
-            	</bibl>
-
-           </listBibl>-->
+           <listBibl type="secondary">
+      			      			
+      			<bibl>
+            			<ptr target="bib:ARIE1922-1923"/>
+            			<citedRange unit="page">45</citedRange>
+            			<citedRange unit="appendix">B/1922</citedRange>
+            			<citedRange unit="item">665</citedRange>      				     				
+            		</bibl>      			      			
+      			
+      			<bibl>
+      				<ptr target="bib:Francis2013_01"/>
+      				<citedRange unit="page">302</citedRange>
+      				<citedRange unit="item">IR 91</citedRange>
+      				
+      			</bibl>
+      			<bibl>
+      				<ptr target="bib:Francis2017_01"/>
+      				<citedRange unit="page">755</citedRange>      				
+      				<citedRange unit="item">IR 91</citedRange>
+      			</bibl>
+      		</listBibl>
 
          </div>
 
