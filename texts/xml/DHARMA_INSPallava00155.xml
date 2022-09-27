@@ -51,7 +51,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p/>
+							<p>Sanskrit spelling influenced by Tamil usage. Tamil medial <foreign>i</foreign> and <foreign>ī</foreign> not distinguished and interchangeable.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -87,75 +87,305 @@
 		<body>
 	
 			
-<div type="edition" xml:lang="san-Latn">
+<div type="edition">
+	
+	<!--how to tag grantha for large chunks. Create textparts? What about textpart starting in the middle of line?-->
+	<!--update encoding of punctuation at verse end-->
+	<!--how to indicate line in page and line in the total text? <lb n="1r1=1"/>?-->
+	<!--punctuation: inside or outside <l> and </lg>?-->
+	<!--placement of <pb> and <lb>vis à vis <l> and <lg>-->
+	<!--check metre names-->
 	
 	<div type="textpart" xml:lang="san-Latn" n="A">
-<head xml:lang="eng">Seal</head>
-		<p>[found without seal]</p><!--Check if such info to be encoded here.-->
-	</div>
-	
-	<div type="textpart" xml:lang="san-Latn" n="B">
-
-<head xml:lang="eng">Plates</head>
-		<!--update encoding of punctuation at verse end-->
-		<!--how to indicate line in page and line in the total text?-->
-		<!--punctuation: inside or outside <l> and </lg>?-->
-
+	<head xml:lang="eng">Sanskrit portion 1 of 2</head>		
+		
 		<ab>
 			<pb n="1r"/>
-			<lb n="1r1"/>svasti śrī
+			<lb n="1r1=1"/>svasti śrī
 		</ab>
 		
-		<lg n="1" met="TBC">
+		<lg n="1" met="drutavilambita">
 			<l n="a">diśatu va<supplied reason="omitted">ḥ</supplied> śriyam ambuja-locanas</l>
 			<l n="b">tridaśa-mauli-nighṛ<lb n="1r2" break="no"/>ṣta-padāmbujaḥ</l>
 			<l n="c" enjamb="yes">sakala-loka-bhayaṃ-kara-rākṣasa</l>
 			<l n="d">praśama-hetur a<lb n="1r3" break="no"/>j<choice><sic>e</sic><corr>o</corr></choice> madh<choice><sic>a</sic><corr>u</corr></choice>-sūdanaḥ ||-</l>
 		</lg>
+		
+		<lg n="2" met="incorrect">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+		
+		<lg n="3" met="anuṣṭubh">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+			
+		<lg n="4" met="anuṣṭubh">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+			
+		<lg n="5" met="anuṣṭubh">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+		
+		<lg n="6" met="anuṣṭubh">
+			<l n="a">aśvatthāmnas tato rājā</l>
+			<l n="b">pallavākhyo babhūva yaḥ</l>
+			<l n="c">ra<pb n="1v" break="no"/><lb n="1v1=10" break="no"/>ra<choice><orig>tṣa</orig><reg>kṣa</reg></choice> nava-khaṇḍa-sthān</l>
+			<l n="d">bhūpatīn sa-kṛṣīvalān∙ |- </l>
+		</lg>		
+		
+			
+		<lg n="7" met="drutavilambita">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+			
+		<lg n="8" met="anuṣṭubh">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+			
+		<lg n="9" met="anuṣṭubh">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+			
+		<lg n="10" met="anuṣṭubh">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+			
+		<lg n="11" met="anuṣṭubh">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+			
+		<lg n="12" met="anuṣṭubh">
+			<l n="a">nandi<lb n="1v9=18" break="no"/>varmmā mahā-bāhus</l>
+			<l n="b">sa<supplied reason="omitted">ṃ</supplied>jāto <choice><orig>ta</orig><reg>da</reg></choice>ntiva<supplied reason="omitted">r</supplied>mmanaḥ</l>
+			<l n="c">samare vijitā bhūmir</l>
+			<l n="d">asahāye<pb n="2r" break="no"/><lb n="2r1=19" break="no"/>na yena saḥ |-</l>
+		</lg>
+			
+		<lg n="13" met="anuṣṭubh">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+			
+		<lg n="14" met="anuṣṭubh">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+			
+		<lg n="15" met="vasantatilaka">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+			
+		<lg n="16" met="anuṣṭubh">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+			
+		<lg n="17" met="anuṣṭubh">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+			
+		<lg n="18" met="anuṣṭubh">
+			<l n="a">tasyopakāra-saṃyukto</l>
+			<l n="b">rājñaḥ kuru-kulo<choice><orig>tbha</orig><reg>dbha</reg></choice>vaḥ</l>
+			<l n="c">veśāli-vaṃśa-m[ā]<pb n="2v" break="no"/><lb n="2v1=28" break="no"/>[r]ttāṇḍaḥ</l>
+			<l n="d">prajānāṃ śaraṇe rataḥ |- </l>
+		</lg>
+			
+		<lg n="19" met="anuṣṭubh">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+			
+		<lg n="20" met="anuṣṭubh">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+			
+		<lg n="21" met="anuṣṭubh">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+			
+		<lg n="22" met="anuṣṭubh">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+			
+		<lg n="23" met="anuṣṭubh">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+			
+		<lg n="24" met="anuṣṭubh">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+			
+		<lg n="25" met="anuṣṭubh">
+			<l n="a"><pb n="3r"/><lb n="3r1=37"/>vidyā-nadī</l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+			
+		<lg n="26" met="anuṣṭubh">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+			
+		<lg n="27" met="anuṣṭubh">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+			
+		<lg n="28" met="anuṣṭubh">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+				
+		<lg n="29" met="anuṣṭubh">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+				
+		<lg n="30" met="anuṣṭubh">
+			<l n="a"></l>
+			<l n="b"></l>
+			<l n="c"></l>
+			<l n="d"></l>
+		</lg>
+	</div>
 	
-		<p><pb n="1v"/>
-		<lb n="1v1"/>...
-	
-		<pb n="2r"/>
-		<lb n="2r1"/>...
-	
-		<pb n="2v"/>
-		<lb n="2v1"/>...
-	
-		<pb n="3r"/>
-		<lb n="3r1"/>...</p>
-	
+	<div type="textpart" xml:lang="tam-Latn" n="B">
+	<head xml:lang="eng">Tamil portion 1 of 2</head>
 		
 		<p>
 			kō-vicaiya-<hi rend="grantha">nṛ</hi>
 			<pb n="3v" break="no"/>
-			<lb n="3v1" break="no"/><unclear>pa</unclear>toṅkavarmmaṟku yāṇṭu Eṭṭāvatu vēcāli-p-peraraiyaṉ viṇṇap	
+			<lb n="3v1=46" break="no"/><unclear>pa</unclear>t<choice><orig>o</orig><reg>u</reg></choice>ṅkava<hi rend="grantha">rmma</hi>ṟku yāṇṭu Eṭṭāvatu
+		</p>
+		
+		<p>			
+			vēcāli-p-pēraraiyaṉ viṇṇap
+			<lb n="3v2"/>pattāl viṭēlviṭuku-kāṭupaṭṭi-t-tamiḻ-p-pēraraiyaṉ Āṇaṭṭi Āka
+			<lb n="3v3"/>Aruvā-nāṭṭu k-k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-vaḻi-vākūr-nāṭṭu nāṭṭār kāṇka
+		</p>
+		
+		<p>
+			ta<orig>n-n</orig>āṭṭu ceṭṭu
+			<lb n="3v4" break="no"/>p-pā<supplied reason="omitted">k</supplied>kam-um viḷaṅkāṭṭaṅkaṭuvaṉūr-um Iṟaippuṇaiccēri-y-u
+			<lb n="3v5" break="no"/>m āka I-m-muṉṟūr-um paḻ<choice><orig>a</orig><reg>ai</reg></choice>ya-v-aṟam-um <hi rend="grantha">brahmade</hi>yam-um n<choice><orig>i</orig><reg>ī</reg></choice>kki mu
+			<lb n="3v6" break="no"/>ṉ-peṟṟār-ai māṟṟi yāṇṭu Eṭṭāvatu vākūr <hi rend="grantha">vidyā-sthā</hi>ṉat
+			<lb n="3v7" break="no"/>tārkku <hi rend="grantha">vidyā-bhoga</hi>m-āka-p paṇittōm
+		</p>
+		
+		<p>
+			tāṅkaḷ-um paṭākai naṭan
+			<lb n="3v8" break="no"/>tu kallum kaḷḷiyum n<choice><sic>a</sic><corr>ā</corr></choice>ṭṭi Aṟai-y-ōlai ceytu viṭutaka-v eṉ<unclear>ṟu</unclear>
+			<lb n="3v9"/>nāṭṭārkku-t tirumukam viṭa nāṭṭār tirumukaṅ kaṇṭu toḻutu talai
+			<lb n="3v10" break="no"/><unclear>k</unclear>ku vaittu-p paṭākai naṭantu kalluṅ kaḷḷiyu<supplied reason="omitted">m</supplied> nāṭṭi Aṟai-<supplied reason="lost">y</supplied>-<unclear>ō</unclear><supplied reason="lost">lai</supplied>
+
 			
 			<pb n="4r"/>
-			<lb n="4r1"/>...
+			<lb n="4r1=56"/>...
 			
 			<pb n="4v"/>
-			<lb n="4v1"/>...
+			<lb n="4v1=66"/>...
+	
+			<lb n="4v9=74"/> tu :||⸺</p>
+	</div>
+	
+	<div type="textpart" xml:lang="san-Latn" n="C">
+	<head xml:lang="eng">Sanskrit portion 2 of 2</head>
 			
-			<pb n="5r"/>
-			<lb n="5r1=76"/>buja-śekhareṇa :||- [v31]
-			</p>
+			<lg n="31" met="anuṣṭubh">
+			<l n="a">puṇyaṃ samaṃ kṛtavatām‧ parirakṣatāñ ca</l>
+			<l n="b">tad rakṣateti nṛpatir nnṛ<lb n="4v10=75"/>patuṅga varmmā</l>
+			<l n="c">Āgāminaḥ kṣitipatīn praṇamaty ajasram‧</l>
+			<l n="d">mūrddhnā mukunda-caraṇ[ām/āṃ]<pb n="5r"/><lb n="5r1=76"/>buja-śekhareṇa :||-</l>
+		</lg>
+		 
+			
 		<lg n="32" met="TBC">
 			<l n="a">Uditodita-kula-tilaka<supplied reason="omitted">ḥ</supplied></l>
 			<l n="b">suvarṇṇa-kṛt sarvva-śā<unclear>stra</unclear>
 				<lb n="5r2=77" break="no"/>niṣṇātaḥ</l>
 			<l n="c">Alikhan nṛpatuṃgākhyaḥ</l>
 			<l n="d">pallava-kula-<unclear>m</unclear>ūla-bhṛtyo ’tra :||-</l></lg>
-			<p>
+	</div>
+	
+	<div type="textpart" xml:lang="san-Latn" n="D">
+	<head xml:lang="eng">Tamil portion 2 of 2</head>
+			
+		<p>
 			<lb n="5r3=78"/>kaccipēṭṭu kīḻ-paicārattu Uditodaya peru<supplied reason="omitted">n</supplied>-taṭṭā<supplied reason="omitted">ṉ</supplied> makaṉ mādevi peru<supplied reason="omitted">n</supplied>
 			<lb n="5r4=79"/>ṉ makan <hi rend="grantha">nṛpa</hi>tu<hi rend="grantha">ṃga</hi> Eḻuttu :||-
-	</p>
-	
-	<p>
-		<pb n="5v"/>
-	</p>	
-	
-</div>
+		</p>
+		
+		<p>
+			<pb n="5v"/>
+		</p>	
+	</div>
 </div>
 			
 <!--<div type="apparatus">
