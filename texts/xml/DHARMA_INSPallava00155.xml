@@ -47,11 +47,11 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Grant (<foreign>vidyābhoga</foreign>) of three villages (Ceṭṭuppākkam, Vidyāviḷāṃgāṭṭāṅgaḍuvanūr and Iṟaippuṇaiccēri) in the Kīḻvaḻivākūrnāṭu in the Aruvānāṭu to the <foreign>vidyāsthāna</foreign> of Vāgūr/Vākūr.</summary>
+						<summary>Grant (<foreign>vidyābhoga</foreign>) of three villages (Ceṭṭuppākkam, Viḷāṅkāṭṭāṅkaṭuvaṉūr and Iṟaippuṇaiccēri) in the Kīḻvaḻivākūrnāṭu in the Aruvānāṭu to the <foreign>vidyāsthāna</foreign> of Vāgūr/Vākūr.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>Sanskrit spelling influenced by Tamil usage. Tamil medial <foreign>i</foreign> and <foreign>ī</foreign> not distinguished and interchangeable. Tamil oblique suffix <foreign>-iṉ</foreign> with initial <foreign>i</foreign>.</p>
+							<p>Sanskrit spelling influenced by Tamil usage. Tamil medial <foreign>i</foreign> and <foreign>ī</foreign> not distinguished and interchangeable. Tamil oblique suffix <foreign>-iṉ</foreign> with initial <foreign>i</foreign>. The punctuation marks at the end of stanzas have various forms. For further paleaographical details, see <bibl n="EH"><ptr target="bib:Hultzsch1925-1926_01"/><citedRange unit="page">5-6</citedRange></bibl>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -101,7 +101,7 @@
 		
 		<ab>
 			<pb n="1r"/>
-			<lb n="1r1=1"/>svasti śrī
+			<lb n="1r1=1"/>svast<choice><orig>ī</orig><reg>i</reg></choice> śrī
 		</ab>
 		
 		<lg n="1" met="drutavilambita">
@@ -111,7 +111,7 @@
 			<l n="d">praśama-hetur a<lb n="1r3=3" break="no"/>j<choice><sic>e</sic><corr>o</corr></choice> madh<choice><sic>a</sic><corr>u</corr></choice>-sūdanaḥ ||-</l>
 		</lg>
 		
-		<lg n="2" met="incorrect">
+		<lg n="2" met="praharṣiṇī">
 			<l n="a"></l>
 			<l n="b"></l>
 			<l n="c"></l>
@@ -141,9 +141,9 @@
 		
 		<lg n="6" met="anuṣṭubh">
 			<l n="a">aśvatthāmnas tato rājā</l>
-			<l n="b">pallavākhyo babhūva yaḥ</l>
+			<l n="b">pallavākhyo babhūva <choice><sic>U</sic><corr>yaḥ</corr></choice></l>
 			<l n="c">ra<pb n="1v" break="no"/><lb n="1v1=10" break="no"/>ra<choice><orig>tṣa</orig><reg>kṣa</reg></choice> nava-khaṇḍa-sthān</l>
-			<l n="d">bhūpatīn sa-kṛṣīvalān∙ |- </l>
+			<l n="d">bhūpatīn sa-kṛṣ<choice><orig>i</orig><reg>ī</reg></choice>valān∙ |- </l>
 		</lg>		
 		
 			
@@ -203,7 +203,7 @@
 			<l n="d"></l>
 		</lg>
 			
-		<lg n="15" met="vasantatilaka">
+		<lg n="15" met="vasantatilakā">
 			<l n="a"></l>
 			<l n="b"></l>
 			<l n="c"></l>
@@ -226,8 +226,8 @@
 			
 		<lg n="18" met="anuṣṭubh">
 			<l n="a">tasyopakāra-saṃyukto</l>
-			<l n="b">rājñaḥ kuru-kulo<choice><orig>tbha</orig><reg>dbha</reg></choice>vaḥ</l>
-			<l n="c">veśāli-vaṃśa-m[ā]<pb n="2v" break="no"/><lb n="2v1=28" break="no"/>[r]ttāṇḍaḥ</l>
+			<l n="b">rājñaḥ kuru-kulodbhavaḥ</l>
+			<l n="c">veśāli-vaṃśa-m<unclear>ā</unclear><pb n="2v" break="no"/><lb n="2v1=28" break="no"/><unclear>r</unclear>ttā<unclear>ṇḍaḥ</unclear></l>
 			<l n="d">prajānāṃ śaraṇe rataḥ |- </l>
 		</lg>
 			
@@ -274,7 +274,7 @@
 		</lg>
 			
 		<lg n="25" met="anuṣṭubh">
-			<l n="a"><pb n="3r"/><lb n="3r1=37"/>vidyā-nadī</l>
+			<l n="a"><pb n="3r"/><lb n="3r1=37"/>vidyā-nad<choice><orig>i</orig><reg>ī</reg></choice></l>
 			<l n="b"></l>
 			<l n="c"></l>
 			<l n="d"></l>
@@ -353,7 +353,7 @@
 			<lb n="4r3=58" break="no"/>ḻpāṟk' ellai kāṭṭu Ellai<choice><orig>Iṉṉ</orig><reg>y-iṉ</reg></choice>um neṉmalippāk=kattu Ellai<choice><orig>I</orig><reg>y-i</reg></choice>ṉ			
 			<lb n="4r4=59"/>mēṟkun teṉpāṟk' ellai neṉmalippākkatt' Ellai<choice><orig>Iṉṉ</orig><reg>y-iṉ</reg></choice>un nelvā
 			<lb n="4r5=60" break="no"/>yippāk=katt' ellai<choice><orig>Iṉṉ</orig><reg>y-iṉ</reg></choice>um Uṟattūr ellaik=ku vaṭak=kum mēlpā
-			<lb n="4r6=61" break="no"/>ṟk' ellai māmpāk=katt' ellai<choice><orig>Iṉṉ</orig><reg>y-iṉ</reg></choice>um Iv-viḷāṅkāṭṭāṅkaṭuvaṉū
+			<lb n="4r6=61" break="no"/>ṟk' ellai māmpāk=katt' ellai<choice><orig>Iṉṉ</orig><reg>y-iṉ</reg></choice>um Iv-viḷāṅkāṭṭ<choice><sic>ā</sic><corr>a</corr></choice>ṅkaṭuvaṉū
 			<lb n="4r7=62" break="no"/>r-p pāṟ piramatēyam-ā<choice><orig>I</orig><reg>yi</reg></choice>ṉa Aṟupatu ceṟuvuk=ku k=kiḻakkum vaṭapāṟk' ellai vā
 			<lb n="4r8=63" break="no"/>kūr ellai<choice><orig>I</orig><reg>y-i</reg></choice>ṉ ṟeṟkum			
 		</p>
@@ -368,7 +368,7 @@
 			Ivvicaitta perunāṉk' ellai
 			<lb n="4v2=67" break="no"/>kaḷil-um akappaṭṭa nilaṉ n<choice><orig>i</orig><reg>ī</reg></choice>r-nilaṉum puṉ-ce<choice><orig>yy</orig><reg>y</reg></choice>um Ū<choice><sic>ma</sic><corr>ru</corr></choice>m Ūr-irukkaiyu
 			<lb n="4v3=68" break="no"/>maṉaiyu maṉai-p-paṭappu maṉṟuṅ kaṉṟu-mē<choice><orig>yi</orig><reg>y</reg></choice>-pāḻuṅ kuḷamuṅ koṭṭakāra
-			<lb n="4v4=69" break="no"/>muṅ kiṭaṅkuṅ kēṇiyuṅ kāṭuṅ kaḷarum Ōṭaiyum Uṭaipp-um Uḷḷiṭṭu n<choice><orig>i</orig><reg>ī</reg></choice>r
+			<lb n="4v4=69" break="no"/>muṅ kiṭaṅkuṅ kēṇiyuṅ kāṭuṅ kaḷarum Ōṭaiyum Uṭaipp-um Uḷḷiṭṭu n<choice><orig>i</orig><reg>ī</reg></choice><unclear>r</unclear>
 			<lb n="4v5=70" break="no"/>pūci neṭum paramp' eṟintu Uṭump' ōṭi Āmai tavaḻntat' ellā
 			<lb n="4v6=71" break="no"/>m Uṇṇilaṉ oḻi-v-iṉṟi vākūr-<hi rend="grantha">vidyā-sthā</hi>ṉattārkku <hi rend="grantha">vidyā</hi><surplus><gap reason="illegible" quantity="1" unit="character"/></surplus>				
 			<lb n="4v7=72" break="no"/><hi rend="grantha">bhogam</hi>-āyi vākūrōṭē Ēṟi vākūr peṟṟa pari<hi rend="grantha">hā</hi>ram-um <hi rend="grantha">vyavastai</hi><unclear>yu</unclear>
@@ -379,17 +379,17 @@
 	<div type="textpart" xml:lang="san-Latn" n="C">
 	<head xml:lang="eng">Sanskrit portion 2 of 2</head>
 			
-			<lg n="31" met="anuṣṭubh">
+			<lg n="31" met="vasantatilakā">
 			<l n="a">puṇyaṃ samaṃ kṛtavatām‧ parirakṣatāñ ca</l>
 			<l n="b">tad rakṣateti nṛpatir nnṛ<lb n="4v10=75"/>patuṅga varmmā</l>
-			<l n="c">Āgāminaḥ kṣitipatīn praṇamaty ajasram‧</l>
-			<l n="d">mūrddhnā mukunda-caraṇ[ām/āṃ]<pb n="5r"/><lb n="5r1=76"/>buja-śekhareṇa :||-</l>
+			<l n="c">Āgāminaḥ kṣitipat<choice><orig>i</orig><reg>ī</reg></choice>n praṇamaty ajasram‧</l>
+			<l n="d">mūrd<unclear>dhnā mu</unclear>kunda-<unclear>caraṇām</unclear><pb n="5r"/><lb n="5r1=76"/>buja-śekhareṇa :||-</l>
 		</lg>
 		 
 			
-		<lg n="32" met="TBC">
+		<lg n="32" met="āryā">
 			<l n="a">Uditodita-kula-tilaka<supplied reason="omitted">ḥ</supplied></l>
-			<l n="b">suvarṇṇa-kṛt sarvva-śā<unclear>stra</unclear>
+			<l n="b">suvarṇṇa-kṛt sarvva-ś<supplied reason="lost">āstra</supplied>
 				<lb n="5r2=77" break="no"/>niṣṇātaḥ</l>
 			<l n="c">Alikhan nṛpatuṃgākhyaḥ</l>
 			<l n="d">pallava-kula-<unclear>m</unclear>ūla-bhṛtyo ’tra :||-</l></lg>
@@ -409,18 +409,65 @@
 	</div>
 </div>
 			
-<!--<div type="apparatus">
+<div type="apparatus">
 				
 	<listApp>
 		
 		<app loc="0">
 			<lem></lem>
-			<rdg source="bib:"></rdg>
+			<rdg source="bib:Hultzsch1925-1926_01"></rdg>
 		</app>	
 		
-	</listApp>
+		<app loc="1">
+			<lem>svast<choice><orig>ī</orig><reg>i</reg></choice> śrī</lem>
+			<rdg source="bib:Hultzsch1925-1926_01">svasti śrī<supplied reason="omitted">ḥ</supplied></rdg>
+		</app>	
+		
+		<app loc="9">
+			<lem><choice><sic>U</sic><corr>yaḥ</corr></choice></lem>
+			<rdg source="bib:Hultzsch1925-1926_01"><choice><sic>U</sic><corr>yaḥ</corr></choice></rdg>
+		</app>	
+		
+		<app loc="27">
+			<lem>°m<unclear>ā</unclear><pb n="2v" break="no"/><lb n="2v1=28" break="no"/><unclear>r</unclear>ttā<unclear>ṇḍaḥ</unclear></lem>
+			<rdg source="bib:Hultzsch1925-1926_01">°mā<pb n="2v" break="no"/><lb n="28" break="no"/>rttāṇḍaḥ</rdg>
+		</app>			
+		
+		<app loc="61">
+			<lem>viḷāṅkāṭṭ<choice><sic>ā</sic><corr>a</corr></choice>ṅkaṭuvaṉū
+			<lb n="62" break="no"/>r</lem>
+			<rdg source="bib:Hultzsch1925-1926_01">viḷāṅkāṭṭāṅkaṭuvaṉū
+			<lb n="62" break="no"/>r</rdg>
+			<note>In its other two occurrences (lines 49 and 56) this village's name is spelled <foreign>viḷāṅkāṭṭaṅkaṭuvaṉūr</foreign>. See <bibl><ptr target="bib:Hultzsch1925-1926_01"/><citedRange unit="page">15</citedRange><citedRange unit="note">1</citedRange></bibl>.</note>
+		</app>
+		
+		<app loc="67">
+			<lem>Ū<choice><sic>ma</sic><corr>ru</corr></choice>m</lem>
+			<rdg source="bib:Hultzsch1925-1926_01">Ū<choice><sic>ma</sic><corr>ru</corr></choice>m</rdg>
+		</app>	
+		
+		<app loc="71">
+			<lem><hi rend="grantha">vidyā</hi><surplus><gap reason="illegible" quantity="1" unit="character"/></surplus>				
+			<lb n="72" break="no"/><hi rend="grantha">bhogam</hi></lem>
+			<rdg source="bib:Hultzsch1925-1926_01"><hi rend="grantha">vidyā</hi><surplus><hi rend="grantha">bho</hi></surplus>			
+			<lb n="72" break="no"/><hi rend="grantha">bhogam</hi></rdg>
+			<note>It seems that the engraver intended to write <foreign>bho</foreign> at the end of this line, but found place only for <foreign>bhe</foreign>, and thus decided to write the full syllable <foreign>bho</foreign> at the beginning of the next line.</note>
+		</app>	
+		
+		<app loc="75">
+			<lem>mūrd<unclear>dhnā mu</unclear>kunda-<unclear>caraṇām</unclear><pb n="5r"/><lb n="76"/>buja°</lem>
+			<rdg source="bib:Hultzsch1925-1926_01">mūrddhnā mukunda-cara<unclear>ṇām</unclear><pb n="5r"/><lb n="5r1=76"/>buja°</rdg>
+		</app>	
+		
+		<app loc="0">
+			<lem>°ś<supplied reason="lost">āstra</supplied>°</lem>
+			<rdg source="bib:Hultzsch1925-1926_01">°<unclear>śāstra</unclear>°</rdg>
+		</app>	
+		
+
+		</listApp>
 	
-</div>-->
+</div>
 
 <div type="translation" resp="part:emfr">
       		
@@ -519,11 +566,11 @@
 
       	<div type="commentary">
 
-      		
+      		<p>About stanza 2, <bibl><ptr target="bib:Hultzsch1925-1926_01"/><citedRange unit="page">6</citedRange></bibl> notes: <quote>The metre of verse 2 is Praharṣiṇī; but its fourth Pāda is Anuṣṭubh, and in each of the two first Pādas the tenth and  eleventh syllables of the Praharṣiṇī metre are missing. I am unable to correct and translate this verse in a satisfactory manner.</quote></p>
       	</div>
 
          <div type="bibliography">
-<p>First edited and translated into French by <bibl><ptr target="bib:Vinson1905_01"/></bibl>; re-edited by <bibl><ptr target="bib:KrishnaSastri1916_01"/></bibl> (postscript to SII 2, no. 98); re-edited and translated into English by <bibl><ptr target="bib:Hultzsch1925-1926_01"/></bibl> (EI 18.2); re-edited by <bibl><ptr target="bib:Subrahmaniam1966_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 155); Sanskrit text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 62); <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR no. 91); re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2022), based on autopsy and photographs of the original plates in the BnF.
+<p>First edited and translated into French by <bibl><ptr target="bib:Vinson1905_01"/></bibl>; re-edited by <bibl><ptr target="bib:KrishnaSastri1916_01"/></bibl> (postscript to SII 2, no. 98); re-edited and translated into English by <bibl><ptr target="bib:Hultzsch1925-1926_01"/></bibl> (EI 18, no. 2); re-edited by <bibl><ptr target="bib:Subrahmaniam1966_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 155); Sanskrit text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 62); <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR no. 91); re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2022), based on previous editions, mostly that by <bibl><ptr target="bib:Hultzsch1925-1926_01"/></bibl>, photographs, and autopsy of the original plates in the BnF.
 	
             </p>
 
