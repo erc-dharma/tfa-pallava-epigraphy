@@ -136,7 +136,7 @@
 			<l n="a">tato <lb n="8"/>dro<unclear reason="eccentric_ductus">ṇā</unclear>n mahā-bāhus</l>
 			<l n="b">sarvva-yu<supplied reason="omitted">d</supplied>dha-viśāradaḥ</l>
 			<l n="c">Aśvatthāmā kilāṃśena</l>
-			<l n="d">sa<surplus><unclear>r</unclear></surplus>mba<lb n="9" break="no"/>bhūva pinākinaḥ ||-</l>
+			<l n="d">sa<surplus><unclear>r</unclear></surplus>mba<lb n="9" break="no"/>bhū<choice><sic>pa</sic><corr>va</corr></choice> pinākinaḥ ||-</l>
 		</lg>
 		
 		<lg n="6" met="anuṣṭubh">
@@ -422,9 +422,51 @@
 			<rdg source="bib:Hultzsch1925-1926_01">svasti śrī<supplied reason="omitted">ḥ</supplied></rdg>
 		</app>	
 		
+		<app loc="3">
+			<lem>yat teja<supplied reason="omitted">ḥ</supplied></lem>
+			<rdg source="bib:Hultzsch1925-1926_01">yat teja<supplied reason="omitted">ḥ</supplied></rdg>
+			<note><ptr target="bib:Hultzsch1925-1926_01"/> suggets to read <foreign>'bhūt tejaḥ</foreign>.</note>
+		</app>	
+		
+		<app loc="8">
+			<lem>dro<unclear reason="eccentric_ductus">ṇā</unclear>n</lem>
+			<rdg source="bib:Hultzsch1925-1926_01">droṇān</rdg>
+			<note>The <foreign>ṇā</foreign> is akwardly written.</note>
+		</app>	
+		
+		<app loc="8">
+			<lem>sa<surplus><unclear>r</unclear></surplus>mba<lb n="9" break="no"/>bhū<choice><sic>pa</sic><corr>va</corr></choice></lem>
+			<rdg source="bib:Hultzsch1925-1926_01">samba<lb n="9" break="no"/>bhūva</rdg>
+			<note>According to <ptr target="bib:Hultzsch1925-1926_01"/>, pa and va are not distinguished.</note>
+		</app>			
+		
 		<app loc="9">
 			<lem><choice><sic>U</sic><corr>yaḥ</corr></choice></lem>
 			<rdg source="bib:Hultzsch1925-1926_01"><choice><sic>U</sic><corr>yaḥ</corr></choice></rdg>
+		</app>	
+		
+		<app loc="14">
+			<lem>°<unclear reason="eccentric_ductus">b</unclear>āhuḥ</lem>
+			<rdg source="bib:Hultzsch1925-1926_01">°<unclear>b</unclear>āhuḥ</rdg>
+			<note>The letter <foreign>bā</foreign> looks like <foreign>yā</foreign>.</note>
+		</app>	
+		
+		<app loc="16">
+			<lem>yuktānā<unclear>ṃ</unclear></lem>
+			<rdg source="bib:Hultzsch1925-1926_01">yuktā<choice><sic><unclear>nāṃ</unclear></sic><corr>nyān</corr></choice></rdg>
+			<note><ptr target="bib:Hultzsch1925-1926_01"/>'s emendation is tentative.</note>
+		</app>	
+		
+		<app loc="17">
+			<lem><choice><sic>pa</sic><corr>kā</corr></choice>ṇḍāni</lem>
+			<rdg source="bib:Hultzsch1925-1926_01"><choice><sic>pa</sic><corr>kā</corr></choice>ṇḍāni</rdg>		
+			<note><ptr target="bib:Hultzsch1925-1926_01"/>'s emendation is tentative.</note>
+		</app>	
+		
+		<app loc="22">
+			<lem><unclear reason="eccentric_ductus">ba</unclear>bhūva</lem>
+			<rdg source="bib:Hultzsch1925-1926_01"><unclear>ba</unclear>bhūva</rdg>
+			<note>The letter <foreign>ba</foreign> looks like <foreign>ya</foreign>.</note>
 		</app>	
 		
 		<app loc="27">
@@ -458,7 +500,7 @@
 			<rdg source="bib:Hultzsch1925-1926_01">mūrddhnā mukunda-cara<unclear>ṇām</unclear><pb n="5r"/><lb n="5r1=76"/>buja°</rdg>
 		</app>	
 		
-		<app loc="0">
+		<app loc="76">
 			<lem>°ś<supplied reason="lost">āstra</supplied>°</lem>
 			<rdg source="bib:Hultzsch1925-1926_01">°<unclear>śāstra</unclear>°</rdg>
 		</app>	
