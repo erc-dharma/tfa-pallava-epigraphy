@@ -114,7 +114,7 @@
       				<lem>ciṟuppāḻ</lem>
       				<rdg source="bib:Kalvettu">ciṟuppāḻ</rdg>
       				<rdg source="bib:Hariharan1974_01">ciṟupāḻ</rdg>
-      				<note>See <foreign>ciṟu<choice><orig>p</orig><reg>pp</reg></choice>āḻ</foreign> in DHARMA_INSPallava00406, from the same place.</note>
+      				<note>See <foreign>ciṟu<choice><orig>p</orig><reg>pp</reg></choice>āḻ</foreign> in DHARMA_INSPallava00406 and DHARMA_INSPallava00409, from the same place.</note>
       			</app>  
       			
       			<app loc="2">
@@ -159,6 +159,10 @@
          <div type="commentary">
          	<p>
          		Line beginnings not indicated in <bibl><ptr target="bib:Kalvettu"/></bibl>, here after <bibl><ptr target="bib:Dayalan2005_01"/></bibl>. Different line beginnings in <bibl><ptr target="bib:Hariharan1974_01"/></bibl>.
+         	</p>
+         	
+         	<p>
+         		Pālāyiriyar, ruler of Ciṟuppāl = Pālācirikar, ruler of Ciṟuppāl (INSPallava406) = Pālācirir, the ruler of Ciṟuppāḻ (INSPallava409).
          	</p>
          </div>
 
