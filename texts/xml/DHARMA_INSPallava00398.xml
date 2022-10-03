@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary></summary>
+						<summary/>
 					</msContents>
 					<!--<physDesc>
 						<handDesc>
@@ -124,7 +124,7 @@
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Avanam"/></bibl> with facsimile (Āvaṇam 7, no. 8.2.2); text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on previous editions.
+First edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 7, no. 8.2.2); text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on previous editions.
             </p>
 
          	<listBibl type="primary">
