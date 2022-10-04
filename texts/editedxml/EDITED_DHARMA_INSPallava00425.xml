@@ -104,7 +104,6 @@
       		<p>
       			paṭuvūr-k
       			<lb n="3" break="no"/>-k<supplied reason="lost">ō</supplied>ṭ·ṭat·tu Aṭaiy<choice><sic>a</sic><corr>ā</corr></choice>ṟu-nāṭu vicaiyātit·ta
-      			Only left part of ō lost.
       			<lb n="4" break="no"/>ṉ-āṉa kam·paṭikaḷ muruṅkai mēṟ paṭai vanta
       			<lb n="5" break="no"/><supplied reason="lost">ñ</supplied>āṉṟu poṉ<unclear>·</unclear>ṉēṟar ka<choice><orig>l</orig><reg>ḷ</reg></choice>atti<unclear>l</unclear>uḷ· pāṉ· mu      			
       			<lb n="6" break="no"/><supplied reason="lost">t</supplied>taraiyar marumakaṉ viṉaiy<choice><orig>i</orig><reg>ī</reg></choice>ttaṉ kutirai
@@ -138,17 +137,17 @@
       			<app loc="1">
       				<lem>°vicai<supplied reason="omitted">ya</supplied>°</lem>
       				<rdg source="bib:Rajavelu1994_01">°vicaiya°</rdg>
-      				<note>The letter <foreign>ya</foreign> has been possible added below the line.</note>
+      				<note>The letter <foreign>ya</foreign> possibly added below the line.</note>
       			</app> 	
       			
       			<app loc="3">
       				<lem>Aṭaiy<choice><sic>a</sic><corr>ā</corr></choice>ṟu°</lem>
-      				<rdg source="bib:Rajavelu1994_01">Aṭaiy<choice><sic>a</sic><corr>ā</corr></choice>ṟu°</rdg>
+      				<rdg source="bib:Rajavelu1994_01">Aṭaiyaṟu°</rdg>
       			</app> 	
       			
       			<app loc="5">
-      				<lem>kaḷattiluḷ</lem>
-      				<rdg source="bib:Rajavelu1994_01">ka<choice><orig>l</orig><reg>ḷ</reg></choice>atti<unclear>l</unclear>uḷ·</rdg>
+      				<lem>ka<choice><orig>l</orig><reg>ḷ</reg></choice>atti<unclear>l</unclear>uḷ·</lem>
+      				<rdg source="bib:Rajavelu1994_01">kaḷattiluḷ</rdg>
       			</app> 	
       			
       			<app loc="5">
@@ -162,7 +161,7 @@
       			<lb n="8" break="no"/>l</lem>
       				<rdg source="bib:Rajavelu1994_01">miṇa
       			<lb n="8" break="no"/>l</rdg>
-      				<note><ptr target="bib:Rajavelu1994_01"/> however comments on <foreign>miṇṭal</foreign> in his introduction tot his edition.</note>
+      				<note><ptr target="bib:Rajavelu1994_01"/> however comments on <foreign>miṇṭal</foreign> in his introduction to his edition.</note>
       			</app> 	
       			
       			
@@ -180,11 +179,11 @@
       			Twelfth year of the victorious king Nandivikramavarman.       		</p>
       		
       		<p n="2-7">
-      			Viṉaiyīttaṉ, the son-in-law <supplied reason="subaudible">of</supplied> <gap reason="ellipsis"/> Muttaraiyar, fell fighting upon <supplied reason="explanation"><foreign>mēl</foreign></supplied> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>kutirai muṭṭaṉi</foreign></supplied> in the battlefield <supplied reason="explanation"><foreign>kaḷam</foreign></supplied> <supplied reason="subaudible">with</supplied> Poṉṉērar, when Kampaṭikaḷ alias Vicaiyātittaṉ<note>That is,Sanskrit Vijayāditya.</note> marched<note>literally: “went”.</note> <supplied reason="subaudible">with his</supplied> army upon Muruṅkai, in the Ātaiyāṟunāṭu of the Paṭuvūrkkōṭṭam.
+      			Viṉaiyīttaṉ, the son-in-law <supplied reason="subaudible">of</supplied> <unclear>Bāṇa</unclear> Muttaraiyar, fell fighting upon <supplied reason="explanation"><foreign>mēl</foreign></supplied> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>kutirai muṭṭaṉi</foreign></supplied> in the battlefield <supplied reason="explanation"><foreign>kaḷam</foreign></supplied> <supplied reason="subaudible">with</supplied> Poṉṉērar, when Kampaṭikaḷ alias Vicaiyātittaṉ<note>That is, Sanskrit Vijayāditya.</note> marched<note>literally: “went”.</note> <supplied reason="subaudible">with his</supplied> army upon Muruṅkai, in the Ātaiyāṟunāṭu of the Paṭuvūrkkōṭṭam.
       		</p>
       		
       		<p n="7-13">
-      			To him<note>That is, “in honour of him”.</note>, having given Viṇṭal Paṭṭi and Cemmār Paṭṭi <gap reason="ellipsis"/>
+      			To him<note>That is, “in honour of him”.</note>, <unclear>having given</unclear> Viṇṭal Paṭṭi and Cemmār Paṭṭi <gap reason="ellipsis"/>
       		</p>
       		
       		<p>
@@ -192,7 +191,7 @@
       		</p>
       		
       		<p n="14">
-      			He who destroys<note>That is, “harms”.</note> this <supplied reason="subaudible">donation</supplied> <supplied reason="lost">he will go to</supplied> <unclear>hell?</unclear> <supplied reason="explanation"><foreign>nara</foreign><note>That is, a truncated form of <foreign>narakam</foreign>.</note></supplied>.
+      			He who destroys<note>That is, “harms”.</note> this <supplied reason="subaudible">donation</supplied> <supplied reason="lost">he will go to</supplied> <unclear>hell?</unclear> <supplied reason="explanation"><foreign>nara</foreign><note>That is, a lacunose form of <foreign>narakam</foreign>.</note></supplied>.
       		</p>
       		
       	</div>
@@ -210,7 +209,7 @@ First edited in <bibl><ptr target="bib:Rajavelu1994_01"/></bibl> (JESI no. 20.16
 
          	<listBibl type="primary">
          		         		
-         		<bibl n="K">
+         		<bibl n="R">
             		<ptr target="bib:Rajavelu1994_01"/>
             	</bibl>
          		
