@@ -155,11 +155,19 @@
                	
                </listApp>         
       	</div>
+	
+	<div source="bib:Mahadevan2003_01" type="translation">
+      		
+      		<p n="1-2">
+      			Poṟkoṟṟi, the <supplied reason="subaudible">fighting</supplied> cock of Kīḻccēri.
+      		</p>
+      		
+      	</div>
       	
       	<div resp="part:emfr part:vagi" type="translation">
       		
-      		<p n="1-3">
-      			The beautiful <supplied reason="explanation"><foreign>poṉ</foreign><note>The original text might be emended from <foreign>poṟ</foreign>, that is, <foreign>poṉ</foreign> in sandhi, to <foreign>pōr</foreign>, "fight". The translation would thus be: "the victorious in fight cock".</note></supplied> victorious <supplied reason="explanation"><foreign>koṟṟi</foreign></supplied> cock <supplied reason="subaudible">of</supplied> Kīḻccēri<note>That is, the eastern quarters.</note>.
+      		<p n="1-2">
+      			The beautiful <supplied reason="explanation"><foreign>poṉ</foreign><note>The original text might be emended from <foreign>poṟ</foreign>, that is, <foreign>poṉ</foreign> in sandhi, to <foreign>pōr</foreign>, "fight". The translation would thus be: "the victorious in fight cock".</note></supplied> winner <supplied reason="explanation"><foreign>koṟṟi</foreign></supplied> cock <supplied reason="subaudible">of</supplied> Kīḻccēri<note>That is, the eastern quarters.</note>.
       			      			
       		</p>
       		
@@ -171,7 +179,7 @@
       			This inscription is counted in the Pallava corpus, insofar as its date (6th century CE according to <bibl><ptr target="bib:Mahadevan2003_01"/></bibl>) and provenance correspond the period and the area of the Pallava rule in northern Tamil Nadu.
       		</p>
       		<p>
-      			A similar inscription, commemorating a victorious cock with a strikingly similar image of a cock, has been found at Aracalāpuram (DHARMA_INSPallava00397). The two inscriptions appears to be closely related: the Aracalāpuram inscription commemorates the fighting cock of the western quarters, whereas the present Intaḷūr inscription commemorates the fighting cock of the eastern quarters.
+      			A similar inscription, commemorating a victorious cock with a strikingly similar image of a cock, has been found at Aracalāpuram (DHARMA_INSPallava00397). The two inscriptions appears to be closely related: the present Intaḷūr inscription commemorates the fighting cock of the eastern quarters, whereas the Aracalāpuram inscription commemorates the fighting cock of the western quarters.
       		</p>
       		
       		<p>
@@ -183,7 +191,7 @@
       	<div type="bibliography">
       		
       	<p>
-First edited by <bibl><ptr target="bib:Kasinathan1978_01"/></bibl>; re-edited by <bibl><ptr target="bib:Makatevan1997_01"/></bibl>, <bibl><ptr target="bib:Mahadevan2003_01"/></bibl>; re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022) based on visual documentation in <bibl><ptr target="bib:Mahadevan2003_01"/></bibl>.
+First edited by <bibl><ptr target="bib:Kasinathan1978_01"/></bibl>; re-edited by <bibl><ptr target="bib:Makatevan1997_01"/></bibl>; re-edited and translated <bibl><ptr target="bib:Mahadevan2003_01"/></bibl>; re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022) based on visual documentation in <bibl><ptr target="bib:Mahadevan2003_01"/></bibl>.
             </p>
            
       		<listBibl type="primary">
