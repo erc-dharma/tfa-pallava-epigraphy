@@ -52,11 +52,11 @@
 					<msContents>
 						<summary>Memorial stone set up in honour of a victorious cock.</summary>
 					</msContents>
-					<!--<physDesc>
+					<physDesc>
 						<handDesc>
-							<p></p>
+							<p>The <foreign>puḷḷi</foreign> is used. <bibl><ptr target="bib:Mahadevan2003_01"/></bibl> notes that two different forms of medial <foreign>o</foreign> are used (line 1, 7th letter and line 2, 2nd letter).</p>
 						</handDesc>
-					</physDesc>-->
+					</physDesc>
 				</msDesc>
 			</sourceDesc>
 		</fileDesc>
@@ -93,22 +93,68 @@
       	<div type="edition" xml:lang="tam">
            
       		<p>      			
-      			<lb n="1"/>kīḻccērik kōḻi p<unclear>o</unclear>
+      			<lb n="1"/>k<choice><orig>i</orig><reg>ī</reg></choice>ḻc·cērik kōḻi p<unclear>o</unclear>
       			<lb n="2" break="no"/>ṟ koṟṟi      			      			      			
       		</p>
          
       	</div>
          
-      	<!--<div type="apparatus">
+      	<div type="apparatus">
            
                <listApp>
                	
                	<app loc="1">
-               		<lem></lem>
-               		<rdg source="bib:Makatevan1997_01"></rdg>	
+               		<lem>k<choice><orig>i</orig><reg>ī</reg></choice>ḻc·cērik</lem>
+               		<rdg source="bib:Kasinathan1978_01 bib:Thamaraikannan1979_01">kīḻuccērik</rdg>
+               		<rdg source="bib:Makatevan1997_01">kiḻccerik</rdg>
+               		<rdg source="bib:Mahadevan2003_01">k<choice><orig>i</orig><reg>ī</reg></choice>ḻc·cērik</rdg>
                	</app>
+               	               	
+               	<app loc="2">
+               		<lem>p<unclear>o</unclear>
+      			<lb n="2" break="no"/>ṟ</lem>
+               		<rdg source="bib:Kasinathan1978_01 bib:Thamaraikannan1979_01">po
+      			<lb n="2" break="no"/>ṭu</rdg>	               		
+               		<rdg source="bib:Makatevan1997_01">po
+      			<lb n="2" break="no"/>ṟ</rdg>	
+               		<rdg source="bib:Mahadevan2003_01">p<unclear>o</unclear>
+      			<lb n="2" break="no"/>ṟ</rdg>
+               	</app>
+               	               	
+               	<app loc="3">
+               		
+               		<lem>koṟṟi</lem>
+               		
+               		<rdg source="bib:Kasinathan1978_01 bib:Thamaraikannan1979_01">kotta</rdg>
+               		
+               		<rdg source="bib:Makatevan1997_01 bib:Mahadevan2003_01">koṟṟi</rdg>	
+               	</app>
+               	               	
+               	<app loc="1">
+               		<lem></lem>
+               		<rdg source="bib:Kasinathan1978_01"></rdg>	
+               		
+               		<rdg source="bib:Thamaraikannan1979_01"></rdg>	
+               		
+               		<rdg source="bib:Makatevan1997_01"></rdg>	
+               		
+               		<rdg source="bib:Mahadevan2003_01"></rdg>
+               	</app>
+               	               	
+               	<app loc="1">
+               		<lem></lem>
+               		<rdg source="bib:Kasinathan1978_01"></rdg>	
+               		
+               		<rdg source="bib:Thamaraikannan1979_01"></rdg>	
+               		
+               		<rdg source="bib:Makatevan1997_01"></rdg>	
+               		
+               		<rdg source="bib:Mahadevan2003_01"></rdg>
+               	</app>
+               	
+               	
                </listApp>         
-      	</div>-->
+      	</div>
       	
       	<div resp="part:emfr part:vagi" type="translation">
       		
@@ -128,26 +174,35 @@
       			A similar inscription, commemorating a victorious cock with a strikingly similar image of a cock, has been found at Aracalāpuram (DHARMA_INSPallava00397). The two inscriptions appears to be closely related: the Aracalāpuram inscription commemorates the fighting cock of the western quarters, whereas the present Intaḷūr inscription commemorates the fighting cock of the eastern quarters.
       		</p>
       		
+      		<p>
+      			See the comments by <bibl><ptr target="bib:Mahadevan2003_01"/><citedRange unit="page">626-627</citedRange></bibl>.
+      		</p>
+      		
       	</div>
       	
       	<div type="bibliography">
       		
       	<p>
-Edited in <bibl><ptr target="bib:Makatevan1997_01"/></bibl>; re-edited by <bibl><ptr target="bib:Mahadevan2003_01"/></bibl>; re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022).
+First edited by <bibl><ptr target="bib:Kasinathan1978_01"/></bibl>; re-edited by <bibl><ptr target="bib:Makatevan1997_01"/></bibl>, <bibl><ptr target="bib:Mahadevan2003_01"/></bibl>; re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022) based on visual documentation in <bibl><ptr target="bib:Mahadevan2003_01"/></bibl>.
             </p>
            
       		<listBibl type="primary">
       			
       			
+      			<bibl n="NK">
+      				<ptr target="bib:Kasinathan1978_01"/>
+      				<citedRange unit="page">86-87</citedRange>
+      			</bibl>
+      			
+      			<bibl n="T">
+      				<ptr target="bib:Thamaraikannan1979_01"/>
+      			</bibl>
+      			
       			<bibl n="IM1997">
       				<ptr target="bib:Makatevan1997_01"/>
       				<citedRange unit="page">10-14</citedRange>
       			</bibl>
-      			
-      			      			
-      			<bibl n="IM1998">
-      				<ptr target="bib:Makatevan1998_01"/>
-      			</bibl>
+      			    
       			      			    			
       			<bibl n="IM2003">
       				<ptr target="bib:Mahadevan2003_01"/>
