@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Akaḷūr (2)</title>
+            <title>Akaḷūr Hero-Stone</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,13 +47,13 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Hero-stone commemorating the death of Kampaiyaṉār.</summary>
                </msContents>
-               <physDesc>
-                  <handDesc>
-                     <p/>
-                  </handDesc>
-               </physDesc>
+               <!--<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>-->
             </msDesc>
          </sourceDesc>
       </fileDesc>
@@ -89,11 +89,12 @@
    <text xml:space="preserve">
       <body>
                	
-      	<div type="edition" xml:lang="tam-Latn">
-<!--Check § split-->
+      	<div type="edition" xml:lang="tam-Latn"> 
+      		<!--Check § split-->
       		<ab>
       			<lb n="1"/><hi rend="grantha">śrī</hi>
       		</ab>
+      		
       		<p>
       			vicaiyā
       			<lb n="2" break="no"/>tittiya
@@ -108,48 +109,57 @@
       	</div>
 
       	<div type="apparatus">
-      		<!--Fuse identical readings by different editors-->
       		<listApp>
       			
       			<app loc="1">
       				<lem><hi rend="grantha">śrī</hi></lem>
-      				<rdg source="bib:Sampath1968_01"><hi rend="grantha">śrī</hi></rdg>
-      				<rdg source="bib:Mahalingam1988_01"><hi rend="grantha">śrī</hi></rdg>
+      				<rdg source="bib:Sampath1968_01 bib:Mahalingam1988_01"><hi rend="grantha">śrī</hi></rdg>
       				<rdg source="bib:Dayalan2005_01"><hi rend="grantha">śri</hi></rdg>      				
       			</app>
       			
       			<app loc="5">
       				<lem>pa<lb n="6" break="no"/>ṭṭār</lem>
-      				<rdg source="bib:Sampath1968_01">pa<lb n="6" break="no"/>ṭṭār</rdg>
+      				<rdg source="bib:Sampath1968_01 bib:Dayalan2005_01">pa<lb n="6" break="no"/>ṭṭār</rdg>
       				<rdg source="bib:Mahalingam1988_01">pa<lb n="6" break="no"/><choice><sic>ta</sic><corr>ṭ</corr></choice>ṭār</rdg>
-      				<rdg source="bib:Dayalan2005_01">pa<lb n="6" break="no"/>ṭṭār</rdg>      				
       			</app>      	
       			      			
       		</listApp>
       		
       	</div>
-      	
+      	            	
       	<div type="translation" resp="part:emfr">
-      		<!--Check/Update translation + if necessary encode properly "..."-->
+      		
       		<p n="1">Fortune!</p>
-      		<p n="1-3"> After having destroyed Toṇṭūr, while Vijāditya ordered to, Kampaiyaṉār fell.</p>
+      		<p n="1-6">When Vicaiyātittiyaṉ<note>That is, Skt. Vijayāditya.</note> ordered <supplied reason="subaudible">it</supplied>, Kampaiyaṉār destroyed Toṇṭūr and died <supplied reason="subaudible">on the battle-field</supplied>.</p>
       		
       	</div>
       	
          <div type="translation" xml:lang="fra" resp="part:emfr">
          	
+         	<p n="1">Fortune !</p>
+      		<p n="1-6">Quand Vicaiyātittiyaṉ<note>C’est-à-dire Skt. Vijayāditya.</note> lui en donna l’ordre, Kampaiyaṉār détruisit Toṇṭūr et mourut<note>Comprendre : durant la prise de la ville.</note>.</p>
+      		
          </div>
 
       	<div type="commentary">
       		
-      		<p n="1"><foreign><hi rend="grantha">śrī</hi></foreign>: auspicious beginning or honorific?</p><!--Update-->
+      		<p n="1">
+      			<foreign><hi rend="grantha">śrī</hi></foreign>: auspicious beginning or honorific?
+      		</p><!--Update-->
+      		
+      		<p>
+      			See DHARMA_INSPallava00084<!--update!-->.
+      		</p>
+      		<p>
+      			It is not clear which edition is to be taken as reference. Sampath or Dayalan? It is not clear if Dayalan had a fresh reading of the inscription or simply edited the previous editions.
+      		</p>
       		
       	</div>
 
          <div type="bibliography">
 
             <p>
-First edited by <bibl><ptr target="bib:Sampath1968_01"/></bibl>; text and translation in <bibl><ptr target="bib:Mahalingam1988_01"/><citedRange/></bibl> (footnote at IP no. 84); re-edited by <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous editions.
+First edited by <bibl><ptr target="bib:Sampath1968_01"/></bibl>; text and translation in <bibl><ptr target="bib:Mahalingam1988_01"/><citedRange unit="page">282</citedRange><citedRange unit="note">1</citedRange></bibl> (footnote at IP no. 84); re-edited by <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous editions.
             </p>
 
             	<listBibl type="primary">
