@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Iḷaiyanallūr, donation, time of Nandivikramavarman</title>
+            <title>Kariyāḷūr, hero-stone (?), time of Dantivikrama</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris, CEIAS</pubPlace>
-            <idno type="filename">DHARMA_INSPallava00444</idno>
+            <idno type="filename">DHARMA_INSPallava00491</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -47,13 +47,13 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Donation of land for providing water and fire in a god’s temple.</summary>
+                  <summary>Hero-stone (?) commemorating the death of Āykaivāpāṭi Valiyār.</summary>
                </msContents>
-               <physDesc>
+               <!--<physDesc>
                   <handDesc>
-                     <p>Medial <foreign>i</foreign> and <foreign>ī</foreign> not distinguished and interchangeable.</p>
+                     <p></p>
                   </handDesc>
-               </physDesc>
+               </physDesc>-->
             </msDesc>
          </sourceDesc>
       </fileDesc>
@@ -90,60 +90,47 @@
 
          <div type="edition" xml:lang="tam-Latn">
             
-            <p>
-               <lb n="1"/>kō-vicaiya-nanti-vi
-               <lb n="2" break="no"/>kk<choice><orig>ī</orig><reg>i</reg></choice>rama-parumaṟku yā
-               <lb n="3" break="no"/>ṇṭu Irupatt’ iraṇ
-               <lb n="4" break="no"/>ṭ-āvatu
-            </p>
+            <ab>
+               <lb n="1"/><hi rend="grantha">śrī</hi>
+            </ab>
             
             <p>
-               cakaḷa-maṉu
-               <lb n="5" break="no"/>mpāṭiyum I<unclear>va</unclear>ru
-               <lb n="6" break="no"/>varumam v<choice><orig>ī</orig><reg>i</reg></choice>ṇṇ<choice><orig>ī</orig><reg>i</reg></choice>
-               <lb n="7" break="no"/>kkiṭiyār taṉ cē
-               <lb n="8" break="no"/><choice><sic>ṇ</sic><corr>ṉ</corr></choice>aikku Iṟai Illi
-               <lb n="9"/>Iḷayaṉūr mum
-               <lb n="10" break="no"/>mūlaippaṭṭi taṇ
-               <lb n="11" break="no"/>ṇīrkkum t<choice><orig>i</orig><reg>ī</reg></choice>kkum vai
-               <lb n="12" break="no"/>t<unclear>ta</unclear>tu
+               kō-vicaiya-<choice><orig>Ī</orig><reg>y-ī</reg></choice>svara-tanti-vikkiramarkku yāṇtu nāṉk-āvatu
+            </p>
+            <p>
+               <lb n="1"/>Āykaivāpāṭi valiyār poṉṉaic ceṉṟu
             </p>
             
-            <p>
-               Itu kāttā
-               <lb n="13" break="no"/>ṉ aṭi Eṉ ṟalai
-               <lb n="14"/>mēḻaṉa
-            </p>            
             
          </div>
       	
-         <div type="apparatus">
+         <!--<div type="apparatus">
 
-         	<!--<listApp>
+         	<listApp>
          		
          		<app loc="0">
          			<lem></lem>
          			<rdg source="bib:"></rdg>
+         		   
          		</app>         		
          		
-         	</listApp>-->
+         	</listApp>
 
          </div>
-
+-->
          <div type="translation" resp="part:emfr">
             
             
-            <p n="1-4">
-               Twenty-second year of the victorious king Nandivikramavarman.</p>
+            <p n="1">
+               Prosperity!</p>
             
-            <p n="4-12">
-               The <supplied reason="subaudible">land named</supplied> Mumūlaippaṭi <supplied reason="subaudible">in</supplied> Iḷayaṉūr, <supplied reason="subaudible">made</supplied> tax-free, <gap reason="ellipsis"/> is that which <gap reason="ellipsis"/> Viṇṇikkiṭiyar <gap reason="ellipsis"/> has given for water and fire.
+            <p n="1">
+               Fourth year of the victorious king and lord Dantivikrama!</p>
+            
+            <p n="2">
+              Āykaivāpāṭi Valiyār <unclear>died</unclear>.
             </p>
             
-            <p n="12-14">
-               The feet of he who protects this <supplied reason="subaudible">pious act</supplied> are on my head.
-            </p>
-         	
          </div>
       	
          <div type="commentary">
@@ -153,38 +140,26 @@
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 5, no. 1); text in <bibl n="DD"><ptr target="bib:Dayalan2005_01"/></bibl>; re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on photographs (2009).
+First edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 19, no. 3.2); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous edition(s).
             </p>
 
             <listBibl type="primary">
             	
             	<bibl n="Āvaṇam">
             		<ptr target="bib:Avanam"/>
-            		<citedRange unit="volume">5 (July 1994)</citedRange>
-            		<citedRange unit="item">1</citedRange>
+            		<citedRange unit="volume">19 (2008)</citedRange>
+            		<citedRange unit="item">3.2</citedRange>
             	</bibl>
             	
-            	<bibl n="DD">
-            		<ptr target="bib:Dayalan2005_01"/>
-            		<citedRange unit="volume">3</citedRange>
-            		<citedRange unit="appendix">I</citedRange>
-            		<citedRange unit="page">1301</citedRange>
-            		<citedRange unit="item">64</citedRange>            		
-            	</bibl>            	
-            		
+            	    	            		
             	
             </listBibl>
 
-            <listBibl type="secondary">
+            <!--<listBibl type="secondary">
             	
-            	<bibl n="ARIE">
-            		<ptr target="bib:ARIE1992-1993"/>
-            		<citedRange unit="page">54</citedRange>
-            		<citedRange unit="appendix">B/1992-1993</citedRange>
-            		<citedRange unit="item">324</citedRange>
-            	</bibl>        
             	
-           </listBibl>
+            	
+           </listBibl>-->
 
          </div>
 
