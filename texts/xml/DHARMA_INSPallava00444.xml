@@ -175,11 +175,16 @@ First edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 5, no. 1); te
             	
             </listBibl>
 
-            <!--<listBibl type="secondary">
+            <listBibl type="secondary">
             	
+            	<bibl n="ARIE">
+            		<ptr target="bib:ARIE1992-1993"/>
+            		<citedRange unit="page">54</citedRange>
+            		<citedRange unit="appendix">B/1992-1993</citedRange>
+            		<citedRange unit="item">324</citedRange>
+            	</bibl>        
             	
-            	
-           </listBibl>-->
+           </listBibl>
 
          </div>
 
