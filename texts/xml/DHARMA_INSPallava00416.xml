@@ -127,17 +127,16 @@
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 10, no. 3.2); text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; re-edited here and translated for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous edition(s).
+First edited in <bibl><ptr target="bib:Vīrarākavaṉ1999_01"/></bibl> (Āvaṇam 10, no. 3.2); text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; re-edited here and translated for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous edition(s).
             </p>
 
          	<listBibl type="primary">
-         		         		
-         		<bibl n="Āvaṇam">
-            		<ptr target="bib:Avanam"/>
-            		<citedRange unit="volume">10 (July 1999)</citedRange>
-            		<citedRange unit="item">3.2</citedRange>
-            	</bibl>
          		
+         		<bibl n="CV">
+         			<ptr target="bib:Vīrarākavaṉ1999_01"/>
+         			<citedRange unit="item">3.2</citedRange>
+         		</bibl>
+         		          		
          		<bibl n="DD">
          			<ptr target="bib:Dayalan2005_01"/>
          			<citedRange unit="volume">3</citedRange>
