@@ -98,28 +98,51 @@
       		
       		<p>
       			maṟpiṭuku vi<unclear>ḻ</unclear>u		
-      			<lb n="3" break="no"/>p-pē<supplied reason="omitted">ra</supplied>rai-y-āyiṉa cattaṉ utai	
+      			<lb n="3" break="no"/>p-pē<supplied reason="omitted">ra</supplied>raiya<supplied reason="omitted">ṉ</supplied>-āyiṉa cattaṉ utai	
       			<lb n="4" break="no"/>yāṅkuraṉ tiru-neṭuṅkaḷattu		
       			<lb n="5" break="no"/>-p paṭāra<supplied reason="omitted">r</supplied>kku Oḻukkavi vaitta		
-      			<lb n="6"/>poṉ patiṉ aiṅ-kaḻañcu O<unclear reason="eccentric_ductus">lo</unclear>c		
+      			<lb n="6"/>poṉ patiṉ aiṅ-kaḻañcu
+      		</p>
+      		<p>
+      			O<unclear reason="eccentric_ductus">lō</unclear>c		
       			<lb n="7" break="no"/>ca<supplied reason="omitted">ṉ</supplied> vaitta {symbol} cēntaṉ vaitta		
-      			<lb n="8"/>oṉ <num value="6">6</num>ṅ kaḻañcu <unclear>cāṉantami</unclear>
-      			<lb n="9" break="no"/>cānti vaitta poṉ <num value="6">6</num>ṅ kaḻañcu</p>
+      			<lb n="8"/>poṉ <num value="6">6</num>ṅ kaḻañcu <unclear>cāṉantami</unclear>
+      			<lb n="9" break="no"/>cānti vaitta poṉ <num value="6">6</num>ṅ kaḻañcu
+      		</p>
       		
       	</div>
 
-         <!--<div type="apparatus">
+         <div type="apparatus">
 
          	<listApp>
          		
-         		<app loc="0">
-         			<lem></lem>
-         			<rdg source="bib:"></rdg>
+         		<app loc="2">
+         			<lem>vi<unclear>ḻ</unclear>u		
+      			<lb n="3" break="no"/>p-pē<supplied reason="omitted">ra</supplied>raiya<supplied reason="omitted">ṉ</supplied>-āyiṉa</lem>
+         			<rdg source="bib:Caṅkītā+al_1998">vi<unclear>ḻu</unclear>		
+      			<lb n="3" break="no"/>ppēraiya<supplied reason="omitted">ṉ</supplied>-āyiṉa</rdg>
+         		</app>  
+         		         		
+         		<app loc="5">
+         			<lem>-p paṭāra<supplied reason="omitted">r</supplied>kku</lem>
+         			<rdg source="bib:Caṅkītā+al_1998"><gap reason="undefined" quantity="2" unit="character"/>paṭāra<supplied reason="omitted">r</supplied>kku</rdg>
+         		</app>  
+         		         		
+         		<app loc="6">
+         			<lem>O<unclear reason="eccentric_ductus">lo</unclear>c		
+      			<lb n="7" break="no"/>ca<supplied reason="omitted">ṉ</supplied></lem>
+         			<rdg source="bib:Caṅkītā+al_1998">Oloc		
+      			<lb n="7" break="no"/>ca</rdg>
+         		</app>  
+         		         		
+         		<app loc="7">
+         			<lem>{symbol}</lem>
+         			<rdg source="bib:Caṅkītā+al_1998"><num value="0.5"><unclear>½</unclear></num></rdg>
          		</app>  
          		
          	</listApp>
 
-         </div>-->
+         </div>
 
          <div type="translation" resp="part:emfr">
          	
@@ -131,7 +154,11 @@
          		Second year of Tantippōttaraiyaṉ<note>That is, the Pallava king Dantivarman.</note>.	
          	</p>
          	
-         	<p n="2-9">
+         	<p n="2-6">
+         		The gold that Cattaṉ Utaiyāṅkuraṉ aliasViḷuppēraraiyaṉ has given <supplied reason="subaudible">as</supplied> daily food offering <supplied reason="explanation"><foreign>oḻukkavi</foreign></supplied> for the <foreign>paṭārar</foreign> of the Tiruneṭuṅkalam: fifteen <foreign>kaḻañcu</foreign>s.
+         	</p>
+         	
+         	<p n="6-9">
          		...
          	</p>
 
