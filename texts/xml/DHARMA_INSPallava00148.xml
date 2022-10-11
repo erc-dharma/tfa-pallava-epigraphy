@@ -110,7 +110,7 @@
       			
       			<app loc="1">
       				<lem><gap reason="lost" extent="unknown" unit="character"/> <unclear>ya</unclear>varmanku <gap reason="lost" extent="unknown" unit="character"/></lem>
-      				<rdg source="bib:Hultzsch1913_02"><gap reason="undefined" extent="unknown" unit="character"/> ravarma<choice><sic><unclear>t</unclear></sic><corr>ṟ</corr></choice>ku <gap reason="undefined" extent="unknown" unit="character"/></rdg>
+      				<rdg source="bib:Hultzsch1913_02"><gap reason="undefined" extent="unknown" unit="character"/> <hi rend="grantha">ra</hi>varma<choice><sic><unclear>t</unclear></sic><corr>ṟ</corr></choice>ku <gap reason="undefined" extent="unknown" unit="character"/></rdg>
       				<rdg source="bib:Hultzsch1914_01"><gap reason="undefined" extent="unknown" unit="character"/> ravarman ku<unclear>ṇa</unclear> <gap reason="undefined" extent="unknown" unit="character"/></rdg>
       				<rdg source="bib:GopinathaRao1925-1926_01"><gap reason="undefined" quantity="7" unit="character"/> <unclear>ya</unclear>varmatku <unclear>y</unclear> <gap reason="undefined" quantity="5" unit="character"/></rdg>
       				<rdg source="bib:NilakantaSastri1932_02"><gap reason="undefined" quantity="2" unit="character"/> <unclear>ra</unclear>varman ku<supplied reason="undefined">ṇā</supplied></rdg>
@@ -190,12 +190,13 @@
       			
       			<app loc="6">
       				<lem><unclear>muḻu</unclear>tārkkum</lem>
-      				<rdg source="bib:Hultzsch1913_02"><unclear>cāpa</unclear><supplied reason="omitted">t</supplied>tārkkum</rdg>
+      				<rdg source="bib:Hultzsch1913_02"><hi rend="grantha"><unclear>cā</unclear></hi><unclear>pa</unclear><supplied reason="omitted">t</supplied>tārkkum</rdg>
       				<rdg source="bib:Hultzsch1914_01"><unclear>m uḻu</unclear>tārkkum</rdg>
       				<rdg source="bib:GopinathaRao1925-1926_01"><unclear>ku</unclear>la<supplied reason="omitted">t</supplied>tārkkum</rdg>
       				<rdg source="bib:NilakantaSastri1932_02"><gap reason="undefined" quantity="1" unit="character"/> patārkkum</rdg>
       				<rdg source="bib:NilakantaSastri1949_01"><gap reason="lost" extent="unknown" unit="character"/> pātarkkum</rdg>
       				<rdg source="bib:Karashima2002_02 bib:Karashima+Subbarayalu2009_01"><gap reason="lost" extent="unknown" unit="character"/> apatārkkum</rdg>
+      				<note><bibl><ptr target="bib:Hultzsch1914_01"/></bibl> suggests that <foreign>uḻutār</foreign> is used here in the sense of <foreign>uḻavar</foreign> or <foreign>uḻunar</foreign>, "cultivators".</note>
       			</app>
       			
       			<!--<app loc="0">
@@ -251,7 +252,7 @@ Its name is Śrī-Nāraṇam. This is placed under the protection of the Maṇik
       	<div type="translation" resp="part:emfr">
       		
       		<p n="1">
-      			<supplied reason="lost">Umpteenth year</supplied> of <gap reason="lost"/>varman
+      			<supplied reason="lost">Umpteenth year</supplied> of <gap reason="lost"/>varman.<note><bibl><ptr target="bib:Hultzsch1913_02"/></bibl> suggests that, if his "purely tentative" reading of lines 1-3 is correct, then several lines (<quote>a lenghty passage</quote>) would be missing at the beginning of the inscription. We follow here <bibl><ptr target="bib:GopinathaRao1925-1926_01"/></bibl>, who suggests that we have here the usual beginning of a Tamil inscription, with the name and regnal year of the king. According to <bibl><ptr target="bib:Hultzsch1913_02"/></bibl> and <bibl><ptr target="bib:Hultzsch1914_01"/></bibl> the name of the king is perhaps Bhāskaravarman. Contra, see <bibl><ptr target="bib:GopinathaRao1925-1926_01"/></bibl>, <bibl><ptr target="bib:NilakantaSastri1932_02"/></bibl>.</note>
       		</p>
       		
       		<p n="2-4">
@@ -259,7 +260,7 @@ Its name is Śrī-Nāraṇam. This is placed under the protection of the Maṇik
       		</p>
       			
       		<p n="3-4">
-      			The name <supplied reason="subaudible">of</supplied> the tank that <gap reason="lost"/><note>Note on the reading <foreign>naṅkūruṭaiyaṉ</foreign>: it would make sense, but we are not convinced.</note> has dug <supplied reason="explanation"><foreign>toṭṭa</foreign><note>Past <foreign>peyareccam</foreign> of <foreign>toṭu-tal</foreign>.</note></supplied> <supplied reason="subaudible">at?</supplied> Naṇkūr <gap reason="ellipsis"/> <supplied reason="subaudible">is</supplied> the glorious Avanināṟaṇam<note>The tank might have named after the <foreign>biruda</foreign> Avanināṟaṇaṉ (Sanskrit Avaninārāyaṇa) of the Pallava king Nandivarman III. See <bibl><ptr target="bib:NilakantaSastri1932_02"/><citedRange unit="page">306</citedRange></bibl>The inscription has thus been dated to the reign of this king.</note>.
+      			The name <supplied reason="subaudible">of</supplied> the tank that <gap reason="lost"/><note>Note on the reading <foreign>naṅkūruṭaiyaṉ</foreign>: it would make sense, but we are not convinced. On Naṅkūr, see <bibl><ptr target="bib:NilakantaSastri1932_02"/><citedRange unit="page">308</citedRange></bibl>.</note> has dug <supplied reason="explanation"><foreign>toṭṭa</foreign><note>Past <foreign>peyareccam</foreign> of <foreign>toṭu-tal</foreign>.</note></supplied> <supplied reason="subaudible">at?</supplied> Naṇkūr <gap reason="ellipsis"/> <supplied reason="subaudible">is</supplied> the glorious Avanināṟaṇam<note>The tank might have named after the <foreign>biruda</foreign> Avanināṟaṇaṉ (Sanskrit Avaninārāyaṇa) of the Pallava king Nandivarman III. See <bibl><ptr target="bib:NilakantaSastri1932_02"/><citedRange unit="page">306</citedRange></bibl>. The inscription has thus been dated to the reign of this king.</note>.
       		</p>
       			
       		<p n="4-6">
@@ -274,12 +275,13 @@ Its name is Śrī-Nāraṇam. This is placed under the protection of the Maṇik
       	      	
 <div type="commentary">
 	
+	
 </div>
       	
 <div type="bibliography">
 
    <p>
-      First edited and translated by <bibl><ptr target="bib:Hultzsch1913_02"/></bibl>, with an estampage; re-edited by <bibl><ptr target="bib:Hultzsch1914_01"/></bibl>, <bibl><ptr target="bib:GopinathaRao1925-1926_01"/></bibl>, <bibl><ptr target="bib:NilakantaSastri1932_02"/></bibl>, <bibl><ptr target="bib:NilakantaSastri1949_01"/></bibl> (without diacritic marks!); text in <bibl><ptr target="bib:Coedes1929_01"/></bibl>, after Hultzsch; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 148); re-edited for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous editions, published visual documentation and a photograph (2012), kindly supplied by Nicolas Revire.
+      First edited and translated by <bibl><ptr target="bib:Hultzsch1913_02"/></bibl>, with an estampage; revised edition and translation by <bibl><ptr target="bib:Hultzsch1914_01"/></bibl>; re-edited by <bibl><ptr target="bib:GopinathaRao1925-1926_01"/></bibl>, <bibl><ptr target="bib:NilakantaSastri1932_02"/></bibl>, <bibl><ptr target="bib:NilakantaSastri1949_01"/></bibl> (without diacritic marks!); text in <bibl><ptr target="bib:Coedes1929_01"/></bibl>, after Hultzsch; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 148); re-edited for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous editions, published visual documentation and a photograph (2012), kindly supplied by Nicolas Revire.
    </p>
    
 	<listBibl type="primary">
