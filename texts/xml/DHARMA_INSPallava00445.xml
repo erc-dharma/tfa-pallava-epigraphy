@@ -135,15 +135,13 @@
          			<rdg source="bib:Vīrarākavaṉ1999_02">tiruvaiyā
       			<lb n="2" break="no"/>ṟṟu</rdg>
          			<rdg source="bib:Swaminathan1995_01">tiruvaiĀṟ
-      			<lb n="2" break="no"/>ṟu</rdg>
-         			<note>Reading by <bibl><ptr target="bib:Swaminathan1995_01"/></bibl> updated, as full diacritics are not used and alveolar consonants are unmarked.</note>
+      			<lb n="2" break="no"/>ṟu</rdg>         			
          		</app>  
          			
          		<app loc="5">
          			<lem>poṉ <num value="10"><g type="numeral">10</g></num> patiṉ</lem>
          			<rdg source="bib:Vīrarākavaṉ1999_02">poṉ <num value="10"><g type="numeral">10</g></num> patiṉ</rdg>
-         			<rdg source="bib:Swaminathan1995_01">poṉṉ aṟupatiṉ</rdg>
-         			<note>Reading by <bibl><ptr target="bib:Swaminathan1995_01"/></bibl> updated, as full diacritics are not used and alveolar consonants are unmarked.</note>
+         			<rdg source="bib:Swaminathan1995_01">poṉṉ aṟupatiṉ</rdg>         			
          		</app>  
          			
          		<!--<app loc="0">
@@ -182,7 +180,7 @@
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Tiyākarācaṉ1994_01"/></bibl> (Āvaṇam 4, no. 1); re-edited by <bibl><ptr target="bib:Swaminathan1995_01"/></bibl>; text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded and translated for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous edition(s).
+First edited in <bibl><ptr target="bib:Tiyākarācaṉ1994_01"/></bibl> (Āvaṇam 4, no. 1); re-edited by <bibl><ptr target="bib:Swaminathan1995_01"/></bibl> (in transliteration, without diacritics for alveolar consonants); text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded and translated for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous edition(s).
             </p>
 
          	<listBibl type="primary">
