@@ -91,8 +91,8 @@
       			<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>ya</unclear>varmanku <gap reason="lost" extent="unknown" unit="character"/>
       		</p>
       		<p>
-      			<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>l</unclear>ān tān naṅkū<unclear>r A</unclear>ṭai <gap reason="lost" extent="unknown" unit="character"/>
-      			<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>t</unclear> toṭṭa kuḷam<unclear>·</unclear> pēr <hi rend="grantha">śrī</hi>-<unclear>A</unclear><supplied reason="lost">va</supplied>
+      			<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>m</unclear>ān tān naṅkū<unclear>r A</unclear>ṭai <gap reason="lost" extent="unknown" unit="character"/>
+      			<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <choice><unclear>t</unclear><unclear>n</unclear></choice> toṭṭa kuḷam<unclear>·</unclear> pēr <hi rend="grantha">śrī</hi>-<unclear>A</unclear><supplied reason="lost">va</supplied>
       			<lb n="4" break="no"/><supplied reason="lost">ni</supplied>-nāraṇam<unclear>·</unclear>
       			
       		</p>
@@ -119,7 +119,7 @@
       			</app>
       			      			
       			<app loc="2">
-      				<lem><gap reason="lost" extent="unknown" unit="character"/> <unclear>l</unclear>ān tān</lem>
+      				<lem><gap reason="lost" extent="unknown" unit="character"/> <unclear>m</unclear>ān tān</lem>
       				<rdg source="bib:Hultzsch1913_02"><unclear>m</unclear>ān tān</rdg>
       				<rdg source="bib:Hultzsch1914_01"><unclear>m</unclear>ān tān</rdg>
       				<rdg source="bib:GopinathaRao1925-1926_01"><gap reason="undefined" quantity="3" unit="character"/> <unclear>m</unclear>ān tān</rdg>
@@ -130,7 +130,7 @@
       			
       			<app loc="2">
       				<lem>naṅkū<unclear>r A</unclear>ṭai <gap reason="lost" extent="unknown" unit="character"/>
-      					<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>t</unclear></lem>
+      					<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <choice><unclear>t</unclear><unclear>n</unclear></choice></lem>
       				<rdg source="bib:Hultzsch1913_02">naṅkar<unclear>aiy</unclear>ai<lb n="3" break="no"/>t</rdg>
       				<rdg source="bib:Hultzsch1914_01">naṅkūr a<unclear>ṭ</unclear>ai <gap reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><unclear>t</unclear></rdg>
@@ -138,6 +138,7 @@
       				<rdg source="bib:NilakantaSastri1932_02 bib:NilakantaSastri1949_01">naṅk<unclear>ū</unclear>r<unclear>u</unclear>ṭai<unclear>yā</unclear><lb n="3" break="no"/>n</rdg>
       				<rdg source="bib:Karashima2002_02">naṅk<unclear>u</unclear>r<unclear>u</unclear>ṭaiy<unclear>a</unclear><lb n="3" break="no"/><unclear>n</unclear></rdg>
       				<rdg source="bib:Karashima+Subbarayalu2009_01">naṅ<unclear>kurutaiya</unclear><lb n="3" break="no"/><unclear>ṉ</unclear></rdg>
+      				<note>The standardised reading <foreign>naṅkūr-utaiyāṉ</foreign> would make good sense, but it does not appear possible to us, as it is not clear if letters are lost at the beginning of the line 3 and if <foreign>toṭṭa</foreign>, in the same line 3, is preceded by <foreign>t</foreign> or <foreign>n</foreign>.</note>
       			</app>
       			
       			<app loc="3">
@@ -235,7 +236,7 @@
       	<div type="translation" source="bib:GopinathaRao1925-1926_01">
       		
       		<p n="1-6">      			
-      			(The year) <gap reason="undefined"/> of (the reign of the king)<gap reason="undefined"/> yavarman <gap reason="undefined"/>; <gap reason="undefined"/> man <gap reason="undefined"/> dug a tank in our <gap reason="undefined"/>.
+      			(The year) <gap reason="undefined"/> of (the reign of the king) <gap reason="undefined"/> yavarman <gap reason="undefined"/>; <gap reason="undefined"/> man <gap reason="undefined"/> dug a tank in our <gap reason="undefined"/>.
 Its name is Śrī-Nāraṇam. This is placed under the protection of the Maṇikkirāmattār, the Cēṉamukattār and (his own) descendents<note resp="part:emfr"><foreign>kulattār</foreign></note>.
 		
       		</p>
@@ -245,22 +246,18 @@ Its name is Śrī-Nāraṇam. This is placed under the protection of the Maṇik
       	<div type="translation" source="bib:NilakantaSastri1932_02">
       		
       		<p n="3-6">      			
-      			The tank called Avani-nāraṇam dug by the lord of Naṅkūr (is placed under) the protection of the members of Manigrāmam, the residents of the military campa and <gap reason="undefined"/>.     		
+      			The tank called Avani-nāraṇam dug by the lord of Naṅkūr (is placed under) the protection of the members of Manigrāmam, the residents of the military camp and <gap reason="undefined"/>.     		
       		</p>
       	</div>
 	
       	<div type="translation" resp="part:emfr">
       		
       		<p n="1">
-      			<supplied reason="lost">Umpteenth year</supplied> of <gap reason="lost"/>varman.<note><bibl><ptr target="bib:Hultzsch1913_02"/></bibl> suggests that, if his "purely tentative" reading of lines 1-3 is correct, then several lines (<quote>a lenghty passage</quote>) would be missing at the beginning of the inscription. We follow here <bibl><ptr target="bib:GopinathaRao1925-1926_01"/></bibl>, who suggests that we have here the usual beginning of a Tamil inscription, with the name and regnal year of the king. According to <bibl><ptr target="bib:Hultzsch1913_02"/></bibl> and <bibl><ptr target="bib:Hultzsch1914_01"/></bibl> the name of the king is perhaps Bhāskaravarman. Contra, see <bibl><ptr target="bib:GopinathaRao1925-1926_01"/></bibl>, <bibl><ptr target="bib:NilakantaSastri1932_02"/></bibl>.</note>
+      			<supplied reason="lost">Umpteenth year</supplied> of <gap reason="lost"/>varman.<note><bibl><ptr target="bib:Hultzsch1913_02"/></bibl> suggests that, if his "purely tentative" reading of lines 1-3 is correct, then several lines (<quote>a lenghty passage</quote>) would be missing at the beginning of the inscription. We follow here <bibl><ptr target="bib:GopinathaRao1925-1926_01"/></bibl>, who suggests that we have here the usual beginning of a Tamil inscription, with the name and regnal year of the king, whence his reading of the last letter in line 1 as <foreign>y</foreign>, as the last remnant of the word <foreign>yāṇṭu</foreign>. According to <bibl><ptr target="bib:Hultzsch1913_02"/></bibl> and <bibl><ptr target="bib:Hultzsch1914_01"/></bibl> the name of the king is perhaps Bhāskaravarman. Contra, see <bibl><ptr target="bib:GopinathaRao1925-1926_01"/></bibl>, <bibl><ptr target="bib:NilakantaSastri1932_02"/></bibl>. <bibl><ptr target="bib:NilakantaSastri1932_02"/><citedRange unit="page">305</citedRange></bibl> suggests to read <foreign>mataku</foreign>, "sluice", which would make sense in relation to a tank, but must confess his uncertainty.</note>
       		</p>
       		
       		<p n="2-4">
-      			
-      		</p>
-      			
-      		<p n="3-4">
-      			The name <supplied reason="subaudible">of</supplied> the tank that <gap reason="lost"/><note>Note on the reading <foreign>naṅkūruṭaiyaṉ</foreign>: it would make sense, but we are not convinced. On Naṅkūr, see <bibl><ptr target="bib:NilakantaSastri1932_02"/><citedRange unit="page">308</citedRange></bibl>.</note> has dug <supplied reason="explanation"><foreign>toṭṭa</foreign><note>Past <foreign>peyareccam</foreign> of <foreign>toṭu-tal</foreign>.</note></supplied> <supplied reason="subaudible">at?</supplied> Naṇkūr <gap reason="ellipsis"/> <supplied reason="subaudible">is</supplied> the glorious Avanināṟaṇam<note>The tank might have named after the <foreign>biruda</foreign> Avanināṟaṇaṉ (Sanskrit Avaninārāyaṇa) of the Pallava king Nandivarman III. See <bibl><ptr target="bib:NilakantaSastri1932_02"/><citedRange unit="page">306</citedRange></bibl>. The inscription has thus been dated to the reign of this king.</note>.
+      			The name <supplied reason="subaudible">of</supplied> the tank that <gap reason="lost"/><note>If the standardised reading <foreign>naṅkūr-utaiyāṉ</foreign> is accepted, this "lord of Naṅkūr" would be the commissioner of the tank. See <bibl><ptr target="bib:NilakantaSastri1932_02"/><citedRange unit="page">308</citedRange></bibl>, who is tempted to identify him as a native of Nāṅkūr in the Tanjore district.</note> has dug <supplied reason="explanation"><foreign>toṭṭa</foreign><note>Past <foreign>peyareccam</foreign> of <foreign>toṭu-tal</foreign>.</note></supplied> <supplied reason="subaudible">at?</supplied> Naṇkūr <gap reason="ellipsis"/> <supplied reason="subaudible">is</supplied> the glorious Avanināṟaṇam<note>The tank might have named after the <foreign>biruda</foreign> Avanināṟaṇaṉ (Sanskrit Avaninārāyaṇa) of the Pallava king Nandivarman III. See <bibl><ptr target="bib:NilakantaSastri1932_02"/><citedRange unit="page">306</citedRange></bibl>. The inscription has thus been dated to the reign of this king.</note>.
       		</p>
       			
       		<p n="4-6">
@@ -268,7 +265,7 @@ Its name is Śrī-Nāraṇam. This is placed under the protection of the Maṇik
 	               		<ptr target="bib:Mahalingam1988_01"/>
 	               		<citedRange unit="page">432</citedRange>
     			</bibl> translates as "the residents of the military camp". See translations in <bibl><ptr target="bib:Hultzsch1913_02"/></bibl>, and in <bibl><ptr target="bib:Hultzsch1914_01"/></bibl>. See also 
-      				<bibl n="GR"><ptr target="bib:GopinathaRao1925-1926_01"/><citedRange unit="page">72</citedRange></bibl> on sanskrit <foreign>senāmukha</foreign>.</note></supplied>, and for the cultivators <supplied reason="explanation"><foreign>uḻūtār</foreign><note>We follow here Hultzsch.</note></supplied>.
+      				<bibl n="GR"><ptr target="bib:GopinathaRao1925-1926_01"/><citedRange unit="page">72</citedRange></bibl> on sanskrit <foreign>senāmukha</foreign>.</note></supplied>, and for the cultivators <supplied reason="explanation"><foreign>uḻūtār</foreign><note>We follow here Hultzsch. Contra, see <bibl><ptr target="bib:NilakantaSastri1932_02"/><citedRange unit="page">306</citedRange></bibl></note></supplied>.
       		</p>
       		
       	</div>
