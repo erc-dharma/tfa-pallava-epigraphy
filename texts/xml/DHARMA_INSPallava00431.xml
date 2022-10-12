@@ -111,7 +111,7 @@
          		<app loc="1">
          			<lem>°v-inti
       			<lb n="2" break="no"/>ramarumakaṉki</lem>
-         			<rdg source="bib:Vīrarākavaṉ1996_01">v-inti
+         			<rdg source="bib:Vīrarākavaṉ+al1996_01">v-inti
       			<lb n="2" break="no"/>ramarumakaṉki</rdg>
          			<note><foreign>v-inti<lb n="2" break="no"/>raparumarkku</foreign> or <foreign>v-inti<lb n="2" break="no"/>raparumaṟku</foreign> is expected here.</note>
          		</app>    
@@ -140,17 +140,17 @@
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Vīrarākavaṉ1996_01"/></bibl> (Āvaṇam 7, no. 10.1), with an estampage; text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded here and translated for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous edition(s).
+First edited in <bibl><ptr target="bib:Vīrarākavaṉ+al1996_01"/></bibl> (Āvaṇam 7, no. 10.1), with an estampage; text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded here and translated for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous edition(s).
             </p>
 
          	<listBibl type="primary">
          		         		
-         		<bibl n="CV">
-            		<ptr target="bib:Vīrarākavaṉ1996_01"/>
+         		<bibl n="V">
+            		<ptr target="bib:Vīrarākavaṉ+al1996_01"/>
             		<citedRange unit="item">10.1</citedRange>
             	</bibl>
          		
-         		<bibl n="DD">
+         		<bibl n="D">
          			<ptr target="bib:Dayalan2005_01"/>
          			<citedRange unit="volume">3</citedRange>
          			<citedRange unit="appendix">I</citedRange>
