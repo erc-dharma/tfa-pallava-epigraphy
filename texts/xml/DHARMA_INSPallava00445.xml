@@ -115,12 +115,12 @@
       			<lb n="15"/>Ivarkaḷ iṭai-p peṟṟa Am
       			<lb n="16" break="no"/>par-nāṭṭu-k koṟṟamaṅkala
       			<lb n="17" break="no"/>ttu naṉṉaṉ ciṟunampi
-      			<lb n="18" break="no"/>maṇalūrntu tiruvaiyā
+      			<lb n="18"/>maṇalūrntu tiruvaiyā
       			<lb n="19" break="no"/>ṟ-uṭaiya ma<hi rend="grantha">hā</hi>tēvarkku Oru nan
       			<lb n="20" break="no"/>tā viḷakku nicati kumāramāt
-      			<lb n="22" break="no"/>tāṇṭattāl Uri-y ney
-      			<lb n="23" break="no"/>-y erippataṟku kuṭutta ni
-      			<lb n="24" break="no"/>lam pattu mā {pcs}<!--update encoding punctuation-->
+      			<lb n="21" break="no"/>tāṇṭattāl Uri-y ney
+      			<lb n="22" break="no"/>-y erippataṟku kuṭutta ni
+      			<lb n="23" break="no"/>lam pattu mā {pcs}<!--update encoding punctuation-->
       		</p>
       		
       	</div>
@@ -144,11 +144,95 @@
          			<rdg source="bib:Swaminathan1995_01">poṉṉ aṟupatiṉ</rdg>         			
          		</app>  
          			
-         		<!--<app loc="0">
+         		<app loc="8">
+         			<lem>Ik-kōyiliṟ</lem>
+         			<rdg source="bib:Vīrarākavaṉ1999_02">Ikkōyiliṟ</rdg>
+         			<rdg source="bib:Swaminathan1995_01"><hi rend="grantha">śrī</hi>-kōyiṟ</rdg>
+         		</app> 
+         		         	         			
+         		<app loc="8">
+         			<lem>cantirātitta
+      			<lb n="9" break="no"/>vaṟ</lem>
+         			<rdg source="bib:Vīrarākavaṉ1999_02">cantirātitta
+      			<lb n="9" break="no"/>vaṟ</rdg>
+         			<rdg source="bib:Swaminathan1995_01"><hi rend="grantha">candrā</hi>titta
+      			<lb n="9" break="no"/>vaṟ</rdg>
+         		</app> 
+         		         	         			
+         		<app loc="10">
+         			<lem>ney</lem>
+         			<rdg source="bib:Vīrarākavaṉ1999_02">ney</rdg>
+         			<rdg source="bib:Swaminathan1995_01">nei</rdg>
+         		</app> 
+         		         	         			
+         		<app loc="13">
+         			<lem>karuvūr kā
+      			<lb n="14" break="no"/>riyāṉ</lem>
+         			<rdg source="bib:Vīrarākavaṉ1999_02">karuvūr kā
+      			<lb n="14" break="no"/>riyāṉ</rdg>
+         			<rdg source="bib:Swaminathan1995_01">karuvūrkku na
+      			<lb n="14" break="no"/>riyāṉ</rdg>
+         		</app> 
+         		         	         			
+         		<app loc="15">
+         			<lem>Am
+      			<lb n="16" break="no"/>par°</lem>
+         			<rdg source="bib:Vīrarākavaṉ1999_02">Am
+      			<lb n="16" break="no"/>par°</rdg>
+         			<rdg source="bib:Swaminathan1995_01">An
+      			<lb n="16" break="no"/>par°</rdg>
+         		</app> 
+         		         	         			
+         		<app loc="17">
+         			<lem>ciṟunampi</lem>
+         			<rdg source="bib:Vīrarākavaṉ1999_02">ciṟunampi</rdg>
+         			<rdg source="bib:Swaminathan1995_01">ciṟunappi</rdg>
+         		</app> 
+         		         	         			
+         		<app loc="18">
+         			<lem>tiruvaiyā
+      			<lb n="19" break="no"/>ṟ-uṭaiya</lem>
+         			<rdg source="bib:Vīrarākavaṉ1999_02">tiruvaiyā
+      			<lb n="19" break="no"/>ṟuṭaiya</rdg>
+         			<rdg source="bib:Swaminathan1995_01">tiruvaiyyā
+      			<lb n="19" break="no"/>ṟu</rdg>
+         		</app> 
+         		
+         		<app loc="19">
+         			<lem>nan
+      			<lb n="20" break="no"/>tā viḷakku</lem>
+         			<rdg source="bib:Vīrarākavaṉ1999_02">nan
+      			<lb n="20" break="no"/>tā viḷakku</rdg>
+         			<rdg source="bib:Swaminathan1995_01">nan
+      			<lb n="20" break="no"/><unclear>ta vi</unclear>ḷakku</rdg>
+         		</app> 
+         		         	         		
+         		<app loc="20">
+         			<lem>kumāramāt
+      			<lb n="22" break="no"/>tāṇṭattāl</lem>
+         			<rdg source="bib:Vīrarākavaṉ1999_02">kumāramāt
+      			<lb n="22" break="no"/>tāṇṭattāl</rdg>
+         			<rdg source="bib:Swaminathan1995_01">kumāramāt
+      			<lb n="22" break="no"/>tāṇṭattal</rdg>
+         		</app> 
+         		         	         		
+         		<app loc="20">
          			<lem></lem>
          			<rdg source="bib:Vīrarākavaṉ1999_02"></rdg>
          			<rdg source="bib:Swaminathan1995_01"></rdg>
-         		</app> -->
+         		</app> 
+         		         	         		
+         		<app loc="21">
+         			<lem>ney</lem>
+         			<rdg source="bib:Vīrarākavaṉ1999_02">ney</rdg>
+         			<rdg source="bib:Swaminathan1995_01">nei</rdg>
+         		</app> 
+         		         	         		
+         		<app loc="22">
+         			<lem>kuṭutta</lem>
+         			<rdg source="bib:Vīrarākavaṉ1999_02">kuṭutta</rdg>
+         			<rdg source="bib:Swaminathan1995_01">kuouttā</rdg>
+         		</app> 
          		         		
          	</listApp>
 
@@ -165,36 +249,40 @@
          	</p>
          	
          	<p n="6-12">
-         		With this gold ...
+         		So as, with this gold, keep burning one perpetual lamp, we have become those who will regularly <supplied reason="explanation"><foreign>nicati</foreign></supplied> provide a <foreign>uri</foreign> of oil, <supplied reason="subaudible">measured</supplied> as per the <supplied reason="subaudible">standard</supplied> <foreign>kumaramāttāṇṭam</foreign>, in this temple as long as the moon and the sun, we, the members of the assembly of Kārikuṭi.
          	</p>
          	
          	<p n="12-23">
-         		...
+         		While the village delegates, including Karuvūr Kāriyāṉ <supplied reason="subaudible">of</supplied> the village of Antaṉūr gave <supplied reason="subaudible">this gold</supplied>, <supplied reason="subaudible">there were</supplied> ten <foreign>mā</foreign> of land that Naṉṉaṉ Ciṟunampi of Koṟṟamaṅkalam in the Amparnāṭu, who obtained <supplied reason="subaudible">the gold</supplied> from these<note>That is, the village delegates of Antaṉūr.</note>, gave for regularly keeping burning <supplied reason="subaudible">with</supplied> a <foreign>uri</foreign> of oil,<supplied reason="subaudible">measured</supplied> as per the <supplied reason="subaudible">standard</supplied> <foreign>kumaramāttāṇṭam</foreign>, one perpetual lamp for the Mahādeva of Tiruvaiyāṟu <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>maṇalūrntu</foreign></supplied><note><bibl n="S"><ptr target="bib:Swaminathan1995_01"/></bibl> understands that the assembly of Kārikuṭi transfered the gold to a village delegate of Antaṉūr, who himself entrusted it to Naṉṉaṉ Ciṟunampi to supply the oil out of the <quote>proceeds</quote> of the land purchased with the gold.</note>.
          	</p>
 
          </div>
       	
          <div type="commentary">
+         	<p>Note on the identification of Nantippōttaraiyar, who vanquished at Teḷḷāṟu, contra 
+         		<bibl n="S">
+            		<ptr target="bib:Swaminathan1995_01"/>
+            	</bibl>.</p>
          </div>
 
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Tiyākarācaṉ1994_01"/></bibl> (Āvaṇam 4, no. 1); re-edited by <bibl><ptr target="bib:Swaminathan1995_01"/></bibl> (in transliteration, without diacritics for alveolar consonants); text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded and translated for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous edition(s).
+First edited in <bibl><ptr target="bib:Tiyākarācaṉ1994_01"/></bibl> (Āvaṇam 4, no. 1); re-edited, with substantial variant readings by <bibl><ptr target="bib:Swaminathan1995_01"/></bibl> (in transliteration, without diacritics for alveolar consonants); text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded and translated for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous edition(s).
             </p>
 
          	<listBibl type="primary">
          		         		
-         		<bibl n="CV">
+         		<bibl n="V">
             		<ptr target="bib:Vīrarākavaṉ1999_02"/>
             		<citedRange unit="item">8</citedRange>
             	</bibl>
          		
-         		<bibl n="SS">
+         		<bibl n="S">
             		<ptr target="bib:Swaminathan1995_01"/>
             	</bibl>
          		
-         		<bibl n="DD">
+         		<bibl n="D">
          			<ptr target="bib:Dayalan2005_01"/>
          			<citedRange unit="volume">3</citedRange>
          			<citedRange unit="appendix">I</citedRange>
