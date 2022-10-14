@@ -111,13 +111,13 @@
          		
          		<app loc="1">
          			<lem>nan=ti-<supplied reason="omitted">p</supplied>-pōttarai</lem>
-         			<rdg source="bib:Vīrarākavaṉ+al1999_02">natipōttarai</rdg>
+         			<rdg source="bib:Virarakavan1999_02">natipōttarai</rdg>
          		</app>    
          		
          		<app loc="1">
          			<lem>ca
       			<lb n="2" break="no"/><unclear>racaru</unclear></lem>
-         			<rdg source="bib:Vīrarākavaṉ+al1999_02">ca
+         			<rdg source="bib:Virarakavan1999_02">ca
       			<lb n="2" break="no"/><unclear>racaru</unclear></rdg>
          			<note><foreign>A<lb n="2" break="no"/>raicaru</foreign> seems a possible alternative reading.</note>
          		</app>            		
@@ -148,13 +148,13 @@
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Vīrarākavaṉ+al1999_02"/></bibl> (Āvaṇam 10, no. 8), with a picture; text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded here and translated for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous edition(s).
+First edited in <bibl><ptr target="bib:Virarakavan1999_02"/></bibl> (Āvaṇam 10, no. 8), with a picture; text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded here and translated for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous edition(s).
             </p>
 
          	<listBibl type="primary">
          		         		
          		<bibl n="V">
-            		<ptr target="bib:Vīrarākavaṉ+al1999_02"/>
+            		<ptr target="bib:Virarakavan1999_02"/>
             		<citedRange unit="item">8</citedRange>
             	</bibl>
          		
