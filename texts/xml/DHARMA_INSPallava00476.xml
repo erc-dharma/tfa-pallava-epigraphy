@@ -111,7 +111,7 @@
          		<app loc="1">
          			<lem>tēvaku<unclear>lam</unclear></lem>
          			<rdg source="bib:Iracavel+Cesattiri2000_01">tēvakulam</rdg>
-         			<note></note>
+         			<note/>
          		</app>  
          			
          		
@@ -146,7 +146,14 @@ First edited in <bibl><ptr target="bib:Iracavel+Cesattiri2000_01"/></bibl>; enco
          	
          	<listBibl type="secondary">
          		
-         		<bibl n="ARIE">
+         		<bibl n="ARIE1973">
+         			<ptr target="bib:ARIE1972-1973"/>
+         			<citedRange unit="page">62</citedRange>
+         			<citedRange unit="appendix">B/1972-1973</citedRange>
+         			<citedRange unit="item">260</citedRange>
+         		</bibl>          
+         		
+         		<bibl n="ARIE2001">
          			<ptr target="bib:ARIE2000-2001"/>
          			<citedRange unit="page">4, 87</citedRange>
          			<citedRange unit="appendix">B/2000-2001</citedRange>
