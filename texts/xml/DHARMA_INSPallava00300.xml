@@ -110,12 +110,12 @@
          		
          		<app loc="3">
          			<lem>kōval-Ūr</lem>
-         			<rdg source="bib:Nākacāmi1972_01">kōvalū Ūr</rdg>
+         			<rdg source="bib:Nakacami1972_01">kōvalū Ūr</rdg>
          		</app>
          		
          		<app loc="4">
          			<lem>°pāṇ<choice><sic>a</sic><corr>ā</corr></choice>ti°</lem>
-         			<rdg source="bib:Nākacāmi1972_01">°pāṇati°</rdg>
+         			<rdg source="bib:Nakacami1972_01">°pāṇati°</rdg>
          		</app>
          	</listApp>
 
@@ -143,13 +143,13 @@
          <div type="bibliography">
 
             <p>
-            	First edited by <bibl><ptr target="bib:Nākacāmi1972_01"/></bibl> (CN 1971/73); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 300); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous editions.           	
+            	First edited by <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/73); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 300); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous editions.           	
             </p>
          	
             	<listBibl type="primary">
         		
         		<bibl n="RN">
-        			<ptr target="bib:Nākacāmi1972_01"/>
+        			<ptr target="bib:Nakacami1972_01"/>
         			<citedRange unit="item">1971/73</citedRange>
         		</bibl>
         		

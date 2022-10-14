@@ -114,22 +114,22 @@
         		
         		<app loc="1">
         			<lem><gap reason="undefined" quantity="3" unit="character" precision="low"/><supplied reason="undefined">kō-vi</supplied>c<choice><orig>a</orig><reg>ai</reg></choice>ya°</lem>
-        			<rdg source="bib:Nākacāmi1972_01"><gap reason="undefined" quantity="5" unit="character"/>caya°</rdg>         			
+        			<rdg source="bib:Nakacami1972_01"><gap reason="undefined" quantity="5" unit="character"/>caya°</rdg>         			
         		</app>
         		
         		<app loc="2">
         			<lem>°<gap reason="undefined" quantity="2" unit="character" precision="low"/>ṭuku°</lem>
-        			<rdg source="bib:Nākacāmi1972_01">°<gap reason="undefined" quantity="2" unit="character"/>ṭuku°</rdg>
+        			<rdg source="bib:Nakacami1972_01">°<gap reason="undefined" quantity="2" unit="character"/>ṭuku°</rdg>
         			<note>The lacuna is probably <foreign>mārpi</foreign> or <foreign>vi</foreign>. Thus <foreign>mārpiṭuku</foreign> or <foreign>viṭuku</foreign>.</note>
         		</app>
         		
         		<app loc="3">
         			<lem><supplied reason="undefined">ku yāṇ</supplied>ṭu</lem>
-        			<rdg source="bib:Nākacāmi1972_01"><gap reason="undefined" quantity="4" unit="character"/>ṭu</rdg>         			        		</app>
+        			<rdg source="bib:Nakacami1972_01"><gap reason="undefined" quantity="4" unit="character"/>ṭu</rdg>         			        		</app>
         		
         		<app loc="4">
         			<lem><supplied reason="undefined">pal-ku</supplied>ṉṟa°</lem>
-        			<rdg source="bib:Nākacāmi1972_01"><gap reason="undefined" quantity="4" unit="character" precision="low"/>ṉṟa°</rdg>         			
+        			<rdg source="bib:Nakacami1972_01"><gap reason="undefined" quantity="4" unit="character" precision="low"/>ṉṟa°</rdg>         			
         		</app>
          		
          	</listApp>
@@ -158,13 +158,13 @@
          <div type="bibliography">
 
             <p>
-            	First edited by <bibl><ptr target="bib:Nākacāmi1972_01"/></bibl> (CN 1971/72); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 308); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous editions.           	
+            	First edited by <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/72); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 308); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous editions.           	
             </p>
          	
             	<listBibl type="primary">
         		
         		<bibl n="RN">
-        			<ptr target="bib:Nākacāmi1972_01"/>
+        			<ptr target="bib:Nakacami1972_01"/>
         			<citedRange unit="item">1971/72</citedRange>
         		</bibl>
         		

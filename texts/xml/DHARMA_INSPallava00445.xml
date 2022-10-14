@@ -132,7 +132,7 @@
          		<app loc="1">
          			<lem>tiruvaiyā
       			<lb n="2" break="no"/>ṟṟu</lem>
-         			<rdg source="bib:Tiyākarācaṉ1994_01">tiruvaiyā
+         			<rdg source="bib:Tiyakaracan1994_01">tiruvaiyā
       			<lb n="2" break="no"/>ṟṟu</rdg>
          			<rdg source="bib:Swaminathan1995_01">tiruvaiĀṟ
       			<lb n="2" break="no"/>ṟu</rdg>         			
@@ -140,20 +140,20 @@
          			
          		<app loc="5">
          			<lem>poṉ <num value="10"><g type="numeral">10</g></num> patiṉ</lem>
-         			<rdg source="bib:Tiyākarācaṉ1994_01">poṉ <num value="10"><g type="numeral">10</g></num> patiṉ</rdg>
+         			<rdg source="bib:Tiyakaracan1994_01">poṉ <num value="10"><g type="numeral">10</g></num> patiṉ</rdg>
          			<rdg source="bib:Swaminathan1995_01">poṉṉ aṟupatiṉ</rdg>         			
          		</app>  
          			
          		<app loc="8">
          			<lem>Ik-kōyiliṟ</lem>
-         			<rdg source="bib:Tiyākarācaṉ1994_01">Ikkōyiliṟ</rdg>
+         			<rdg source="bib:Tiyakaracan1994_01">Ikkōyiliṟ</rdg>
          			<rdg source="bib:Swaminathan1995_01"><hi rend="grantha">śrī</hi>-kōyiṟ</rdg>
          		</app> 
          		         	         			
          		<app loc="8">
          			<lem>cantirātitta
       			<lb n="9" break="no"/>vaṟ</lem>
-         			<rdg source="bib:Tiyākarācaṉ1994_01">cantirātitta
+         			<rdg source="bib:Tiyakaracan1994_01">cantirātitta
       			<lb n="9" break="no"/>vaṟ</rdg>
          			<rdg source="bib:Swaminathan1995_01"><hi rend="grantha">candrā</hi>titta
       			<lb n="9" break="no"/>vaṟ</rdg>
@@ -161,14 +161,14 @@
          		         	         			
          		<app loc="10">
          			<lem>ney</lem>
-         			<rdg source="bib:Tiyākarācaṉ1994_01">ney</rdg>
+         			<rdg source="bib:Tiyakaracan1994_01">ney</rdg>
          			<rdg source="bib:Swaminathan1995_01">nei</rdg>
          		</app> 
          		         	         			
          		<app loc="13">
          			<lem>karuvūr kā
       			<lb n="14" break="no"/>riyāṉ</lem>
-         			<rdg source="bib:Tiyākarācaṉ1994_01">karuvūr kā
+         			<rdg source="bib:Tiyakaracan1994_01">karuvūr kā
       			<lb n="14" break="no"/>riyāṉ</rdg>
          			<rdg source="bib:Swaminathan1995_01">karuvūrkku na
       			<lb n="14" break="no"/>riyāṉ</rdg>
@@ -177,7 +177,7 @@
          		<app loc="15">
          			<lem>Am
       			<lb n="16" break="no"/>par°</lem>
-         			<rdg source="bib:Tiyākarācaṉ1994_01">Am
+         			<rdg source="bib:Tiyakaracan1994_01">Am
       			<lb n="16" break="no"/>par°</rdg>
          			<rdg source="bib:Swaminathan1995_01">An
       			<lb n="16" break="no"/>par°</rdg>
@@ -185,14 +185,14 @@
          		         	         			
          		<app loc="17">
          			<lem>ciṟunampi</lem>
-         			<rdg source="bib:Tiyākarācaṉ1994_01">ciṟunampi</rdg>
+         			<rdg source="bib:Tiyakaracan1994_01">ciṟunampi</rdg>
          			<rdg source="bib:Swaminathan1995_01">ciṟunappi</rdg>
          		</app> 
          		         	         			
          		<app loc="18">
          			<lem>tiruvaiyā
       			<lb n="19" break="no"/>ṟ-uṭaiya</lem>
-         			<rdg source="bib:Tiyākarācaṉ1994_01">tiruvaiyā
+         			<rdg source="bib:Tiyakaracan1994_01">tiruvaiyā
       			<lb n="19" break="no"/>ṟuṭaiya</rdg>
          			<rdg source="bib:Swaminathan1995_01">tiruvaiyyā
       			<lb n="19" break="no"/>ṟu</rdg>
@@ -201,7 +201,7 @@
          		<app loc="19">
          			<lem>nan
       			<lb n="20" break="no"/>tā viḷakku</lem>
-         			<rdg source="bib:Tiyākarācaṉ1994_01">nan
+         			<rdg source="bib:Tiyakaracan1994_01">nan
       			<lb n="20" break="no"/>tā viḷakku</rdg>
          			<rdg source="bib:Swaminathan1995_01">nan
       			<lb n="20" break="no"/><unclear>ta vi</unclear>ḷakku</rdg>
@@ -210,27 +210,27 @@
          		<app loc="20">
          			<lem>kumāramāt
       			<lb n="22" break="no"/>tāṇṭattāl</lem>
-         			<rdg source="bib:Tiyākarācaṉ1994_01">kumāramāt
+         			<rdg source="bib:Tiyakaracan1994_01">kumāramāt
       			<lb n="22" break="no"/>tāṇṭattāl</rdg>
          			<rdg source="bib:Swaminathan1995_01">kumāramāt
       			<lb n="22" break="no"/>tāṇṭattal</rdg>
          		</app> 
          		         	         		
          		<app loc="20">
-         			<lem></lem>
-         			<rdg source="bib:Tiyākarācaṉ1994_01"></rdg>
-         			<rdg source="bib:Swaminathan1995_01"></rdg>
+         			<lem/>
+         			<rdg source="bib:Tiyakaracan1994_01"/>
+         			<rdg source="bib:Swaminathan1995_01"/>
          		</app> 
          		         	         		
          		<app loc="21">
          			<lem>ney</lem>
-         			<rdg source="bib:Tiyākarācaṉ1994_01">ney</rdg>
+         			<rdg source="bib:Tiyakaracan1994_01">ney</rdg>
          			<rdg source="bib:Swaminathan1995_01">nei</rdg>
          		</app> 
          		         	         		
          		<app loc="22">
          			<lem>kuṭutta</lem>
-         			<rdg source="bib:Tiyākarācaṉ1994_01">kuṭutta</rdg>
+         			<rdg source="bib:Tiyakaracan1994_01">kuṭutta</rdg>
          			<rdg source="bib:Swaminathan1995_01">kuouttā</rdg>
          		</app> 
          		         		
@@ -268,13 +268,13 @@
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Tiyākarācaṉ1994_01"/></bibl> (Āvaṇam 4, no. 1); re-edited, with substantial variant readings by <bibl><ptr target="bib:Swaminathan1995_01"/></bibl> (in transliteration, without diacritics for alveolar consonants); text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded and translated for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous edition(s).
+First edited in <bibl><ptr target="bib:Tiyakaracan1994_01"/></bibl> (Āvaṇam 4, no. 1); re-edited, with substantial variant readings by <bibl><ptr target="bib:Swaminathan1995_01"/></bibl> (in transliteration, without diacritics for alveolar consonants); text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded and translated for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous edition(s).
             </p>
 
          	<listBibl type="primary">
          		         		
          		<bibl n="T">
-            		<ptr target="bib:Tiyākarācaṉ1994_01"/>
+            		<ptr target="bib:Tiyakaracan1994_01"/>
             		<citedRange unit="item">8</citedRange>
             	</bibl>
          		

@@ -114,7 +114,7 @@
          		</app>    
          		<app loc="7">
          			<lem>vā<lb n="8" break="no"/>ṭi-p paṭṭā<lb n="9" break="no"/>ṉ</lem>
-         			<rdg source="bib:Nākacāmi1972_01">vā<lb n="8" break="no"/>ṭi paṭṭā<lb n="9" break="no"/>ṉ</rdg>
+         			<rdg source="bib:Nakacami1972_01">vā<lb n="8" break="no"/>ṭi paṭṭā<lb n="9" break="no"/>ṉ</rdg>
          		</app>
          		<!--Display issue on line numbers: the 3 numbers appear-->
          		
@@ -142,13 +142,13 @@
          <div type="bibliography">
 
             <p>
-            	First edited by <bibl><ptr target="bib:Nākacāmi1972_01"/></bibl> (CN 1971/59); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 284.1); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous editions and the facsimile in <bibl><ptr target="bib:Nagaswamy1980_02"/></bibl>.           	
+            	First edited by <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/59); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 284.1); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous editions and the facsimile in <bibl><ptr target="bib:Nagaswamy1980_02"/></bibl>.           	
             </p>
          	
             	<listBibl type="primary">
         		
         		<bibl n="RN">
-        			<ptr target="bib:Nākacāmi1972_01"/>
+        			<ptr target="bib:Nakacami1972_01"/>
         			<citedRange unit="item">1971/59</citedRange>
         		</bibl>
         		

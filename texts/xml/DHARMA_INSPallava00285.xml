@@ -116,7 +116,7 @@
          	<listApp>
          		<app loc="9">
          			<lem>kākkaṇṭi</lem>         						
-         			<rdg source="bib:Nākacāmi1972_01">kākaṇṭi</rdg>
+         			<rdg source="bib:Nakacami1972_01">kākaṇṭi</rdg>
          		</app>  	
          	</listApp>
 
@@ -148,13 +148,13 @@
          <div type="bibliography">
 
             <p>
-            	First edited by <bibl><ptr target="bib:Nākacāmi1972_01"/></bibl> (CN 1971/50); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 285); encoded an re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on photographs (2009).           	
+            	First edited by <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/50); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 285); encoded an re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on photographs (2009).           	
             </p>
          	
             	<listBibl type="primary">
         		
         		<bibl n="RN">
-        			<ptr target="bib:Nākacāmi1972_01"/>
+        			<ptr target="bib:Nakacami1972_01"/>
         			<citedRange unit="item">1971/50</citedRange>
         		</bibl>
         		
