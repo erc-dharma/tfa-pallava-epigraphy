@@ -113,7 +113,7 @@
             
             <p>
                Iv
-               <lb n="5" break="no"/>‡v-i<unclear>run</unclear>t’ ūṭṭu mu<unclear>ṭṭi</unclear>l kaṅk<choice><sic>e</sic><corr>ai</corr></choice>-<choice><orig>I</orig><reg>y-i</reg></choice>ṭai-k kumari-<supplied reason="omitted"><choice><orig>I</orig><reg>y-i</reg></choice></supplied>ṭai Eḻu-nūṟṟu-k kātatt’ <choice><sic>ū</sic><corr>u</corr></choice>ḷḷum ceytār ce‡<supplied reason="omitted">y</supplied>ta <unclear>p</unclear>āvam paṭuvō<supplied reason="omitted">m ā</supplied>ṉōm
+               <lb n="5" break="no"/>‡v-i<unclear>run</unclear>t’ ūṭṭu mu<unclear>ṭṭi</unclear>l kaṅk<choice><sic>e</sic><corr>ai</corr></choice>-<choice><orig>I</orig><reg>y-i</reg></choice>ṭai-k kumari-<supplied reason="omitted"><choice><orig>I</orig><reg>y-i</reg></choice></supplied>ṭai Eḻu-nūṟṟu-k kātatt’ <choice><sic>ū</sic><corr>u</corr></choice>ḷḷum ceytār ce‡<supplied reason="omitted">y</supplied>ta <unclear>p</unclear>āvam paṭuvō<supplied reason="omitted">m ā</supplied>ṉōm <hi rend="grantha">sabhai</hi>yōm
             </p>
             
          </div>  
@@ -123,8 +123,76 @@
             <listApp>           	
                
                <app loc="1">
-                  <lem></lem>
-                  <rdg source="bib:Hultzsch1899_01"></rdg>
+                  <lem>°va<hi rend="grantha"><supplied reason="omitted">r</supplied>mma</hi>ṟku</lem>
+                  <rdg source="bib:Hultzsch1899_01">va<hi rend="grantha"><unclear>r</unclear>mma</hi>ṟku</rdg>
+               </app>
+                  
+               <app loc="1">
+                  <lem>Uṭkaṟ</lem>
+                  <rdg source="bib:Hultzsch1899_01">Uṭkaṟ<supplied reason="omitted">k</supplied>ku</rdg>
+                  <note><ptr target="bib:Hultzsch1899_01"/> rightly notes the the final <foreign>ṟ</foreign> has been added subsequently. It is indeed of smaller size and accommodated in the bottom part of the space between <foreign>ka</foreign> and <foreign><hi rend="grantha">sa</hi></foreign>.</note>
+               </app>
+               
+               <app loc="1">
+                  <lem><hi rend="grantha">sabhai</hi>yār<supplied reason="omitted">k</supplied>ku</lem>
+                  <rdg source="bib:Hultzsch1899_01"><hi rend="grantha"><unclear>sa</unclear>bhai</hi>yār<supplied reason="omitted">k</supplied>ku</rdg>
+               </app>
+                  
+                  <app loc="2">
+                  <lem>ne<choice><sic>Il</sic><corr>l</corr></choice>lāl</lem>
+                  <rdg source="bib:Hultzsch1899_01">ne<unclear>Il</unclear>lāl</rdg>
+                     <note><ptr target="bib:Hultzsch1899_01"/> suggests to read <foreign>Innellāl</foreign>.</note>
+               </app>
+               
+               <app loc="3">
+                  <lem><unclear reason="eccentric_ductus">ne</unclear>l</lem>
+                  <rdg source="bib:Hultzsch1899_01">kol</rdg>
+                  <note><ptr target="bib:Hultzsch1899_01"/> suggests to read <foreign>nel</foreign>. The <foreign>ne</foreign>, of eccentric ductus, looks indeed like <foreign>ko</foreign>.</note>
+               </app>
+                  
+               <app loc="4">
+                  <lem>n<unclear>āya</unclear>ṟum</lem>
+                  <rdg source="bib:Hultzsch1899_01">nāyaṟum</rdg>
+               </app>
+                  
+               <app loc="4">
+                  <lem>Aḷavum</lem>
+                  <rdg source="bib:Hultzsch1899_01"><unclear>A</unclear>ḷavum</rdg>
+               </app>
+                  
+               <app loc="4">
+                  <lem>Uṭkal</lem>
+                  <rdg source="bib:Hultzsch1899_01">Uṭ<unclear>ka</unclear>l</rdg>
+               </app>
+                  
+               <app loc="4">
+                  <lem>Iv
+               <lb n="5" break="no"/>‡v-i<unclear>run</unclear>t’ ūṭṭu</lem>
+                  <rdg source="bib:Hultzsch1899_01">Iv
+               <lb n="5" break="no"/>viru<unclear>n</unclear>tūṭṭu</rdg>
+                  <note><ptr target="bib:Hultzsch1899_01"/> notes that the <quote><foreign>n</foreign> of <foreign>virun</foreign> appears to be corrected from <foreign>ṉ</foreign></quote>.</note>
+               </app>
+                  
+                  <app loc="5">
+                  <lem>kaṅk<choice><sic>e</sic><corr>ai</corr></choice></lem>
+                  <rdg source="bib:Hultzsch1899_01">kaṅk<choice><sic>e</sic><corr>ai</corr></choice></rdg>
+               </app>
+               
+               <app loc="5">
+                  <lem>kumari-<supplied reason="omitted"><choice><orig>I</orig><reg>y-i</reg></choice></supplied>ṭai</lem>
+                  <rdg source="bib:Hultzsch1899_01">kumari<supplied reason="omitted">yi</supplied>ṭai</rdg>
+                  <note></note>
+               </app>
+                                
+               <app loc="5">
+                  <lem>kātatt’ <choice><sic>ū</sic><corr>u</corr></choice>ḷḷum</lem>
+                  <rdg source="bib:Hultzsch1899_01">kātatt<choice><sic>ū</sic><corr>u</corr></choice>ḷḷu<unclear>m</unclear></rdg>
+                  <note></note>
+               </app>               
+                  
+               <app loc="5">
+                  <lem>paṭuvō<supplied reason="omitted">m ā</supplied>ṉōm</lem>
+                  <rdg source="bib:Hultzsch1899_01"><unclear>pa</unclear>ṭuvō<supplied reason="omitted">m ā</supplied>ṉōm</rdg>
                   <note></note>
                </app>
                
@@ -140,11 +208,14 @@
             <p n="1">
                Tenth year of Kampavarman.</p>
             
-            <p n="1-2">...</p>
+            <p n="1-2">
+               The paddy that Caṭaiyaṉ gave to the members of the assembly of Uṭkal: four hundred <foreign>kāṭi</foreign>s.</p>
             
-            <p n="2-4">...</p>
+            <p n="2-4">
+               With this paddy, <supplied reason="subaudible">with</supplied> the interest <supplied reason="subaudible">of it</supplied>, <supplied reason="subaudible">that is</supplied> with an interest <supplied reason="subaudible">of</supplied> one hundred <foreign>kāṭi</foreign>s per year, we, the members of the assembly of Uṭkal shall feed daily two Brahmins, as long as the moon and the sun.</p>
             
-            <p n="4-5">...</p>
+            <p n="4-5">
+               If we fail <supplied reason="subaudible">to provide</supplied> food <supplied reason="subaudible">to</supplied> these guests we shall incur the sin that do those of do <supplied reason="subaudible">sin</supplied> within the seven hundred <foreign>kātam</foreign>s between the Ganges and Kumari.</p>
             
          </div>
          
@@ -154,7 +225,11 @@
             </p>
          </div>-->
                  
-         <div type="commentary"/>
+         <div type="commentary">
+            
+            <p>The same Caṭaiyaṉ is the donor of paddy for the upkeep of the tank at Uṭkal in DHARMA_INSPallava00215 (year 15 of Kampavarman).</p>
+            
+         </div>
          
          <div type="bibliography">
             
