@@ -137,7 +137,7 @@
          		<app loc="4">
          			<lem><num value="24"><unclear>24</unclear></num></lem>
          			<rdg source="bib:Cankar2012_01">2<unclear>4</unclear></rdg>
-         			<note>This figure is not clear, but should correspond the number provided after in words.</note>
+         			<note>This figure is not clear, but should correspond the number provided right after it in words.</note>
          		</app>   
          		
          		<app loc="8">
@@ -205,12 +205,12 @@
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Cankar2012_01"/></bibl> (Āvaṇam 23, no. 4), with a photograph of estampage; encoded and translated for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous edition(s) and published visual documentation.
+First edited in <bibl><ptr target="bib:Cankar2012_01"/></bibl> (Āvaṇam 23, no. 4), with a photograph of estampage; encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on previous edition(s) and published visual documentation.
             </p>
 
          	<listBibl type="primary">
          		         		
-         		<bibl n="T">
+         		<bibl n="C">
             		<ptr target="bib:Cankar2012_01"/>
             		<citedRange unit="item">4</citedRange>
             	</bibl>

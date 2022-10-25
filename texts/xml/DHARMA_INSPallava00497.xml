@@ -119,25 +119,25 @@
          		<app loc="2">
          			<lem>vi<unclear>ḻ</unclear>u		
       			<lb n="3" break="no"/>p-pē<supplied reason="omitted">ra</supplied>raiya<supplied reason="omitted">ṉ</supplied>-āyiṉa</lem>
-         			<rdg source="bib:Caṅkītā+al_1998">vi<unclear>ḻu</unclear>		
+         			<rdg source="bib:Cankita+al_1998">vi<unclear>ḻu</unclear>		
       			<lb n="3" break="no"/>ppēraiya<supplied reason="omitted">ṉ</supplied>-āyiṉa</rdg>
          		</app>  
          		         		
          		<app loc="5">
          			<lem>-p paṭāra<supplied reason="omitted">r</supplied>kku</lem>
-         			<rdg source="bib:Caṅkītā+al_1998"><gap reason="undefined" quantity="2" unit="character"/>paṭāra<supplied reason="omitted">r</supplied>kku</rdg>
+         			<rdg source="bib:Cankita+al_1998"><gap reason="undefined" quantity="2" unit="character"/>paṭāra<supplied reason="omitted">r</supplied>kku</rdg>
          		</app>  
          		         		
          		<app loc="6">
          			<lem>O<unclear reason="eccentric_ductus">lo</unclear>c		
       			<lb n="7" break="no"/>ca<supplied reason="omitted">ṉ</supplied></lem>
-         			<rdg source="bib:Caṅkītā+al_1998">Oloc		
+         			<rdg source="bib:Cankita+al_1998">Oloc		
       			<lb n="7" break="no"/>ca</rdg>
          		</app>  
          		         		
          		<app loc="7">
          			<lem>{symbol}</lem>
-         			<rdg source="bib:Caṅkītā+al_1998"><num value="0.5"><unclear>½</unclear></num></rdg>
+         			<rdg source="bib:Cankita+al_1998"><num value="0.5"><unclear>½</unclear></num></rdg>
          		</app>  
          		
          	</listApp>
@@ -171,13 +171,13 @@
          <div type="bibliography">
 
             <p>
-First edited by <bibl><ptr target="bib:Caṅkītā+al_1998"/></bibl> (Varalāṟu 8, no. 3); re-edited and translated for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous edition(s) and, for lines 1-7, on photographs (2016) kindly provided by Valérie Gillet.
+First edited by <bibl><ptr target="bib:Cankita+al_1998"/></bibl> (Varalāṟu 8, no. 3); re-edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on previous edition(s) and, for lines 1-7, on photographs (2016) kindly provided by Valérie Gillet.
             </p>
 
          	<listBibl type="primary">
          		
-         		<bibl n="RR">
-         			<ptr target="bib:Caṅkītā+al_1998"/>
+         		<bibl n="C">
+         			<ptr target="bib:Cankita+al_1998"/>
          			<citedRange unit="item">3.3</citedRange>
          		</bibl>
          		
@@ -187,7 +187,7 @@ First edited by <bibl><ptr target="bib:Caṅkītā+al_1998"/></bibl> (Varalāṟ
          	
          	<listBibl type="secondary">
          		
-         		<bibl n="MN">
+         		<bibl n="N">
          			<ptr target="bib:Nalini2016_01"/>
          		</bibl>      
          		

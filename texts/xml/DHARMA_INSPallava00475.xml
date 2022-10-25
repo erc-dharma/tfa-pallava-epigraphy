@@ -121,7 +121,8 @@
 
          <div type="translation" resp="part:emfr">
          	
-         	<p n="1-2">The temple <supplied reason="explanation"><foreign>tēvakulam</foreign></supplied> <choice><unclear>of</unclear><unclear>founded by</unclear></choice> the daughter of Lakka Cōmāciyār.
+         	<p n="1-2">
+         		The temple <supplied reason="explanation"><foreign>tēvakulam</foreign></supplied> <choice><unclear>of</unclear><unclear>founded by</unclear></choice> the daughter of Lakka Cōmāciyār.
          	</p> 
          	
          </div>
@@ -132,7 +133,7 @@
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Iracavel+Cesattiri2000_01"/></bibl>; encoded and translated for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous edition(s).
+First edited in <bibl><ptr target="bib:Iracavel+Cesattiri2000_01"/></bibl>; encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on previous edition(s).
             </p>
 
          	<listBibl type="primary">
