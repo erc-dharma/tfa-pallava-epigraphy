@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Guḍimallam, Parameśurāmeśvara temple, stele, year 49 of Dantivarman</title>
+            <title>Guḍimallam, Parameśurāmeśvara temple, stele, time of Dantivarman, year 49</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,13 +47,13 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Donation of land for the upkeep of a tank.</summary>
                </msContents>
-               <physDesc>
+               <!--<physDesc>
                   <handDesc>
                      <p/>
                   </handDesc>
-               </physDesc>
+               </physDesc>-->
             </msDesc>
          </sourceDesc>
       </fileDesc>
@@ -148,7 +148,7 @@
   			<lb n="37" break="no"/>ttu
   		</p>
   		<p>
-  			I<lb n="38" break="no"/><hi rend="grantha">ddharma</hi>ñ ce
+  			I<lb n="38" break="no"/><hi rend="grantha">d-dharma</hi>ñ ce
   			<lb n="39" break="no"/>lutti
   			<lb n="40" break="no"/>ṉāṉ <num value="1000"><g type="numeral">1000</g></num>
   			<lb n="41"/><hi rend="grantha">Aśvame
@@ -168,7 +168,7 @@
   			<lb n="52" break="no"/>vār
   		</p>
   		<p>
-  			I<hi rend="grantha">ddha
+  			I<hi rend="grantha">d-dha
   			<lb n="53" break="no"/>rmmam‧ rakṣi</hi>
   			<lb n="54" break="no"/>ttāṉ
   			<lb n="55"/>Aṭi E
@@ -188,34 +188,66 @@
   			
   			<app loc="31">
   				<lem><hi rend="grantha">Iddharmmañ ca</hi></lem>
-  				<note>About the initial <foreign>i</foreign>, Venkayya notes: <cit><quote>This initial vowel <hi rend="italic">i</hi> is written as in the Grantha portion of the Kāśākuḍi plates. The more usual form occurs in <hi rend="italic">ll.</hi> 37, 46 and 52 below.</quote><bibl><ptr target="bib:Venkayya1911-1912_01"/><citedRange unit="page">225</citedRange><citedRange unit="note">3</citedRange></bibl></cit></note>
+  				<note>About the initial <foreign>i</foreign>, <bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: <quote>This initial vowel <hi rend="italic">i</hi> is written as in the Grantha portion of the Kāśākuḍi plates. The more usual form occurs in <hi rend="italic">ll.</hi> 37, 46 and 52 below.</quote></note>
   			</app>
   			
   			<app loc="40">
   				<lem><num value="1000"><g type="numeral">1000</g></num></lem>
-  				<note>Venkayya notes: <cit><quote>This symbol for one thousand occurs in one of the Nānāghāṭ inscriptions. This line has been read by Mr. Gopinatha Rao as <hi rend="italic">°ṉāṛai<!--check original spelling--></hi> which is probably a printer’s mistake for <hi rend="italic">°ṉārai<!--check original spelling--></hi>. The reading <hi rend="italic">°ṉārai</hi> is unlikely as the symbol for <hi rend="italic">ai</hi>, in other cases where it occurs in the inscription (ll. 6, 22 and 30), is not separated from the consonant to which it belongs. Besides the accusative <hi rend="italic">°ṉārai</hi> would be wrong and would have to be corrected into <hi rend="italic">°nāṉ</hi> or <hi rend="italic">°ṉār</hi>.</quote><bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl></cit></note>
+  				<note><bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: <quote>This symbol for one thousand occurs in one of the Nānāghāṭ inscriptions. This line has been read by Mr. Gopinatha Rao as <hi rend="italic">°ṉāṛai<!--check original spelling--></hi> which is probably a printer’s mistake for <hi rend="italic">°ṉārai<!--check original spelling--></hi>. The reading <hi rend="italic">°ṉārai</hi> is unlikely as the symbol for <hi rend="italic">ai</hi>, in other cases where it occurs in the inscription (ll. 6, 22 and 30), is not separated from the consonant to which it belongs. Besides the accusative <hi rend="italic">°ṉārai</hi> would be wrong and would have to be corrected into <hi rend="italic">°nāṉ</hi> or <hi rend="italic">°ṉār</hi>.</quote></note>
   			</app>
   			
   			<app loc="46">
-  				<lem/><!--update-->
-  				<note><bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: “This side of the stone is damaged, but no letters have suffered on that account.” This comment seems in fact to apply to the back side of the slab and to ARE 1904/A/227 = ARE 1903/227 <!--to be updated--> which it bears. <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> adds: “The ll. 46 to 58 are altogether omitted in IA, xl, 104-14.”</note><!--update quote-->
+  				<lem><milestone unit="face" n="C"/></lem>
+  				<note><bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: <quote>This side of the stone is damaged, but no letters have suffered on that account.</quote> This comment seems in fact to apply to the back side of the slab and to ARIE 1904/A/227 = ARIE 1903/227 <!--to be updated--> which it bears. <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> adds: <quote>The ll. 46 to 58 are altogether omitted in IA, xl, 104-14.</quote></note>
   			</app>
   			
   			<app loc="48">
   				<lem>vāraṇāci</lem>
-  				<note><bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: “The length of <hi rend="italic">ṇā</hi> is added to the right of <hi rend="italic">ṇ</hi> and goes up; compare <hi rend="italic">South-Ind. Inscrs.</hi> Vol. I p. 114 and Vol. II p. 200, note 1.”</note><!--update quote-->
+  				<note><bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: <quote>The length of <hi rend="italic">ṇā</hi> is added to the right of <hi rend="italic">ṇ</hi> and goes up; compare <hi rend="italic">South-Ind. Inscrs.</hi> Vol. I p. 114 and Vol. II p. 200, note 1.</quote></note>
   			</app>
   			
   			<app loc="55">
   				<lem>Eṉ</lem>
-  				<note><bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: “The vowel <hi rend="italic">e</hi> is almost a semicircle with a loop at the left end.”</note><!--update quote--> 
+  				<note><bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: <quote>The vowel <hi rend="italic">e</hi> is almost a semicircle with a loop at the left end.</quote></note>
   			</app>
   		</listApp>
             
   	</div>
   	
   	<div type="translation" resp="part:emfr">
-  		<!--Add earlier translations-->
+  	   
+  	   <p n="1">
+  	      Prosperity! Fortune!
+  	   </p>
+  	   
+  	   <p n="1-5">
+  	      Fourty-ninth year of the victorious king Dantivikramavarman.
+  	   </p>
+  	   
+  	   <p n="5-22">
+  	      ...
+  	   </p>
+  	    
+  	   <p n="22-31">
+  	      ...
+  	   </p>
+  	    
+  	   <p n="31-37">
+  	      This pious act lasts ...
+  	   </p>
+  	    
+  	   <p n="37-45">
+  	      ...
+  	   </p>
+  	    
+  	   <p n="46-52">
+  	      ...
+  	   </p>
+  	     	    
+  	   <p n="53-58">
+  	      The feet of he who protects this pious act are on my head.
+  	   </p>
+  	   
   	</div>
   	
   	<div type="commentary"/>
@@ -224,18 +256,18 @@
   	<div type="bibliography">
   		
 <p>
-First edited in <bibl><ptr target="bib:GopinathaRao1911_01"/></bibl> with English translation; re-edited in <bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> with facsimile and English translation (EI 11, no. 22); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 110);  re-edited and  translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on photographs (2019).
+First edited and translated into English in <bibl><ptr target="bib:GopinathaRao1911_01"/></bibl>; re-edited and translated into English in <bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> (EI 11, no. 22), with facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 110);  re-edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on photographs (2019) kindly provided by Valérie Gillet.
 </p>
   		
   		<listBibl type="primary">
   			
-  			<bibl n="TVGR">
+  			<bibl n="GR">
   				<ptr target="bib:GopinathaRao1911_01"/>
   				<citedRange unit="item">E</citedRange>
   				<citedRange unit="page">113-114</citedRange>
   			</bibl>
   			
-  			<bibl n="VV"><!--display issue: only the first of the years of the date is displayed--><!-- I have changed the CSL in favor of DHARMA's and change the regex pattern again to take into account the range -->
+  			<bibl n="V">
   				<ptr target="bib:Venkayya1911-1912_01"/>
   				<citedRange unit="item">B</citedRange>
   				<citedRange unit="page">225-226</citedRange>
