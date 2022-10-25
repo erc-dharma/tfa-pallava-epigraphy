@@ -96,7 +96,7 @@
       			
       		</p>
       		<p>
-      			<lb n="3"/>vañci-<choice><orig>k</orig><reg>k-k</reg></choice>uḻi Uṭai<choice><orig>A</orig><reg>ya</reg></choice>ṉ kalimanta Ati
+      			<lb n="3"/>vañci<choice><orig>k</orig><reg>kk</reg></choice>uḻi Uṭai<choice><orig>A</orig><reg>ya</reg></choice>ṉ kalimanta Ati
       			<lb n="4"/>Araicaṉ Aṟa<choice><orig>Ū</orig><reg>yū</reg></choice>r mēl ceṉṟu paṭṭāṉ      			
       		</p>
       		
@@ -138,12 +138,12 @@
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Rāmēṣ2008_01"/></bibl> (Āvaṇam 19, no. 2), with a picture; encoded and translated for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous edition(s).
+First edited in <bibl><ptr target="bib:Rāmēṣ2008_01"/></bibl> (Āvaṇam 19, no. 2), with a picture; encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on previous edition(s).
             </p>
 
          	<listBibl type="primary">
          		
-         		<bibl n="RR">
+         		<bibl n="R">
          			<ptr target="bib:Rāmēṣ2008_01"/>
          			<citedRange unit="item">2</citedRange>
          		</bibl>

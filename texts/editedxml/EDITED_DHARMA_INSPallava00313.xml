@@ -110,19 +110,19 @@
         		
         		<app loc="2">
         			<lem>maṇikka<lb n="3" break="no"/>lla</lem>
-        			<rdg source="bib:Nākacāmi1972_01">maṇikka<lb n="3" break="no"/>lla</rdg> 
-        			<note><ptr target="bib:Nākacāmi1972_01"/> has <foreign>maṇikkallai</foreign> in his summary, that is the 	Accusative form.</note>        			
+        			<rdg source="bib:Nakacami1972_01">maṇikka<lb n="3" break="no"/>lla</rdg> 
+        			<note><ptr target="bib:Nakacami1972_01"/> has <foreign>maṇikkallai</foreign> in his summary, that is the 	Accusative form.</note>        			
         		</app>
         		
         		<app loc="4">
         			<lem>mēṭṭiṇa<lb n="5" break="no"/><supplied reason="undefined">ṉ ē</supplied>ṉāti</lem>
-        			<rdg source="bib:Nākacāmi1972_01">mēṭṭiṇa<lb n="5" break="no"/><gap reason="undefined" quantity="2" unit="character"/>ṉāti</rdg> 
-        			<note><foreign>mēṭṭiṇaṉ ēṉāti</foreign> is restored following the summary in <ptr target="bib:Nākacāmi1972_01"/>.</note>        			
+        			<rdg source="bib:Nakacami1972_01">mēṭṭiṇa<lb n="5" break="no"/><gap reason="undefined" quantity="2" unit="character"/>ṉāti</rdg> 
+        			<note><foreign>mēṭṭiṇaṉ ēṉāti</foreign> is restored following the summary in <ptr target="bib:Nakacami1972_01"/>.</note>        			
         		</app>
         		
         		<app loc="6">
         			<lem><supplied reason="undefined">Akka</supplied>ḻimallaṉ</lem>
-        			<rdg source="bib:Nākacāmi1972_01"><gap reason="undefined" quantity="2" unit="character"/>ḻimallaṉ</rdg>         	
+        			<rdg source="bib:Nakacami1972_01"><gap reason="undefined" quantity="2" unit="character"/>ḻimallaṉ</rdg>         	
         			<note><foreign>Akkaḻimallaṉ</foreign> is restored following the summary in <ptr target="bib:Mahalingam1988_01"/>.</note>
         		</app>
          		
@@ -152,13 +152,13 @@
          <div type="bibliography">
 
             <p>
-            	First edited by <bibl><ptr target="bib:Nākacāmi1972_01"/></bibl> (CN 1971/118); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 313); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous editions.           	
+            	First edited by <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/118); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 313); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous editions.           	
             </p>
          	
             	<listBibl type="primary">
         		
         		<bibl n="RN">
-        			<ptr target="bib:Nākacāmi1972_01"/>
+        			<ptr target="bib:Nakacami1972_01"/>
         			<citedRange unit="item">1971/118</citedRange>
         		</bibl>
         		

@@ -113,27 +113,27 @@
          		<app loc="1">
          			<lem>°parumaṟku</lem>         			
          			<rdg source="bib:Swaminathan1957-1958_01">°parumaṟku <supplied reason="omitted">yāṇṭu</supplied></rdg>
-         			<rdg source="bib:Nākacāmi1972_01">°parumaṟku</rdg>
+         			<rdg source="bib:Nakacami1972_01">°parumaṟku</rdg>
          		</app> 
          		
          		<app loc="1">
          			<lem>Iraṇṭā<lb n="2" break="no"/>vatu</lem>         			
          			<rdg source="bib:Swaminathan1957-1958_01">Ir<choice><sic>u</sic><corr>a</corr></choice>ṇṭā
 		<lb n="2" break="no"/>vatu</rdg>
-         			<rdg source="bib:Nākacāmi1972_01">Iraṇṭā<lb n="2" break="no"/>vatu</rdg>
+         			<rdg source="bib:Nakacami1972_01">Iraṇṭā<lb n="2" break="no"/>vatu</rdg>
          		</app>
          		
          		<app loc="2">
          			<lem>vāṇakō<unclear>ṉ</unclear></lem>         			
          			<rdg source="bib:Swaminathan1957-1958_01">vāṇakōṉ</rdg>
-         			<rdg source="bib:Nākacāmi1972_01">vāṇakōO</rdg>
+         			<rdg source="bib:Nakacami1972_01">vāṇakōO</rdg>
          		</app>
          		
          		<app loc="3">
          			<lem>pa<choice><unclear>ṉ</unclear><unclear>ṟ</unclear></choice>aiyamā<lb n="4" break="no"/><choice><unclear>r</unclear><unclear>ḷ</unclear></choice>iyār</lem>
          			<rdg source="bib:Swaminathan1957-1958_01">paṟaiyamā
 		<lb n="4" break="no"/>ḷiyār</rdg>
-         			<rdg source="bib:Nākacāmi1972_01">paṉaiyamā
+         			<rdg source="bib:Nakacami1972_01">paṉaiyamā
 		<lb n="4" break="no"/>riyār</rdg>
          		</app>
          	</listApp>
@@ -162,7 +162,7 @@
          	</p> 
          	
          	<p n="1-2">
-         		Naraciṅkaparumaṉ (Sanskrit Narasiṃhavarman) has been identified as the Pallava king Narasiṃhavarman II by <bibl><ptr target="bib:Nākacāmi1972_01"/></bibl>.         		
+         		Naraciṅkaparumaṉ (Sanskrit Narasiṃhavarman) has been identified as the Pallava king Narasiṃhavarman II by <bibl><ptr target="bib:Nakacami1972_01"/></bibl>.         		
          	</p>         
          	
          </div>
@@ -170,7 +170,7 @@
          <div type="bibliography">
 
             <p>
-            	First edited by <bibl><ptr target="bib:Swaminathan1957-1958_01"/></bibl> (EI 32, n° 12), with a facsimile; re-edited by <bibl><ptr target="bib:Nākacāmi1972_01"/></bibl> (CN 1971/54); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 299); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous editions.           	
+            	First edited by <bibl><ptr target="bib:Swaminathan1957-1958_01"/></bibl> (EI 32, n° 12), with a facsimile; re-edited by <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/54); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 299); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous editions.           	
             </p>
          	
          	<listBibl type="primary">
@@ -180,7 +180,7 @@
          		</bibl>
          		
          		<bibl n="RN">
-         			<ptr target="bib:Nākacāmi1972_01"/>
+         			<ptr target="bib:Nakacami1972_01"/>
          			<citedRange unit="item">1971/54</citedRange>
          		</bibl>
          		

@@ -94,8 +94,8 @@
       			<lb n="1"/><hi rend="grantha">śrī</hi>
       		</ab>
       		<p>	
-      			nan=ti-<supplied reason="omitted">p</supplied>-pōttarai ca
-      			<lb n="2" break="no"/><unclear>racaru</unclear> yāṇṭu Āṟ-āva
+      			nan=ti-<supplied reason="omitted">p</supplied>-pōttaraica
+      			<lb n="2" break="no"/><unclear>r</unclear><surplus><unclear>acaru</unclear></surplus> yāṇṭu Āṟ-āva
       			<lb n="3" break="no"/>tu
       		</p>
       		<p>
@@ -113,17 +113,11 @@
          	<listApp>
          		
          		<app loc="1">
-         			<lem>nan=ti-<supplied reason="omitted">p</supplied>-pōttarai</lem>
-         			<rdg source="bib:Vīrarākavaṉ1999_02">natipōttarai</rdg>
-         		</app>    
-         		
-         		<app loc="1">
-         			<lem>ca
-      			<lb n="2" break="no"/><unclear>racaru</unclear></lem>
-         			<rdg source="bib:Vīrarākavaṉ1999_02">ca
+         			<lem>nan=ti-<supplied reason="omitted">p</supplied>-pōttaraica
+      			<lb n="2" break="no"/><unclear>r</unclear><surplus><unclear>acaru</unclear></surplus></lem>
+         			<rdg source="bib:Virarakavan1999_02">natipōttarai ca
       			<lb n="2" break="no"/><unclear>racaru</unclear></rdg>
-         			<note><foreign>A<lb n="2" break="no"/>raicaru</foreign> seems a possible alternative reading.</note>
-         		</app>            		
+         		</app>    
          		
          	</listApp>
 
@@ -151,17 +145,17 @@
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Vīrarākavaṉ1999_02"/></bibl> (Āvaṇam 10, no. 8), with a picture; text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded here and translated for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous edition(s).
+First edited in <bibl><ptr target="bib:Virarakavan1999_02"/></bibl> (Āvaṇam 10, no. 8), with a picture; text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded and translated herefor DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on previous edition(s).
             </p>
 
          	<listBibl type="primary">
          		         		
-         		<bibl n="CV">
-            		<ptr target="bib:Vīrarākavaṉ1999_02"/>
+         		<bibl n="V">
+            		<ptr target="bib:Virarakavan1999_02"/>
             		<citedRange unit="item">8</citedRange>
             	</bibl>
          		
-         		<bibl n="DD">
+         		<bibl n="D">
          			<ptr target="bib:Dayalan2005_01"/>
          			<citedRange unit="volume">3</citedRange>
          			<citedRange unit="appendix">I</citedRange>

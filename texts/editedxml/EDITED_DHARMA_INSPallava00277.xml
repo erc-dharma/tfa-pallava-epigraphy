@@ -115,11 +115,11 @@
          	<listApp>
          		<app loc="2">
          			<lem><unclear>ṟaṇṇu</unclear>-Āvatu</lem>
-         			<note>Reading difficult to make sense of. This is a year in the twenty according to <ptr target="bib:Nākacāmi1972_01"/>. This is the first year according to <ptr target="bib:Deshpande1975_01"/>.</note>
+         			<note>Reading difficult to make sense of. This is a year in the twenty according to <ptr target="bib:Nakacami1972_01"/>. This is the first year according to <ptr target="bib:Deshpande1975_01"/>.</note>
          		</app>
          		<app loc="8">
          			<lem>rārāṟṟū</lem>
-         			<rdg source="bib:Nākacāmi1972_01">rārāṟṟū</rdg>
+         			<rdg source="bib:Nakacami1972_01">rārāṟṟū</rdg>
          			<rdg source="bib:Mahalingam1988_01">rārāṟṟu</rdg>
          			<note>Reading difficult to make sense of. The reading <foreign>rārāṟṟu</foreign> by <ptr target="bib:Mahalingam1988_01"/> is apparently a typographical error as he gives Rārāṟṟūr in his summary.</note>
          		</app>
@@ -150,13 +150,13 @@
          <div type="bibliography">
 
             <p>
-            	First edited by <bibl><ptr target="bib:Nākacāmi1972_01"/></bibl> (CN 1971/33); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 277); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous edition.           	
+            	First edited by <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/33); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 277); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous edition.           	
             </p>
          	
             	<listBibl type="primary">
         		
         		<bibl n="RN">
-        			<ptr target="bib:Nākacāmi1972_01"/>
+        			<ptr target="bib:Nakacami1972_01"/>
         			<citedRange unit="item">1971/33</citedRange>
         		</bibl>
         		
