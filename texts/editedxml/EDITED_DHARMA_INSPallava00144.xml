@@ -8,8 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Guḍimallam, Parameśurāmeśvara temple, stele, year 23 of Nandivarman
-					III</title>
+            <title>Guḍimallam, Parameśurāmeśvara temple, stele, Nandivarman III, year 23</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -48,13 +47,13 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Donation, after purchase, of a land for supplying ghee for the upkeep of perpetual lamps.</summary>
                </msContents>
-               <physDesc>
+               <!--<physDesc>
                   <handDesc>
                      <p/>
                   </handDesc>
-               </physDesc>
+               </physDesc>-->
             </msDesc>
          </sourceDesc>
       </fileDesc>
@@ -83,11 +82,9 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding
-				template v03</change>
+         <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:axja" when="2020-01-08">Update the template</change>
-         <change who="part:emfr" when="2019-11-15">Creation of the file on the
-				repository</change>
+         <change who="part:emfr" when="2019-11-15">Creation of the file on the repository</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
@@ -202,31 +199,47 @@
 
                     <app loc="26">
                         <lem>paṇittōm·</lem>
-                        <note><bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: “The <hi rend="italic">puḷḷi</hi> which is conspicuous by its absence in the whole inscription is marked on the last letter <hi rend="italic">m</hi>.”--&gt;</note>
+                        <note><bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: “The <hi rend="italic">puḷḷi</hi> which is conspicuous by its absence in the whole inscription is marked on the last letter <hi rend="italic">m</hi>.”</note>
                     </app>
 
                 </listApp>
 
             </div>
 
-            <div type="translation" resp="part:emfr"><!--Add earlier translations-->
+            <div type="translation" resp="part:emfr">
+                
+                 <p n="1">
+  	      Prosperity! Fortune!
+  	   </p>
+  	   
+  	   <p n="1-5">
+  	      Twenty-third year of Nantippōttaraiyar.
+  	   </p>
+  	   
+  	   <p n="5-24">
+  	      ...
+  	   </p>
+  	    
+  	   <p n="25-26">
+  	      ...
+  	   </p>
             </div>
 
   	<div type="commentary">
   		
   		
   		<p n="18">
-  			<foreign>vilai-<hi rend="grantha">śrā</hi>vaṇai</foreign>. <bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: “The term <hi rend="italic">vilai-śravaṇai</hi> occurs twice in a similar context in <hi rend="italic">South-Ind. Inscrs.</hi> Vol. III. p. 105, text-line 5.”
+  			<foreign>vilai-<hi rend="grantha">śrā</hi>vaṇai</foreign>. <bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: <quote>The term <hi rend="italic">vilai-śravaṇai</hi> occurs twice in a similar context in <hi rend="italic">South-Ind. Inscrs.</hi> Vol. III. p. 105, text-line 5.</quote>
   		</p>
   		
   		<p n="22">
   			<foreign>tiruviḷakku-ney-p-puṟam</foreign>.
-  			<bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: “With <hi rend="italic">tiruviḷakku-ney-ppuṟam</hi> compare <hi rend="italic">ambala-ppuṟam</hi> (above<hi rend="italic">=South-Ind. Inscrs.</hi>, Vol. III. p. 285, text-line 7), <hi rend="italic">nandavāṉa-puram<!--check original spelling--></hi> (<hi rend="italic">South-Ind. Inscrs.</hi> Vol. III. p. 5, text-line 5), <hi rend="italic">pudukku-ppuṟam<!--check original spelling--></hi> (ibid. p. 7, text-line 8) and <hi rend="italic">uṇṇāḻigai-ppuṟam<!--check original spelling--></hi> (ibid. p. 19, text-line 6).”
+  			<bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: <quote>With <hi rend="italic">tiruviḷakku-ney-ppuṟam</hi> compare <hi rend="italic">ambala-ppuṟam</hi> (above<hi rend="italic">=South-Ind. Inscrs.</hi>, Vol. III. p. 285, text-line 7), <hi rend="italic">nandavāṉa-puram<!--check original spelling--></hi> (<hi rend="italic">South-Ind. Inscrs.</hi> Vol. III. p. 5, text-line 5), <hi rend="italic">pudukku-ppuṟam<!--check original spelling--></hi> (ibid. p. 7, text-line 8) and <hi rend="italic">uṇṇāḻigai-ppuṟam<!--check original spelling--></hi> (ibid. p. 19, text-line 6).</quote>
   		</p>
   		
   		<p n="25">
   			<foreign>cekk-uḷḷaṉa</foreign>.
-  			<bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: “It is also possible that the reading is <hi rend="italic">cēkk-uḷḷana</hi> (instead of <hi rend="italic">cekk-uḷḷaṉa</hi>), in which case the translation would be “all (the crops) for which the fields of this village are (fit) shall be raised on this field, and the oil required for the sacred lamps shall be purchased (out of the produce).”
+  			<bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: <quote>It is also possible that the reading is <hi rend="italic">cēkk-uḷḷana</hi> (instead of <hi rend="italic">cekk-uḷḷaṉa</hi>), in which case the translation would be “all (the crops) for which the fields of this village are (fit) shall be raised on this field, and the oil required for the sacred lamps shall be purchased (out of the produce).</quote>
   		</p>
   		
   	</div>
@@ -234,17 +247,17 @@
   	<div type="bibliography">
   		
 <p>
-First edited in <bibl><ptr target="bib:GopinathaRao1911_01"/></bibl> with English translation; re-edited in <bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> (EI 11, no. 22A) with facsimile and English translation; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no.144); re-edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on photographs (2019).
+First edited and translated into English in <bibl><ptr target="bib:GopinathaRao1911_01"/></bibl>; re-edited and translated into English in <bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> (EI 11, no. 22A), with facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 144); re-edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on photographs (2019), kindly provided by Valérie Gillet.
 </p>
 
   		
   		<listBibl type="primary">
-  			<bibl n="TVGR">
+  			<bibl n="GR">
   				<ptr target="bib:GopinathaRao1911_01"/>
   				<citedRange unit="item">D</citedRange>
   				<citedRange unit="page">111-113</citedRange>
   			</bibl>
-  			<bibl n="VV">
+  			<bibl n="V">
   				<ptr target="bib:Venkayya1911-1912_01"/>
   				<citedRange unit="item">A</citedRange>
   				<citedRange unit="page">224-225</citedRange>
