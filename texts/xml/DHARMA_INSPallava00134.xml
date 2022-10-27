@@ -5,81 +5,79 @@
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Tiruvaṇṇāmalai, donation of the time of Nandivikramavarman, year 17</title>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
-                  <surname>Francis</surname>
-               </persName>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <authority>DHARMA</authority>
-            <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSPallava00134</idno>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
-                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tiruvaṇṇāmalai, donation of the time of Nandivikramavarman, year 17</title>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">DHARMA_INSPallava00134</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
 							Licence. To view a copy of the licence, visit
 							https://creativecommons.org/licenses/by/4.0/ or send a letter to
 							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 							California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-               </licence>
-            </availability>
-            <date from="2019" to="2025">2019-2025</date>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc>
-               <msIdentifier>
-                  <repository>DHARMAbase</repository>
-                  <idno/>
-               </msIdentifier>
-               <msContents>
-                  <summary>Donation of gold for the upkeep of a perpetual lamp.</summary>
-               </msContents>
-               <!--<physDesc>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Donation of gold for the upkeep of a perpetual lamp.</summary>
+					</msContents>
+					<!--<physDesc>
                   <handDesc>
                      <p></p>
                   </handDesc>
                </physDesc>-->
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>The project DHARMA has received funding from the European Research Council (ERC)
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC)
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
-         </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-         <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
-            </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-               <p>Internal URIs using the part prefix to point to person elements in the
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-            </prefixDef>
-         </listPrefixDef>
-      </encodingDesc>
-      <revisionDesc>
-                  <change who="part:emfr" when="2022-10-25">Creation of the file on the
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2022-10-25"
+				>Creation of the file on the
 				repository</change>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:space="preserve">
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
     <body>
         
        <div type="edition" xml:lang="tam-Latn">
@@ -89,7 +87,7 @@
           </ab> 
           
           <p>
-             kō-vi<hi rend="grantha">je</hi>ya-nantivikki<choice><orig>ṟ</orig><reg>r</reg></choice>ama-<surplus>tē</surplus>var<supplied reason="omitted">mar</supplied>kku yāṇṭu <num value="17"><g type="numeral">10</g> 7</num>–vatu             
+             kō-vi<hi rend="grantha">je</hi>ya-nantivikki<choice><orig>ṟ</orig><reg>r</reg></choice>ama-<surplus>tē</surplus>var<supplied reason="omitted">mar</supplied>kku yāṇṭu <num value="17"><g type="numeral">10</g> 7</num><g type="hyphen"/>vatu             
           </p>
           
           <p>
@@ -124,11 +122,12 @@
                 <rdg source="bib:Mahalingam1988_01">v<choice><sic>ī</sic><corr>ā</corr></choice>ṇakōva<choice><sic>ṇ</sic><corr>r</corr></choice>aiy<choice><sic>ā</sic><corr>a</corr></choice>r</rdg>
              </app>
                   
-             <!--<app loc="1">
-                <lem></lem>
-                <rdg source="bib:Subramaniam1953_01"></rdg>
-                <rdg source="bib:Mahalingam1988_01"></rdg>
-             </app>-->
+             <app loc="1">
+                <lem>uṇṭi yēṟapatāya meṭiyapeyāĀṉ</lem>
+                <rdg source="bib:Subramaniam1953_01">uṇṭi yeṟapatāya meṭiyapeyāĀṉ</rdg>
+                <rdg source="bib:Mahalingam1988_01">uṇṭi yēṟapatāya meṭiyapeyāĀṉ</rdg>
+             	<note><ptr target="bib:Subramaniam1953_01"/> suggest to emend to <foreign>Uraiyoppatu <num value="15"><g type="numeral">10</g> 5</num>l. Ippoṉ</foreign>, where <foreign>l.</foreign> appears to stand for the symbol of <foreign>kaḻañcu</foreign>, <ptr target="bib:Mahalingam1988_01"/> to <foreign>Urai-y oppatu <num value="15"><g type="numeral">10</g> 5</num> kaḻañcu l. Ippoṉ</foreign>.</note>
+             </app>
                   
              <app loc="1">
                 <lem>kaḻ<choice><sic>i</sic><corr>a</corr></choice>ñcu</lem>
@@ -189,7 +188,7 @@
             
     	<div type="commentary">
     	   
-    	   <p>This inscription has been copied for Colin Mackenzie at the beginning of the 18th century and has been since lost. The only available documentation, its transcription without indication of line beginnings, is found in the Mackenzie manuscripts (GOML, D. 2869-3). The reading in this source might be flawed. The editorial conventions in <bibl><ptr target="bib:Subramaniam1953_01"/></bibl> are unclear. This inscription could not be traced (<bibl><ptr target="bib:Srinivasan+Reiniche1990_01"/><citedRange unit="page">6</citedRange></bibl>).</p>
+    	   <p>This inscription has been copied for Colin Mackenzie at the beginning of the 18th century and has since been lost. This inscription could not be traced at the time of the complete epigraphical survey of the temple (<bibl><ptr target="bib:Srinivasan+Reiniche1990_01"/><citedRange unit="page">6</citedRange></bibl>). The only available documentation, its transcription without indication of line beginnings, is found in the Mackenzie manuscripts collection (GOML, D. 2869-3). The reading in this source might be flawed. The editorial conventions in <bibl><ptr target="bib:Subramaniam1953_01"/></bibl> are unclear. </p>
     		
     	</div>
             
