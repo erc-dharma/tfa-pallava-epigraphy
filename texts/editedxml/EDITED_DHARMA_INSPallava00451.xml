@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Cāṇaṅkuppam hero-stone no. 2</title>
+            <title>Cāṇaṅkuppam hero-stone no. 2, time of Kampavikramavarman, year 30</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,13 +47,13 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Hero-stone commemorating the death of Cākūḻaṉ Vēḷāḷaṉ and donation of land in honour of him.</summary>
+                  <summary>Hero-stone commemorating the death of Cākūḻaṉ Vēḷāḷaṉ and recording a donation of land in honour of him.</summary>
                </msContents>
-               <!--<physDesc>
-						<handDesc>
-							<p></p>
-						</handDesc>
-					</physDesc>-->
+               <physDesc>
+                  <handDesc>
+                     <p>Medial <foreign>u</foreign> and <foreign>ū</foreign> not distinguished and interchangeable. The letter <foreign>ṭu</foreign> has a peculiar form.</p>
+                  </handDesc>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
@@ -102,9 +102,9 @@
       		
       		<p>
       			paṭuvūr-k- kō
-      			<lb n="3" break="no"/>ṭṭattu mēl-aṭaiy<choice><orig>a</orig><reg>ā</reg></choice>ṟu-nāṭu p<unclear>u</unclear>kkaṭaikaḷāṭa pā<unclear>l</unclear>i
-      			<lb n="4" break="no"/><choice><unclear>ṉ</unclear><unclear>ṉa</unclear></choice><gap reason="lost" quantity="1" unit="character"/><choice><unclear>m</unclear><unclear>ma</unclear></choice> n<unclear>ā</unclear>yakaṉ cākūḻaṉ vēḷā<choice><orig>l</orig><reg>ḷ</reg></choice>aṉ <unclear>vi</unclear>ṇṭā
-      			<lb n="5" break="no"/><unclear>pā</unclear>ṭikkaḷḷar Iv-v<choice><orig>u</orig><reg>ū</reg></choice>r <unclear>toṟu</unclear>k koḷḷap paṭṭ<unclear>ā</unclear>ṉ
+      			<lb n="3" break="no"/>ṭṭattu mēl-aṭaiy<choice><orig>a</orig><reg>ā</reg></choice>ṟu-nāṭṭu-k kaṭaikaḷāṭṭ<choice><orig>u</orig><reg>ū</reg></choice>r <unclear>p</unclear>i
+      			<lb n="4" break="no"/><choice><unclear>ṉ</unclear><unclear>ṉa</unclear></choice><gap reason="lost" quantity="1" unit="character"/><choice><unclear>m</unclear><unclear>ma</unclear></choice> n<unclear>ā</unclear>yakaṉ cākūḻaṉ vēḷā<choice><orig>l</orig><reg>ḷ</reg></choice>aṉ vāṇar-pā
+      			<lb n="5" break="no"/>ṭikkaḷḷar Iv-v<choice><orig>u</orig><reg>ū</reg></choice>r <unclear>toṟu</unclear>k koḷḷap paṭṭ<unclear>ā</unclear>ṉ
       		</p>
       		<p>
       			<lb n="6"/>Ivaṉukku Ū<unclear>ru</unclear>ṅ koḷ nāṉṟu Aracañ ce	
@@ -129,16 +129,26 @@
       			<app loc="2">
       				<lem>muppa<unclear>ttā</unclear>vatu</lem>
       				<rdg source="bib:Tayalan1995_01 bib:Dayalan2005_01">muppatāvatu</rdg>
+      				<note>The regnal year of Kampavikramavarman is 36th according to <bibl><ptr target="bib:ARIE1992-1993"/></bibl>.</note>
       			</app>  
       			      			
       			<app loc="3">
-      				<lem>mēl-aṭaiy<choice><orig>a</orig><reg>ā</reg></choice>ṟu</lem>
-      				<rdg source="bib:Tayalan1995_01 bib:Dayalan2005_01">mēl-aṭaiyaṟu</rdg>
-      			</app>        			
+      				<lem>mēlaṭaiy<choice><orig>a</orig><reg>ā</reg></choice>ṟunāṭṭuk</lem>
+      				<rdg source="bib:Tayalan1995_01 bib:Dayalan2005_01">mēlaṭaiyaṟunāṭu puk°</rdg>      				
+      				<note>We follow here the summary in <ptr target="bib:ARIE1992-1993"/>.</note>
+      			</app>     
       			
-      			<app loc="4">
-      				<lem><choice><unclear>ṉ</unclear><unclear>ṉa</unclear></choice><gap reason="lost" quantity="1" unit="character"/><choice><unclear>m</unclear><unclear>ma</unclear></choice></lem>
-      				<rdg source="bib:Tayalan1995_01 bib:Dayalan2005_01">ṉa<gap reason="lost" quantity="1" unit="character"/>ma</rdg>
+      			<app loc="3">
+      				<lem>kaṭaikaḷāṭṭ<choice><orig>u</orig><reg>ū</reg></choice>r</lem>
+      				<rdg source="bib:Tayalan1995_01 bib:Dayalan2005_01">kaṭaikaḷāṭa pā°</rdg>      				
+      				<note>We follow here the summary in <ptr target="bib:ARIE1992-1993"/>.</note>
+      			</app>     
+      					
+      			<app loc="3">
+      				<lem><unclear>p</unclear>i
+      			<lb n="4" break="no"/><choice><unclear>ṉ</unclear><unclear>ṉa</unclear></choice><gap reason="lost" quantity="1" unit="character"/><choice><unclear>m</unclear><unclear>ma</unclear></choice></lem>
+      				<rdg source="bib:Tayalan1995_01 bib:Dayalan2005_01">li ṉa <gap reason="lost" quantity="1" unit="character"/> ma</rdg>
+      				<note><ptr target="bib:ARIE1992-1993"/> reads <foreign>teṉṉama</foreign>.</note>
       			</app>  
       			
       			<app loc="4">
@@ -147,10 +157,11 @@
       			</app> 
       			
       			<app loc="4">
-      				<lem><unclear>vi</unclear>ṇṭā
-      			<lb n="5" break="no"/><unclear>pā</unclear>ṭikkaḷḷar</lem>
+      				<lem>vāṇarpā
+      			<lb n="5" break="no"/>ṭikkaḷḷar</lem>
       				<rdg source="bib:Tayalan1995_01">viṇṭa pā<lb n="5" break="no"/>ṭik kaḷḷar</rdg>
       				<rdg source="bib:Dayalan2005_01">viṇṭa <lb n="5" break="no"/>pāṭik kaḷḷar</rdg>
+      				<note>We follow here the summary in <ptr target="bib:ARIE1992-1993"/>.</note>
       			</app>  
       			
       			<app loc="6">
@@ -177,18 +188,19 @@
       			Tirthieth year of the victorious king Kampavikramavarman.       		</p>
       		
       		<p n="2-5">
-      			Cākūḻaṉ Vēḷāḷaṉ, chief of … in the Mēlaṭaiyāṟunāṭu of the Paṭuvūrkkōṭṭam, died, when Viṇṭāpāṭikkaḷḷar seized cattle <supplied reason="subaudible">from</supplied> this village.
+      			Cākūḻaṉ Vēḷāḷaṉ, <gap reason="ellipsis"/> chief <supplied reason="explanation"><foreign>nāyakaṉ</foreign></supplied> <supplied reason="subaudible">of</supplied> Kaṭaikaḷāṭṭūr in the Mēlaṭaiyāṟunāṭu in the Paṭuvūrkkōṭṭam, died, when thieves <supplied reason="explanation"><foreign>kaḷḷar</foreign></supplied> from Vāṇarpāṭi <supplied reason="explanation"><foreign>vāṇarpāṭi<note>That is, the territory of the Bāṇas.</note></foreign></supplied> seized cattle <supplied reason="subaudible">from</supplied> this village.
       		</p>
       		
       		<p n="6-7">
-      			To him<note>That is, “in honour of him”.</note>, the land <supplied reason="explanation"><foreign>paṭṭi</foreign></supplied> … that which the king has given, at the time of taking the village.
+      			To him<note>That is, “in honour of him”.</note>, <supplied reason="subaudible">there is</supplied> a field <supplied reason="explanation"><foreign>ceṟu</foreign></supplied> that which the king has given, at the time of taking the village, as <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>nettal paṭṭi</foreign></supplied>.
       		</p>
       		
       	</div>
       	
          <div type="commentary">
          	
-         	         	
+         	<p>The findspot is Mēlcāṇaṅkuppam in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+         	         	         	
          </div>
 
          <div type="bibliography">
@@ -216,7 +228,7 @@ First edited in <bibl><ptr target="bib:Tayalan1995_01"/></bibl> (Āvaṇam no. 3
          	
          	<listBibl type="secondary">
          		
-         		<bibl>
+         		<bibl n="ARIE">
             			<ptr target="bib:ARIE1992-1993"/>
             			<citedRange unit="page">53</citedRange>
             			<citedRange unit="appendix">B/1992-93</citedRange>

@@ -113,14 +113,14 @@
                    <lb n="9" break="no"/>ra-pra</hi>ti<hi rend="grantha">hārīkṛta
                    <lb n="10" break="no"/>śrī-mahābali
                    <lb n="11" break="no"/>kulō<choice><orig>t</orig><reg>d</reg></choice>bhava			
-                   <lb n="12" break="no"/>śrī</hi>-vāṇavi
+                   <lb n="12" break="no"/>śrī</hi>-vāṇa-vi
                    <lb n="13" break="no"/><hi rend="grantha"><choice><sic>j</sic><corr>d</corr></choice>yādhara-mah<supplied reason="lost">ā</supplied>
                    <lb n="14" break="no"/>bali</hi>-vāṇa
                    <lb n="15" break="no"/><hi rend="grantha">rā</hi>yar vaṭuka
                    
                    <milestone unit="face" n="B" break="no"/>
                    
-                   <lb n="16" break="no"/>vaḻiyiṉ mēṟku <hi rend="grantha">pr<supplied reason="lost">i</supplied>thi</hi>vi-<hi rend="grantha">rājya</hi>ñ ceyya-t tiruvēṅkaṭa-k  	        
+                   <lb n="16" break="no"/>vaḻiyiṉ mēṟku <hi rend="grantha"><choice><orig>pr<supplied reason="lost">i</supplied></orig><reg>pṛ</reg></choice>thi</hi>vi-<hi rend="grantha">rājya</hi>ñ ceyya-t tiruvēṅkaṭa-k  	        
                    <lb n="17" break="no"/>-kōṭṭattu-<unclear>c</unclear> cilai-nāṭṭu-t tiru-viṟppirampēṭṭu <hi rend="grantha">sabhai</hi>
                    
                    <milestone unit="face" n="C" break="no"/>
@@ -129,15 +129,15 @@
                    <lb n="19"/><gap reason="lost" quantity="3" unit="character"/><unclear>m</unclear> viṇ
                    <lb n="20" break="no"/><gap reason="lost" quantity="3" unit="character"/>tavaṉār
                    <lb n="21" break="no"/><gap reason="lost" quantity="3" unit="character"/>nariyuḻā
-                   <lb n="22" break="no"/><gap reason="lost" quantity="3" unit="character"/>ṉātēya
-                   <lb n="23" break="no"/><gap reason="lost" quantity="3" unit="character"/>poṉ ko
+                   <lb n="22" break="no"/><gap reason="lost" quantity="3" unit="character"/><unclear>ṉā</unclear>tēya
+                   <lb n="23" break="no"/><gap reason="lost" quantity="3" unit="character"/>poṉ <unclear>ko</unclear>
                    <lb n="24" break="no"/><gap reason="lost" quantity="3" unit="character"/>ti Oru vi
                    <lb n="25" break="no"/><gap reason="lost" quantity="3" unit="character"/>ira<unclear>ṇ</unclear>
                    <lb n="26" break="no"/><gap reason="lost" quantity="3" unit="character"/>yummo
                    <lb n="27" break="no"/><gap reason="lost" quantity="3" unit="character"/><unclear>ṉ</unclear>ayyu<unclear>m</unclear>
                    <lb n="28" break="no"/><gap reason="lost" quantity="3" unit="character"/>m ōrum <unclear>o</unclear>
-                   <lb n="29" break="no"/><gap reason="lost" quantity="3" unit="character"/>yum peyu
-                   <lb n="30" break="no"/><gap reason="lost" quantity="3" unit="character"/><unclear>ṅ</unclear>ka
+                   <lb n="29" break="no"/><gap reason="lost" quantity="3" unit="character"/>yum <unclear>pe</unclear>yu
+                   <lb n="30" break="no"/><gap reason="lost" quantity="1" unit="character"/><unclear>ṅ</unclear>ka
                </p>
                
                <p>
@@ -181,7 +181,6 @@
                     <app loc="1">
                        <lem><hi rend="grantha">sva<unclear>s</unclear><supplied reason="lost">t</supplied><unclear>i</unclear> <supplied reason="lost">śrī</supplied></hi></lem>
                        <rdg source="bib:Venkayya1911-1912_01"><hi rend="grantha">sva<unclear>st</unclear>i <supplied reason="lost">śrī</supplied></hi></rdg>
-                       <note/>
                     </app>                    
                     
                     <app loc="2">
@@ -189,15 +188,117 @@
                    <lb n="3" break="no"/>kaṟku</lem>
                        <rdg source="bib:Venkayya1911-1912_01"><hi rend="grantha">nṛ<unclear>pa</unclear></hi><supplied reason="lost">tuṅ</supplied>  	        
                    <lb n="3" break="no"/>kaṟ<unclear>ku</unclear></rdg>
-                       <note/>
                     </app>          
                                         
-                    <!--<app loc="0">
-                       <lem></lem>
-                       <rdg source="bib:Venkayya1911-1912_01"></rdg>
-                       <note></note>
-                    </app>       -->   
+                    <app loc="5">
+                       <lem>°<unclear>s</unclear><supplied reason="lost">akala</supplied>°</lem>
+                       <rdg source="bib:Venkayya1911-1912_01">°<unclear>sa</unclear>°<supplied reason="lost">kala</supplied></rdg>
+                    </app>                                     
+                                        
+                    <app loc="6">
+                       <lem>°<hi rend="grantha">tra<supplied reason="lost">yābhi</supplied></hi>
+                   <lb n="7" break="no"/>va<hi rend="grantha">ndita</hi>°</lem>
+                       <rdg source="bib:Venkayya1911-1912_01">°<hi rend="grantha">tr<unclear>a</unclear><supplied reason="lost">yābhi</supplied></hi>
+                   <lb n="7" break="no"/>va<hi rend="grantha">ndita</hi>°</rdg>
+                    </app>  
+                                        
+                    <app loc="8">
+                       <lem>°dh<choice><orig>i</orig><reg>ī</reg></choice>śa°</lem>
+                       <rdg source="bib:Venkayya1911-1912_01">°dhīśa°</rdg>
+                    </app>                                     
+                                        
+                    <app loc="12">
+                       <lem>°vi
+                   <lb n="13" break="no"/><hi rend="grantha"><choice><sic>j</sic><corr>d</corr></choice>yādhara</hi>°</lem>
+                       <rdg source="bib:Venkayya1911-1912_01">°vi
+                   <lb n="13" break="no"/><hi rend="grantha">jyādhara</hi>°</rdg>
+                       <note><ptr target="bib:Venkayya1911-1912_01"/>: <quote>The secondary <foreign>ā</foreign> is added to the <foreign>y</foreign> at the bottom.</quote></note>
+                    </app>          
+                                                                   
+                    <app loc="19">
+                       <lem><gap reason="lost" quantity="3" unit="character"/><unclear>m</unclear> viṇ</lem>
+                       <rdg source="bib:Venkayya1911-1912_01"><gap reason="lost" quantity="3" unit="character"/>m vi<unclear>ṇ</unclear></rdg>
+                    </app>       
+                                        
+                    <app loc="20">
+                       <lem><gap reason="lost" quantity="3" unit="character"/>tavaṉār</lem>
+                       <rdg source="bib:Venkayya1911-1912_01"><gap reason="lost" quantity="2" unit="character"/>t<unclear>a</unclear>va<unclear>ṉā</unclear>r</rdg>
+                    </app>          
+                                                                   
+                    <app loc="22">
+                       <lem><gap reason="lost" quantity="3" unit="character"/><unclear>ṉā</unclear>tēya</lem>
+                       <rdg source="bib:Venkayya1911-1912_01"><gap reason="lost" quantity="2" unit="character"/><unclear>ḷa</unclear> tēya</rdg>
+                    </app>        
+                                        
+                    <app loc="23">
+                       <lem><gap reason="lost" quantity="3" unit="character"/>poṉ <unclear>ko</unclear></lem>
+                       <rdg source="bib:Venkayya1911-1912_01"><gap reason="lost" quantity="2" unit="character"/>poṉ </rdg>
+                    </app>  
+                                        
+                    <app loc="26">
+                       <lem><gap reason="lost" quantity="3" unit="character"/>yummo</lem>
+                       <rdg source="bib:Venkayya1911-1912_01"><gap reason="lost" quantity="3" unit="character"/><unclear>yu</unclear>m<unclear>m</unclear>o</rdg>
+                    </app>  
+                                        
+                    <app loc="29">
+                       <lem><gap reason="lost" quantity="3" unit="character"/>yum <unclear>pe</unclear>yu</lem>
+                       <rdg source="bib:Venkayya1911-1912_01"><gap reason="lost" quantity="2" unit="character"/>yum <gap reason="lost" quantity="2" unit="character"/> yu</rdg>
+                    </app>                                     
+                                        
+                    <app loc="30">
+                       <lem><gap reason="lost" quantity="1" unit="character"/><unclear>ṅ</unclear>ka</lem>
+                       <rdg source="bib:Venkayya1911-1912_01"><gap reason="lost" quantity="2" unit="character"/>ka</rdg>
+                    </app>       
+                                        
+                    <app loc="31">
+                       <lem>mē
+                   <lb n="32" break="no"/>ṟpaṭu</lem>
+                       <rdg source="bib:Venkayya1911-1912_01">mē
+                   <lb n="32" break="no"/>ṟ<unclear>pa</unclear>ṭu</rdg>
+                    </app>          
+                                                                   
+                	<app loc="32">
+                		<lem>ēttuv<unclear>ō</unclear>
+                			<lb n="33" break="no"/>m</lem>
+                		<rdg source="bib:Venkayya1911-1912_01">ēttuv<unclear>ō</unclear>
+                			<lb n="33" break="no"/><unclear>m</unclear></rdg>
+                	</app>
+                	
+                	<app loc="33">
+                		<lem><hi rend="grantha">sabhai</hi>
+                			<lb n="34" break="no"/>yōm</lem>
+                		<rdg source="bib:Venkayya1911-1912_01"><hi rend="grantha">sabh<unclear>ai</unclear></hi>
+                			<lb n="34" break="no"/>yōm</rdg>
+                	</app>                   
+                	
+                	<app loc="34">
+                		<lem>Ippar<choice><orig>u</orig><reg>i</reg></choice>
+                			<lb n="35" break="no"/><unclear>cu</unclear></lem>
+                		<rdg source="bib:Venkayya1911-1912_01">Ippa<unclear>ru</unclear>
+                			<lb n="35" break="no"/><gap reason="undefined" quantity="1" unit="character"/></rdg>
+                	</app>      
                     
+                    <app loc="35">
+                		<lem>Āti<supplied reason="omitted">t</supplied>taṉu
+                   <lb n="36" break="no"/>ñ</lem>
+                		<rdg source="bib:Venkayya1911-1912_01">Ātit<unclear>t</unclear>aṉu
+                   <lb n="36" break="no"/>ñ</rdg>
+                	</app>  
+                    
+                    <app loc="37">
+                		<lem>uḷḷaḷavu
+                   <lb n="38" break="no"/>m</lem>
+                		<rdg source="bib:Venkayya1911-1912_01">uḷḷaḷa<unclear>vu</unclear>
+                   <lb n="38" break="no"/>m</rdg>
+                	</app>
+                	
+                    <app loc="39">
+                		<lem>Ippa
+                   <lb n="40" break="no"/>r<choice><orig>u</orig><reg>i</reg></choice>cu</lem>
+                		<rdg source="bib:Venkayya1911-1912_01">Ippa
+                   <lb n="40" break="no"/>ru<unclear>c</unclear>u</rdg>
+                	</app>
+                	
                     <app loc="43">
                        <lem>mēl</lem>
                        <rdg source="bib:Venkayya1911-1912_01">mēla</rdg>
@@ -246,7 +347,7 @@
   	<div type="bibliography">
   		
 <p>
-First partly edited and translated into English in <bibl><ptr target="bib:GopinathaRao1911_01"/></bibl> (lines 1-17 only); re-edited and partly translated into English in <bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> (EI 11, no. 22C), with facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 181); re-edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on published visual documentation and photographs (2019), kindly provided by Valérie Gillet.
+First partly edited and translated into English in <bibl><ptr target="bib:GopinathaRao1911_01"/></bibl> (lines 1-17 only); re-edited and partly translated into English in <bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> (EI 11, no. 22C), with facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 181); re-edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on published visual documentation and photographs (2019; partial coverage: lines 14-15, end of lines 16-17, end of lines 41-43 underground), kindly provided by Valérie Gillet.
 </p>
 
   		

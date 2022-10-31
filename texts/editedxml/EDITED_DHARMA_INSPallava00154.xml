@@ -49,11 +49,11 @@
                <msContents>
                   <summary>Foundation of a temple (<foreign>kōyil</foreign>) and donation of land as <foreign>arcanābhoga</foreign>.</summary>
                </msContents>
-               <!--<physDesc>
+               <physDesc>
                   <handDesc>
-                     <p></p>
+                     <p>Medial <foreign>i</foreign> and <foreign>ī</foreign> not distinguished and interchangeable.</p>
                   </handDesc>
-               </physDesc>-->
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
@@ -145,7 +145,7 @@
    <p>
       <lb n="17"/>ppuṟapivi <hi rend="grantha">Īśva</hi>rattu-p pa
       <lb n="18" break="no"/>ṭṭ-uṭaiyāṉ uruttiraṉ tē
-      <lb n="19" break="no"/>ya-pu<supplied reason="lost">k</supplied>ku-c ceyvi<supplied reason="omitted">t</supplied>tatu
+      <lb n="19" break="no"/>ya-pu<supplied reason="omitted">k</supplied>ku-c ceyvi<supplied reason="omitted">t</supplied>tatu
    </p>
    
    <p>
@@ -156,18 +156,172 @@
    
 </div>
       	
-         <!--<div type="apparatus">
+         <div type="apparatus">
 
          	<listApp>
          		
          		<app loc="1">
+         			<lem><hi rend="grantha"><unclear>svasti śrī</unclear></hi></lem>
+         			<rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02 bib:Balasubrahmanyan+VenkatarangaRaju1934_01"><hi rend="grantha">svasti śrī</hi></rdg>
+         			<rdg source="bib:VenkatasubbaAyyar1943_01"><hi rend="grantha"><unclear>svasti</unclear> śrī</hi></rdg>
+         		</app>
+         		
+         	   <app loc="2">
+         	      <lem>Iccirikōyilu
+      <lb n="3" break="no"/><unclear>k</unclear>ku</lem>
+         	      <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02">Iccirīkōyilu
+      <lb n="3" break="no"/><unclear>k</unclear>ku</rdg>
+         	   </app>
+         	   
+         	   <app loc="3">
+         	      <lem>palipp<choice><orig>i</orig><reg>ī</reg></choice><unclear>ṭamum</unclear></lem>
+         	      <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02 bib:Balasubrahmanyan+VenkatarangaRaju1934_01">palippīṭamum</rdg>
+         	      
+         	      <rdg source="bib:VenkatasubbaAyyar1943_01">palippiṭamum</rdg>
+         	   </app>
+         	   
+         	   <app loc="4">
+         	      <lem>ceyvittā<unclear>ḷ</unclear></lem>
+         	      <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02 bib:Balasubrahmanyan+VenkatarangaRaju1934_01">ceyvittāṉ</rdg>
+         	      <rdg source="bib:VenkatasubbaAyyar1943_01">ceyvittā<unclear>ḷ</unclear></rdg>
+         	   </app>
+         	   
+         	   <app loc="4">
+         	      <lem>cātta<unclear>m</unclear></lem>
+         	      <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02 bib:Balasubrahmanyan+VenkatarangaRaju1934_01">cāttam</rdg>
+         	      <rdg source="bib:VenkatasubbaAyyar1943_01">cātt<choice><sic>ā</sic><corr>a</corr></choice><unclear>m</unclear></rdg>
+         	   </app>
+         	   
+         	   <app loc="4">
+         	      <lem><supplied reason="lost">ma</supplied>kaḷ</lem>
+         	      <rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"><unclear>ma</unclear>kaṉ</rdg>
+         	      <rdg source="bib:Balasubrahmanyan+VenkatarangaRaju1934_01">makāṉ</rdg>
+         	      <rdg source="bib:VenkatasubbaAyyar1943_01"><unclear>ma</unclear>kaḷ</rdg>
+         	   </app>
+         	   
+         	   <app loc="4">
+         			<lem>pāl
+      <lb n="5" break="no"/>laṉ</lem>
+         			<rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02">vā
+      <lb n="5" break="no"/>laṉ</rdg>
+         			<rdg source="bib:Balasubrahmanyan+VenkatarangaRaju1934_01">mal
+      <lb n="5" break="no"/>laṉ</rdg>
+         			<rdg source="bib:VenkatasubbaAyyar1943_01">pāl
+      <lb n="5" break="no"/>laṉ</rdg>
+         		</app>
+         	   
+         	   <app loc="6">
+         			<lem>Iccirikō<choice><orig>I</orig><reg>y-i</reg></choice>lukku</lem>
+         			<rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02">IccirīkōIlukku</rdg>
+         			<rdg source="bib:Balasubrahmanyan+VenkatarangaRaju1934_01">Iccirīkōyilukku</rdg>
+         			<rdg source="bib:VenkatasubbaAyyar1943_01">IccirikōIlukku</rdg>
+         		</app>
+         	   
+         	   <app loc="8">
+         			<lem><unclear>viḷai </unclear>ko<unclear>ṇṭa</unclear></lem>
+         			<rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02">vilakova</rdg>
+         			<rdg source="bib:Balasubrahmanyan+VenkatarangaRaju1934_01">vilakōvā</rdg>
+         			<rdg source="bib:VenkatasubbaAyyar1943_01">vi<unclear>lai</unclear> ko<unclear>ṇṭa</unclear></rdg>
+         		</app>
+         	   
+         	   <app loc="8">
+         			<lem>kāṟ cē<unclear>y</unclear>yum</lem>
+         			<rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"><unclear>I</unclear>kicaṟ ceyyum</rdg>
+         			<rdg source="bib:Balasubrahmanyan+VenkatarangaRaju1934_01"><unclear>i</unclear> kicar ceyyum</rdg>
+         			<rdg source="bib:VenkatasubbaAyyar1943_01">kārceyyum</rdg>
+         		</app>
+         	   
+         	   <app loc="9">
+         			<lem>vaḻiyilāru<choice><sic>pe</sic><corr>m</corr></choice></lem>
+         			<rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02 bib:VenkatasubbaAyyar1943_01">vaḻiyilāru<supplied reason="omitted">m</supplied></rdg>
+         			<rdg source="bib:Balasubrahmanyan+VenkatarangaRaju1934_01">vaḷiyilārum</rdg>
+         		</app>
+         	   
+         	   <app loc="9">
+         			<lem>p<choice><sic>a</sic><corr>e</corr></choice><choice><unclear>ṟa</unclear><unclear>ra</unclear></choice></lem>
+         			<rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02 bib:VenkatasubbaAyyar1943_01">pe<unclear>ṟa</unclear>k</rdg>
+         			<rdg source="bib:Balasubrahmanyan+VenkatarangaRaju1934_01">peṟak</rdg>
+         		</app>
+         	   
+         	   <app loc="10">
+         			<lem>caṭai<supplied reason="omitted">ya</supplied>ṉum</lem>
+         			<rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02">cuṭaiṉum</rdg>
+         			<rdg source="bib:Balasubrahmanyan+VenkatarangaRaju1934_01">kataiṉum</rdg>
+         			<rdg source="bib:VenkatasubbaAyyar1943_01">caṭai<supplied reason="omitted">ya</supplied>ṉum</rdg>
+         	      <note><ptr target="bib:Balasubrahmanyan+VenkatarangaRaju1934_01"/> suggest it could be <foreign>ketataiṉum</foreign> as the first letter looks like <foreign>ke</foreign>.</note>
+         		</app>
+         	   
+         	   <app loc="13">
+         			<lem>paṭṭuṭaiya
+      <lb n="14" break="no"/>ṉ</lem>
+         			<rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02 bib:Balasubrahmanyan+VenkatarangaRaju1934_01">paṭṭuṭaiva
+      <lb n="14" break="no"/>ṉ</rdg>
+         			<rdg source="bib:VenkatasubbaAyyar1943_01">paṭṭuṭaiyā
+      <lb n="14" break="no"/>ṉ</rdg>
+         	      <note><ptr target="bib:VenkatasubbaAyyar1943_01"/> aligns with the spelling of the same word, lines 17-18.</note>
+         		</app>
+         	   
+         	   <app loc="14">
+         			<lem>U<choice><sic>ḻ</sic><corr>r</corr></choice>uttiraṉ</lem>
+         			<rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02">Ulutā tiraṉ</rdg>
+         			<rdg source="bib:Balasubrahmanyan+VenkatarangaRaju1934_01">Oḷutātiraṉ</rdg>
+         			<rdg source="bib:VenkatasubbaAyyar1943_01">Uḷuttiraṉ</rdg>
+         		</app>
+         	   
+         	   <app loc="17">
+         			<lem>ppuṟapivi</lem>
+         			<rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02">paḻaṟpili</rdg>
+         			<rdg source="bib:Balasubrahmanyan+VenkatarangaRaju1934_01">paḻiyi<supplied reason="omitted">li</supplied></rdg>
+         			<rdg source="bib:VenkatasubbaAyyar1943_01 bib:Mahalingam1988_01">paḻiyili</rdg>
+         	      <note><ptr target="bib:VenkatasubbaAyyar1943_01"/> notes: <quote>The <foreign>-ī</foreign> sign of <foreign>ḻi</foreign> is indicated on the side as in Vaṭṭeḻuttu script.</quote></note>
+         		</app>
+         	   
+         	   <app loc="17">
+         			<lem><hi rend="grantha">Īśva</hi>rattup</lem>
+         			<rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02 bib:Balasubrahmanyan+VenkatarangaRaju1934_01 bib:VenkatasubbaAyyar1943_01"><hi rend="grantha">Īśva</hi>rattup</rdg>
+         			<rdg source="bib:Balasubrahmanyan+VenkatarangaRaju1934_01"/>
+         		</app>
+         	   
+         	     <app loc="18">
+         			<lem>uruttiraṉ</lem>
+         			<rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02 bib:VenkatasubbaAyyar1943_01">uruttiraṉ</rdg>
+         			<rdg source="bib:Balasubrahmanyan+VenkatarangaRaju1934_01">urutiraṉ</rdg>
+         			<rdg source="bib:VenkatasubbaAyyar1943_01"/>
+         		</app>
+         	   
+         	   
+         	   <app loc="18">
+         			<lem>tē
+      <lb n="19" break="no"/>yapu<supplied reason="omitted">k</supplied>kuc</lem>
+         			<rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02">tē
+      <lb n="19" break="no"/>y pukuc</rdg>
+         			<rdg source="bib:Balasubrahmanyan+VenkatarangaRaju1934_01">tē
+      <lb n="19" break="no"/>yi pukuc</rdg>
+         			<rdg source="bib:VenkatasubbaAyyar1943_01">tē
+      <lb n="19" break="no"/>yapu<supplied reason="omitted">k</supplied>kuc</rdg>
+         			<rdg source="bib:Mahalingam1988_01"/>
+         		</app>
+         	   
+         	   <app loc="19">
+         			<lem>ceyvi<supplied reason="omitted">t</supplied>tatu</lem>
+         			<rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02">ceyvitta<gap reason="undefined" quantity="4" unit="character"/></rdg>
+         			<rdg source="bib:Balasubrahmanyan+VenkatarangaRaju1934_01">ceyvitta</rdg>
+         			<rdg source="bib:VenkatasubbaAyyar1943_01">ceyvi<supplied reason="omitted">t</supplied>tatu</rdg>
+         			<rdg source="bib:Mahalingam1988_01">ceyvi<unclear>t</unclear>tatu</rdg>
+         		</app>
+         	 
+         	   
+         		<!--<app loc="0">
          			<lem></lem>
          			<rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"></rdg>
-         		</app>
+         			<rdg source="bib:Balasubrahmanyan+VenkatarangaRaju1934_01"></rdg>
+         			<rdg source="bib:VenkatasubbaAyyar1943_01"></rdg>
+         			<rdg source="bib:Mahalingam1988_01"></rdg>
+         		</app>-->
          		
          	</listApp>
 
-         </div>-->
+         </div>
 
       	      	
       	<div type="translation" resp="part:emfr">
@@ -217,7 +371,7 @@
       	<div type="bibliography">
       		
       		<p>
-      			First edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS no. 19); first translated in <bibl><ptr target="bib:SrinivasaAiyar1941_01"/></bibl> (IPS no. 19); re-edited in <ptr target="bib:VenkatasubbaAyyar1943_01"/>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 154); re-edited and  translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on photographs.           	
+      			First edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS no. 19); first translated in <bibl><ptr target="bib:SrinivasaAiyar1941_01"/></bibl> (IPS no. 19); re-edited in <bibl><ptr target="bib:Balasubrahmanyan+VenkatarangaRaju1934_01"/></bibl> (without marking alveolar <foreign>ṉ</foreign>); re-edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>; text (mainly after <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>) and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 154); re-edited and  translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on photographs.           	
       		</p>
       		
       		<listBibl type="primary">
@@ -234,7 +388,12 @@
       				<citedRange unit="item">19</citedRange>
       			</bibl>
       		   
-      		   <bibl n="VVA">
+      		   <bibl n="B+V">
+      		      <ptr target="bib:Balasubrahmanyan+VenkatarangaRaju1934_01"/>
+      		      <citedRange unit="page">29-30</citedRange>
+      		   </bibl> 
+      		   
+      		   <bibl n="VA">
       		      <ptr target="bib:VenkatasubbaAyyar1943_01"/>
       		      <citedRange unit="page">26</citedRange>
       		      <citedRange unit="item">63</citedRange>
