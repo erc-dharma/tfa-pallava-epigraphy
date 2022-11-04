@@ -173,6 +173,8 @@ to a later period than Dantivarman, the king figuring in these two records was p
 				
 				<listBibl type="primary">
 					
+					<!--Add SII 39.150 = reedition-->
+					
 					<bibl n="VVA">
 						<ptr target="bib:VenkatasubbaAyyar1943_01"/>
 						<citedRange unit="page">53</citedRange>
@@ -184,8 +186,7 @@ to a later period than Dantivarman, the king figuring in these two records was p
 						<citedRange unit="page">644</citedRange>
 						<citedRange unit="item">264</citedRange>
 					</bibl>
-					
-					
+										
 				</listBibl>
 				
 				<listBibl type="secondary">
