@@ -153,33 +153,36 @@
 
       	<div type="apparatus">
       		
-      		<app loc="3">
-      			<lem>mātēvark·=ku</lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01">mātēvark=ku</rdg>
-      			<note>The conjuct <foreign>k=ku</foreign> appears to have a <foreign>puḷḷi</foreign> on the first <foreign>k</foreign>. See alsot the further occurrences of this conjuct <foreign>k=ku</foreign> in the inscription.</note>
-      		</app>
-      		
-      		<app loc="7">
-      			<lem>kuṟ<choice><unclear>ar</unclear><unclear>u</unclear></choice> <gap reason="lost" quantity="2" unit="character"/></lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01">kuṟar <unclear>co</unclear></rdg>
-      		</app>
-      		
-      		<app loc="8">
-      			<lem>°<unclear>mā</unclear><hi rend="grantha"><unclear>he</unclear></hi>ccu<supplied reason="lost">rar</supplied></lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01">°<unclear>mā</unclear><hi rend="grantha"><unclear>he</unclear></hi>curar</rdg>
-      		</app>
-      		
-      		<app loc="11">
-      			<lem>Ila
-      			<lb n="12" break="no"/>kkittāṉ</lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01">Ila
-      			<lb n="14" break="no"/>ccittāṉ</rdg>
-      		</app>
-      		
-      		<app loc="14">
-      			<lem>paṉ-m<choice><sic>a</sic><corr>ā</corr></choice><hi rend="grantha">he</hi>cc<unclear>u</unclear>rar</lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01">paṉm<supplied reason="omitted">ā<hi rend="grantha">he</hi></supplied><unclear>cci</unclear>rar</rdg>
-      		</app>
+      		<listApp>
+      			<app loc="3">
+      				<lem>mātēvark·=ku</lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01">mātēvark=ku</rdg>
+      				<note>The conjuct <foreign>k=ku</foreign> appears to have a <foreign>puḷḷi</foreign> on the first <foreign>k</foreign>. See alsot the further occurrences of this conjuct <foreign>k=ku</foreign> in the inscription.</note>
+      			</app>
+      			
+      			<app loc="7">
+      				<lem>kuṟ<choice><unclear>ar</unclear><unclear>u</unclear></choice> <gap reason="lost" quantity="2" unit="character"/></lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01">kuṟar <unclear>co</unclear></rdg>
+      			</app>
+      			
+      			<app loc="8">
+      				<lem>°<unclear>mā</unclear><hi rend="grantha"><unclear>he</unclear></hi>ccu<supplied reason="lost">rar</supplied></lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01">°<unclear>mā</unclear><hi rend="grantha"><unclear>he</unclear></hi>curar</rdg>
+      			</app>
+      			
+      			<app loc="11">
+      				<lem>Ila
+      					<lb n="12" break="no"/>kkittāṉ</lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01">Ila
+      					<lb n="14" break="no"/>ccittāṉ</rdg>
+      			</app>
+      			
+      			<app loc="14">
+      				<lem>paṉ-m<choice><sic>a</sic><corr>ā</corr></choice><hi rend="grantha">he</hi>cc<unclear>u</unclear>rar</lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01">paṉm<supplied reason="omitted">ā<hi rend="grantha">he</hi></supplied><unclear>cci</unclear>rar</rdg>
+      			</app>
+      			
+      		</listApp>
       		
       	</div>
       	

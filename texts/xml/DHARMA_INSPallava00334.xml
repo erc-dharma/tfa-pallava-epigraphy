@@ -125,7 +125,7 @@
       			
       			<app loc="8">
       				<lem>Eṟṟu
-      			<lb n="9"/><unclear>ñ</unclear>āṉṟu</lem>
+      					<lb n="9"/><unclear>ñ</unclear>āṉṟu</lem>
       				<note>That is, <foreign>eṟṟum ñāṉṟu</foreign> in <foreign>sandhi</foreign>.</note>      				 
       			</app>
       			
@@ -136,18 +136,18 @@
       			
       			<app loc="9">
       				<lem>paṉ
-      			<lb n="10" break="no"/>maye<hi rend="grantha">śva</hi>ra
-      			<lb n="11" break="no"/>r</lem>
+      					<lb n="10" break="no"/>maye<hi rend="grantha">śva</hi>ra
+      					<lb n="11" break="no"/>r</lem>
       				<rdg source="bib:Schmid2014_02">paṉ
-      			<lb n="10" break="no"/>mayai<hi rend="grantha">śva</hi>ra
-      			<lb n="11" break="no"/>r</rdg>      				
+      					<lb n="10" break="no"/>mayai<hi rend="grantha">śva</hi>ra
+      					<lb n="11" break="no"/>r</rdg>      				
       			</app>
       			
       			<app loc="11">
       				<lem>Ūṭṭa</lem>
       				<rdg source="bib:Schmid2014_02">uṟṟa</rdg>
       			</app>
-
+      			
       			<app loc="12">
       				<lem>p<unclear>o</unclear>ṉ</lem>
       				<rdg source="bib:Schmid2014_02">poṉ</rdg>
@@ -158,13 +158,13 @@
       				<lem><supplied reason="lost">kā</supplied>ciṉōṭu</lem>
       				<rdg source="bib:Schmid2014_02"><supplied reason="lost">kā</supplied>ciṉā</rdg>      				
       			</app>
-      			      		
+      			
       			<app loc="13">
       				<lem> <num value="200"><unclear>2 <g type="numeral">100</g></unclear></num></lem>
       				<rdg source="bib:Schmid2014_02"> <num value="200"><unclear>2 <g type="numeral">100</g></unclear></num></rdg>
       				<note>Alternative reading: <foreign>Uḷ</foreign>.</note>      				
       			</app>
-      			      		
+      			
       			<app loc="14">
       				<lem><seg type="component" subtype="body"><gap reason="lost" unit="component"/></seg><choice><unclear>o</unclear><unclear>ā</unclear></choice>ppatu</lem>
       				<rdg source="bib:Schmid2014_02">pipatu</rdg>
@@ -175,7 +175,7 @@
       				<lem>kanṭapura<supplied reason="lost">ttu</supplied></lem>
       				<rdg source="bib:Schmid2014_02">kanṭapura <gap reason="lost" quantity="1" unit="character"/></rdg>			  				
       			</app>      
-      			      		
+      			
       		</listApp>
       		
       	</div>

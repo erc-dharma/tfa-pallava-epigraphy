@@ -167,26 +167,30 @@
       	<div type="apparatus">
       		
       		
-      		<app loc="8">
-      			<lem>kumā<supplied reason="omitted">ra</supplied>ṉ</lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01">kumāraṉ</rdg>
-      		</app>
-      		
-      		<app loc="10">
-      			<lem>°kiḷiy<unclear>ū</unclear>r</lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01">°kiḷiyūr</rdg>
-      			<note>In in <foreign>yū</foreign>, the supplementary mark that distinguishes <foreign>u</foreign> from <foreign>ū</foreign> is not visible as the character is too long for the available written area.</note>
-      		</app>
-      		
-      		<app loc="11">
-      			<lem>cu<unclear>r</unclear>ai</lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01">cu<supplied reason="omitted">rai</supplied></rdg>
-      		</app>
-      		
-      		<app loc="22">
-      			<lem><unclear>v</unclear>ai<lb n="23" break="no"/>tta</lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01"><supplied reason="omitted">vai</supplied><lb n="23" break="no"/>tta</rdg>
-      		</app>
+      		<listApp>
+      			
+      			<app loc="8">
+      				<lem>kumā<supplied reason="omitted">ra</supplied>ṉ</lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01">kumāraṉ</rdg>
+      			</app>
+      			
+      			<app loc="10">
+      				<lem>°kiḷiy<unclear>ū</unclear>r</lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01">°kiḷiyūr</rdg>
+      				<note>In in <foreign>yū</foreign>, the supplementary mark that distinguishes <foreign>u</foreign> from <foreign>ū</foreign> is not visible as the character is too long for the available written area.</note>
+      			</app>
+      			
+      			<app loc="11">
+      				<lem>cu<unclear>r</unclear>ai</lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01">cu<supplied reason="omitted">rai</supplied></rdg>
+      			</app>
+      			
+      			<app loc="22">
+      				<lem><unclear>v</unclear>ai<lb n="23" break="no"/>tta</lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01"><supplied reason="omitted">vai</supplied><lb n="23" break="no"/>tta</rdg>
+      			</app>
+      			
+      		</listApp>
       		
       	</div>
         

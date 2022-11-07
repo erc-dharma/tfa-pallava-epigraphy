@@ -171,41 +171,45 @@
 
       	<div type="apparatus">
       		
-      		<app loc="14">
-      			<lem>k<unclear>ē</unclear>ṭṭ<unclear>ai</unclear></lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01"><unclear>ko</unclear>ṭṭai</rdg>
-      			<rdg source="bib:Schmid2014_02"><choice><sic><unclear>ko</unclear></sic><corr>kē</corr></choice>ṭṭai</rdg>
-      		</app>
-      		
-      		<app loc="27">
-      			<lem>Uḻa</lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01">vaḻi</rdg>
-      		</app>
-      		      	      		
-      		<app loc="28">
-      			<lem><unclear>tār</unclear>ka ci [C]e</lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01">ci <gap reason="lost" quantity="1" unit="character"/> mi <gap reason="lost" quantity="1" unit="character"/></rdg>
-      		</app>	
-      		      		      	      		
-      		<app loc="29">
-      			<lem>ṭṭu Aric[V]</lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01">ṭi <gap reason="lost" quantity="2" unit="character"/> rica <gap reason="lost" quantity="2" unit="character"/></rdg>
-      		</app>	
-      		      		      	      		
-      		<app loc="30">
-      			<lem>ṇi ceri</lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01">ṇicai cila</rdg>
-      		</app>	
-      		      		      	      		
-      		<app loc="45">
-      			<lem><supplied reason="omitted">ra</supplied><hi rend="grantha">kṣai</hi></lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01"><unclear>ra</unclear><hi rend="grantha">kṣai</hi></rdg>
-      		</app>	
-      		      		      	      		
-      		<!--<app loc="0">
-      			<lem></lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01"></rdg>
-      		</app>	-->
+      		<listApp>
+      			
+      			<app loc="14">
+      				<lem>k<unclear>ē</unclear>ṭṭ<unclear>ai</unclear></lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01"><unclear>ko</unclear>ṭṭai</rdg>
+      				<rdg source="bib:Schmid2014_02"><choice><sic><unclear>ko</unclear></sic><corr>kē</corr></choice>ṭṭai</rdg>
+      			</app>
+      			
+      			<app loc="27">
+      				<lem>Uḻa</lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01">vaḻi</rdg>
+      			</app>
+      			
+      			<app loc="28">
+      				<lem><unclear>tār</unclear>ka ci [C]e</lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01">ci <gap reason="lost" quantity="1" unit="character"/> mi <gap reason="lost" quantity="1" unit="character"/></rdg>
+      			</app>	
+      			
+      			<app loc="29">
+      				<lem>ṭṭu Aric[V]</lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01">ṭi <gap reason="lost" quantity="2" unit="character"/> rica <gap reason="lost" quantity="2" unit="character"/></rdg>
+      			</app>	
+      			
+      			<app loc="30">
+      				<lem>ṇi ceri</lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01">ṇicai cila</rdg>
+      			</app>	
+      			
+      			<app loc="45">
+      				<lem><supplied reason="omitted">ra</supplied><hi rend="grantha">kṣai</hi></lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01"><unclear>ra</unclear><hi rend="grantha">kṣai</hi></rdg>
+      			</app>	
+      			
+      			<!--<app loc="0">
+      				<lem></lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01"></rdg>
+      				</app>	-->
+      			
+      		</listApp>
       		      		      	      		
       	</div>
       	
