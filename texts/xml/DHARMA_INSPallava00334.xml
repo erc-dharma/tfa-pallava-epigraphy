@@ -108,8 +108,8 @@
       			<lb n="10" break="no"/>maye<hi rend="grantha">śva</hi>ra
       			<lb n="11" break="no"/>r Ūṭṭa vaitta
       			<lb n="12"/>p<unclear>o</unclear>ṉ paḻaṅ
-      			<lb n="13" break="no"/><supplied reason="lost">kā</supplied>ciṉōṭu Uḷ
-      			<lb n="14" break="no"/>Cā ppatu <hi rend="grantha">śrī</hi>
+      			<lb n="13" break="no"/><supplied reason="lost">kā</supplied>ciṉōṭu <num value="200"><unclear>2 <g type="numeral">100</g></unclear></num>
+      			<lb n="14"/><seg type="component" subtype="body"><gap reason="lost" unit="component"/></seg><choice><unclear>o</unclear><unclear>ā</unclear></choice>ppatu <hi rend="grantha">śrī</hi>
       			<lb n="15" break="no"/>-kanṭapura<supplied reason="lost">ttu</supplied>
       		</p>
       		
@@ -122,6 +122,12 @@
       	<div type="apparatus">
       		
       		<listApp>
+      			
+      			<app loc="8">
+      				<lem>Eṟṟu
+      			<lb n="9"/><unclear>ñ</unclear>āṉṟu</lem>
+      				<note>That is, <foreign>eṟṟum ñāṉṟu</foreign> in <foreign>sandhi</foreign>.</note>      				 
+      			</app>
       			
       			<app loc="9">
       				<lem><unclear>ñ</unclear>āṉṟu</lem>
@@ -140,13 +146,36 @@
       			<app loc="11">
       				<lem>Ūṭṭa</lem>
       				<rdg source="bib:Schmid2014_02">uṟṟa</rdg>
-      			</app>      			
+      			</app>
+
+      			<app loc="12">
+      				<lem>p<unclear>o</unclear>ṉ</lem>
+      				<rdg source="bib:Schmid2014_02">poṉ</rdg>
+      				<note>The <foreign>kompu</foreign> of the medial <foreign>o</foreign> is lost.</note>
+      			</app>
       			
-      			<!--<app loc="0">
-      				<lem></lem>
-      				<rdg source="bib:Schmid2014_02"></rdg>      				
-      			</app>-->
-      			      			
+      			<app loc="13">
+      				<lem><supplied reason="lost">kā</supplied>ciṉōṭu</lem>
+      				<rdg source="bib:Schmid2014_02"><supplied reason="lost">kā</supplied>ciṉā</rdg>      				
+      			</app>
+      			      		
+      			<app loc="13">
+      				<lem> <num value="200"><unclear>2 <g type="numeral">100</g></unclear></num></lem>
+      				<rdg source="bib:Schmid2014_02"> <num value="200"><unclear>2 <g type="numeral">100</g></unclear></num></rdg>
+      				<note>Alternative reading: <foreign>Uḷ</foreign>.</note>      				
+      			</app>
+      			      		
+      			<app loc="14">
+      				<lem><seg type="component" subtype="body"><gap reason="lost" unit="component"/></seg><choice><unclear>o</unclear><unclear>ā</unclear></choice>ppatu</lem>
+      				<rdg source="bib:Schmid2014_02">pipatu</rdg>
+      				<note><ptr target="bib:Mahalingam1988_01"/> appears to read <foreign>oppatu</foreign>, "that which is equal to", which makes sense. The orginal full reading might be <foreign>yoppatu</foreign>.</note>      				
+      			</app>      
+      			
+      			<app loc="15">
+      				<lem>kanṭapura<supplied reason="lost">ttu</supplied></lem>
+      				<rdg source="bib:Schmid2014_02">kanṭapura <gap reason="lost" quantity="1" unit="character"/></rdg>			  				
+      			</app>      
+      			      		
       		</listApp>
       		
       	</div>
@@ -163,8 +192,7 @@
       		</p>
       		
       		<p n="6-15">
-      			The gold given so as to feed <supplied reason="explanation"><foreign>ūṭṭa</foreign></supplied> the Paṉmāheśvaras, at the time of raising the flag for the glorious festival of Tirukkaṭaimuṭi.
-With this gold <gap reason="lost"/> of/in the glorious Kaṇṭapuram <gap reason="lost"/>
+      			With the old gold coins given so as to feed <supplied reason="explanation"><foreign>ūṭṭa</foreign></supplied> the Paṉmāheśvaras, at the time of raising <supplied reason="explanation"><foreign>eṟṟum</foreign></supplied> the flag for the glorious festival of Tirukkaṭaimuṭi,<supplied reason="subaudible"> that is,</supplied> 200 <gap reason="lost"/> of/in the glorious Kaṇṭapuram <gap reason="lost"/>
 
       		</p>
       		
