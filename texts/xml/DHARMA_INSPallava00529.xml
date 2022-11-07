@@ -49,11 +49,11 @@
 					<msContents>
 						<summary>Hero-stone commemorating the death of Viṇṇappērēṉati.</summary>
 					</msContents>
-					<!--<physDesc>
+					<physDesc>
 						<handDesc>
-							<p></p>
+							<p>Epenthetic <foreign>u</foreign> with final <foreign>r</foreign>.</p>
 						</handDesc>
-					</physDesc>-->
+					</physDesc>
 				</msDesc>
 			</sourceDesc>
 		</fileDesc>
@@ -93,7 +93,7 @@
       			<lb n="3" break="no"/>vakaṉ Uḻa
       			<lb n="4" break="no"/>mu<unclear>ṇu</unclear>kaṇ maka
       			<lb n="5" break="no"/>ṉ vicaiya-ma
-      			<lb n="6" break="no"/>ṅkalam āṇ-
+      			<lb n="6" break="no"/>ṅkalam āṇ
       			<lb n="7" break="no"/>ṭ<unclear>a</unclear> viṇṇa-<supplied reason="omitted">p</supplied>-pē
       			<lb n="8" break="no"/>r-ēṉāti kal      			
       		</p>
@@ -101,18 +101,55 @@
       		
       	</div>
 
-         <!--<div type="apparatus">
+         <div type="apparatus">
 
          	<listApp>
          		
-         		<app loc="0">
-         			<lem></lem>
-         			<note></note>
-         		</app>         		
+         		<app loc="1">
+         			<lem>vāṇaparuma°</lem>
+         			<rdg source="bib:Nagaswamy1971_02">vāṇavaruma°</rdg>
+         			<rdg source="bib:Krishnan1985_01">vāṇaparuma°</rdg>
+         		</app>       
+         		
+         		<app loc="3">
+         			<lem>Uḻa
+      			<lb n="4" break="no"/>mu<unclear>ṇu</unclear>kaṇ</lem>
+         			<rdg source="bib:Nagaswamy1971_02">Uḻa
+      			<lb n="4" break="no"/>muṇukaṇ</rdg>
+         			<rdg source="bib:Krishnan1985_01">Uḻa
+      			<lb n="4" break="no"/>mu<unclear>ṇu</unclear>kaṇ</rdg>
+         		</app>         	
+         		
+         		<app loc="5">
+         			<lem>vicaiyama
+      			<lb n="6" break="no"/>ṅkalam</lem>
+         			<rdg source="bib:Nagaswamy1971_02">vicayama
+      			<lb n="6" break="no"/>ṅkalamm</rdg>
+         			<rdg source="bib:Krishnan1985_01">vicaiyama
+      			<lb n="6" break="no"/>ṅkalam</rdg>
+         		</app>         	
+         		
+         		<app loc="6">
+         			<lem>āṇ
+      			<lb n="7" break="no"/>ṭ<unclear>a</unclear></lem>
+         			<rdg source="bib:Nagaswamy1971_02">āṇ-
+      			<lb n="7" break="no"/>ṭa</rdg>
+         			<rdg source="bib:Krishnan1985_01">āṇ-
+      			<lb n="7" break="no"/>ṭ<choice><sic>u</sic><corr>a</corr></choice></rdg>
+         		</app>         
+         		
+         		<app loc="6">
+         			<lem>viṇṇa<supplied reason="omitted">p</supplied>pē
+      			<lb n="8" break="no"/>rēṉāti</lem>
+         			<rdg source="bib:Nagaswamy1971_02">viṇṇappē
+      			<lb n="8" break="no"/>rēṉāti</rdg>
+         			<rdg source="bib:Krishnan1985_01">viṇṇapē
+      			<lb n="8" break="no"/>rēṉāti</rdg>
+         		</app>   
          		
          	</listApp>
 
-         </div>-->
+         </div>
 
          <div type="translation" resp="part:emfr">
          	
@@ -129,7 +166,7 @@
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Nagaswamy1971_02"/></bibl>; re-edited in <bibl><ptr target="bib:Krishnan1985_01"/></bibl> (EI 39, no. 33A.I), with estampage photo; text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on previous edition(s) and published visual documentation.
+First edited in <bibl><ptr target="bib:Nagaswamy1971_02"/></bibl>, with photo of the estampage; re-edited in <bibl><ptr target="bib:Krishnan1985_01"/></bibl> (EI 39, no. 33A.I), with photo of the estampage; text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on previous edition(s) and published visual documentation.
             </p>
 
          	<listBibl type="primary">
