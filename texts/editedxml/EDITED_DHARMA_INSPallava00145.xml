@@ -180,6 +180,8 @@
       	<div type="apparatus">
       		
       		<!--add readings by Schmid 2014-->
+      	<listApp>	
+      		
       		<app loc="8">
       			<lem><choice><sic>v</sic><corr>p</corr></choice>ati‡ṉ</lem>
       			<rdg source="bib:SubrahmanyaAiyer1932_01"><corr>pa</corr>tiṉ</rdg>
@@ -270,6 +272,8 @@
       			<rdg source="bib:SubrahmanyaAiyer1932_01">iratṣai</rdg>
       			<note>The final character <hi rend="grantha"><foreign>tṣai</foreign></hi> is written on the adjacent face of the middle octagonal portion and his not covered by available photos.</note>
       		</app>
+      	
+      	</listApp>
       		     		
       		
       	</div>

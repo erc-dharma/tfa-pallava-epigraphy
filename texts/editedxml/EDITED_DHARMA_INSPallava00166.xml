@@ -147,10 +147,12 @@
 
       	<div type="apparatus">
       		
-      		<app loc="13">
-      			<lem>kaḻ<choice><sic>ai</sic><corr>a</corr></choice>ñcu</lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01">kaḻañcu</rdg>
-      		</app>
+      		<listApp>
+      			<app loc="13">
+      				<lem>kaḻ<choice><sic>ai</sic><corr>a</corr></choice>ñcu</lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01">kaḻañcu</rdg>
+      			</app>
+      		</listApp>
       		      		
       	</div>
       	

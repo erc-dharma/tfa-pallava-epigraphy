@@ -168,20 +168,23 @@
 
       	<div type="apparatus">
       		
-      		<app loc="9">
-      			<lem>mu<supplied reason="omitted">ṭi</supplied></lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01">mu<unclear>ṭi</unclear></rdg>
-      		</app>
-      		
-      		<app loc="24">
-      			<lem>°v-<choice><sic><unclear>u</unclear></sic><corr>ā</corr></choice>tiraiyum</lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01">°v-ātiraiyum</rdg>
-      		</app>
-      		      		
-      		<!--<app loc="0">
-      			<lem></lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01"></rdg>
-      		</app>-->
+      		<listApp>
+      			
+      			<app loc="9">
+      				<lem>mu<supplied reason="omitted">ṭi</supplied></lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01">mu<unclear>ṭi</unclear></rdg>
+      			</app>
+      			
+      			<app loc="24">
+      				<lem>°v-<choice><sic><unclear>u</unclear></sic><corr>ā</corr></choice>tiraiyum</lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01">°v-ātiraiyum</rdg>
+      			</app>
+      			
+      			<!--<app loc="0">
+      				<lem></lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01"></rdg>
+      				</app>-->
+      		</listApp>
       		      		
       	</div>
       	

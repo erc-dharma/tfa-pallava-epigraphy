@@ -145,16 +145,18 @@
       		
       	</div>
 
-      	<div type="apparatus">
-      		      		
-      		<!--<app loc="0">
-      			<lem></lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01"></rdg>
-      		</app>-->
-      		      		
-      	</div>
+      	<!--<div type="apparatus">
+      		
+      		
+      		<listApp>
+      			<app loc="0">
+      				<lem></lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01"></rdg>
+      			</app>
+      		</listApp>
+      		
+      	</div>-->
       	
-
       	<div type="translation" resp="part:emfr">
       		
       		<p n="1">

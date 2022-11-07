@@ -137,7 +137,9 @@
       	<div type="apparatus">
       		
       		
-      		<app loc="18">
+      		<listApp>
+      			
+      			<app loc="18">
       			<lem>Ar<surplus>i</surplus>ccip
       			<lb n="19" break="no"/>pār</lem>
       			<rdg source="bib:SubrahmanyaAiyer1932_01">Ar<surplus>i</surplus>ccip
@@ -152,6 +154,8 @@
       			<lb n="25" break="no"/><hi rend="grantha">śvara-<supplied reason="omitted">ra</supplied>kṣai <g type="ddanda">.</g></hi></rdg>
       			<note>The end of lines 24 and 25 has been damaged since the edition by <ptr target="bib:SubrahmanyaAiyer1932_01"/>.</note>
       		</app>
+      		
+      		</listApp>
       		
       	</div>
         

@@ -155,46 +155,50 @@
 
       	<div type="apparatus">
       		
-      		<app loc="1">
-      			<lem><unclear>pallava</unclear>t<unclear>ilaka</unclear></lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01"><unclear>pallavatilaka</unclear></rdg>
-      		</app>
-      		      		
-      		<app loc="3">
-      			<lem>ma<hi rend="grantha">hāde</hi><supplied reason="lost">vi</supplied></lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01">ma<hi rend="grantha">hāde</hi>vi</rdg>
-      		</app>
-      		
-      		<app loc="12">
-      			<lem><unclear>I</unclear>p-poṉ</lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01">Ip-poṉ</rdg>
-      		</app>
-      		
-      		<app loc="16">
-      			<lem>paripāram</lem>
-      			<rdg source="bib:Mahalingam1988_01">pari<choice><sic>p</sic><corr>v</corr></choice>āram</rdg>
-      		</app>
-      		
-      		<app loc="18">
-      			<lem><supplied reason="lost">Iv-</supplied>vēlvai</lem>
-      			<rdg source="bib:Mahalingam1988_01">Ivvē<choice><sic>lv</sic><corr>ḷ</corr></choice>ai</rdg>
-      			<note><ptr target="bib:Mahalingam1988_01"/>’s emendation is a suggestion, question-marked.</note>
-      		</app>
-      		
-      		<app loc="23">
-      			<lem><hi rend="grantha">br<choice><sic>a</sic><corr>ā</corr></choice><unclear>hma</unclear></hi><supplied reason="lost">ṇa</supplied>r</lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01"><hi rend="grantha">br<choice><sic>a</sic><corr>ā</corr></choice>hma</hi>ṇar</rdg>
-      		</app>
-      		
-      		<app loc="25">
-      			<lem><supplied reason="lost">māṇika</supplied>ḷ</lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01">māṇikaḷ</rdg>
-      		</app>
-      		
-      		<app loc="29">
-      			<lem>°tāṉam</lem>
-      			<rdg source="bib:SubrahmanyaAiyer1932_01">°tāṉa<unclear>m</unclear></rdg>
-      		</app>
+      		<listApp>
+      			
+      			<app loc="1">
+      				<lem><unclear>pallava</unclear>t<unclear>ilaka</unclear></lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01"><unclear>pallavatilaka</unclear></rdg>
+      			</app>
+      			
+      			<app loc="3">
+      				<lem>ma<hi rend="grantha">hāde</hi><supplied reason="lost">vi</supplied></lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01">ma<hi rend="grantha">hāde</hi>vi</rdg>
+      			</app>
+      			
+      			<app loc="12">
+      				<lem><unclear>I</unclear>p-poṉ</lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01">Ip-poṉ</rdg>
+      			</app>
+      			
+      			<app loc="16">
+      				<lem>paripāram</lem>
+      				<rdg source="bib:Mahalingam1988_01">pari<choice><sic>p</sic><corr>v</corr></choice>āram</rdg>
+      			</app>
+      			
+      			<app loc="18">
+      				<lem><supplied reason="lost">Iv-</supplied>vēlvai</lem>
+      				<rdg source="bib:Mahalingam1988_01">Ivvē<choice><sic>lv</sic><corr>ḷ</corr></choice>ai</rdg>
+      				<note><ptr target="bib:Mahalingam1988_01"/>’s emendation is a suggestion, question-marked.</note>
+      			</app>
+      			
+      			<app loc="23">
+      				<lem><hi rend="grantha">br<choice><sic>a</sic><corr>ā</corr></choice><unclear>hma</unclear></hi><supplied reason="lost">ṇa</supplied>r</lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01"><hi rend="grantha">br<choice><sic>a</sic><corr>ā</corr></choice>hma</hi>ṇar</rdg>
+      			</app>
+      			
+      			<app loc="25">
+      				<lem><supplied reason="lost">māṇika</supplied>ḷ</lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01">māṇikaḷ</rdg>
+      			</app>
+      			
+      			<app loc="29">
+      				<lem>°tāṉam</lem>
+      				<rdg source="bib:SubrahmanyaAiyer1932_01">°tāṉa<unclear>m</unclear></rdg>
+      			</app>
+      			
+      		</listApp>
       		  
       	</div>
         

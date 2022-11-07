@@ -8,8 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Uttiramērūr, Vaikuṇṭhaperumāl, smaller platform, northern base, donation of
-					the time of Kampavarman, year 15</title>
+            <title>Uttiramērūr, Vaikuṇṭhaperumāl, donation of the time of Kampavarman, year 15</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -50,11 +49,11 @@
                <msContents>
                   <summary/>
                </msContents>
-               <physDesc>
-                  <handDesc>
-                     <p/>
-                  </handDesc>
-               </physDesc>
+               <!--<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>-->
             </msDesc>
          </sourceDesc>
       </fileDesc>
@@ -109,7 +108,7 @@
       		</p>
       		<p>
       			Ivv-āyira‡k kaḻañcu ‡ poṉṉālum Āṭṭāṇṭu-tōṟum nilamum nā‡yarum Uḷḷa ‡ tuṇaiyum <gap reason="lost" quantity="8" unit="character"/> <supplied reason="lost" cert="low">iru</supplied>      			
-      			<lb n="4" break="no"/>nūṟṟu-k kaḻañcu poṉṉum Iv-vayiramēka-taṭākat‡tukkē Ā<choice><sic>n</sic><corr>ṉ</corr></choice>i-mu‡tal-āka m<choice><unclear>ū</unclear><unclear>u</unclear></choice><unclear>ṉṟu</unclear> ti<unclear>ka</unclear>ṅkaḷ Aka-p-paṭa Ivv-iru-n‡ūṟṟu-k kaḻañcu ‡ poṉṉum I‡ṭṭu <gap reason="lost" quantity="9" unit="character"/> <supplied reason="lost">A</supplied> 
+      			<lb n="4" break="no"/>nūṟṟu-k kaḻañcu poṉṉum Iv-vayiramēka-taṭākat‡tukkē Ā<choice><sic>n</sic><corr>ṉ</corr></choice>i-mu‡tal-āka m<choice><unclear>ū</unclear><unclear>u</unclear></choice><unclear>ṉṟu</unclear> ti<unclear>ka</unclear>ṅkaḷ Aka-p-paṭa Ivv-iru-n‡ūṟṟu-k kaḻañcu ‡ poṉṉum I‡ṭṭu <gap reason="lost" quantity="9" unit="character"/> <supplied reason="lost">A</supplied>
       			<lb n="5" break="no"/><hi rend="grantha">parāji</hi>tanēṉ
       		</p>
       		<p>
@@ -274,3 +273,4 @@ First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6,
       </body>
   </text>
 </TEI>
+<!--smaller platform, northern base-->
