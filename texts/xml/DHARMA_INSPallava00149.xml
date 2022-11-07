@@ -167,28 +167,27 @@ First edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 1
     		
     		<listBibl type="primary">
     			
-    			<bibl n="VVA">
+    			<bibl n="VA">
          			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
          			<citedRange unit="page">25</citedRange>
          			<citedRange unit="item">61</citedRange>
          		</bibl> 
     		   
-    			<bibl n="TVM">
+    			<bibl n="M">
 	               		<ptr target="bib:Mahalingam1988_01"/>
 	               		<citedRange unit="page">435-436</citedRange>
     				<citedRange unit="item">149</citedRange>
     			</bibl>
     		</listBibl>
     		
-    		<!--<listBibl type="secondary">
-    		   Update to ARE 1928-29, No. 122
-    			<bibl n="ARIE 1897-1898">
-    				<ptr target="bib:ARIE1897-1898"/>
-    				<citedRange unit="page">18</citedRange>
-    				<citedRange unit="appendix">B/1898</citedRange>
-    				<citedRange unit="item">72</citedRange>
+    		<listBibl type="secondary">
+    			<bibl n="ARIE">
+    				<ptr target="bib:ARIE1928-1929"/>
+    				<citedRange unit="page">16</citedRange>
+    				<citedRange unit="appendix">B/1928-29</citedRange>
+    				<citedRange unit="item">122</citedRange>
     			</bibl>
-    		</listBibl>-->
+    		</listBibl>
     		
             </div>
         </body>
