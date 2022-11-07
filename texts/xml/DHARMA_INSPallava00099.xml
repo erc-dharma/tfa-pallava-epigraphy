@@ -207,11 +207,11 @@
         	
       		<listBibl type="secondary">
       			
-      			<bibl>ARIE 1914, no. 348<!--update!-->
-      				<ptr target="bib:ARIE1904-1905"/>
-      				<citedRange unit="page">32</citedRange>
-      				<citedRange unit="appendix">B/1905</citedRange>
-      				<citedRange unit="item">50</citedRange>
+      			<bibl>
+      				<ptr target="bib:ARIE1914-1915"/>
+      				<citedRange unit="page">37</citedRange>
+      				<citedRange unit="appendix">B/1914</citedRange>
+      				<citedRange unit="item">348</citedRange>
       			</bibl>
       			
       			<!--<bibl>

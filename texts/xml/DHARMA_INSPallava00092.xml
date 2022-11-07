@@ -356,19 +356,19 @@
 
             <listBibl type="primary">
                
-               <bibl n="HKS">
+               <bibl n="KS">
                   <ptr target="bib:KrishnaSastri1926_01"/>
                   <citedRange unit="page">10-11</citedRange>
                   <citedRange unit="plate">IB</citedRange>
                </bibl> 
                
-               <bibl n="TVM">
+               <bibl n="M">
                   <ptr target="bib:Mahalingam1988_01"/>
                   <citedRange unit="page">323-324</citedRange>
                   <citedRange unit="item">92</citedRange>
                </bibl> 
                
-               <bibl n="ML">
+               <bibl n="L">
                   <ptr target="bib:Lockwood+al2001_01"/>
                   <citedRange unit="page">290-291</citedRange>
                   <note>With a delineation.</note>
@@ -378,20 +378,19 @@
         	
             <listBibl type="secondary">
                
-               <bibl>ARE 1922.666<!--update!-->
-                  <ptr target="bib:ARIE1904-1905"/>
-                  <!--display issue: ARIE should not be in italics-->
-                  <citedRange unit="page">32</citedRange>
-                  <citedRange unit="appendix">B/1905</citedRange>
-                  <citedRange unit="item">50</citedRange>
-               </bibl>
-               
-               <bibl n="VVA">
-                  <ptr target="bib:VenkatasubbaAyyar1943_01"/>
-                  <citedRange unit="page">16</citedRange>
-                  <citedRange unit="item">38</citedRange>
-                  <note>Summary only.</note>
-               </bibl>
+            	<bibl>
+            		<ptr target="bib:ARIE1922-1923"/>
+            		<citedRange unit="page">45</citedRange>
+            		<citedRange unit="appendix">B/1922</citedRange>
+            		<citedRange unit="item">666</citedRange>
+            	</bibl>
+            	
+            	<bibl n="VA">
+            		<ptr target="bib:VenkatasubbaAyyar1943_01"/>
+            		<citedRange unit="page">16</citedRange>
+            		<citedRange unit="item">38</citedRange>
+            		<note>Summary only.</note>
+            	</bibl>
                
             </listBibl>
 

@@ -171,16 +171,17 @@
       </bibl>
       
    </listBibl>
-   
-   <!--<listBibl type="secondary">
-    		   Update to ARE 1902, No. 297
-    			<bibl n="ARIE 1897-1898">
-    				<ptr target="bib:ARIE1897-1898"/>
-    				<citedRange unit="page">18</citedRange>
-    				<citedRange unit="appendix">B/1898</citedRange>
-    				<citedRange unit="item">72</citedRange>
-    			</bibl>
-    		</listBibl>-->
+	
+	<listBibl type="secondary">
+		
+		<bibl n="ARIE">
+			<ptr target="bib:ARIE1901-1902"/>
+			<citedRange unit="page">18</citedRange>
+			<citedRange unit="appendix">B/1902</citedRange>
+			<citedRange unit="item">297</citedRange>         
+		</bibl>            
+		
+	</listBibl>
 	
 </div>
       	
