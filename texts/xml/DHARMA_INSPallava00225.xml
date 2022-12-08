@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -107,7 +107,7 @@
 	</p>
 	
 	<p>
-		Ip-poṉṉāl vanta palicai koṇṭu ta<unclear>ṇṇ<choice><orig>i</orig><reg>ī</reg></choice>r a</unclear>ṭṭuvatāka vaittēṉ
+		Ip-poṉṉāl vanta palicai koṇṭu ta<unclear>ṇṇ</unclear><choice><orig><unclear>i</unclear></orig><reg><unclear>ī</unclear></reg></choice><unclear>r a</unclear>ṭṭuvatāka vaittēṉ
 	</p>
 	
 	<p>
