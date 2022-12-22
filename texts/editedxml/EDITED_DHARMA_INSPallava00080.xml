@@ -52,10 +52,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>The <foreign>puḷḷi</foreign> is used almost consistently. It has the
-								form of a dot, or a wedge, or a wavy line, and is placed exactly
-								above the consonant or slightly to the right above of the
-								consonant.</p>
+                     <p>The <foreign>puḷḷi</foreign> is used almost consistently. It has the form of a dot, or a wedge, or a wavy line, and is placed exactly above the consonant or slightly to the right above of the consonant.</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -93,180 +90,181 @@
    <text xml:space="preserve">
       <body>
 
-      	<div type="edition" xml:lang="tam-Latn">
-      		
-      		<!--<!-\-Check milestones. See EGD, p. 141.-\->
-      		<milestone type="pagelike" unit="faces" n="ABC"/>
-      		<label xml:lang="eng">Maṇḍapa, west and south, and Vimāna, west</label>
-      		<!-\-= lines 1-2, with line 1 on ABC and line 2 on AB only-\->
-      		<!-\-Add milestones gridlike-type within for the different blocks, but note transition between end of Maṇḍapa west and beginning of Maṇḍapa south is not between two different blocks, but between two faces of the same block.-\->
-      		<milestone type="pagelike" unit="faces" n="DE"/>
-      		<label xml:lang="eng">Vimāna, south and east</label>
-      		<!-\-= lines 3-4, with line 1 on DE and line 2 on D only-\->-->
-      		
-      		<ab>
-      		   
-      		   <lb n="1"/>
-      		   <milestone unit="block" n="1"/><label xml:lang="eng">Maṇḍapa West 1</label>
-      			
-      			<supplied reason="lost"><hi rend="grantha">svasti śrī</hi></supplied>
-      		</ab>
-      		<p>
-      			nan=t<supplied reason="lost">i</supplied>-va<supplied reason="lost"><hi rend="grantha">rmma</hi>r·k=ku yāṇṭ’ i</supplied>ru patt’ eṭ·ṭ-āvatu
-      		</p>
-      		<p>         			
-      			<hi rend="grantha"><unclear>dha</unclear></hi><supplied reason="lost"><hi rend="grantha">rmma</hi></supplied>
-      			      			
-      		   <milestone unit="block" n="2" break="no"/><label xml:lang="eng">Maṇḍapa West 2</label>
-      			-<hi rend="grantha"><unclear>ma</unclear></hi><hi rend="grantha">hāde</hi>v<choice><unclear>i</unclear><unclear>ī</unclear></choice><hi rend="grantha">śva</hi>ra-<hi rend="grantha">gṛ<supplied reason="omitted">ha</supplied></hi>ttu <hi rend="grantha">mā</hi>ṇik=ka-<hi rend="grantha">de</hi>var·k=ku <hi rend="grantha">de</hi>vatāṉam-āyiṉa nāyivaṭṭi kuḷat
-      	
-      		   <milestone unit="block" n="3" break="no"/><label xml:lang="eng">Maṇḍapa South 1</label>
-      			tūr·k kaṇ·ṇantai kuṭi-p·-pāṭ·ṭ’ uḷ·pa      			
-      		   
-      		   <milestone unit="block" n="4" break="no"/><label xml:lang="eng">Maṇḍapa South 2</label>
-      			<unclear reason="eccentric_ductus">ṭa</unclear> ṉilam· pattu-p paṭṭiy<unclear>u</unclear>māṇik=k<choice><sic>u</sic><corr>a</corr></choice>-tēvark=k’ uṇ·ṇāḻikai-p puṟam-<unclear>ā</unclear>      		
-      		   <milestone unit="block" n="5" break="no"/><label xml:lang="eng">Maṇḍapa South 3</label>
-      			ka paṇittu-k= kuṭuttēṉ· <hi rend="grantha">dharma-mahādevi</hi>-y-ēṉ·
-      		</p>
-      	   
-      		<p>      
-      			Itu <hi rend="grantha">A<unclear>r</unclear>cca</hi>ṉ<choice><orig>ayi</orig><reg>ai</reg></choice> ce<choice><orig>y<unclear>i</unclear></orig><reg>y</reg></choice>t’ uṇ<unclear>pā</unclear>r-āṉār· In·nilat·t<choice><sic>a</sic><corr>ā</corr></choice>l
-
-      		   <milestone unit="block" n="6"/><label xml:lang="eng">Vimāna West 1</label>
-      			Ūr· varin=tat’ ellām
-
-      		   <lb n="2"/>
-      		   <milestone unit="block" n="1"/><label xml:lang="eng">Maṇḍapa West 1</label>
-      			tatta<hi rend="grantha">śi</hi>vaṉu<supplied reason="omitted">kku</supplied><unclear reason="eccentric_ductus">m·</unclear> <hi rend="grantha">dharmma</hi>kaṇ<supplied reason="lost">·</supplied>ṇaṉuk=kum· Aṉan·taśi<supplied reason="lost">va</supplied>
-      		   
-      		   <milestone unit="block" n="2"/><label xml:lang="eng">Maṇḍapa West 2</label>      	
-      			ṉukkum· Iva<supplied reason="omitted">r</supplied>kaḷ makkaḷ mak=kaḷ-ē Arccaṉai ce<choice><orig>yi</orig><reg>y</reg></choice>t’ uṇṇa-p paṇittu
-      			      
-      		   <milestone unit="block" n="3"/><label xml:lang="eng">Maṇḍapa South 1</label>
-      			k kuṭuttēṉ·
-      		</p>
-      	   
-      		<p>      
-      			It-taḷikkut taṭṭaḻi
-      			
-      		   <milestone unit="block" n="4" break="no"/><label xml:lang="eng">Maṇḍapa South 2</label>
-      			<unclear>vu</unclear>y ivaraik· koṇ·ṭu koṭṭuvāṉ· Amutarayaṉ· <unclear>nā</unclear>yaṟṟu-k· kaṇi I<supplied reason="omitted">va</supplied>ṉuk
-      	
-      		   <milestone unit="block" n="5" break="no"/><label xml:lang="eng">Maṇḍapa South 3</label>
-      			kum· māṭalar makaṉ· māta-<hi rend="grantha">śarmma</hi>nuk·kum· Iruvark·kumm utaka-<hi rend="grantha">pūrvva</hi>kam· ceytu Iraṇṭu koṟṟu kuṭut·tōm·
-      		</p>
-      	   
-      		<p>      			
-      			
-      		   <lb n="3"/>
-      		   <milestone unit="block" n="7"/><label xml:lang="eng">Vimāna South 1</label>      			
-      			perunaṅ·kai-y i-poṉ·ṉaṭi Atimāṉi mātēvi kumaraṭi māṇikkat·tēvi tikaimaṇi kuṇatuṅ·ki ti
-      			
-      		   <milestone unit="block" n="8" break="no"/><label xml:lang="eng">Vimāna South 2</label>
-      			kaimaṇi vācat·ti c<unclear>i</unclear>n·taṭi kumaraṭi naṅ·k<unclear>ā</unclear>
-      			
-      		   <milestone unit="block" n="9" break="no"/><label xml:lang="eng">Vimāna South 3</label>      			
-      			ṭai Aṇiyātitti mūt·ti Av·vaṭi viñ·caṭi pātaṭi ku 
-      			
-      		   <milestone unit="block" n="10" break="no"/><label xml:lang="eng">Vimāna South 4</label>      
-      			lakkoṭi Av·vaṭi naṅ·kaṉ·
-      			
-      		   <milestone unit="block" n="11"/><label xml:lang="eng">Vimāna South 5</label>      
-      			muciyak·kaṉ· <hi rend="grantha">śrī</hi>-tēvi naṅ·kāmi mā-tēvi nīlī maṇavāṭ·ṭi tēvaṭi mānip·poṟṟi
-      			      		
-      		   <milestone unit="block" n="12"/><label xml:lang="eng">Vimāna East 1</label>
-      			Atimāṇi naṅ·kuṇavi
-      			
-      		   <milestone unit="block" n="13"/><label xml:lang="eng">Vimāna East 2</label>
-      			<hi rend="grantha">bahu</hi>va<hi rend="grantha"><unclear>ḷa</unclear></hi><unclear>kāmi</unclear> maḻalai nocci tāḻi-māṇikkam· cittiraniti neṟippāki viṉa
-      			
-      		   <milestone unit="block" n="14" break="no"/><label xml:lang="eng">Vimāna East 3</label>
-      			yaṭi Avvaṭi ciṟu-naṅkai kāmaṭi māti
-      			
-      		   <milestone unit="block" n="1" break="no"/><label xml:lang="eng">Vimāna East 4</label>
-      			tikaimaṇi
-      			
-      		   <lb n="4"/>
-      		   <milestone unit="block" n="7"/><label xml:lang="eng">Vimāna South 1</label>
-      			<unclear reason="eccentric_ductus">ma</unclear><hi rend="grantha">ntrācāryya</hi>r aivar· viḷak=kun= tavacikaṇāvar· paṉṉiruvar tavacikaḷ uṇ·ṇa-k k<unclear>u</unclear>ṭukka taḷiyāḷ·vār <unclear>ū</unclear>ṭṭārāka paṉṉiruva
-      			
-      		   <milestone unit="block" n="8" break="no"/><label xml:lang="eng">Vimāna South 2</label>
-      			r kut=tikaḷai <choice><unclear>p</unclear><unclear>m</unclear></choice><!--check!-->eyitu kuṭut=tēṉ
-      		</p>
-      		<p>      			
-      			mutal mup
-      			
-      		   <milestone unit="block" n="9" break="no"/><label xml:lang="eng">Vimāna South 3</label>
-      			patiruvarum· Ip-paṉṉiruva<supplied reason="omitted">ru</supplied>m ēṟṟi nāṟpattu nālvar kam·pa
-      			
-      		   <milestone unit="block" n="10" break="no"/><label xml:lang="eng">Vimāna South 4</label> 
-      			<unclear>ṉa</unclear>ttu k<unclear>u</unclear>ṭut=tēṉ· taruma-mā-<hi rend="grantha">de</hi>viyēṉ
-      		         			
-      		</p>
-      		<p>      			
-      			<milestone unit="block" n="11"/><label xml:lang="eng">Vimāna South 5</label>
-      		   It-taḷi-puṟam-āṉa nāyvaṭṭi k<unclear>u</unclear>ḷattūrum· It<unclear>=t</unclear>aḷi parivāramum· taḷiyum·
-      		</p>
-      		<p>  
-      			I<hi rend="grantha">dharmma</hi>m· Aḻiy<unclear>ā</unclear>mai k<unclear>ā</unclear>t=tāṉ aṭi eṉ· muṭi mēl-atu
-      		</p>      		
-      		
-      	</div>
+         <div type="edition" xml:lang="tam-Latn"> 
+            
+            <ab>      		   
+               <milestone type="pagelike" unit="faces" n="ABC"/><label xml:lang="eng">western and southern bases of <foreign>maṇḍapa</foreign>, and western base of <foreign>vimāna</foreign></label>
+               
+               <lb n="1"/>
+               <milestone unit="block" n="1"/><label xml:lang="eng">western base of <foreign>maṇḍapa</foreign></label>
+               
+               <supplied reason="lost"><hi rend="grantha">svasti śrī</hi></supplied>
+            </ab>
+            
+            <p>
+               nan=t<supplied reason="lost">i</supplied>-va<supplied reason="lost"><hi rend="grantha">rmma</hi>r·k=ku yāṇṭ’ i</supplied>ru patt’ eṭ·ṭ-āvatu
+            </p>
+            <p>         			
+               <hi rend="grantha"><unclear>dha</unclear></hi><supplied reason="lost"><hi rend="grantha">rmma</hi></supplied>
+               
+               <milestone unit="block" n="2" break="no"/><label xml:lang="eng">western base of <foreign>maṇḍapa</foreign></label>
+               -<hi rend="grantha"><unclear>ma</unclear></hi><hi rend="grantha">hāde</hi>v<choice><unclear>i</unclear><unclear>ī</unclear></choice><hi rend="grantha">śva</hi>ra-<hi rend="grantha">gṛ<supplied reason="omitted">ha</supplied></hi>ttu <hi rend="grantha">mā</hi>ṇik=ka-<hi rend="grantha">de</hi>var·k=ku <hi rend="grantha">de</hi>vatāṉam-āyiṉa nāyivaṭṭi kuḷat
+               
+               <milestone unit="block" n="3" break="no"/><label xml:lang="eng">southern base of <foreign>maṇḍapa</foreign></label>
+               tūr·k kaṇ·ṇantai kuṭi-p·-pāṭ·ṭ’ uḷ·pa      			
+               
+               <milestone unit="block" n="4" break="no"/><label xml:lang="eng">southern base of <foreign>maṇḍapa</foreign></label>
+               <unclear reason="eccentric_ductus">ṭa</unclear> ṉilam· pattu-p paṭṭiy<unclear>u</unclear>māṇik=k<choice><sic>u</sic><corr>a</corr></choice>-tēvark=k’ uṇ·ṇāḻikai-p puṟam-<unclear>ā</unclear>      		
+               <milestone unit="block" n="5" break="no"/><label xml:lang="eng">southern base of <foreign>maṇḍapa</foreign></label>
+               ka paṇittu-k= kuṭuttēṉ· <hi rend="grantha">dharma-mahādevi</hi>-y-ēṉ·
+            </p>
+            
+            <p>      
+               Itu <hi rend="grantha">A<unclear>r</unclear>cca</hi>ṉ<choice><orig>ayi</orig><reg>ai</reg></choice> ce<choice><orig>y<unclear>i</unclear></orig><reg>y</reg></choice>t’ uṇ<unclear>pā</unclear>r-āṉār· In·nilat·t<choice><sic>a</sic><corr>ā</corr></choice>l
+               
+               <milestone unit="block" n="6"/><label xml:lang="eng">western base of <foreign>vimāna</foreign></label>
+               Ūr· varin=tat’ ellām
+               
+               <lb n="2"/>               
+               <milestone unit="block" n="1"/><label xml:lang="eng">western base of <foreign>maṇḍapa</foreign></label>
+               
+               tatta<hi rend="grantha">śi</hi>vaṉu<supplied reason="omitted">kku</supplied><unclear reason="eccentric_ductus">m·</unclear> <hi rend="grantha">dharmma</hi>kaṇ<supplied reason="lost">·</supplied>ṇaṉuk=kum· Aṉan·taśi<supplied reason="lost">va</supplied>
+               
+               <milestone unit="block" n="2"/><label xml:lang="eng">western base of <foreign>maṇḍapa</foreign></label>      	
+               ṉukkum· Iva<supplied reason="omitted">r</supplied>kaḷ makkaḷ mak=kaḷ-ē Arccaṉai ce<choice><orig>yi</orig><reg>y</reg></choice>t’ uṇṇa-p paṇittu
+               
+               <milestone unit="block" n="3"/><label xml:lang="eng">southern base of <foreign>maṇḍapa</foreign></label>
+               k kuṭuttēṉ·
+            </p>
+            
+            <p>      
+               It-taḷikkut taṭṭaḻi
+               
+               <milestone unit="block" n="4" break="no"/><label xml:lang="eng">southern base of <foreign>maṇḍapa</foreign></label>
+               <unclear>vu</unclear>y ivaraik· koṇ·ṭu koṭṭuvāṉ· Amutarayaṉ· <unclear>nā</unclear>yaṟṟu-k· kaṇi I<supplied reason="omitted">va</supplied>ṉuk
+               
+               <milestone unit="block" n="5" break="no"/><label xml:lang="eng">southern base of <foreign>maṇḍapa</foreign></label>
+               kum· māṭalar makaṉ· māta-<hi rend="grantha">śarmma</hi>nuk·kum· Iruvark·kumm utaka-<hi rend="grantha">pūrvva</hi>kam· ceytu Iraṇṭu koṟṟu kuṭut·tōm·
+            </p>
+            
+            <p>
+               <milestone unit="block" n="6"/><label xml:lang="eng">western base of <foreign>vimāna</foreign></label>
+               <space/> 
+            </p>
+            
+            <p>
+               <milestone type="pagelike" unit="faces" n="DE"/><label xml:lang="eng">southern and eastern bases of <foreign>vimāna</foreign></label>
+               
+               <lb n="3"/>
+               <milestone unit="block" n="7"/><label xml:lang="eng">southern base of <foreign>vimāna</foreign></label>
+               
+               perunaṅ·kai-y i-poṉ·ṉaṭi Atimāṉi mātēvi kumaraṭi māṇikkat·tēvi tikaimaṇi kuṇatuṅ·ki ti
+               
+               <milestone unit="block" n="8" break="no"/><label xml:lang="eng">southern base of <foreign>vimāna</foreign></label>
+               kaimaṇi vācat·ti c<unclear>i</unclear>n·taṭi kumaraṭi naṅ·k<unclear>ā</unclear>
+               
+               <milestone unit="block" n="9" break="no"/><label xml:lang="eng">southern base of <foreign>vimāna</foreign></label>      			
+               ṭai Aṇiyātitti mūt·ti Av·vaṭi viñ·caṭi pātaṭi ku 
+               
+               <milestone unit="block" n="10" break="no"/><label xml:lang="eng">southern base of <foreign>vimāna</foreign></label>      
+               lakkoṭi Av·vaṭi naṅ·kaṉ·
+               
+               <milestone unit="block" n="11"/><label xml:lang="eng">southern base of <foreign>vimāna</foreign></label>      
+               muciyak·kaṉ· <hi rend="grantha">śrī</hi>-tēvi naṅ·kāmi mā-tēvi nīlī maṇavāṭ·ṭi tēvaṭi mānip·poṟṟi
+               
+               <milestone unit="block" n="12"/><label xml:lang="eng">eastern base of <foreign>vimāna</foreign></label>
+               Atimāṇi naṅ·kuṇavi
+               
+               <milestone unit="block" n="13"/><label xml:lang="eng">eastern base of <foreign>vimāna</foreign></label>
+               <hi rend="grantha">bahu</hi>va<hi rend="grantha"><unclear>ḷa</unclear></hi><unclear>kāmi</unclear> maḻalai nocci tāḻi-māṇikkam· cittiraniti neṟippāki viṉa
+               
+               <milestone unit="block" n="14" break="no"/><label xml:lang="eng">eastern base of <foreign>vimāna</foreign></label>
+               yaṭi Avvaṭi ciṟu-naṅkai kāmaṭi māti
+               
+               <milestone unit="block" n="15" break="no"/><label xml:lang="eng">eastern base of <foreign>vimāna</foreign></label>
+               tikaimaṇi
+               
+               <lb n="4"/>
+               <milestone unit="block" n="7"/><label xml:lang="eng">southern base of <foreign>vimāna</foreign></label>
+               <unclear reason="eccentric_ductus">ma</unclear><hi rend="grantha">ntrācāryya</hi>r aivar· viḷak=kun= tavacikaṇāvar· paṉṉiruvar tavacikaḷ uṇ·ṇa-k k<unclear>u</unclear>ṭukka taḷiyāḷ·vār <unclear>ū</unclear>ṭṭārāka paṉṉiruva
+               
+               <milestone unit="block" n="8" break="no"/><label xml:lang="eng">southern base of <foreign>vimāna</foreign></label>
+               r kut=tikaḷai <choice><unclear>p</unclear><unclear>m</unclear></choice><!--check!-->eyitu kuṭut=tēṉ
+            </p>
+            <p>      			
+               mutal mup
+               
+               <milestone unit="block" n="9" break="no"/><label xml:lang="eng">southern base of <foreign>vimāna</foreign></label>
+               patiruvarum· Ip-paṉṉiruva<supplied reason="omitted">ru</supplied>m ēṟṟi nāṟpattu nālvar kam·pa
+               
+               <milestone unit="block" n="10" break="no"/><label xml:lang="eng">southern base of <foreign>vimāna</foreign></label> 
+               <unclear>ṉa</unclear>ttu k<unclear>u</unclear>ṭut=tēṉ· taruma-mā-<hi rend="grantha">de</hi>viyēṉ
+               
+            </p>
+            <p>      			
+               <milestone unit="block" n="11"/><label xml:lang="eng">southern base of <foreign>vimāna</foreign></label>
+               It-taḷi-puṟam-āṉa nāyvaṭṭi k<unclear>u</unclear>ḷattūrum· It<unclear>=t</unclear>aḷi parivāramum· taḷiyum·
+            </p>
+            <p>  
+               I<hi rend="grantha">dharmma</hi>m· Aḻiy<unclear>ā</unclear>mai k<unclear>ā</unclear>t=tāṉ aṭi eṉ· muṭi mēl-atu
+            </p>      		
+            
+         </div>
 
       	<div type="apparatus">
       		
-      		<listApp>
-      			
-      			<app loc="1">
-      				<lem>°va<supplied reason="lost"><hi rend="grantha">rmma</hi>r·k=ku</supplied></lem>
-      				<note>The restoration <foreign>°va<supplied reason="lost"><hi rend="grantha">rmma</hi>ṟ·ku</supplied></foreign> is also possible, but see <foreign>-<hi rend="grantha">de</hi>var·k=ku</foreign> in the same line.</note>
-      			</app>
-      			
-      			<app loc="1">
-      				<lem><supplied reason="lost">yāṇṭ’ i</supplied>ru patt’ eṭ·ṭ-āvatu</lem>
-      				<rdg source="bib:KrishnaSastri1923_01"><gap reason="lost" unit="character" quantity="3"/>patt’ eṭ·ṭ-āvatu</rdg>
-      				<note>The restoration <foreign>°va<supplied reason="lost"><hi rend="grantha">rmma</hi>ṟ·ku</supplied></foreign> is also possible, but see <foreign>-<hi rend="grantha">de</hi>var·k=ku</foreign> in the same line.</note>
-      			</app>
-      			
-      			<app loc="2">
-      				<lem>tatta<hi rend="grantha">śi</hi>vaṉu<supplied reason="omitted">kku</supplied><unclear reason="eccentric_ductus">m·</unclear></lem>
-      				<rdg source="bib:KrishnaSastri1923_01"><unclear>tatta</unclear><hi rend="grantha">śi</hi>vanum</rdg>
-      				<note>The final <foreign>m·</foreign> looks like <foreign>ru</foreign>, but the vertical stroke is too short to be <foreign>r</foreign>.</note>
-      			</app>		      		
-      			      		
-      			<app loc="3">
-      				<lem>vācat·ti</lem>
-      				<rdg source="bib:KrishnaSastri1923_01"><hi rend="grantha">su</hi>cat·ti</rdg>
-      				<note>Krishna Sastri reads anachronistically a later form of Grantah <foreign><hi rend="grantha">su</hi></foreign>.</note>
-      			</app>
-      			
-      			<app loc="3">
-      				<lem>nīlī</lem>
-      				<rdg source="bib:KrishnaSastri1923_01">nili</rdg>
-      			</app>
-      			
-      			<app loc="3">
-      				<lem><hi rend="grantha">bahu</hi>va<hi rend="grantha"><unclear>ḷa</unclear></hi><unclear>kāmi</unclear></lem>
-      				<rdg source="bib:KrishnaSastri1923_01"><hi rend="grantha">ba</hi><hi rend="grantha"><unclear>hu</unclear></hi><unclear>va</unclear><hi rend="grantha"><unclear>ḷa</unclear></hi>kāmi</rdg>
-      			</app>
-      			
-      			<app loc="4">
-      				<lem><unclear reason="eccentric_ductus">ma</unclear><hi rend="grantha">ntrācāryya</hi>r</lem>
-      				<note>The initial <foreign>ma</foreign> looks like <foreign>pa</foreign>.</note>
-      			</app>
-      			
-      			<app loc="4">
-      				<lem>kut=tikaḷai <choice><unclear>p</unclear><unclear>m</unclear></choice>eyitu</lem><!--check!-->
-      				<rdg source="bib:KrishnaSastri1923_01">kut=tika<unclear>ḷai</unclear>meytu</rdg>
-      				<note><!--Add note on reading.--></note>
-      			</app>
-      			
-      			<app loc="4">
-      				<lem>Ip-paṉṉiruva<supplied reason="omitted">ru</supplied>m ēṟṟi</lem><!--check!-->
-      				<rdg source="bib:KrishnaSastri1923_01">Ip-paṉṉiru<unclear>var ē</unclear>ṟṟi</rdg>
-      				<note><!--Add note on reading.--></note>
-      			</app>     	
-      			      		</listApp>
+      	   <listApp>
+      	      
+      	      <app loc="1">
+      	         <lem>°va<supplied reason="lost"><hi rend="grantha">rmma</hi>r·k=ku</supplied></lem>
+      	         <note>The restoration <foreign>°va<supplied reason="lost"><hi rend="grantha">rmma</hi>ṟ·ku</supplied></foreign> is also possible, but see <foreign>-<hi rend="grantha">de</hi>var·k=ku</foreign> in the same line.</note>
+      	      </app>
+      	      
+      	      <app loc="1">
+      	         <lem><supplied reason="lost">yāṇṭ’ i</supplied>ru patt’ eṭ·ṭ-āvatu</lem>
+      	         <rdg source="bib:KrishnaSastri1923_01"><gap reason="lost" unit="character" quantity="3"/>patt’ eṭ·ṭ-āvatu</rdg>
+      	         <note>The restoration <foreign>°va<supplied reason="lost"><hi rend="grantha">rmma</hi>ṟ·ku</supplied></foreign> is also possible, but see <foreign>-<hi rend="grantha">de</hi>var·k=ku</foreign> in the same line.</note>
+      	      </app>
+      	      
+      	      <app loc="2">
+      	         <lem>tatta<hi rend="grantha">śi</hi>vaṉu<supplied reason="omitted">kku</supplied><unclear reason="eccentric_ductus">m·</unclear></lem>
+      	         <rdg source="bib:KrishnaSastri1923_01"><unclear>tatta</unclear><hi rend="grantha">śi</hi>vanum</rdg>
+      	         <note>The final <foreign>m·</foreign> looks like <foreign>ru</foreign>, but the vertical stroke is too short to be <foreign>r</foreign>.</note>
+      	      </app>		      		
+      	      
+      	      <app loc="3">
+      	         <lem>vācat·ti</lem>
+      	         <rdg source="bib:KrishnaSastri1923_01"><hi rend="grantha">su</hi>cat·ti</rdg>
+      	         <note>Krishna Sastri reads anachronistically a later form of Grantah <foreign><hi rend="grantha">su</hi></foreign>.</note>
+      	      </app>
+      	      
+      	      <app loc="3">
+      	         <lem>nīlī</lem>
+      	         <rdg source="bib:KrishnaSastri1923_01">nili</rdg>
+      	      </app>
+      	      
+      	      <app loc="3">
+      	         <lem><hi rend="grantha">bahu</hi>va<hi rend="grantha"><unclear>ḷa</unclear></hi><unclear>kāmi</unclear></lem>
+      	         <rdg source="bib:KrishnaSastri1923_01"><hi rend="grantha">ba</hi><hi rend="grantha"><unclear>hu</unclear></hi><unclear>va</unclear><hi rend="grantha"><unclear>ḷa</unclear></hi>kāmi</rdg>
+      	      </app>
+      	      
+      	      <app loc="4">
+      	         <lem><unclear reason="eccentric_ductus">ma</unclear><hi rend="grantha">ntrācāryya</hi>r</lem>
+      	         <note>The initial <foreign>ma</foreign> looks like <foreign>pa</foreign>.</note>
+      	      </app>
+      	      
+      	      <app loc="4">
+      	         <lem>kut=tikaḷai <choice><unclear>p</unclear><unclear>m</unclear></choice>eyitu</lem><!--check!-->
+      	         <rdg source="bib:KrishnaSastri1923_01">kut=tika<unclear>ḷai</unclear>meytu</rdg>
+      	         <note><!--Add note on reading.--></note>
+      	      </app>
+      	      
+      	      <app loc="4">
+      	         <lem>Ip-paṉṉiruva<supplied reason="omitted">ru</supplied>m ēṟṟi</lem><!--check!-->
+      	         <rdg source="bib:KrishnaSastri1923_01">Ip-paṉṉiru<unclear>var ē</unclear>ṟṟi</rdg>
+      	         <note><!--Add note on reading.--></note>
+      	      </app>     	
+      	   </listApp>
       		
          </div>
 
