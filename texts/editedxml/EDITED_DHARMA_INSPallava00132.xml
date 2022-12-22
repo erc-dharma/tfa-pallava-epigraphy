@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tiruvallam, donation of the time of Nandivikramavarman, year 17</title>
+            <title>Tiruvallam, donation, time of Nandivikramavarman, year 17</title>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:emfr">
@@ -235,11 +235,11 @@ First edited and translated by <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> 
     		
     		<!--<listBibl type="secondary">
     		   Update to ARIE 1890/1(A)
-    			<bibl n="ARIE 1897-1898">
-    				<ptr target="bib:ARIE1897-1898"/>
-    				<citedRange unit="page">18</citedRange>
-    				<citedRange unit="appendix">B/1898</citedRange>
-    				<citedRange unit="item">72</citedRange>
+    			<bibl n="ARIE">
+    				<ptr target="bib:ARIE"/>
+    				<citedRange unit="page"></citedRange>
+    				<citedRange unit="appendix"></citedRange>
+    				<citedRange unit="item"></citedRange>
     			</bibl>
     		</listBibl>-->
     		

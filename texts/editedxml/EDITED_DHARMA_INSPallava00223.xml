@@ -8,8 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Uttiramērūr, Vaikuṇṭhaperumāl, larger platform, southern base, donation of
-					the time of Kampavarman, year 18</title>
+            <title>Uttiramērūr, donation, time of Kampavarman, year 18</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -104,7 +103,7 @@
       		</p>
       		<p>
       			Emm<choice><unclear>ū</unclear><unclear>u</unclear></choice>r teṟkkil aṅkāṭi Iruntu vāḻum maṇṇipākkiḻāṉ kōyilukku Ivaṉ ceyta <hi rend="grantha">dharmma</hi>ttu <gap reason="lost" extent="unknown" unit="character"/>
-<lb n="2" break="no"/>l Ūrkkal cemmai nūṟṟu-k kaḻañcu poṉ koṇṭu ka‡ṭāvōm
+      			<lb n="2" break="no"/>l Ūrkkal cemmai nūṟṟu-k kaḻañcu poṉ koṇṭu ka‡ṭāvōm
       		</p>
       		<p>
       			In-nūṟṟu-k kaḻañcu poṉṉālum <hi rend="grantha">dharmma</hi>-p palicaiyāl m<choice><unclear>ū</unclear><unclear>u</unclear></choice>ṉṟu mañcāṭi-p palicaiyāl vanta poli-y patiṉ aiṅ-kaḻañ<supplied reason="omitted">cu</supplied> poṉṉum Emm<choice><unclear>ū</unclear><unclear>u</unclear></choice>r terkil aṅkāṭi-y vaṭa-ciṟakil mēṟku niṉṟum vara irupatu maṉai <gap reason="lost" extent="unknown" unit="character"/>
@@ -113,20 +112,23 @@
       			<lb n="3"/>poṉṉum Etir āṇṭu tuṭaṅki-y Āṭṭ-āṇṭu-tōṟum Ēṟi-vāriya-p-perumakkaḷē-y Avv-Āṇṭu Im-maṉai-p po<supplied reason="lost">ṉ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
       		</p>
       		<p>     			
+      			<gap reason="lost" extent="unknown" unit="character"/>
       			<lb n="4" break="no"/>mum vayiramēka-taṭākattu-k kuḻi kutti v<choice><orig>iy</orig><reg>i</reg></choice>ppārkaḷ ākavum
       		</p>
       		<p>    		
       			Ipparicu Im-maṇṇipākkiḻāṉ kōyil vayi<unclear>ra</unclear><supplied reason="lost">mēka-taṭāka</supplied> <gap reason="lost" extent="unknown" unit="character"/>
       		</p>
       		<p>      			
-<lb n="5" break="no"/><unclear>ta</unclear> poli-y-ūṭṭu-p poṉ Avv-Āṇṭu Ēṟi-vāriya-p-perumakkaḷē ca<hi rend="grantha">ntrādi</hi><unclear>ttar</unclear> U<unclear>ḷḷa</unclear> taṉai-k kālamum Irati <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost"><hi rend="grantha">sa</hi></supplied>   		
+      			<gap reason="lost" extent="unknown" unit="character"/>
+      			<lb n="5" break="no"/><unclear>ta</unclear> poli-y-ūṭṭu-p poṉ Avv-Āṇṭu Ēṟi-vāriya-p-perumakkaḷē ca<hi rend="grantha">ntrādi</hi><unclear>ttar</unclear> U<unclear>ḷḷa</unclear> taṉai-k kālamum Irati <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost"><hi rend="grantha">sa</hi></supplied>   		
       			<lb n="6" break="no"/><hi rend="grantha">bhaiyōm</hi>
       		</p>
       		<p>
       			I<hi rend="grantha">dha<supplied reason="omitted">r</supplied>mma</hi>ttu citilañ ceytāṉ I<hi rend="grantha">dha<supplied reason="omitted">r</supplied>mma</hi>ttukkum <hi rend="grantha">grā</hi>mattukkum piḻ<choice><orig>aiy</orig><reg>ai</reg></choice>tta pi <gap reason="lost" extent="unknown" unit="character"/>
       		</p>
       		<p>      			
-<lb n="7" break="no"/>k kuṭuttōm mēṟ-colla-p-paṭṭa maṇṇipākki<supplied reason="lost">ḻāṉ</supplied> <gap reason="lost" extent="unknown" unit="character"/>    			      			
+      			<gap reason="lost" extent="unknown" unit="character"/>
+      			<lb n="7" break="no"/>k kuṭuttōm mēṟ-colla-p-paṭṭa maṇṇipākki<supplied reason="lost">ḻāṉ</supplied> <gap reason="lost" extent="unknown" unit="character"/>    			      			
       		</p>    		
       		
       	</div>

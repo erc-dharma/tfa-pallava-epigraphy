@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Uttiramērūr, Vaikuṇṭhaperumāl, donation of the time of Kampavarman, year 15</title>
+            <title>Uttiramērūr, donation, time of Kampavarman, year 15</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -273,4 +273,3 @@ First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6,
       </body>
   </text>
 </TEI>
-<!--smaller platform, northern base-->

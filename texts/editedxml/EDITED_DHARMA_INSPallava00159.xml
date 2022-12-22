@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Parameśvaramaṅgalam, foundation of the time of Nṛpatuṅgavarman, year
+            <title>Parameśvaramaṅgalam, foundation, time of Nṛpatuṅgavarman, year
 					15</title>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
@@ -223,15 +223,14 @@ First edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 1
     			</bibl>
     		</listBibl>
     		
-    		<!--<listBibl type="secondary">
-    		   Update to ARIE 1912.258
-    		   <bibl n="ARIE 1897-1898">
-    				<ptr target="bib:ARIE1897-1898"/>
-    				<citedRange unit="page">18</citedRange>
-    				<citedRange unit="appendix">B/1898</citedRange>
-    				<citedRange unit="item">72</citedRange>
+    		<listBibl type="secondary">
+    		   <bibl n="ARIE">
+    				<ptr target="bib:ARIE1912-1913"/>
+    				<citedRange unit="page">34</citedRange>
+    				<citedRange unit="appendix">B/1912</citedRange>
+    				<citedRange unit="item">258</citedRange>
     			</bibl>
-    		</listBibl>-->
+    		</listBibl>
     		
             </div>
         </body>

@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Brahmadēśam, donation of the time of Kampavarman, year 20</title>
+            <title>Brahmadēśam, donation, time of Kampavarman, year 20</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -109,7 +109,7 @@
 	</p>
 	
 	<p>
-		Ip-poṉṉāl vanta palicai koṇṭu ta<unclear>ṇṇ<choice><orig>i</orig><reg>ī</reg></choice>r a</unclear>ṭṭuvatāka vaittēṉ
+		Ip-poṉṉāl vanta palicai koṇṭu ta<unclear>ṇṇ</unclear><choice><orig><unclear>i</unclear></orig><reg><unclear>ī</unclear></reg></choice><unclear>r a</unclear>ṭṭuvatāka vaittēṉ
 	</p>
 	
 	<p>
