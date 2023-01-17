@@ -51,7 +51,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>Sanskrit spelling influenced by Tamil usage. Grantha <foreign>ṛ</foreign> and <foreign>ra</foreign>, <foreign>pa</foreign> and <foreign>va</foreign> not distinguished. Grantha <foreign>ba</foreign> and <foreign>ya</foreign>, <foreign>bha</foreign> and <foreign>ha</foreign>, <foreign>ga</foreign> and <foreign>śa</foreign> very similar. Tamil medial <foreign>i</foreign> and <foreign>ī</foreign> not distinguished and interchangeable. Tamil oblique suffix <foreign>-iṉ</foreign> with initial <foreign>i</foreign>. The punctuation marks, <foreign>gomūtra</foreign>-like, at the end of stanzas have various forms. In several instances, the first element looks like a <foreign>visarga</foreign>, whereas in other instances, there is really a <foreign>visarga</foreign> at the end of the verse. Hyphen-like horizontal line occasionaly used at the hemistiche. For further paleaographical details, see <bibl
+							<p>Sanskrit spelling influenced by Tamil usage. Grantha <foreign>ṛ</foreign> and <foreign>ra</foreign>, <foreign>pa</foreign> and <foreign>va</foreign> not distinguished. Grantha <foreign>ba</foreign> and <foreign>ya</foreign>, <foreign>bha</foreign> and <foreign>ha</foreign>, <foreign>ga</foreign> and <foreign>śa</foreign> very similar. Tamil medial <foreign>i</foreign> and <foreign>ī</foreign> not distinguished and interchangeable. Tamil oblique suffix <foreign>-iṉ</foreign> with initial <foreign>i</foreign>. The punctuation marks, <foreign>gomūtra</foreign>-like, at the end of stanzas have various forms. In several instances, the first element looks like a <foreign>visarga</foreign>, whereas in other instances, there is really a <foreign>visarga</foreign> at the end of the verse. Hyphen-like horizontal line occasionally used at the hemistiche. For further paleaographical details, see <bibl
 									n="EH"><ptr target="bib:Hultzsch1925-1926_01"/><citedRange
 										unit="page">5-6</citedRange></bibl>.</p>
 						</handDesc>
@@ -117,12 +117,12 @@
 		<lg n="2" met="praharṣiṇī">
 			<l n="a">śrī-bhartuś śayana-parasya netre </l>
 			<l n="b">yat teja<supplied reason="omitted">ḥ</supplied> sthiti-laya-sū<lb n="1r4=4" break="no"/>ti-hetuḥ </l>
-			<l n="c">tan-nābher ajani samasta-bījam</l>
+			<l n="c">tan-nābher ajani samasta-b<choice><orig>i</orig><reg>ī</reg></choice>jam</l>
 			<l n="d">abjam ātma-yonis tato bhavat :|-</l>
 		</lg>
 		
 		<lg n="3" met="anuṣṭubh">
-			<l n="a"><lb n="1r5=5"/>a<supplied reason="omitted">ṃ</supplied>girās tata utpan<unclear>n</unclear>o</l>
+			<l n="a"><lb n="1r5=5"/>A<supplied reason="omitted">ṃ</supplied>girās tata utpan<unclear>n</unclear>o</l>
 			<l n="b">loka-nāthāc catur-mmukhāt</l>
 			<l n="c">bṛhaspatis tato <lb n="1r6=6"/>mantr<choice><orig>i</orig><reg>ī</reg></choice></l>
 			<l n="d">śakrasya vala-bhedinaḥ |―</l>
@@ -255,9 +255,9 @@
 		</lg>
 			
 		<lg n="22" met="anuṣṭubh">
-			<l n="a">ceṭṭu<lb n="2v6=33" break="no"/>p-pākkam phal-ādhāraṃ</l>
+			<l n="a">ceṭṭu<lb n="2v6=33" break="no"/>p-pākkam phalādhāraṃ</l>
 			<l n="b">grāmam ekam a<unclear>thā</unclear>param‧</l>
-			<l n="c" enjamb="yes">grāma<choice><sic>ḥ</sic><corr>ṃ</corr></choice> vidyāviḷāṃgāḍi</l>
+			<l n="c" enjamb="yes">grāma<choice><sic>ḥ</sic><corr>ṃ</corr></choice> vidyāviḷāṃgādi</l>
 			<l n="d">re<choice><sic><choice><unclear>bh</unclear><unclear>h</unclear></choice></sic><corr>ph</corr></choice>ā<lb n="2v7=34" break="no"/>nta-pada-nāmaka<unclear>m‧</unclear> |-</l>
 		</lg>
 			
@@ -383,9 +383,9 @@
 			
 			<lg n="31" met="vasantatilakā">
 			<l n="a">puṇyaṃ samaṃ kṛtavatām‧ parirakṣatāñ ca</l>
-			<l n="b">tad rakṣateti nṛpatir nnṛ<lb n="4v10=75"/>patuṅga varmmā</l>
+			<l n="b">tad rakṣateti nṛpatir nnṛ<lb n="4v10=75"/>patuṅgavarmmā</l>
 			<l n="c">Āgāminaḥ kṣitipat<choice><orig>i</orig><reg>ī</reg></choice>n praṇamaty ajasram‧</l>
-			<l n="d">mūrd<unclear>dhnā mu</unclear>kunda-<unclear>caraṇām</unclear><pb n="5r"/><lb n="5r1=76"/>buja-śekhareṇa :||-</l>
+			<l n="d">mūrd<unclear>dhnā mu</unclear>kunda-<unclear>caraṇā</unclear><supplied reason="omitted">m</supplied><pb n="5r"/><lb n="5r1=76"/>buja-śekhareṇa :||-</l>
 		</lg>
 		 
 			
@@ -401,8 +401,8 @@
 	<head xml:lang="eng">Tamil portion 2 of 2</head>
 			
 		<p>
-			<lb n="5r3=78"/>kaccipēṭṭu k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-paicārattu U<hi rend="grantha">di</hi>to<hi rend="grantha">da</hi>ya peru<supplied reason="omitted">n</supplied>-taṭṭā<supplied reason="omitted">ṉ</supplied> makaṉ mā<hi rend="grantha">de</hi>vi-peru<supplied reason="omitted">n</supplied>-taṭṭā<supplied reason="omitted">ṉ</supplied>
-			<lb n="5r4=79"/>ṉ maka<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">nṛpa</hi>tu<hi rend="grantha">ṃga</hi><supplied reason="omitted">ṉ</supplied> Eḻuttu :||-
+			<lb n="5r3=78"/>kaccipēṭṭu k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-paicārattu U<hi rend="grantha">di</hi>to<hi rend="grantha">da</hi>ya-peru<supplied reason="omitted">n</supplied>-taṭṭā<supplied reason="omitted">ṉ</supplied> makaṉ mā<hi rend="grantha">de</hi>vi-peru<supplied reason="omitted">n</supplied>-taṭṭā
+			<lb n="5r4=79" break="no"/>ṉ maka<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">nṛpa</hi>tu<hi rend="grantha">ṃga</hi><supplied reason="omitted">ṉ</supplied> Eḻuttu :||-
 		</p>
 		
 		<p>
@@ -547,7 +547,7 @@
 		</app>	
 		
 		<app loc="75">
-			<lem>mūrd<unclear>dhnā mu</unclear>kunda-<unclear>caraṇām</unclear></lem>
+			<lem>mūrd<unclear>dhnā mu</unclear>kunda-<unclear>caraṇā</unclear><supplied reason="omitted">m</supplied></lem>
 			<rdg source="bib:Hultzsch1925-1926_01">mūrddhnā mukunda-cara<unclear>ṇām</unclear></rdg>
 		</app>	
 		
