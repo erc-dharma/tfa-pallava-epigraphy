@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -240,7 +240,7 @@ First edited in <bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl> (EI 7, no.
          			<citedRange unit="item">101</citedRange>
          		</bibl>
          		
-         		<bibl>
+         		<bibl n="SN">
          			<ptr target="bib:SankaraNarayanan2016_01"/>
          		</bibl>	
          		
