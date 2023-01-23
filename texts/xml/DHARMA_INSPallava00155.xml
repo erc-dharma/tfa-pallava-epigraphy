@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Grant (<foreign>vidyābhoga</foreign>) of three villages (Ceṭṭuppākkam, Viḷāṅkāṭṭāṅkaṭuvaṉūr and Iṟaippuṇaiccēri) in the Kīḻvaḻivākūrnāṭu in the Aruvānāṭu to the <foreign>vidyāsthāna</foreign> of Vāgūr/Vākūr.</summary>
+						<summary>Grant of three villages (Ceṭṭuppākkam, Viḷāṅkāṭṭāṅkaṭuvaṉūr and Iṟaippuṇaiccēri) in the Kīḻvaḻivākūrnāṭu in the Aruvānāṭu as <foreign>vidyābhoga</foreign> and <foreign>brahmadeya</foreign> to the <foreign>vidyāsthāna</foreign> of Vāgūr/Vākūr.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -290,7 +290,7 @@
 		</lg>
 			
 		<lg n="27" met="anuṣṭubh">
-			<l n="a">hasti-sañcāri-sāmāntān</l>
+			<l n="a">hasti-sañcāri-s<choice><orig>i</orig><corr>ī</corr></choice>māntān</l>
 			<l n="b">ātmānam bahu-manyate</l>
 			<l n="c">yuktān sa<lb n="3r5=41" break="no"/>rvva-parihārair</l>
 			<l n="d">akaratvena rakṣitān |―</l>
@@ -343,7 +343,7 @@
 		
 		<p>
 			tāṅkaḷ-um paṭākai naṭan
-			<lb n="3v8=53" break="no"/>tu kallum kaḷḷiyum n<choice><sic>a</sic><corr>ā</corr></choice>ṭṭi Aṟai-y-ōlai ceytu viṭutaka-v eṉ<unclear>ṟu</unclear>
+			<lb n="3v8=53" break="no"/>tu kallum kaḷḷiyum n<choice><sic>a</sic><corr>ā</corr></choice>ṭṭi Aṟai-y-ōlai ceytu viṭu takav' eṉ<unclear>ṟu</unclear>
 			<lb n="3v9=54"/>nāṭṭārkku-t tirumukam viṭa nāṭṭār tirumukaṅ kaṇṭu toḻutu talai
 			<lb n="3v10=55" break="no"/><unclear>k</unclear>ku vaittu-p paṭākai naṭantu kalluṅ kaḷḷiyu<supplied reason="omitted">m</supplied> nāṭṭi Aṟai-<supplied reason="lost">y</supplied>-<unclear>ō</unclear><supplied reason="lost">lai</supplied>			
 			<pb n="4r"/>
@@ -351,20 +351,21 @@
 		</p>
 		<p>
 			viḷā
-			<lb n="4r2=57" break="no"/>ṅkāṭṭaṅkaṭuvaṉūrk=kuñ ceṭṭuppāk=kattuk=kum-āka Iraṇṭūrk=kuṅ k<choice><orig>i</orig><reg>ī</reg></choice>
+			<lb n="4r2=57" break="no"/>ṅkāṭṭaṅkaṭuvaṉūrk=kuñ ceṭṭuppāk=kattuk=kum-āka Iraṇṭūrk=kuṅ <list><item>k<choice><orig>i</orig><reg>ī</reg></choice>
 			<lb n="4r3=58" break="no"/>ḻpāṟk' ellai kāṭṭu Ellai<choice><orig>Iṉṉ</orig><reg>y-iṉ</reg></choice>um neṉmalippāk=kattu Ellai<choice><orig>I</orig><reg>y-i</reg></choice>ṉ			
-			<lb n="4r4=59"/>mēṟkun teṉpāṟk' ellai neṉmalippākkatt' Ellai<choice><orig>Iṉṉ</orig><reg>y-iṉ</reg></choice>un nelvā
-			<lb n="4r5=60" break="no"/>yippāk=katt' ellai<choice><orig>Iṉṉ</orig><reg>y-iṉ</reg></choice>um Uṟattūr ellaik=ku vaṭak=kum mēlpā
+			<lb n="4r4=59"/>mēṟkun</item> <item>teṉpāṟk' ellai neṉmalippākkatt' Ellai<choice><orig>Iṉṉ</orig><reg>y-iṉ</reg></choice>un nelvā
+			<lb n="4r5=60" break="no"/>yippāk=katt' ellai<choice><orig>Iṉṉ</orig><reg>y-iṉ</reg></choice>um Uṟattūr ellaik=ku vaṭak=kum</item> <item>mēlpā
 			<lb n="4r6=61" break="no"/>ṟk' ellai māmpāk=katt' ellai<choice><orig>Iṉṉ</orig><reg>y-iṉ</reg></choice>um Iv-viḷāṅkāṭṭ<choice><sic>ā</sic><corr>a</corr></choice>ṅkaṭuvaṉū
-			<lb n="4r7=62" break="no"/>r-p pāṟ piramatēyam-ā<choice><orig>I</orig><reg>yi</reg></choice>ṉa Aṟupatu ceṟuvuk=ku k=kiḻakkum vaṭapāṟk' ellai vā
-			<lb n="4r8=63" break="no"/>kūr ellai<choice><orig>I</orig><reg>y-i</reg></choice>ṉ ṟeṟkum			
+			<lb n="4r7=62" break="no"/>r-p pāṟ piramatēyam-ā<choice><orig>I</orig><reg>yi</reg></choice>ṉa Aṟupatu ceṟuvuk=ku k=kiḻakkum</item> <item>vaṭapāṟk' ellai vā
+			<lb n="4r8=63" break="no"/>kūr ellai<choice><orig>I</orig><reg>y-i</reg></choice>ṉ ṟeṟkum</item></list>			
 		</p>
 		
 		<p>
-			Iṟaippuṇaiccērikk' ellai k<choice><orig>i</orig><reg>ī</reg></choice>ḻpāṟkellai natta
-			<lb n="4r9=64" break="no"/>m Uḷḷiṭṭa kāṭṭuk=ku mēṟkun teṉpāṟk' ellai neruñci kuṟumpiṉ Ellai
-			<lb n="4r10=65" break="no"/><choice><orig>I</orig><reg>y-i</reg></choice>ṉ vaṭakku mēlpāṟk' ellai vākūr ellai<choice><orig>I</orig><reg>y-i</reg></choice>ṉ kiḻak=kum vaṭapāṟkellai							<pb n="4v"/>
-			<lb n="4v1=66"/>kiṟimāṉpātti Ellai<choice><orig>I</orig><reg>y-i</reg></choice>ṉ ṟeṟkum-āka
+			Iṟaippuṇaiccērikk' ellai <list><item>k<choice><orig>i</orig><reg>ī</reg></choice>ḻpāṟkellai natta
+			<lb n="4r9=64" break="no"/>m Uḷḷiṭṭa kāṭṭuk=ku mēṟkun</item> <item>teṉpāṟk' ellai neruñci kuṟumpiṉ Ellai
+			<lb n="4r10=65" break="no"/><choice><orig>I</orig><reg>y-i</reg></choice>ṉ vaṭakku</item> <item>mēlpāṟk' ellai vākūr ellai<choice><orig>I</orig><reg>y-i</reg></choice>ṉ kiḻak=kum</item> <item>vaṭapāṟkellai							
+			<pb n="4v"/>
+			<lb n="4v1=66"/>kiṟimāṉpātti Ellai<choice><orig>I</orig><reg>y-i</reg></choice>ṉ ṟeṟkum-āka</item></list>
 		</p>
 		<p>			
 			Ivvicaitta perunāṉk' ellai
@@ -383,7 +384,7 @@
 			
 			<lg n="31" met="vasantatilakā">
 			<l n="a">puṇyaṃ samaṃ kṛtavatām‧ parirakṣatāñ ca</l>
-			<l n="b">tad rakṣateti nṛpatir nnṛ<lb n="4v10=75"/>patuṅgavarmmā</l>
+			<l n="b">tad rakṣateti nṛpatir nnṛ<lb n="4v10=75" break="no"/>patuṅgavarmmā</l>
 			<l n="c">Āgāminaḥ kṣitipat<choice><orig>i</orig><reg>ī</reg></choice>n praṇamaty ajasram‧</l>
 			<l n="d">mūrd<unclear>dhnā mu</unclear>kunda-<unclear>caraṇā</unclear><supplied reason="omitted">m</supplied><pb n="5r"/><lb n="5r1=76"/>buja-śekhareṇa :||-</l>
 		</lg>
@@ -413,12 +414,7 @@
 			
 <div type="apparatus">
 				
-	<listApp>
-		
-		<app loc="0">
-			<lem/>
-			<rdg source="bib:Hultzsch1925-1926_01"/>
-		</app>	
+	<listApp>		
 		
 		<app loc="1">
 			<lem>svast<choice><orig>ī</orig><reg>i</reg></choice> śrī</lem>
@@ -525,13 +521,26 @@
 			<rdg source="bib:Hultzsch1925-1926_01">pūrvvakān</rdg>
 		</app>	
 		
+		<app loc="44">
+			<lem>a<lb n="3r9=45" break="no"/>yam‧</lem>
+			<rdg source="bib:Hultzsch1925-1926_01">ayam</rdg>
+			<note>Hultzsch notes: <quote>The reading <foreign>imām</foreign> would be more suitable.</quote></note>
+		</app>	
+		
+		<app loc="53">
+			<lem>viṭu takav' eṉ<unclear>ṟu</unclear></lem>
+			<rdg source="bib:Vinson1905_01">viṭukka-v eṉru</rdg>			
+			<rdg source="bib:Hultzsch1925-1926_01">viṭu<choice><sic>tka</sic><corr>kka</corr></choice>-v eṉru</rdg>
+			<note>The editor of SII adds in note: <quote>This word may be read as <foreign>viṭutaka</foreign></quote>. See also Zvelebil. We follow here a suggestion by Jean-Luc Chevillard in reading <foreign>viṭu takavu eṉṟu</foreign>, "It is suitable to send".</note>
+		</app>
+		
 		<app loc="61">
 			<lem>viḷāṅkāṭṭ<choice><sic>ā</sic><corr>a</corr></choice>ṅkaṭuvaṉū
 			<lb n="62" break="no"/>r</lem>
 			<rdg source="bib:Hultzsch1925-1926_01">viḷāṅkāṭṭāṅkaṭuvaṉū
 			<lb n="62" break="no"/>r</rdg>
 			<note>In its other two occurrences (lines 49 and 56) this village's name is spelled <foreign>viḷāṅkāṭṭaṅkaṭuvaṉūr</foreign>. See <bibl><ptr target="bib:Hultzsch1925-1926_01"/><citedRange unit="page">15</citedRange><citedRange unit="note">1</citedRange></bibl>.</note>
-		</app>
+		</app>		
 		
 		<app loc="67">
 			<lem>Ū<choice><sic>ma</sic><corr>ru</corr></choice>m</lem>
@@ -609,7 +618,7 @@ whose lotus-feet are rubbed by the diadems of the gods (bowing to him), the unbo
 		</p>
 				
 		<p rend="stanza" n="11">
-			<l>He dispatched arrows, furnishing (them) with provisions for (their) visit of the nether world under the guise of (the blood of those of his) enemies who were not (already) confined in bis own prisons.</l>
+			<l>He dispatched arrows, furnishing (them) with provisions for (their) visit of the nether world under the guise of (the blood of those of his) enemies who were not (already) confined in his own prisons.<note>i.e. he either imprisoned or shot his enemies.</note></l>
 		</p>
 				
 		<p rend="stanza" n="12">
@@ -637,7 +646,6 @@ whose lotus-feet are rubbed by the diadems of the gods (bowing to him), the unbo
 		</p>
 						
 		<p rend="stanza" n="18">
-			<l>Provided by this king with benefits (was) Mārtāṇḍa of the family or Vēśāli, a descendant of the family of Kuru, (and) intent on (affording) refuge to (his) subjects.</l>
 		</p>
 						
 		<p rend="stanza" n="19">
@@ -649,19 +657,19 @@ whose lotus-feet are rubbed by the diadems of the gods (bowing to him), the unbo
 		</p>
 						
 		<p rend="stanza" n="21-23">
-			<l>This promoter of the family of Kuru gave to a seat of learning (<foreign>vidyāsthāna</foreign>) three villages in his own province (<foreign>rāshṭra</foreign>) which, at (his) request, (he had) received, provided with an executor (<foreign>ājñapti</foreign>), from that lord Nṛipatuṅga. viz. the village of Cheṭṭuppākkam, rich in fruit, then another village whose name (consisted of) a word ending in an <foreign>r</foreign> and beginning with Vidyāviḷaṅgā, (and) thirdly the very prosperous (village of) Iṟaippuṇaicchēri.</l>
+			<l>This promoter of the family of Kuru gave to a seat of learning (<foreign>vidyāsthāna</foreign>) three villages in his own province (<foreign>rāshṭra</foreign>) which, at (his) request, (he had) received, provided with an executor (<foreign>ājñapti</foreign>), from that lord Nṛipatuṅga. viz. the village of Cheṭṭuppākkam, rich in fruit, then another village whose name (consisted of) a word ending in an <foreign>r</foreign> and beginning with Vidyāviḷaṅgā,<note>According to the Tamil portion, the full name of this village was Viḷaṅgāṭṭaṅgaḍuvaṉūr, to which the word <foreign>vidyā</foreign> is still prefixed here because it was granted for the promotion of learning.</note> (and) thirdly the very prosperous (village of) Iṟaippuṇaicchēri.</l>
 		</p>
 						
 		<p rend="stanza" n="24-26">
-			<l>Just as the god Dhūrjaṭi (Śiva) carried on the single lock of (his) hair the approaching Mandākiṇī (Gaṅgā), agitated by the velocity of waves, thus the deep river of learning, filled with troops (of scholat·s) from the four directions, stayed after it had filled the seat of the residents of the village of Vāgūr. Therefore they call this seat of scholars a seat of learning.</l>
+			<l>Just as the god Dhūrjaṭi (Śiva) carried on the single lock of (his) hair the approaching Mandākiṇī (Gaṅgā), agitated by the velocity of waves, thus the deep river of learning, filled with troops (of scholars) from the four directions,<note>With <foreign>chaturdiśa-gaṇa</foreign> cf. the expression chātudīsasa <foreign>bhikhu-sa[ṃ*]ghasa</foreign> at Nasik, above, Vol. VIII, p. 73,text line 5.</note> stayed after it had filled the seat of the residents of the village of Vāgūr. Therefore they call this seat of scholars a seat of learning.</l>
 		</p>
 						
 		<p rend="stanza" n="26-27">
-			<l>This ruler of land thinks highly of himself after he has given to those (scholars) the (three) villages, provided with an executor, their limits having been circumambulated by an elephant, accompanied by all immunities, (and) protected by freedom from taxes.</l>
+			<l>This ruler of land thinks highly of himself after he has given to those (scholars) the (three) villages, provided with an executor, their limits having been circumambulated by an elephant,<note>The local authorities fixed the boundaries by letting an elephant walk round the limits. Cf. <foreign>piḍi naḍappittu</foreign> or <foreign>piḍi śūḻntu</foreign> in the Leyden plates, <foreign>passim</foreign>; <foreign>kariṇī-parikramaṇa-vipashṭa-sīmā-chatushṭayam . . . . . grāmam</foreign>, ibid. l. 85 f.; <foreign>ibhī-parīta-sīmānam</foreign>, above, Vol. XV, p. 63, text line 109 f.; <foreign>piḍi śūḻntu</foreign>, ibid., p. 64, text lines 134-136, and p. 65, text line 165: <foreign>piḍi naḍatti</foreign>, Travancore Arch. Series, Vol. II, p. 70.</note> accompanied by all immunities, (and) protected by freedom from taxes.</l>
 		</p>
 						
 		<p rend="stanza" n="28">
-			<l>The executor (was) Uttamaśīla, worshipped by the lord of the three worlds, the minister, resemhling Bṛihaspati, of the glorious king Tuṅgavarman.</l>
+			<l>The executor (was) Uttamaśīla, worshipped by the lord of the three worlds,<note>i.e. king Nṛipatuṅga; see verse 15.</note> the minister, resembling Bṛihaspati, of the glorious king Tuṅgavarman.</l>
 		</p>
 						
 		<p rend="stanza" n="29">
@@ -678,14 +686,14 @@ whose lotus-feet are rubbed by the diadems of the gods (bowing to him), the unbo
 		<head xml:lang="eng">Tamil portion 1 of 2</head>
 		
 		<p n="45">
-			In the eighth year (of the reign) of king Vijaya-Nṛipatuṅgavarman, at the request of Vēśāli-pēraraiyaṉ; Viḍēlviḍugu-Kāḍupaṭṭu-Tamiḻa_pērarāiyaṉ being the executor (<foreign>āṇatti</foreign>). Let the headmen of Kīḻvaḻi-Vāgūr-nāḍu, (a subdivision) of Aruvā-nāḍu, see (this order):</p>
+			In the eighth year (of the reign) of king Vijaya-Nṛipatuṅgavarman, at the request of Vēśāli-pēraraiyaṉ; Viḍēlviḍugu-Kāḍupaṭṭu-Tamiḻa_pērarāiyaṉ being the executor (<foreign>āṇatti</foreign>). Let the headmen of Kīḻvaḻi-Vāgūr-nāḍu, (a subdivision) of Aruvā-nāḍu, see (this order):<note>Cf. line 105 of the Kāśākuḍi plates.</note></p>
 		
 		<p n="48">
 			In the eighth year (of our reign), we have granted three viIlages of <foreign>nāḍu</foreign>, viz. Śeṭṭuppākkam, Viḷāṅgāttaṅgaḍuvaṉūr, and Iṟaippuṇaichchēri,―dispossessing the former tenants, (and) excluding ancient charities and <foreign>Brahmadeyas</foreign>,―to the residents of the seat of learning at Vāgūr as a source of revenue for the promotion of learning (<foreign>vidyā-bhōga</foreign>).
 		</p>		
 				
 		<p n="52">
-			And issued an order (<foreign>tirumugam</foreign>) to the headmen of the <foreign>nāḍu</foreign>, telling them to circumambulate the limits, to plant stones and milk-bush (along the boundaries), and to draw up and submit a report (<foreign>aṟaiyōlai</foreign>)!
+			And issued an order (<foreign>tirumugam</foreign>) to the headmen of the <foreign>nāḍu</foreign>, telling them to circumambulate the limits,<note><foreign>Paḍagai naḍandu</foreign> corresponds to <foreign>paḍāgai valañ=jeyidu</foreign> in line ll0 of the Kāśākuḍi plates; <foreign>piḍāgai valañ=jeydu</foreign> in a Tiruvallam inscription of Nandivikramavarman, SII. Vol. III, p. 91,1. 11; <foreign>piḍāgai naḍantu</foreign> in the Leyden plates, <foreign>passim</foreign>; and <foreign>pradakshiṇi-kṛitya</foreign> in Sanskrit</note> to plant stones and milk-bush (along the boundaries), and to draw up and submit a report (<foreign>aṟaiyōlai</foreign>)!
 		</p>
 				
 		<p n="54">
@@ -693,7 +701,7 @@ whose lotus-feet are rubbed by the diadems of the gods (bowing to him), the unbo
 		</p>
 				
 		<p n="56">
-			According to the report submitted by the headmen of the <foreign>nāḍu</foreign>, the boundaries of the land (granted are as follows):―Of the two villages of Viḷāṅgāttaṅgaḍuvaṉūr and Śeṭṭuppākkam, the eastern boundary is to the west of the boundary of a forest and of the boundary of Neṉmalippākkam; the southern boundary is to the north of the boundary of Neṉmalippākkam, of the boundary of Nelvāyippākkam, and of the boundary of Uṟattūr; the western boundary is to the east of the boundary of Māmbākkam and of sixty rice-fields (<foreign>śeṟuvu</foreign>) which form a <foreign>Brahmadēya</foreign> near this Viḷāṅgāttaṅgaḍuvaṉūr; the northern boundary is to the south of the boundary of Vāgūr.			
+			According to the report submitted by the headmen of the <foreign>nāḍu</foreign>, the boundaries of the land (granted are as follows):―Of the two villages of Viḷāṅgāttaṅgaḍuvaṉūr and Śeṭṭuppākkam, the eastern boundary is to the west of the boundary of a forest and of the boundary of Neṉmalippākkam; the southern boundary is to the north of the boundary of Neṉmalippākkam, of the boundary of Nelvāyippākkam, and of the boundary of Uṟattūr; the western boundary is to the east of the boundary of Māmbākkam and of sixty rice-fields (<foreign>śeṟuvu</foreign>) which form a <foreign>Brahmadēya</foreign> near this Viḷāṅgāttaṅgaḍuvaṉūr;<note>In two other instances (ll. 49, 56 f), the <foreign>ā</foreign> of <foreign>ṭṭā</foreign> is represented by short <foreign>a</foreign>.</note> the northern boundary is to the south of the boundary of Vāgūr.			
 		</p>
 		
 		<p n="63">
@@ -701,8 +709,7 @@ whose lotus-feet are rubbed by the diadems of the gods (bowing to him), the unbo
 		</p>
 				
 		<p n="66">
-			Altogether, the land euclosed by the four great boundaries specitled here, including wet land and dry land, villages and village-buildings, houses and house-gardens, clearings and young trees, waste grounds for grazing, tanks, store-houses, ditches, wells, forests,
-brackish ground, water-courses and breacheds, wherever watter is conducted (?), long harrows are applied, iguanas run, and tortoises creep, not excluding the cultivated land, being joined to Vāgūr itself as a source of revenue for the promotion of learning to the residents of the seat of learning at Vāgūr, enjoying the immunities and agreements, enjoyed by Vāgūr, possessing all immunities, (and) being a <foreign>Brahmadēya</foreign>,―the grant was made.
+			Altogether, the land enclosed by the four great boundaries specified here, including wet land and dry land, villages and village-buildings, houses and house-gardens, clearings and young trees, waste grounds for grazing,<note>TBC</note> tanks, store-houses,<note>TBC</note> ditches, wells, forests, brackish ground, water-courses and breaches,<note>TBC</note> wherever watter is conducted (?), long harrows are applied,<note>TBC</note> iguanas run, and tortoises creep, not excluding the cultivated land,<note>TBC</note> being joined<note>TBC</note> to Vāgūr itself as a source of revenue for the promotion of learning to the residents of the seat of learning at Vāgūr, enjoying the immunities and agreements,<note>TBC</note> enjoyed by Vāgūr, possessing all immunities, (and) being a <foreign>Brahmadēya</foreign>,―the grant was made.<note>TBC</note>
 		</p>
 			
 	</div>
@@ -817,7 +824,7 @@ brackish ground, water-courses and breacheds, wherever watter is conducted (?), 
 		</p>
 						
 		<p rend="stanza" n="20">
-			<l>...</l>
+			<l>... <note><foreign>nilaitāṃgi</foreign> is a Tamil word, meaning "support of the earth".</note></l>
 		</p>
 						
 		<p rend="stanza" n="21">
@@ -869,17 +876,20 @@ brackish ground, water-courses and breacheds, wherever watter is conducted (?), 
 		</p>
 		
 		<p n="46-48">
-			...
+			May the <foreign>nāṭṭār</foreign>s of the Kīḻvaḻivākūrnāṭu in the Aruvānāṭu see <supplied reason="subaudible">what follows, which is made</supplied> at the petition of Vēcālippēraraiyaṉ, whereas Viṭēlviṭukukāṭupaṭṭittamiḻppēraraiyaṉ is the executor.
 		</p>		
 				
 		<p n="48-52">
-			...
+			In their <foreign>nāṭu</foreign>, Ceṭṭuppākkam, Viḷaṅkāṭṭaṅkaṭuvaṉūr, and Iṟaippuṇaiccēri, these three <supplied reason="subaudible">villages</supplied>, after removing the old pious donations and <foreign>brahmadeya</foreign>s, after ousting the earlier possessors, in <supplied reason="subaudible">our</supplied> seventh year, we have ordered <supplied reason="subaudible">their donation</supplied> as <foreign>vidyābhoga</foreign> for the members of the <foreign>vidyāsthāna</foreign> of Vākūr.
 		</p>
 				
-		<p n="52-56">
-			...
+		<p n="52-53">
+			It is suitable <supplied reason="explanation"><foreign>takavu</foreign></supplied> that themselves, <supplied reason="subaudible">after</supplied> having walked <supplied reason="subaudible">with</supplied> the flag <supplied reason="explanation"><foreign>paṭākai naṭantu</foreign><note><ptr target="bib:Vinson1905_01"/> translates (p. 225) as "en marchant avec la bannière" and comments (p. 237) "puis ils vont solennellement, précédés du drapeau ou de la bannière, reconnaître le terrain concédé". <ptr target="bib:Hultzsch1925-1926_01"/> translates as "circumambulate the limits" and provides parallels in note.</note></supplied>, having planted stones and thorny bushes, and having made the palm-leaves settling this <supplied reason="explanation"><foreign>aṟaiyōlai</foreign></supplied>, send <supplied reason="explanation"><foreign>viṭutaka</foreign></supplied> <supplied reason="subaudible">them</supplied>.
 		</p>
-				
+		
+		<p n="52-53">
+			While the royal order specifying <supplied reason="explanation"><foreign>eṉṟu</foreign></supplied> <supplied reason="subaudible">the above</supplied> was sent to the <foreign>nāṭṭār</foreign>s, the <foreign>nāṭṭār</foreign>s having seen the order <supplied reason="explanation"><foreign>tirumukam</foreign></supplied>, having payed homage <supplied reason="subaudible">to it</supplied>, having put <supplied reason="subaudible">it</supplied> on their heads, having walked <supplied reason="subaudible">with</supplied> the flag <supplied reason="explanation"><foreign>paṭākai</foreign></supplied>, having planted stones and thorny bushes, having made the palm-leaves settling this <supplied reason="explanation"><foreign>aṟaiyōlai</foreign></supplied>,  the boundaries to the land according <supplied reason="explanation"><foreign>paṭi</foreign></supplied> to the palm-leaves settling this <supplied reason="explanation"><foreign>aṟaiyōlai</foreign></supplied> that the <foreign>nāṭṭār</foreign>s sent <supplied reason="subaudible">are as follows</supplied>:
+		</p>		
 		<p n="56-63">
 			As for both Viḷāṃkāṭṭāṅkaṭuvaṉūr and Ceṭṭuppākkam: 
 			
@@ -890,10 +900,8 @@ brackish ground, water-courses and breacheds, wherever watter is conducted (?), 
 			
 		</p>
 		
-		<p n="63-66">
-			
-			As for the boundaries of Iṟaippuṇaiccēri: 
-			
+		<p n="63-66">			
+			As for the boundaries of Iṟaippuṇaiccēri:			
 			<l>the eastern-side boundary <supplied reason="subaudible">is</supplied> west of the forest which includes the <foreign>nattam</foreign>;</l>
 			<l>the southern-side boundary <supplied reason="subaudible">is</supplied> north of the boundary of the <foreign>neruñci kuṟumpu</foreign>;</l>
 			<l>the western-side boundary <supplied reason="subaudible">is</supplied> east of the boundary of Vākūr;</l>
@@ -901,7 +909,7 @@ brackish ground, water-courses and breacheds, wherever watter is conducted (?), 
 		</p>
 				
 		<p n="66-74">
-			...
+			The land comprised within these four great boundaries <supplied reason="subaudible">just</supplied> described --- <supplied reason="subaudible">that is,</supplied> wet land, dry land, villages, villages' buildings, houses, gardens of the houses, ... <supplied reason="explanation"><foreign>maṉṟu</foreign></supplied>, waste land for grazing calves <supplied reason="explanation"><foreign>kaṉṟu mey pāl</foreign></supplied>, tanks, store-houses, canals, wells, forests, ... <supplied reason="explanation"><foreign>kaḷar</foreign></supplied>, ... <supplied reason="explanation"><foreign>ōṭai</foreign></supplied>, ... <supplied reason="explanation"><foreign>uṭaippu</foreign></supplied>, <supplied reason="subaudible">all these</supplied> included, ... <supplied reason="explanation"><foreign>nīr pūci neṭu</foreign></supplied>, ... <supplied reason="explanation"><foreign>parampu eṟintu</foreign></supplied>, all <supplied reason="subaudible">the land where</supplied> the iguana runs and the tortoise creeps, the land included <supplied reason="subaudible">in the above</supplied>, without <supplied reason="subaudible">any</supplied> exception --- becoming a <foreign>vidyābhoga</foreign> for the members of the <foreign>vidyāsthāna</foreign> of Vākūr, being joined with Vākūr, having obtained the exemptions and agreements that Vākūr has obtained, being endowed with all exemptions, becoming a <foreign>brahmadeya</foreign>, <supplied reason="subaudible">as far as it is concerned</supplied>, a donation <supplied reason="subaudible">as described above</supplied> goes.
 		</p>
 	</div>
 	
@@ -1115,7 +1123,7 @@ Puis Droṇa, le grand archer qui montre au combat le courage de Śakra. </l>
       	<div type="commentary">
 
       		<p>Online images: https://gallica.bnf.fr/ark:/12148/btv1b52509208s. Note that plate 4 recto and verso are interverted.</p>
-      		
+      		<p><ptr target="bib:Mahalingam1988_01"/> dates the plates to circa 877, <ptr target="bib:Brocquet1997_01"/> ro circa 862.</p>
       		<p>About stanza 2, <bibl><ptr target="bib:Hultzsch1925-1926_01"/><citedRange unit="page">6</citedRange></bibl> notes: <quote>The metre of verse 2 is Praharṣiṇī; but its fourth Pāda is Anuṣṭubh, and in each of the two first Pādas the tenth and  eleventh syllables of the Praharṣiṇī metre are missing. I am unable to correct and translate this verse in a satisfactory manner.</quote></p>
       	</div>
 
