@@ -51,9 +51,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>Sanskrit spelling influenced by Tamil usage. Grantha <foreign>ṛ</foreign> and <foreign>ra</foreign>, <foreign>pa</foreign> and <foreign>va</foreign> not distinguished. Grantha <foreign>ba</foreign> and <foreign>ya</foreign>, <foreign>bha</foreign> and <foreign>ha</foreign>, <foreign>ga</foreign> and <foreign>śa</foreign> very similar. Tamil medial <foreign>i</foreign> and <foreign>ī</foreign> not distinguished and interchangeable. Tamil oblique suffix <foreign>-iṉ</foreign> with initial <foreign>i</foreign>. The punctuation marks, <foreign>gomūtra</foreign>-like, at the end of stanzas have various forms. In several instances, the first element looks like a <foreign>visarga</foreign>, whereas in other instances, there is really a <foreign>visarga</foreign> at the end of the verse. Hyphen-like horizontal line occasionally used at the hemistiche. For further paleaographical details, see <bibl
-									n="EH"><ptr target="bib:Hultzsch1925-1926_01"/><citedRange
-										unit="page">5-6</citedRange></bibl>.</p>
+							<p>Sanskrit spelling influenced by Tamil usage. Grantha <foreign>ṛ</foreign> and <foreign>ra</foreign>, <foreign>pa</foreign> and <foreign>va</foreign> not distinguished. Grantha <foreign>ba</foreign> and <foreign>ya</foreign>, <foreign>bha</foreign> and <foreign>ha</foreign>, <foreign>ga</foreign> and <foreign>śa</foreign> very similar. Tamil medial <foreign>i</foreign> and <foreign>ī</foreign> not distinguished and interchangeable. Tamil medial <foreign>u</foreign> and <foreign>ū</foreign> not always distinguished and interchangeable.Tamil oblique suffix <foreign>-iṉ</foreign> with initial <foreign>i</foreign>. The punctuation marks, <foreign>gomūtra</foreign>-like, at the end of stanzas have various forms. In several instances, the first element looks like a <foreign>visarga</foreign>, whereas in other instances, there is really a <foreign>visarga</foreign> at the end of the verse. Hyphen-like horizontal line occasionally used at the hemistiche. For further paleaographical details, see <bibl n="EH"><ptr target="bib:Hultzsch1925-1926_01"/><citedRange unit="page">5-6</citedRange></bibl>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -374,7 +372,7 @@
 			<lb n="4v4=69" break="no"/>muṅ kiṭaṅkuṅ kēṇiyuṅ kāṭuṅ kaḷarum Ōṭaiyum Uṭaipp-um Uḷḷiṭṭu n<choice><orig>i</orig><reg>ī</reg></choice><unclear>r</unclear>
 			<lb n="4v5=70" break="no"/>pūci neṭum paramp' eṟintu Uṭump' ōṭi Āmai tavaḻntat' ellā
 			<lb n="4v6=71" break="no"/>m Uṇṇilaṉ oḻi-v-iṉṟi vākūr-<hi rend="grantha">vidyā-sthā</hi>ṉattārkku <hi rend="grantha">vidyā</hi><surplus><gap reason="illegible" quantity="1" unit="character"/></surplus>				
-			<lb n="4v7=72" break="no"/><hi rend="grantha">bhogam</hi>-āyi vākūrōṭē Ēṟi vākūr peṟṟa pari<hi rend="grantha">hā</hi>ram-um <hi rend="grantha">vyavastai</hi><unclear>yu</unclear>
+			<lb n="4v7=72" break="no"/><hi rend="grantha">bhogam</hi>-āyi vākūrōṭē Ēṟi vākūr peṟṟa pari<hi rend="grantha">hā</hi>ram-um <hi rend="grantha">vyavas<choice><sic>te</sic><corr>thai</corr></choice></hi><unclear>yu</unclear>
 			<lb n="4v8=73" break="no"/>m peṟṟu <hi rend="grantha">sarvva-parihā</hi>ram-āyi <hi rend="grantha">brahma</hi>tēyam-āyi-p para<hi rend="grantha">datti</hi> ceṉṟa
 			<lb n="4v9=74" break="no"/> tu :||⸺</p>
 	</div>
@@ -862,7 +860,7 @@
 		</p>
 						
 		<p rend="stanza" n="30">
-			<l>...</l>
+			<l>... <note>It is noteworthy that the author of the Sanskrit portion is linked to Vāgūr.</note></l>
 		</p>
 	</div>
 	
@@ -1127,7 +1125,7 @@ Puis Droṇa, le grand archer qui montre au combat le courage de Śakra. </l>
       	</div>
 
          <div type="bibliography">
-<p>Tamil portion edited in Tamil script by <bibl><ptr target="bib:Vinson1903_01"/></bibl>; first fully edited and translated into French by <bibl><ptr target="bib:Vinson1905_01"/></bibl>; re-edited by <bibl><ptr target="bib:KrishnaSastri1916_01"/></bibl> (postscript to SII 2, no. 98); corrections and translation by <bibl><ptr target="bib:Jouveau-Dubreuil1917_01"/></bibl>; re-edited and translated into English by <bibl><ptr target="bib:Hultzsch1925-1926_01"/></bibl> (EI 18, no. 2), with fasimiles; re-edited and translated into Tamil by <bibl><ptr target="bib:Subrahmaniam1966_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 155); Sanskrit text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 62); <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR no. 91); re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2022), based on previous editions, mostly that by <bibl><ptr target="bib:Hultzsch1925-1926_01"/></bibl>, photographs, and autopsy of the original plates in the BnF.
+<p>Tamil portion edited in Tamil script by <bibl><ptr target="bib:Vinson1903_01"/></bibl>; first fully edited (in Nāgarī, Tamil script, and transliteration) and translated into French by <bibl><ptr target="bib:Vinson1905_01"/></bibl>; re-edited by <bibl><ptr target="bib:KrishnaSastri1916_01"/></bibl> (postscript to SII 2, no. 98); corrections and translation by <bibl><ptr target="bib:Jouveau-Dubreuil1917_01"/></bibl>; re-edited and translated into English by <bibl><ptr target="bib:Hultzsch1925-1926_01"/></bibl> (EI 18, no. 2), with fasimiles; re-edited and translated into Tamil by <bibl><ptr target="bib:Subrahmaniam1966_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 155); Sanskrit text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 62); <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR no. 91); re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2022), based on previous editions, mostly that by <bibl><ptr target="bib:Hultzsch1925-1926_01"/></bibl>, photographs, and autopsy of the original plates in the BnF.
 	
             </p>
 
