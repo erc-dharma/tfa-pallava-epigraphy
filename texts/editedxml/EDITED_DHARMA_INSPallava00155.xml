@@ -51,7 +51,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>Sanskrit spelling influenced by Tamil usage. Grantha <foreign>ṛ</foreign> and <foreign>ra</foreign>, <foreign>pa</foreign> and <foreign>va</foreign> not distinguished. Grantha <foreign>ba</foreign> and <foreign>ya</foreign>, <foreign>bha</foreign> and <foreign>ha</foreign>, <foreign>ga</foreign> and <foreign>śa</foreign> very similar. Tamil medial <foreign>i</foreign> and <foreign>ī</foreign> not distinguished and interchangeable. Tamil oblique suffix <foreign>-iṉ</foreign> with initial <foreign>i</foreign>. The punctuation marks, <foreign>gomūtra</foreign>-like, at the end of stanzas have various forms. In several instances, the first element looks like a <foreign>visarga</foreign>, whereas in other instances, there is really a <foreign>visarga</foreign> at the end of the verse. Hyphen-like horizontal line occasionally used at the hemistiche. For further paleaographical details, see <bibl n="EH">
+                     <p>Sanskrit spelling influenced by Tamil usage. Grantha <foreign>ṛ</foreign> and <foreign>ra</foreign>, <foreign>pa</foreign> and <foreign>va</foreign> not distinguished. Grantha <foreign>ba</foreign> and <foreign>ya</foreign>, <foreign>bha</foreign> and <foreign>ha</foreign>, <foreign>ga</foreign> and <foreign>śa</foreign> very similar. Tamil medial <foreign>i</foreign> and <foreign>ī</foreign> not distinguished and interchangeable. Tamil medial <foreign>u</foreign> and <foreign>ū</foreign> not always distinguished and interchangeable.Tamil oblique suffix <foreign>-iṉ</foreign> with initial <foreign>i</foreign>. The punctuation marks, <foreign>gomūtra</foreign>-like, at the end of stanzas have various forms. In several instances, the first element looks like a <foreign>visarga</foreign>, whereas in other instances, there is really a <foreign>visarga</foreign> at the end of the verse. Hyphen-like horizontal line occasionally used at the hemistiche. For further paleaographical details, see <bibl n="EH">
                            <ptr target="bib:Hultzsch1925-1926_01"/>
                            <citedRange unit="page">5-6</citedRange>
                         </bibl>.</p>
@@ -182,7 +182,7 @@
 		</lg>
 			
 		<lg n="11" met="anuṣṭubh">
-			<l n="a">Ātmano bandi-yuktānā<unclear>ṃ</unclear></l>
+			<l n="a">Ātmano bandi-yuktān<supplied reason="omitted">y</supplied>ā<unclear>ṃ</unclear></l>
 			<l n="b">ya<lb n="1v8=17" break="no"/>mālaya-didṛ<choice><orig>t</orig><reg>k</reg></choice>ṣayā –</l>
 			<l n="c">pātheyam iva kṛtvār<choice><orig>i</orig><reg>ī</reg></choice>n</l>
 			<l n="d"><choice><sic>pa</sic><corr>kā</corr></choice>ṇḍāni visa<supplied reason="omitted">sa</supplied>rjja yaḥ | -</l>
@@ -219,7 +219,7 @@
 		<lg n="16" met="anuṣṭubh">
 			<l n="a">yat-prasādā<supplied reason="omitted">r</supplied>jjitā senā</l>
 			<l n="b">pāṇḍyena samare purā</l>
-			<l n="c"><lb n="2r7=25"/>pāre’ricit sa rāja<unclear reason="eccentric ductus">gn</unclear>ir </l>
+			<l n="c"><lb n="2r7=25"/>pārericit sa rāja<unclear reason="eccentric ductus">gn</unclear>ir </l>
 			<l n="d">ddadāha ripu-saṃhatim· ||-</l>
 		</lg>
 			
@@ -240,7 +240,7 @@
 		<lg n="19" met="anuṣṭubh">
 			<l n="a">śaśivat tilako loke</l>
 			<l n="b">gāmbhīryyādau <lb n="2v2=29"/>samudravat</l>
-			<l n="c">sū<supplied reason="omitted">r</supplied>yyavad rakṣaṇāl lokā<choice><sic>n</sic>	<corr>ṃl</corr></choice></l>
+			<l n="c">sū<supplied reason="omitted">r</supplied>yyavad rakṣaṇāl lokā<choice><sic>n</sic><corr>ṃl</corr></choice></l>
 			<l n="d">lokānān nilayo nṛpaḥ ||-</l>
 		</lg>
 			
@@ -266,7 +266,7 @@
 		</lg>
 			
 		<lg n="23" met="anuṣṭubh">
-			<l n="a">tasmad iṟaippuṉaiccerin</l>
+			<l n="a">tasmād iṟaippuṉaiccerin</l>
 			<l n="b">tṛtīyaṃ sarvva-<unclear>sampa</unclear>dam</l>
 			<l n="c"><unclear>E</unclear>vaṃ <lb n="2v8=35"/>grāma-trayaṃ labdha<choice><orig>m</orig><reg>ṃ</reg></choice></l>
 			<l n="d">vidyā-sthānāya dattavān ||-</l>
@@ -378,7 +378,7 @@
 			<lb n="4v4=69" break="no"/>muṅ kiṭaṅkuṅ kēṇiyuṅ kāṭuṅ kaḷarum Ōṭaiyum Uṭaipp-um Uḷḷiṭṭu n<choice><orig>i</orig><reg>ī</reg></choice><unclear>r</unclear>
 			<lb n="4v5=70" break="no"/>pūci neṭum paramp’ eṟintu Uṭump’ ōṭi Āmai tavaḻntat’ ellā
 			<lb n="4v6=71" break="no"/>m Uṇṇilaṉ oḻi-v-iṉṟi vākūr-<hi rend="grantha">vidyā-sthā</hi>ṉattārkku <hi rend="grantha">vidyā</hi><surplus><gap reason="illegible" quantity="1" unit="character"/></surplus>				
-			<lb n="4v7=72" break="no"/><hi rend="grantha">bhogam</hi>-āyi vākūrōṭē Ēṟi vākūr peṟṟa pari<hi rend="grantha">hā</hi>ram-um <hi rend="grantha">vyavastai</hi><unclear>yu</unclear>
+			<lb n="4v7=72" break="no"/><hi rend="grantha">bhogam</hi>-āyi vākūrōṭē Ēṟi vākūr peṟṟa pari<hi rend="grantha">hā</hi>ram-um <hi rend="grantha">vyavas<choice><sic>te</sic><corr>thai</corr></choice></hi><unclear>yu</unclear>
 			<lb n="4v8=73" break="no"/>m peṟṟu <hi rend="grantha">sarvva-parihā</hi>ram-āyi <hi rend="grantha">brahma</hi>tēyam-āyi-p para<hi rend="grantha">datti</hi> ceṉṟa
 			<lb n="4v9=74" break="no"/> tu: ||⸺</p>
 	</div>
@@ -528,7 +528,7 @@
 		<app loc="44">
 			<lem>a<lb n="3r9=45" break="no"/>yam‧</lem>
 			<rdg source="bib:Hultzsch1925-1926_01">ayam</rdg>
-			<note>Hultzsch notes: <quote>The reading <foreign>imām</foreign> would be more suitable.</quote></note>
+			<note>Hultzsch notes: <quote>The reading <foreign>imām</foreign> would be more suitable.</quote> But see <ptr target="bib:Brocquet1997_01"/> (p. 741, fn. 1476):<quote>Les autres éditeurs proposent <foreign>imām</foreign> au lieu de <foreign>ayam</foreign>. Cette correction est possible, mais pas absolument nécessaire; <foreign>praśastim</foreign>, en effet, peut être dépourvu de démonstatif, et <foreign>ayam</foreign> servir de déterminant à <foreign>nāgayaḥ</foreign>, ce qui aurait pour effet de mettre en relief le nom de l’auteur.</quote></note>
 		</app>	
 		
 		<app loc="53">
@@ -584,25 +584,23 @@
 		</p>
 						
 		<p rend="stanza" n="1">
-			<l>Let Madhu’s destroyer (Vishṇu) grant you prosperity, the lotus-eyed one,
-whose lotus-feet are rubbed by the diadems of the gods (bowing to him), the unborn one, (who became) the means of the destruction of demons that terrified the whole world!</l>
+			<l>Let Madhu’s destroyer (Viṣṇu) grant you prosperity, the lotus-eyed one, whose lotus-feet are rubbed by the diadems of the gods (bowing to him), the unborn one, (who became) the means of the destruction of demons that terrified the whole world!</l>
 		</p>
 		
 		<p rend="stanza" n="2">
-			<l>In the eye of the sleeping husband of Śrī (Vishṇu) was produced the luminary’
-(i.e. the Sun?), (which is) the means of duration, destruction, and production. From (Vishṇu’s) navel arose a lotus-flower, the germ or all. From this (flower) the self-born one (Brahmā) was produced.</l>
+			<l>In the eye of the sleeping husband of Śrī (Viṣṇu) was produced the luminary’ (i.e. the Sun?), (which is) the means of duration, destruction, and production. From (Viṣṇu’s) navel arose a lotus-flower, the germ or all. From this (flower) the self-born one (Brahmā) was produced.</l>
 		</p>
 				
 		<p rend="stanza" n="3">
-			<l>From this rour-mouthed lord or fhe world, Aṅgiras was born, (and) from the latter, Bṛihaspati, the minister of Śakra (Indra), the splitter of (the demon) Vala.</l>
+			<l>From this four-mouthed lord or fhe world, Aṅgiras was born, (and) from the latter, Bṛhaspati, the minister of Śakra (Indra), the splitter of (the demon) Vala.</l>
 		</p>
 				
 		<p rend="stanza" n="4">
-			<l>From him was born Śaṃyu; from him, he who was named Bharadvāja; from him, the great archer Drōṇa, whose valour equalled that of Śakra in battle.</l>
+			<l>From him was born Śaṃyu; from him, he who was named Bharadvāja; from him, the great archer Droṇa, whose valour equalled that of Śakra in battle.</l>
 		</p>
 				
 		<p rend="stanza" n="5">
-			<l>From this Drōṇa was produced, it is said, hy a portion or Pinākin (Śiva) the long-armed Aśvatthāman, who was skilled in all fights.</l>
+			<l>From this Droṇa was produced, it is said, hy a portion or Pinākin (Śiva) the long-armed Aśvatthāman, who was skilled in all fights.</l>
 		</p>
 				
 		<p rend="stanza" n="6">
@@ -610,11 +608,11 @@ whose lotus-feet are rubbed by the diadems of the gods (bowing to him), the unbo
 		</p>
 				
 		<p rend="stanza" n="7">
-			<l>From his family arose a group (or kings) commencing with Vimala and Koṅkaṇika, which was bowed to by the wives of enemies; which imposed commands even on other rulers of men; which was much beloved; (and) which continually shouted ’victory.’</l>
+			<l>From his family arose a group (of kings) commencing with Vimala and Koṅkaṇika, which was bowed to by the wives of enemies; which imposed commands even on other rulers of men; which was much beloved; (and) which continually shouted ’victory.’</l>
 		</p>
 				
 		<p rend="stanza" n="8-9">
-			<l>Then, after Vimala, etc., having enjoyed by their own valour the earth girt by the four oceans, had gone to heaven on aerial cars, there was the long-armed (king) Dantivarman, who resembled Purandara (Indra), showed firm devotion to Mura’s foe (Vishṇu), (and) was bowed to by the diadems of the rulers of the earth.</l>
+			<l>Then, after Vimala, etc., having enjoyed by their own valour the earth girt by the four oceans, had gone to heaven on aerial cars, there was the long-armed (king) Dantivarman, who resembled Purandara (Indra), showed firm devotion to Mura’s foe (Viṣṇu), (and) was bowed to by the diadems of the rulers of the earth.</l>
 		</p>
 						
 		<p rend="stanza" n="10">
@@ -626,11 +624,11 @@ whose lotus-feet are rubbed by the diadems of the gods (bowing to him), the unbo
 		</p>
 				
 		<p rend="stanza" n="12">
-			<l>From Dantivorman was born that long-armed Nandivarman who subdued the earth unaided in battle.</l>
+			<l>From Dantivarman was born that long-armed Nandivarman who subdued the earth unaided in battle.</l>
 		</p>
 				
 		<p rend="stanza" n="13">
-			<l>Just as Lakshmī (is the consort) of Mura’s foe (Vishṇu), (the wife) of Nandivarman was the slender queen named Śaṅkhā, who was born in the Rāshṭrakūṭa family.</l>
+			<l>Just as Lakṣmī (is the consort) of Mura’s foe (Viṣṇu), (the wife) of Nandivarman was the slender queen named Śaṅkhā, who was born in the Rāṣṭrakūṭa family.</l>
 		</p>
 				
 		<p rend="stanza" n="14">
@@ -638,18 +636,19 @@ whose lotus-feet are rubbed by the diadems of the gods (bowing to him), the unbo
 		</p>
 				
 		<p rend="stanza" n="15">
-			<l>By her who possessed intelligence, beauty, arts, etc., was born the virtuous Nṛipatungadeva, the lord of the three worlds, noble by birth, resembling the rising sun in splendour, (and) victorious in fights wiIh arrows.</l>
+			<l>By her who possessed intelligence, beauty, arts, etc., was born the virtuous Nṛpatuṅgadeva, the lord of the three worlds, noble by birth, resembling the rising sun in splendour, (and) victorious in fights with arrows.</l>
 		</p>
 				
 		<p rend="stanza" n="16">
-			<l>Resembling fire, this king, by whose favour the Pāṇḍya had obtained an army formerly, burnt a confederation of enemies in a battle on the further bank of the Arichit (river).</l>
+			<l>Resembling fire, this king, by whose favour the Pāṇḍya had obtained an army formerly, burnt a confederation of enemies in a battle on the further bank of the Aricit (river).</l>
 		</p>
 						
 		<p rend="stanza" n="17">
-			<l>Even in his youth (this) lord of the world (was) renowned (by the name) of Nṛipatunga (i.e. ’the high one among rulers of men ’). (He was) renowned not only on earth, (but) even in the other (world), like Rāma.</l>
+			<l>Even in his youth (this) lord of the world (was) renowned (by the name) of Nṛpatuṅga (i.e. ’the high one among rulers of men ’). (He was) renowned not only on earth, (but) even in the other (world), like Rāma.</l>
 		</p>
 						
 		<p rend="stanza" n="18">
+			<l>Provided by this king with benefits (was) Mārtāṇḍa of the family of Veśāli, <note>Verse 19 and 20 suggest that the word <foreign>Mārtāṇḍa</foreign> (i.e. the sun) is not a mere metaphor (<foreign>rūpakam</foreign>), but has to be taken here as a proper name.</note> a descendant of the family of Kuru, (and) intent on (affording) refuge to (his) subjects.</l>
 		</p>
 						
 		<p rend="stanza" n="19">
@@ -657,31 +656,31 @@ whose lotus-feet are rubbed by the diadems of the gods (bowing to him), the unbo
 		</p>
 						
 		<p rend="stanza" n="20">
-			<l>Theerefore the (sun)name Nilaitāṅgi (i. e. ’the support of the world’) (was as) suitable to this ruler of men as (unto) a god, or because (his real) name (Mārtāṇḍa, i.e. the sun) was quite manifest (to all).</l>
+			<l>Theerefore the (sur)name Nilaitāṅgi (i. e. ’the support of the world’) (was as) suitable to this ruler of men as (unto) a god, or because (his real) name (Mārtāṇḍa, i.e. the sun) was quite manifest (to all).</l>
 		</p>
 						
 		<p rend="stanza" n="21-23">
-			<l>This promoter of the family of Kuru gave to a seat of learning (<foreign>vidyāsthāna</foreign>) three villages in his own province (<foreign>rāshṭra</foreign>) which, at (his) request, (he had) received, provided with an executor (<foreign>ājñapti</foreign>), from that lord Nṛipatuṅga. viz. the village of Cheṭṭuppākkam, rich in fruit, then another village whose name (consisted of) a word ending in an <foreign>r</foreign> and beginning with Vidyāviḷaṅgā,<note>According to the Tamil portion, the full name of this village was Viḷaṅgāṭṭaṅgaḍuvaṉūr, to which the word <foreign>vidyā</foreign> is still prefixed here because it was granted for the promotion of learning.</note> (and) thirdly the very prosperous (village of) Iṟaippuṇaicchēri.</l>
+			<l>This promoter of the family of Kuru gave to a seat of learning (<foreign>vidyāsthāna</foreign>) three villages in his own province (<foreign>rāṣṭra</foreign>) which, at (his) request, (he had) received, provided with an executor (<foreign>ājñapti</foreign>), from that lord Nṛpatuṅga. viz. the village of Ceṭṭuppākkam, rich in fruit, then another village whose name (consisted of) a word ending in an <foreign>r</foreign> and beginning with Vidyāviḷaṅgā,<note>According to the Tamil portion, the full name of this village was Viḷaṅkāṭṭaṅkaṭuvaṉūr, to which the word <foreign>vidyā</foreign> is still prefixed here because it was granted for the promotion of learning.</note> (and) thirdly the very prosperous (village of) Iṟaippuṇaiccēri.</l>
 		</p>
 						
 		<p rend="stanza" n="24-26">
-			<l>Just as the god Dhūrjaṭi (Śiva) carried on the single lock of (his) hair the approaching Mandākiṇī (Gaṅgā), agitated by the velocity of waves, thus the deep river of learning, filled with troops (of scholars) from the four directions,<note>With <foreign>chaturdiśa-gaṇa</foreign> cf. the expression chātudīsasa <foreign>bhikhu-sa[ṃ*]ghasa</foreign> at Nasik, above, Vol. VIII, p. 73,text line 5.</note> stayed after it had filled the seat of the residents of the village of Vāgūr. Therefore they call this seat of scholars a seat of learning.</l>
+			<l>Just as the god Dhūrjaṭi (Śiva) carried on the single lock of (his) hair the approaching Mandākiṇī (Gaṅgā), agitated by the velocity of waves, thus the deep river of learning, filled with troops (of scholars) from the four directions,<note>With <foreign>caturdiśa-gaṇa</foreign> cf. the expression cātudīsasa <foreign>bhikhu-sa[ṃ*]ghasa</foreign> at Nasik, above, Vol. VIII, p. 73, text line 5.</note> stayed after it had filled the seat of the residents of the village of Vāgūr. Therefore they call this seat of scholars a seat of learning.</l>
 		</p>
 						
 		<p rend="stanza" n="26-27">
-			<l>This ruler of land thinks highly of himself after he has given to those (scholars) the (three) villages, provided with an executor, their limits having been circumambulated by an elephant,<note>The local authorities fixed the boundaries by letting an elephant walk round the limits. Cf. <foreign>piḍi naḍappittu</foreign> or <foreign>piḍi śūḻntu</foreign> in the Leyden plates, <foreign>passim</foreign>; <foreign>kariṇī-parikramaṇa-vipashṭa-sīmā-chatushṭayam . . . . . grāmam</foreign>, ibid. l. 85 f.; <foreign>ibhī-parīta-sīmānam</foreign>, above, Vol. XV, p. 63, text line 109 f.; <foreign>piḍi śūḻntu</foreign>, ibid., p. 64, text lines 134-136, and p. 65, text line 165: <foreign>piḍi naḍatti</foreign>, Travancore Arch. Series, Vol. II, p. 70.</note> accompanied by all immunities, (and) protected by freedom from taxes.</l>
+			<l>This ruler of land thinks highly of himself after he has given to those (scholars) the (three) villages, provided with an executor, their limits having been circumambulated by an elephant,<note>The local authorities fixed the boundaries by letting an elephant walk round the limits. Cf. <foreign>piṭi naṭappittu</foreign> or <foreign>piṭi cūḻntu</foreign> in the Leyden plates, <foreign>passim</foreign>; <foreign>kariṇī-parikramaṇa-vipaṣṭa-sīmā-catuṣṭayam . . . . . grāmam</foreign>, ibid. l. 85 f.; <foreign>ibhī-parīta-sīmānam</foreign>, above, Vol. XV, p. 63, text line 109 f.; <foreign>piṭi cūḻntu</foreign>, ibid., p. 64, text lines 134-136, and p. 65, text line 165: <foreign>piṭi naṭatti</foreign>, Travancore Arch. Series, Vol. II, p. 70.</note> accompanied by all immunities, (and) protected by freedom from taxes.</l>
 		</p>
 						
 		<p rend="stanza" n="28">
-			<l>The executor (was) Uttamaśīla, worshipped by the lord of the three worlds,<note>i.e. king Nṛipatuṅga; see verse 15.</note> the minister, resembling Bṛihaspati, of the glorious king Tuṅgavarman.</l>
+			<l>The executor (was) Uttamaśīla, worshipped by the lord of the three worlds,<note>i.e. king Nṛpatuṅga; see verse 15.</note> the minister, resembling Bṛhaspati, of the glorious king Tuṅgavarman.</l>
 		</p>
 						
 		<p rend="stanza" n="29">
-			<l>The descendant of Kuru himself entreats future kings:-’As this charity is common (to all kings), it must be preserved (by you as well)!’</l>
+			<l>The descendant of Kuru himself entreats future kings:―’As this charity is common (to all kings), it must be preserved (by you as well)!’</l>
 		</p>
 						
 		<p rend="stanza" n="30">
-			<l>The servant of the seat of learning of the residents of the village of Vāgūr, the pious Nāgaya, who knew the truth of sciences, composed this eulogy (<foreign>praśasti</foreign>)~</l>
+			<l>The servant of the seat of learning of the residents of the village of Vāgūr, the pious Nāgaya, who knew the truth of sciences, composed this eulogy (<foreign>praśasti</foreign>).</l>
 		</p>
 		
 	</div>
@@ -690,30 +689,30 @@ whose lotus-feet are rubbed by the diadems of the gods (bowing to him), the unbo
 		<head xml:lang="eng">Tamil portion 1 of 2</head>
 		
 		<p n="45">
-			In the eighth year (of the reign) of king Vijaya-Nṛipatuṅgavarman, at the request of Vēśāli-pēraraiyaṉ; Viḍēlviḍugu-Kāḍupaṭṭu-Tamiḻa_pērarāiyaṉ being the executor (<foreign>āṇatti</foreign>). Let the headmen of Kīḻvaḻi-Vāgūr-nāḍu, (a subdivision) of Aruvā-nāḍu, see (this order):<note>Cf. line 105 of the Kāśākuḍi plates.</note></p>
+			In the eighth year (of the reign) of king Vijaya-Nṛpatuṅgavarman, at the request of Veśāli-pēraraiyaṉ; Viṭēlviṭugu-Kāṭupaṭṭu-Tamiḻa-pērarāiyaṉ being the executor (<foreign>āṇatti</foreign>). Let the headmen of Kīḻvaḻi-Vākūr-nāṭu, (a subdivision) of Aruvā-nāṭu, see (this order):<note>Cf. line 105 of the Kācākuṭi plates.</note></p>
 		
 		<p n="48">
-			In the eighth year (of our reign), we have granted three viIlages of <foreign>nāḍu</foreign>, viz. Śeṭṭuppākkam, Viḷāṅgāttaṅgaḍuvaṉūr, and Iṟaippuṇaichchēri,―dispossessing the former tenants, (and) excluding ancient charities and <foreign>Brahmadeyas</foreign>,―to the residents of the seat of learning at Vāgūr as a source of revenue for the promotion of learning (<foreign>vidyā-bhōga</foreign>).
+			In the eighth year (of our reign), we have granted three viIlages of <foreign>nāṭu</foreign>, viz. Ceṭṭuppākkam, Viḷāṅkāttaṅkaṭuvaṉūr, and Iṟaippuṇaiccēri,―dispossessing the former tenants, (and) excluding ancient charities and <foreign>Brahmadeyas</foreign>,―to the residents of the seat of learning at Vākūr as a source of revenue for the promotion of learning (<foreign>vidyā-bhōga</foreign>).
 		</p>		
 				
 		<p n="52">
-			And issued an order (<foreign>tirumugam</foreign>) to the headmen of the <foreign>nāḍu</foreign>, telling them to circumambulate the limits,<note><foreign>Paḍagai naḍandu</foreign> corresponds to <foreign>paḍāgai valañ=jeyidu</foreign> in line ll0 of the Kāśākuḍi plates; <foreign>piḍāgai valañ=jeydu</foreign> in a Tiruvallam inscription of Nandivikramavarman, SII. Vol. III, p. 91,1. 11; <foreign>piḍāgai naḍantu</foreign> in the Leyden plates, <foreign>passim</foreign>; and <foreign>pradakshiṇi-kṛitya</foreign> in Sanskrit</note> to plant stones and milk-bush (along the boundaries), and to draw up and submit a report (<foreign>aṟaiyōlai</foreign>)!
+			And issued an order (<foreign>tirumukam</foreign>) to the headmen of the <foreign>nāṭu</foreign>, telling them to circumambulate the limits,<note><foreign>Paṭakai naṭandu</foreign> corresponds to <foreign>paṭākai valañ ceyitu</foreign> in line 110 of the Kācākuṭi plates; <foreign>piṭākai valañ ceytu</foreign> in a Tiruvallam inscription of Nandivikramavarman, SII. Vol. III, p. 91,1. 11; <foreign>piṭākai naṭantu</foreign> in the Leyden plates, <foreign>passim</foreign>; and <foreign>pradakṣiṇi-kṛtya</foreign> in Sanskrit</note> to plant stones and milk-bush (along the boundaries), and to draw up and submit a report (<foreign>aṟaiyōlai</foreign>)!
 		</p>
 				
 		<p n="54">
-			When the headmen of the <foreign>nāḍu</foreign> saw the order, thet raised (their) joined hands (before it), placed (it) on (their) heads, circumambulated the limits, planted stones and milk-bush, and drew up a report.
+			When the headmen of the <foreign>nāṭu</foreign> saw the order, thet raised (their) joined hands (before it), placed (it) on (their) heads, circumambulated the limits, planted stones and milk-bush, and drew up a report.
 		</p>
 				
 		<p n="56">
-			According to the report submitted by the headmen of the <foreign>nāḍu</foreign>, the boundaries of the land (granted are as follows):―Of the two villages of Viḷāṅgāttaṅgaḍuvaṉūr and Śeṭṭuppākkam, the eastern boundary is to the west of the boundary of a forest and of the boundary of Neṉmalippākkam; the southern boundary is to the north of the boundary of Neṉmalippākkam, of the boundary of Nelvāyippākkam, and of the boundary of Uṟattūr; the western boundary is to the east of the boundary of Māmbākkam and of sixty rice-fields (<foreign>śeṟuvu</foreign>) which form a <foreign>Brahmadēya</foreign> near this Viḷāṅgāttaṅgaḍuvaṉūr;<note>In two other instances (ll. 49, 56 f), the <foreign>ā</foreign> of <foreign>ṭṭā</foreign> is represented by short <foreign>a</foreign>.</note> the northern boundary is to the south of the boundary of Vāgūr.			
+			According to the report submitted by the headmen of the <foreign>nāṭu</foreign>, the boundaries of the land (granted are as follows):―Of the two villages of Viḷāṅkāttaṅkaṭuvaṉūr and Ceṭṭuppākkam, the eastern boundary is to the west of the boundary of a forest and of the boundary of Neṉmalippākkam; the southern boundary is to the north of the boundary of Neṉmalippākkam, of the boundary of Nelvāyippākkam, and of the boundary of Uṟattūr; the western boundary is to the east of the boundary of Māmpākkam and of sixty rice-fields (<foreign>ceṟuvu</foreign>) which form a <foreign>Brahmadeya</foreign> near this Viḷāṅkāttaṅkaṭuvaṉūr;<note>In two other instances (ll. 49, 56 f.), the <foreign>ā</foreign> of <foreign>ṭṭā</foreign> is represented by short <foreign>a</foreign>.</note> the northern boundary is to the south of the boundary of Vākūr.			
 		</p>
 		
 		<p n="63">
-			The boundaries of Iṟaippuṇaichchēri (are):―The eastern boundary is to the west of a forest surrounding the village (<foreign>nattam</foreign>); the southern boundary is to the north of the boundary of Neruñjikuṟumbu; the western boundary is to the east of the boundary of Vāgūr; and the western boundary is to the south of the boundary of Kiṟimāṉpātti.
+			The boundaries of Iṟaippuṇaiccēri (are):―The eastern boundary is to the west of a forest surrounding the village (<foreign>nattam</foreign>); the southern boundary is to the north of the boundary of Neruñcikuṟumpu; the western boundary is to the east of the boundary of Vākūr; and the western boundary is to the south of the boundary of Kiṟimāṉpātti.
 		</p>
 				
 		<p n="66">
-			Altogether, the land enclosed by the four great boundaries specified here, including wet land and dry land, villages and village-buildings, houses and house-gardens, clearings and young trees, waste grounds for grazing,<note>TBC</note> tanks, store-houses,<note>TBC</note> ditches, wells, forests, brackish ground, water-courses and breaches,<note>TBC</note> wherever watter is conducted (?), long harrows are applied,<note>TBC</note> iguanas run, and tortoises creep, not excluding the cultivated land,<note>TBC</note> being joined<note>TBC</note> to Vāgūr itself as a source of revenue for the promotion of learning to the residents of the seat of learning at Vāgūr, enjoying the immunities and agreements,<note>TBC</note> enjoyed by Vāgūr, possessing all immunities, (and) being a <foreign>Brahmadēya</foreign>,―the grant was made.<note>TBC</note>
+			Altogether, the land enclosed by the four great boundaries specified here, including wet land and dry land, villages and village-buildings, houses and house-gardens, clearings and young trees, waste grounds for grazing,<note>These three doubtful terms occur also in line 281 of the Leyden plates, and in the Aṉpil plates, above, Vol. XV, p. 65. text line 167 f., where they are translated by ’halls, wastes in which the calves graze.’ I adopt M. Vinson’s renderings of <foreign>maṉṟum</foreign> and <foreign>kaṉṟum</foreign> (as the Leyden plates read for <foreign>kaṉṟu</foreign>).</note> tanks, store-houses,<note>For <foreign>koṭṭakāram</foreign>, see S.I.I., Vol. Il, p. 61, n. 2; above, Vol. XV, p. 71, n. 3; Travancore Arch. Series, Vol.. Ill, p 177, n. 3.</note> ditches, wells, forests, brackish ground, water-courses and breaches,<note>See S.I.I., Vol. III, p. 64, n. 1.</note> wherever watter is conducted (?), long harrows are applied,<note>The expression <foreign>nīr pūci</foreign> occurs also in line 284 of the Leyden plates and <foreign>neṭum paramp-eṟintu</foreign> in line 305 (which ought to have been numbered 285) of the same. Both terms are used in line 434 ot the Tiruvālaṅkāṭu plates, S.I.I., Vol. III, p. 410.</note> iguanas run, and tortoises creep, not excluding the cultivated land,<note>See S.I.I., Vol. III, p. 109, n. 2.</note> being joined<note><foreign>ēṟi</foreign> may be the intransitive form of <foreign>ēṟṟi</foreign>, ’having joined.’</note> to Vākūr itself as a source of revenue for the promotion of learning to the residents of the seat of learning at Vākūr, enjoying the immunities and agreements,<note>For <foreign>vyavasthā</foreign>, see S.I.I., Vol. I, No. 40, ll. 20 and 56; Vol. II, No. 98, ll. 58 and 62.</note> enjoyed by Vākūr, possessing all immunities, (and) being a <foreign>Brahmadeya</foreign>,―the grant was made.<note>The, two words <foreign>paradatti ceṉṟatu</foreign> occur also in line 133 of the Kācākuṭi plates, and in line 63 of the Vēlūrpāḷaiyam plates (S.I.I., Vol. II, p. 509), where I would read <foreign>paradatti</foreign> (with Grantha <foreign>da</foreign>) instead of <foreign>paraṭatti</foreign> and cancel the note on p. xiii of the Addenda aud Corrigenda. The Aṉpil plates (above, Vol. XV, p. 65, text line 180 f.) read <foreign>paradetti</foreign> for <foreign>paradatti</foreign>.</note>
 		</p>
 			
 	</div>
@@ -723,11 +722,11 @@ whose lotus-feet are rubbed by the diadems of the gods (bowing to him), the unbo
 		<head xml:lang="eng">Sanskrit portion 2 of 2</head>
 		
 		<p rend="stanza" n="31">
-			<l>’The good works of those who perform (them) and of those who preserve (them) are equally (meritorious). Therefore preserve you (this gift)!’ Thus (requesting them), king Nṛipatuṅgavarman perpetually bows (his) head, which bears on its crest the lotus feet of Mnkunda (Vishṇu), to future kings.</l>
+			<l>’The good works of those who perform (them) and of those who preserve (them) are equally (meritorious). Therefore preserve you (this gift)!’ Thus (requesting them), king Nṛpatuṅgavarman perpetually bows (his) head, which bears on its crest the lotus feet of Mukunda (Viṣṇu), to future kings.</l>
 		</p>
 						
 		<p rend="stanza" n="32">
-			<l>The ornament of the family of Uditodita, the goldsmith named Nṛipatuṅga, who was skilled in all sciences (and) a hereditary servant of the Pallava family, wrote (this).</l>
+			<l>The ornament of the family of Uditodita, the goldsmith named Nṛpatuṅga, who was skilled in all sciences (and) a hereditary servant of the Pallava family, wrote (this).</l>
 		</p>
 	</div>
 	
@@ -735,14 +734,13 @@ whose lotus-feet are rubbed by the diadems of the gods (bowing to him), the unbo
 		<head xml:lang="eng">Tamil portion 2 of 2</head>
 		
 		<p n="78">
-			The writing of Nṛipatuṅga, the son of Mādēvi-perundaṭṭāṉ (who was) the son of on of Uditōdaya-perundaṭṭāṉ, (a resident) of Kīḻ-Paiśāram in Kachchippēḍu.
+			The writing of Nṛipatuṅga, the son of Mātēvi-peruntaṭṭāṉ (who was) the son of Uditodaya-peruntaṭṭāṉ, (a resident) of Kīḻ-Paicāram in Kaccippēṭu.
 		</p>
 	</div>
 	
 </div>
 			
-			
-			<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
 	<div type="textpart" n="A">		
 		<head xml:lang="eng">Sanskrit portion 1 of 2</head>
@@ -812,7 +810,7 @@ whose lotus-feet are rubbed by the diadems of the gods (bowing to him), the unbo
 		</p>
 				
 		<p rend="stanza" n="16">
-			<l>...</l>
+			<l>... <note>On the Aricit River and the Pāṇdya king see <bibl n="EH"><ptr target="bib:Hultzsch1925-1926_01"/><citedRange unit="page">7</citedRange></bibl>: <quote>The name of this river must be a Sanskritized form of Aricil, a branch branch of the Kāvērī which enters the sea at Kāraikkāl (Karikal), [fn3: SI.I.I, vol. II, p. 25, n. 3]. It may be concluded from verse 16 that Nṛpatuṅga allied himself with a Pāṇḍya king and undertook an expedition into the dominions of the Coḷa king.</quote></note></l>
 		</p>
 						
 		<p rend="stanza" n="17">
@@ -828,7 +826,7 @@ whose lotus-feet are rubbed by the diadems of the gods (bowing to him), the unbo
 		</p>
 						
 		<p rend="stanza" n="20">
-			<l>... <note><foreign>nilaitāṃgi</foreign> is a Tamil word, meaning “support of the earth”.</note></l>
+			<l>... <note>The word <foreign>nilaitāṃgi</foreign> written here in Grantha character is a Tamil word, meaning “support (<foreign>tāṅki</foreign>) of the earth (<foreign>nilai</foreign>)" .</note></l>
 		</p>
 						
 		<p rend="stanza" n="21">
@@ -868,7 +866,7 @@ whose lotus-feet are rubbed by the diadems of the gods (bowing to him), the unbo
 		</p>
 						
 		<p rend="stanza" n="30">
-			<l>...</l>
+			<l>... <note>It is noteworthy that the author of the Sanskrit portion is linked to Vāgūr.</note></l>
 		</p>
 	</div>
 	
@@ -912,7 +910,7 @@ whose lotus-feet are rubbed by the diadems of the gods (bowing to him), the unbo
 		</p>
 				
 		<p n="66-74">
-			The land comprised within these four great boundaries <supplied reason="subaudible">just</supplied> described --- <supplied reason="subaudible">that is,</supplied> wet land, dry land, villages, villages’ buildings, houses, gardens of the houses, ... <supplied reason="explanation"><foreign>maṉṟu</foreign></supplied>, waste land for grazing calves <supplied reason="explanation"><foreign>kaṉṟu mey pāl</foreign></supplied>, tanks, store-houses, canals, wells, forests, ... <supplied reason="explanation"><foreign>kaḷar</foreign></supplied>, ... <supplied reason="explanation"><foreign>ōṭai</foreign></supplied>, ... <supplied reason="explanation"><foreign>uṭaippu</foreign></supplied>, <supplied reason="subaudible">all these</supplied> included, ... <supplied reason="explanation"><foreign>nīr pūci neṭu</foreign></supplied>, ... <supplied reason="explanation"><foreign>parampu eṟintu</foreign></supplied>, all <supplied reason="subaudible">the land where</supplied> the iguana runs and the tortoise creeps, the land included <supplied reason="subaudible">in the above</supplied>, without <supplied reason="subaudible">any</supplied> exception --- becoming a <foreign>vidyābhoga</foreign> for the members of the <foreign>vidyāsthāna</foreign> of Vākūr, being joined with Vākūr, having obtained the exemptions and agreements that Vākūr has obtained, being endowed with all exemptions, becoming a <foreign>brahmadeya</foreign>, <supplied reason="subaudible">as far as it is concerned</supplied>, a donation <supplied reason="subaudible">as described above</supplied> goes.
+			The land comprised within these four great boundaries <supplied reason="subaudible">just</supplied> described --- <supplied reason="subaudible">that is,</supplied> wet land <supplied reason="explanation"><foreign>nīr-nilam</foreign></supplied>, dry land <supplied reason="explanation"><foreign>puñ-cey</foreign></supplied>, villages <supplied reason="explanation"><foreign>ūr</foreign></supplied>, villages’ buildings <supplied reason="explanation"><foreign>ūr-irukkai</foreign></supplied>, houses <supplied reason="explanation"><foreign>maṉai</foreign></supplied>, gardens of the houses <supplied reason="explanation"><foreign>māṉai-p-paṭappu</foreign></supplied>, ... <supplied reason="explanation"><foreign>maṉṟu</foreign></supplied>, waste land for grazing calves <supplied reason="explanation"><foreign>kaṉṟu mey pāl</foreign></supplied>, tanks <supplied reason="explanation"><foreign>kuḷam</foreign></supplied>, store-houses <supplied reason="explanation"><foreign>koṭṭakāram</foreign></supplied>, canals <supplied reason="explanation"><foreign>kiṭaṅku</foreign></supplied>, wells <supplied reason="explanation"><foreign>kēṇi</foreign></supplied>, forests <supplied reason="explanation"><foreign>kāṭu</foreign></supplied>, ... <supplied reason="explanation"><foreign>kaḷar</foreign></supplied>, ... <supplied reason="explanation"><foreign>ōṭai</foreign></supplied>, ... <supplied reason="explanation"><foreign>uṭaippu</foreign></supplied>, including <supplied reason="explanation"><foreign>uḷḷiṭṭu</foreign></supplied> <supplied reason="subaudible">all these</supplied>, ... <supplied reason="explanation"><foreign>nīr pūci neṭu</foreign></supplied>, ... <supplied reason="explanation"><foreign>paramp’ eṟintu</foreign></supplied>, all <supplied reason="subaudible">the land where</supplied> the iguana runs and the tortoise creeps <supplied reason="explanation"><foreign>uṭump’ ōṭi āmai tavaḻntat’ ellām</foreign></supplied>, the land included <supplied reason="explanation"><foreign>uṇ-ṇilam</foreign></supplied> <supplied reason="subaudible">in the above</supplied>, without <supplied reason="subaudible">any</supplied> exception --- becoming a <foreign>vidyābhoga</foreign> for the members of the <foreign>vidyāsthāna</foreign> of Vākūr, being joined with Vākūr, having obtained the exemptions and agreements that Vākūr has obtained, being endowed with all exemptions, becoming a <foreign>brahmadeya</foreign>, <supplied reason="subaudible">as far as it is concerned</supplied>, a donation <supplied reason="subaudible">as described above</supplied> goes.
 		</p>
 	</div>
 	
@@ -1128,10 +1126,11 @@ Puis Droṇa, le grand archer qui montre au combat le courage de Śakra. </l>
       		<p>Online images: https://gallica.bnf.fr/ark:/12148/btv1b52509208s. Note that plate 4 recto and verso are interverted.</p>
       		<p><ptr target="bib:Mahalingam1988_01"/> dates the plates to circa 877, <ptr target="bib:Brocquet1997_01"/> ro circa 862.</p>
       		<p>About stanza 2, <bibl><ptr target="bib:Hultzsch1925-1926_01"/><citedRange unit="page">6</citedRange></bibl> notes: <quote>The metre of verse 2 is Praharṣiṇī; but its fourth Pāda is Anuṣṭubh, and in each of the two first Pādas the tenth and  eleventh syllables of the Praharṣiṇī metre are missing. I am unable to correct and translate this verse in a satisfactory manner.</quote></p>
+      		<p>The transliteration of Indian terms in the translation by <bibl><ptr target="bib:Hultzsch1925-1926_01"/></bibl> (EI 18, no. 2) reproduced above have been standardised according to the DHARMA Transliteration Guide.</p>
       	</div>
 
          <div type="bibliography">
-<p>Tamil portion edited in Tamil script by <bibl><ptr target="bib:Vinson1903_01"/></bibl>; first fully edited and translated into French by <bibl><ptr target="bib:Vinson1905_01"/></bibl>; re-edited by <bibl><ptr target="bib:KrishnaSastri1916_01"/></bibl> (postscript to SII 2, no. 98); corrections and translation by <bibl><ptr target="bib:Jouveau-Dubreuil1917_01"/></bibl>; re-edited and translated into English by <bibl><ptr target="bib:Hultzsch1925-1926_01"/></bibl> (EI 18, no. 2), with fasimiles; re-edited and translated into Tamil by <bibl><ptr target="bib:Subrahmaniam1966_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 155); Sanskrit text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 62); <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR no. 91); re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2022), based on previous editions, mostly that by <bibl><ptr target="bib:Hultzsch1925-1926_01"/></bibl>, photographs, and autopsy of the original plates in the BnF.
+<p>Tamil portion edited in Tamil script by <bibl><ptr target="bib:Vinson1903_01"/></bibl>; first fully edited (in Nāgarī, Tamil script, and transliteration) and translated into French by <bibl><ptr target="bib:Vinson1905_01"/></bibl>; re-edited by <bibl><ptr target="bib:KrishnaSastri1916_01"/></bibl> (postscript to SII 2, no. 98); corrections and translation by <bibl><ptr target="bib:Jouveau-Dubreuil1917_01"/></bibl>; re-edited in transliteration and translated into English by <bibl><ptr target="bib:Hultzsch1925-1926_01"/></bibl> (EI 18, no. 2), with fasimiles; re-edited and translated into Tamil by <bibl><ptr target="bib:Subrahmaniam1966_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 155); Sanskrit text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 62); <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR no. 91); re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2022), based on previous editions, mostly that by <bibl><ptr target="bib:Hultzsch1925-1926_01"/></bibl>, photographs, and autopsy of the original plates in the BnF.
 	
             </p>
 
