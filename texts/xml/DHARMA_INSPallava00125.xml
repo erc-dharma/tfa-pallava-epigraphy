@@ -90,7 +90,7 @@
           
           <p>	
              <!--‡ First octagonal part-->
-             <lb n="2"/>yāṇṭu <num value="12"><g type="numeral">10</g> 2</num>
+             <lb n="2"/>yāṇṭu <num value="12">10 2</num>
              <lb n="3" break="no"/>-Āvatu
           </p>
           
@@ -106,7 +106,7 @@
              <lb n="11"/>piṭāriy<unclear>ā</unclear>
              <!--‡ Second octagonal part-->
              <lb n="12" break="no"/>rkku
-             <lb n="13"/><num value="400">4 <g type="numeral">100</g></num> pa
+             <lb n="13"/><num value="400">4 100</num> pa
              <lb n="14" break="no"/>ḻaṅ-kā
              <lb n="15" break="no"/>cu kuṭu
              <lb n="16" break="no"/>ttu vi
