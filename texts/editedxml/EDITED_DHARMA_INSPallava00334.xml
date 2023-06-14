@@ -111,7 +111,7 @@
       			<lb n="10" break="no"/>maye<hi rend="grantha">śva</hi>ra
       			<lb n="11" break="no"/>r Ūṭṭa vaitta
       			<lb n="12"/>p<unclear>o</unclear>ṉ paḻaṅ
-      			<lb n="13" break="no"/><supplied reason="lost">kā</supplied>ciṉōṭu <num value="200"><unclear>2 <g type="numeral">100</g></unclear></num>
+      			<lb n="13" break="no"/><supplied reason="lost">kā</supplied>ciṉōṭu <num value="200"><unclear>2 100</unclear></num>
       			<lb n="14"/><seg type="component" subtype="body"><gap reason="lost" unit="component"/></seg><choice><unclear>o</unclear><unclear>ā</unclear></choice>ppatu <hi rend="grantha">śrī</hi>
       			<lb n="15" break="no"/>-kanṭapura<supplied reason="lost">ttu</supplied>
       		</p>
@@ -163,15 +163,15 @@
       			</app>
       			
       			<app loc="13">
-      				<lem> <num value="200"><unclear>2 <g type="numeral">100</g></unclear></num></lem>
-      				<rdg source="bib:Schmid2014_02"> <num value="200"><unclear>2 <g type="numeral">100</g></unclear></num></rdg>
+      				<lem> <num value="200"><unclear>2 100</unclear></num></lem>
+      				<rdg source="bib:Schmid2014_02"> <num value="200"><unclear>2 100</unclear></num></rdg>
       				<note>Alternative reading: <foreign>Uḷ</foreign>.</note>      				
       			</app>
       			
       			<app loc="14">
       				<lem><seg type="component" subtype="body"><gap reason="lost" unit="component"/></seg><choice><unclear>o</unclear><unclear>ā</unclear></choice>ppatu</lem>
       				<rdg source="bib:Schmid2014_02">pipatu</rdg>
-      				<note><ptr target="bib:Mahalingam1988_01"/> appears to read <foreign>oppatu</foreign>, “that which is equal to”, which makes sense. The orginal full reading might be <foreign>yoppatu</foreign>.</note>      				
+      				<note><ptr target="bib:Mahalingam1988_01"/> appears to read <foreign>oppatu</foreign>, "that which is equal to", which makes sense. The orginal full reading might be <foreign>yoppatu</foreign>.</note>      				
       			</app>      
       			
       			<app loc="15">

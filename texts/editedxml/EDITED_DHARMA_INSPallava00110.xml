@@ -150,7 +150,7 @@
   		<p>
   			I<lb n="38" break="no"/><hi rend="grantha">d-dharma</hi>ñ ce
   			<lb n="39" break="no"/>lutti
-  			<lb n="40" break="no"/>ṉāṉ <num value="1000"><g type="numeral">1000</g></num>
+  			<lb n="40" break="no"/>ṉāṉ <num value="1000">1000</num>
   			<lb n="41"/><hi rend="grantha">Aśvame
   			<lb n="42" break="no"/>dha</hi>ñ cey
   			<lb n="43" break="no"/>ta palaṉ
@@ -192,7 +192,7 @@
   			</app>
   			
   			<app loc="40">
-  				<lem><num value="1000"><g type="numeral">1000</g></num></lem>
+  				<lem><num value="1000">1000</num></lem>
   				<note><bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: <quote>This symbol for one thousand occurs in one of the Nānāghāṭ inscriptions. This line has been read by Mr. Gopinatha Rao as <hi rend="italic">°ṉāṛai<!--check original spelling--></hi> which is probably a printer’s mistake for <hi rend="italic">°ṉārai<!--check original spelling--></hi>. The reading <hi rend="italic">°ṉārai</hi> is unlikely as the symbol for <hi rend="italic">ai</hi>, in other cases where it occurs in the inscription (ll. 6, 22 and 30), is not separated from the consonant to which it belongs. Besides the accusative <hi rend="italic">°ṉārai</hi> would be wrong and would have to be corrected into <hi rend="italic">°nāṉ</hi> or <hi rend="italic">°ṉār</hi>.</quote></note>
   			</app>
   			
@@ -203,7 +203,7 @@
   			
   			<app loc="48">
   				<lem>vāraṇāci</lem>
-  				<note><bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: <quote>The length of <hi rend="italic">ṇā</hi> is added to the right of <hi rend="italic">ṇ</hi> and goes up; compare <hi rend="italic">South-Ind. Inscrs.</hi> Vol. I p. 114 and Vol. II p. 200, note 1.</quote></note>
+  				<note><bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> notes: <quote>The length of <hi rend="italic">ṇā</hi> is added to the right of <hi rend="italic">ṇ</hi> and goes up; compare <hi rend="italic">South-Ind. Inscrs.</hi> Vol. I p. 114 and Vol. II p. 200, note 1.</quote></note>
   			</app>
   			
   			<app loc="55">

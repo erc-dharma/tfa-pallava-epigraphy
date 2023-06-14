@@ -149,7 +149,7 @@
          		<app loc="4">
          			<lem>uṇpā<choice><orig><unclear>n</unclear></orig><reg>n</reg></choice> <unclear>ā</unclear><supplied reason="lost">ka</supplied></lem>
          			<rdg source="bib:SubrahmanyaAiyer1928_01">uṇpan āka</rdg>
-         			<note>The letter <foreign>ka</foreign> is nowadays entirely lost, due, presumably, to a damage later than when <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> edited the inscription. </note>
+         			<note>The letter <foreign>ka</foreign> is nowadays entirely lost, due, presumably, to a damage later than when <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> edited the inscription. </note>
          		</app>
          		
          		<app loc="4">
@@ -161,13 +161,13 @@
          		<app loc="5">
          			<lem><choice><sic>natā</sic><corr>nanta</corr></choice>-vaṉam-um</lem>
          			<rdg source="bib:SubrahmanyaAiyer1928_01">na<supplied reason="omitted">n</supplied>tāvaṉamum</rdg>
-         			<note>The MTL<!--update--> records <foreign>nantā-vaṉam</foreign> as a colloquial form of <foreign>nanta-vaṉam</foreign>, “flower garden especially attached to a temple”.</note>
+         			<note>The MTL<!--update--> records <foreign>nantā-vaṉam</foreign> as a colloquial form of <foreign>nanta-vaṉam</foreign>, "flower garden especially attached to a temple".</note>
          		</app>
          		         		
          		<app loc="6">
          			<lem>°<hi rend="grantha">ca</hi>tu<hi rend="grantha"><supplied reason="omitted">r</supplied>vvedi</hi>°</lem>
          			<rdg source="bib:SubrahmanyaAiyer1928_01">°<hi rend="grantha">ca</hi>tu<hi rend="grantha">rvve</hi>ti°</rdg>
-         			<note>The letter <foreign>t</foreign> in <foreign>tu</foreign> is nowadays partially lost, due, presumably, to a damage later than when <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> edited the inscription. </note>
+         			<note>The letter <foreign>t</foreign> in <foreign>tu</foreign> is nowadays partially lost, due, presumably, to a damage later than when <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> edited the inscription. </note>
          		</app>
          		
          	</listApp>

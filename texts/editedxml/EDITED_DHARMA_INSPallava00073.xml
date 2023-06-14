@@ -99,7 +99,7 @@
       		</ab>
       		<p>
       			na<hi rend="grantha">n=di-parmma</hi><choice><orig>k</orig><reg>rk</reg></choice>ku yā<unclear>ṇṭu</unclear>
-      			<lb n="2"/><num value="10"><g type="numeral">10</g></num> ÷
+      			<lb n="2"/><num value="10">10</num> ÷
       		</p>
       		<p>
       			pallava-kula-tilaka <gap reason="lost" quantity="4" unit="character" precision="low"/>
@@ -118,8 +118,8 @@
       		
       		<listApp>
       			<app loc="2">
-      				<lem><num value="10"><g type="numeral">10</g></num> ÷</lem>
-      				<note>It is unclear what the symbol “÷” represents in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>. It seems to be an abbreviated form of the ordinal suffix -<foreign>āvatu</foreign>.</note><!--check and update encoding of ÷ to <g>-->
+      				<lem><num value="10">10</num> ÷</lem>
+      				<note>It is unclear what the symbol "÷" represents in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>. It seems to be an abbreviated form of the ordinal suffix -<foreign>āvatu</foreign>.</note><!--check and update encoding of ÷ to <g>-->
       			</app>
       			
       		</listApp>
