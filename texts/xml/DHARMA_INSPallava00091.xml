@@ -5,167 +5,149 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Tiruvallam rock inscription, time of Nandivarman, year 62</title>
-            <respStmt>
-               <resp>EpiDoc encoding</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
-                  <surname>Francis</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
-                  <surname>Francis</surname>
-               </persName>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <authority>DHARMA</authority>
-            <pubPlace>Paris, CEIAS</pubPlace>
-            <idno type="filename">DHARMA_INSPallava00091</idno>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
-                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tiruvallam rock inscription, time of Nandivarman, year 62</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">DHARMA_INSPallava00091</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
 							Licence. To view a copy of the licence, visit
 							https://creativecommons.org/licenses/by/4.0/ or send a letter to
 							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 							California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-               </licence>
-            </availability>
-            <date from="2019" to="2025">2019-2025</date>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc>
-               <msIdentifier>
-                  <repository>DHARMAbase</repository>
-                  <idno/>
-               </msIdentifier>
-               <msContents>
-                  <summary/>
-               </msContents>
-               <physDesc>
-                  <handDesc>
-                     <p/>
-                  </handDesc>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>The project DHARMA has received funding from the European Research Council (ERC)
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary/>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC)
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
-         </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-         <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
-            </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-               <p>Internal URIs using the part prefix to point to person elements in the
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-            </prefixDef>
-         </listPrefixDef>
-      </encodingDesc>
-      <revisionDesc>
-         <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
-         <change who="part:emfr" when="2020-03-14" status="draft">Creation of the file</change>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:space="preserve">
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:axja" when="2020-11-03" status="draft"
+				>Updating toward the encoding template v03</change>
+			<change who="part:emfr" when="2020-03-14" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
       <body>
 
-         <div type="edition" xml:lang="tam-tam">
-            <!--update structure as for transliteration-->
-            <!--remove Grantha markup for letters common to both alphabets in the Sanskrit phrases-->
-            <p><lb n="1" style="text-align: left"/>𑌓𑌮𑍍 𑌨𑌮𑌶𑍍𑌶𑌿𑌵𑌾𑌯{𑌮𑍍} (𑌸𑍍𑌵)𑌸𑍍𑌤𑌿 𑌶𑍍𑌰𑍀</p>
-            <p>
-               <lb n="2"/>கொவிசையநந்திவிக்கிரமபருமற்கு யா 
-               <lb n="3" break="no"/>ண்டறுப<unclear>த்</unclear>திரண்<unclear>டாவ</unclear>து 𑌸𑌕𑌲𑌜𑌗𑌤𑍍𑌰
-               <lb n="4" break="no"/>𑌯𑌾𑌭𑌿𑌵𑌨𑍍𑌦𑌿𑌤𑌸𑍁𑌰𑌾𑌸𑍁𑌰𑌾𑌧𑍀𑌶𑌪𑌰𑌮𑍇𑌶𑍍𑌵𑌰𑌪𑍍𑌰𑌤𑌿
-               <lb n="5" break="no"/>𑌹𑌾𑌰𑌿𑌕𑍃𑌤𑌮𑌹𑌾𑌵𑌲𑌿𑌕𑍁𑌲𑍋𑌤𑍍𑌭𑌵𑌶𑍍𑌰𑍀மாவலிவாண𑌰𑌾யர்
-               <lb n="6"/>வடு<unclear>கவ</unclear>ழி <unclear>ப</unclear>ன்னீ<choice><orig>ர்ரா</orig><reg>ரா</reg></choice>யிரமும் ஆழ <unclear>வாண</unclear>புரத்து 
-               <lb n="7"/>வட<unclear>சி</unclear>கரகொயில் புதுக்குவித்து இதற்கு இளங்
-               <lb n="8" break="no"/>கிழவர் மகன் மன்றாடிடை அழிஞ்சிற்க<unclear>ளம்</unclear> பட்டி <unclear>வி</unclear>லைக்கு 
-               <lb n="9"/>கொண்டு குடுத்தென் உ<unclear>ற்</unclear>றுக்காட்டு கொட்டத்து <unclear>அ</unclear>ளிங்கணபா<supplied reason="omitted">க்க</supplied>த்து 
-               <lb n="10" break="no"/>கீழகத்து தட்டான் மா<unclear>த</unclear><choice><orig>ந்</orig><reg>ன்</reg></choice> மக<choice><orig>ந்</orig><reg>ன்</reg></choice> <unclear>அ</unclear>ரிதீரன் குடுத்த தெவர் பொகம்
-               <lb n="11" break="no"/>ம<hi rend="grantha">ஹா</hi>வலிவாணராயர் பிடாகை வலஞ்-செய்து கொடுத்தார் இது காத்
-               <lb n="12" break="no"/>தா<unclear>ர் அ</unclear>டி<supplied reason="lost">யெண்  முடி மெ</supplied>லன இது அழித்தான் கடிகை <unclear>எ</unclear>ழா இரு<unclear>வ</unclear>ரையும்
-               <lb n="13"/>கொ<unclear>ன்ற பாவத்து ப</unclear>டுவான் இது அழி<unclear>த்</unclear>தான் இப்பாவத்து<supplied reason="omitted">க்</supplied>கு அஞ்சானாயில் 
-               <lb n="14"/><unclear>அன்</unclear> <gap reason="lost" quantity="2" unit="character"/> கொயிலு<supplied reason="omitted">க்</supplied>கு ஆயிரம் கா<unclear>ணம் த</unclear>ண்டப்படுவொம் வாணபுரத்தொ<unclear>ம்</unclear>
-            </p>
-            
-            <lg n="1" met="anuṣṭubh">
-               <l n="a">
-                  <lb n="15"/><choice><sic>𑌵</sic><corr>𑌬</corr></choice><unclear>𑌹𑍁</unclear>𑌭𑌿<unclear>𑌰𑍍</unclear> 𑌵𑌸𑍁𑌧𑌾 𑌦𑌤𑍍𑌤𑌾
-               </l>
-               <l n="b">
-                  𑌰𑌜<unclear>𑌭𑌿</unclear><supplied reason="omitted">𑌃</supplied> 𑌸𑌕𑌰𑌦𑌿𑌭𑌿<supplied reason="omitted">𑌃</supplied>
-               </l>
-               <l n="c">
-                  𑌯𑌸𑍍𑌯 𑌯𑌸𑍍𑌯 𑌯𑌦𑌾 𑌭𑍂<lb n="16" break="no"/>𑌮𑌿<supplied reason="omitted">𑌸𑍍</supplied>
-               </l>
-               <l n="d">
-                  𑌤𑌸𑍍𑌯 𑌤𑌸𑍍𑌯 𑌤𑌦𑌾 𑌫𑌲𑌮𑍍
-               </l>
-            </lg>
-         </div>
-         
+                  
          <div type="edition" xml:lang="tam-Latn">
             <!--bilingual inscription: sanskrit (l.1), tamil (ll. 2-14), sanskrit (ll.15-16)-->
             <!--Check language statement in teiHeader-->
             <!--Check usage of @xml:lang below-->
             
-            <p xml:lang="san-Latn" rend="grantha">
-               <lb n="1" style="text-align: left"/><hi rend="grantha">Om· namaś śivāya<surplus>m·</surplus> <unclear>sva</unclear>sti śrī</hi>
-            </p>
-            
-            <p xml:lang="tam-Latn">
-               <!--@xml:lang unnecessary here, as already @ of the <div type="edition">??-->
-               <lb n="2"/>kō-vicaiya-nanti-vikkirama-parumaṟku yā 
-               <lb n="3" break="no"/>ṇṭ’ aṟupa<unclear>t</unclear>tiraṇ<unclear>ṭ</unclear>ā<unclear>va</unclear>tu <hi rend="grantha">sakala-jagatra</hi>
-               <lb n="4" break="no"/>yā<hi rend="grantha">bhi</hi>va<hi rend="grantha">ndi</hi>ta-<hi rend="grantha">surāsurādhīśa-parameśvara-prati</hi> 
-               <lb n="5" break="no"/><hi rend="grantha">hārikṛ</hi>ta-<hi rend="grantha">mahā</hi>va<hi rend="grantha">li-kulot·bha</hi>va-<hi rend="grantha">śrī</hi>-māvalivāṇa<hi rend="grantha">rā</hi>yar 
-               <lb n="6"/>vaṭu<unclear>kava</unclear>ḻi <unclear>pa</unclear>ṉṉī<choice><orig>rr</orig><reg>r</reg></choice>āyiramum Āḻa v<unclear>āṇa</unclear>purattu 
-               <lb n="7"/>vaṭa-<unclear>c</unclear>ikara-kōyil putukkuvittu Itaṟku Iḷaṅ
-               <lb n="8" break="no"/>kiḻavar makaṉ maṉṟāṭiṭai Aḻiñciṟka<unclear>ḷam</unclear> paṭṭi <unclear>vi</unclear>laikku 
-               <lb n="9"/>koṇṭu kuṭuttēṉ U<unclear>ṟ</unclear>ṟukkāṭṭu kōṭṭattu <unclear>A</unclear>ḷiṅkaṇa-pā<supplied reason="omitted">kka</supplied>ttu 
-               <lb n="10" break="no"/>kīḻakattu taṭṭāṉ mā<unclear>ta</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> maka<choice><orig>n</orig><reg>ṉ</reg></choice> <unclear>A</unclear>ritīraṉ kuṭutta tēvar pōkam
-               <lb n="11" break="no"/>ma<hi rend="grantha">hā</hi>valivāṇarāyar piṭākai valañ-ceytu koṭuttār Itu kāt
-               <lb n="12" break="no"/>tā<unclear>r A</unclear>ṭi<supplied reason="lost">yeṇ  muṭi mē</supplied>laṉa Itu Aḻittāṉ kaṭikai <unclear>E</unclear>ḻā Iru<unclear>va</unclear>raiyum
-               <lb n="13"/>ko<unclear>ṉṟa pāvattu pa</unclear>ṭuvāṉ Itu Aḻi<unclear>t</unclear>tāṉ Ippāvattu<supplied reason="omitted">k</supplied>ku Añcāṉāyil 
-               <lb n="14"/><unclear>Aṉ</unclear> <gap reason="lost" quantity="2" unit="character"/> kōyilu<supplied reason="omitted">k</supplied>ku Āyiram kā<unclear>ṇam ta</unclear>ṇṭappaṭuvōm vāṇapurattō<unclear>m</unclear>
-            </p>         	
-            
-            <lg n="1" met="anuṣṭubh">
-               <l n="a">
-                  <lb n="15"/><hi rend="grantha"><choice><sic>va</sic><corr>ba</corr></choice><unclear>hu</unclear>bhir<unclear>·</unclear> vasudhā dattā</hi>
-               </l>
-               <l n="b">
-                  <hi rend="grantha">rāja<unclear>bh</unclear>i<supplied reason="omitted">ḥ</supplied> sakaradibhi<supplied reason="omitted">ḥ</supplied></hi>
-               </l>
-               <l n="c">
-                  <hi rend="grantha">yasya yasya yadā bhū<lb n="16" break="no"/>mi<supplied reason="omitted">s</supplied></hi>
-               </l>	
-               <l n="d">
-                  <hi rend="grantha">tasya tasya tadā phalam·</hi>
-               </l>
-            </lg>
-            
+         	<ab xml:lang="san-Latn" rend="grantha">
+         		<lb n="1" style="text-align: left"/><hi rend="grantha">Om· namaś śivāya<surplus>m·</surplus> <unclear>sva</unclear>sti śrī</hi>
+         	</ab>
+         	
+         	<ab xml:lang="tam-Latn">
+         		<!--@xml:lang unnecessary here, as already @ of the <div type="edition">??-->
+         		<lb n="2"/>kō-vicaiya-nanti-vikkirama-parumaṟku yā 
+         		<lb n="3" break="no"/>ṇṭ’ aṟupa<unclear>t</unclear>tiraṇ<unclear>ṭ</unclear>ā<unclear>va</unclear>tu
+         	</ab>
+         	
+         	<p xml:lang="tam-Latn">
+         		<hi rend="grantha">sakala-jagatra</hi>
+         		<lb n="4" break="no"/>yā<hi rend="grantha">bhi</hi>va<hi rend="grantha">ndi</hi>ta-<hi rend="grantha">surāsurādhīśa-parameśvara-prati</hi> 
+         		<lb n="5" break="no"/><hi rend="grantha">hārikṛ</hi>ta-<hi rend="grantha">mahā</hi>va<hi rend="grantha">li-kulot·bha</hi>va-<hi rend="grantha">śrī</hi>-māvalivāṇa<hi rend="grantha">rā</hi>yar 
+         		<lb n="6"/>vaṭu<unclear>kava</unclear>ḻi <unclear>pa</unclear>ṉṉī<choice><orig>rr</orig><reg>r</reg></choice>āyiramum Āḻa v<unclear>āṇa</unclear>purattu 
+         		<lb n="7"/>vaṭa-<unclear>c</unclear>ikara-kōyil putukkuvittu Itaṟku Iḷaṅ
+         		<lb n="8" break="no"/>kiḻavar makaṉ maṉṟāṭiṭai Aḻiñciṟka<unclear>ḷam</unclear> paṭṭi <unclear>vi</unclear>laikku 
+         		<lb n="9"/>koṇṭu kuṭuttēṉ
+         	</p>
+         	<p xml:lang="tam-Latn">	
+         		U<unclear>ṟ</unclear>ṟukkāṭṭu kōṭṭattu <unclear>A</unclear>ḷiṅkaṇa-pā<supplied reason="omitted">kka</supplied>ttu 
+         		<lb n="10" break="no"/>kīḻakattu taṭṭāṉ mā<unclear>ta</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> maka<choice><orig>n</orig><reg>ṉ</reg></choice> <unclear>A</unclear>ritīraṉ kuṭutta tēvar pōkam
+         		<lb n="11" break="no"/>ma<hi rend="grantha">hā</hi>valivāṇarāyar piṭākai valañ-ceytu koṭuttār
+         	</p>
+         	
+         	<p xml:lang="tam-Latn">
+         		Itu kāt
+         		<lb n="12" break="no"/>tā<unclear>r A</unclear>ṭi<supplied reason="lost">yeṇ muṭi mē</supplied>laṉa
+         	</p>
+         	
+         	<p xml:lang="tam-Latn">
+         		Itu Aḻittāṉ kaṭikai <unclear>E</unclear>ḻā Iru<unclear>va</unclear>raiyum
+         		<lb n="13"/>ko<unclear>ṉṟa pāvattu pa</unclear>ṭuvāṉ
+         	</p>
+         	
+         	<p xml:lang="tam-Latn">
+         		Itu Aḻi<unclear>t</unclear>tāṉ Ippāvattu<supplied reason="omitted">k</supplied>ku Añcāṉāyil 
+         		<lb n="14"/><unclear>Aṉ</unclear> <gap reason="lost" quantity="2" unit="character"/> kōyilu<supplied reason="omitted">k</supplied>ku Āyiram kā<unclear>ṇam ta</unclear>ṇṭappaṭuvōm vāṇapurattō<unclear>m</unclear>
+         	</p>         	
+         	
+         	<lg n="1" met="anuṣṭubh">
+         		<l n="a">
+         			<lb n="15"/><hi rend="grantha"><choice><sic>va</sic><corr>ba</corr></choice><unclear>hu</unclear>bhir<unclear>·</unclear> vasudhā dattā</hi>
+         		</l>
+         		<l n="b">
+         			<hi rend="grantha">rāja<unclear>bh</unclear>i<supplied reason="omitted">ḥ</supplied> sakaradibhi<supplied reason="omitted">ḥ</supplied></hi>
+         		</l>
+         		<l n="c">
+         			<hi rend="grantha">yasya yasya yadā bhū<lb n="16" break="no"/>mi<supplied reason="omitted">s</supplied></hi>
+         		</l>	
+         		<l n="d">
+         			<hi rend="grantha">tasya tasya tadā phalam·</hi>
+         		</l>
+         	</lg>
+         	
          </div>
          
          <div type="apparatus">
@@ -251,7 +233,25 @@
 <supplied reason="explanation">is</supplied> the earth at any time, his <supplied reason="explanation">is</supplied> then the reward <supplied reason="explanation">of gifts of land</supplied>.</p>
 	<note type="credit">Translation by Hultzsch (1899). Standardised according to DHARMA TG and EG.</note>
 </div>
-         <div type="translation" xml:lang="fra" resp="part:emfr"/>
+         
+      	<div type="translation" xml:lang="fra" resp="part:emfr">
+      		
+      		<p n="1">Om. Homage to Śiva. Prosperity! Fortune!</p>
+      		<p n="2-3">Sixty-second year of the victorious king Nandivikramavarman.</p>
+      		<p n="3-9">I have given ...</p>
+      		<p n="9-11">The king Mahābalibāṇa has given ...</p>
+      		<p n="11-12">...</p>
+      		<p n="12-13">...</p>
+      		<p n="13-14">...</p>
+      		
+      		<p rend="stanza" n="1">
+      			<l>...</l>
+      			<l>...</l>
+      			<l>...</l>
+      			<l>...</l>
+      		</p>
+
+      	</div>
 
          <div type="commentary">
          	
