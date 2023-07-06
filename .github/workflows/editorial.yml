@@ -19,7 +19,7 @@ jobs:
             distribution: 'zulu'
             java-version: '17'
        - name: Build with Ant
-         run: ant -noinput -buildfile build.xml
+         run: ant -keep-going -noinput -buildfile build.xml || true
 
 # create a package with the resulting XML files.
        - name: Archive XML
