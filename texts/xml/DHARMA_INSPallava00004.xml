@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Guṇapadēya copper plates, time of Śrīvijayaskandavarmamahārāja</title>
+				<title>Guṇapadēya copper plates, time of Śrīvijaya-Skandavarman</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Grant, with all exemptions, of a land at Dālūra to the lord (<foreign>bhagavant</foreign>) Nārāyaṇa of the temple (<foreign>devakula</foreign>) at/of Kūḷimahātāraka.</summary>
+						<summary>Grant, with all exemptions, of a land at Dālūra to the lord (<foreign>bhagavant</foreign>) Nārāyaṇa of the temple (<foreign>devakula</foreign>) at/of Kūḷimahātāraka, by Cārudevī, the spouse of the <foreign>yuvamahārāja</foreign> Śrīvijaya-Buddhavarman.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -95,25 +95,25 @@
 </ab>
 
 <p>
-	<lb n="1v1=1"/>	
-	<lb n="1v2=2"/>
-	<lb n="1v3=3"/>
-	<lb n="1v4=4"/>
+	<lb n="1v1=1"/>siri-vijaya-khandava<unclear reason="eccentric_ductus">mm</unclear>a-mahārājassa saṃvvacharā <gap reason="illegible" quantity="1" unit="character"/> 
+	<lb n="1v2=2"/>yuva-mahārājassa bhāraddāya<unclear>s</unclear>sa pal<unclear>l</unclear>a<unclear>v</unclear>ā
+	<lb n="1v3=3" break="no"/>ṇaṃ si<unclear reason="eccentric_ductus">r</unclear>i-vijaya-buddhavammassa devī <gap reason="illegible" quantity="2" unit="character"/>
+	<lb n="1v4=4" break="no"/>kura-jānavī cārudevī ka<gap reason="illegible" quantity="1" unit="character"/> vīya<gap reason="illegible" quantity="2" unit="character"/>
 	
 	<pb n="2r"/>
-	<fw place="left" n="2v"><num value="2"><g type="numeral">2</g></num></fw>
+	<fw place="left" n="2v"><num value="2">2</num></fw>
 
-	<lb n="2r1=5"/>	
-	<lb n="2r2=6"/>
-	<lb n="2r7=7"/>
+	<lb n="2r1=5"/>rājatalāka-heṭ<unclear>ṭh</unclear>e pāṇiya<gap reason="illegible" quantity="1" unit="character"/>	
+	<lb n="2r2=6" break="no"/>pād-uttare pāse Ātukassa kasita<gap reason="illegible" quantity="1" unit="character"/>
+	<lb n="2r7=7"/>chettaṃ dālūre kū<unclear>l</unclear>i-mahātaraka-devakulassa
 
 	<pb n="2v"/>
-	<fw place="left" n="2v"><num value="3"><g type="numeral">3</g></num></fw>
+	<fw place="left" n="2v"><num value="3">3</num></fw>
 	
-	<lb n="2v1=8"/>	
-	<lb n="2v2=9"/>
-	<lb n="2v3=10"/>
-	<lb n="2v4=11"/>
+	<lb n="2v1=8"/>bhagavan-nārāyaṇassa Amhaṃ Āyu-bala-vaddhanī	
+	<lb n="2v2=9" break="no"/>yaṃ kātūṇa bhūmī-nivattan<unclear>e</unclear> cattāri 4 Amhehiṃ
+	<lb n="2v3=10"/>sampadattā taṃ nātūṇa gāmeyekā Āyuttā
+	<lb n="2v4=11"/>savva-<unclear>pa</unclear>rihārehi pariharatha parihar<unclear>ā</unclear>pe<unclear>tha</unclear>
 </p>
 	
 	<pb n="3r"/>
@@ -186,7 +186,7 @@
       	</div>
 
          <div type="bibliography">
-<p>First edited by <bibl><ptr target="bib:Fleet1880_01"/></bibl> (SOCI no. 74) with facsimile; re-edited by <bibl><ptr target="bib:Hultzsch1905-1906_04"/></bibl> (EI 8, no. 12) with facsimile and English translation; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 4); text and French translation of the Sanskrit portion in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 4); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2023), based on published estampages and photos of the original plates in the British Library (2016).
+<p>First edited in <bibl><ptr target="bib:Fleet1880_01"/></bibl> (SOCI no. 74) with facsimile; corrections in <bibl><ptr target="bib:Buehler1892_01"/><citedRange unit="page">2</citedRange><citedRange unit="note">2</citedRange></bibl> (EI 1, no. 1); corrections in <bibl><ptr target="bib:Hultzsch1900-1901_01"/><citedRange unit="page">88</citedRange><citedRange unit="note">10</citedRange></bibl> (EI 6, no. 1); corrections in <bibl><ptr target="bib:Senart1902-1903_01"/><citedRange unit="page">67, 69</citedRange></bibl> (EI 7, no. 7); re-edited by <bibl><ptr target="bib:Hultzsch1905-1906_04"/></bibl> (EI 8, no. 12) with facsimile and English translation; text and sanskritised text in <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">467-469</citedRange></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 4); text and French translation of the Sanskrit portion in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 1); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2023), based on published estampages and photos of the original plates in the British Library (2016).
             </p>
 
             <listBibl type="primary">
@@ -196,35 +196,55 @@
             		<citedRange unit="page">100-102</citedRange>
             	</bibl>
             	
-            	<bibl n="EH">
+            	<bibl n="EB">
+            		<ptr target="bib:Buehler1892_01"/>
+            	</bibl>
+            	
+            	<bibl n="EH1">
+            		<ptr target="bib:Hultzsch1900-1901_01"/>
+            	</bibl>
+            	
+            	<bibl n="EH2">
             		<ptr target="bib:Hultzsch1905-1906_04"/>
             	</bibl>
+            	
+            	<bibl n="ES">
+            		<ptr target="bib:Senart1902-1903_01"/>
+            	</bibl>
 
+            	<bibl n="DCS">
+            		<ptr target="bib:Sircar1965_02"/>
+            		<citedRange unit="page">467-469</citedRange>
+            	</bibl>
+            	
             	<bibl n="TVM">
             		<ptr target="bib:Mahalingam1988_01"/>
             		<citedRange unit="page">40-41</citedRange>
             		<citedRange unit="item">4</citedRange>
             	</bibl>
 
-            	<!--<bibl n="SB">update!
+            	<bibl n="SB">update!
             		<ptr target="bib:Brocquet1997_01"/>
-            		<citedRange unit="page">377-383</citedRange>
-            		<citedRange unit="item">3</citedRange>
-            	</bibl>-->
+            		<citedRange unit="page">370-371</citedRange>
+            		<citedRange unit="item">1</citedRange>
+            	</bibl>
 
             </listBibl>
 
-            <!--<listBibl type="secondary">
-
-            	<bibl n="GB">
-            		<ptr target="bib:Buehler1892_01"/>
-            	</bibl>
+            <listBibl type="secondary">
 
             	<bibl n="EF">
-            		<ptr target="bib:Francis2013_03"/>
+            		<ptr target="bib:Francis2013_01"/>
+            		<citedRange unit="item">IR 4</citedRange>
+            	</bibl>
+            	
+            	
+            	<bibl n="AG">
+            		<ptr target="bib:Gaur1975_01"/>
+            		<citedRange unit="item">2</citedRange>
             	</bibl>
 
-           </listBibl>-->
+           </listBibl>
 
          </div>
 
