@@ -442,7 +442,8 @@ Note the recurrent unstandard forms with <foreign>diśi</foreign>.
             	</bibl>
 
             	<bibl n="EF">
-            		<ptr target="bib:Francis2013_03"/>
+            		<ptr target="bib:Francis2013_01"/>
+            		<citedRange unit="item">IR 7</citedRange>
             	</bibl>
 
            </listBibl>
