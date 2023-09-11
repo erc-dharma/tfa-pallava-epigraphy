@@ -79,7 +79,7 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-				<change who="part:emfr" when="2023-09-11" status="draft">Creation of the file</change>
+			<change who="part:emfr" when="2023-09-11" status="draft">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -120,7 +120,7 @@
 	
 	<lg n="1" met="anuṣṭubh">
 		<l n="a"><lb n="3r1=12"/>bahubhi<unclear>r</unclear> vva<unclear>s</unclear>udhā dattā<space/></l>
-		<l n="b">bahubhi<unclear reason="eccentric-ductus">ś cā</unclear >nu<unclear reason="eccentric-ductus">pā</unclear>litā</l>		
+		<l n="b">bahubhi<unclear reason="eccentric_ductus">ś cā</unclear>nu<unclear reason="eccentric_ductus">pā</unclear>litā</l>		
 		<l n="c"><lb n="3r2=13"/>yasya yasya yadā bhūmi<unclear>ḥ</unclear><space/></l>
 		<l n="d">tasya tasya tadā phalam</l>
 	</lg>
