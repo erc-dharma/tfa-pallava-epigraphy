@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Guṇapadēya copper plates, time of Śrīvijaya-Skandavarman</title>
+            <title>Guṇapadēya copper plates, time of Vijaya-Skandavarman</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -104,11 +104,11 @@
 	<lb n="1v4=4" break="no"/>kura-jānavī cārudevī ka<gap reason="illegible" quantity="1" unit="character"/> vīya<gap reason="illegible" quantity="2" unit="character"/>
 	
 	<pb n="2r"/>
-	<fw place="left" n="2v"><num value="2">2</num></fw>
+	<fw place="left" n="2r"><num value="2">2</num></fw>
 
 	<lb n="2r1=5"/>rājatalāka-heṭ<unclear>ṭh</unclear>e pāṇiya<gap reason="illegible" quantity="1" unit="character"/>	
 	<lb n="2r2=6" break="no"/>pād-uttare pāse Ātukassa kasita<gap reason="illegible" quantity="1" unit="character"/>
-	<lb n="2r7=7"/>chettaṃ dālūre kū<unclear>l</unclear>i-mahātaraka-devakulassa
+	<lb n="2r3=7"/>chettaṃ dālūre kū<unclear>l</unclear>i-mahātaraka-devakulassa
 
 	<pb n="2v"/>
 	<fw place="left" n="2v"><num value="3">3</num></fw>
@@ -203,11 +203,11 @@
             		<ptr target="bib:Buehler1892_01"/>
             	</bibl>
             	
-            	<bibl n="EH1">
+            	<bibl n="EH1901">
             		<ptr target="bib:Hultzsch1900-1901_01"/>
             	</bibl>
             	
-            	<bibl n="EH2">
+            	<bibl n="EH1906">
             		<ptr target="bib:Hultzsch1905-1906_04"/>
             	</bibl>
             	

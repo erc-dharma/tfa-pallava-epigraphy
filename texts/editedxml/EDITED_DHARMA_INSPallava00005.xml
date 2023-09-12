@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Hīrahaḍagaḷḷi copper plates, time of Śiva-Skandavarman, year 8 </title>
+            <title>Alavakoṇḍa copper plates, time of Viṣṇugopa, year 1</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -23,11 +23,12 @@
                   <surname>Francis</surname>
                </persName>
             </respStmt>
+            <!--add Tim and Andrew-->
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris, CEIAS</pubPlace>
-            <idno type="filename">DHARMA_INSPallava00003</idno>
+            <idno type="filename">DHARMA_INSPallava00005</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -47,7 +48,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Confirmation of the grant of a garden, with exemptions, of a garden in Cillarekakoḍuṃka to 24 Brahmins, and further grant of lands, seemingly in Āpiṭṭī.</summary>
+                  <summary>Grant (<foreign>brahmadeya</foreign>), with all exemptions, of the village of ... to a Brahmin.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -94,48 +95,66 @@
 		<head xml:lang="eng">Seal</head>
 		
 		<p>
-			<lb n="1"/>śivaskava<supplied reason="lost">davarmmaṇaḥ</supplied> 
+			<lb n="1"/>... 
 		</p>
 		
 	</div>
 	
-	<div type="textpart" xml:lang="san-Latn" n="B">
+<div type="textpart" xml:lang="san-Latn" n="B">
 		
-		<head xml:lang="eng">Plates</head>
+	<head xml:lang="eng">Plates</head>
+	
+		<pb n="1r"/>
+	
+	<ab>
+		<pb n="1v"/>
+		<fw place="left" n="1v"><num value="1">1</num></fw>
+		<lb n="1v1=1"/>siddham ||
+	</ab>
+	
+	<p>			
+		<lb n="1v1=1"/>vijayatthāṇā mahārājassa Appadi<unclear>ha</unclear>ta-sāsaṇassa s<unclear>ā</unclear>ma
+		<lb n="1v2=2" break="no"/>...
+		<lb n="1v3=3"/>...
+		<lb n="1v4=4"/>...
 		
-		<ab>
-			<pb n="1r"/>
-			<lb n="01"/>diṭhaṃ
-		</ab>
+		<pb n="2r"/>
 		
-		<ab>
-			<pb n="1v"/>
-			<lb n="01"/>siddham ||
-		</ab>
+		<lb n="2r1=5"/>...
+		<lb n="2r2=6"/>...	
+		<lb n="2r3=7"/>...
+		<lb n="2r4=8"/>...	
 		
-		<p>			
-			<lb n="1v1=1"/>koṃcīpurā Aggiṭthoma-vājapeyassamedha-yājī dhamma-mahā
-			<lb n="1v2=2" break="no"/>...
-			<lb n="1v3=3"/>...
-			
-			
-			<pb n="2r"/>
-			
-			<lb n="2r1=4"/>...
-			<lb n="2r2=5"/>...	
-			<lb n="2r4=6"/>...
-			<lb n="2r2=7"/>...
-			
-			
-			<pb n="8r"/>
-			<fw place="left" n="8r"><num value="8">8</num></fw>
-			
-			<lb n="8r1=50"/>...
-			<lb n="8r2=51"/>...
-			<lb n="8r3=52"/>...
+		<pb n="2v"/>
+		<fw place="left" n="2v"><num value="2"><unclear>2</unclear></num></fw>
+		
+		<lb n="2v1=9"/>...
+		<lb n="2v2=10"/>...	
+		<lb n="2v3=11"/>...
+		<lb n="2v4=12"/>...	
+		
+		<pb n="3r"/>
+		
+		<lb n="3r1=4=13"/>...
+		<lb n="3r2=14"/>...	
+		<lb n="3r3=15"/>...
+		
+		<pb n="3v"/>
+		<fw place="left" n="3v"><num value="3"><unclear>3</unclear></num></fw>
+		
+		<lb n="3v1=16"/>...
+		<lb n="3v2=17"/>...	
+		<lb n="2v3=18"/>...
+		<pb n="2r"/>
+		
+		<lb n="4r1=19"/>...
+		<lb n="4r2=20"/>...	
+		<lb n="4r3=21"/>...
+		<lb n="4r4=22"/>...		
+		
 		</p>
 		
-		<pb n="8v"/>
+		<pb n="4v"/>
 		
 	</div>
 	
@@ -144,14 +163,13 @@
 <div type="apparatus">
 	
 	<div type="textpart" xml:lang="san-Latn" n="A">
-		<head xml:lang="eng">Seal</head>
+	<head xml:lang="eng">Seal</head>
 		
 		<listApp>
 			
 			<app loc="1">				
-				<lem>śivaskava<supplied reason="lost">davarmmaṇaḥ</supplied></lem>
-				<rdg source="bib:Buehler1892_01">śivaskava<supplied reason="lost">davarmmaṇaḥ</supplied></rdg>
-				<note>This is <ptr target="bib:Buehler1892_01"/> reading, but nothing is legible on the seal now kept with the plates in the Chennai Government Museum (2008). Either <ptr target="bib:Buehler1892_01"/> examined the seal of another Pallava plate (DHARMA_INSPallava00002, very similar), either the original seal was misplaced in the Chennai Government Museum.</note>
+				<lem>...</lem>
+				<rdg source="bib:Reddy+KrishnaReddy2000_01"/>
 			</app>
 			
 		</listApp>
@@ -163,7 +181,7 @@
 			
 			<app loc="0">
 				<lem>...</lem>
-				<rdg source="bib:Buehler1892_01">...</rdg>
+				<rdg source="bib:Reddy+KrishnaReddy2000_01">...</rdg>
 			</app>
 			
 		</listApp>
@@ -187,41 +205,23 @@
       	</div>
 
          <div type="bibliography">
-<p>First edited in <bibl><ptr target="bib:Buehler1892_01"/></bibl> (EI 1, no. 1) with facsimile and English translation; corrections in <bibl><ptr target="bib:Leumann1894_01"/></bibl> (EI 2, no. 40); corrections in <bibl><ptr target="bib:Buehler1894_05"/></bibl> (EI 2, no. 40); text and sanskritised text in <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">461-466</citedRange></bibl> with facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 3); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2023), based on published estampages and photos of the original plates in the Chennai Government Museum (2008).
+<p>First edited in <bibl><ptr target="bib:Reddy+KrishnaReddy2000_01"/></bibl> with facsimile; re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2023) <!--+Andrew + Tim-->, based on published estampages.
             </p>
 
             <listBibl type="primary">
             	           	
-            	<bibl n="GB1892">
-            		<ptr target="bib:Buehler1892_01"/>
+            	<bibl n="RKR">
+            		<ptr target="bib:Reddy+KrishnaReddy2000_01"/>
             	</bibl>            	
             	
-            	<bibl n="EL">
-            		<ptr target="bib:Leumann1894_01"/>
-            	</bibl> 
-            	
-            	<bibl n="GB1894">
-            		<ptr target="bib:Buehler1894_05"/>
-            	</bibl> 
-            	
-            	<bibl n="DCS">
-            		<ptr target="bib:Sircar1965_02"/>
-            		<citedRange unit="page">457-461</citedRange>
-            	</bibl>
-            	
-            	<bibl n="TVM">
-            		<ptr target="bib:Mahalingam1988_01"/>
-            		<citedRange unit="page">35-39</citedRange>
-            		<citedRange unit="item">3</citedRange>
-            	</bibl>
-            	
+            	            	
             </listBibl>
 
             <listBibl type="secondary">
 
             	<bibl n="EF">
             		<ptr target="bib:Francis2013_01"/>
-            		<citedRange unit="item">IR 3</citedRange>
+            		<citedRange unit="item">IR 5</citedRange>
             	</bibl>
             	
            </listBibl>
