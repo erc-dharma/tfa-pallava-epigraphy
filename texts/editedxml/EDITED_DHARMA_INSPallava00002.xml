@@ -51,7 +51,9 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>...</p>
+                     <p>See <bibl>
+                           <ptr target="bib:Hultzsch1900-1901_01"/>
+                        </bibl> (EI 6, no. 8, p. 86).</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -175,7 +177,7 @@
 		</p>
 		
 		<p>
-			<lb n="6r2=20"/>pariharatha parih<choice><sic>a</sic><corr>ā</corr></choice>rapetha ca
+			<lb n="6r2=20"/>pariharatha parih<unclear>ā</unclear>r<choice><sic><unclear>ā</unclear></sic><corr>a</corr></choice>petha ca
 		</p>
 		
 		<p>
@@ -193,7 +195,7 @@
 		
 		<p>			
 			<pb n="7v"/>
-			<lb n="7v1=25"/>sa<unclear>ṃ</unclear>vacharaṃ dasamaṃ <num value="10"><g type="numeral">10</g></num> gimhā
+			<lb n="7v1=25"/>sa<unclear>ṃ</unclear>vacharaṃ dasamaṃ <num value="10"><g type="numeral">10</g></num> <expan><abbr>gimhā</abbr><ex>naṃ</ex></expan>
 			<lb n="7v2=26"/>pakho chaṭo 6 divasaṃ paṃcami 5
 		</p>
 		
@@ -220,10 +222,10 @@
 		
 		<listApp>
 			
-			<app loc="0">
+			<app loc="1">
 				<lem>śivaska<supplied reason="lost">davarmmaṇaḥ</supplied></lem>
 				<rdg source="bib:Hultzsch1900-1901_01">śivaska<unclear>davarmmaṇaḥ</unclear></rdg>
-				<note><bibl><ptr target="bib:Hultzsch1900-1901_01"/><citedRange unit="page">2-3</citedRange></bibl> quotes the description of the seal by Venkayya: <quote>The seal bears in relief an animal couchant and facing the proper right---apparently a bull, as it has a hump on its back--andbelow it, the legend <foreign>śivaska[ndavarmmaṇaḥ?]</foreign> in an alphabet which appears to be slightly different from that of the inscription. The bull and the legend are enclosed in a circle which is
+				<note><ptr target="bib:Hultzsch1900-1901_01"/> quotes the description of the seal by Venkayya: <quote>The seal bears in relief an animal couchant and facing the proper right—apparently a bull, as it has a hump on its back—and below it, the legend <foreign>śivaska[ndavarmmaṇaḥ?]</foreign> in an alphabet which appears to be slightly different from that of the inscription. The bull and the legend are enclosed in a circle which is
 partially preserved.</quote></note>
 			</app>
 			
@@ -235,17 +237,54 @@ partially preserved.</quote></note>
 		
 		<listApp>
 			
+			<app loc="6">
+				<lem>ya</lem>
+				<rdg source="bib:Mahalingam1988_01"><choice><sic>y</sic><corr>c</corr></choice>a</rdg>
+			</app>
+			
+			<app loc="10">
+				<lem><supplied reason="lost">vi</supplied>r<unclear>i</unclear><supplied reason="lost">pa</supplied>raṃ</lem>
+				<rdg source="bib:Hultzsch1900-1901_01"><unclear>viripa</unclear>raṃ</rdg>
+				<note>As noted by <ptr target="bib:Hultzsch1900-1901_01"/>, this placename is clearly legible in line 12.</note>
+			</app>
+			
+			<app loc="13">
+				<lem>pa<unclear>r</unclear>i<unclear>h</unclear>āro</lem>
+				<rdg source="bib:Hultzsch1900-1901_01">pa<unclear>r</unclear>i<unclear>hā</unclear>ār<choice><sic>o</sic><corr>e</corr></choice></rdg>
+			</app>
+			
+			<app loc="20">
+				<lem>parih<unclear>ā</unclear>r<choice><sic><unclear>ā</unclear></sic><corr>a</corr></choice>petha</lem>
+				<rdg source="bib:Hultzsch1900-1901_01">pariharāpetha</rdg>
+			</app>
+			
 			<app loc="22">
 				<lem>bādhā</lem>
 				<rdg source="bib:Hultzsch1900-1901_01">bādh<unclear>ā</unclear></rdg>
 			</app>
-			
+						
+			<app loc="22">
+				<lem>karejo</lem>
+				<rdg source="bib:Hultzsch1900-1901_01">karejjā</rdg>
+				<note>According to <ptr target="bib:Hultzsch1900-1901_01"/>, <quote>[t]he group <quote>jjā</quote> in <quote>karejjā</quote> (l. 22) and <quote>kārāpejjā</quote> (l. 23) is identical in shape with <foreign>jo</foreign> (l. 21)</quote> whereas <quote>[i]n the Hīrahaḍagalli plates the <foreign>jjā</foreign> of <foreign>kārāpejjā</foreign> (l. 40) differs from the <foreign>jo</foreign> of <foreign>°rājo</foreign> (l. 2)</quote>.</note>
+			</app>					
 						
 			<app loc="22">
 				<lem><surplus>vā <lb n="7r1=23"/>ta</surplus></lem>
-				<rdg source="bib:Hultzsch1900-1901_01"><surplus>vā <lb n="7r1=23"/>ta</surplus></rdg>
-				<note>These are possibly crossed-out by the engraver. <ptr target="bib:Hultzsch1900-1901_01"/> notes abot <foreign>vā</foreign> at the end of line 22: <quote>This <foreign>akṣara</foreign> and the first <foreign>akṣara</foreign> of the next plate seem to have been scored out by the engraver, who had omitted <foreign>karapejjā</foreign> and had begun to write <foreign>vā tasa</foreign>, but found out his mistake when he had got as far as <foreign>ta</foreign>.</quote></note>
+				<rdg source="bib:Hultzsch1900-1901_01"><surplus><unclear>vā</unclear> <lb n="7r1=23"/><unclear>ta</unclear></surplus></rdg>
+				<note>These two letters are possibly crossed-out by the engraver. <ptr target="bib:Hultzsch1900-1901_01"/> notes about <foreign>vā</foreign> at the end of line 22: <quote>This <foreign>akṣara</foreign> and the first <foreign>akṣara</foreign> of the next plate seem to have been scored out by the engraver, who had omitted <foreign>karapejjā</foreign> and had begun to write <foreign>vā tasa</foreign>, but found out his mistake when he had got as far as <foreign>ta</foreign>.</quote> Note also that the letter <foreign>ta</foreign> in this occurrence is the only case in the whole set where a letter is engraved above the binding hole.</note>
 			</app>
+			
+			<app loc="22">
+				<lem>kārāpejo</lem>
+				<rdg source="bib:Hultzsch1900-1901_01">kārāpejjā</rdg>
+			</app>	
+									
+			<app loc="25">
+				<lem><expan><abbr>gimhā</abbr><ex>naṃ</ex></expan></lem>
+				<rdg source="bib:Hultzsch1900-1901_01"><expan><abbr>gimhā</abbr><ex>naṃ</ex></expan></rdg>
+				<note><ptr target="bib:Hultzsch1900-1901_01"/> points to parallels in inscriptions in Nāsik (no. 11, line 12; no. 14, line 1).</note>
+			</app>			
 			
 			
 		</listApp>
@@ -254,9 +293,21 @@ partially preserved.</quote></note>
 </div>
       				
 
-<div type="translation" resp="part:emfr">
+<div type="translation" source="bib:Hultzsch1900-1901_01">
 	
-	<p>...</p><!--Update!-->
+	<div type="textpart" xml:lang="san-Latn" n="B">
+		<head xml:lang="eng">Plates</head>
+		
+		<p n="01"><supplied reason="subaudible">This edict</supplied> has been seen.<note>With the word <foreign>diṭhaṃ</foreign> or, in Sanskrit, <foreign>dṛṣṭam</foreign> we have to supply <foreign>idaṃ śāsanam</foreign>. It is the equivalent of the modern ’true copy’ or ’examined’ at the foot of official letters and Government orders. For a different explanation of <foreign>dṛṣṭaṃ</foreign> see above, Vol. III. p. 259.</note></p>		
+		<p n="1">...</p>		
+		<p n="11">...</p>		
+		<p n="13">...</p>		
+		<p n="16">...</p>		
+		<p n="20">...</p>		
+		<p n="21">...</p>		
+		<p n="25">The tenth—10th—year, the sixth—8th—fortnight of summer, the fifth—5th—lunar day.</p>
+		<p n="27">The executor <supplied reason="explanation">ājṉapti</supplied> <supplied reason="subaudible">was</supplied> myself. Accordingly <supplied reason="subaudible">this</supplied> set of plates <supplied reason="explanation">paṭṭikā</supplied> has been given <supplied reason="subaudible">to the donees</supplied>.</p>
+	</div>
 	
 </div>
 
@@ -271,14 +322,14 @@ partially preserved.</quote></note>
 	<div type="textpart" xml:lang="san-Latn" n="B">
 		<head xml:lang="eng">Plates</head>
 		
-		<p n="01">Vu.<note>C’est-à-dire « Vérifié ».</note></p>
+		<p n="01">Vu.<note>C’est-à-dire « Vérifié ». </note></p>
 		
 		<p n="1-4">...</p>		
 		<p n="5-11">...</p>		
 		<p n="11-16">...</p>		
-		<p n="16-19">...</p>		
-		<p n="20">...</p>		
-		<p n="21-24">...</p>		
+		<p n="16-19">Il est exempté de toutes les exemptions, celles-ci et les autres, conformément à l’usage valable pour tous les <foreign>brahmadeya</foreign>.</p>		
+		<p n="20">Exemptez-le et faites-le exempter !</p>		
+		<p n="21-24">Celui qui, enfreignant notre ordre, causerait ou ferait causer des ennuis ou dommages <supplied reason="subaudible">à cette donation</supplied>, nous lui infligerons un châtiment corporel.</p>		
 		<p n="25-26">Dixième 10 année, sixième 6 quinzaine de l’été, cinquième 5 jour.</p>		
 		<p n="27">Exécution : nous-mêmes.</p>
 		<p n="27-28">Des tablettes ont été transmises.</p>
@@ -292,7 +343,7 @@ partially preserved.</quote></note>
       	</div>
 
          <div type="bibliography">
-<p>First edited in <bibl><ptr target="bib:Hultzsch1900-1901_01"/></bibl> (EI 6, no. 8) with facsimile and English translation; text and sanskritised text in <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">457-461</citedRange></bibl> with facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 2); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2023), based on published estampages and photos of the original plates in the Chennai Government Museum (2008).
+<p>First edited in <bibl><ptr target="bib:Hultzsch1900-1901_01"/></bibl> (EI 6, no. 8) with facsimile and English translation; text and sanskritised text in <bibl><ptr target="bib:Sircar1965_02"/></bibl> with facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 2); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2023), based on published estampages and photos of the original plates in the Chennai Government Museum (2008).
             </p>
 
             <listBibl type="primary">
