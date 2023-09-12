@@ -108,7 +108,7 @@
 	
 	<ab>
 		<pb n="1v"/>
-		<fw place="left" n="1v"><num value="1">1</num></fw>
+		<fw place="left" n="1v">1</fw>
 		<lb n="1v1=1"/>siddham ||
 	</ab>
 	
@@ -126,7 +126,7 @@
 		<lb n="2r4=8"/>...	
 		
 		<pb n="2v"/>
-		<fw place="left" n="2v"><num value="2"><unclear>2</unclear></num></fw>
+		<fw place="left" n="2v"><unclear>2</unclear></fw>
 		
 		<lb n="2v1=9"/>...
 		<lb n="2v2=10"/>...	
@@ -140,7 +140,7 @@
 		<lb n="3r3=15"/>...
 		
 		<pb n="3v"/>
-		<fw place="left" n="3v"><num value="3"><unclear>3</unclear></num></fw>
+		<fw place="left" n="3v"><unclear>3</unclear></fw>
 		
 		<lb n="3v1=16"/>...
 		<lb n="3v2=17"/>...	

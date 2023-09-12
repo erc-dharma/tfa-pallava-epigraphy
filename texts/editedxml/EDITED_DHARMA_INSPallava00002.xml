@@ -115,31 +115,96 @@
 			
 			
 			<pb n="2r"/>
-			<fw place="left" n="2r"><num value="2">2</num></fw>
+			<fw place="left" n="2r">2</fw>
 			
-			<lb n="2r1=3"/>...
-			<lb n="2r2=4"/>...
-			
+			<lb n="2r1=3"/>sivakha<unclear>ṃ</unclear>davammo dhaṃñakaḍe
+			<lb n="2r2=4"/>vāpataṃ Ānapayati
+		</p>
+
+		<p>			
 			<pb n="2v"/>
 			
-			<lb n="2v1=5"/>...
-			<lb n="2v2=6"/>...
+			<lb n="2v1=5"/>Amhehi dāni Amha-vejayike
+			<lb n="2v2=6"/><unclear>dhaṃ</unclear>māyu-bala-vadhanike ya
+			
+			<pb n="3r"/>
+			<fw place="left" n="3r">3</fw>
+			
+			<lb n="3r1=7"/>bamhanānaṃ Agivesa-sagottasa			
+			<lb n="3r2=8"/>puvakoṭujasa Ag<choice><sic>ī</sic><corr>i</corr></choice>vesa-sagottasa
+			
+			<pb n="3v"/>
+			
+			<lb n="3v1=9"/>gonaṃdijasa Aṃdhāpa<choice><sic>t</sic><corr>th</corr></choice>īya-gāmo
+			<lb n="3v2=10"/><supplied reason="lost">vi</supplied>r<unclear>i</unclear><supplied reason="lost">pa</supplied>raṃ Amhehi Udakādiṃ
+			
+			<pb n="4r"/>
+			<fw place="left" n="4r">4</fw>
+			
+			<lb n="4r1=11"/>saṃpadato
+		</p>
+		
+		<p>
+			Etasa gāmasa			
+			<lb n="4r2=12"/>viriparasa sava-bamhadeya
+						
+			<pb n="4v" break="no"/>
+			
+			<lb n="4v1=13" break="no"/>pa<unclear>r</unclear>i<unclear>h</unclear>āro vitarāma A-lona-khādakaṃ
+			<lb n="4v2=14"/>A-raṭha-saṃv<unclear>i</unclear>nāyikaṃ A-paraṃparā-baliva<supplied reason="omitted">daṃ</supplied>
+					
+			<pb n="5r"/>
+			<fw place="left" n="5r">5</fw>
+			
+			<lb n="5r1=15"/>A-bhaḍa-papesaṃ A-kūra-colaka			
+			<lb n="5r2=16" break="no"/>vināsi-khaṭ<choice><sic>a</sic><corr>ā</corr></choice>-saṃvāsaṃ
+		</p>
+		
+		<p>
+			Etehi
+									
+			<pb n="5v"/>
+			
+			<lb n="5v1=17"/>Anehi ca sava-bamha
+			<lb n="5v2=18" break="no"/>deya-majādāya
+									
+			<pb n="6r"/>
+			<fw place="left" n="6r">6</fw>
+			
+			<lb n="6r1=19"/>savaparihārehi parihārito
+		</p>
+		
+		<p>
+			<lb n="6r2=20"/>pariharatha parih<choice><sic>a</sic><corr>ā</corr></choice>rapetha ca
+		</p>
+		
+		<p>
+			<pb n="6v"/>
+			
+			<lb n="6v1=21"/>jo Amha-sāsanaṃ Atichi
+			<lb n="6v2=22" break="no"/>tūna pīlā bādhā karejo <surplus><unclear>vā</unclear></surplus>					
 			
 			<pb n="7r"/>
-			<fw place="left" n="7r"><num value="7">7</num></fw>
+			<fw place="left" n="7r">7</fw>
 			
-			<lb n="7r1=23"/>...
-			<lb n="7r2=24"/>...
-			
+			<lb n="7r1=23"/><surplus><unclear>ta</unclear></surplus> kārāpejo vā tasa Amho
+			<lb n="7r2=24"/>sārīraṃ sāsanam karejāmo
+		</p>
+		
+		<p>			
 			<pb n="7v"/>
-			
-			<lb n="7v1=25"/>...
-			<lb n="7v2=26"/>...
-			
+			<lb n="7v1=25"/>sa<unclear>ṃ</unclear>vacharaṃ dasamaṃ <num value="10"><g type="numeral">10</g></num> gimhā
+			<lb n="7v2=26"/>pakho chaṭo 6 divasaṃ paṃcami 5
+		</p>
+		
+		<p>			
 			<pb n="8r"/>
-			<fw place="left" n="8r"><num value="8">8</num></fw>
+			<fw place="left" n="8r">8</fw>
 			
-			<lb n="8r1=27"/>Ānatī sayatti dattā
+			<lb n="8r1=27"/>Ānatī sayatti
+		</p>
+		<p>
+			dattā
 			<lb n="8r2=28"/>paṭṭikā
 		</p>
 		
@@ -153,6 +218,16 @@
 	<div type="textpart" xml:lang="san-Latn" n="A">
 		<head xml:lang="eng">Seal</head>
 		
+		<listApp>
+			
+			<app loc="0">
+				<lem>śivaska<supplied reason="lost">davarmmaṇaḥ</supplied></lem>
+				<rdg source="bib:Hultzsch1900-1901_01">śivaska<unclear>davarmmaṇaḥ</unclear></rdg>
+				<note><bibl><ptr target="bib:Hultzsch1900-1901_01"/><citedRange unit="page">2-3</citedRange></bibl> quotes the description of the seal by Venkayya: <quote>The seal bears in relief an animal couchant and facing the proper right---apparently a bull, as it has a hump on its back--andbelow it, the legend <foreign>śivaska[ndavarmmaṇaḥ?]</foreign> in an alphabet which appears to be slightly different from that of the inscription. The bull and the legend are enclosed in a circle which is
+partially preserved.</quote></note>
+			</app>
+			
+		</listApp>
 	</div>
 	
 	<div type="textpart" xml:lang="san-Latn" n="B">
@@ -160,10 +235,18 @@
 		
 		<listApp>
 			
-			<app loc="0">
-				<lem>...</lem>
-				<rdg source="bib:Hultzsch1900-1901_01">...</rdg>
+			<app loc="22">
+				<lem>bādhā</lem>
+				<rdg source="bib:Hultzsch1900-1901_01">bādh<unclear>ā</unclear></rdg>
 			</app>
+			
+						
+			<app loc="22">
+				<lem><surplus>vā <lb n="7r1=23"/>ta</surplus></lem>
+				<rdg source="bib:Hultzsch1900-1901_01"><surplus>vā <lb n="7r1=23"/>ta</surplus></rdg>
+				<note>These are possibly crossed-out by the engraver. <ptr target="bib:Hultzsch1900-1901_01"/> notes abot <foreign>vā</foreign> at the end of line 22: <quote>This <foreign>akṣara</foreign> and the first <foreign>akṣara</foreign> of the next plate seem to have been scored out by the engraver, who had omitted <foreign>karapejjā</foreign> and had begun to write <foreign>vā tasa</foreign>, but found out his mistake when he had got as far as <foreign>ta</foreign>.</quote></note>
+			</app>
+			
 			
 		</listApp>
 	</div>
@@ -171,15 +254,37 @@
 </div>
       				
 
-      	<div type="translation" resp="part:emfr">
-      		<p>...</p><!--Update!-->
-      	</div>
+<div type="translation" resp="part:emfr">
+	
+	<p>...</p><!--Update!-->
+	
+</div>
 
-      	<div type="translation" xml:lang="fra" resp="part:emfr">
+<div type="translation" xml:lang="fra" resp="part:emfr">
 
-      		<p>...</p>
-
-      	</div>
+	<div type="textpart" xml:lang="san-Latn" n="B">
+		<head xml:lang="eng">Seal</head>
+		<p n="1">De Śivaska<supplied reason="lost">ndavarman</supplied></p>
+	</div>
+	
+	
+	<div type="textpart" xml:lang="san-Latn" n="B">
+		<head xml:lang="eng">Plates</head>
+		
+		<p n="01">Vu.<note>C’est-à-dire « Vérifié ».</note></p>
+		
+		<p n="1-4">...</p>		
+		<p n="5-11">...</p>		
+		<p n="11-16">...</p>		
+		<p n="16-19">...</p>		
+		<p n="20">...</p>		
+		<p n="21-24">...</p>		
+		<p n="25-26">Dixième 10 année, sixième 6 quinzaine de l’été, cinquième 5 jour.</p>		
+		<p n="27">Exécution : nous-mêmes.</p>
+		<p n="27-28">Des tablettes ont été transmises.</p>
+	</div>
+	
+</div>
 
       	<div type="commentary">
 
