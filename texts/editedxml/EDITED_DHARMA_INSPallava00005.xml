@@ -148,15 +148,29 @@
 		<pb n="2r"/>
 		
 		<lb n="4r1=19"/>...
-		<lb n="4r2=20"/>...	
-		<lb n="4r3=21"/>...
-		<lb n="4r4=22"/>...		
+		<lb n="4r2=20"/>ñcamī 5 <space/>
+	</p>
+	<lg n="1" met="anuṣṭubh">
+		<l n="a">bahubhir vvasudhā dattā <space/></l>
+		<l n="b">bah<unclear>u</unclear>bhiś cānupālitā</l>
+		<l n="c">yasya yasya ya<lb n="4r3=21" break="no"/>dā bhūmis</l>
+		<l n="d">tasya tasya tadā phalaM</l>
+	</lg>
+	<lg n="2" met="anuṣṭubh">
+		<l n="a">svadattāṃ paradattāṃ vā</l>
+		<l n="b">yo hareta vasu<lb n="4r4=22" break="no"/>ndharāM</l>
+		<l n="c">gavāṃ śata-sahasrasya</l>
+		<l n="d">hantuḥ <add place="below">p<unclear>i</unclear></add>bati duṣkṛtaM</l>
+	</lg>
 		
-		</p>
+		
+	<p>Iti</p>
+	<ab>svasti</ab>	
+		
 		
 		<pb n="4v"/>
 		
-	</div>
+</div>
 	
 </div>
 
@@ -190,7 +204,27 @@
 </div>      	
       				
 <div type="translation" resp="part:emfr">
-      		<p>...</p><!--Update!-->
+      		
+	<p>...</p><!--Update!-->
+
+      		<p rend="stanza" n="1">
+      			<l>...</l>
+      			<l>...</l>
+      			<l>...</l>
+      			<l>...</l>
+      		</p>
+
+      		<p rend="stanza" n="2">
+      			<l>...</l>
+      			<l>...</l>
+      			<l>...</l>
+      			<l>...</l>
+      		</p>
+	
+	<p n="22">Thus <supplied reason="subaudible">it is said</supplied>.</p>
+	<p n="23">Fortune!</p>
+	
+
       	</div>
 
       	<div type="translation" xml:lang="fra" resp="part:emfr">
