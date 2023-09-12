@@ -121,7 +121,7 @@
 	<lb n="7v2=26"/>...
 			
 	<pb n="8r"/>
-	<fw place="left" n="8r"><num value="7">8</num></fw>
+	<fw place="left" n="8r"><num value="8">8</num></fw>
 
 	<lb n="8r1=27"/>...
 	<lb n="8r2=28"/>...
@@ -160,7 +160,7 @@
       	</div>
 
          <div type="bibliography">
-<p>First edited in <bibl><ptr target="bib:Hultzsch1900-1901_01"/></bibl> (EI 6, no. 8) (SOCI no. 74) with facsimile and English translation; text and sanskritised text in <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">457-461</citedRange></bibl> with facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 2)<!--; text and French translation of the Sanskrit portion in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 1);--> re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2023), based on published estampages and photos of the original plates in the Chennai Government Museum Library (2008).
+<p>First edited in <bibl><ptr target="bib:Hultzsch1900-1901_01"/></bibl> (EI 6, no. 8) with facsimile and English translation; text and sanskritised text in <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">457-461</citedRange></bibl> with facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 2)<!--; text and French translation of the Sanskrit portion in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 1);--> re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2023), based on published estampages and photos of the original plates in the Chennai Government Museum Library (2008).
             </p>
 
             <listBibl type="primary">
