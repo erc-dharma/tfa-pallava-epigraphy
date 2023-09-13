@@ -51,8 +51,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>See <bibl><ptr target="bib:Hultzsch1900-1901_01"
-								/></bibl> (EI 6, no. 8, p. 86).</p>
+							<p>See <bibl><ptr target="bib:Hultzsch1900-1901_01"/></bibl> (EI 6, no. 8, p. 86).</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -367,7 +366,7 @@ translation (Ep. Ind. Vol. I. p. 8).</note> and for increasing <supplied reason=
 
       	<div type="commentary">
 
-      		
+      		<p>For a description of the Prakrit language of this grant, see <bibl><ptr target="bib:Hultzsch1900-1901_01"/></bibl> (EI 6, no. 8, p. 85-86).</p>
       	</div>
 
          <div type="bibliography">
