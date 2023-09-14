@@ -51,7 +51,9 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>...</p>
+                     <p>See <bibl>
+                           <ptr target="bib:Hultzsch1905-1906_04"/>
+                        </bibl> (EI 8, no. 12, p. 144).</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -157,9 +159,19 @@
       	</div>
       				
 
-      	<div type="translation" resp="part:emfr">
-      		<p>...</p><!--Update!-->
-      	</div>
+<div type="translation" source="bib:Hultzsch1905-1906_04">
+	
+	<p>Success!</p>
+	
+	<p n="1">The years . . (of the reign) of the glorious <foreign>mahārāja</foreign> Vijaya-Skandavarman.</p>
+	
+	<p n="2">Cārudevī, the queen of the <foreign>yuvamahārāja</foreign>, the Bhāradvāja, the glorious Vijaya-Buddhavarman (of the family) of the Pallavas, (and) mother of [Buddhyaṅ]kura, (addresses the following order) [to the official at] Ka[ṭaka]:—</p>
+	<p n="5">“The field to be ploughed by Ātuka on tee northern side of the drinking-well below the King’s Tank <supplied reason="explanation"><foreign>rājataḍāka</foreign></supplied>, (containing) four—4—<foreign>nivartana</foreign>s of land, has been given by Us, making (it) a means for increasing Our length of life and power,6 to the god Nārāyaṇa of the Kūḷi-Mahāt[ā]raka temple at Dālūra.</p>
+	<p n="10">“Knowing this, ye, the villlagers (and) officials, exempt (this field) with all immunities, (and) came (it) tu be exempted! “7</p>
+	<p n="12-15">[contain two of the customary verses]</p>
+	<p n="16">The <foreign>ājñapti</foreign>8 (is) Rohiṇigupta.“9</p>
+	
+</div>
 
       	<div type="translation" xml:lang="fra" resp="part:emfr">
 
@@ -184,7 +196,8 @@
       	</div>
 
       	<div type="commentary">
-
+      		
+      		<p>For a description of the Prakrit language of this grant, see <bibl><ptr target="bib:Hultzsch1905-1906_04"/></bibl> (EI 8, no. 12, p. 144).</p>
       		
       	</div>
 
