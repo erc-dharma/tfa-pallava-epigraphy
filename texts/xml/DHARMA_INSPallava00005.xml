@@ -97,7 +97,7 @@
 		
 	</div>
 	
-<div type="textpart" xml:lang="san-Latn" n="B">
+<div type="textpart" xml:lang="pra-Latn" n="B">
 		
 	<head xml:lang="eng">Plates</head>
 	
@@ -147,13 +147,13 @@
 		<lb n="4r1=19"/>...
 		<lb n="4r2=20"/>ñcamī 5 <space/>
 	</p>
-	<lg n="1" met="anuṣṭubh">
+	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
 		<l n="a">bahubhir vvasudhā dattā <space/></l>
 		<l n="b">bah<unclear>u</unclear>bhiś cānupālitā</l>
 		<l n="c">yasya yasya ya<lb n="4r3=21" break="no"/>dā bhūmis</l>
 		<l n="d">tasya tasya tadā phalaM</l>
 	</lg>
-	<lg n="2" met="anuṣṭubh">
+	<lg n="2" met="anuṣṭubh" xml:lang="san-Latn">
 		<l n="a">svadattāṃ paradattāṃ vā</l>
 		<l n="b">yo hareta vasu<lb n="4r4=22" break="no"/>ndharāM</l>
 		<l n="c">gavāṃ śata-sahasrasya</l>
@@ -186,7 +186,7 @@
 		</listApp>
 	</div>
 	
-	<div type="textpart" xml:lang="san-Latn" n="B">
+	<div type="textpart" xml:lang="pra-Latn" n="B">
 		<head xml:lang="eng">Plates</head>
 		<listApp>
 			
