@@ -47,13 +47,11 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Grant of four villages (Nelli, Pullūra/Pullūr, Takkāra/Takkāṟ et de Kuḍiūra/Kuṭiyūr) in the Kīḷveṇātaka/Kīḻvēṇāṭu in the Palkundakoṭṭaka/Palkuṉṟakkōṭṭam, renamed as Nayadhīramaṃgala/Nayadhīramaṅkalam, as <foreign>brahmadeya</foreign> to 108 Brahmins.</summary>
+						<summary>Grant of four villages (Nelli, Pullūra, Takkāra and Kuḍiūra in the Kīḷveṇātaka in the Palkundakoṭṭaka according to the Sankrit portion; Nelli, Pullūr, and Kuṭiyūr in the Kīḻvēṇāṭu in the Palkuṉṟakkōṭṭam and Takkāṟu in the Maṇalaikuḷanāṭu in the Palkuṉṟakkōṭṭam according to Tamil portion), as a <foreign>brahmadeya</foreign> renamed as Nayadhīramaṃgala/Nayadhīramaṅkalam, to 108 Brahmins. In fact only 100 Brahmin donees are mentioned, including the 3 donees added, by afterthought, at the end of the grant, whereas there are 8 further donees, who appear to be officials involved in the transaction and religious dignitaries granted at the same time.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>The <foreign>puḷḷi</foreign> is used in the Tamil text. For further paleaographical details, see <bibl><ptr
-										target="bib:Mahalingam1965-1966_01"/><citedRange unit="page"
-										>144-145</citedRange></bibl>.</p>
+							<p>The <foreign>puḷḷi</foreign> is used in the Tamil text. For further paleaographical details, see <bibl><ptr target="bib:Mahalingam1965-1966_01"/><citedRange unit="page">144-145</citedRange></bibl>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -185,10 +183,10 @@
 			Ivait
 			<lb n="7r4=101" break="no"/>tuḷ <hi rend="grantha">Aṣṭaśada</hi>ttiṉ mēl paṇiyāl ēṟiṉa paṅku patiṉ aintu <space/>
 			<lb n="7r5=102"/>...	
-			<lb n="7r6=103" break="no"/>	mukaṉ talaik=ku vaittu nāṭṭā<supplied reason="omitted">r</supplied> viṭunta Aṟaiyōlai-p paṭiyāl nā		
-			<lb n="7r7=104" break="no"/>	ṭṭu viyavaṉ colliya ...
-			<lb n="7r8=105" break="no"/>	...		
-			<lb n="7r9=106" break="no"/>	...		
+			<lb n="7r6=103" break="no"/>mukaṉ talaik=ku vaittu nāṭṭā<supplied reason="omitted">r</supplied> viṭunta Aṟaiyōlai-p paṭiyāl nā		
+			<lb n="7r7=104" break="no"/>ṭṭu viyavaṉ colliya ...
+			<lb n="7r8=105" break="no"/>...		
+			<lb n="7r9=106" break="no"/>...		
 			<lb n="7r10=107" break="no"/>...	
 			
 			<pb n="7v"/>
@@ -196,7 +194,7 @@
 			<lb n="7v1=108"/>			
 			<lb n="7v2=109" break="no"/>...
 			
-			<lb n="7v5=112"/>paratattiyuñ celvat’ āka-v aruḷiccētu paratatti ceytatu
+			<lb n="7v5=112"/>paratattiyuñ celvat’ āka-v aruḷi-c c<choice><orig>ē</orig><reg>ey</reg></choice>tu paratatti ceytatu
 		</p>
 		
 		<p>			
@@ -209,11 +207,12 @@
 			<pb n="8v"/>			
 			<lb n="8v1=126"/>...
 			
-			<lb n="8v6=132"/>...
+			<lb n="8v5=131"/>...
 		</p>
 		
 		<p>
-			yāṇṭu muppa<supplied reason="omitted">ttu</supplied> mūṉṟu nāḷ muṉṉūṟṟu muppatu
+			aruḷi-c ceyta
+			<lb n="8v6=132"/> tu yāṇṭu muppa<supplied reason="omitted">ttu</supplied> mūṉṟu nāḷ muṉṉūṟṟu muppatu
 		</p>
 		
 		<p>
@@ -250,14 +249,15 @@
 	<head xml:lang="eng">Tamil portion 2 of 2</head>
 			
 		<p>
-			...
-			<lb n="9r2=136"/>...
+			Ivai nayat<choice><sic>i</sic><corr>ī</corr></choice><unclear>ra</unclear>
+			<lb n="9r2=136"/>pe<hi rend="grantha">ru</hi>ṅk<unclear>ā</unclear>ṭṭukārā<choice><sic>n</sic><corr>ṉ</corr></choice><unclear>ē</unclear> Eḻuttu
 		</p>
 		
 		<p>
-			<lb n="9r3=137"/>...
-			<lb n="9r4=138"/>...
-			<lb n="9r5=139"/>...			
+			<hi rend="grantha">bhāradvāja</hi>-kō<hi rend="grantha">tra</hi>tt’ āvattampa-cū<hi rend="grantha">tra</hi>ttu
+			<lb n="9r3=137" break="no"/>-c cōlaiyūr-vatta<unclear reason="eccentric_ductus">va</unclear>ṉ tāmō<choice><sic>tila</sic><corr>tara</corr></choice><hi rend="grantha">śarma</hi>ṉum· <g type="hyphen">.</g> <hi rend="grantha">kāśya</hi>pa-kō<hi rend="grantha">tra</hi>tt’ āvattam
+			<lb n="9r4=138" break="no"/>pa-cū<hi rend="grantha">tra</hi>ttu kuṇ·ṭūr-vattavaṉ cōmāci viṉāyaka-<hi rend="grantha">śarma</hi>ṉum <g type="hyphen">.</g> va<hi rend="grantha"><choice><sic>s</sic><corr>t</corr></choice>sa</hi>-kō<hi rend="grantha">tra</hi>
+			<lb n="9r5=139" break="no"/>tt’ āvattampa-cū<hi rend="grantha">tra</hi>ttu pūṇiya-vattavaṉ· ceṭṭa<hi rend="grantha">śarma</hi>ṉum <g type="gomutra">.</g>			
 			
 		</p>	
 	</div>
@@ -270,7 +270,7 @@
 		<app loc="1v1=1">
 			<lem><supplied reason="lost">svastī śrī</supplied></lem>
 			<rdg source="bib:Mahalingam1965-1966_01"><supplied reason="lost">svastī śrī</supplied></rdg>
-			<note>The upper left corner of the plate is lost. This restoration is based on the occurrence of these blessings at the beginning of, for instance, IP 115.</note>
+			<note>The upper left corner of the plate is lost. This restoration is based on the occurrence of these blessings at the beginning of, for instance, IP 155.</note>
 		</app>			
 
 		</listApp>
@@ -307,18 +307,122 @@
 		</p>
 		
 		<p n="18-100">
-			...
+			At the request of the prince Avanicandra<note><ptr target="bib:Mahalingam1965-1966_01"/> (p. 147) rightly identifies him as the heir and son of Udayacandra, a Pallava subordinate, petitioner of IP 76, and also lord of Vilvalapura.</note>, whereas Brahmādhirāja was executor, <supplied reason="subaudible">the villages of</supplied> Nelli, Pullūr, and Kuṭiyūr in the Kīḻvēṇāṭu of the Palkuṉṟakkōṭṭam, and <supplied reason="subaudible">the village of</supplied> Takkāṟu in the Maṇalaikuḷanāṭu <supplied reason="subaudible">of the Palkuṉṟakkōṭṭam</supplied>, these four villages, after removing kingship and seal<note>...</note>, after changing the earlier owners, after excluding the tillers, the destitute and good Brahmins who have obtained <supplied reason="subaudible">them</supplied> as <foreign>brahmadeya</foreign> are: 
 			<list>
-				<item>Kāṭakaccōmāci Trivedi-Kūḷaśarman, of the Śāṇḍilyagotra and Āpasthambasūtra, resident of Uḻappūr: two shares</item>
-				<item>Cōmāci Trivedi-Kallaśarman, of this <supplied reason="subaudible">same</supplied> <foreign>gotra</foreign> and this <supplied reason="subaudible">same</supplied> <foreign>sūtra</foreign>, resident of this <supplied reason="subaudible">same</supplied> village</item>
+				<item>Kāṭakaccōmāci Trivedi Kūḷaśarman, of the <foreign>śaṇḍilagotra</foreign> and <foreign>āpasthambasūtra</foreign>, resident of Uḻappūr: two shares;</item>
+				<item>Cōmāci Trivedi Kallaśarman, of this <supplied reason="subaudible">same</supplied> <foreign>gotra</foreign> and this <supplied reason="subaudible">same</supplied> <foreign>sūtra</foreign>, resident of this <supplied reason="subaudible">same</supplied> village,</item>
+				<item>Kramavittaṉ Tāḻiśarman, of the <foreign>bhāradvājagotra</foreign> and <foreign>āpasthambasūtra</foreign>, resident of Kumāṇṭūr,</item>
+				<item>Yajña-Kāḷiśarman, of this <supplied reason="subaudible">same</supplied> <foreign>gotra</foreign> and this <supplied reason="subaudible">same</supplied> <foreign>sūtra</foreign>, resident of this <supplied reason="subaudible">same</supplied> village,</item>
+				<item>Trivedi Uḻutamaṇṭaiśarman, of the <foreign>gautamagotra</foreign> and <foreign>pravacanasūtra</foreign>, resident of Kāvaṉūr,</item>
+				<item>...: one share;</item>
 				<item>...</item>
+				<item>...</item>
+				
+				<item>Brahmādhirāja<note>This is the executor of the grant.</note>: four shares;</item>
+				<item>The <foreign>peruntiṇai</foreign><note>This appears to be the name of an admistrative charge.</note> of <placeName>Kaṭaṅkāṭu</placeName>: one share;</item>
+				<item>The <foreign>kiḻaṉ</foreign><note>A landowner, of some importance in connexion with the grant.</note> of <placeName>Cāttaṅkuṭi</placeName>: one share;</item>
+				<item>The <foreign>peruntiṇai</foreign> <supplied reason="subaudible">in charge</supplied> of the dance <foreign>nāṭṭiyam</foreign>: one share;</item>
+				<item>Kalivicaiyaṉ: one share;</item>
+				<item>Perumāṉaṭikaḷ<note>This is possibly some religious dignitary, possibly the chief of a <foreign>maṭha</foreign>.</note>: <supplied reason="subaudible">one</supplied> share;</item>
+				<item>Tiruvaṭikaḷ<note>This is possibly some religious dignitary, possibly the chief of a <foreign>maṭha</foreign>.</note>: <supplied reason="subaudible">one</supplied> share;</item>
+				<item>Bhagavatiyār<note>This is possibly a woman (Sanskrit <foreign>bhagavatī</foreign>).</note>: <supplied reason="subaudible">one</supplied> share.</item>				
 			</list>
 		</p>
 		
-		<p n="100-132">
+		<p n="101-102">
+			<supplied reason="subaudible">Furthermore, there are</supplied> fifteen shares added <supplied reason="explanation"><foreign>ēṟiṉa</foreign>?</supplied> by order for <supplied reason="explanation"><foreign>mēl</foreign>, literally "upon"</supplied> the one hundred eight among these.<note>This appears to be a donation of 15 shares for the entire group of the 108 donees.</note>
+		</p>
+		<p n="102-108">
+			<supplied reason="subaudible">The boundaries of the newly created <foreign>brahmadeya</foreign></supplied> that the village headman <supplied reason="explanation"><foreign>viyavaṉ</foreign></supplied> proclaimed <supplied reason="explanation"><foreign>colliya</foreign>, literally "said"</supplied> according to the palm-leaf document <supplied reason="explanation"><foreign>aṟaiyōlai</foreign></supplied> that the delegates of the <foreign>nāṭu</foreign> <supplied reason="explanation"><foreign>nāṭṭār</foreign></supplied> sent after keeping on their heads the royal order which graciously made <supplied reason="subaudible">these villages</supplied> as a <foreign>brahmadeya</foreign> for one hundred and eight destitute and good Brahmins <supplied reason="subaudible">are</supplied>:
+			<list>
+				<item>the eastern boundary is to the west of ...;</item>
+				<item>the southern boundary is to the north of ...;</item>
+				<item>the western boundary is to the east of the boundary of <placeName>Paḻaṅkōḷūr</placeName>;</item>
+				<item>the northern boundary is to the south of the boundary of <placeName>Paḻaṅkōḷūr</placeName> and of ...;</item>
+			</list>
+			
+		</p>
+		
+		<p n="102-111">
+			The wet land, the dry land, the forests, and the saline lands that are included within these four boundaries, wherever the iguana runs and the turtle crawls, has become a <foreign>brahmadeya</foreign> under the name Nayadhīramaṅgala ...
+		</p>		
+				
+		<p n="111-112">
+			In this manner, so that ... a <foreign>paradatti</foreign> has been made.
+		</p>
+		
+				
+		<p n="112-120">
+			The <supplied reason="explanation">tax-</supplied>exemptions that this village obtains are: ...
+		</p>
+		
+				
+		<p n="120">
+			Let there be right <supplied reason="explanation"><foreign>urittu</foreign></supplied> to drinking <supplied reason="explanation"><foreign>uṇṇum</foreign></supplied> water <supplied reason="explanation"><foreign>nīr</foreign></supplied> as before.
+		</p>
+				
+		<p n="120-121">
 			...
 		</p>
 		
+				
+		<p n="121-123">
+			...
+		</p>
+		
+				
+		<p n="123">
+			...
+		</p>
+		
+				
+		<p n="123-125">
+			...
+		</p>
+		
+				
+		<p n="125-126">
+			...
+		</p>
+		
+				
+		<p n="126-127">
+			...
+		</p>
+		
+				
+		<p n="127-128">
+			...
+		</p>
+		
+				
+		<p n="128-129">
+			...
+		</p>
+		
+				
+		<p n="129">
+			...
+		</p>
+		
+				
+		<p n="130-131">
+			Let these and their descendants obtain to build ... and reside in ...
+		</p>
+		
+		<p n="131">
+			Let <supplied reason="subaudible">these</supplied> obtain to put<note>That is, to plant or to wear;</note> water-lilies <supplied reason="explanation"><foreign>ceṅkaḻunīr</foreign></supplied> and southernwood <supplied reason="explanation"><foreign>tamaṉakam</foreign></supplied>.
+		</p>
+		
+				
+		<p n="131-132">
+			<supplied reason="subaudible">Thus</supplied> has been graciously made, <supplied reason="subaudible">in</supplied> the year thirty three, day three hundred thirty.
+		</p>
+		
+				
+		<p n="132">
+			Prosperity!
+		</p>
 	</div>
 	
 	<div type="textpart" n="D">
@@ -337,13 +441,13 @@
 		<head xml:lang="eng">Tamil portion 2 of 2</head>
 		
 		<p n="135-136">
-			These are the letters of Nayadhīra Peruṅkāṭtukārāṉ.<note><bibl><ptr target="bib:Mahalingam1965-1966_01"/><citedRange unit="page">146</citedRange></bibl>: <quote>signatures of those responsible for the drafting and execution of the document on copper.</quote></note>
+			These are the letters<note>That is, the "writing" or "handwriting".</note> of Nayadhīra Peruṅkāṭtukārāṉ.<note><ptr target="bib:Mahalingam1965-1966_01"/> (p. 146) suggests that the four names in lines 136-139 are <quote>the signatures of those responsible for the drafting and execution of the document on copper</quote>, but further notes that (p. 146, fn. 5) that: <quote>A few more names of Brāhmaṇas written by a different hand [that is, the three names in lines 136-139] follow the signature of Nayadhīra-Peraṅkāṭṭukāraṉ. These names were perhaps left out of the main list of donees and were inserted later.</quote> This makes good sense.</note>
 		</p>
-		<p n="135-139">
+		<p n="136-139">
 			<list>
-				<item>...</item>
-				<item>...</item>
-				<item>...<note><bibl><ptr target="bib:Mahalingam1965-1966_01"/><citedRange unit="page">146</citedRange><citedRange unit="note">5</citedRange></bibl>: <quote>A few more names of Brāhmaṇas written by a different hand follow the signature of Nayadhīra-Peraṅkāṭṭukāraṉ. These names were perhaps left out of the main list of donees and were inserted later.</quote></note></item>
+				<item>Tāmōtaraśarman<note>Sanskrit Dāmodaraśarman</note>, of the <foreign>bhāradvājagotra</foreign> and <foreign>āpasthambasūtra</foreign>, resident of <placeName>Cōlaiyūr</placeName>;</item>
+				<item>Cōmāci Vināyakaśarman, of the <foreign>kāśyapagotra</foreign> and <foreign>āpasthambasūtra</foreign>, resident of <placeName>Kuṇṭūr</placeName>;</item>
+				<item>Ceṭṭaśarman, of the <foreign>vatsagotra</foreign> and <foreign>āpasthambasūtra</foreign>, resident of <placeName>Pūṇiyam</placeName>;</item>
 			</list>
 		</p>
 	</div>
@@ -435,8 +539,8 @@
          <div type="bibliography">
 <p>
 	First edited in Tamil script by <bibl><ptr target="bib:Mahalingam1965-1966_01"/></bibl> (EI 36, no. 20);
-	text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 81);
-	Sanskrit text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 56);
+	text (with many typos) and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 81);
+	Sanskrit text (based on the very imperfect edition in<bibl><ptr target="bib:Mahalingam1988_01"/></bibl>) and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 56);
 	<bibl><ptr target="bib:Francis2013_01"/></bibl> (IR no. 83);
 	re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2023), based on previous editions, published facsimiles and online photos.
 </p>
@@ -447,7 +551,7 @@
             		<ptr target="bib:Mahalingam1965-1966_01"/>
             	</bibl>         
 
-            	<bibl n="TVM">
+            	<bibl n="TVM1988">
             		<ptr target="bib:Mahalingam1988_01"/>
             		<citedRange unit="page">261-279</citedRange>
             		<citedRange unit="item">81</citedRange>
@@ -477,11 +581,7 @@
       				<citedRange unit="item">IR 83</citedRange>
       				
       			</bibl>
-      			<bibl>
-      				<ptr target="bib:Francis2017_01"/>     				
-      				<citedRange unit="item">IR 83</citedRange>
-      			</bibl>
-           	
+      			
           
       		</listBibl>
 
