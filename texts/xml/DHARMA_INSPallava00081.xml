@@ -106,13 +106,41 @@
 		</ab>
 		
 		<lg n="1" met="anuṣṭubh">
+			<l n="a"><supplied reason="lost">pāyā</supplied><unclear>d va</unclear>ś śāṃkar<choice><sic>i</sic><corr>ī</corr></choice>-mūrttiś </l>
+			<l n="b">śaśā<surplus>ṃ</surplus>ṅkāṃkura-śekharā</l>
+			<l n="c">pratipad-dina-paryyante</l>
+			<l n="d">sandhyeva sakalānatā <g type="gomutra">.</g></l>
+		</lg>
+		
+		<lg n="2" met="sragdharā">
 			<l n="a">...</l>
 			<l n="b">...</l>
 			<l n="c">...</l>
 			<l n="d">...</l>
 		</lg>
 		
-		<lg n="6" met="sragdharā">
+		<lg n="3" met="anuṣṭubh">
+			<l n="a">...</l>
+			<l n="b">...</l>
+			<l n="c">...</l>
+			<l n="d">...</l>
+		</lg>
+		
+		<lg n="4" met="anuṣṭubh">
+			<l n="a">...</l>
+			<l n="b">...</l>
+			<l n="c">...</l>
+			<l n="d">...</l>
+		</lg>
+		
+		<lg n="5" met="śārdūlavikrīḍita">
+			<l n="a">...</l>
+			<l n="b">...</l>
+			<l n="c">...</l>
+			<l n="d">...</l>
+		</lg>
+		
+		<lg n="6" met="śārdūlavikrīḍita">
 			<l n="a">...</l>
 			<l n="b">...</l>
 			<l n="c">...</l>
@@ -120,11 +148,15 @@
 		</lg>
 		
 		<p>
-			sa tu ...
+			sa tu kadācid rājā rāja-<supplied reason="lost">n</supplied>i<supplied reason="lost">tya-p</supplied>ādopajīvi-rāja
 			<lb n="2r3=11"/>...
 			
-			<lb n="2v1=17"/>...
+			<lb n="2v1=17"/>m aṣṭ<supplied reason="omitted">ottar</supplied>aśatāya <surname>s</surname>salila-pūrvvan dattavān<unclear>·</unclear> <g type="gomutra">.</g> <space/>
 		</p>
+		
+		<ab>
+			svasti <space/>
+		</ab>
 		
 	</div>
 	
@@ -132,21 +164,60 @@
 	<head xml:lang="eng">Tamil portion 1 of 2</head>
 		
 		<p>
-			kō-vic<choice><orig>ai</orig><reg>ai</reg></choice>ya-...
-			
-			<lb n="2v5=21"/>...
+			kō-vic<choice><orig>ai</orig><reg>ai</reg></choice>ya-nan·tiva<hi rend="grantha">rmma</hi>ku yā<unclear>ṇ</unclear>ṭu mu			
+			<lb n="2v2=18" break="no"/>p·pat·tu mūṉṟāvatu
 		</p>
 		
 		<p>			
-			...
-			<lb n="2v6=22"/>...
-			<lb n="7r3=100"/>...
+			Avani<hi rend="grantha">candra</hi>-Iḷavaracaṉ· viṇ·ṇap·pat·tāl· <hi rend="grantha">brahmādhirāja</hi>
+			n· Aṇat·ti
+			<lb n="2v3=19"/>Āka pal·kuṉ·ṟa-k·-kōṭṭat·tu k[<choice><sic>i</sic><corr>ī</corr></choice>ḻvēṇāṭṭu nel·liyum pul·lūruṅ· kuṭiyūru maṇa<unclear>lai</unclear>ku
+			<lb n="2v4=20" break="no"/>ḷa-nāṭṭu-t takkāṟum· In·-nāl·kūruṅ· kōvum· poṟiyun· tīr·t·tu muṉ· peṟṟārai māṟṟi ku
+			<lb n="2v5=21" break="no"/>ṭi nīk·ki <hi rend="grantha">brahmade</hi>yam-āka-p· peṟ·ṟa nal·kūṟ·-naṟ-pāppār·
+		
+			<hi rend="grantha">ṣaṇḍila-gotra</hi>tt’ āvat·tampa-cū<surplus>t·tira</surplus>
+			<lb n="2v6=22" break="no"/>t<unclear>·</unclear>tirat·t’ uḻappūr-vat·tavaṉ· kāṭaka-c·-cōmāci ti<choice><sic>ru</sic><corr>ri</corr></choice>vēti kūḷa-<hi rend="grantha">śarmma</hi>ṉ· paṅ·k’ iraṇ·ṭu <g type="hyphen">.</g> Ik·-kō
+			<lb n="2v7=23" break="no"/>...
+			<lb n="7r3=100"/>kalivicaiyaṉ paṅk’ oṉṟu <g type="hyphen">.</g> perumaṉaṭikaḷ paṅku <g type="hyphen">.</g> tiruvaṭikaḷ paṅku <g type="hyphen">.</g> <hi rend="grantha">bhaga</hi>vatiyār paṅku <g type="hyphen">.</g>
 		</p>
 		
 		<p>
 			Ivait
-			<lb n="7r4=101" break="no"/>...
+			<lb n="7r4=101" break="no"/>tuḷ <hi rend="grantha">Aṣṭaśada</hi>ttiṉ mēl paṇiyāl ēṟiṉa paṅku patiṉ aintu <space/>
+			<lb n="7r5=102"/>...	
+			<lb n="7r6=103" break="no"/>	mukaṉ talaik=ku vaittu nāṭṭā<supplied reason="omitted">r</supplied> viṭunta Aṟaiyōlai-p paṭiyāl nā		
+			<lb n="7r7=104" break="no"/>	ṭṭu viyavaṉ colliya ...
+			<lb n="7r8=105" break="no"/>	...		
+			<lb n="7r9=106" break="no"/>	...		
+			<lb n="7r10=107" break="no"/>...	
+			
+			<pb n="7v"/>
+			
+			<lb n="7v1=108"/>			
+			<lb n="7v2=109" break="no"/>...
+			
+			<lb n="7v5=112"/>paratattiyuñ celvat’ āka-v aruḷiccētu paratatti ceytatu
+		</p>
+		
+		<p>			
+			...
+			<lb n="7v6=113"/>
+			
+			<pb n="8r"/>
+			<lb n="8r1=117"/>...
+			
+			<pb n="8v"/>			
+			<lb n="8v1=126"/>...
+			
 			<lb n="8v6=132"/>...
+		</p>
+		
+		<p>
+			yāṇṭu muppa<supplied reason="omitted">ttu</supplied> mūṉṟu nāḷ muṉṉūṟṟu muppatu
+		</p>
+		
+		<p>
+			<hi rend="grantha">svasti</hi> <g type="gomutra">.</g>
 		</p>
 		
 	</div>
@@ -156,19 +227,22 @@
 	<head xml:lang="eng">Sanskrit portion 2 of 2</head>
 		
 		<lg n="7" met="anuṣṭubh">
-			<l n="a">...</l>
-			<l n="b">...</l>
-			<l n="c">...</l>
-			<l n="d">...</l>
+			<l n="a">bhūmi-dānā<choice><sic>n</sic><corr>t</corr></choice> paran dānam·</l>
+			<l n="b">na bhūtan na bha<lb n="8v7=133" break="no"/>viṣyati</l>
+			<l n="c">tasy<choice><sic>e</sic><corr>ai</corr></choice>va haraṇ<choice><sic>ā dūta</sic><corr>āt pāpa</corr></choice>m·</l>
+			<l n="d">na bhūtan na bhaviṣyati <g type="hyphen">.</g></l>
 		</lg>
 		
 		<lg n="8" met="anuṣṭubh">
-			<l n="a">...</l>
-			<l n="b">...</l>
-			<l n="c">...</l>
-			<l n="d">...</l>
+			<l n="a">sva-datt<choice><sic>a</sic><corr>ā</corr></choice>m para-datt<choice><sic>a</sic><corr>ā</corr></choice>ṃ vā</l>
+			<l n="b">yo hareta vasūndharā<supplied reason="omitted">m</supplied></l>
+			<l n="c">ṣaṣṭim<unclear>·</unclear> varṣa-<surplus>saha</surplus>sahasrāṇi</l>
+			<l n="d"><choice><sic>ṣ</sic><corr>v</corr></choice>iṣṭhāyām· jāyate kṛmi<supplied reason="omitted">ḥ</supplied> <g type="hyphen">.</g></l>
 		</lg>
 			
+			<p>
+				...
+			</p>
 			
 	</div>
 	
@@ -178,8 +252,12 @@
 		<p>
 			...
 			<lb n="9r2=136"/>...
-			
-			<lb n="9r4=139"/>...			
+		</p>
+		
+		<p>
+			<lb n="9r3=137"/>...
+			<lb n="9r4=138"/>...
+			<lb n="9r5=139"/>...			
 			
 		</p>	
 	</div>
@@ -189,11 +267,11 @@
 				
 	<listApp>		
 		
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Mahalingam1965-1966_01">...</rdg>
-		</app>	
-					
+		<app loc="1v1=1">
+			<lem><supplied reason="lost">svastī śrī</supplied></lem>
+			<rdg source="bib:Mahalingam1965-1966_01"><supplied reason="lost">svastī śrī</supplied></rdg>
+			<note>The upper left corner of the plate is lost. This restoration is based on the occurrence of these blessings at the beginning of, for instance, IP 115.</note>
+		</app>			
 
 		</listApp>
 	
@@ -231,6 +309,8 @@
 		<p n="18-100">
 			...
 			<list>
+				<item>Kāṭakaccōmāci Trivedi-Kūḷaśarman, of the Śāṇḍilyagotra and Āpasthambasūtra, resident of Uḻappūr: two shares</item>
+				<item>Cōmāci Trivedi-Kallaśarman, of this <supplied reason="subaudible">same</supplied> <foreign>gotra</foreign> and this <supplied reason="subaudible">same</supplied> <foreign>sūtra</foreign>, resident of this <supplied reason="subaudible">same</supplied> village</item>
 				<item>...</item>
 			</list>
 		</p>
@@ -256,8 +336,15 @@
 	<div type="textpart" n="E">
 		<head xml:lang="eng">Tamil portion 2 of 2</head>
 		
+		<p n="135-136">
+			These are the letters of Nayadhīra Peruṅkāṭtukārāṉ.<note><bibl><ptr target="bib:Mahalingam1965-1966_01"/><citedRange unit="page">146</citedRange></bibl>: <quote>signatures of those responsible for the drafting and execution of the document on copper.</quote></note>
+		</p>
 		<p n="135-139">
-			...
+			<list>
+				<item>...</item>
+				<item>...</item>
+				<item>...<note><bibl><ptr target="bib:Mahalingam1965-1966_01"/><citedRange unit="page">146</citedRange><citedRange unit="note">5</citedRange></bibl>: <quote>A few more names of Brāhmaṇas written by a different hand follow the signature of Nayadhīra-Peraṅkāṭṭukāraṉ. These names were perhaps left out of the main list of donees and were inserted later.</quote></note></item>
+			</list>
 		</p>
 	</div>
 	
@@ -341,6 +428,7 @@
 
       		<p>Online images: https://www.museumsofindia.gov.in/repository/record/im_kol-13119-51. Plates in disorder.</p>
       		<p><ptr target="bib:Mahalingam1988_01"/> and <ptr target="bib:Brocquet1997_01"/> date the plates to circa 877.</p>
+      		<p>The seal is entirely defaced.</p>
       		
       	</div>
 
