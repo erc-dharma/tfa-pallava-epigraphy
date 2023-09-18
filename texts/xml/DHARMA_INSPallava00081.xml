@@ -51,7 +51,9 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>The <foreign>puḷḷi</foreign> is used in the Tamil text. For further paleaographical details, see <bibl><ptr target="bib:Mahalingam1965-1966_01"/><citedRange unit="page">144-145</citedRange></bibl>.</p>
+							<p>The <foreign>puḷḷi</foreign> is used in the Tamil text. For further paleaographical details, see <bibl><ptr
+										target="bib:Mahalingam1965-1966_01"/><citedRange unit="page"
+										>144-145</citedRange></bibl>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -226,6 +228,17 @@
 			Thirty-third year of the victorious king Nandivarman.
 		</p>
 		
+		<p n="18-100">
+			...
+			<list>
+				<item>...</item>
+			</list>
+		</p>
+		
+		<p n="100-132">
+			...
+		</p>
+		
 	</div>
 	
 	<div type="textpart" n="D">
@@ -259,8 +272,8 @@
 		
 				
 		<p rend="stanza" n="1">
-			<l>Salut ! Que vous protège Celle qui se manifeste sous les traits de Śaṅkharī, Celle qui arbore la lune sur sa coiffe,</l>	
-			<l><gap reason="lost"/> pareille à la bien-aimée du soleil, la déesse crépuscule, devant qui tous s’inclinent !</l>
+			<l>...</l>	
+			<l>...</l>
 		</p>
 		
 		<p rend="stanza" n="2">
