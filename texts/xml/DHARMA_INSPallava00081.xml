@@ -51,7 +51,9 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>The <foreign>puḷḷi</foreign> is used in the Tamil text. For further paleaographical details, see <bibl><ptr target="bib:Mahalingam1965-1966_01"/><citedRange unit="page">144-145</citedRange></bibl>.</p>
+							<p>The <foreign>puḷḷi</foreign> is used in the Tamil text. For further paleaographical details, see <bibl><ptr
+										target="bib:Mahalingam1965-1966_01"/><citedRange unit="page"
+										>144-145</citedRange></bibl>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -140,14 +142,21 @@
 		
 		<lg n="6" met="śārdūlavikrīḍita">
 			<l n="a">...</l>
-			<l n="b">...</l>
+			<l n="b">... <pb n="2"/> ...</l>
 			<l n="c">...</l>
 			<l n="d">...</l>
 		</lg>
 		
 		<p>
 			sa tu kadācid rājā rāja-<supplied reason="lost">n</supplied>i<supplied reason="lost">tya-p</supplied>ādopajīvi-rāja
-			<lb n="2r3=11"/>...
+			<lb n="2r3=11"/>ka-parivṛta<supplied reason="omitted">ḥ</supplied> kṛta-vyavasthā-sthāna-sthitis tatra sthitena parañ-cirantarānanta-sāmanta-mukhya-vikhyātena pallava-bha
+			<lb n="2r4=12" break="no"/>ktinā vilvalapureśvareṇ<choice><sic>ā</sic><corr>a</corr></choice> Avanicandra-yuvarāja-nām<unclear>n</unclear>ā dharmma-kṛtthārtthaṃ vijñ<choice><sic>ā</sic><corr>a</corr></choice>pto datta-<choice><sic>t</sic><corr>k</corr></choice>ṣaṇa
+			<lb n="2r5=13" break="no"/><choice><sic>t</sic><corr>k</corr></choice>ṣoṇīpatiḥ pratya<choice><sic>t</sic><corr>k</corr></choice>ṣa-b<choice><sic>ra</sic><corr>ṛ</corr></choice>haspatiṃ <choice><sic>t</sic><corr>k</corr></choice>ṣatra-vidyā-<unclear>vi</unclear>ca<choice><sic>t</sic><corr>k</corr></choice>ṣaṇam a<choice><sic>t</sic><corr>k</corr></choice>ṣī<choice><sic>s</sic><corr>ṇa</corr></choice>-svāmi-rāgan nāgaśarmmaṇa
+			<lb n="2r6=14" break="no"/>m· brahmādhirājāpara-nāmānan dvija-vara-mantri-varam ājñaptiṃ kṛtvā palkunda-koṭṭake kīḷ·veṃ-ṇā<unclear>ṭa</unclear>ke ceyāru-nadī
+			<lb n="2r7=15" break="no"/>da<choice><sic>t</sic><corr>k</corr></choice>ṣiṇa-kūle nelli-pullūra-takkāra-kuḍ<choice><orig>iŪ</orig><reg>iyū</reg></choice>ra catur-grām<choice><sic>ī</sic><corr>a</corr></choice>-saṃgraheṇaika-grāman nayadhīra-maṃgalaṃ sva-nā
+			<lb n="2r8=16" break="no"/>mnā kṛta-nāmānaṃ kṛtvā nija-vaṃśa-param·parāgatānāṃ śuddhābhijana-vṛtta-vidyānām· dvija-vara-bappa-bhaṭṭārakānā
+			
+			<pb n="2v" break="no"/>
 			
 			<lb n="2v1=17"/>m aṣṭ<supplied reason="omitted">ottar</supplied>aśatāya <surname>s</surname>salila-pūrvvan dattavān<unclear>·</unclear> <g type="gomutra">.</g> <space/>
 		</p>
@@ -162,52 +171,142 @@
 	<head xml:lang="eng">Tamil portion 1 of 2</head>
 		
 		<p>
-			kō-vic<choice><orig>ai</orig><reg>ai</reg></choice>ya-nan·tiva<hi rend="grantha">rmma</hi>ku yā<unclear>ṇ</unclear>ṭu mu			
+			kō-vic<choice><orig>ai</orig><reg>ai</reg></choice>ya-nan·tiva<hi rend="grantha">rmma</hi>ku yā<unclear>ṇ</unclear>ṭu mu	
 			<lb n="2v2=18" break="no"/>p·pat·tu mūṉṟāvatu
 		</p>
 		
 		<p>			
-			Avani<hi rend="grantha">candra</hi>-Iḷavaracaṉ· viṇ·ṇap·pat·tāl· <hi rend="grantha">brahmādhirāja</hi>
-			n· Aṇat·ti
+			Avani<hi rend="grantha">candra</hi>-Iḷavaracaṉ· viṇ·ṇap·pat·tāl· <hi rend="grantha">brahmādhirāja</hi>	n· Aṇat·ti
 			<lb n="2v3=19"/>Āka pal·kuṉ·ṟa-k·-kōṭṭat·tu k[<choice><sic>i</sic><corr>ī</corr></choice>ḻvēṇāṭṭu nel·liyum pul·lūruṅ· kuṭiyūru maṇa<unclear>lai</unclear>ku
 			<lb n="2v4=20" break="no"/>ḷa-nāṭṭu-t takkāṟum· In·-nāl·kūruṅ· kōvum· poṟiyun· tīr·t·tu muṉ· peṟṟārai māṟṟi ku
 			<lb n="2v5=21" break="no"/>ṭi nīk·ki <hi rend="grantha">brahmade</hi>yam-āka-p· peṟ·ṟa nal·kūṟ·-naṟ-pāppār·
 		
 			<hi rend="grantha">ṣaṇḍila-gotra</hi>tt’ āvat·tampa-cū<surplus>t·tira</surplus>
 			<lb n="2v6=22" break="no"/>t<unclear>·</unclear>tirat·t’ uḻappūr-vat·tavaṉ· kāṭaka-c·-cōmāci ti<choice><sic>ru</sic><corr>ri</corr></choice>vēti kūḷa-<hi rend="grantha">śarmma</hi>ṉ· paṅ·k’ iraṇ·ṭu <g type="hyphen">.</g> Ik·-kō
+			
 			<lb n="2v7=23" break="no"/>...
+			
+			<pb n="3r"/>
+						
+			<pb n="3v"/>
+						
+			<pb n="4r"/>
+						
+			<pb n="4v"/>
+						
+			<pb n="5r"/>
+						
+			<pb n="5v"/>			
+						
+			<pb n="6r"/>
+						
+			<pb n="6v"/>
+						
+			<pb n="7r"/>
+			
+			<lb n="7r1=98" break="no"/>ṉum <g type="hyphen">.</g> kā<hi rend="grantha">śyapa</hi>-kōtrattu paṟampur āḷuṅ kari<hi rend="grantha">śarma</hi>ṉ paṅk’ iraṇṭu <g type="hyphen">.</g> <hi rend="grantha">bra<unclear>h</unclear>mādh<supplied reason="lost">i</supplied>rāja</hi>ṉ paṅku nāl·ku <g type="hyphen">.</g> kaṭaṅ
+			<lb n="7r2=99" break="no"/>kāṭṭu-p perun tiṇai paṅk’ oṉṟu <g type="hyphen">.</g> cāttaṅkuṭi kiḻāṉ paṅk’ oṉṟu <g type="hyphen">.</g> nāṭṭiya-p perun tiṇai paṅk’ o<unclear>ṉṟu</unclear> 
+			
+			
 			<lb n="7r3=100"/>kalivicaiyaṉ paṅk’ oṉṟu <g type="hyphen">.</g> perumaṉaṭikaḷ paṅku <g type="hyphen">.</g> tiruvaṭikaḷ paṅku <g type="hyphen">.</g> <hi rend="grantha">bhaga</hi>vatiyār paṅku <g type="hyphen">.</g>
 		</p>
 		
 		<p>
 			Ivait
 			<lb n="7r4=101" break="no"/>tuḷ <hi rend="grantha">Aṣṭaśada</hi>ttiṉ mēl paṇiyāl ēṟiṉa paṅku patiṉ aintu <space/>
-			<lb n="7r5=102"/>...	
-			<lb n="7r6=103" break="no"/>mukaṉ talaik=ku vaittu nāṭṭā<supplied reason="omitted">r</supplied> viṭunta Aṟaiyōlai-p paṭiyāl nā		
-			<lb n="7r7=104" break="no"/>ṭṭu viyavaṉ colliya ...
-			<lb n="7r8=105" break="no"/>...		
-			<lb n="7r9=106" break="no"/>...		
-			<lb n="7r10=107" break="no"/>...	
+			<lb n="7r5=102"/>
+			nūṟṟeṇ<unclear reason="eccentric_ductus">m</unclear>ar nāl<surplus>kū</surplus>kū<supplied reason="omitted">r</supplied> naṟ-pā<supplied reason="omitted">r</supplied>ppā<supplied reason="omitted">r</supplied>k=ku <hi rend="grantha">brahmade</hi>yam Aruḷic c<choice><orig>ē</orig><reg>ey</reg></choice>ta tiru
 			
+			<lb n="7r6=103" break="no"/>mukaṉ talaik=ku vaittu nāṭṭā<supplied reason="omitted">r</supplied> viṭunta Aṟaiyōlai-p paṭiyāl nā		
+			<lb n="7r7=104" break="no"/>ṭṭu viyavaṉ colliya kīḻpāṟk’ ellai pāṭi Ērik=kum cālai-nal <space/>
+			<lb n="7r8=105" break="no"/>lūr nattattin mēlai kaḷāṅkēṇik=ku mēk=kum tenpār<unclear>ṟ</unclear>kk’ e		
+			<lb n="7r9=106" break="no"/>llai necalar-p-pūṇṭi Ērik=kum nākaṭi-maṅkalattu <unclear>va</unclear>riccu-kāluk=kum cātā-maṅkalattu	
+			<lb n="7r10=107" break="no"/>k=ku nāraikuḻalaik=ku vaṭakku
+mēlpāṟk’ ellai paḻaṅkōḷūr Ellaiyin kiḻakkum <space/>
+				
 			<pb n="7v"/>
 			
-			<lb n="7v1=108"/>			
-			<lb n="7v2=109" break="no"/>...
-			
+			<lb n="7v1=108"/>vaṭapāṟk’ ellai paḻaṅkōḷ<unclear>ū</unclear>r Ellaiyiluñ cēyāṟṟuḷ pākam peṟavun teṟku<choice><orig>mm</orig><reg>m</reg></choice> in-nāl			
+			<lb n="7v2=109" break="no"/>k’ ellai-y akattu<choice><orig>mm</orig><reg>m</reg></choice> akapaṭṭa nīru-nilaṉu<supplied reason="omitted">m</supplied> pu<choice><sic>ṉ</sic><corr>ñ</corr></choice>ceyuṅ kāṭuṅ kaḷaru<choice><orig>mm</orig><reg>m</reg></choice> uṭump’ ōṭiy āmai tava
+			<lb n="7v3=110" break="no"/>ḻ·<unclear reason="eccentric_ductus">n</unclear>tat’ ellān nayadhīramangalam ennum pērā<choice><sic><hi rend="grantha">n</hi></sic><corr>l</corr></choice> <hi rend="grantha">sarvva</hi>-<add place="below">pa</add><hi rend="grantha">rihā</hi>ram uḷ·ḷaṭaṅka sāmānya
+			<lb n="7v4=111"/>Iraṇṭu paṭṭi-p paṭiyāl <hi rend="grantha">brahmade</hi>yam āyittu
+		</p>
+		<p>
+			Ip-paṭiyālē pāṟcāttum			
 			<lb n="7v5=112"/>paratattiyuñ celvat’ āka-v aruḷi-c c<choice><orig>ē</orig><reg>ey</reg></choice>tu paratatti ceytatu
 		</p>
 		
 		<p>			
-			...
-			<lb n="7v6=113"/>
+			Ivv-ūr peṟṟa
+			<lb n="7v6=113"/>pari<hi rend="grantha">hā</hi>raṅ kōyil-va<hi rend="grantha">stu</hi>-c cekkun taṟiyum Uḷḷiya-k kūliyum ētta-k-kā
+			<lb n="7v7=114" break="no"/>namuñ cāṭi-p-poṉṉuṅ kāruṅ teṅkam poṉṉum Upakaraṇa-t-taṇṭamu<choice><orig>mm</orig><reg>m</reg></choice> atikaraṇa-t
+			<lb n="7v8=115" break="no"/>-taṇṭamum pattūr-c-cāṟṟ’ uḻavai-paḷḷi-va<hi rend="grantha">stu</hi>vum Aṟap<unclear>puṟā</unclear>-t-taṇṭamuñ ceyivu pōka-c ciṟa
+			<lb n="7v9=116" break="no"/>nta poṉṉum Uṟi-k-kāṇamum paṟi-k-kāṇamum nīrtūkku-k-kāṇamum puṭṭaka-vilaiyum paṭṭikai			
 			
-			<pb n="8r"/>
-			<lb n="8r1=117"/>...
+			<pb n="8r" break="no"/>
+			<lb n="8r1=117"/>-k-kāṇamum pirāmaṇicca-k-kāṇamuṅ kaṇṇīttu-k-kaṇamuṅ kālkōṭṭu-k-kāṇamuñ ceṅk<unclear>o</unclear>
+			<lb n="8r2=118" break="no"/>ṭiy-k-kāṇamum Āṭṭu-k-kāṇamum nāvita-k-kāṇamuṅ kuvaḷai-k-kāṇamum vaṇṇā<supplied reason="omitted">ra</supplied>-k-kā<supplied reason="omitted">ṇa</supplied>mum veṇ
+			<lb n="8r3=119" break="no"/>ṇilattu-t teṅkuṅ kamukum iṭṭaṉa kālkōṭṭ’ iṟāmeyum paṉṉīr āṭṭai-k-karai-y iṟāmeyu-
+			<lb n="8r4=120"/>m
+		</p>
+		
+		<p>
+			paṇṭuṇṇun nīrkk’ uritt’ ākavum
+		</p>
+		
+		<p>
 			
+			nāṭu-kāppāṉum pukāpeyu
+			<lb n="8r5=121" break="no"/>m Ivarkaḷ ceyappālaṉa I<supplied reason="omitted">va</supplied>rum ivar-vaḻi-k kaṇṇārumē ceyivār ākavum
+		</p>
+		
+		<p>			
+			Ivar
+			<lb n="8r6=122" break="no"/>kaḷukku Āṟṟuḷ niṉṟum Ērikaḷuḷ niṉṟun nīr-īnta vaḻi tō<add place="below">ṇ</add>ṭi-k-koṇṭu-<unclear>p</unclear>
+			<lb n="8r7=123"/>pō<supplied reason="omitted">vā</supplied>r ākavum
+		</p>
+		
+		<p>			
+			Ik-kālkaḷ pōnta nilam pōṉa māṟṟi Ivarkaḷē tu<supplied reason="omitted">y</supplied>ppār ākavum
+		</p>
+		
+		<p>
+			Ivarkaḷu
+			<lb n="8r8=124" break="no"/>kk’ aṟaint’ āḻi pōki-kkaṉ-ṉāṭṭi k<unclear>ū</unclear>kai pukutti Ivai-Um ivai-y uḷḷiṭṭa pari<hi rend="grantha">hā</hi>raṅkaḷum uḷ
+			<lb n="8r9=125" break="no"/><supplied reason="lost">ḷaṭaṅka</supplied> <hi rend="grantha">sā</hi>mā<hi rend="grantha">nya</hi> Iraṇṭu paṭṭi-p paṭiyāl <hi rend="grantha"><unclear>bra</unclear>hmade</hi>yam āyiṟṟu
+		</p>
+		
+		<p>			
+			Ivv-ūrkaḷil nelli-Ēri Ivarkaḷ kiṟkum
 			<pb n="8v"/>			
-			<lb n="8v1=126"/>...
-			
-			<lb n="8v5=131"/>...
+			<lb n="8v1=126"/>... v<unclear>i</unclear>riya-t tōṇṭiṉāl ceṉṟu nīr kōkku<choice><orig>mm</orig><reg>m</reg></choice> alavuṅ kōkka-p peruvat’ ākavum
+		</p>
+		<p>			
+			Ivv-ūr Ērikaluk
+			<lb n="8v2=127" break="no"/>ku Āṟṟu<supplied reason="omitted">k</supplied>kāl nīr īnta vaḻi tōṇṭi-k koṇṭ’ uṇṇa-p peṟuvār ākavum
+		</p>
+		
+		<p>			
+			Ik-kālkaḷ kōlkalamum
+			<lb n="8v3=128"/>puḻutipāṭum peṟuvat’ ākavum
+		</p>
+		
+		<p>			
+			Ik-kālkaḷ kūṭai-Eṟittuṅ kuṟṟēttam paṇṇiyuṅ kuṟaṅk’ aṟuttu
+			<lb n="8v4=129" break="no"/>ṅ koḷḷa-p peṟātār ākavum
+		</p>
+		
+		<p>			
+			koṇṭār kōviṉāṟ-ṟaṇṭika-p paṭuvār ākavum
+		</p>
+		
+		<p>			
+			<lb n="8v5=130"/>Ivaru<choice><orig>mm</orig><reg>m</reg></choice> ivar-vaḻikkaṇṇārum māṭamum māḷikaiyum Eṭuttu-<supplied reason="omitted">k</supplied> koṇṭ-irukka
+			<lb n="8v6=131" break="no"/>-p peṟuvār ākavum
+		</p>
+		
+		<p>			
+			ceṅkaḻunīrun tamaṉakamum Iṭa-p peṟuvār <choice><sic>a</sic><corr>ā</corr></choice>kavu<choice><orig>mm</orig><reg>m</reg></choice> 
 		</p>
 		
 		<p>
@@ -239,9 +338,12 @@
 			<l n="d"><choice><sic>ṣ</sic><corr>v</corr></choice>iṣṭhāyām· jāyate kṛmi<supplied reason="omitted">ḥ</supplied> <g type="hyphen">.</g></l>
 		</lg>
 			
-			<p>
-				...
-			</p>
+		<p>
+			rakṣā ...			
+			<pb n="9r"/>
+			<lb n="9r1=135"/>...
+			
+		</p>
 			
 	</div>
 	
@@ -260,6 +362,12 @@
 			<lb n="9r5=139" break="no"/>tt’ āvattampa-cū<hi rend="grantha">tra</hi>ttu pūṇiya-vattavaṉ· ceṭṭa<hi rend="grantha">śarma</hi>ṉum <g type="gomutra">.</g>			
 			
 		</p>	
+		
+		<p>
+						
+			<pb n="9v"/>
+			
+		</p>
 	</div>
 </div>
 			
