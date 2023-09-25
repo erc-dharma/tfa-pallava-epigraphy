@@ -125,18 +125,22 @@
 </div>
 
       	<div type="translation" resp="part:emfr">
-      		<p>
-      			May Rājasiṃha <supplied reason="explanation">the lion among kings</supplied> Raṇajaya <supplied reason="explanation">the victorious one among kings</supplied> Śrībhara <supplied reason="explanation">the Fortune-bearer</supplied> Citrakārmuka <supplied reason="explanation">he whose quiver is a wonder</supplied> Ekavīra <supplied reason="explanation">the unique hero</supplied> Śivacūḍāmaṇi <supplied reason="explanation">he who has Śiva as diadem</supplied> protect the earth for long.
+      		<p rend="stanza" n="1">
+      			
+      			<l>May Rājasiṃha <supplied reason="explanation">the lion among kings</supplied> Raṇajaya <supplied reason="explanation">the victorious one among kings</supplied></l>
+      			<l>Śrībhara <supplied reason="explanation">the Fortune-bearer</supplied> Citrakārmuka <supplied reason="explanation">he whose quiver is a wonder</supplied></l> 
+      			<l>Ekavīra <supplied reason="explanation">the unique hero</supplied> Śivacūḍāmaṇi <supplied reason="explanation">he who has Śiva as diadem</supplied> protect the earth for long.</l>
       		</p>
       	</div>
       	
       	<div type="translation" xml:lang="fra" resp="part:sybr"><!--add second translator: part:emfr"-->
-      		<p>
+      		<p rend="stanza" n="1">
       			<l>Puisse Rājasiṃha, le vainqueur au combat,</l>
       			<l>Celui qui apporte la prospérité, celui qui possède un arc resplendissant,</l>
       			<l>Le héros unique, longtemps protéger la terre,</l>
       			<l>Lui qui porte Śiva comme diadème !</l>
       		</p>
+      		
       	</div>
       	
       	<div type="commentary">
