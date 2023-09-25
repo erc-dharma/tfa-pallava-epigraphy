@@ -88,10 +88,10 @@
          <div type="edition" xml:lang="san-Latn">
          	
             <lg n="1" met="sragdharā">
-            	<l n="a"><lb n="1"/>viśvārambhādibījād a<supplied reason="omitted">ja</supplied>ni kila kaver aṃgirā nāma putro</l>
-            	<l n="b">vidyeśaṃ sa<unclear>t</unclear>ya<unclear>p</unclear>ū<supplied reason="lost">tat</supplied>r<supplied reason="lost">ida</supplied><unclear>śag</unclear>ur<unclear>u</unclear>m abh<choice><sic>u</sic><corr>ū</corr></choice><unclear>t</unclear> tasya śaṃyus tanū jaḥ</l>
-            	<l n="c">tatsūnor jjanma tejonidhir akṛta bharadvājanāmno munīndrāN·</l>
-            	<l n="d">droṇa<supplied reason="lost">s t</supplied>enodapādi prathitabhujabalo droṇir aṃśaḥ purāreḥ <g type="ddandaOrnate">.</g></l>
+            	<l n="a"><lb n="1"/>viśvārambhādi-bījād a<supplied reason="omitted">ja</supplied>ni kila kaver aṃgirā nāma putro</l>
+            	<l n="b">vidyeśaṃ sa<unclear>t</unclear>ya-<unclear>p</unclear>ū<supplied reason="lost">ta-t</supplied>r<supplied reason="lost">ida</supplied><unclear>śa-g</unclear>ur<unclear>u</unclear>m abh<choice><sic>u</sic><corr>ū</corr></choice><unclear>t</unclear> tasya śaṃyus tanūjaḥ</l>
+            	<l n="c">tat-sūnor jjanma tejonidhir akṛta bharadvāja-nāmno munīndrāN·</l>
+            	<l n="d">droṇa<supplied reason="lost">s t</supplied>enodapādi prathita-bhuja-balo dr<choice><orig>o</orig><reg>au</reg></choice>ṇir aṃśaḥ purāreḥ <g type="ddandaOrnate">.</g></l>
             </lg>
          	
          	<lg n="2" met="sragdharā">
@@ -130,8 +130,8 @@
          	</lg>            
          	
          	<lg n="7" met="uncertain">
-         		<l n="ab"><unclear>ma</unclear>h<unclear>ī</unclear>bhujā maheśvaracūḷāmaṇinā vinirmmite</l>
-         		<l n="cd">sthitim etu maheśvaro maheśvaracūḷā maṇipallaveśvare <g type="ddandaOrnate">.</g></l>
+         		<l n="ab"><unclear>ma</unclear>h<unclear>ī</unclear>bhujā maheśvara-cūḷā-maṇinā vinirmmite</l>
+         		<l n="cd">sthitim etu maheśvaro maheśvara-cūḷā-maṇi-pallaveśvare <g type="ddandaOrnate">.</g></l>
          	</lg>            
          	
          </div>
@@ -140,13 +140,23 @@
 
 	<listApp>
 
-		<app loc="1">
+		<!--<app loc="1">
 			<lem>...</lem>			
 			<rdg source="bib:Jouveau-Dubreuil1916_01">...</rdg>
 			<rdg source="bib:Jouveau-Dubreuil1916-1917_01">...</rdg>
 			<rdg source="bib:Rangacharya1927-1928_01">...</rdg>
 			
+		</app>-->
+					
+		<app loc="1">
+			<lem>sa<unclear>t</unclear>ya-<unclear>p</unclear>ū<supplied reason="lost">ta-t</supplied>r<supplied reason="lost">ida</supplied><unclear>śa-g</unclear>ur<unclear>u</unclear>m</lem>
+			<note>Conjectural restoration suggested by Dominic Goodall.</note>
 		</app>
+		
+		<app loc="1">
+			<lem>bharadvāja-nāmno</lem>
+			<note>The syllables <foreign>janā</foreign> are not readable on the available estampage as they are on the spot hidden behind a wood frame.</note>
+		</app>	
 		
 	</listApp>
 
@@ -155,10 +165,7 @@
       	<div type="translation" resp="part:emfr">
       		
       		<p rend="stanza" n="1">
-      			<l>...</l>
-      			<l>...</l>
-      			<l>...</l>
-      			<l>...</l>
+      			<l>From the poet <supplied reason="explanation"><foreign>kavi</foreign><note>That is, Brahmā, who uttered the Vedas.</note></supplied> who is the primordial seed <supplied reason="subaudible">which gave</supplied> beginning to the universe, the son named Aṅgiras engendered <supplied reason="explanation"><foreign>ajani</foreign><note>To be taken as a causative form, as suggested by S.L.P. Anyaneya Sarma.</note></supplied>, as is well known <supplied reason="explanation"><foreign>kila</foreign></supplied>, the lord of knowledge Tridaśaguru<note>That is, "the preceptor of the tirthy [gods]," that is, Bṛhaspati.</note> purified by truth. His son was Śaṃyu. From his son, the best among the sages <supplied reason="explanation"><foreign>munīndra</foreign></supplied>, named Bharadvāja, was born a treasure of majesty <supplied reason="explanation"><foreign>tejas</foreign></supplied>: Droṇa. By him <supplied reason="explanation"><foreign>tena</foreign></supplied> was born Drauṇi<note>That is, Aśvatthāman.</note>, who is renowned for the strength of his arms and is a partial incarnation of the enemy of Pura<note>That is, Śiva.</note>.</l>
       		</p>
 
       		<p rend="stanza" n="2">
@@ -195,10 +202,7 @@
       			<l>...</l>
       		</p>
       		<p rend="stanza" n="7">
-      			<l>...</l>
-      			<l>...</l>
-      			<l>...</l>
-      			<l>...</l>
+      			<l>In the Maheśvaracūḷāmaṇipallaveśvara<note>That is, "[the temple of] the lord [installed by] Maheśvaracūḷāmaṇi.</note> built by the king Maheśvaracūḷāmaṇi<note>That is, "he who has Maheśvara (that is, Śiva) as crown jewel," that is, a devotee of Śiva.</note> let Maheśvara come into residence <supplied reason="explanation"><foreign>sthitim etu</foreign></supplied>.</l>
       		</p>      		
       		
       	</div>
@@ -289,7 +293,16 @@
       				<citedRange unit="page">10-21</citedRange>
       				<citedRange unit="plate">II</citedRange>
       			</bibl>      			
-      			      			      			
+      			      	
+      			<bibl n="SA">
+      				<ptr target="bib:SankaraAiyar1919_01"/>
+      			</bibl>
+      			
+      			<bibl n="S">
+      				<ptr target="bib:SankaraAiyar1922-1923_01"/>
+      				<citedRange unit="page">574-575</citedRange>
+      			</bibl>
+      			
       			<bibl n="VR">
       				<ptr target="bib:Rangacharya1927-1928_01"/>
       				<citedRange unit="page">109-115</citedRange>
