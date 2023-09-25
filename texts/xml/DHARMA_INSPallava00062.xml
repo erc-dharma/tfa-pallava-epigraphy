@@ -140,13 +140,15 @@
 
 	<listApp>
 
-		<!--<app loc="1">
+		<!--
+		<app loc="1">
 			<lem>...</lem>			
 			<rdg source="bib:Jouveau-Dubreuil1916_01">...</rdg>
 			<rdg source="bib:Jouveau-Dubreuil1916-1917_01">...</rdg>
 			<rdg source="bib:Rangacharya1927-1928_01">...</rdg>
 			
-		</app>-->
+		</app>
+		-->
 					
 		<app loc="1">
 			<lem>sa<unclear>t</unclear>ya-<unclear>p</unclear>ū<supplied reason="lost">ta-t</supplied>r<supplied reason="lost">ida</supplied><unclear>śa-g</unclear>ur<unclear>u</unclear>m</lem>
@@ -158,6 +160,10 @@
 			<note>The syllables <foreign>janā</foreign> are not readable on the available estampage as they are on the spot hidden behind a wood frame.</note>
 		</app>	
 		
+		<!--<app loc="1">
+			<lem>munīndrāN·</lem>			
+		</app>-->
+		
 	</listApp>
 
 </div>
@@ -165,7 +171,7 @@
       	<div type="translation" resp="part:emfr">
       		
       		<p rend="stanza" n="1">
-      			<l>From the poet <supplied reason="explanation"><foreign>kavi</foreign><note>That is, Brahmā, who uttered the Vedas.</note></supplied> who is the primordial seed <supplied reason="subaudible">which gave</supplied> beginning to the universe, the son named Aṅgiras engendered <supplied reason="explanation"><foreign>ajani</foreign><note>To be taken as a causative form, as suggested by S.L.P. Anyaneya Sarma.</note></supplied>, as is well known <supplied reason="explanation"><foreign>kila</foreign></supplied>, the lord of knowledge Tridaśaguru<note>That is, "the preceptor of the tirthy [gods]," that is, Bṛhaspati.</note> purified by truth. His son was Śaṃyu. From his son, the best among the sages <supplied reason="explanation"><foreign>munīndra</foreign></supplied>, named Bharadvāja, was born a treasure of majesty <supplied reason="explanation"><foreign>tejas</foreign></supplied>: Droṇa. By him <supplied reason="explanation"><foreign>tena</foreign></supplied> was born Drauṇi<note>That is, Aśvatthāman.</note>, who is renowned for the strength of his arms and is a partial incarnation of the enemy of Pura<note>That is, Śiva.</note>.</l>
+      			<l>From the poet <supplied reason="explanation"><foreign>kavi</foreign><note>That is, Brahmā, who uttered the Vedas.</note></supplied> who is the primordial seed <supplied reason="subaudible">which gave</supplied> beginning to the universe, the son named Aṅgiras engendered <supplied reason="explanation"><foreign>ajani</foreign><note>To be taken as a causative form with <foreign>°gurum</foreign> as itsdirect object, as suggested by S.L.P. Anyaneya Sarma.</note></supplied>, as is well known <supplied reason="explanation"><foreign>kila</foreign></supplied>, the lord of knowledge Tridaśaguru<note>That is, "the preceptor of the tirthy [gods]," that is, Bṛhaspati.</note> purified by truth. His son was Śaṃyu. From his son, the best among the sages <supplied reason="explanation"><foreign>munīndra</foreign></supplied>, named Bharadvāja, was born a treasure of majesty <supplied reason="explanation"><foreign>tejas</foreign></supplied>: Droṇa. By him <supplied reason="explanation"><foreign>tena</foreign></supplied> was born Drauṇi<note>That is, Aśvatthāman.</note>, who is renowned for the strength of his arms and is a partial incarnation of the enemy of Pura<note>That is, Śiva.</note>.</l>
       		</p>
 
       		<p rend="stanza" n="2">
@@ -217,37 +223,38 @@
       		</p>
 
       		<p rend="stanza" n="2">
-      			<l>...</l>
-      			<l>...</l>
-      			<l>...</l>
-      			<l>...</l>
+      			<l>Puis, issu de cet Aśvatthāman, purifié par les sévères ascèses qu’il avait multipliées, apparut,</l>
+      			<l>Comme de la doctrine sacrée<note>C’est-à-dire le <foreign>Veda</foreign>.</note> s’écoule le flot des sciences annexes, le favori de la terre, nommé Pallava.</l>
+      			<l>De ce dernier, qui avait posé le pied sur le chemin qui purifie, <supplied reason="lost">descend</supplied>,</l>
+      			<l>Comme le cours de la Mandākinī descend de la lune<note>Rencontrée lors de son passage sur la chevelure de Śiva.</note>, cette estimable et grande lignée des Pallava. »
+</l>
       		</p>
       		
       		<p rend="stanza" n="3">
-      			<l>...</l>
-      			<l>...</l>
-      			<l>...</l>
-      			<l>...</l>
+      			<l>Des Pallava, monarques suprêmes purifiés par le bain qui clôt le sacrifice du cheval, maîtres de la terre,</l>
+      			<l>Jamais effleurés par le plus petit malheur, issus de la lignée, pure entre toutes, de Bharadvāja,</l>
+      			<l>Celui qui fut l’emblème, et dont la gloire se répandit sur le cercle de la terre, conquise par son bras et sa richesse impérissables,</l>
+      			<l>Le seigneur Ekamalla donna naissance à un fils – comme le divin Seigneur Suprême à Guha :</l>
       		</p>
 
       		<p rend="stanza" n="4">
-      			<l>...</l>
-      			<l>...</l>
-      			<l>...</l>
-      			<l>...</l>
+      			<l><gap reason="lost"/> brillant par son bras et sa richesse,</l>
+      			<l>Puissant par sa nature<note>Il n’est pas facile de déterminer les sens que revêt ici le mot sattva-, qui signifie « caractère », « qualité innée », ou, plus particulièrement, « fermeté », « énergie », « courage » – mais qui désigne aussi le plus haut des trois guṇa, la pureté, qualité spécifique des brahmanes. Les Pallava (on le voit du reste dans cette inscription) prétendaient être d’origine brahmanique, ce qui rend plausible cette seconde interprétation. Le composé indiquerait alors que Rājasiṃha doit sa puissance à sa pureté, plutôt qu’à ses qualités guerrières, auxquelles font référence les deux autres qualificatifs de cet hémistiche.</note>, révélant au combat sa force immense,</l>
+      			<l>Celui-ci, sous le nom de Rājasiṃha, vit se répandre sa gloire sans tache,</l>
+      			<l>Et fut un lion royal pour ces éléphants qu’étaient ses ennemis gonflés d’orgueil.</l>
       		</p>
       		<p rend="stanza" n="5">
-      			<l>...</l>
-      			<l>...</l>
-      			<l>...</l>
-      			<l>...</l>
+      			<l>Il est le destructeur d’une multitude d’armées ennemies,</l>
+      			<l>L’auteur d’une suite ininterrompue d’actes auspicieux,</l>
+      			<l>Celui dans le cœur duquel, sans cesse purifié par les dévotions accomplies,</l>
+      			<l>Le dieu dont la lune orne le diadème pose son pied.</l>
       		</p>
 
       		<p rend="stanza" n="6">
-      			<l>...</l>
-      			<l>...</l>
-      			<l>...</l>
-      			<l>...</l>
+      			<l><gap reason="lost"/> riche de multiples branches/écoles,</l>
+      			<l><gap reason="lost"/> déployant la beauté de ses fruits et de ses fleurs,</l>
+      			<l>Pareille à l’arbre qu’asperge sans cesse l’eau de ses actes vertueux, <gap reason="lost"/></l>
+      			<l><gap reason="lost"/> bien que brûlée par la chaleur de l’âge Kali, le <foreign>dharma</foreign> est victorieux !</l>
       		</p>
       		<p rend="stanza" n="7">
       			<l>...</l>
@@ -259,7 +266,7 @@
       	</div>
       	
       	<div type="commentary">
-      		<p>...</p>
+      		<p>The now fully available mythical ancestry of the Pallavas in the stanzas 1 gives the canonical list of mythical ancestors of the Pallavas, except that Viṣṇu (from whose navel arose Brahmā) is not mentioned: Brahmā (<foreign>kavi</foreign>), Aṅgiras, Bṛhaspati (<foreign>tridaśaguru</foreign>), Śaṃyu, Bharadvāja, Droṇa, Aśvatthāman (<foreign>drauṇi</foreign>, <foreign>purāreḥ aṃśa</foreign>).</p>
       	</div>
       	
       	<div type="bibliography">
@@ -277,7 +284,7 @@
 	text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 46).
 </p>
 <p>
-	re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2023), based on autopsy and photographs (2011).
+	Re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2023), based on autopsy and photographs (2011). First edition and translation of the complete text. 
 </p>
 
       		<listBibl type="primary">
