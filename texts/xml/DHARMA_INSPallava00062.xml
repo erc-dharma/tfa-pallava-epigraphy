@@ -216,18 +216,17 @@
       	<div type="translation" xml:lang="fra" resp="part:sybr"><!--add second translator: part:emfr"-->
       		
       		<p rend="stanza" n="1">
-      			<l>...</l>
-      			<l>...</l>
-      			<l>...</l>
-      			<l>...</l>
+      			<l><gap reason="lost"/></l>
+      			<l><gap reason="lost"/></l>
+      			<l><gap reason="lost"/></l>
+      			<l><gap reason="lost"/> naquit Drauṇi, célèbre pour la force de ses bras, incarnation partielle de l’ennemi de Pura.</l>
       		</p>
 
       		<p rend="stanza" n="2">
       			<l>Puis, issu de cet Aśvatthāman, purifié par les sévères ascèses qu’il avait multipliées, apparut,</l>
       			<l>Comme de la doctrine sacrée<note>C’est-à-dire le <foreign>Veda</foreign>.</note> s’écoule le flot des sciences annexes, le favori de la terre, nommé Pallava.</l>
       			<l>De ce dernier, qui avait posé le pied sur le chemin qui purifie, <supplied reason="lost">descend</supplied>,</l>
-      			<l>Comme le cours de la Mandākinī descend de la lune<note>Rencontrée lors de son passage sur la chevelure de Śiva.</note>, cette estimable et grande lignée des Pallava. »
-</l>
+      			<l>Comme le cours de la Mandākinī descend de la lune<note>Rencontrée lors de son passage sur la chevelure de Śiva.</note>, cette estimable et grande lignée des Pallava.</l>
       		</p>
       		
       		<p rend="stanza" n="3">
@@ -284,7 +283,7 @@
 	text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 46).
 </p>
 <p>
-	Re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2023), based on autopsy and photographs (2011). First edition and translation of the complete text. 
+	Re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2023), based on published visual documentation, autopsy, partial estampages (2011) and photographs (2011). First edition and translation of the complete text. 
 </p>
 
       		<listBibl type="primary">
@@ -324,7 +323,7 @@
       			
       			<bibl n="SB">
       				<ptr target="bib:Brocquet1997_01"/>
-      				<citedRange unit="page">TBC</citedRange>
+      				<citedRange unit="page">587-591</citedRange>
       				<citedRange unit="item">46</citedRange>            		
       			</bibl>
       			
@@ -347,12 +346,7 @@
       				<citedRange unit="appendix">B/1974-1975</citedRange>
       				<citedRange unit="item">109</citedRange>
       			</bibl>     
-      			
-      			<!--<bibl>
-      				<ptr target="bib:Srinivasan1964_01"/>
-      				<citedRange unit="page">110</citedRange>
-      			</bibl>-->
-      			
+      			      			
       			<bibl>
       				<ptr target="bib:Francis2013_01"/>
       				<citedRange unit="item">IR 43</citedRange>
