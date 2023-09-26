@@ -347,14 +347,15 @@
       	<div type="bibliography">
       		
 <p>
-	First reported in <bibl><ptr target="bib:ARIE1915-1916"/>
-      				</bibl> (ARIE/1915-1916/B/1915/616) with a plate;
+	First reported in <bibl><ptr target="bib:ARIE1915-1916"/></bibl> (ARIE/1915-1916/B/1915/616) with a plate;
 	reported again in <bibl><ptr target="bib:ARIE1974-1975"/></bibl> (ARIE/1974-1975/B/1974-1975/109), when until then covered portions were exposed following renovation work.
 </p>
       		
 <p>
-	First edited in <bibl><ptr target="bib:Jouveau-Dubreuil1916_01"/></bibl> with tentative English translation and visual documentation and in <bibl><ptr target="bib:Jouveau-Dubreuil1916-1917_01"/></bibl> with French translation and visual documentation;
-	re-edited in <bibl><ptr target="bib:Rangacharya1927-1928_01"/></bibl> (EI 19, no. 18B);
+	First edited in <bibl><ptr target="bib:Jouveau-Dubreuil1916_01"/></bibl> with tentative English translation (by S. Krishnaswami Aiyangar) and visual documentation and in <bibl><ptr target="bib:Jouveau-Dubreuil1916-1917_01"/></bibl> with French translation and visual documentation;
+	re-edited and translated in <bibl><ptr target="bib:SankaraAiyar1919_01"/></bibl>;
+	re-edited in <bibl><ptr target="bib:SankaraAiyar1922-1923_01"/></bibl>;
+	re-edited and translated in <bibl><ptr target="bib:Rangacharya1927-1928_01"/></bibl> (EI 19, no. 18B);
 	text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 62);
 	text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 46).
 </p>
@@ -427,6 +428,13 @@
       				<ptr target="bib:Francis2013_01"/>
       				<citedRange unit="item">IR 43</citedRange>
       			</bibl>
+      			
+      			<bibl>
+      				<ptr target="bib:MarxiaGandhi+al2011_01"/>
+      				<citedRange unit="page">246</citedRange>
+      				<note>SII 30, no. 264. Text carelessly reproduced from EI 19, no. 18B.</note>
+      			</bibl>
+      			
       		</listBibl>
       		
          </div>
