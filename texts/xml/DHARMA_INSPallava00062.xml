@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Paṉaimalai, temple, eulogy, time of Narasiṃhavarman II </title>
+				<title>Paṉaimalai, temple, time of Narasiṃhavarman II </title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -95,14 +95,14 @@
             </lg>
          	
          	<lg n="2" met="sragdharā">
-         		<l n="a">Aśvatthā<space type="unclassified"/><milestone unit="segment" n="5"/><space type="unclassified"/> mno ’<unclear reason="eccentric_ductus">th</unclear>a tasmān nicita-guru-tapo-nirmma<milestone unit="segment" n="6"/>lād āvir āsīd</l>
+         		<l n="a">Aśvatthā<space type="unclassified"/><milestone unit="segment" n="5"/><space type="unclassified"/>mno ’<unclear reason="eccentric_ductus">th</unclear>a tasmān nicita-guru-tapo-nirmma<milestone unit="segment" n="6"/>lād āvir āsīd</l>
             	<l n="b">āmnāyād aṃga-vidyā-visara Iva mahī-valla<space type="unclassified"/><seg met="++-"><gap reason="lost" quantity="3" unit="character"/></seg>vākhyaḥ<space type="feature"/> </l>
             	<l n="c">yasmād eṣa <space type="unclassified"/><seg met="-++"><gap reason="lost" quantity="3" unit="character"/></seg> pathi vihita-padāt pāvane mānanīyo</l>
             	<l n="d">mandākinyā<supplied reason="omitted">ḥ</supplied> pravā<milestone unit="segment" n="7"/>haḥ śaśina Iva mahān anvayaḥ pallavānāM· <g type="ddandaOrnate">.</g></l>
             </lg>
          	
          	<lg n="3" met="sragdharā">
-         		<l n="a">samrājām aśvame<milestone unit="segment" n="8"/>dhāvabhṛtha-virajasāṃ bhūbhujāṃ pallavānām</l>
+         		<l n="a">samrājām aśvame<milestone unit="segment" n="8"/><space type="feature"/>dhāvabhṛtha-virajasāṃ bhūbhujāṃ pallavānām</l>
             	<l n="b">aspṛ<milestone unit="segment" n="9"/>ṣṭāpal-lavānāṃ vimalatara-bharadvāja-vaṃśodbhavānāM·</l>
             	<l n="c">keto<milestone unit="segment" n="10"/>r a<choice><sic>t</sic><corr>k</corr></choice>ṣīṇa-bāhu-draviṇa-hṛta-mahī-cakra-vikhyāta-kīrtter</l>
             	<l n="d">yyo devā<milestone unit="segment" n="11"/>d ekamallād guha Iva para<supplied reason="lost">mād īśvarād ātta-janmā <g type="ddandaOrnate">.</g></supplied></l>
@@ -124,14 +124,14 @@
          	
          	<lg n="6" met="sragdharā">
          		<l n="a" real="++++-++------++-++-+=">saṃrūḍhāmnāya-mūla-smṛti-vacana-mayāneka-śākhā-samagraḥ</l>
-         		<l n="b" real="+-++-++------++-++-+=">śiṣṭāc<choice><sic>a</sic><corr>ā</corr></choice>rai<supplied reason="lost">r</supplied> vv<seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg><seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg>t<choice><unclear>e</unclear><unclear>ai</unclear></choice>ḥ <unclear>pha</unclear>la-kusuma-kṛtākāntim ālamba<milestone unit="segment" n="17"/>mānāḥ</l>
+         		<l n="b" real="+-++-++------++-++-+=">śiṣṭāc<choice><sic>a</sic><corr>ā</corr></choice>rai<supplied reason="lost">r</supplied> vv<seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg><seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg>t<choice><unclear>e</unclear><unclear>ai</unclear></choice>ḥ <unclear>pha</unclear>la-kusuma-kṛtākāntim ālamba<milestone unit="segment" n="17"/>mān<choice><sic>ā</sic><corr>a</corr></choice>ḥ</l>
          		<l n="c" real="++++-++------++-++-+=">sad-vṛttāmbho-n<unclear>i</unclear>ṣekair ddruma Iva satata<unclear>n ta</unclear>sya [- - u  -]<seg met="++-+"><gap reason="lost" quantity="4" unit="character"/></seg><milestone unit="segment" n="18"/>yaiś</l>
          		<l n="d" real="++++-++------++-++-+=">chāy<unclear>ā</unclear>m ṛ<seg met="+-++--"><gap reason="lost" quantity="6" unit="character"/></seg> ja<unclear>ya</unclear>ti kali-yuga-g<unclear>r</unclear>īṣma-tapte ’pi dharmmaḥ <milestone unit="segment" n="19"/> <g type="ddandaOrnate">.</g></l>
          	</lg>            
          	
          	<lg n="7" met="uncertain">
-         		<l n="ab"><unclear>ma</unclear>h<unclear>ī</unclear>bhujā maheśvara-cūḷā-maṇinā vinirmmite</l>
-         		<l n="cd">sthitim etu maheśvaro maheśvara-cūḷā-maṇi-pallaveśvare <g type="ddandaOrnate">.</g></l>
+         		<l n="ab"><unclear>ma</unclear>h<unclear>ī</unclear>bhujā <space type="unclassified"/> maheśvara-cūḷā-maṇinā vinirmmite</l>
+         		<l n="cd">sthiti<milestone unit="segment" n="20"/>m etu maheśvaro maheśvara-cūḷā-maṇi-pallaveśvare <g type="ddandaOrnate">.</g></l>
          	</lg>            
          	
          </div>
@@ -149,44 +149,64 @@
 			
 		</app>
 		-->
-					
-		<app loc="1">
+			
+			
+		<app loc="1s1"><!--that is, line 1, stanza 1-->
 			<lem>sa<unclear>t</unclear>ya-<unclear>p</unclear>ū<supplied reason="lost">ta-t</supplied>r<supplied reason="lost">ida</supplied><unclear>śa-g</unclear>ur<unclear>u</unclear>m</lem>
 			<note>Conjectural restoration suggested by Dominic Goodall.</note>
 		</app>
 		
 		<app loc="1">
 			<lem>bharadvāja-nāmno</lem>
-			<note>The syllables <foreign>janā</foreign> are not readable on the available estampage as they are on the spot hidden behind a wood frame.</note>
+			<note>The syllables <foreign>janā</foreign> are not readable on the new estampage (2011) as they are on the spot hidden behind a wood frame.</note>
 		</app>	
 		
 		<!--<app loc="1">
 			<lem>munīndrāN·</lem>			
 		</app>-->
 		
-		<app loc="1">
+		
+		<app loc="1s2">
 			<lem>’<unclear reason="eccentric_ductus">th</unclear>a</lem>
-			<note>The <foreign>th</foreign> misses a little hook inside on bottom rigth, visible in other instances of this letter in the inscription (e.g. <foreign>pathi</foreign>). As such the letter looks like <foreign>dha</foreign>, but it must be <foreign>tha</foreign>.</note>
+			<note>The <foreign>th</foreign> misses a little hook inside on the bottom right, visible in other instances of this letter in the inscription (e.g. <foreign>pathi</foreign>). As such the letter looks like <foreign>dha</foreign>, but it must be <foreign>tha</foreign>.</note>
 		</app>
 		
 		<app loc="1">
 			<lem>mahī-valla<space type="unclassified"/><seg met="++-"><gap reason="lost" quantity="3" unit="character"/></seg>vākhyaḥ</lem>
-			<note>In the space left blank, for unclear reasons, <foreign>bhaḥ palla</foreign> is a plausible restoration. Thus <foreign>mahī-vallabhaḥ pallavākhyaḥ</foreign></note>
+			<note>In the space, of a length of one foot according to <ptr target="bib:Rangacharya1927-1928_01"/>,  left blank, for unclear reasons, <foreign>bhaḥ palla</foreign> is a plausible restoration, as suggested by <ptr target="bib:Rangacharya1927-1928_01"/> on the paralle found in SII 1, no. 24, stanza 3. Thus <foreign>mahī-vallabhaḥ pallavākhyaḥ</foreign></note>
 		</app>
 		
 		<app loc="1">
 			<lem>vākhyaḥ<space type="feature"/></lem>
-			<note>The space is left blank because of the drain spout of the adjacent shrine, which indicates that this drain spout is not a later addition.</note>
+			<note>The space is left blank because of the drain spout of the adjacent subsidiary northern shrine, which indicates that this drain spout is not a later addition.</note>
 		</app>
 			
 		<app loc="1">
 			<lem>eṣa <space type="unclassified"/><seg met="-++"><gap reason="lost" quantity="3" unit="character"/></seg></lem>
-			<note>In the space left blank, for unclear reasons, <ptr target="bib:Rangacharya1927-1928_01"/> suggest to restore <foreign>prabhūtaḥ</foreign> or <foreign>prajajñe</foreign>. <ptr target="bib:Brocquet1997_01"/> adds a further option: <foreign>prasūtaḥ</foreign>.</note>
+			<note>In the space, of a length of one foot according to <ptr target="bib:Rangacharya1927-1928_01"/>, left blank, for unclear reasons, <ptr target="bib:Rangacharya1927-1928_01"/> suggest to restore <foreign>prabhūtaḥ</foreign> or <foreign>prajajñe</foreign>. <ptr target="bib:Brocquet1997_01"/> adds a further option: <foreign>prasūtaḥ</foreign>.</note>
+		</app>
+		
+		<app loc="1s3">
+			<lem>aśvame<milestone unit="segment" n="8"/><space type="feature"/>dhāvabhṛtha°</lem>
+			<note>The space is left blank because of the drain spout of the adjacent subsidiary western shrine, which indicates that this drain spout is not a later addition.</note>
 		</app>
 		
 		<app loc="1">
+			<lem>para<supplied reason="lost">mād īśvarād ātta-janmā</supplied></lem>
+			<note>This lacuna, due to a break in the stone, is retored as such, following <ptr target="bib:Rangacharya1927-1928_01"/> from the parallel in SII 1, no. 24, stanza 5.</note>
+		</app>
+		
+		
+		<app loc="1s4">
+			<lem><seg met="++-+--"><gap reason="lost" quantity="6" unit="character"/></seg> bhuja-ddraviṇāvabhāsī</lem>
+			<rdg source="bib:Rangacharya1927-1928_01"><seg met="++-+--"><gap reason="undefined" quantity="6" unit="character"/></seg></rdg>
+			<note><ptr target="bib:Rangacharya1927-1928_01"/> suggests to restore ...</note>		
+		</app>
+		
+		
+		<app loc="1s5">
 			<lem><milestone unit="segment" n="15"/><space type="feature"/> citte</lem>
-			<note>The space is left blank because of the drain spout of the adjacent shrine, which indicates that this drain spout is not a later addition.</note>
+			<note>The space is left blank because of the drain spout of the adjacent subsidiary southern shrine, which indicates that this drain spout is not a later addition.</note>
 		</app>			
 		
 		<app loc="1">
@@ -198,11 +218,12 @@
 			<lem>mṛgā<unclear>ṃ</unclear>ka°</lem>
 			<note>Alternatively: mṛgā<supplied reason="omitted">ṃ</supplied>ka°</note>
 		</app>	
+		
 						
-		<app loc="1">
+		<app loc="1s6">
 			<lem>°mūla-smṛti-vacana°</lem>
 			<rdg source="bib:Rangacharya1927-1928_01"><seg met="++-----"><gap reason="undefined" quantity="7" unit="character"/></seg></rdg>
-			<note>This part of the inscription is not entirely covered by the estampage published in ARIE and a portion covered by this estampage has since suffered damage. See new estampage (2011). </note>		
+			<note>This part of the inscription is not entirely covered by the estampage published in ARIE and a portion covered by this estampage has since suffered damage. See new estampage (2011).</note>		
 		</app>
 		
 		
@@ -210,6 +231,12 @@
 			<lem>śīṣṭāc<choice><sic>a</sic><corr>ā</corr></choice>rai<supplied reason="lost">r</supplied> vv<seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg><seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg>t<choice><unclear>e</unclear><unclear>ai</unclear></choice>ḥ</lem>
 			<rdg source="bib:Rangacharya1927-1928_01"><unclear>śrī</unclear><seg met="+++-+"><gap reason="undefined" quantity="4" unit="character"/></seg>teḥ</rdg>
 			<note>This part of the inscription is not entirely covered by the estampage published in ARIE and a portion covered by this estampage has since suffered damage. See new estampage (2011). S.L.P. Anjaneya Sarma suggests to read, with a correction, <foreign>variṣṭhaiḥ</foreign>.</note>
+		</app>
+		
+		<app loc="1">
+			<lem>°vṛttāmbho°</lem>
+			<rdg source="bib:Rangacharya1927-1928_01">°vṛttā<supplied reason="omitted">m</supplied>bho°</rdg>
+			<note>In the letter <foreign>mbho</foreign>, the superscript element <foreign>m</foreign> appears to have been added after first engraving <foreign>bho</foreign>.</note>
 		</app>
 		
 		
@@ -220,7 +247,7 @@
       	<div type="translation" resp="part:emfr">
       		
       		<p rend="stanza" n="1">
-      			<l>From the poet <supplied reason="explanation"><foreign>kavi</foreign><note>That is, Brahmā, who uttered the Vedas.</note></supplied> who is the primordial seed <supplied reason="subaudible">which gave</supplied> beginning to the universe, the son named Aṅgiras engendered <supplied reason="explanation"><foreign>ajani</foreign><note>To be taken as a causative form with <foreign>°gurum</foreign> as itsdirect object, as suggested by S.L.P. Anjaneya Sarma.</note></supplied>, as is well known <supplied reason="explanation"><foreign>kila</foreign></supplied>, the lord of knowledge Tridaśaguru<note>That is, "the preceptor of the tirthy [gods]," that is, Bṛhaspati.</note> purified by truth. His son was Śaṃyu. From his son, the best among the sages <supplied reason="explanation"><foreign>munīndra</foreign></supplied>, named Bharadvāja, was born a treasure of majesty <supplied reason="explanation"><foreign>tejas</foreign></supplied>: Droṇa. By him <supplied reason="explanation"><foreign>tena</foreign></supplied> was born Drauṇi<note>That is, Aśvatthāman.</note>, who is renowned for the strength of his arms and is a partial incarnation of the enemy of Pura<note>That is, Śiva.</note>.</l>
+      			<l>From the poet <supplied reason="explanation"><foreign>kavi</foreign><note>That is, Brahmā, who uttered the Vedas.</note></supplied> who is the primordial seed <supplied reason="subaudible">which gave</supplied> beginning to the universe, the son named Aṅgiras engendered <supplied reason="explanation"><foreign>ajani</foreign><note>To be taken as a causative form with <foreign>°gurum</foreign> as its direct object, as suggested by S.L.P. Anjaneya Sarma.</note></supplied>, as is well known <supplied reason="explanation"><foreign>kila</foreign></supplied>, the lord of knowledge Tridaśaguru<note>That is, "the preceptor of the tirthy [gods]," that is, Bṛhaspati.</note> purified by truth. His son was Śaṃyu. From his son, the best among the sages <supplied reason="explanation"><foreign>munīndra</foreign></supplied>, named Bharadvāja, was born a treasure of majesty <supplied reason="explanation"><foreign>tejas</foreign></supplied>: Droṇa. By him <supplied reason="explanation"><foreign>tena</foreign></supplied> was born Drauṇi<note>That is, Aśvatthāman.</note>, who is renowned for the strength of his arms and is a partial incarnation of the enemy of Pura<note>That is, Śiva.</note>.</l>
       		</p>
 
       		<p rend="stanza" n="2">
@@ -287,7 +314,7 @@
 
       		<p rend="stanza" n="4">
       			<l><gap reason="lost"/> brillant par son bras et sa richesse,</l>
-      			<l>Puissant par sa nature<note>Il n’est pas facile de déterminer les sens que revêt ici le mot sattva-, qui signifie « caractère », « qualité innée », ou, plus particulièrement, « fermeté », « énergie », « courage » – mais qui désigne aussi le plus haut des trois guṇa, la pureté, qualité spécifique des brahmanes. Les Pallava (on le voit du reste dans cette inscription) prétendaient être d’origine brahmanique, ce qui rend plausible cette seconde interprétation. Le composé indiquerait alors que Rājasiṃha doit sa puissance à sa pureté, plutôt qu’à ses qualités guerrières, auxquelles font référence les deux autres qualificatifs de cet hémistiche.</note>, révélant au combat sa force immense,</l>
+      			<l>Puissant par sa nature<note>Il n’est pas facile de déterminer les sens que revêt ici le mot <foreign>sattva</foreign>-, qui signifie « caractère », « qualité innée », ou, plus particulièrement, « fermeté », « énergie », « courage » – mais qui désigne aussi le plus haut des trois <foreign>guṇa</foreign>, la pureté, qualité spécifique des brahmanes. Les Pallava (on le voit du reste dans cette inscription) prétendaient être d’origine brahmanique, ce qui rend plausible cette seconde interprétation. Le composé indiquerait alors que Rājasiṃha doit sa puissance à sa pureté, plutôt qu’à ses qualités guerrières, auxquelles font référence les deux autres qualificatifs de cet hémistiche.</note>, révélant au combat sa force immense,</l>
       			<l>Celui-ci, sous le nom de Rājasiṃha, vit se répandre sa gloire sans tache,</l>
       			<l>Et fut un lion royal pour ces éléphants qu’étaient ses ennemis gonflés d’orgueil.</l>
       		</p>
@@ -332,7 +359,7 @@
 	text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 46).
 </p>
 <p>
-	Re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2023), based on published visual documentation, autopsy, partial estampages (2011) and photographs (2011). First edition and translation of the complete text. 
+	Re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2023), based on published visual documentation, autopsy, partial new estampages (2011) and photographs (2011). First edition and translation of the complete text. 
 </p>
 
       		<listBibl type="primary">
