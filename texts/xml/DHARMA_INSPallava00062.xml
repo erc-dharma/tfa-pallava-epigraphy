@@ -352,7 +352,8 @@
 </p>
       		
 <p>
-	First edited in <bibl><ptr target="bib:Jouveau-Dubreuil1916_01"/></bibl> with tentative English translation (by S. Krishnaswami Aiyangar) and visual documentation and in <bibl><ptr target="bib:Jouveau-Dubreuil1916-1917_01"/></bibl> with French translation and visual documentation;
+	First translated in <bibl><ptr target="bib:Jouveau-Dubreuil1915_01"/></bibl>;
+	first edited in <bibl><ptr target="bib:Jouveau-Dubreuil1916_01"/></bibl> with translation (revised by S. Krishnaswami Aiyangar) and visual documentation and in <bibl><ptr target="bib:Jouveau-Dubreuil1916-1917_01"/></bibl> with French translation and visual documentation;
 	re-edited and translated in <bibl><ptr target="bib:SankaraAiyar1919_01"/></bibl>;
 	re-edited in <bibl><ptr target="bib:SankaraAiyar1922-1923_01"/></bibl>;
 	re-edited and translated in <bibl><ptr target="bib:Rangacharya1927-1928_01"/></bibl> (EI 19, no. 18B);
@@ -365,6 +366,11 @@
 
       		<listBibl type="primary">
       			
+      			<bibl n="JD1915">
+      				<ptr target="bib:Jouveau-Dubreuil1915_01"/>
+      				<note>Not available to us.</note>
+      			</bibl>      			
+      			      	
       			<bibl n="JD1916">
       				<ptr target="bib:Jouveau-Dubreuil1916_01"/>
       				<citedRange unit="page">11-23</citedRange>
