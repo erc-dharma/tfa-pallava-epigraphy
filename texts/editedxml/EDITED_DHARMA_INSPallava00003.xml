@@ -112,62 +112,63 @@
 		
 		<ab>
 			<pb n="1v"/>
-			<lb n="01"/>siddham ||
+			<lb n="01"/>siddhaM <g type="ddanda">.</g>
 		</ab>
 		
 		<p>			
 			<lb n="1v1=1"/>koṃcīpurā Aggiṭthoma-vājapeyassamedha-yājī dhamma-mahā
-			<lb n="1v2=2" break="no"/>...
-			<lb n="1v3=3"/>...
+			<lb n="1v2=2" break="no"/>rājādhirājo bhāraddāyo pallavāṇā<supplied reason="omitted">ṃ</supplied> sivakhaṃdavamo
+			<lb n="1v3=3"/>Amhaṃ visaye savattha rājakumāra-senāpati
+						
+			<pb n="2r" break="no"/>
 			
-			
-			<pb n="2r"/>
-			
-			<lb n="2r1=4"/>...
-			<lb n="2r2=5"/>...	
-			<lb n="2r3=6"/>...
-			<lb n="2r4=7"/>...
-			
-			
+			<lb n="2r1=4"/>raṭṭh<unclear>i</unclear>ka-māḍabika-desādhikatādīke gāmāgāmabhojake
+			<lb n="2r2=5"/>vallave govallave Amacce Ārakhādhikate gumike tūthike	
+			<lb n="2r3=6"/>neyike Anne vi ca Amha-pesa<unclear>ṇa</unclear>-ppayutte saṃcaraṃtaka
+			<lb n="2r4=7"/>bhaḍamaṇusāṇa  <gap quantity="3" unit="character" reason="illegible"/>
+		</p>
+		
+		<p>
+			parihāraṃ vitarāma Ettha dāṇi						
 			<pb n="2v"/>
 			
-			<lb n="2v1=8"/>...
-			<lb n="2v2=9"/>...	
-			<lb n="2v3=10"/>...
-			<lb n="2v4=11"/>...
+			<lb n="2v1=8"/>Āpiṭṭ<choice><unclear>i</unclear><unclear>ī</unclear></choice>-vatthavāṇa cillareka-koḍuṃka-bhojaka-bamhaṇānāṃ Appa
+			<lb n="2v2=9" break="no"/>ṇa kula-gottasa dhamāyu-bala-yaso-vadhanike vijaya-vejayīke	
+			<lb n="2v3=10"/>ca kātūṇam Appatihata-sāsaṇassa Aneka-hirogo-koḍi
+			<lb n="2v4=11" break="no"/>go-hala-sata-sahassa-ppadāyino mahārāja-bappa-sāmīhi
 			
 			
 			<pb n="3r"/>
 			<fw place="left" n="3r">3</fw>
 			
-			<lb n="3r1=12"/>...
-			<lb n="3r2=13"/>...	
-			<lb n="3r3=14"/>...
-			<lb n="3r4=15"/>...
+			<lb n="3r1=12"/>vāṭaka cillareka-koḍuṃke puvvadattaṃ golasamajasa patībhāgo 1
+			<lb n="3r2=13"/>Ātteya-sagottasa Agisamajassa patībhāgā 4	
+			<lb n="3r3=14"/>māḍharasa patībhāgā be 2 jāmātukasa Agillasa patī
+			<lb n="3r4=15" break="no"/>bhāgo 1 hārita-sagotasa kālasamasa pat<surplus>t</surplus>ībhāgā 3 
 			
 			<pb n="3v"/>
 			
-			<lb n="3v1=16"/>...
-			<lb n="3v2=17"/>...	
-			<lb n="3v3=18"/>...
-			<lb n="3v4=19"/>...
+			<lb n="3v1=16"/>bhāradāya-sagottassa kumārasamasa patībhāgā 2 kosik<choice><sic>ā</sic><corr>a</corr></choice>
+			<lb n="3v2=17" break="no"/>sagotasa kumāranaṃdi-kumārasama-koṭṭasama-sattissa ca	
+			<lb n="3v3=18"/>catuṇhaṃ bhātukāṇa cattāri pat<surplus>t</surplus>ībhāgā 4 kasava-sagotta
+			<lb n="3v4=19" break="no"/>sa bhaṭisa patībhāgo 1 bhāradāyasa khaṃdakoṃḍisa
 			
 			<pb n="4r"/>
 			<fw place="left" n="4r">4</fw>
 			
-			<lb n="4r1=20"/>...
-			<lb n="4r2=21"/>...	
-			<lb n="4r3=22"/>...
-			<lb n="4r4=23"/>...			
-			<lb n="4r5=24"/>...
+			<lb n="4r1=20"/><unclear reason="eccentric_ductus">pa</unclear>tībhāgā be 2 khaṃdaḍhasa patībhago 1 bappasa
+			<lb n="4r2=21"/>pat<surplus>t</surplus>ībhāgo 1 dattajasa patībhāgā be 2 naṃdijasa	
+			<lb n="4r3=22"/>patībhāgā 3 vatsa-sagotasa rudasamasa patī
+			<lb n="4r4=23" break="no"/>bhāgo 1 dāmajasa patībhāgo 1 sālasamaja<unclear reason="eccentric_ductus">sa</unclear> patī			
+			<lb n="4r5=24"/>bhāgo 1
 			
 			
 			<pb n="4v"/>
 			
-			<lb n="4v1=25"/>...
-			<lb n="4v2=26"/>...	
-			<lb n="4v3=27"/>...
-			<lb n="4v4=28"/>...
+			<lb n="4v1=25"/>parimitasa patībhāgo 1 nāga-naṃdisa patibhāgo 1 golisa 
+			<lb n="4v2=26"/>patībhāgo 1 khaṃdasamasa patībhāgo 1 sāmijasa patībhāgo 1	
+			<lb n="4v3=27"/>Etesi bamhaṇāṇ<unclear>ā</unclear>ṃ Agisamaja-pamukhāṇaṃ sātāhaniraṭṭhe
+			<lb n="4v4=28"/>gāme cillarekakoḍuṃke dakhiṇasīmaṃ puvvadattaṃ <space/>
 			
 			
 			<pb n="5r"/>
