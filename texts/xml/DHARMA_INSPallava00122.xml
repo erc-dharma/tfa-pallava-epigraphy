@@ -129,7 +129,7 @@
 
             <p>
                Itu pa
-               <lb n="22" break="no"/><supplied reason="lost">ṉmā</supplied><hi rend="grantha"><unclear>h</unclear><supplied reason="lost">e</supplied></hi>c<unclear reason="eccentric ductus">u</unclear>va
+               <lb n="22" break="no"/><supplied reason="lost">ṉmā</supplied><hi rend="grantha"><unclear>h</unclear><supplied reason="lost">e</supplied></hi>c<unclear reason="eccentric_ductus">u</unclear>va
                <lb n="23" break="no"/><supplied reason="lost">ra-<hi rend="grantha">rakṣai</hi></supplied>
             </p>
             
@@ -150,7 +150,7 @@
          
          <lem>
             pa
-            <lb n="22" break="no"/><supplied reason="lost">ṉmā</supplied><hi rend="grantha"><unclear>h</unclear><supplied reason="lost">e</supplied></hi>c<unclear reason="eccentric ductus">u</unclear>va
+            <lb n="22" break="no"/><supplied reason="lost">ṉmā</supplied><hi rend="grantha"><unclear>h</unclear><supplied reason="lost">e</supplied></hi>c<unclear reason="eccentric_ductus">u</unclear>va
             <lb n="23" break="no"/><supplied reason="lost">ra-<hi rend="grantha">rakṣai</hi></supplied>
          </lem>
          
