@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Confirmation of the grant of a garden, with exemptions, of a garden in Cillarekakoḍuṃka to 24 Brahmins, and further grant of lands, seemingly in Āpiṭṭī.</summary>
+						<summary>Confirmation of the grant, with exemptions, of a garden in Cillarekakoḍuṃka to 24 Brahmins, and further grant of lands, seemingly in Āpiṭṭī.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -88,7 +88,7 @@
 
 <div type="edition" xml:lang="pra-Latn"><!--add @rendition-->
 	
-	<div type="textpart" xml:lang="pra-Latn" n="A">
+	<div type="textpart" xml:lang="san-Latn" n="A">
 		<head xml:lang="eng">Seal</head>
 		
 		<p>
@@ -112,16 +112,16 @@
 		</ab>
 		
 		<p>			
-			<lb n="1v1=1"/>koṃcīpurā Aggiṭthoma-vājapeyassamedha-yājī dhamma-mahā
+			<lb n="1v1=1"/>k<choice><sic>o</sic><corr>ā</corr></choice>ṃcīpurā Aggiṭ<choice><sic>th</sic><corr>ṭh</corr></choice>oma-vājapeyassamedha-yājī dhamma-mahā
 			<lb n="1v2=2" break="no"/>rājādhirājo bhāraddāyo pallavāṇā<supplied reason="omitted">ṃ</supplied> sivakhaṃdavamo
-			<lb n="1v3=3"/>Amhaṃ visaye savattha rājakumāra-senāpati
+			<lb n="1v3=3"/>Amhaṃ visaye savattha rājakumāra-senāpati <space/>
 						
 			<pb n="2r" break="no"/>
 			
 			<lb n="2r1=4"/>raṭṭh<unclear>i</unclear>ka-māḍabika-desādhikatādīke gāmāgāmabhojake
 			<lb n="2r2=5"/>vallave govallave Amacce Ārakhādhikate gumike tūthike	
 			<lb n="2r3=6"/>neyike Anne vi ca Amha-pesa<unclear>ṇa</unclear>-ppayutte saṃcaraṃtaka
-			<lb n="2r4=7"/>bhaḍamaṇusāṇa  <gap quantity="3" unit="character" reason="illegible"/>
+			<lb n="2r4=7"/>bhaḍamaṇusā ṇa<gap quantity="3" unit="character" reason="illegible"/>
 		</p>
 		
 		<p>
@@ -246,7 +246,7 @@
 		<p>					
 			<pb n="8r"/>
 			<fw place="left" n="8r">8</fw>
-						
+									
 			<lb n="8r1=50"/>kolivāla-bhojakasa rahasādhikata-bhaṭṭisa
 			<lb n="8r2=51" break="no"/>mmasa sa-hattha-likhiteṇa paṭṭikā kaḍa tti
 		</p>
@@ -271,7 +271,7 @@
 			<app loc="1">				
 				<lem>śivaskava<supplied reason="lost">davarmmaṇaḥ</supplied></lem>
 				<rdg source="bib:Buehler1892_01">śivaskava<supplied reason="lost">davarmmaṇaḥ</supplied></rdg>
-				<note>This is <ptr target="bib:Buehler1892_01"/> reading, but nothing is legible on the seal now kept with the plates in the Chennai Government Museum (2008). Either <ptr target="bib:Buehler1892_01"/> examined the seal of another Pallava plate (DHARMA_INSPallava00002, very similar), either the original seal was misplaced in the Chennai Government Museum.</note>
+				<note>This is <ptr target="bib:Buehler1892_01"/> reading (page 9), but nothing is legible on the seal now kept with the plates in the Chennai Government Museum (2008). Either <ptr target="bib:Buehler1892_01"/> examined the seal of another Pallava plate (DHARMA_INSPallava00002, very similar), either the original seal was misplaced in the Chennai Government Museum.</note>
 			</app>
 			
 		</listApp>
@@ -281,14 +281,59 @@
 		<head xml:lang="eng">Plates</head>
 		<listApp>
 			
-			<app loc="0">
+			<!--<app loc="0">
 				<lem>...</lem>
 				<rdg source="bib:Buehler1892_01">...</rdg>
+				<rdg source="bib:Leumann1894_01">...</rdg>
+				<rdg source="bib:Sircar1965_02">...</rdg>	
+			</app>-->
+			
+			<app loc="1">
+				<lem>k<choice><sic>o</sic><corr>ā</corr></choice>ṃcīpurā</lem>
+				<rdg source="bib:Buehler1892_01">kāṃcīpurā</rdg>				
+				<rdg source="bib:Sircar1965_02">koṃcīpurā</rdg>
+				<note>Alternatively, one can follow <ptr target="bib:Buehler1892_01"/>, considering that what is taken as the left component of medial <foreign>o</foreign> is just a defect on the plate.</note>
 			</app>
 			
+			<app loc="1">
+				<lem>Aggiṭ<choice><sic>th</sic><corr>ṭh</corr></choice>oma°</lem>
+				<rdg source="bib:Buehler1892_01">Aggitthoma°</rdg>
+				<rdg source="bib:Leumann1894_01">Aggiṭthoma°</rdg>				
+				<rdg source="bib:Buehler1894_05">Aggiṭthoma°</rdg>
+				<rdg source="bib:Sircar1965_02">Aggiṭṭhoma°</rdg>				
+				<note>The original reading is <foreign>ṭtha</foreign>, as indicated by the dot inside the <foreign>tha</foreign> of this ligature.</note>
+			</app>
+			
+			<app loc="4">
+				<lem>raṭṭh<unclear>i</unclear>ka°</lem>
+				<rdg source="bib:Buehler1892_01">raṭṭhika°</rdg>
+				<rdg source="bib:Sircar1965_02">raṭṭh<choice><sic>a</sic><corr>i</corr></choice>ka°</rdg>
+				<note><ptr target="bib:Buehler1892_01"/> notes that <quote>[t]he <foreign>i</foreign> of <foreign>raṭṭhika</foreign> is very faint</quote>. This medial <foreign>i</foreign> is not clear on the published estampage, but is more visible on the photos (2011).</note>
+			</app>
+			
+			<app loc="7">
+				<lem>bhaḍamaṇusā ṇa<gap quantity="3" unit="character" reason="illegible"/></lem>
+				<rdg source="bib:Buehler1892_01">bhaḍamaṇusāṇa <unclear>kaḍh</unclear><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg><unclear>o</unclear></seg></rdg>
+				<rdg source="bib:Sircar1965_02">bhaḍamaṇusā ṇa<unclear>kaḍhaso</unclear></rdg>
+				<note><ptr target="bib:Buehler1892_01"/> notes that his suggested reading <foreign><unclear>kaḍh</unclear><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg><unclear>o</unclear></seg></foreign> is <quote>very doubtful, with the exception of the last vowel</quote>. <ptr target="bib:Sircar1965_02"/> suggets to read <foreign>bhaḍamanuṣe āṇaveti</foreign>. A verbal predicate is indeed expected here to complete this first sentence.</note>
+			</app>
+			
+			<app loc="7">
+				<lem>parihāraṃ</lem>
+				<rdg source="bib:Buehler1892_01">pārihāraṃ</rdg>				
+				<rdg source="bib:Sircar1965_02">parihāraṃ</rdg>	
+			</app>
+			
+			<app loc="7">
+				<lem>Ettha</lem>
+				<rdg source="bib:Buehler1892_01">cattha</rdg>
+				<rdg source="bib:Leumann1894_01 bib:Buehler1894_05 bib:Sircar1965_02">Ettha</rdg>	
+			</app>
+						
 			<app loc="51">
 				<lem>kaḍa</lem>
 				<rdg source="bib:Buehler1892_01">kada</rdg>
+				<rdg source="bib:Sircar1965_02">kaḍa</rdg>
 				<note><ptr target="bib:Buehler1892_01"/> notes: <quote>Perhaps <foreign>kaḍa</foreign> is to be read.</quote></note>
 				
 			</app>
@@ -300,31 +345,69 @@
       				
 <div type="translation" source="bib:Buehler1892_01">
 	
-	<p>Success!<note resp="part:emfr">Errata and corrigenda (EI 1, p. 479) taken into account.</note> From Kāṃcīpura—the righteous<note>Compare Mr. Fleet's grant, Indian Antiquary, vol. V, p. 155, line 17 of the transcript.</note> supreme king of great kings of the Pallavas Sivakhaṃdavama <supplied reason="explanation">Śivaskandavarman</supplied>, a Bhāraddāya<note>Compare Mr. Fleet's grant, Indian Antiquary, vol. V, p. 51, line 15 of the transcript, and <foreign>ibidem</foreign>, page 155, line 14 of the transcript, as well as vol. IX, p. 101, line 2 of the transcript, where <foreign>bhāraddāyassa</foreign> has to be read for <foreign>bhāraṭṭāyaṇa</foreign>.</note> <supplied reason="explanation">Bhāradvāja</supplied> an offerer of Agniṣṭoma, Vājapeya and Aśvamedha <supplied reason="explanation">sacrifices</supplied> <supplied reason="subaudible">issues the following orders</supplied>:</p>
+	<p n="1-7">Success!<note resp="part:emfr">Errata and corrigenda (EI 1, p. 479) taken into account.</note> From Kāṃcīpura—the righteous<note>Compare Mr. Fleet's grant, Indian Antiquary, vol. V, p. 155, line 17 of the transcript.</note> supreme king of great kings of the Pallavas Sivakhaṃdavama <supplied reason="explanation">Śivaskandavarman</supplied>, a Bhāraddāya<note>Compare Mr. Fleet's grant, Indian Antiquary, vol. V, p. 51, line 15 of the transcript, and <foreign>ibidem</foreign>, page 155, line 14 of the transcript, as well as vol. IX, p. 101, line 2 of the transcript, where <foreign>bhāraddāyassa</foreign> has to be read for <foreign>bhāraṭṭāyaṇa</foreign>.</note> <supplied reason="explanation">Bhāradvāja</supplied> an offerer of Agniṣṭoma, Vājapeya and Aśvamedha <supplied reason="explanation">sacrifices</supplied> <supplied reason="subaudible">issues the following orders</supplied>:</p>
 	
-	<p><quote>In our whole territory <supplied reason="subaudible">we send greetings</supplied><note>Two verbs have been left out, one in the third person singular after <foreign>sivakhaṃdavamo</foreign>, and one in the first person plural, or in the absolutive at the end of the list of officials. For the pronoun <foreign>amhaṃ</foreign> 'our' shows that a new sentence begins with line 3, and the words <foreign>vitarāma cattha dāṇi</foreign> prove that it must have stood in the first person plural or in the absolutive. The first verb was probably <foreign>āṇaveti</foreign> or some equivalent. The second may either have been a word expressing command, or, what I consider more likely, some expression implying greeting, such as are found in many other inscriptions.</note> to the royal princes, generals, rulers of districts, custom-house officers,<note>I consider the correction <foreign>māṇḍabika</foreign> as certain and take the word <foreign>maṇḍaba</foreign> or <foreign>maṇḍapa</foreign>, from which it has been derived, in the sense of the <foreign>māṇḍavī</foreign>, 'custom house'—see Molesworth, Marāṭhī Dictionary, sub voce. The <foreign>śaulkika</foreign>s are frequently mentioned in Sanskrit inscriptions.</note> prefects of countries and others, to the freeholders of various villages,<note>That <foreign>bhojaka</foreign> does not mean' temple priest,' but 'ināmdār,' or 'freeholder,' seems to follow from its use in line 8, where the donees are called <foreign>cillarekakoḍumkabhojaka</foreign>s, who lived in Āpiṭṭī, and in line 50, where the privy councillor Bhaṭṭisama receives the title <foreign>kolivālabhojake</foreign>. Such a despised personage as a temple priest could hardly become a minister. Professor Fausböll points out to me that <foreign>gāmāgāmabhojaka</foreign> may be rendered as above, as repetitions of the same word with a lengthening of the final vowel of the first are commonly used in Pāli in order to indicate the <foreign>vīpsā</foreign>.</note> to herdsmen, cowherds, ministers, foresters, <foreign>gumika</foreign>s, <foreign>tūthika</foreign>s, <foreign>neyika</foreign>s,<note>The first of the three words left untranslated corresponds to Sanskrit <foreign>gaulmika</foreign>. As <foreign>gulma</foreign> means both 'a thicket' and 'a picket of soldiers,' the derivative may denote either a kind of forest official or the leader of a <foreign>gulma</foreign> of warriors. <foreign>Tūthika</foreign> may be connected with Prākrit <foreign>tūha</foreign> 'a Tīrtha,' and means 'overseers of fords' or 'of bathing places.' With <foreign>neyika</foreign> compare <foreign>naiyokāḥ</foreign> in Mr. Fleet and Elliot's grant, Indian Antiquary, vol. V, p. 62, line 28 of the text. Mr. Fleet changes it to <foreign>niyuktāh</foreign>, which now seems a rather doubtful emendation. I suspect that <foreign>naiyokāḥ</foreign> is a mistake for <foreign>naiyikāḥ</foreign>, which would exactly correspond to <foreign>neyika</foreign>, and that both words are corruptions of Sanskrit <foreign>nāyaka</foreign>, commonly pronounced <foreign>nāick</foreign>. If this is correct, the term denotes a military officer of the rank of a corporal or a sergeant.</note> and all others employed in our service, to roaming <supplied reason="subaudible">spies</supplied> and warriors, <note><foreign>Saṃcarantaka</foreign> occurs also in Mr. Fleet's grant, loc. cit., line 29 of the text, and Mr. Fleet has translated it by 'travellers.' I believe that royal servants are meant, and that the word refers to the spies whom the Indian kings sent into the provinces to explore the behaviour of their officials,—see Manu, VII, 122.</note> and we grant here an immunity <supplied reason="subaudible"><foreign>viz.</foreign></supplied> the garden in Cillarekakoḍuṃka, which was formerly given by the great king, the lord Bappa,<note>The great king Bappa is probably the donor's father,—see Mr. Fleet's article, Indian Antiquary, vol. XV, p. 272ff.</note> a giver of many <foreign>kror</foreign>s of gold and of one hundred thousand ox-ploughs,<note>This may, of course, mean also 'one hundred thousand cows and <supplied reason="subaudible">the same number</supplied> of ploughs <supplied reason="subaudible">of land</supplied>,' Regarding the various kinds of the measure of land, called 'a plough,' see Kullūka on Manu, VII, 119.</note>—while he made <supplied reason="subaudible">the gift</supplied> a means of the increase of the merit, longevity, power and fame of <supplied reason="subaudible">his</supplied> own family and race—to the Brāhmans, free-holders of Cillarekakoḍuṃka <supplied reason="subaudible">and</supplied> inhabitants of Āpiṭṭi, <supplied reason="subaudible"><foreign>viz.</foreign></supplied> to Golasamaja <supplied reason="explanation">Golaśarmārya</supplied> one share of the produce, <note><foreign>Pattī</foreign>, <foreign>patti</foreign>, <foreign>patī</foreign>, and <foreign>pati</foreign> I take to be the representatives of Sanskrit <foreign>prāpti</foreign>, which means <foreign>āya</foreign>, 'produce,' or 'income.' It is of course possible that the garden was let and the rent divided among the donees.</note> to Agisamaja <supplied reason="explanation">Agniśarmārya</supplied> of the Ātteya <supplied reason="explanation">Ātreya</supplied> gotra four shares of the produce, to Māḍhara <supplied reason="explanation">Māṭhara</supplied> two shares of the produce, to <supplied reason="explanation">his</supplied> son-in-law (?) Agilla <supplied reason="explanation">Agnila</supplied> one share of the produce, to Kālasama <supplied reason="explanation">Kālaśarman</supplied> of the Hārita gotra two (?) shares of the produce, to Kumārasama <supplied reason="explanation">Kumāraśarman</supplied> of the Bhāradāya <supplied reason="explanation">Bhāradvāja</supplied> gotra two shares of the produce, to the four brothers Kumāranaṃdi <supplied reason="explanation">Kumāranandin</supplied>, Kumārasama <supplied reason="explanation">Kumāraśarman</supplied>, Koṭṭasama <supplied reason="explanation">Koṭṭaśarman</supplied> and Satti <supplied reason="explanation">Śakti</supplied> of the Kosika <supplied reason="explanation">Kauśika</supplied> gotra four (4) shares of the produce, to Bhaṭi <supplied reason="explanation">Bhaṭṭi</supplied> of the Kassava <supplied reason="explanation">Kāśyapa</supplied> gotra one share of the produce, to Khaṃdakoṃḍi <supplied reason="explanation">Skandakoṭi?</supplied> the Bhāradāya <supplied reason="explanation">Bhāradvāja</supplied> two shares of the produce, to Khaṃdaḍha <supplied reason="explanation">Skanda-ṛddha</supplied> one share of the produce, to Bappa one share of the produce, to Dattaja <supplied reason="explanation">Dattārya</supplied> two shares of the produce, to Naṃdija <supplied reason="explanation">Nandyārya</supplied> three shares of the produce, to Rudasama <supplied reason="explanation">Rudraśarman</supplied> of the Vātsya gotra one share of the produce, to Dāmaja <supplied reason="explanation">Dāmārya</supplied> one share of the produce, to Sālasama <supplied reason="explanation">Śyālaśarman?</supplied> one share of the produce, to Parimita<note>This name does not seem to be correct; perhaps it should be Harimita, i.e, Harimitra.</note> (?) one share of the produce, to Nāganaṃdi one share of the produce, to Goli (?) one share of the produce, to Khaṃdasama <supplied reason="explanation">Skandaśarman</supplied> one share of the produce, to Sāmija <supplied reason="explanation">Svāmyārya</supplied> one share of the produce.</quote></p>
+	<p n="7-26"><quote>In our whole territory <supplied reason="subaudible">we send greetings</supplied><note>Two verbs have been left out, one in the third person singular after <foreign>sivakhaṃdavamo</foreign>, and one in the first person plural, or in the absolutive at the end of the list of officials. For the pronoun <foreign>amhaṃ</foreign> 'our' shows that a new sentence begins with line 3, and the words <foreign>vitarāma cattha dāṇi</foreign> prove that it must have stood in the first person plural or in the absolutive. The first verb was probably <foreign>āṇaveti</foreign> or some equivalent. The second may either have been a word expressing command, or, what I consider more likely, some expression implying greeting, such as are found in many other inscriptions.</note> to the royal princes, generals, rulers of districts, custom-house officers,<note>I consider the correction <foreign>māṇḍabika</foreign> as certain and take the word <foreign>maṇḍaba</foreign> or <foreign>maṇḍapa</foreign>, from which it has been derived, in the sense of the <foreign>māṇḍavī</foreign>, 'custom house'—see Molesworth, Marāṭhī Dictionary, sub voce. The <foreign>śaulkika</foreign>s are frequently mentioned in Sanskrit inscriptions.</note> prefects of countries and others, to the freeholders of various villages,<note>That <foreign>bhojaka</foreign> does not mean' temple priest,' but 'ināmdār,' or 'freeholder,' seems to follow from its use in line 8, where the donees are called <foreign>cillarekakoḍumkabhojaka</foreign>s, who lived in Āpiṭṭī, and in line 50, where the privy councillor Bhaṭṭisama receives the title <foreign>kolivālabhojake</foreign>. Such a despised personage as a temple priest could hardly become a minister. Professor Fausböll points out to me that <foreign>gāmāgāmabhojaka</foreign> may be rendered as above, as repetitions of the same word with a lengthening of the final vowel of the first are commonly used in Pāli in order to indicate the <foreign>vīpsā</foreign>.</note> to herdsmen, cowherds, ministers, foresters, <foreign>gumika</foreign>s, <foreign>tūthika</foreign>s, <foreign>neyika</foreign>s,<note>The first of the three words left untranslated corresponds to Sanskrit <foreign>gaulmika</foreign>. As <foreign>gulma</foreign> means both 'a thicket' and 'a picket of soldiers,' the derivative may denote either a kind of forest official or the leader of a <foreign>gulma</foreign> of warriors. <foreign>Tūthika</foreign> may be connected with Prākrit <foreign>tūha</foreign> 'a Tīrtha,' and means 'overseers of fords' or 'of bathing places.' With <foreign>neyika</foreign> compare <foreign>naiyokāḥ</foreign> in Mr. Fleet and Elliot's grant, Indian Antiquary, vol. V, p. 62, line 28 of the text. Mr. Fleet changes it to <foreign>niyuktāh</foreign>, which now seems a rather doubtful emendation. I suspect that <foreign>naiyokāḥ</foreign> is a mistake for <foreign>naiyikāḥ</foreign>, which would exactly correspond to <foreign>neyika</foreign>, and that both words are corruptions of Sanskrit <foreign>nāyaka</foreign>, commonly pronounced <foreign>nāick</foreign>. If this is correct, the term denotes a military officer of the rank of a corporal or a sergeant.</note> and all others employed in our service, to roaming <supplied reason="subaudible">spies</supplied> and warriors, <note><foreign>Saṃcarantaka</foreign> occurs also in Mr. Fleet's grant, loc. cit., line 29 of the text, and Mr. Fleet has translated it by 'travellers.' I believe that royal servants are meant, and that the word refers to the spies whom the Indian kings sent into the provinces to explore the behaviour of their officials,—see Manu, VII, 122.</note> and we grant here an immunity <supplied reason="subaudible"><foreign>viz.</foreign></supplied> the garden in Cillarekakoḍuṃka, which was formerly given by the great king, the lord Bappa,<note>The great king Bappa is probably the donor's father,—see Mr. Fleet's article, Indian Antiquary, vol. XV, p. 272ff.</note> a giver of many <foreign>kror</foreign>s of gold and of one hundred thousand ox-ploughs,<note>This may, of course, mean also 'one hundred thousand cows and <supplied reason="subaudible">the same number</supplied> of ploughs <supplied reason="subaudible">of land</supplied>,' Regarding the various kinds of the measure of land, called 'a plough,' see Kullūka on Manu, VII, 119.</note>—while he made <supplied reason="subaudible">the gift</supplied> a means of the increase of the merit, longevity, power and fame of <supplied reason="subaudible">his</supplied> own family and race—to the Brāhmans, free-holders of Cillarekakoḍuṃka <supplied reason="subaudible">and</supplied> inhabitants of Āpiṭṭi, <supplied reason="subaudible"><foreign>viz.</foreign></supplied> to Golasamaja <supplied reason="explanation">Golaśarmārya</supplied> one share of the produce, <note><foreign>Pattī</foreign>, <foreign>patti</foreign>, <foreign>patī</foreign>, and <foreign>pati</foreign> I take to be the representatives of Sanskrit <foreign>prāpti</foreign>, which means <foreign>āya</foreign>, 'produce,' or 'income.' It is of course possible that the garden was let and the rent divided among the donees.</note> to Agisamaja <supplied reason="explanation">Agniśarmārya</supplied> of the Ātteya <supplied reason="explanation">Ātreya</supplied> gotra four shares of the produce, to Māḍhara <supplied reason="explanation">Māṭhara</supplied> two shares of the produce, to <supplied reason="explanation">his</supplied> son-in-law (?) Agilla <supplied reason="explanation">Agnila</supplied> one share of the produce, to Kālasama <supplied reason="explanation">Kālaśarman</supplied> of the Hārita gotra two (?) shares of the produce, to Kumārasama <supplied reason="explanation">Kumāraśarman</supplied> of the Bhāradāya <supplied reason="explanation">Bhāradvāja</supplied> gotra two shares of the produce, to the four brothers Kumāranaṃdi <supplied reason="explanation">Kumāranandin</supplied>, Kumārasama <supplied reason="explanation">Kumāraśarman</supplied>, Koṭṭasama <supplied reason="explanation">Koṭṭaśarman</supplied> and Satti <supplied reason="explanation">Śakti</supplied> of the Kosika <supplied reason="explanation">Kauśika</supplied> gotra four (4) shares of the produce, to Bhaṭi <supplied reason="explanation">Bhaṭṭi</supplied> of the Kassava <supplied reason="explanation">Kāśyapa</supplied> gotra one share of the produce, to Khaṃdakoṃḍi <supplied reason="explanation">Skandakoṭi?</supplied> the Bhāradāya <supplied reason="explanation">Bhāradvāja</supplied> two shares of the produce, to Khaṃdaḍha <supplied reason="explanation">Skanda-ṛddha</supplied> one share of the produce, to Bappa one share of the produce, to Dattaja <supplied reason="explanation">Dattārya</supplied> two shares of the produce, to Naṃdija <supplied reason="explanation">Nandyārya</supplied> three shares of the produce, to Rudasama <supplied reason="explanation">Rudraśarman</supplied> of the Vātsya gotra one share of the produce, to Dāmaja <supplied reason="explanation">Dāmārya</supplied> one share of the produce, to Sālasama <supplied reason="explanation">Śyālaśarman?</supplied> one share of the produce, to Parimita<note>This name does not seem to be correct; perhaps it should be Harimita, i.e, Harimitra.</note> (?) one share of the produce, to Nāganaṃdi one share of the produce, to Goli (?) one share of the produce, to Khaṃdasama <supplied reason="explanation">Skandaśarman</supplied> one share of the produce, to Sāmija <supplied reason="explanation">Svāmyārya</supplied> one share of the produce.</quote></p>
 	
-	<p><quote>By Us also the formerly-given <supplied reason="subaudible">garden</supplied><note>The word <foreign>vāṭakam</foreign> has been left out by mistake.</note> <supplied reason="subaudible">situated</supplied> on the southern <foreign>sīm</foreign>, in the village of Cillarekakoḍuṃka <supplied reason="subaudible">and</supplied> in the province <supplied reason="explanation"><foreign>raṭṭha</foreign></supplied> of Sātāhani, has been granted to the above-mentioned Brāhmans, chief among whom is Agisamaja <supplied reason="explanation">Agniśarmārya</supplied>, <supplied reason="subaudible">the gift</supplied> being confirmed by a libation of water and being made <supplied reason="subaudible">valid</supplied> as long as the moon and stars endure.</quote>
+	<p n="27-30"><quote>By Us also the formerly-given <supplied reason="subaudible">garden</supplied><note>The word <foreign>vāṭakam</foreign> has been left out by mistake.</note> <supplied reason="subaudible">situated</supplied> on the southern <foreign>sīm</foreign>, in the village of Cillarekakoḍuṃka <supplied reason="subaudible">and</supplied> in the province <supplied reason="explanation"><foreign>raṭṭha</foreign></supplied> of Sātāhani, has been granted to the above-mentioned Brāhmans, chief among whom is Agisamaja <supplied reason="explanation">Agniśarmārya</supplied>, <supplied reason="subaudible">the gift</supplied> being confirmed by a libation of water and being made <supplied reason="subaudible">valid</supplied> as long as the moon and stars endure.</quote>
 	</p>
 	
-	<p><quote>This garden in Cillarekakoḍuṃka, which belongs to the Brāhmans, <supplied reason="subaudible">is to be</supplied> free from taxes ... ... ..., free from the taking of sweet and sour milk,<note>Milk, grass, firewood, vegetable, and so forth had to be furnished gratis by the villagers to royal officers and their servants. The custom still prevails in many native states.</note> ... ... ... ...<note>I do not venture to translate <foreign>araṭṭhasaṃvinayikaṃ</foreign>. The phrase is, of course, identical with that used in the Andhra inscriptions (Archaeological Report, West. Ind., vol. IV, pp. 104-106, Nos. 13, 14)—<foreign>araṭhasarinayika</foreign>, my former explanation of which cannot stand.</note> free from troubles about salt and sugar,<note>In Sanskrit <foreign>alavaṇaguḍakṣobham</foreign>. Digging for salt was a royal monopoly.</note> free from taxes, forced labour ... ... ... , free from the taking of the oxen in succession,<note>I suppose this refers to the obligation of furnishing by turns draught-cattle for the progress of the royal officers.</note> free from the taking of grass and wood, free from the taking of vegetables and flowers; with these and other immunities of the eighteen kinds it must he exempted and caused to be exempted by the inhabitants of the province, by the inhabitants of Āpiṭṭī and by the inhabitants of Chillerekakoḍuṃka.</quote></p>
+	<p n="30-37"><quote>This garden in Cillarekakoḍuṃka, which belongs to the Brāhmans, <supplied reason="subaudible">is to be</supplied> free from taxes ... ... ..., free from the taking of sweet and sour milk,<note>Milk, grass, firewood, vegetable, and so forth had to be furnished gratis by the villagers to royal officers and their servants. The custom still prevails in many native states.</note> ... ... ... ...<note>I do not venture to translate <foreign>araṭṭhasaṃvinayikaṃ</foreign>. The phrase is, of course, identical with that used in the Andhra inscriptions (Archaeological Report, West. Ind., vol. IV, pp. 104-106, Nos. 13, 14)—<foreign>araṭhasarinayika</foreign>, my former explanation of which cannot stand.</note> free from troubles about salt and sugar,<note>In Sanskrit <foreign>alavaṇaguḍakṣobham</foreign>. Digging for salt was a royal monopoly.</note> free from taxes, forced labour ... ... ... , free from the taking of the oxen in succession,<note>I suppose this refers to the obligation of furnishing by turns draught-cattle for the progress of the royal officers.</note> free from the taking of grass and wood, free from the taking of vegetables and flowers; with these and other immunities of the eighteen kinds it must he exempted and caused to be exempted by the inhabitants of the province, by the inhabitants of Āpiṭṭī and by the inhabitants of Chillerekakoḍuṃka.</quote></p>
 	
-	<p><quote>Moreover, in Āpiṭṭī <supplied reason="subaudible">one</supplied> <foreign>nivartana</foreign> <supplied reason="subaudible">has been given</supplied> to the Brāhmans, chief among whom is Agisamaja <supplied reason="explanation">Agniśarmarya</supplied>, for a threshing-floor, <supplied reason="subaudible">one</supplied> <foreign>nivartana</foreign> for a house, four labourers<note>The <foreign>addhikā</foreign> i.e., <foreign>ardhikāḥ</foreign>, appear to have been slaves,—see also Āpastamba's Dharmaśūtra, II, 28, 1.</note> receiving half the produce <supplied reason="explanation"><foreign>addhikā</foreign></supplied>, two Kolikas.<note><foreign>Kolikā</foreign> corresponds to Sanskrit <foreign>kaulikāḥ</foreign>, and may mean 'weavers.' But it is also possible to think of the well-known tribe of the Kolīs, who were slaves.</note></quote></p>
+	<p n="37-39"><quote>Moreover, in Āpiṭṭī <supplied reason="subaudible">one</supplied> <foreign>nivartana</foreign> <supplied reason="subaudible">has been given</supplied> to the Brāhmans, chief among whom is Agisamaja <supplied reason="explanation">Agniśarmarya</supplied>, for a threshing-floor, <supplied reason="subaudible">one</supplied> <foreign>nivartana</foreign> for a house, four labourers<note>The <foreign>addhikā</foreign> i.e., <foreign>ardhikāḥ</foreign>, appear to have been slaves,—see also Āpastamba's Dharmaśūtra, II, 28, 1.</note> receiving half the produce <supplied reason="explanation"><foreign>addhikā</foreign></supplied>, two Kolikas.<note><foreign>Kolikā</foreign> corresponds to Sanskrit <foreign>kaulikāḥ</foreign>, and may mean 'weavers.' But it is also possible to think of the well-known tribe of the Kolīs, who were slaves.</note></quote></p>
 	
-<p><quote>Now <supplied reason="subaudible">if</supplied> anybody, knowing this, proud of <supplied reason="subaudible">being</supplied> a favourite <supplied reason="subaudible">of the king</supplied>, should cause or cause to be caused a small obstacle <supplied reason="subaudible">to the donees</supplied> him, forsooth, we shall restrain by punishment. And further I pray both the future great warriors of our Pallava race, <supplied reason="subaudible">who may rule</supplied> within a period exceeding one hundred thousand years, as well as kings, differing from us <supplied reason="subaudible">in descent</supplied>, saying <supplied reason="subaudible">unto them</supplied>: 'To him among you blessings, who in his time makes <supplied reason="subaudible">the people</supplied> act according to the rule, written above.<note>I transliterate and complete this,— <foreign>yaḥ svakakāla uparilikhitamaryādayā (janān) anuvartaye tasya vaḥ śarmeti</foreign>.</note> But he who acts contrary to it shall be the lowest of men, loaded with <supplied reason="subaudible">the guilt of</supplied> the five mortal sins.' A charter <supplied reason="subaudible">valid</supplied> for one hundred thousand years has been given on the fifth day, in the sixth <supplied reason="subaudible">fortnight</supplied> of the rainy season, in the year eight. <supplied reason="subaudible">My</supplied> own order. 'The charter has been prepared in his own handwriting by the privy councillor Bhaṭṭisama <supplied reason="explanation">Bhaṭṭiśarman</supplied>, the Kolivāla freeholder.' 'Welfare to cows, Brāhmans, the writer, the readers and the hearers.'</quote></p>
-	
+	<p n="39-52"><quote>Now <supplied reason="subaudible">if</supplied> anybody, knowing this, proud of <supplied reason="subaudible">being</supplied> a favourite <supplied reason="subaudible">of the king</supplied>, should cause or cause to be caused a small obstacle <supplied reason="subaudible">to the donees</supplied> him, forsooth, we shall restrain by punishment. And further I pray both the future great warriors of our Pallava race, <supplied reason="subaudible">who may rule</supplied> within a period exceeding one hundred thousand years, as well as kings, differing from us <supplied reason="subaudible">in descent</supplied>, saying <supplied reason="subaudible">unto them</supplied>: 'To him among you blessings, who in his time makes <supplied reason="subaudible">the people</supplied> act according to the rule, written above.<note>I transliterate and complete this,— <foreign>yaḥ svakakāla uparilikhitamaryādayā (janān) anuvartaye tasya vaḥ śarmeti</foreign>.</note> But he who acts contrary to it shall be the lowest of men, loaded with <supplied reason="subaudible">the guilt of</supplied> the five mortal sins.' A charter <supplied reason="subaudible">valid</supplied> for one hundred thousand years has been given on the fifth day, in the sixth <supplied reason="subaudible">fortnight</supplied> of the rainy season, in the year eight. <supplied reason="subaudible">My</supplied> own order. 'The charter has been prepared in his own handwriting by the privy councillor Bhaṭṭisama <supplied reason="explanation">Bhaṭṭiśarman</supplied>, the Kolivāla freeholder.' 'Welfare to cows, Brāhmans, the writer, the readers and the hearers.'</quote></p>	
 	
 </div>
       	
  <div type="translation" xml:lang="fra" resp="part:emfr">
 
- 	<p>...</p>
+ 	<div type="textpart" xml:lang="san-Latn" n="A">
+		<head xml:lang="eng">Seal</head>
+		
+		<ab>
+			<supplied reason="subaudible">Order</supplied> of Śivaskava<supplied reason="lost">davarman</supplied>. 
+		</ab>
+		
+	</div>
+	
+	<div type="textpart" xml:lang="pra-Latn" n="B">
+		
+		<head xml:lang="eng">Plates</head>
+		
+		<ab>Vu<note>C'est-à-dire "Vérifié".</note>.</ab>
+		
+		<ab>Perfection !</ab>
+ 	
+		<p n="1-7">De Kāñcīpuram ...</p>
+		
+		<p n="7-26">Nous accordons ...
+			<list>
+				<item>à Golasamaja <supplied reason="explanation">Golaśarmārya</supplied>: 1 part</item>
+				<item>à Agisamaja <supplied reason="explanation">Agniśarmārya</supplied> de l'Ātreyagotra: 4 parts</item>
+				<item>...</item>
+			</list>
+		</p>
+		
+		<p n="27-30">...</p>		
+		<p n="30-37">...</p>		
+		<p n="37-39">...</p>		
+		<p n="39-41">...</p>		
+		<p n="41-48">...</p>		
+		<p n="48">...</p>		
+		<p n="48">...</p>		
+		<p n="50-51">...</p>		
+		<p n="52"><quote>Prospérité au vaches, aux brahmanes, aux scribes, aux récitateurs et aux auditeurs :</quote></p>
+		
+	</div>
+ 	
  	
  </div>
       	
       	<div type="commentary">
 
       		<p>For a description of the Prakrit language of this grant, see <bibl><ptr target="bib:Buehler1892_01"/></bibl> (EI 1, no. 1, p. 2-4).</p>
+      		<p>About the seal, see <bibl><ptr target="bib:Buehler1892_01"/><citedRange unit="page">9</citedRange></bibl>: <quote>The plates are still held together by a single ring to which a nearly circular, somewhat battered, seal about an inch in diameter is attached. This seal shows as emblem an animal, facing the proper right, which may be intended for a deer or a horse. Below there stands the word Śivaskandavarmaṇaḥ, the last three <foreign>akṣara</foreign>s of which are much defaced and doubtful. The first four <foreign>akṣara</foreign> are perfectly plain and leave no doubt thut this part of the grant was in Sanskrit, just like the <foreign>maṅgala</foreign> at the end.</quote></p>
       	</div>
 
          <div type="bibliography">
