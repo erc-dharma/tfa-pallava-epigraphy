@@ -113,12 +113,12 @@
 		
 		<p>			
 			<lb n="1v1=1"/>k<choice><sic>o</sic><corr>ā</corr></choice>ṃcīpurā Aggiṭ<choice><sic>th</sic><corr>ṭh</corr></choice>oma-vājapeyassamedha-yājī dhamma-mahā
-			<lb n="1v2=2" break="no"/>rājādhirājo bhāraddāyo pallavāṇā<supplied reason="omitted">ṃ</supplied> sivakhaṃdavamo
+			<lb n="1v2=2" break="no"/>rājādhirājo bhāraddāyo pallavāṇ<choice><sic>a</sic><corr>ā</corr></choice><supplied reason="omitted">ṃ</supplied> sivakhaṃdavamo
 			<lb n="1v3=3"/>Amhaṃ visaye savattha rājakumāra-senāpati <space/>
 						
 			<pb n="2r" break="no"/>
 			
-			<lb n="2r1=4"/>raṭṭh<unclear>i</unclear>ka-māḍabika-desādhikatādīke gāmāgāmabhojake
+			<lb n="2r1=4"/>raṭṭh<unclear>i</unclear>ka-māḍabi<unclear reason="eccentric_ductus">ka</unclear>-desādhikatādīke gāmāgāmabhojake
 			<lb n="2r2=5"/>vallave govallave Amacce Ārakhādhikate gumike tūthike	
 			<lb n="2r3=6"/>neyike Anne vi ca Amha-pesa<unclear>ṇa</unclear>-ppayutte saṃcaraṃtaka
 			<lb n="2r4=7"/>bhaḍamaṇusā ṇa<gap quantity="3" unit="character" reason="illegible"/>
@@ -128,7 +128,7 @@
 			parihāraṃ vitarāma Ettha dāṇi						
 			<pb n="2v"/>
 			
-			<lb n="2v1=8"/>Āpiṭṭ<choice><unclear>i</unclear><unclear>ī</unclear></choice>-vatthavāṇa cillareka-koḍuṃka-bhojaka-bamhaṇānāṃ Appa
+			<lb n="2v1=8"/>Āpiṭṭ<choice><unclear>i</unclear><unclear>ī</unclear></choice>-vatthavāṇa cillareka-koḍuṃka-bhojaka-bamhaṇān<choice><sic>a</sic><corr>ā</corr></choice>ṃ Appa
 			<lb n="2v2=9" break="no"/>ṇa kula-gottasa dhamāyu-bala-yaso-vadhanike vijaya-vejayīke	
 			<lb n="2v3=10"/>ca kātūṇam Appatihata-sāsaṇassa Aneka-hirogo-koḍi
 			<lb n="2v4=11" break="no"/>go-hala-sata-sahassa-ppadāyino mahārāja-bappa-sāmīhi
@@ -304,11 +304,34 @@
 				<note>The original reading is <foreign>ṭtha</foreign>, as indicated by the dot inside the <foreign>tha</foreign> of this ligature.</note>
 			</app>
 			
+			<app loc="2">
+				<lem>pallavāṇ<choice><sic>a</sic><corr>ā</corr></choice><supplied reason="omitted">ṃ</supplied></lem>
+				<rdg source="bib:Buehler1892_01 bib:Sircar1965_02">pallavāṇa</rdg>
+			</app>
+			
 			<app loc="4">
 				<lem>raṭṭh<unclear>i</unclear>ka°</lem>
 				<rdg source="bib:Buehler1892_01">raṭṭhika°</rdg>
 				<rdg source="bib:Sircar1965_02">raṭṭh<choice><sic>a</sic><corr>i</corr></choice>ka°</rdg>
 				<note><ptr target="bib:Buehler1892_01"/> notes that <quote>[t]he <foreign>i</foreign> of <foreign>raṭṭhika</foreign> is very faint</quote>. This medial <foreign>i</foreign> is not clear on the published estampage, but is more visible on the photos (2011).</note>
+			</app>
+			
+			<app loc="4">
+				<lem>°māḍabi<unclear reason="eccentric_ductus">ka</unclear>°</lem>
+				<rdg source="bib:Buehler1892_01">°mā<supplied reason="omitted">ṃ</supplied>ḍabi<choice><sic>nu</sic><corr>ka</corr></choice>°</rdg>
+				<rdg source="bib:Leumann1894_01">°mā<supplied reason="omitted">ṃ</supplied>ḍabika°</rdg>
+								
+				<rdg source="bib:Buehler1894_05">°mā<supplied reason="omitted">ṃ</supplied>ḍabi<choice><sic>nu</sic><corr>ka</corr></choice>°</rdg>
+				<rdg source="bib:Sircar1965_02">°māḍabi<unclear reason="eccentric_ductus">ka</unclear>°</rdg>
+				<note>The letter <foreign>ka</foreign> looks indeed like <foreign>nu</foreign>, since the left part of its horizontal crossbar is missing. <ptr target="bib:Buehler1894_05"/> notes that the emendation <foreign>māḍambika</foreign> is possible, but doubtful, given that is attested attested only in Jainz literature.</note>
+			</app>
+			
+			<app loc="5">
+				<lem>Ārakhādhikate</lem>
+				<rdg source="bib:Buehler1892_01"><choice><sic>Ā</sic><corr>a</corr></choice>raṇādhikate </rdg>
+				<rdg source="bib:Leumann1894_01 bib:Buehler1894_05">Āra<supplied reason="omitted">k</supplied>khādhikate </rdg>
+				<rdg source="bib:Sircar1965_02">Ārakhādhikate</rdg>
+				<note>The initial <foreign>Ā</foreign> is clear on the photos (2011), where a little hook is visible on its right side of letter)</note>
 			</app>
 			
 			<app loc="7">
@@ -323,6 +346,45 @@
 				<rdg source="bib:Buehler1892_01">pārihāraṃ</rdg>				
 				<rdg source="bib:Sircar1965_02">parihāraṃ</rdg>	
 			</app>
+						
+			<app loc="8">
+				<lem>Āpiṭṭ<choice><unclear>i</unclear><unclear>ī</unclear></choice>°</lem>
+				<rdg source="bib:Buehler1892_01">Āpiṭṭi°</rdg>
+				<rdg source="bib:Sircar1965_02"><unclear>Ā</unclear>piṭṭi°</rdg>	
+			</app>
+			
+			
+			
+			<app loc="37">
+				<lem>Āpiṭṭīyaṃ</lem>
+				<rdg source="bib:Buehler1892_01 bib:Sircar1965_02">Āpiṭṭīyaṃ</rdg>
+				<note>The <foreign>ī</foreign> in <foreign>ṭṭi</foreign> is not clear on the published estampage, but well visible on the photos (2011).</note>
+			</app>
+			
+			<app loc="40">
+				<lem>bādhā</lem>
+				<rdg source="bib:Buehler1892_01 bib:Sircar1965_02">bādhā</rdg>
+				<note>The <foreign>ā</foreign> in <foreign>dhā</foreign> is not clear on the published estampage, but well visible on the photos (2011).</note>
+			</app>
+			
+			<!--<app loc="0">
+				<lem>...</lem>
+				<rdg source="bib:Buehler1892_01">...</rdg>
+				<rdg source="bib:Leumann1894_01">...</rdg>
+				<rdg source="bib:Sircar1965_02">...</rdg>	
+			</app>-->
+			<!--<app loc="0">
+				<lem>...</lem>
+				<rdg source="bib:Buehler1892_01">...</rdg>
+				<rdg source="bib:Leumann1894_01">...</rdg>
+				<rdg source="bib:Sircar1965_02">...</rdg>	
+			</app>-->
+			<!--<app loc="0">
+				<lem>...</lem>
+				<rdg source="bib:Buehler1892_01">...</rdg>
+				<rdg source="bib:Leumann1894_01">...</rdg>
+				<rdg source="bib:Sircar1965_02">...</rdg>	
+			</app>-->
 			
 			<app loc="7">
 				<lem>Ettha</lem>
