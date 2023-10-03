@@ -121,7 +121,7 @@
 		i<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ellil-t <unclear>ti</unclear>
 		<lb n="24" break="no"/>ruvamirtukku nellu Aṟu nūṟṟu
 		<lb n="25" break="no"/>-k kāṭiyum tiru-v-uṇṇāḻikaiyu<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice> ār<unclear>ā</unclear>
-		<lb n="26" break="no"/>ti<unclear>t</unclear>t’ uppācarikkum <hi rend="grantha"><unclear>śiva</unclear></hi>-<hi rend="grantha">brāhma</hi>ṇa
+		<lb n="26" break="no"/>ti<unclear>t</unclear>t’ u<surplus>p</surplus>pācarikkum <hi rend="grantha"><unclear>śiva</unclear></hi>-<hi rend="grantha">brāhma</hi>ṇa
 		<lb n="27" break="no"/>rkku nellu Ai<choice><orig>ñ</orig><reg>n</reg></choice>
 		<lb n="28" break="no"/>-<choice><orig>ñ</orig><reg>n</reg></choice>ūṟṟu-k kāṭiyum <hi rend="grantha">śrī</hi>-pa
 		<lb n="29" break="no"/>li-koṭṭuvārk=ku nellu
@@ -148,32 +148,37 @@
 	
 	<p>             
 		<lb n="45"/><hi rend="grantha">Id-<choice><sic>dhmamama</sic><corr>dharmmam</corr></choice> panmāhe
-			<lb n="46" break="no"/><unclear>śva</unclear>ra-rakṣai</hi> ||―||{{pcs}}<!--Update!-->             
+			<lb n="46" break="no"/><unclear>śva</unclear>ra-rakṣai</hi> ||―||{{pcs}}<!--Update punctuation!-->             
 	</p>      
           
        </div>
        
-    	<div type="apparatus">
+<div type="apparatus">
     	   
-    		<listApp>
-    			
-    		   <app loc="38">
-    		      <lem><hi rend="grantha">khaṇḍaspūṭi</hi>ta-na<unclear>va</unclear>ka
-             <lb n="39" break="no"/><hi rend="grantha">nm</hi><hi rend="grantha"><unclear>ā</unclear></hi>ti</lem>
-    		      <rdg source="bib:Hultzsch1899_01"/>
-    		      <note><ptr target="bib:Hultzsch1899_01"/> notes that this has to be read <foreign><hi rend="grantha">sphuṭita</hi>-nava<hi rend="grantha">karmādi</hi></foreign>.</note>
-    		   </app>
-    		   
-    		   <app loc="39">
-    		      <lem>p<unclear>o</unclear>ṉ</lem>
-    		      <note>In <foreign>o</foreign>, only the <foreign>kompu</foreign> element  is unclear.</note>
-    		   </app>
-    			
-    			<!--<app loc="0">
-    				<lem></lem>
-    				<rdg source="bib:Hultzsch1899_01"></rdg>
-    			</app>-->
-    		</listApp>    			
+	<listApp>
+		
+		<app loc="3">
+			<lem>t<choice><sic>i</sic><corr>ī</corr></choice>kk<unclear>ā</unclear></lem>
+			<rdg source="bib:Hultzsch1899_01"/>
+		</app>
+		
+		<app loc="38">
+			<lem><hi rend="grantha">khaṇḍaspūṭi</hi>ta-na<unclear>va</unclear>ka
+				<lb n="39" break="no"/><hi rend="grantha">nm</hi><hi rend="grantha"><unclear>ā</unclear></hi>ti</lem>
+			<rdg source="bib:Hultzsch1899_01"/>
+			<note><ptr target="bib:Hultzsch1899_01"/> notes that this has to be read <foreign><hi rend="grantha">sphuṭita</hi>-nava<hi rend="grantha">karmādi</hi></foreign>.</note>
+		</app>
+		
+		<app loc="39">
+			<lem>p<unclear>o</unclear>ṉ</lem>
+			<note>In <foreign>o</foreign>, only the <foreign>kompu</foreign> element  is unclear.</note>
+		</app>
+		
+		<!--<app loc="0">
+			<lem></lem>
+			<rdg source="bib:Hultzsch1899_01"></rdg>
+		</app>-->
+	</listApp>    			
     	
 </div>
     	
@@ -184,7 +189,7 @@
 	</p>
 	
 	<p n="1-2">
-		<supplied reason="subaudible">This is a</supplied> copy of a stone-inscription<note>Literally: “according to <supplied reason="explanation"><foreign>paṭi</foreign></supplied> a stone-inscription”.</note> which existed before the construction<note>That is, reconstruction.</note>, after destruction, of the glorious pillared hall <supplied reason="explanation"><foreign>tiru-maṇṭapam</foreign></supplied>.             
+		<supplied reason="subaudible">This is a</supplied> copy of a stone-inscription<note>Literally: “according to <supplied reason="explanation"><foreign>paṭi</foreign></supplied> a stone-inscription”.</note> which existed before the reconstruction <supplied reason="explanation"><foreign>iḻicci-y eṭuppataṟku</foreign><note>Literally: "before constructing <supplied reason="subaudible">anew</supplied> having destroyed <supplied reason="subaudible">the old structure</supplied>".</note></supplied> of the glorious pillared hall <supplied reason="explanation"><foreign>tiru-maṇṭapam</foreign></supplied>.             
 	</p>
 	
 	<p n="3-4">
@@ -192,25 +197,37 @@
 	</p>
 	
 	<p n="4-23">
-		For the great lord of Tīkkālivallam in the Mīyāṟunāṭu in the Paṭuvūrkompukōṭṭam ...
+		For the great lord of Tīkkālivallam in the Mīyāṟunāṭu in the Paṭuvūrkompukōṭṭam,
+		in this <supplied reason="subaudible">same</supplied> <foreign>nāṭu</foreign>, <supplied reason="subaudible">in</supplied> <supplied reason="subaudible">the villages of</supplied> Aimpūṇi, Viḷattūr, and Amaruṉṟi-maṅgala, a <foreign>devadāna</foreign> of this <supplied reason="subaudible">same</supplied> god 
+		― <supplied reason="subaudible">now</supplied> as a single village, under the name <quote>Viṭēlviṭuku-vikkiramātitta-c-caturvedimaṅgala</quote> ―
+		having become a single village, at the request of Vikkkiramātittavānarāyaṉ<note>Sanskrit Vikramādityabāṇarāja.</note> alias Māvalivāṇarāyaṉ <note>Sanskrit Mahābalibāṇarāja</note> <supplied reason="subaudible">and</supplied> by execution <supplied reason="explanation"><foreign>āṇatti</foreign></supplied> of Kāṭupaṭṭi-t-tamiḻ-p-pērarayaṉ ―
+		 the members of the assembly of this Viṭēlviṭuku-vikkiramātitta-c-caturvedimaṅgala should pay as taxes <supplied reason="explanation"><foreign>iṟuppār ākavum</foreign></supplied> two thousands <foreign>kāṭi</foreign>s of paddy and twenty <foreign>kaḻañcu</foreign>s of gold
+		which used to come <supplied reason="explanation"><foreign>varukiṉṟa</foreign><note>Literally: "which come".</note></supplied> before <supplied reason="explanation"><foreign>muṉ</foreign></supplied> <supplied reason="subaudible">from</supplied> this Amaruṉṟi-maṅgala as tax payment <supplied reason="explanation"><foreign>iṟuttu </foreign><note>Literally: "having paid taxes".</note></supplied>
+		for this great lord of Tīkkālivallam in the Mīyāṟunāṭu.
 	</p>
 	
 	<p n="23-44">
-		So that there be <supplied reason="explanation"><foreign>āka</foreign><note>In line 40.</note></supplied>
-		<list>
-			<item>from this paddy:</item>
-			<item>...</item>
+		So that there be <supplied reason="explanation"><foreign>āka</foreign><note>In line 39.</note></supplied> from this paddy		
+		
+		<list>		
+			<item>for sacred food offerings <supplied reason="explanation"><foreign>tiruvamirtukku</foreign></supplied>: six hundred <foreign>kāṭi</foreign>s of paddy</item>
+			<item>for the Śaiva Brahmins who offer worship <supplied reason="explanation"><foreign>ārātittu</foreign></supplied> and officiate <supplied reason="explanation"><foreign>upācarikkum</foreign></supplied> in the glorious innermost sanctuary <supplied reason="explanation"><foreign>tiru-v-uṇṇāḵikai</foreign></supplied>: five hundred <foreign>kāṭi</foreign>s of paddy</item>
+			<item>for those who beat <supplied reason="explanation"><foreign>koṭṭuvārkku</foreign></supplied> <supplied reason="subaudible">drums</supplied> <supplied reason="subaudible">at the time</supplied> of the glorious <foreign>pali</foreign> <supplied reason="subaudible">offering</supplied><note>Sanskrit <foreign>bali</foreign>.</note>: five hundred <foreign>kāṭi</foreign>s of paddy</item>
+			<item>for those who pick <supplied reason="explanation"><foreign>paṟippārkkum</foreign></supplied> <supplied reason="subaudible">flowers to make</supplied> the glorious flower-garlands <supplied reason="explanation"><foreign>tiru-p-paḷḷittāmam</foreign></supplied> and for those who do many services, including those who sing <supplied reason="explanation"><foreign>pāṭuvār</foreign></supplied> the glorious hymns <supplied reason="explanation"><foreign>tiru-p-pattiyam</foreign></supplied>: four hundred <foreign>kāṭi</foreign>s of paddy</item>
 		</list>
 		
-		<list>
-			<item>and twenty <foreign>kaḻañcu</foreign>s of gold:</item>
-			<item>...</item>
+		and so that there be <supplied reason="explanation"><foreign>āka</foreign><note>In line 40.</note></supplied> twenty <foreign>kaḻañcu</foreign>s of gold
+		<list>			
+			<item>for glorious perpetual lamps</item>
+			<item>for anointing of the idol<note>Literally: "the anointing of the glorious body".</note></item>
+			<item>for incense <supplied reason="explanation"><foreign>citāri</foreign></supplied> and for repairing breaks and cracks</item>
 		</list>
-		this paddy and this gold, they should pay <supplied reason="subaudible">it</supplied> as tax to this god as long as the moon and the sun.
+		this paddy and this gold, they<note>That is, the members of the assembly of this Viṭēlviṭuku-vikkiramātitta-c-caturvedimaṅgala.</note> should pay <supplied reason="subaudible">it</supplied> as tax <supplied reason="explanation"><foreign>iṟuppārkaḷ ākavum</foreign></supplied>
+to this god as long as the moon and the sun.
 	</p>          
 	
 	<p n="43-44">
-		In this manner ...
+		In this manner, having made a <foreign>nibandha</foreign><note>That is, an endowment of property for temple-worship.</note>, we have given it.
 	</p>
 	
 	<p n="45-46">
@@ -227,7 +244,8 @@
     	<div type="bibliography">
     		
 <p>
-First edited and translated by <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> (SII 3, no. 43); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 132); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis, based on previous editions.
+First edited and translated by <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> (SII 3, no. 43); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 132).</p>
+    		<p>Encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis, based on previous editions.
 </p>
     		
 <listBibl type="primary">
