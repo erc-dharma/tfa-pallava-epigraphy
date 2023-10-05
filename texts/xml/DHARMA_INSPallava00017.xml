@@ -51,7 +51,10 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>
+							<p>Sanskrit: ...</p>
+							<p>Tamil: ...</p>
+							<p>See <bibl n="S"><ptr target="bib:Subramaniam1959_01"/><citedRange unit="page">45ff.</citedRange></bibl>
+							</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -100,21 +103,64 @@
 	<head xml:lang="eng">Plates: Sanskrit Portion</head>
 	
 	<pb n="1r"/>
-	<lg n="1" met="uncertain">
+	
+	<lg n="1" met="upajāti">
 		<l n="a"><pb n="1v"/><lb n="1v1=1"/>...</l>
 		<l n="b">...</l>
 		<l n="c">...</l>
 		<l n="d">...</l>
 	</lg>
 	
-	<lg n="8" met="uncertain">
+	<lg n="2" met="śārdūlavikrīḍita">
+		<l n="a">...</l>
+		<l n="b">...</l>
+		<l n="c">...</l>
+		<l n="d">...</l>
+	</lg>	
+		
+	<lg n="3" met="pr̥thvī">
+		<l n="a">...</l>
+		<l n="b">...</l>
+		<l n="c">...</l>
+		<l n="d">...</l>
+	</lg>	
+		
+	<lg n="4" met="upajāti">
+		<l n="a">...</l>
+		<l n="b">...</l>
+		<l n="c">...</l>
+		<l n="d">...</l>
+	</lg>	
+		
+	<lg n="5" met="śārdūlavikrīḍita">
+		<l n="a">...</l>
+		<l n="b">...</l>
+		<l n="c">...</l>
+		<l n="d">...</l>
+	</lg>	
+		
+	<lg n="6" met="upajāti">
+		<l n="a">...</l>
+		<l n="b">...</l>
+		<l n="c">...</l>
+		<l n="d">...</l>
+	</lg>	
+		
+	<lg n="7" met="upajāti">
+		<l n="a">...</l>
+		<l n="b">...</l>
+		<l n="c">...</l>
+		<l n="d">...</l>
+	</lg>			
+	
+	<lg n="8" met="anuṣṭubh">
 		<l n="a">...</l>
 		<l n="b">...</l>
 		<l n="c">...</l>
 		<l n="d">...</l>
 	</lg>	
 	
-	<lg n="9" met="uncertain">
+	<lg n="9" met="anuṣṭubh">
 		<l n="a">...<pb n="3r"/><lb n="3r1=25"/></l>
 		<l n="b">...</l>
 		<l n="c">...</l>
@@ -225,12 +271,12 @@
       			
       			<listApp>
 
-      				<!--<app loc="0">
+      				<app loc="0">
       					<lem>...</lem>
       					<rdg source="bib:Subramaniam1959_01">...</rdg>
       					<rdg source="bib:Mahalingam1988_01">...</rdg>
       					<rdg source="bib:Zvelebil1964_01">...</rdg>
-      				</app>      	-->			
+      				</app>      				
 
       			</listApp>
       		</div>
@@ -256,41 +302,126 @@
       		</div>
       	</div>
 
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
-      	</div>
+	<div type="textpart" xml:lang="san-Latn" n="A">
+		<head xml:lang="eng">Seal</head>
+		
+		<p>
+			<lb n="1"/>...
+		</p>
+		
+	</div>	
+	
+	<div type="textpart" xml:lang="san-Latn" n="B">
+		<head xml:lang="eng">Plates: Sanskrit Portion</head>
+		
+	</div>
+	
+	<div type="textpart" xml:lang="san-Latn" n="C">
+		<head xml:lang="eng">Plates: Tamil Portion</head>
+		
+	</div>
+	
+</div>
 
-      	<div type="translation" xml:lang="fra" resp="part:sybr">
+<div type="translation" xml:lang="fra" resp="part:sybr">
 
-      		<p rend="stanza" n="1">
-      			<l>...</l>
-      			<l>...</l>
-      			<l>...</l>
-      			<l>...</l>
-      		</p>
+	<div type="textpart" xml:lang="san-Latn" n="B">
+		<head xml:lang="eng">Plates: Sanskrit Portion</head>
+		
+		<p rend="stanza" n="1">
+			<l>...</l>
+			<l>...</l>
+			<l>...</l>
+			<l>...</l>
+		</p>
+		
+		<p rend="stanza" n="2">
+			<l>...</l>
+			<l>...</l>
+			<l>...</l>
+			<l>...</l>
+		</p>
+		
+		<p rend="stanza" n="3">
+			<l>...</l>
+			<l>...</l>
+			<l>...</l>
+			<l>...</l>
+		</p>
+		
+		<p rend="stanza" n="4">
+			<l>Śrī-Siṃhaviṣṇu, qui dépassa Siṃhaviṣṇu<note>= Narasiṃha (avatar de Viṣṇu), à moins qu’il ne s’agisse du nom d’un autre roi, que celui-ci aurait vaincu à la guerre.</note></l>
+			<l>Par sa force, dont l’arc surpassa même celui de Jiṣṇu<note>= Arjuna.</note>,</l>
+			<l>Qui illustra sa lignée resplendissante,</l>
+			<l>Qui, dans les combats, repoussa les audacieux<note>Il semble que le verbe dont ce personnage est le sujet soit omis.</note>.</l>			
 
-      		
+		</p>
+		
+		<p rend="stanza" n="5">
+			<l>C’est chez ce souverain doué d’une profonde intelligence que trouvèrent place l’ensemble des vertus immaculées des guerriers, qui ne trouvent pas de place chez les autres : notamment la vérité, le renoncement (/la générosité) et la modestie;</l>
+			<l>Et mieux que son rival, il s’empara de la terre des Coḷa dont la Kāverī est le collier, les rizières et les champs de canne à sucre l’<foreign>aṃśuka</foreign>, les vergers de noix d’arech et de bananes la belle ceinture. 
+</l>
+		</p>
+		
+		<p rend="stanza" n="6">
+			<l>Au lieu sacré de Śrī-Varddhamāneśvara,</l>
+			<l>Dans la noble congrégation de Śrī-Nandisaṃgha, par les chefs de la congrégation</l>
+			<l>Méritants, innombrables et vertueux, entouré d’une abondante</l>
+			<l>Compagnie, naquit, pareil à Gaṇin, Vajranandī.</l>
+		</p>
+		
+		<p rend="stanza" n="7">
+			<l>Le roi donna tout entier le village nommé Śramaṇāśrama, après en avoir délimité les frontières</l>
+			<l>A cet ascète, pour qu’il célèbre le culte du Seigneur Jina, au nom du groupe des grands ascètes adeptes du Seigneur Jina.</l>
+		</p>
+		
+		<p rend="stanza" n="8">
+			<l>L’exécuteur fut, en cette occasion, le ministre intrépide nommé Narabhaya,</l>
+			<l>Un homme avisé, réceptacle d’une multitude de nobles vertus, dont l’humilité et la sérénité.</l>
+		</p>
+						
+		<p rend="stanza" n="9">
+			<l>Comparable à Dhiṣaṇa par son intelligence rompue à tous les traités,</l>
+			<l>Celui dont le nom lui-même est digne d’honneur, Medhāvin composa ce panégyrique.</l>
+		</p>
+		
+	</div>
+    		
+</div>
 
-      	</div>
-
-      	<div type="commentary">
+<div type="commentary">
 
       		
       	</div>
 
 <div type="bibliography">
 	
-	<p>First edited by <bibl><ptr target="bib:Subramaniam1959_01"/></bibl> (TASSI 1958-1959), with photos; text of the Tamil portion in <bibl><ptr target="bib:Zvelebil1964_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 17); text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 14); re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on previous editions and published visual documentation.
+	<p>
+	First reported in <bibl><ptr target="bib:ARIE1958-1959"/></bibl> (ARIE/1958-1959/A/1958-1959/10).
+</p>
+      	
+	<p>
+		First edited and translated in <bibl><ptr target="bib:Subramaniam1959_01"/></bibl> (TASSI 1958-1959), with photos; text of the Tamil portion in <bibl><ptr target="bib:Zvelebil1964_01"/></bibl>; re-edited in <bibl><ptr target="bib:Subramaniam1966_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 17); text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 14).
+	</p>
+	
+	<p>
+		Re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on previous editions and published visual documentation.
 	</p>
 
             <listBibl type="primary">
 
-            	<bibl n="S">
+            	<bibl n="TNS1959">
             		<ptr target="bib:Subramaniam1959_01"/>
             	</bibl>
 
             	<bibl n="Z">
             		<ptr target="bib:Zvelebil1964_01"/>
+            	</bibl>
+            	
+            	<bibl n="TNS1966">
+            		<ptr target="bib:Subramaniam1966_01"/>
             	</bibl>
 
             	<bibl n="TVM">
@@ -310,9 +441,12 @@
             <listBibl type="secondary">
             	
             	<bibl>
-      				<ptr target="bib:ARIE1958-1959"/>
-      				<citedRange unit="page">3-4, 27</citedRange>
-      			</bibl>     
+            		<ptr target="bib:ARIE1958-1959"/>
+            		<citedRange unit="page">3-4, 27</citedRange>
+            		<citedRange unit="appendix">A/1958-1959</citedRange>
+            		<citedRange unit="item">10</citedRange>
+            		<citedRange unit="plate">III</citedRange>
+            	</bibl>     
             	
             	<bibl n="EF">
             		<ptr target="bib:Francis2013_01"/>
