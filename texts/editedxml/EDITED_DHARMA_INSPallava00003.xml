@@ -472,7 +472,7 @@
       	
       	<div type="commentary">
 
-      		<p>For a description of the Prakrit language of this grant, see <bibl><ptr target="bib:Buehler1892_01"/></bibl> (EI 1, no. 1, p. 2-4).</p>
+      		<p>For a description of the Prakrit language of this grant, see <bibl><ptr target="bib:Buehler1892_01"/></bibl> (EI 1, no. 1, p. 2-4), <bibl><ptr target="bib:Mehendale1948_01"/></bibl>, <bibl><ptr target="bib:Pischel1965_01"/></bibl>.</p>
       		<p>About the seal, see <bibl><ptr target="bib:Buehler1892_01"/><citedRange unit="page">9</citedRange></bibl>: <quote>The plates are still held together by a single ring to which a nearly circular, somewhat battered, seal about an inch in diameter is attached. This seal shows as emblem an animal, facing the proper right, which may be intended for a deer or a horse. Below there stands the word Śivaskandavarmaṇaḥ, the last three <foreign>akṣara</foreign>s of which are much defaced and doubtful. The first four <foreign>akṣara</foreign> are perfectly plain and leave no doubt thut this part of the grant was in Sanskrit, just like the <foreign>maṅgala</foreign> at the end.</quote></p>
       	</div>
 
@@ -509,10 +509,20 @@
 
             <listBibl type="secondary">
 
-            	<bibl n="EF">
+            	<bibl>
             		<ptr target="bib:Francis2013_01"/>
             		<citedRange unit="item">IR 3</citedRange>
             	</bibl>
+            	
+            	<bibl>
+            		<ptr target="bib:Mehendale1948_01"/>
+            		<citedRange unit="page">xvi, 107</citedRange>
+            	</bibl>
+            	
+            	<bibl>
+            		<ptr target="bib:Pischel1965_01"/>
+            		<citedRange unit="page">8</citedRange>
+            	</bibl>           	
             	
            </listBibl>
 
