@@ -192,7 +192,7 @@
 
       	<div type="commentary">
       		
-      		<p>For a description of the Prakrit language of this grant, see <bibl><ptr target="bib:Hultzsch1905-1906_04"/></bibl> (EI 8, no. 12, p. 144).</p>
+      		<p>For a description of the Prakrit language of this grant, see <bibl><ptr target="bib:Hultzsch1905-1906_04"/></bibl> (EI 8, no. 12, p. 144), <bibl><ptr target="bib:Mehendale1948_01"/></bibl>, <bibl><ptr target="bib:Pischel1965_01"/></bibl>.</p>
       		
       	</div>
 
@@ -244,16 +244,26 @@
 
             <listBibl type="secondary">
 
-            	<bibl n="EF">
+            	<bibl>
             		<ptr target="bib:Francis2013_01"/>
             		<citedRange unit="item">IR 4</citedRange>
             	</bibl>
             	
             	
-            	<bibl n="AG">
+            	<bibl>
             		<ptr target="bib:Gaur1975_01"/>
             		<citedRange unit="item">2</citedRange>
             	</bibl>
+            	
+            	<bibl>
+            		<ptr target="bib:Mehendale1948_01"/>
+            		<citedRange unit="page">xvi, 108</citedRange>
+            	</bibl>
+            	
+            	<bibl>
+            		<ptr target="bib:Pischel1965_01"/>
+            		<citedRange unit="page">8</citedRange>
+            	</bibl>            	
 
            </listBibl>
 
