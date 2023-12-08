@@ -96,7 +96,7 @@
 		<head xml:lang="eng">Seal</head>
 		
 		<p>
-			<lb n="1"/>śivaskava<supplied reason="lost">davarmmaṇaḥ</supplied> 
+			<lb n="1"/><supplied reason="lost">śivaskandavarmmaṇaḥ</supplied>
 		</p>
 		
 	</div>
@@ -273,9 +273,9 @@
 		<listApp>
 			
 			<app loc="1">				
-				<lem>śivaskava<supplied reason="lost">davarmmaṇaḥ</supplied></lem>
-				<rdg source="bib:Buehler1892_01">śivaskava<supplied reason="lost">davarmmaṇaḥ</supplied></rdg>
-				<note>This is <ptr target="bib:Buehler1892_01"/> reading (page 9), but nothing is legible on the seal now kept with the plates in the Chennai Government Museum (2008). Either <ptr target="bib:Buehler1892_01"/> examined the seal of another Pallava plate (DHARMA_INSPallava00002, very similar), either the original seal was misplaced in the Chennai Government Museum.</note>
+				<lem><supplied reason="lost">śivaskandavarmmaṇaḥ</supplied></lem>
+				<rdg source="bib:Buehler1892_01">śivaskandavarmmaṇaḥ</rdg>
+				<note>This is <ptr target="bib:Buehler1892_01"/> reading (page 9), but nothing is legible on the seal now kept with the plates in the Chennai Government Museum (2008). The same legend is found on the seal of another Pallava plate (DHARMA_INSPallava00002).</note>
 			</app>
 			
 		</listApp>
