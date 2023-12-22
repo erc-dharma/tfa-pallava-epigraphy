@@ -9,7 +9,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tāḻaiyūttu hero-stone, time of Narasiṃhavarman, year 10</title>
+            <title>Tāḻaiyūttu hero-stone, time of Narasiṁhavarman, year 10</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -127,7 +127,7 @@
       	<div type="translation" resp="part:emfr">
       		
       		<p n="1-2">
-      			Tenth <supplied reason="subaudible">year</supplied> of the victorious king Narasiṃhavarman.       		</p>
+      			Tenth <supplied reason="subaudible">year</supplied> of the victorious king Narasiṁhavarman.       		</p>
       		<p n="2-8">
       			Paṉaiyaṉār of Ciṟṟupāṭi, the servant <supplied reason="subaudible">of</supplied> Perum-pāṇāti-y-araicar, the king <supplied reason="subaudible">of</supplied> Kōvalūr in Mīvēṇṇāṭu, fell when seizing sheep <supplied reason="explanation"><foreign>maṟi</foreign><note><ptr target="bib:Mahalingam1988_01"/><!--Display issue: not displayed--> considers Maṟi as the second part of the name of the deceased hero, that is, Paṉaiyaṉār Maṟi.</note></supplied> <supplied reason="subaudible">and</supplied> cattle.
       		</p>

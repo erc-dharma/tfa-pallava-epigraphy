@@ -92,7 +92,7 @@
 
          <div type="edition" xml:lang="san-Latn">
             <p>
-            	<lb n="1"/><hi rend="grantha">śrī-vāmā<unclear>ṃ</unclear>kuśaḥ</hi>
+            	<lb n="1"/><hi rend="grantha">śrī-vāmā<unclear>ṁ</unclear>kuśaḥ</hi>
             </p>
          </div>
 
@@ -101,7 +101,7 @@
 	<listApp>
 
 		<app loc="1">
-			<lem><hi rend="grantha">śrī-vāmā<unclear>ṃ</unclear>kuśaḥ</hi></lem>
+			<lem><hi rend="grantha">śrī-vāmā<unclear>ṁ</unclear>kuśaḥ</hi></lem>
 			<note><bibl><ptr target="bib:Hultzsch1909-1910_01"/><citedRange unit="page">8</citedRange><citedRange unit="note">1</citedRange></bibl> notes that the <foreign>anusvāra</foreign> is doubtful. It does not indeed appear clearly on the facsimile published in <bibl n="EH">
       				<ptr target="bib:Hultzsch1909-1910_01"/>
       				<citedRange unit="page">8</citedRange>

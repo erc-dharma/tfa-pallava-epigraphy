@@ -9,7 +9,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Toraippāṭi hero-stone, time of Narasiṃhavarman, year 12</title>
+            <title>Toraippāṭi hero-stone, time of Narasiṁhavarman, year 12</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -109,7 +109,7 @@
       	<div type="translation" resp="part:emfr">
       		
       		<p n="1-2">
-      			Twelfth year of the victorious king Narasiṃhavarman.       		</p>
+      			Twelfth year of the victorious king Narasiṁhavarman.       		</p>
       		<p n="3-5">
       			<supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> Koṟṟaviṇaṟṟa Kuṉṟāṉaṟ, the servant <supplied reason="subaudible">of</supplied> the glorious Gaṅga king, he who fell when the glorious Gaṅga king attacked <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>ce<!--<gap reason="undefined" quantity="1" unit="character" precision="low"/>--><!--How to mark gap here?-->vōr</foreign></supplied> marching upon Vā<!--<gap reason="undefined" quantity="1" unit="character" precision="low"/>--><!--How to mark gap here?-->ccaṉ, the son <supplied reason="subaudible">of</supplied> the Koṅkaṇi king.
       		</p>

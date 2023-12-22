@@ -92,7 +92,7 @@
       	<div type="edition" xml:lang="san-Latn">
       		
       		<p>
-      			<lb n="1"/>śrī-narapati-si<unclear>ṃ</unclear>ha-pallava-viṣṇu-gṛha
+      			<lb n="1"/>śrī-narapati-si<unclear>ṁ</unclear>ha-pallava-viṣṇu-gṛha
       		</p>      		
       		
       	</div>
@@ -102,8 +102,8 @@
       		<listApp>
       			
       			<app loc="1">
-      				<lem>°si<unclear>ṃ</unclear>ha°</lem>
-      				<rdg source="bib:ARIE1966-1967">°siṃha°</rdg>
+      				<lem>°si<unclear>ṁ</unclear>ha°</lem>
+      				<rdg source="bib:ARIE1966-1967">°siṁha°</rdg>
       			</app>    
       			
       		</listApp>
@@ -112,18 +112,18 @@
 
       	<div type="translation" resp="part:emfr">
       		
-      		<p n="1">The glorious temple <supplied reason="explanation">literally “house”</supplied> of Viṣṇu <supplied reason="subaudible">built by</supplied> the Pallava Narapatisiṃha <supplied reason="explanation">The lion among kings</supplied>.</p>
+      		<p n="1">The glorious temple <supplied reason="explanation">literally “house”</supplied> of Viṣṇu <supplied reason="subaudible">built by</supplied> the Pallava Narapatisiṁha <supplied reason="explanation">The lion among kings</supplied>.</p>
       	
       	</div>
       	
       	<div type="translation" xml:lang="fra" resp="part:emfr">
       		
-      		<p n="1">Le glorieux temple <supplied reason="explanation">littéralement « maison »</supplied> de Viṣṇu <supplied reason="subaudible">construit par</supplied> le Pallava Narapatisiṃha <supplied reason="explanation">Le lion parmi les rois</supplied>.</p>
+      		<p n="1">Le glorieux temple <supplied reason="explanation">littéralement « maison »</supplied> de Viṣṇu <supplied reason="subaudible">construit par</supplied> le Pallava Narapatisiṁha <supplied reason="explanation">Le lion parmi les rois</supplied>.</p>
       		
       	</div>
       	
          <div type="commentary">
-         	<p>Narapatisiṃha is probably a <foreign>biruda</foreign> of Narasiṃhavarman II Pallava.</p>
+         	<p>Narapatisiṁha is probably a <foreign>biruda</foreign> of Narasiṁhavarman II Pallava.</p>
          </div>
          	
          <div type="bibliography">

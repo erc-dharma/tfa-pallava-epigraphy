@@ -95,7 +95,7 @@
 
       	<div type="edition" xml:lang="san-Latn">      		
       		<p>
-      			<lb n="1"/>śrī-rāja-siṃhaḥ <g type="ddanda">.</g> śrī-kṣatra-siṃhaḥ <g type="ddanda">.</g> śrī-na<space type="defect" quantity="3" unit="character"/>rendra-siṃhaḥ <g type="ddanda">.</g> śrī-maheśvara<space type="defect"/>-cūḷāmaṇiḥ
+      			<lb n="1"/>śrī-rāja-siṁhaḥ <g type="ddanda">.</g> śrī-kṣatra-siṁhaḥ <g type="ddanda">.</g> śrī-na<space type="defect" quantity="3" unit="character"/>rendra-siṁhaḥ <g type="ddanda">.</g> śrī-maheśvara<space type="defect"/>-cūḷāmaṇiḥ
       		</p>	
       	</div>
 
@@ -104,8 +104,8 @@
       		<listApp>
       			
       			<app loc="1">
-      				<lem>śrī-na<space type="defect" quantity="3" unit="character"/>rendrasiṃhaḥ</lem>
-      				<rdg source="bib:Lockwood+al2001_01">śrī-narendrasiṃhaḥ</rdg><!--check value @reason in Lockwood-->
+      				<lem>śrī-na<space type="defect" quantity="3" unit="character"/>rendrasiṁhaḥ</lem>
+      				<rdg source="bib:Lockwood+al2001_01">śrī-narendrasiṁhaḥ</rdg><!--check value @reason in Lockwood-->
       				<note>The surface defect seems the best explanation for the space left blank. The image in Lockwood (p. 265)<!--update ref--> is misleading as it does not represent the blank space between <foreign>na</foreign> and <foreign>re</foreign>.</note>
       			</app>
       			
@@ -137,8 +137,8 @@
       	
       	<div type="commentary">
       		
-      		<p>Rājasiṃha is the favourite <foreign>biruda</foreign> of Narasiṃhavarman II Pallava. The three other <foreign>biruda</foreign>s are attested in other inscriptions: Kṣatrasiṃha in <ref target="INSPallava00068.xml">INSPallava00068</ref> and <ref target="INSPallava00380.xml">INSPallava00380</ref>; Narendrasiṃha in <ref target="INSPallava00060.xml">INSPallava00060</ref>, <ref target="INSPallava00068.xml">INSPallava00068</ref>, and <ref target="INSPallava00380.xml">INSPallava00380</ref>; Maheśvaracūḷāmaṇi in <ref target="INSPallava00064.xml">INSPallava00064</ref>.<!--check!--></p> 
-      		<p>Other <foreign>biruda</foreign>s of of Narasiṃhavarman II Pallava are synonymous with Maheśvaracūḷāmaṇi: Śivacūḷāmaṇi, Candrārdhaśekharaśikhāmaṇi, and Maheśvaraśikhāmaṇi.</p>
+      		<p>Rājasiṁha is the favourite <foreign>biruda</foreign> of Narasiṁhavarman II Pallava. The three other <foreign>biruda</foreign>s are attested in other inscriptions: Kṣatrasiṁha in <ref target="INSPallava00068.xml">INSPallava00068</ref> and <ref target="INSPallava00380.xml">INSPallava00380</ref>; Narendrasiṁha in <ref target="INSPallava00060.xml">INSPallava00060</ref>, <ref target="INSPallava00068.xml">INSPallava00068</ref>, and <ref target="INSPallava00380.xml">INSPallava00380</ref>; Maheśvaracūḷāmaṇi in <ref target="INSPallava00064.xml">INSPallava00064</ref>.<!--check!--></p> 
+      		<p>Other <foreign>biruda</foreign>s of of Narasiṁhavarman II Pallava are synonymous with Maheśvaracūḷāmaṇi: Śivacūḷāmaṇi, Candrārdhaśekharaśikhāmaṇi, and Maheśvaraśikhāmaṇi.</p>
       	</div>
       	
       	<div type="bibliography">

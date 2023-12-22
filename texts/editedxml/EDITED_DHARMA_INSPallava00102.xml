@@ -98,7 +98,7 @@
 	<hi rend="grantha">da</hi>n=tippōttaracarkku yāṇṭ’ oṉpat-āvatu
 </p>
 <p>
-	Ut=ta<hi rend="grantha"><unclear>rameru</unclear>ca</hi>tu<hi rend="grantha"><unclear>r</unclear>vvedimaṃgala</hi>ttu <hi rend="grantha">sabhai</hi>yōm eḻuttu-k
+	Ut=ta<hi rend="grantha"><unclear>rameru</unclear>ca</hi>tu<hi rend="grantha"><unclear>r</unclear>vvedimaṁgala</hi>ttu <hi rend="grantha">sabhai</hi>yōm eḻuttu-k
 </p>
 <p><!--Segment in further paragraphs-->
 	ka<unclear>c</unclear>cippē<unclear>ṭ</unclear>ṭup <gap reason="lost" quantity="3" unit="character"/> tuvāy<unclear>ccēri</unclear> cēṭṭatarayar tā
@@ -113,8 +113,8 @@
          <div type="apparatus">
          	<listApp>
          		<app loc="1">
-         			<lem>Ut=ta<hi rend="grantha"><unclear>rameru</unclear>ca</hi>tu<hi rend="grantha"><unclear>r</unclear>vvedimaṃgala</hi>ttu</lem>
-         			<rdg source="bib:SubrahmanyaAiyer1928_01">Utta<hi rend="grantha">ramerucaturvvedimaṃga</hi>lattu</rdg>
+         			<lem>Ut=ta<hi rend="grantha"><unclear>rameru</unclear>ca</hi>tu<hi rend="grantha"><unclear>r</unclear>vvedimaṁgala</hi>ttu</lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01">Utta<hi rend="grantha">ramerucaturvvedimaṁga</hi>lattu</rdg>
          		</app>
          		<app loc="1">
          			<lem>eḻuttuk ka<unclear>c</unclear>cippē<unclear>ṭ</unclear>ṭup</lem>

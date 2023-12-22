@@ -9,7 +9,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Pōntai hero-stone (2/2), time of Narasiṃhavarman, year 12</title>
+            <title>Pōntai hero-stone (2/2), time of Narasiṁhavarman, year 12</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -108,7 +108,7 @@
       	<div type="translation" resp="part:emfr">
       		
       		<p n="1-2">
-      			Twelfth year of the victorious king Narasiṃhavarman.       		</p>
+      			Twelfth year of the victorious king Narasiṁhavarman.       		</p>
       		<p n="3-5">
       			Vaṇṇakka Cāttaṉār, the servant <supplied reason="subaudible">of</supplied> Pakaimatar, the man <supplied reason="explanation"><foreign>āḷ</foreign></supplied> <supplied reason="subaudible">of</supplied> Pācāṟu in Mīkoṉṟaināṭu, fell recapturing cattle.
       		</p>

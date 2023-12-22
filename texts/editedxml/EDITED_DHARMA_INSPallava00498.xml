@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Vañcikkuḻi hero-stone, time of Narasiṃhavarman, year 24</title>
+            <title>Vañcikkuḻi hero-stone, time of Narasiṁhavarman, year 24</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -123,7 +123,7 @@
          <div type="translation" resp="part:emfr">
          	
          	<p n="1-2">
-         		        Twenty-fourth year of the victorious king Narasiṃhavarman<note>Naraiciṅkaparumaṉ in the the original Tamil text, that is, the Pallava king Narasiṃhavarman I according to <bibl><ptr target="bib:Rāmēṣ2008_01"/></bibl>.</note>.	
+         		        Twenty-fourth year of the victorious king Narasiṁhavarman<note>Naraiciṅkaparumaṉ in the the original Tamil text, that is, the Pallava king Narasiṁhavarman I according to <bibl><ptr target="bib:Rāmēṣ2008_01"/></bibl>.</note>.	
          	</p>
 
          	<p n="3-4">

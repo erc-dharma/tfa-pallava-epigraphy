@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Paṉaimalai, temple, time of Narasiṃhavarman II </title>
+            <title>Paṉaimalai, temple, time of Narasiṁhavarman II </title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Foundation inscription of the Maheśvaracūḷāmaṇipallaveśvara by Narasiṃhavarman II Pallava.</summary>
+                  <summary>Foundation inscription of the Maheśvaracūḷāmaṇipallaveśvara by Narasiṁhavarman II Pallava.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -91,22 +91,22 @@
          <div type="edition" xml:lang="san-Latn">
          	
             <lg n="1" met="sragdharā">
-            	<l n="a"><lb n="1"/><milestone unit="segment" n="1"/>viśvārambhādi-bījād a<supplied reason="omitted">ja</supplied>ni kila kaver aṃ<milestone unit="segment" n="2"/>girā nāma putro</l>
-            	<l n="b">vidyeśaṃ sa<unclear>t</unclear>ya-<unclear>p</unclear>ū<supplied reason="lost">ta-t</supplied>r<supplied reason="lost">ida</supplied><unclear>śa-g</unclear>ur<unclear>u</unclear>m abh<choice><sic>u</sic><corr>ū</corr></choice><unclear>t</unclear> tasya śaṃyus tanū<space type="unclassified"/> <milestone unit="segment" n="3"/>jaḥ</l>
+            	<l n="a"><lb n="1"/><milestone unit="segment" n="1"/>viśvārambhādi-bījād a<supplied reason="omitted">ja</supplied>ni kila kaver aṁ<milestone unit="segment" n="2"/>girā nāma putro</l>
+            	<l n="b">vidyeśaṁ sa<unclear>t</unclear>ya-<unclear>p</unclear>ū<supplied reason="lost">ta-t</supplied>r<supplied reason="lost">ida</supplied><unclear>śa-g</unclear>ur<unclear>u</unclear>m abh<choice><sic>u</sic><corr>ū</corr></choice><unclear>t</unclear> tasya śaṁyus tanū<space type="unclassified"/> <milestone unit="segment" n="3"/>jaḥ</l>
             	<l n="c">tat-sūnor jjanma tejonidhir akṛta bharadvāja-nāmno munīndrāN·</l>
-            	<l n="d">droṇa<supplied reason="lost">s t</supplied>e<milestone unit="segment" n="4"/>nodapādi prathita-bhuja-balo dr<choice><orig>o</orig><reg>au</reg></choice>ṇir aṃśaḥ purāreḥ <g type="ddandaOrnate">.</g></l>
+            	<l n="d">droṇa<supplied reason="lost">s t</supplied>e<milestone unit="segment" n="4"/>nodapādi prathita-bhuja-balo dr<choice><orig>o</orig><reg>au</reg></choice>ṇir aṁśaḥ purāreḥ <g type="ddandaOrnate">.</g></l>
             </lg>
          	
          	<lg n="2" met="sragdharā">
          		<l n="a">Aśvatthā<space type="unclassified"/><milestone unit="segment" n="5"/><space type="unclassified"/>mno ’<unclear reason="eccentric_ductus">th</unclear>a tasmān nicita-guru-tapo-nirmma<milestone unit="segment" n="6"/>lād āvir āsīd</l>
-            	<l n="b">āmnāyād aṃga-vidyā-visara Iva mahī-valla<space type="unclassified"/><seg met="++-"><gap reason="lost" quantity="3" unit="character"/></seg>vākhyaḥ<space type="feature"/> </l>
+            	<l n="b">āmnāyād aṁga-vidyā-visara Iva mahī-valla<space type="unclassified"/><seg met="++-"><gap reason="lost" quantity="3" unit="character"/></seg>vākhyaḥ<space type="feature"/> </l>
             	<l n="c">yasmād eṣa <space type="unclassified"/><seg met="-++"><gap reason="lost" quantity="3" unit="character"/></seg> pathi vihita-padāt pāvane mānanīyo</l>
             	<l n="d">mandākinyā<supplied reason="omitted">ḥ</supplied> pravā<milestone unit="segment" n="7"/>haḥ śaśina Iva mahān anvayaḥ pallavānāM· <g type="ddandaOrnate">.</g></l>
             </lg>
          	
          	<lg n="3" met="sragdharā">
-         		<l n="a">samrājām aśvame<milestone unit="segment" n="8"/><space type="feature"/>dhāvabhṛtha-virajasāṃ bhūbhujāṃ pallavānām</l>
-            	<l n="b">aspṛ<milestone unit="segment" n="9"/>ṣṭāpal-lavānāṃ vimalatara-bharadvāja-vaṃśodbhavānāM·</l>
+         		<l n="a">samrājām aśvame<milestone unit="segment" n="8"/><space type="feature"/>dhāvabhṛtha-virajasāṁ bhūbhujāṁ pallavānām</l>
+            	<l n="b">aspṛ<milestone unit="segment" n="9"/>ṣṭāpal-lavānāṁ vimalatara-bharadvāja-vaṁśodbhavānāM·</l>
             	<l n="c">keto<milestone unit="segment" n="10"/>r a<choice><sic>t</sic><corr>k</corr></choice>ṣīṇa-bāhu-draviṇa-hṛta-mahī-cakra-vikhyāta-kīrtter</l>
             	<l n="d">yyo devā<milestone unit="segment" n="11"/>d ekamallād guha Iva para<supplied reason="lost">mād īśvarād ātta-janmā <g type="ddandaOrnate">.</g></supplied></l>
             </lg>
@@ -114,19 +114,19 @@
          	<lg n="4" met="vasantatilakā">
          		<l n="a"><seg met="++-+--"><gap reason="lost" quantity="6" unit="character"/></seg> bhuja-ddraviṇāvabhāsī</l>
          		<l n="b">satvo<milestone unit="segment" n="12"/>rjjitaḥ samara-dṛṣṭa-mahā-prabhāvaḥ</l>
-         		<l n="c">yo rājasiṃha Iti viśr<unclear>u</unclear><milestone unit="segment" n="13"/>ta-puṇya-kī<unclear>r</unclear>ttir</l>
-         		<l n="d">udvṛtta-śatru-nṛpa-kuñjara-rāja-siṃha<unclear>ḥ <g type="ddandaOrnate">.</g></unclear></l>
+         		<l n="c">yo rājasiṁha Iti viśr<unclear>u</unclear><milestone unit="segment" n="13"/>ta-puṇya-kī<unclear>r</unclear>ttir</l>
+         		<l n="d">udvṛtta-śatru-nṛpa-kuñjara-rāja-siṁha<unclear>ḥ <g type="ddandaOrnate">.</g></unclear></l>
          	</lg>            
          	
          	<lg n="5" met="indravajrā">
-         		<l n="a">harttā dvi<milestone unit="segment" n="14"/>ṣad-vargga-samucchrayāṇāṃ</l>
+         		<l n="a">harttā dvi<milestone unit="segment" n="14"/>ṣad-vargga-samucchrayāṇāṁ</l>
          		<l n="b">karttā ca kalyāṇa-paramparāṇāM<unclear>·</unclear> <space/></l>
-         		<l n="c"><milestone unit="segment" n="15"/><space type="feature"/> citte sadā sa<unclear>ṃ</unclear>bhṛta-bhakti-pūte</l>
-         		<l n="d">dhatte padaṃ <milestone unit="segment" n="16"/> yasya mṛgā<unclear>ṃ</unclear>ka-m<choice><sic>o</sic><corr>au</corr></choice>li<supplied reason="omitted">ḥ</supplied> <g type="ddandaOrnate">.</g></l>
+         		<l n="c"><milestone unit="segment" n="15"/><space type="feature"/> citte sadā sa<unclear>ṁ</unclear>bhṛta-bhakti-pūte</l>
+         		<l n="d">dhatte padaṁ <milestone unit="segment" n="16"/> yasya mṛgā<unclear>ṁ</unclear>ka-m<choice><sic>o</sic><corr>au</corr></choice>li<supplied reason="omitted">ḥ</supplied> <g type="ddandaOrnate">.</g></l>
          	</lg>            
          	
          	<lg n="6" met="sragdharā">
-         		<l n="a" real="++++-++------++-++-+=">saṃrūḍhāmnāya-mūla-smṛti-vacana-mayāneka-śākhā-samagraḥ</l>
+         		<l n="a" real="++++-++------++-++-+=">saṁrūḍhāmnāya-mūla-smṛti-vacana-mayāneka-śākhā-samagraḥ</l>
          		<l n="b" real="+-++-++------++-++-+=">śiṣṭāc<choice><sic>a</sic><corr>ā</corr></choice>rai<supplied reason="lost">r</supplied> vv<seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg><seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg>t<choice><unclear>e</unclear><unclear>ai</unclear></choice>ḥ <unclear>pha</unclear>la-kusuma-kṛtākāntim ālamba<milestone unit="segment" n="17"/>mān<choice><sic>ā</sic><corr>a</corr></choice>ḥ</l>
          		<l n="c" real="++++-++------++-++-+=">sad-vṛttāmbho-n<unclear>i</unclear>ṣekair ddruma Iva satata<unclear>n ta</unclear>sya [- - u  -]<seg met="++-+"><gap reason="lost" quantity="4" unit="character"/></seg><milestone unit="segment" n="18"/>yaiś</l>
          		<l n="d" real="++++-++------++-++-+=">chāy<unclear>ā</unclear>m ṛ<seg met="+-++--"><gap reason="lost" quantity="6" unit="character"/></seg> ja<unclear>ya</unclear>ti kali-yuga-g<unclear>r</unclear>īṣma-tapte ’pi dharmmaḥ <milestone unit="segment" n="19"/> <g type="ddandaOrnate">.</g></l>
@@ -213,13 +213,13 @@
 		</app>			
 		
 		<app loc="1">
-			<lem>sa<unclear>ṃ</unclear>bhṛta°</lem>
-			<note>Alternatively: sa<supplied reason="omitted">ṃ</supplied>bhṛta°</note>
+			<lem>sa<unclear>ṁ</unclear>bhṛta°</lem>
+			<note>Alternatively: sa<supplied reason="omitted">ṁ</supplied>bhṛta°</note>
 		</app>
 						
 		<app loc="1">
-			<lem>mṛgā<unclear>ṃ</unclear>ka°</lem>
-			<note>Alternatively: mṛgā<supplied reason="omitted">ṃ</supplied>ka°</note>
+			<lem>mṛgā<unclear>ṁ</unclear>ka°</lem>
+			<note>Alternatively: mṛgā<supplied reason="omitted">ṁ</supplied>ka°</note>
 		</app>	
 		
 						
@@ -250,7 +250,7 @@
       	<div type="translation" resp="part:emfr">
       		
       		<p rend="stanza" n="1">
-      			<l>From the poet <supplied reason="explanation"><foreign>kavi</foreign><note>That is, Brahmā, who uttered the Vedas.</note></supplied> who is the primordial seed <supplied reason="subaudible">which gave</supplied> beginning to the universe, the son named Aṅgiras engendered <supplied reason="explanation"><foreign>ajani</foreign><note>To be taken as a causative form with <foreign>°gurum</foreign> as its direct object, as suggested by S.L.P. Anjaneya Sarma.</note></supplied>, as is well known <supplied reason="explanation"><foreign>kila</foreign></supplied>, the lord of knowledge Tridaśaguru<note>That is, “the preceptor of the tirthy [gods]," that is, Bṛhaspati.</note> purified by truth. His son was Śaṃyu. From his son, the best among the sages <supplied reason="explanation"><foreign>munīndra</foreign></supplied>, named Bharadvāja, was born a treasure of majesty <supplied reason="explanation"><foreign>tejas</foreign></supplied>: Droṇa. By him <supplied reason="explanation"><foreign>tena</foreign></supplied> was born Drauṇi<note>That is, Aśvatthāman.</note>, who is renowned for the strength of his arms and is a partial incarnation of the enemy of Pura<note>That is, Śiva.</note>.</l>
+      			<l>From the poet <supplied reason="explanation"><foreign>kavi</foreign><note>That is, Brahmā, who uttered the Vedas.</note></supplied> who is the primordial seed <supplied reason="subaudible">which gave</supplied> beginning to the universe, the son named Aṅgiras engendered <supplied reason="explanation"><foreign>ajani</foreign><note>To be taken as a causative form with <foreign>°gurum</foreign> as its direct object, as suggested by S.L.P. Anjaneya Sarma.</note></supplied>, as is well known <supplied reason="explanation"><foreign>kila</foreign></supplied>, the lord of knowledge Tridaśaguru<note>That is, “the preceptor of the tirthy [gods]," that is, Bṛhaspati.</note> purified by truth. His son was Śaṁyu. From his son, the best among the sages <supplied reason="explanation"><foreign>munīndra</foreign></supplied>, named Bharadvāja, was born a treasure of majesty <supplied reason="explanation"><foreign>tejas</foreign></supplied>: Droṇa. By him <supplied reason="explanation"><foreign>tena</foreign></supplied> was born Drauṇi<note>That is, Aśvatthāman.</note>, who is renowned for the strength of his arms and is a partial incarnation of the enemy of Pura<note>That is, Śiva.</note>.</l>
       		</p>
 
       		<p rend="stanza" n="2">
@@ -317,8 +317,8 @@
 
       		<p rend="stanza" n="4">
       			<l><gap reason="lost"/> brillant par son bras et sa richesse,</l>
-      			<l>Puissant par sa nature<note>Il n’est pas facile de déterminer les sens que revêt ici le mot <foreign>sattva</foreign>-, qui signifie « caractère », « qualité innée », ou, plus particulièrement, « fermeté », « énergie », « courage » – mais qui désigne aussi le plus haut des trois <foreign>guṇa</foreign>, la pureté, qualité spécifique des brahmanes. Les Pallava (on le voit du reste dans cette inscription) prétendaient être d’origine brahmanique, ce qui rend plausible cette seconde interprétation. Le composé indiquerait alors que Rājasiṃha doit sa puissance à sa pureté, plutôt qu’à ses qualités guerrières, auxquelles font référence les deux autres qualificatifs de cet hémistiche.</note>, révélant au combat sa force immense,</l>
-      			<l>Celui-ci, sous le nom de Rājasiṃha, vit se répandre sa gloire sans tache,</l>
+      			<l>Puissant par sa nature<note>Il n’est pas facile de déterminer les sens que revêt ici le mot <foreign>sattva</foreign>-, qui signifie « caractère », « qualité innée », ou, plus particulièrement, « fermeté », « énergie », « courage » – mais qui désigne aussi le plus haut des trois <foreign>guṇa</foreign>, la pureté, qualité spécifique des brahmanes. Les Pallava (on le voit du reste dans cette inscription) prétendaient être d’origine brahmanique, ce qui rend plausible cette seconde interprétation. Le composé indiquerait alors que Rājasiṁha doit sa puissance à sa pureté, plutôt qu’à ses qualités guerrières, auxquelles font référence les deux autres qualificatifs de cet hémistiche.</note>, révélant au combat sa force immense,</l>
+      			<l>Celui-ci, sous le nom de Rājasiṁha, vit se répandre sa gloire sans tache,</l>
       			<l>Et fut un lion royal pour ces éléphants qu’étaient ses ennemis gonflés d’orgueil.</l>
       		</p>
       		<p rend="stanza" n="5">
@@ -344,7 +344,7 @@
       	</div>
       	
       	<div type="commentary">
-      		<p>The now fully available mythical ancestry of the Pallavas in the stanzas 1 gives the canonical list of mythical ancestors of the Pallavas, except that Viṣṇu (from whose navel arose Brahmā) is not mentioned: Brahmā (<foreign>kavi</foreign>), Aṅgiras, Bṛhaspati (<foreign>tridaśaguru</foreign>), Śaṃyu, Bharadvāja, Droṇa, Aśvatthāman (<foreign>drauṇi</foreign>, <foreign>purāreḥ aṃśa</foreign>).</p>
+      		<p>The now fully available mythical ancestry of the Pallavas in the stanzas 1 gives the canonical list of mythical ancestors of the Pallavas, except that Viṣṇu (from whose navel arose Brahmā) is not mentioned: Brahmā (<foreign>kavi</foreign>), Aṅgiras, Bṛhaspati (<foreign>tridaśaguru</foreign>), Śaṁyu, Bharadvāja, Droṇa, Aśvatthāman (<foreign>drauṇi</foreign>, <foreign>purāreḥ aṁśa</foreign>).</p>
       	</div>
       	
       	<div type="bibliography">

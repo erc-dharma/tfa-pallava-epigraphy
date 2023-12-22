@@ -93,10 +93,10 @@
 			<div type="edition" xml:lang="san-Latn">
 				
 				<lg met="vasantatilakā" n="1">
-					<l n="a" real="++-+---+--+-+"><milestone unit="block" n="a"/><lb n="1"/><supplied reason="lost">śrī-pallavānvaya-kulācala-r</supplied>ājasi<unclear>ṃ</unclear>ho</l>
-					<l n="b" real="++-+---+--+-+">yaḥ kṣatrasi<unclear>ṃ</unclear>ha Iti viśruta-puṇya-kīrttiḥ</l>
+					<l n="a" real="++-+---+--+-+"><milestone unit="block" n="a"/><lb n="1"/><supplied reason="lost">śrī-pallavānvaya-kulācala-r</supplied>ājasi<unclear>ṁ</unclear>ho</l>
+					<l n="b" real="++-+---+--+-+">yaḥ kṣatrasi<unclear>ṁ</unclear>ha Iti viśruta-puṇya-kīrttiḥ</l>
 					<l n="c" real="++-+---+--+-+">jīyā<milestone unit="block" n="b"/>t maheśvara-śikhāmaṇi-dīpta-mauli<milestone unit="block" n="c"/><unclear>r</unclear></l>
-					<l n="d" real="++-+---+--+-=">yy<unclear>u</unclear>ddhārjjuno nikhila-loka-nare<supplied reason="lost">ndra-siṃhaḥ</supplied></l><!--check "= in @real-->
+					<l n="d" real="++-+---+--+-=">yy<unclear>u</unclear>ddhārjjuno nikhila-loka-nare<supplied reason="lost">ndra-siṁhaḥ</supplied></l><!--check "= in @real-->
 				</lg><!--Display issue: milestones displayed only once before <lg>-->	<!-- there are issues related to the current model for milestone and expectation of display. We need to discuss it when we are both back from vacations -->	
 				
 			</div>
@@ -123,8 +123,8 @@
       	<div type="translation" xml:lang="fra" resp="part:sybr">
       		
       		<p rend="stanza" n="1">
-      			<l><supplied reason="lost">Montagne la plus haute de la lignée de Śrī-Pallava</supplied>, puisse Rājasiṃha,</l>
-      			<l>Qui, sous le nom de Kṣatrasiṃha, vit sa gloire sans tache se répandre,</l>
+      			<l><supplied reason="lost">Montagne la plus haute de la lignée de Śrī-Pallava</supplied>, puisse Rājasiṁha,</l>
+      			<l>Qui, sous le nom de Kṣatrasiṁha, vit sa gloire sans tache se répandre,</l>
       			<l>Etre vainqueur, lui dont Maheśvara, son diadème, fait resplendir le cimier,</l>
       			<l>Lui qui est un Arjuna au combat, un <supplied reason="lost">lion parmi les souverains</supplied> du monde entier !</l>
       		</p><!--display: do not display @n as there is one stanza only?--> <!-- DONE -->   
