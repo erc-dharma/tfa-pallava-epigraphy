@@ -99,7 +99,7 @@
          			<lb n="1"/>svasti śrī
          		</ab>
          		<lg met="śārdūlavikrīḍita" n="1">
-         			<l n="a">Evaṃ vāstv abhavat· mahat· pravigatan nāmnā ca jāty-ādi‡nā</l> 
+         			<l n="a">Evaṁ vāstv abhavat· mahat· pravigatan nāmnā ca jāty-ādi‡nā</l> 
          			<l n="b">yenāsmin· bahubhir yyathāgama-vidhair ggrāme prayo‡‡gānvitai<orig>ś</orig></l>
          			<l n="c">śrīmat·-pāṭaka-vāsinā kṛta-dhiyā takṣṇā sadā vāgminā</l> 
          			<l n="d">tenedam· ‡‡ parameśva‡reṇa mahatā yo v<choice><sic>a</sic><corr>ā</corr></choice>stuno bhāskaraḥ <g type="gomutra">.</g><!--check markup--><!--punctuation inside <l> or not?--></l>
@@ -114,10 +114,10 @@
          		</ab>
          	   
          		<lg met="anuṣṭubh" n="2">
-         			<l n="a">Asyālaṃkāra-mānañ ca</l> 
-         			<l n="b">yathā lakṣaṇa-saṃyutam·</l>
+         			<l n="a">Asyālaṁkāra-mānañ ca</l> 
+         			<l n="b">yathā lakṣaṇa-saṁyutam·</l>
          			<l n="c">yaḥ kaścid vetti saka<orig>ḷ</orig>am· </l>
-         			<l n="d">sa vai v<choice><sic>a</sic><corr>ā</corr></choice>stu-vidāṃ va‡raḥ</l></lg>
+         			<l n="d">sa vai v<choice><sic>a</sic><corr>ā</corr></choice>stu-vidāṁ va‡raḥ</l></lg>
          	</div>
          	
          </div>
@@ -151,8 +151,8 @@
       			</app>
          			
          			<app loc="1">
-      				<lem>Asyālaṃkāra-mānañ ca</lem>
-      				<rdg source="bib:Brocquet1997_01">Asyālaṃkāram ānañca</rdg>
+      				<lem>Asyālaṁkāra-mānañ ca</lem>
+      				<rdg source="bib:Brocquet1997_01">Asyālaṁkāram ānañca</rdg>
       			</app>
          			
          			<app loc="1">
@@ -227,7 +227,7 @@
       		
       		<div type="textpart" subtype="zone" n="2">
       			
-      			<p>Les mesures <supplied reason="explanation"><foreign>māna</foreign></supplied> et les ornements <supplied reason="explanation"><foreign>alaṃkāra</foreign></supplied> de ce temple, en conformité avec les définitions <supplied reason="explanation"><foreign>lakṣaṇa</foreign></supplied>; qui les comprend toutes est vraiment le meilleur des connaisseurs en architecture <supplied reason="explanation"><foreign>vastu</foreign></supplied>.</p>
+      			<p>Les mesures <supplied reason="explanation"><foreign>māna</foreign></supplied> et les ornements <supplied reason="explanation"><foreign>alaṁkāra</foreign></supplied> de ce temple, en conformité avec les définitions <supplied reason="explanation"><foreign>lakṣaṇa</foreign></supplied>; qui les comprend toutes est vraiment le meilleur des connaisseurs en architecture <supplied reason="explanation"><foreign>vastu</foreign></supplied>.</p>
       		</div>
       		
       	</div>

@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Uruvupalli grant, time of Siṃhavarman, year 11</title>
+				<title>Uruvupalli grant, time of Siṁhavarman, year 11</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -112,7 +112,7 @@
 <p>
 	<pb n="1v"/>
 	<fw place="left" n="1v">1</fw>
-	<lb n="1"/>jitaṃ bhagavatā
+	<lb n="1"/>jitaṁ bhagavatā
 </p>
 
 <p>
@@ -126,13 +126,13 @@
 	<lb n="5" break="no"/>maṇḍalasya mahārājasya vasudhā-talaika-vīrasya śrī-vīravarmmaṇaḥ pau
 	<lb n="6" break="no"/>trasya <space type="binding-hole"/> deva-dvija-guru-vṛddhopacāyino vivṛddha-vinayasyāneka-go-hi
 	<lb n="7" break="no"/>raṇya-<space type="binding-hole"/>bhūmy-ādi-pradānaiḥ pravṛddha-dharmma-sañcayasya prajā-pālana
-	<lb n="8" break="no"/>dakṣasya loka-pālānāṃ pañcamasya loka-pālasya satyātmano mahā
+	<lb n="8" break="no"/>dakṣasya loka-pālānāṁ pañcamasya loka-pālasya satyātmano mahā
 
 	<pb n="2v"/>
 	<fw place="left" n="2v">2</fw>
 
 	<lb n="9" break="no"/>tmano mahārājasya śrī-skandavarmmaṇaḥ putrasya bhagavad-bhakti-sadbhāva
-	<lb n="10" break="no"/>saṃbhāvita-sarvva-kalyā<choice><sic>n</sic><corr>ṇ</corr></choice>asya prajā-saṃrañjana-paripālanodyoga-sata
+	<lb n="10" break="no"/>saṁbhāvita-sarvva-kalyā<choice><sic>n</sic><corr>ṇ</corr></choice>asya prajā-saṁrañjana-paripālanodyoga-sata
 	<lb n="11" break="no"/>ta-sa<space type="binding-hole"/>tra-vrata-d<choice><sic>ita</sic><corr>ī</corr></choice>kṣitasya Aneka-samar-sāhasāvamardda-la
 	<lb n="12" break="no"/>bdha-vijaya-yaśa<supplied reason="omitted">ḥ</supplied>-prakāśasya kali-yuga-doṣāvasanna-dharmmoddharaṇa-nitya-sa
 
@@ -151,20 +151,20 @@
 
 <p>
 	Etasmin grāma
-	<lb n="18" break="no"/>sīme <space type="binding-hole"/> dviśataṃ sima-nivarttanāni
+	<lb n="18" break="no"/>sīme <space type="binding-hole"/> dviśataṁ sima-nivarttanāni
 </p>
 
 <p>
-	Eteṣāṃ nivarttanānām Avadhayaḥ <choice><orig>Apa
-	<lb n="19" break="no"/>raṃ diśi</orig><reg>Apara-diśi</reg></choice> <space type="binding-hole"/> kaṇḍukūra-grāmasya sīmāvadhiḥ <choice><orig>dakṣiṇaṃ diśi</orig><reg>dakṣiṇa-diśi</reg></choice> suprayoga-nadī
-	<lb n="20"/>Avadhiḥ <choice><orig>pūrvv<sic>ā</sic>n diśi</orig><reg>pūrvva-diśi</reg></choice> Avadhiḥ pūrvva-dakṣiṇ<choice><sic>āk</sic><corr>ot</corr></choice>taraṃ mahā-patha-pā<supplied reason="omitted">r</supplied>śve śilā
+	Eteṣāṁ nivarttanānām Avadhayaḥ <choice><orig>Apa
+	<lb n="19" break="no"/>raṁ diśi</orig><reg>Apara-diśi</reg></choice> <space type="binding-hole"/> kaṇḍukūra-grāmasya sīmāvadhiḥ <choice><orig>dakṣiṇaṁ diśi</orig><reg>dakṣiṇa-diśi</reg></choice> suprayoga-nadī
+	<lb n="20"/>Avadhiḥ <choice><orig>pūrvv<sic>ā</sic>n diśi</orig><reg>pūrvva-diśi</reg></choice> Avadhiḥ pūrvva-dakṣiṇ<choice><sic>āk</sic><corr>ot</corr></choice>taraṁ mahā-patha-pā<supplied reason="omitted">r</supplied>śve śilā
 
 	<pb n="4r"/>
 
-	<lb n="21"/>Etasyā<surplus>ḥ</surplus> Uttaraṃ gatvā ciñc<choice><sic>a</sic><corr>ā</corr></choice>vṛkṣaḥ tataḥ Uttaraṃ gatvā kurupūra-grāmasya kaṇḍukū
-	<lb n="22" break="no"/>ra-grāmasya ca pathi śilā tata<orig>ḥ</orig> Uttaraṃ gatvā śilopalayam tata<orig>ḥ</orig> Uttaraṃ ga
-	<lb n="23" break="no"/>tvā k<choice><sic>a</sic><corr>u</corr></choice>ru<space type="binding-hole"/>pūra-grāme br<choice><sic>a</sic><corr>ā</corr></choice>hmaṇānā<orig>m</orig> hala-kṣetrasyāvadhau śilā <choice><orig>Uttar<sic>ā</sic>ṃ di
-	<lb n="24" break="no"/>śi</orig><reg>Uttara-diśi</reg></choice> Avadhiḥ śilopalaya-vṛto mahā-ciñc<choice><sic>a</sic><corr>ā</corr></choice>-vṛkṣaḥ tata<orig>ḥ A</orig>para-diśaṃ gatvā
+	<lb n="21"/>Etasyā<surplus>ḥ</surplus> Uttaraṁ gatvā ciñc<choice><sic>a</sic><corr>ā</corr></choice>vṛkṣaḥ tataḥ Uttaraṁ gatvā kurupūra-grāmasya kaṇḍukū
+	<lb n="22" break="no"/>ra-grāmasya ca pathi śilā tata<orig>ḥ</orig> Uttaraṁ gatvā śilopalayam tata<orig>ḥ</orig> Uttaraṁ ga
+	<lb n="23" break="no"/>tvā k<choice><sic>a</sic><corr>u</corr></choice>ru<space type="binding-hole"/>pūra-grāme br<choice><sic>a</sic><corr>ā</corr></choice>hmaṇānā<orig>m</orig> hala-kṣetrasyāvadhau śilā <choice><orig>Uttar<sic>ā</sic>ṁ di
+	<lb n="24" break="no"/>śi</orig><reg>Uttara-diśi</reg></choice> Avadhiḥ śilopalaya-vṛto mahā-ciñc<choice><sic>a</sic><corr>ā</corr></choice>-vṛkṣaḥ tata<orig>ḥ A</orig>para-diśaṁ gatvā
 
 	<pb n="4v"/>
 	<fw place="left" n="4v">4</fw>
@@ -173,10 +173,10 @@
 </p>
 
 <p>
-	Evaṃ caturṇā<orig>m</orig> sīmāvadhīnāṃ <choice><orig>maddhye sī
-	<lb n="26" break="no"/>masya</orig><reg>maddhya-sīmasya</reg></choice> <choice><sic>ta<orig>d</orig>viśata</sic><reg>tad-dviśataṃ</reg></choice> nivarttanāni kaṇḍukūre viṣṇu-varmma-senāpati-kṛta-viṣṇuhāra-devaku<!--check if orig allowed within sic-->
-	<lb n="27" break="no"/>lāya <space type="binding-hole"/> deva-bhogaṃ kṛtvā Aṣṭādaśa-jātibhiḥ parihārair upet<choice><sic>ā</sic><corr>aṃ</corr></choice> Asmad-āyur-bala
-	<lb n="28" break="no"/>varddhanīyam asmābhiḥ sampradattaṃ
+	Evaṁ caturṇā<orig>m</orig> sīmāvadhīnāṁ <choice><orig>maddhye sī
+	<lb n="26" break="no"/>masya</orig><reg>maddhya-sīmasya</reg></choice> <choice><sic>ta<orig>d</orig>viśata</sic><reg>tad-dviśataṁ</reg></choice> nivarttanāni kaṇḍukūre viṣṇu-varmma-senāpati-kṛta-viṣṇuhāra-devaku<!--check if orig allowed within sic-->
+	<lb n="27" break="no"/>lāya <space type="binding-hole"/> deva-bhogaṁ kṛtvā Aṣṭādaśa-jātibhiḥ parihārair upet<choice><sic>ā</sic><corr>aṁ</corr></choice> Asmad-āyur-bala
+	<lb n="28" break="no"/>varddhanīyam asmābhiḥ sampradattaṁ
 </p>
 
 <p>
@@ -195,21 +195,21 @@
 
 
 <lg n="1" met="anuṣṭubh">
-	<l n="a"><lb n="31"/>bhūmi-dānāt paran dānaṃ</l>
+	<l n="a"><lb n="31"/>bhūmi-dānāt paran dānaṁ</l>
 	<l n="b">na bhūtan na bhaviṣyati</l>
 	<l n="c">tasyaiva haraṇa-pāp<choice><sic>a</sic><corr>ān</corr></choice></l>
-	<l n="d">na bhūta<supplied reason="omitted">ṃ</supplied> na bhaviṣyati</l>
+	<l n="d">na bhūta<supplied reason="omitted">ṁ</supplied> na bhaviṣyati</l>
 </lg>
 
 <lg n="2" met="anuṣṭubh">
-	<l n="a"><lb n="32"/>sva-dattā<supplied reason="omitted">ṃ</supplied> <space type="binding-hole"/> para-dattāṃ vā</l>
+	<l n="a"><lb n="32"/>sva-dattā<supplied reason="omitted">ṁ</supplied> <space type="binding-hole"/> para-dattāṁ vā</l>
 	<l n="b">yo hareta vasundh<choice><sic>u</sic><corr>a</corr></choice>rām</l>
-	<l n="c">gavāṃ śata-sahasrasya</l>
+	<l n="c">gavāṁ śata-sahasrasya</l>
 	<l n="d">hantuḫ pibati du<lb n="33" break="no"/>ṣkṛtam</l></lg>
 
 <p>
-	siṃhavarmma-m<choice><sic>ā</sic><corr>a</corr></choice>hārājasya vijaya-saṃvatsare Ekādaśe pauṣya-māse kṛṣṇa-pakṣe
-	<lb n="34" style="text-align: right"/>daśamyām <space/> mayā dattā <choice><sic>tāṃpra</sic><corr>tāmra</corr></choice>-paṭṭikā
+	siṁhavarmma-m<choice><sic>ā</sic><corr>a</corr></choice>hārājasya vijaya-saṁvatsare Ekādaśe pauṣya-māse kṛṣṇa-pakṣe
+	<lb n="34" style="text-align: right"/>daśamyām <space/> mayā dattā <choice><sic>tāṁpra</sic><corr>tāmra</corr></choice>-paṭṭikā
 
 </p>
 
@@ -246,13 +246,13 @@
       				</app>
 
       				<app loc="10">
-      					<lem>saṃbhāvita°</lem>
-      					<note>The <foreign>anusvāra</foreign> in <foreign>saṃ</foreign> is above the next character <foreign>bhā</foreign>. This is probably due, as pointed out to me by Daniel Balogh, to the fact that the character <foreign>tma</foreign> (line 9), right above <foreign>sa</foreign>, leaves no sufficient space for the <foreign>anusvāra</foreign>.</note>
+      					<lem>saṁbhāvita°</lem>
+      					<note>The <foreign>anusvāra</foreign> in <foreign>saṁ</foreign> is above the next character <foreign>bhā</foreign>. This is probably due, as pointed out to me by Daniel Balogh, to the fact that the character <foreign>tma</foreign> (line 9), right above <foreign>sa</foreign>, leaves no sufficient space for the <foreign>anusvāra</foreign>.</note>
       				</app>
 
       				<app loc="10">
-      					<lem>°saṃrañjana°</lem>
-      					<rdg source="bib:Mahalingam1988_01">°saṃ<choice><sic>rañjana</sic><corr>rakṣaṇa</corr></choice>°</rdg>
+      					<lem>°saṁrañjana°</lem>
+      					<rdg source="bib:Mahalingam1988_01">°saṁ<choice><sic>rañjana</sic><corr>rakṣaṇa</corr></choice>°</rdg>
       					<note>This emendation is rejected in <bibl><ptr target="bib:Brocquet1997_01"/><citedRange unit="page">378</citedRange><citedRange unit="note">503</citedRange></bibl>.<!--Update? Add quotation?--></note>
       				</app>
 
@@ -328,8 +328,8 @@
       				</app>
 
       				<app loc="31">
-      					<lem>bhūta<supplied reason="omitted">ṃ</supplied></lem>
-      					<rdg source="bib:Fleet1876_02">bhūtaṃ</rdg>
+      					<lem>bhūta<supplied reason="omitted">ṁ</supplied></lem>
+      					<rdg source="bib:Fleet1876_02">bhūtaṁ</rdg>
       				</app>
 
       				<app loc="32">
@@ -338,9 +338,9 @@
       				</app>
 
       				<app loc="32">
-      					<lem>para-dattāṃ vā</lem>
-      					<rdg source="bib:Fleet1876_02">para-dattā<supplied reason="omitted">ṃ</supplied> vā</rdg>
-      					<note>The <foreign>anusvāra</foreign> at the end of <foreign>°dattāṃ</foreign> is above the next character <foreign>vā</foreign>.</note><!--Update? Read dattā vāṃ and correct to dattāṃ vā? -->
+      					<lem>para-dattāṁ vā</lem>
+      					<rdg source="bib:Fleet1876_02">para-dattā<supplied reason="omitted">ṁ</supplied> vā</rdg>
+      					<note>The <foreign>anusvāra</foreign> at the end of <foreign>°dattāṁ</foreign> is above the next character <foreign>vā</foreign>.</note><!--Update? Read dattā vāṁ and correct to dattāṁ vā? -->
       				</app>
 
       				<app loc="34">
@@ -367,9 +367,9 @@
       		<p n="6-9">le fils du Grand Roi Śrī-Skandavarman, qui honora les dieux, les prêtres, les maîtres et les anciens, qui pratiqua la plus sévère discipline, qui, par de multiples dons, notamment de vaches, d’or et de terres, augmenta son capital dharmique, qui se montra habile à protéger ses sujets, qui fut, parmi les Gardiens du monde, le cinquième Gardien du Monde, qui se montra vrai et magnanime;</p>
       		<p n="9-17">Śrī-Viṣṇugopavarman, Prince Héritier des Pallava selon le <foreign>dharma</foreign>, qui se rendirent maîtres des richesses et des palais des autres rois, vaincus par leur valeur, et accomplirent selon les rites le sacrifice du cheval - lui-même dont la réelle dévotion envers le Bienheureux engendre pour tous la prospérité, qu’un voeu sincère pour toujours consacre avec zèle au bonheur et à la sécurité de ses sujets, qu’illustre la gloire d’avoir, dans plus d’un combat, remporté la victoire en écrasant la témérité, qui, à chaque instant, est prêt à soutenir le <foreign>dharma</foreign> que ruinent les péchés de l’âge Kali, qui souhaite conquérir l’ensemble des vertus des rois ascètes, qui souhaite conquérir le <foreign>dharma</foreign>, qui jouit de la faveur des pieds du Bienheureux, qui offre sa dévotion aux pieds de Bappa, l’illustre Grand Roi, qui se montre un sectateur passionné du Bienheureux, et qui appartient au <foreign>gotra</foreign> de Bharadvāja, ordonne qu’on adresse aux villageois d’Uruvupalliya, dans le Muṇḍa-rāṣṭra, ce commandement de sa bouche:</p>
 
-      		<p> lines 17-18: etasmin grāmasīme dviśataṃ sima-nivarttanāni; Dans les limites de ce village, se trouvent 200 nivartana &gt;&gt;&gt; Dans les limites de ce village, il y a en tout (sima-) deux cents nivartana. As we have sima and not sīma!</p>
+      		<p> lines 17-18: etasmin grāmasīme dviśataṁ sima-nivarttanāni; Dans les limites de ce village, se trouvent 200 nivartana &gt;&gt;&gt; Dans les limites de ce village, il y a en tout (sima-) deux cents nivartana. As we have sima and not sīma!</p>
 <!--check translation: 2 fois le même §; conflit de versions?-->
-      		<p n="18-25">"Dans les limites de ce village, se trouvent 200 <foreign>nivartana</foreign> [[A MODIFIER: etasmin grāmasīme dviśataṃ sima-nivarttanāni;&gt;&gt;&gt; Dans les limites de ce village, il y a en tout (sima-) deux cents nivartana. As we have sima and not sīma!]]; de ces <foreign>nivartana</foreign>, voici les limites : à l’ouest, la limite sera la frontière du village de Kaṇḍukūra. Au Sud, la rivière Suprayoga servira de limite. A l’Est, la limite sera la suivante : du sud-est vers le Nord, le rocher qui se trouve au bord de la grand-route; en allant vers le nord de celui-ci, le tamarinier; en allant encore vers le Nord, le rocher qui se trouve sur le chemin des villages de Karupūra et de Kaṇḍukūra; en allant encore plus vers le Nord, le tas de pierres; en allant vers le nord à partir de là, le rocher qui se trouve à la limite du champ cultivé appartenant aux brahmanes du village de Karupūra. Au Nord, la limite sera le grand tamarinier entouré d’un tas de pierres; à partir de là et en allant vers l’ouest, la frontière du village de Koṇḍamuruvuḍu fera office de limite.</p>
+      		<p n="18-25">"Dans les limites de ce village, se trouvent 200 <foreign>nivartana</foreign> [[A MODIFIER: etasmin grāmasīme dviśataṁ sima-nivarttanāni;&gt;&gt;&gt; Dans les limites de ce village, il y a en tout (sima-) deux cents nivartana. As we have sima and not sīma!]]; de ces <foreign>nivartana</foreign>, voici les limites : à l’ouest, la limite sera la frontière du village de Kaṇḍukūra. Au Sud, la rivière Suprayoga servira de limite. A l’Est, la limite sera la suivante : du sud-est vers le Nord, le rocher qui se trouve au bord de la grand-route; en allant vers le nord de celui-ci, le tamarinier; en allant encore vers le Nord, le rocher qui se trouve sur le chemin des villages de Karupūra et de Kaṇḍukūra; en allant encore plus vers le Nord, le tas de pierres; en allant vers le nord à partir de là, le rocher qui se trouve à la limite du champ cultivé appartenant aux brahmanes du village de Karupūra. Au Nord, la limite sera le grand tamarinier entouré d’un tas de pierres; à partir de là et en allant vers l’ouest, la frontière du village de Koṇḍamuruvuḍu fera office de limite.</p>
       		<p n="25-28">Ces 200 <foreign>nivartana</foreign> d’un terrain situé entre ces quatre limites, nous en faisons don, après les avoir convertis en <foreign>deva-bhoga</foreign> et assortis des dix-huit sortes d’exemption, au temple de Viṣṇuhāradeva, édifié par le général Viṣṇuvarman, à Kaṇḍukūra - pour l’accroissement de la durée de notre vie et celui de notre puissance.</p>
       		<p n="28-29">Que par conséquent tous les <foreign>āyuktaka</foreign>, tous les <foreign>niyukta</foreign> [[A MODIFIER: le texte est sarvva-naiyyokā¡ḥ!]], les <foreign>rāja-vallabha</foreign> et les <foreign>sañcarantaka</foreign> se rendent dans cette province [[A MODIFIER: tad avagamya]], respectent et fassent respecter ce terrain, avec toutes ses exemptions.</p>
       		<p n="30">Et quiconque transgressera ce commandement émanant de nous est un criminel qui encourt un châtiment corporel.</p>
@@ -390,7 +390,7 @@
       			<l>Prend sur lui le crime.</l>
       		</p>
 
-<p n="33-34">J’ai émis ces tablettes de cuivre le dixième jour de la quinzaine sombre du mois Pauṣya, en la onzième AR victorieux du Grand Roi Siṃhavarman."</p>
+<p n="33-34">J’ai émis ces tablettes de cuivre le dixième jour de la quinzaine sombre du mois Pauṣya, en la onzième AR victorieux du Grand Roi Siṁhavarman."</p>
 
       	</div>
 

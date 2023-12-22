@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Taṇṭarāmpaṭṭu hero-stone, time of Narasiṃhavarman, year 7</title>
+				<title>Taṇṭarāmpaṭṭu hero-stone, time of Narasiṁhavarman, year 7</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -124,7 +124,7 @@
       	<div type="translation" resp="part:emfr">
       		
       		<p n="1-3">
-      			Seventh year of the victorious king Narasiṃhavarman<note>Naraiciṅkaparumaṉ in the original Tamil.</note>.
+      			Seventh year of the victorious king Narasiṁhavarman<note>Naraiciṅkaparumaṉ in the original Tamil.</note>.
       		</p>
       		
       		<p n="3-8">
@@ -152,7 +152,7 @@
          	</p> 
          	
          	<p n="1-2">
-         		Naraiciṅkaparumaṉ (Sanskrit Narasiṃhavarman) has been identified as the Pallava king Narasiṃhavarman I by <bibl><ptr target="bib:Nakacami1972_01"/></bibl>.         		
+         		Naraiciṅkaparumaṉ (Sanskrit Narasiṁhavarman) has been identified as the Pallava king Narasiṁhavarman I by <bibl><ptr target="bib:Nakacami1972_01"/></bibl>.         		
          	</p>         	
          	
          </div>

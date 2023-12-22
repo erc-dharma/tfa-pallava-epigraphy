@@ -97,16 +97,16 @@
          	<lg n="1" met="nardaṭaka">
          		
          		<l n="a" real="----+-+---+--+---">
-         			<lb n="1"/>mahitatamaṃ satām upa mahendra-<unclear>ta</unclear>ṭākam ida<orig><unclear>M</unclear></orig>
+         			<lb n="1"/>mahitatamaṁ satām upa mahendra-<unclear>ta</unclear>ṭākam ida<orig><unclear>M</unclear></orig>
          		</l>
          		<l n="b" real="----+-+---+--+---">
-         			<lb n="2"/>sthiram uru kāritaṃ guṇabhareṇa vidāryya śil<unclear>āM</unclear>
+         			<lb n="2"/>sthiram uru kāritaṁ guṇabhareṇa vidāryya śil<unclear>āM</unclear>
          		</l>
          		<l n="c" real="----+-+---+--+---">
          			<lb n="3"/>ja<unclear>na</unclear>-nayanābhir<unclear>ā</unclear>ma-guṇa-dhāma mahendrapure
          		</l>
          		<l n="d" real="----+-+---+--+---">
-         			<lb n="4"/>maha<unclear>t</unclear>i mahendra-viṣṇu-gṛha-nāma murār<unclear>i</unclear>-gṛha<unclear>ṃ</unclear>
+         			<lb n="4"/>maha<unclear>t</unclear>i mahendra-viṣṇu-gṛha-nāma murār<unclear>i</unclear>-gṛha<unclear>ṁ</unclear>
          		</l>
             	            	
             </lg>
@@ -125,7 +125,7 @@
 		
 		<app loc="1">
 			<lem>ida<orig><unclear>M</unclear></orig></lem>
-			<rdg source="bib:Hultzsch1896-1897_06">i<unclear>da</unclear><choice><orig><unclear>M</unclear></orig><reg>ṃ</reg></choice></rdg>
+			<rdg source="bib:Hultzsch1896-1897_06">i<unclear>da</unclear><choice><orig><unclear>M</unclear></orig><reg>ṁ</reg></choice></rdg>
 			<note>The final <foreign><unclear>M</unclear></foreign> is written between lines 1 and 2, below the character <foreign>da</foreign>.</note>
 		</app>	
 		
@@ -140,8 +140,8 @@
 		</app>	
 		
 		<app loc="4">
-			<lem>murār<unclear>i</unclear>-gṛha<unclear>ṃ</unclear></lem>
-			<rdg source="bib:Hultzsch1896-1897_06">murā<unclear>ri</unclear>-gṛ<unclear>haṃ</unclear></rdg>
+			<lem>murār<unclear>i</unclear>-gṛha<unclear>ṁ</unclear></lem>
+			<rdg source="bib:Hultzsch1896-1897_06">murā<unclear>ri</unclear>-gṛ<unclear>haṁ</unclear></rdg>
 		</app>	
 		
 	</listApp>

@@ -94,11 +94,11 @@
       			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
       		</ab>
       		<p>
-      			kō-vic<choice><orig><choice><unclear>a</unclear><unclear>e</unclear></choice></orig><reg>ai</reg></choice>ya-<hi rend="grantha">nṛpa</hi>tu<hi rend="grantha">ṃ</hi>ka-vi<hi rend="grantha">krama</hi>va-<hi rend="grantha">r<unclear>·</unclear>mma</hi>ṟku yāṇṭu Irupattāṟāvatu
+      			kō-vic<choice><orig><choice><unclear>a</unclear><unclear>e</unclear></choice></orig><reg>ai</reg></choice>ya-<hi rend="grantha">nṛpa</hi>tu<hi rend="grantha">ṁ</hi>ka-vi<hi rend="grantha">krama</hi>va-<hi rend="grantha">r<unclear>·</unclear>mma</hi>ṟku yāṇṭu Irupattāṟāvatu
       		</p>
       		<p>
       			kā
-      			<lb n="2" break="no"/>liyūr-k-kōṭṭattu-t taṉ kūṟṟ’ uttaramēru-c-catu<hi rend="grantha"><unclear>r</unclear>vve</hi>tima<hi rend="grantha">ṃ</hi><unclear>ka</unclear>lattu <hi rend="grantha">sabhai</hi>y<supplied reason="lost">ōm</supplied>
+      			<lb n="2" break="no"/>liyūr-k-kōṭṭattu-t taṉ kūṟṟ’ uttaramēru-c-catu<hi rend="grantha"><unclear>r</unclear>vve</hi>tima<hi rend="grantha">ṁ</hi><unclear>ka</unclear>lattu <hi rend="grantha">sabhai</hi>y<supplied reason="lost">ōm</supplied>
       			<lb n="3"/>nila-vil<choice><sic>e</sic><corr>ai</corr></choice> Āvaṇa-k-<choice><orig>kai-E</orig><reg>kai-y-e</reg></choice>ḻuttu
       		</p>
       		<p>
@@ -119,12 +119,12 @@
          		</app>
          		
          		<app loc="1">
-         			<lem><hi rend="grantha">°nṛpa</hi>tu<hi rend="grantha">ṃ</hi>ka°</lem>
-         			<rdg source="bib:SubrahmanyaAiyer1928_01">°<hi rend="grantha">nṛpatuṃ</hi>ka°</rdg>
+         			<lem><hi rend="grantha">°nṛpa</hi>tu<hi rend="grantha">ṁ</hi>ka°</lem>
+         			<rdg source="bib:SubrahmanyaAiyer1928_01">°<hi rend="grantha">nṛpatuṁ</hi>ka°</rdg>
          		</app>
          		
          		<app loc="2">
-         			<lem>°catu<hi rend="grantha"><unclear>r</unclear>vve</hi>tima<hi rend="grantha">ṃ</hi><unclear>ka</unclear>lattu</lem>
+         			<lem>°catu<hi rend="grantha"><unclear>r</unclear>vve</hi>tima<hi rend="grantha">ṁ</hi><unclear>ka</unclear>lattu</lem>
          			<rdg source="bib:SubrahmanyaAiyer1928_01">°catu<hi rend="grantha">rvve</hi>tima<unclear>ṅka</unclear>lattu</rdg>
          		</app>
          	

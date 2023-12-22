@@ -9,7 +9,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Pōntai hero-stone (1/2), time of Narasiṃhavarman, year 12</title>
+				<title>Pōntai hero-stone (1/2), time of Narasiṁhavarman, year 12</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -118,7 +118,7 @@
       	<div type="translation" resp="part:emfr">
       		
       		<p n="1-3">
-      			Twelfth year of the victorious king Narasiṃhavarman.
+      			Twelfth year of the victorious king Narasiṁhavarman.
       		</p>
       		<p n="3-5">
       			Paṇaya Nāttaṉ, the servant <supplied reason="subaudible">of</supplied> Pakaimatar of Pācāṟu in Mīkoṉṟaināṭu, fell recapturing cattle.

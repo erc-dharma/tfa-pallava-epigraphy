@@ -94,7 +94,7 @@
       		<div type="textpart" subtype="item" n="A">
         			<head xml:lang="eng">South Pillar</head>
         			<p>
-        			<lb n="1"/>śrī-Aratya<unclear>ṃ</unclear>ka<choice><unclear>n</unclear><unclear>na</unclear></choice>
+        			<lb n="1"/>śrī-Aratya<unclear>ṁ</unclear>ka<choice><unclear>n</unclear><unclear>na</unclear></choice>
         			</p>
         		</div>
       		
@@ -112,9 +112,9 @@
       		<listApp>
       			
       			<app loc="1">
-      				<lem>śrī-Aratya<unclear>ṃ</unclear>ka<choice><unclear>n</unclear><unclear>na</unclear></choice></lem>
+      				<lem>śrī-Aratya<unclear>ṁ</unclear>ka<choice><unclear>n</unclear><unclear>na</unclear></choice></lem>
       				<rdg source="bib:Jouveau-Dubreuil1918_01">śrī-Aratyakana</rdg><!--check!-->
-      				<rdg source="bib:ARIE1972-1973">śrī-Aratyaṃkan</rdg>
+      				<rdg source="bib:ARIE1972-1973">śrī-Aratyaṁkan</rdg>
       				<rdg source="bib:Srinivasan1983_02">śrī-Aratyamakaṉ</rdg>
       			</app>
       			

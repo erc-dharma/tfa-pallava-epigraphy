@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Paḷḷaṉ Kōvil copper plates, time of Siṃhaviṣṇu, year 6</title>
+				<title>Paḷḷaṉ Kōvil copper plates, time of Siṁhaviṣṇu, year 6</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -174,7 +174,7 @@
 <head xml:lang="eng">Plates: Tamil Portion</head>
 
 	<p>
-		<lb n="3r3=27"/>kō-vicaiya-<hi rend="grantha">siṃha</hi>va<hi rend="grantha">rmma</hi>ṟ·ku yāṇ·ṭ’ āṟāvatu
+		<lb n="3r3=27"/>kō-vicaiya-<hi rend="grantha">siṁha</hi>va<hi rend="grantha">rmma</hi>ṟ·ku yāṇ·ṭ’ āṟāvatu
 	</p>
 	
 	<p>
@@ -352,7 +352,7 @@
 		</p>
 		
 		<p rend="stanza" n="4">
-			<l>Śrī-Siṃhaviṣṇu, qui dépassa Siṃhaviṣṇu<note>= Narasiṃha (avatar de Viṣṇu), à moins qu’il ne s’agisse du nom d’un autre roi, que celui-ci aurait vaincu à la guerre.</note></l>
+			<l>Śrī-Siṁhaviṣṇu, qui dépassa Siṁhaviṣṇu<note>= Narasiṁha (avatar de Viṣṇu), à moins qu’il ne s’agisse du nom d’un autre roi, que celui-ci aurait vaincu à la guerre.</note></l>
 			<l>Par sa force, dont l’arc surpassa même celui de Jiṣṇu<note>= Arjuna.</note>,</l>
 			<l>Qui illustra sa lignée resplendissante,</l>
 			<l>Qui, dans les combats, repoussa les audacieux<note>Il semble que le verbe dont ce personnage est le sujet soit omis.</note>.</l>			
@@ -361,13 +361,13 @@
 		
 		<p rend="stanza" n="5">
 			<l>C’est chez ce souverain doué d’une profonde intelligence que trouvèrent place l’ensemble des vertus immaculées des guerriers, qui ne trouvent pas de place chez les autres : notamment la vérité, le renoncement (/la générosité) et la modestie;</l>
-			<l>Et mieux que son rival, il s’empara de la terre des Coḷa dont la Kāverī est le collier, les rizières et les champs de canne à sucre l’<foreign>aṃśuka</foreign>, les vergers de noix d’arech et de bananes la belle ceinture. 
+			<l>Et mieux que son rival, il s’empara de la terre des Coḷa dont la Kāverī est le collier, les rizières et les champs de canne à sucre l’<foreign>aṁśuka</foreign>, les vergers de noix d’arech et de bananes la belle ceinture. 
 </l>
 		</p>
 		
 		<p rend="stanza" n="6">
 			<l>Au lieu sacré de Śrī-Varddhamāneśvara,</l>
-			<l>Dans la noble congrégation de Śrī-Nandisaṃgha, par les chefs de la congrégation</l>
+			<l>Dans la noble congrégation de Śrī-Nandisaṁgha, par les chefs de la congrégation</l>
 			<l>Méritants, innombrables et vertueux, entouré d’une abondante</l>
 			<l>Compagnie, naquit, pareil à Gaṇin, Vajranandī.</l>
 		</p>

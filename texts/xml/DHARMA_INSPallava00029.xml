@@ -94,7 +94,7 @@
          	<lg n="1" met="ārya">
          		
             	<l n="ab" real="--+-+-++--+--+-+-+++">
-            		<lb n="1"/>lalitāṃkurena rājñāva
+            		<lb n="1"/>lalitāṁkurena rājñāva
             		<lb n="2" break="no"/>ni-bhājana-pallaveśvara<orig>n</orig> nāma
             	</l>
             	<l n="cd" real="+--++++-+---+-+++">
@@ -110,8 +110,8 @@
 	<listApp>
 
 		<app loc="1">
-			<lem>lalitā<unclear>ṃ</unclear>kurena</lem>
-			<rdg source="bib:Hultzsch1900-1901_05">lalitā<unclear>ṃ</unclear>kurena</rdg>
+			<lem>lalitā<unclear>ṁ</unclear>kurena</lem>
+			<rdg source="bib:Hultzsch1900-1901_05">lalitā<unclear>ṁ</unclear>kurena</rdg>
 			<note>The <foreign>anusvāra</foreign> seems to be above the character <foreign>tā</foreign>.</note>
 		</app>		
 		<app loc="2">
@@ -134,7 +134,7 @@
       	
       	<div type="translation" xml:lang="fra" resp="part:sybr part:emfr">
       		<p>
-      			<l>Le roi Lalitāṃkura a fait construire cet édifice nommé Avanibhājana-Pallaveśvara,</l>
+      			<l>Le roi Lalitāṁkura a fait construire cet édifice nommé Avanibhājana-Pallaveśvara,</l>
       			<l>Telle une corbeille faite à sa volonté, pour recueillir les joyaux de ses bonnes actions.</l>
       		</p>
       		<p>EF: réviser la traduction de svedhā (conservé et non plus émendé en svecchā)? "Telle une corbeille de prospérité (recueillant) les joyaux ..."</p>

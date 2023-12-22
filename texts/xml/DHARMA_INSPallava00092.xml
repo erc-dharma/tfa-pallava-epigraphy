@@ -105,7 +105,7 @@
                      </ab>
                      
                      <p>
-                        <hi rend="grantha">palla</hi><supplied reason="omitted">va</supplied>-va<hi rend="grantha">ṃsasya</hi> na<unclear>n=ti</unclear>
+                        <hi rend="grantha">palla</hi><supplied reason="omitted">va</supplied>-va<hi rend="grantha">ṁsasya</hi> na<unclear>n=ti</unclear>
                         <lb n="2" break="no"/><hi rend="grantha">bodhu</hi>va<hi rend="grantha">rmmaku rā<unclear>jy</unclear>ā</hi><unclear>vi</unclear><hi rend="grantha"><unclear>bh</unclear>i<unclear>r</unclear>ddh<unclear>ya</unclear></hi>
 <!--display issue: closing parentheses of vi is diplayed-->                        
                         <lb n="3" break="no"/>ñ <unclear>ce</unclear><choice><orig>l</orig><reg>ll</reg></choice>ā-niṉṟatu Āṟupatt<unclear>u</unclear>
@@ -176,8 +176,8 @@
             <listApp>
                
                <app loc="1">
-                  <lem>-va<hi rend="grantha">ṃsasya</hi></lem>
-                  <rdg source="bib:KrishnaSastri1926_01">-vaṃs<choice><sic>as</sic><corr>ā</corr></choice>ya</rdg>
+                  <lem>-va<hi rend="grantha">ṁsasya</hi></lem>
+                  <rdg source="bib:KrishnaSastri1926_01">-vaṁs<choice><sic>as</sic><corr>ā</corr></choice>ya</rdg>
                   <note>This emendation by <ptr target="bib:KrishnaSastri1926_01"/> is unnecessary.</note>
                </app>
                               
@@ -185,7 +185,7 @@
                   <lem>na<unclear>n=ti</unclear></lem>
                   <rdg source="bib:KrishnaSastri1926_01">na<choice><sic><unclear>nti
                   </unclear></sic><corr>ndi</corr></choice></rdg>
-                  <rdg source="bib:Lockwood+al2001_01"><hi rend="grantha">na<unclear>ṃdi</unclear></hi></rdg>
+                  <rdg source="bib:Lockwood+al2001_01"><hi rend="grantha">na<unclear>ṁdi</unclear></hi></rdg>
                   <note>The reading <foreign>na<hi rend="grantha">ndi</hi></foreign> is also possible.</note>
                </app>
                               
