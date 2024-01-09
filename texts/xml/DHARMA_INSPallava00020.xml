@@ -99,7 +99,7 @@
 		
 		<l n="1">
 			<lb n="1"/><hi rend="grantha">śrī</hi> toṇṭai-y-an-tār
-			<lb n="2" break="no"/>-vēntaṉ <persName ref="pallava000005">narēntira
+			<lb n="2" break="no"/>-vēntaṉ <persName>narēntira
 				<lb n="3" break="no"/>p-pōtt-araiyaṉ</persName></l>
 		
 		<l n="2">
@@ -110,7 +110,7 @@
 		
 		<l n="3" enjamb="yes">
 			cara mikka ve
-			<lb n="7" break="no"/>ñ-cilaiyāṉ <persName ref="pallava000001"><unclear reason="eccentric_ductus">ca</unclear>
+			<lb n="7" break="no"/>ñ-cilaiyāṉ <persName ref="PSN00001"><unclear reason="eccentric_ductus">ca</unclear>
 				<lb n="8" break="no"/>tturu-mall</persName>e<hi rend="grantha">ś<unclear>va</unclear></hi>
 			<lb n="9" break="no"/>rāl<unclear>ai</unclear>yam <unclear>eṉ</unclear>
 		</l>
@@ -127,7 +127,7 @@
         		<head xml:lang="eng">Southern face of the pillar</head>
       		
       		<p>
-<lb n="11"/>Ivvūr <persName ref="pallava000006"><hi rend="grantha"><unclear reason="eccentric_ductus">b</unclear>ra</hi>m
+<lb n="11"/>Ivvūr <persName><hi rend="grantha"><unclear reason="eccentric_ductus">b</unclear>ra</hi>m
 <lb n="12" break="no"/>mamaṅkalavaṉ
 <lb n="13"/>cellaṉ civa<hi rend="grantha">dā
 <lb n="14" break="no"/>sa</hi><choice><orig>n</orig><reg>ṉ</reg></choice></persName> colliya
@@ -145,7 +145,7 @@
            
 		<app loc="1"> 
 			<lem><hi rend="grantha">śrī</hi></lem>
-			<note>We follow here <bibl rend="siglum"><ptr target="bib:Hultzsch1913-1914_01"/></bibl> in considering <hi rend="grantha"><foreign>śrī</foreign></hi> as an initial benediction. It could alternatively be analysed as a prefix to <foreign>toṇṭai-y-an-tār-vēntaṉ</foreign>, that is "the glorious <supplied reason="explanation"><foreign><hi rend="grantha">śrī</hi></foreign></supplied> king with the beautiful garland of <foreign>toṇṭai</foreign>".</note>
+			<note>We follow here <ptr target="bib:Hultzsch1913-1914_01"/> in considering <hi rend="grantha"><foreign>śrī</foreign></hi> as an initial benediction. It could alternatively be analysed as a prefix to <foreign>toṇṭai-y-an-tār-vēntaṉ</foreign>, that is "the glorious <supplied reason="explanation"><foreign><hi rend="grantha">śrī</hi></foreign></supplied> king with the beautiful garland of <foreign>toṇṭai</foreign>".</note>
 		</app>
 		
 		<app loc="1">
