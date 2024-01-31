@@ -169,12 +169,12 @@
          	</p>
          </div>
 
-         <div type="bibliography">
-
-            <p>
+         <div type="bibliography">           
+         	
+         	<p>
          		First edited in <bibl><ptr target="bib:Hariharan1974_01"/></bibl> (8 epigraphical lines);
-            	re-edited in <bibl><ptr target="bib:Nakacami1975_01"/></bibl> (no. 87; 8 epigraphical lines);            	
-         		re-edited in <bibl><ptr target="bib:Kalvettu"/></bibl> (Kalveṭṭu no. 3; 5 non epigraphical lines);
+            	re-edited in <bibl><ptr target="bib:Kalvettu"/></bibl> (Kalveṭṭu no. 3, <foreign>āṉanta</foreign> year, <foreign>aippaci</foreign> month = October/November 1974; 5 non epigraphical lines);
+         		re-edited in <bibl><ptr target="bib:Nakacami1975_01"/></bibl> (no. 87; 8 epigraphical lines);
          		text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl> (4 epigraphical lines, by mistake).
          	</p>
          	
@@ -189,18 +189,18 @@
             		<citedRange unit="page">69</citedRange>
             	</bibl>
          		
-         		<bibl n="RN">
-            		<ptr target="bib:Nakacami1975_01"/>
-         			<citedRange unit="item">87</citedRange>
-         			<citedRange unit="item">1972/2</citedRange>
-            	</bibl>
-         		
          		<bibl n="K">
             		<ptr target="bib:Kalvettu"/>
          			<citedRange unit="volume">3</citedRange>
             		<citedRange unit="page">12</citedRange>
             		<citedRange unit="item">1972/2</citedRange>
             	</bibl>
+         		
+         		<bibl n="RN">
+            		<ptr target="bib:Nakacami1975_01"/>
+         			<citedRange unit="item">87</citedRange>
+         			<citedRange unit="item">1972/2</citedRange>
+            	</bibl>         	
          		
          		<bibl n="DD">
          			<ptr target="bib:Dayalan2005_01"/>

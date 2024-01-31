@@ -124,7 +124,13 @@
          <div type="bibliography">
 
             <p>
-First edited by <bibl><ptr target="bib:Hariharan1974_01"/></bibl>; text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on previous editions.
+            	First edited by <bibl><ptr target="bib:Hariharan1974_01"/></bibl> (2 epigraphical lines);
+            	re-edited in <bibl><ptr target="bib:Nakacami1975_01"/></bibl> (no. 87; 2 epigraphical lines);
+            	text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl> (2 epigraphical lines).
+            </p>
+         	
+         	<p>
+         		Encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on previous editions.
             </p>
 
          	<listBibl type="primary">
