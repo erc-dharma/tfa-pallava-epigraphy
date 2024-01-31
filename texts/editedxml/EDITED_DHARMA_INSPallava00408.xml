@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Puḷiyaṉūr Hero-Stone no. 3</title>
+            <title>Puḷiyaṉūr Hero-Stone, time of Siṃhaviṣṇu, year 2[.]</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -136,6 +136,12 @@ First edited by <bibl><ptr target="bib:Hariharan1974_01"/></bibl>; text in <bibl
             		<citedRange unit="page">69</citedRange>
             	</bibl>
          		
+         		<bibl n="RN">
+            		<ptr target="bib:Nakacami1975_01"/>
+         			<citedRange unit="item">86</citedRange>
+         			<citedRange unit="item">1972/1</citedRange>
+            	</bibl>
+         		         		
          		<bibl n="DD">
          			<ptr target="bib:Dayalan2005_01"/>
          			<citedRange unit="volume">3</citedRange>
