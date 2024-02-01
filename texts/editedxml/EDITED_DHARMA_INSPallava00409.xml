@@ -91,14 +91,18 @@
       	<div type="edition" xml:lang="tam-Latn">
       		
       		<p>
-      			<lb n="1"/>kō-vicaiya-ma<choice><sic>Ī</sic><corr>ē</corr></choice>ntira-paru<supplied reason="undefined">maṟ</supplied>ku Irupa<choice><sic>t</sic><corr>tt</corr></choice>u
-      			<lb n="2"/>Aṇṭa
-      			
+      			<lb n="1"/>kō-vicaiya-ceyaviru
+      			<lb n="2" break="no"/>parkē Irupa<choice><sic>t</sic><corr>tt</corr></choice>u
       		</p>
       		
-      		<p>
-      			mīvēṇnāṭu ciṟu<choice><orig>p</orig><reg>pp</reg></choice>pāḻ Āḷvār pālāciriru makkaḷ māṟaṉ
-      			<lb n="3"/>kaṅkalūru toṟu koḷ ñāṉṟu paṭṭāṉ kal
+      		<p>      			
+      			<lb n="3"/><supplied reason="undefined">Āḷu</supplied> mīvēṇ<choice><orig>n</orig><reg>ṇ</reg></choice>āṭu
+      			<lb n="4"/>ci<choice><orig>r</orig><reg>ṟ</reg></choice>u<choice><orig>p</orig><reg>pp</reg></choice>pāḻ Āḷ
+      			<lb n="5" break="no"/>vār pālāciriru mak
+      			<lb n="6" break="no"/>kaḷ māṟaṉ ka<supplied reason="undefined">pe</supplied>
+      			<lb n="7" break="no"/>ūru toṟu koṉ
+      			<lb n="8" break="no"/><supplied reason="undefined">ṭa</supplied> ñāṉṟu paṭṭā
+      			<lb n="9" break="no"/>ṉ kal
       		</p>
       		
       	</div>
@@ -109,11 +113,23 @@
       			
       			<app loc="2">
       				<lem>Aṇṭa</lem>
-      				<rdg source="bib:Kalvettu">Aṇṭa</rdg>
+      				<rdg source="bib:Markciyakanti1974_01">Aṇṭa</rdg>
       				<note>Read <foreign>yāṇṭu</foreign>?</note>
       			</app>   
       			
       		</listApp>
+      		
+      		<!--<p>
+      			<lb n="1"/>kō-vicaiya-ma<choice><sic>Ī</sic><corr>ē</corr></choice>ntira-paru<supplied reason="undefined">maṟ</supplied>ku Irupa<choice><sic>t</sic><corr>tt</corr></choice>u
+      			<lb n="2"/>Aṇṭa
+      			
+      		</p>
+      		
+      		<p>
+      			mīvēṇnāṭu ciṟu<choice><orig>p</orig><reg>pp</reg></choice>pāḻ Āḷvār pālāciriru makkaḷ māṟaṉ
+      			<lb n="3"/>kaṅkalūru toṟu koḷ ñāṉṟu paṭṭāṉ kal
+      		</p>-->
+      		
       		
       	</div>
 
@@ -145,22 +161,27 @@
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Kalvettu"/></bibl> (Kalveṭṭu no. 3); text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on previous editions.
-            </p>
+         		First edited in <bibl><ptr target="bib:Markciyakanti1974_01"/></bibl> (Kalveṭṭu no. 3; 5 non epigraphical lines);
+         		re-edited, with several variant readings, in <bibl><ptr target="bib:Nakacami1975_01"/></bibl> (no. 89; 9 epigraphical lines);
+         		text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl> (3 epigraphical lines, by mistake).
+         	</p>
+         	         	         	
+         	<p>
+         		Encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on <bibl><ptr target="bib:Nakacami1975_01"/></bibl>.
+         	</p>
 
          	<listBibl type="primary">
          		         		
+         		<bibl n="NMK">
+            		<ptr target="bib:Markciyakanti1974_01"/>         			
+            		<citedRange unit="page">12</citedRange>
+            		<citedRange unit="item">1972/3</citedRange>
+            	</bibl>
+         		
          		<bibl n="RN">
             		<ptr target="bib:Nakacami1975_01"/>
          			<citedRange unit="item">89</citedRange>
          			<citedRange unit="item">1972/4</citedRange>
-            	</bibl>
-         		
-         		<bibl n="K">
-            		<ptr target="bib:Kalvettu"/>
-         			<citedRange unit="volume">3</citedRange>
-            		<citedRange unit="page">12</citedRange>
-            		<citedRange unit="item">1972/4</citedRange>
             	</bibl>
          		
          		<bibl n="DD">

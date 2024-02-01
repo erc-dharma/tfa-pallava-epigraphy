@@ -92,28 +92,43 @@
       		
       		<p>
       			<lb n="1"/>kō-vicaiya-ciṅkaviṇṇaparumaṟk<choice><orig>i</orig><reg>u</reg></choice> Iru
-<lb n="2" break="no"/><gap reason="undefined" extent="unknown" unit="character"/> <unclear>vē</unclear>ṇāṭṭu <gap reason="undefined" extent="unknown" unit="character"/>   			
+      			<lb n="2" break="no"/><gap reason="undefined" extent="unknown" unit="character"/> <unclear>vē</unclear>ṇāṭṭu <gap reason="undefined" extent="unknown" unit="character"/>   			
       		</p>
       		
       	</div>
 
-      	<!--<div type="apparatus">
+      	
+      	
+      	<div type="apparatus">
       		
+      		<!--As edited by Harihara Sastri:
+      		<lb n="1"/>kō-vicaiya-ciṅkaviṇṇaparumaṟk<choice><orig>i</orig><reg>u</reg></choice> Iru
+      		<lb n="2" break="no"/><gap reason="undefined" extent="unknown" unit="character"/> <unclear>vē</unclear>ṇāṭṭu <gap reason="undefined" extent="unknown" unit="character"/>-->
+      			
       		<listApp>
       			
-      			<app loc="0">
-      				<lem></lem>
-      				<rdg source="bib:Hariharan1974_01"></rdg>
+      			<app loc="1">
+      				<lem>°ciṅkaviṇṇaparumaṟk<choice><orig>i</orig><reg>u</reg></choice></lem>
+      				<rdg source="bib:Hariharan1974_01"/>      				 
+      				<rdg source="bib:Nakacami1975_01">°ciṅ<gap reason="lost" quantity="3" unit="character"/>viṇṇaparumaṟku</rdg>
       			</app>   
+      			
+      			<app loc="1">
+      				<lem>Iru<lb n="2" break="no"/><gap reason="undefined" extent="unknown" unit="character"/> <unclear>vē</unclear>ṇāṭṭu <gap reason="undefined" extent="unknown" unit="character"/></lem>
+      				<rdg source="bib:Hariharan1974_01"/>      				 
+      				<rdg source="bib:Nakacami1975_01">I<lb n="2" break="no"/><gap reason="lost" quantity="15" unit="character"/>ṭṭu <gap reason="lost" quantity="7" unit="character"/></rdg>
+      			</app>   
+      			
+      			
       			
       		</listApp>
       		
-      	</div>-->
+      	</div>
 
          <div type="translation" resp="part:emfr">
          	
          	<p n="1-2">
-         		Twenty-<gap reason="undefined"/> <supplied reason="undefined">year</supplied> of the victorious king Siṁhaviṣṇuvarman<note>Ciṅkaviṇṇaparumaṉ in the original Tamil text.</note> <gap reason="undefined"/> in the vēṇāṭu <gap reason="undefined"/>
+         		Twenty-<gap reason="undefined"/> <supplied reason="undefined">year</supplied> of the victorious king Siṁhaviṣṇuvarman<note>Ciṅkaviṇṇaparumaṉ in the original Tamil text.</note> <gap reason="undefined"/> in the Vēṇāṭu <gap reason="undefined"/>
          	</p>
          	         	
 
@@ -126,7 +141,13 @@
          <div type="bibliography">
 
             <p>
-First edited by <bibl><ptr target="bib:Hariharan1974_01"/></bibl>; text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on previous editions.
+            	First edited by <bibl><ptr target="bib:Hariharan1974_01"/></bibl> (2 epigraphical lines);
+            	re-edited in <bibl><ptr target="bib:Nakacami1975_01"/></bibl> (no. 87; 2 epigraphical lines);
+            	text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl> (2 epigraphical lines).
+            </p>
+         	
+         	<p>
+         		Encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on <bibl><ptr target="bib:Hariharan1974_01"/></bibl>.
             </p>
 
          	<listBibl type="primary">

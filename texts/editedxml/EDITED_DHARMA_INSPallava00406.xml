@@ -132,7 +132,7 @@
          	</p>
          	
          	<p n="2-12">
-         		<supplied reason="subaudible">This is the</supplied> stone of Vīravar<note>That is, “the heroic one”.</note>, the son <supplied reason="subaudible">of</supplied> Pālācirikar, who rules <supplied reason="explanation"><foreign>āḷum</foreign></supplied> <supplied reason="subaudible">in</supplied> Ciṟuppāl, <supplied reason="subaudible">who fell</supplied> at the time of seizing cattle <supplied reason="subaudible">in</supplied> Kaṭṭaiyūr in Mīvēṇṇāṭu.</p>
+         		<supplied reason="subaudible">This is the</supplied> stone of Vīravar<note>That is, “the heroic one”.</note>, the son <supplied reason="subaudible">of</supplied> Pālācirikar, who rules <supplied reason="explanation"><foreign>āḷum</foreign></supplied> <supplied reason="subaudible">in</supplied> Ciṟuppāl, <supplied reason="subaudible">who fell</supplied> at the time of seizing cattle <supplied reason="subaudible">in</supplied> Kaṭṭaiyūr in Mīvēṇāṭu.</p>
 
          </div>
       	
@@ -147,8 +147,8 @@
          <div type="bibliography">
 
          	<p>
-         		First edited in <bibl><ptr target="bib:Nakacami1975_01"/></bibl> (no. 88; 12 epigraphical lines);
-         		re-edited in <bibl><ptr target="bib:Kalvettu"/></bibl> (Kalveṭṭu no. 3; 5 non epigraphical lines);
+         		First edited in <bibl><ptr target="bib:Markciyakanti1974_01"/></bibl> (Kalveṭṭu no. 3; 5 non epigraphical lines);
+         		re-edited in <bibl><ptr target="bib:Nakacami1975_01"/></bibl> (no. 88; 12 epigraphical lines);
          		text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl> (3 epigraphical lines, by mistake).
          	</p>
          	<p>         		
@@ -157,18 +157,17 @@
 
          	<listBibl type="primary">
          		         		
+         		<bibl n="NMK">
+            		<ptr target="bib:Markciyakanti1974_01"/>         			
+            		<citedRange unit="page">12</citedRange>
+            		<citedRange unit="item">1972/3</citedRange>
+            	</bibl>
+         		
          		<bibl n="RN">
             		<ptr target="bib:Nakacami1975_01"/>
          			<citedRange unit="item">88</citedRange>
          			<citedRange unit="item">1972/3</citedRange>
-            	</bibl>
-         		
-         		<bibl n="Kalvettu">
-            		<ptr target="bib:Kalvettu"/>
-         			<citedRange unit="volume">3</citedRange>
-            		<citedRange unit="page">12</citedRange>
-            		<citedRange unit="item">1972/3</citedRange>
-            	</bibl>
+            	</bibl>         		       		
          		
          		<bibl n="DD">
          			<ptr target="bib:Dayalan2005_01"/>
