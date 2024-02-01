@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Hero-stone with lacunose text.</summary>
+						<summary>Lacunose inscription; undoubtedly probably a hero-stone, like others inscriptions (INSPallava406, INSPallava407 and INSPallava409) found at Puḷiyaṉūr.</summary>
 
 					</msContents>
 					<!--<physDesc>
@@ -93,16 +93,10 @@
       			<lb n="2" break="no"/><gap reason="undefined" extent="unknown" unit="character"/> <unclear>vē</unclear>ṇāṭṭu <gap reason="undefined" extent="unknown" unit="character"/>   			
       		</p>
       		
-      	</div>
-
+      	</div>      	
       	
-      	
-      	<div type="apparatus">
-      		
-      		<!--As edited by Harihara Sastri:
-      		<lb n="1"/>kō-vicaiya-ciṅkaviṇṇaparumaṟk<choice><orig>i</orig><reg>u</reg></choice> Iru
-      		<lb n="2" break="no"/><gap reason="undefined" extent="unknown" unit="character"/> <unclear>vē</unclear>ṇāṭṭu <gap reason="undefined" extent="unknown" unit="character"/>-->
-      			
+      	<div type="apparatus">     		
+      		      			
       		<listApp>
       			
       			<app loc="1">
@@ -115,9 +109,7 @@
       				<lem>Iru<lb n="2" break="no"/><gap reason="undefined" extent="unknown" unit="character"/> <unclear>vē</unclear>ṇāṭṭu <gap reason="undefined" extent="unknown" unit="character"/></lem>
       				<rdg source="bib:Hariharan1974_01"/>      				 
       				<rdg source="bib:Nakacami1975_01">I<lb n="2" break="no"/><gap reason="lost" quantity="15" unit="character"/>ṭṭu <gap reason="lost" quantity="7" unit="character"/></rdg>
-      			</app>   
-      			
-      			
+      			</app> 
       			
       		</listApp>
       		
@@ -127,8 +119,7 @@
          	
          	<p n="1-2">
          		Twenty-<gap reason="undefined"/> <supplied reason="undefined">year</supplied> of the victorious king Siṁhaviṣṇuvarman<note>Ciṅkaviṇṇaparumaṉ in the original Tamil text.</note> <gap reason="undefined"/> in the Vēṇāṭu <gap reason="undefined"/>
-         	</p>
-         	         	
+         	</p>         	         	
 
          </div>
       	
@@ -138,15 +129,15 @@
 
          <div type="bibliography">
 
-            <p>
-            	First edited by <bibl><ptr target="bib:Hariharan1974_01"/></bibl> (2 epigraphical lines);
-            	re-edited in <bibl><ptr target="bib:Nakacami1975_01"/></bibl> (no. 87; 2 epigraphical lines);
-            	text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl> (2 epigraphical lines).
-            </p>
+         	<p>
+         		First edited by <bibl><ptr target="bib:Hariharan1974_01"/></bibl> (2 epigraphical lines);
+         		re-edited in <bibl><ptr target="bib:Nakacami1975_01"/></bibl> (no. 87; 2 epigraphical lines);
+         		text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl> (2 epigraphical lines).
+         	</p>
          	
          	<p>
          		Encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on <bibl><ptr target="bib:Hariharan1974_01"/></bibl>.
-            </p>
+         	</p>
 
          	<listBibl type="primary">
          		         		
@@ -185,3 +176,6 @@
       </body>
   </text>
 </TEI>
+<!--Text as edited by Hariharani:
+      		<lb n="1"/>kō-vicaiya-ciṅkaviṇṇaparumaṟk<choice><orig>i</orig><reg>u</reg></choice> Iru
+      		<lb n="2" break="no"/><gap reason="undefined" extent="unknown" unit="character"/> <unclear>vē</unclear>ṇāṭṭu <gap reason="undefined" extent="unknown" unit="character"/>-->
