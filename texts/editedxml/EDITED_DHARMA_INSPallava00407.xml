@@ -97,7 +97,7 @@
       		
       		<p>      			
       			mēl-vēṇṇā
-      			<lb n="3" break="no"/>ṭṭu-c ciṟuppāḻ Āḷum pālāyiriyaru makkaḷ
+      			<lb n="3" break="no"/>ṭṭu-c ciṟuppāḻ āḷum pālāyiriyaru makkaḷ
       			<lb n="4"/>ciṟuppaṭuvāṉāru karuṅkālippāṭi-t
       			<lb n="5"/>toṟu-k koḷa-p pūcal ceṉṟu puya
       			<lb n="6" break="no"/>nāṭṭu-p pila<supplied reason="undefined">yācata</supplied>ṅkaḷ
@@ -107,52 +107,50 @@
       		
       	</div>
 
-      	<!--Update apparatus-->
-      	
-      	<!--<div type="apparatus">
+      	      	
+      	<div type="apparatus">
       		
-      		<listApp>
+      		<listApp>    
       			
       			<app loc="1">
-      				<lem>°parumaṟku</lem>
-      				<rdg source="bib:Kalvettu">°parumaṟku</rdg>
-      				<rdg source="bib:Hariharan1974_01">°<unclear>pa</unclear>rumaṟ<lb n="2"/>ku</rdg>
+      				<lem>parumaṟ<lb n="2" break="no"/>kup</lem>
+      				<rdg source="bib:Markciyakanti1974_01 bib:Nakacami1975_01"/>
+      				<rdg source="bib:Hariharan1974_01"><supplied reason="undefined">pa</supplied>rumaṟ<lb n="2" break="no"/>kup</rdg>
       			</app>
       			
-      			<app loc="2">
-      				<lem>ciṟuppāḻ</lem>
-      				<rdg source="bib:Kalvettu">ciṟuppāḻ</rdg>
-      				<rdg source="bib:Hariharan1974_01">ciṟupāḻ</rdg>
-      				<note>See <foreign>ciṟu<choice><orig>p</orig><reg>pp</reg></choice>āḻ</foreign> in DHARMA_INSPallava00406 and DHARMA_INSPallava00409, from the same place.</note>
-      			</app>  
+      			<app loc="3">
+      				<lem>ciṟuppāḻ āḷum</lem>
+      				<rdg source="bib:Hariharan1974_01 bib:Nakacami1975_01"/>
+      				<rdg source="bib:Markciyakanti1974_01">ciṟuppāḻ Āḷum</rdg>
+      			</app> 
       			
-      			<app loc="2">
+      			<app loc="3">
       				<lem>pālāyiriyaru</lem>
-      				<rdg source="bib:Kalvettu">pālāyiriyaru</rdg>
+      				<rdg source="bib:Markciyakanti1974_01 bib:Nakacami1975_01"/>
       				<rdg source="bib:Hariharan1974_01">pālāciriyaru</rdg>
-      			</app>  
-      			
-      			<app loc="3">
-      				<lem>ciṟuppaṭuvāṉāru</lem>
-      				<rdg source="bib:Kalvettu">ciṟuppaṭuvāṉāru</rdg>
-      				<rdg source="bib:Hariharan1974_01">ci<unclear>ṟuppaṭu</unclear>vā<unclear>ṉ</unclear>ṉāru</rdg>
-      			</app>  
-      			
-      			<app loc="3">
-      				<lem>koḷap</lem>
-      				<rdg source="bib:Kalvettu">koḷap</rdg>
-      				<rdg source="bib:Hariharan1974_01"><unclear>koḷap</unclear></rdg>
-      			</app>  
+      			</app>
       			
       			<app loc="4">
-      				<lem>pila<unclear>yācata</unclear>ṅkaḷ</lem>
-      				<rdg source="bib:Kalvettu">pila<unclear>yācata</unclear>ṅkaḷ</rdg>
-      				<rdg source="bib:Hariharan1974_01">pilayācataṅkaḷ</rdg>
-      			</app> 
+      				<lem>ciṟuppaṭuvāṉāru</lem>
+      				<rdg source="bib:Markciyakanti1974_01 bib:Nakacami1975_01"/>
+      				<rdg source="bib:Hariharan1974_01">ci<supplied reason="undefined">ṟuppaṭu</supplied>vā<supplied reason="undefined">ṉ</supplied>ṉāru</rdg>
+      			</app>  
+      			
+      			<app loc="5">
+      				<lem>koḷap</lem>
+      				<rdg source="bib:Markciyakanti1974_01 bib:Nakacami1975_01"/>
+      				<rdg source="bib:Hariharan1974_01"><supplied reason="undefined">koḷap</supplied></rdg>
+      			</app>      			
+      			
+      			<app loc="6">
+      				<lem>pila<supplied reason="undefined">yācata</supplied>ṅkaḷ</lem>
+      				<rdg source="bib:Markciyakanti1974_01 bib:Nakacami1975_01"/>
+      				<rdg source="bib:Hariharan1974_01">pilayā cataṅkaḷ</rdg>
+      			</app>
       			
       		</listApp>
       		
-      	</div>-->
+      	</div>
 
          <div type="translation" resp="part:emfr">
          	
@@ -195,7 +193,7 @@
          		<bibl n="NMK">
             		<ptr target="bib:Markciyakanti1974_01"/>         			
             		<citedRange unit="page">12</citedRange>
-            		<citedRange unit="item">1972/3</citedRange>
+            		<citedRange unit="item">1972/2</citedRange>
             	</bibl>
          		
          		<bibl n="RN">

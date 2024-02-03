@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Puḷiyaṉūr Hero-Stone, time of Mahendravarman, year 20</title>
+            <title>Puḷiyaṉūr Hero-Stone, time of Siṃhavarman or Mahendravarman, year 20</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Hero-stone commemorating the death of Mārāṉ.</summary>
+                  <summary>Hero-stone commemorating the death of Mārāṉ during a cattle-raid.</summary>
                </msContents>
                <!--<physDesc>
 						<handDesc>
@@ -91,7 +91,7 @@
       	<div type="edition" xml:lang="tam-Latn">
       		
       		<p>
-      			<lb n="1"/>kō-vicaiya-ceyaviru
+      			<lb n="1"/>kō-vicai<supplied reason="omitted">ya</supplied>-ceyaviru
       			<lb n="2" break="no"/>parkē Irupa<choice><sic>t</sic><corr>tt</corr></choice>u
       		</p>
       		
@@ -100,7 +100,7 @@
       			<lb n="4"/>ci<choice><orig>r</orig><reg>ṟ</reg></choice>u<choice><orig>p</orig><reg>pp</reg></choice>pāḻ Āḷ
       			<lb n="5" break="no"/>vār pālāciriru mak
       			<lb n="6" break="no"/>kaḷ māṟaṉ ka<supplied reason="undefined">pe</supplied>
-      			<lb n="7" break="no"/>ūru toṟu koṉ
+      			<lb n="7" break="no"/>ūru toṟu koṇ
       			<lb n="8" break="no"/><supplied reason="undefined">ṭa</supplied> ñāṉṟu paṭṭā
       			<lb n="9" break="no"/>ṉ kal
       		</p>
@@ -111,49 +111,65 @@
       		
       		<listApp>
       			
-      			<app loc="2">
-      				<lem>Aṇṭa</lem>
+      			<app loc="1">
+      				<lem>°vicai<supplied reason="omitted">ya</supplied>°</lem>
+      				<rdg source="bib:Markciyakanti1974_01 bib:Nakacami1975_01">°vicai°</rdg>
+      			</app>  
+      			
+      			<app loc="1">
+      				<lem>°ceyaviru<lb n="2" break="no"/>parkē</lem>
+      				<rdg source="bib:Nakacami1975_01"/>
+      				<rdg source="bib:Markciyakanti1974_01">ma<choice><sic>Ī</sic><corr>ē</corr></choice>ntira-paruku</rdg>
+      				<note><ptr target="bib:Nakacami1975_01"/> notes that, since another hero-stone (INSPallava407) found nearby, dated to the reign of Siṃhaviṣṇu, mentions also the relatives of Pālāciriyar, the corrupted form <foreign>ciyavirumar</foreign> (that is, <foreign>ceyavirupar</foreign>, as he reads it) might be emended to <foreign>cimmavarmaṉ</foreign>.</note>
+      			</app>        			
+      			
+      			<app loc="3">
+      				<lem><supplied reason="undefined">Āḷu</supplied></lem>
+      				<rdg source="bib:Nakacami1975_01"/>
       				<rdg source="bib:Markciyakanti1974_01">Aṇṭa</rdg>
       				<note>Read <foreign>yāṇṭu</foreign>?</note>
-      			</app>   
+      			</app>
       			
+      			<app loc="4">
+      				<lem>ci<choice><orig>r</orig><reg>ṟ</reg></choice>u<choice><orig>p</orig><reg>pp</reg></choice>pāḻ</lem>
+      				<rdg source="bib:Markciyakanti1974_01">ciṟupāḻ</rdg>
+      				<rdg source="bib:Nakacami1975_01">cirupāḻ</rdg>
+      			</app>  
+      			
+      			<app loc="6">
+      				<lem>ka<supplied reason="undefined">pe</supplied>
+      			<lb n="7" break="no"/>ūru</lem>
+      				<rdg source="bib:Nakacami1975_01"/>
+      				<rdg source="bib:Markciyakanti1974_01">kaṅkalūru</rdg>
+      			</app>  
+      			
+      			<app loc="7">
+      				<lem>koṇ<lb n="8" break="no"/><supplied reason="undefined">ṭa</supplied></lem>
+      				<rdg source="bib:Nakacami1975_01"/>
+      				<rdg source="bib:Markciyakanti1974_01">koḷ</rdg>
+      			</app>      			
+      			      			
       		</listApp>
-      		
-      		<!--<p>
-      			<lb n="1"/>kō-vicaiya-ma<choice><sic>Ī</sic><corr>ē</corr></choice>ntira-paru<supplied reason="undefined">maṟ</supplied>ku Irupa<choice><sic>t</sic><corr>tt</corr></choice>u
-      			<lb n="2"/>Aṇṭa
-      			
-      		</p>
-      		
-      		<p>
-      			mīvēṇnāṭu ciṟu<choice><orig>p</orig><reg>pp</reg></choice>pāḻ Āḷvār pālāciriru makkaḷ māṟaṉ
-      			<lb n="3"/>kaṅkalūru toṟu koḷ ñāṉṟu paṭṭāṉ kal
-      		</p>-->
-      		
       		
       	</div>
 
          <div type="translation" resp="part:emfr">
          	
          	<p n="1-2">
-         		<unclear>Year?</unclear> twenty of the victorious king Mahendravarman<note>MaĪntiraparumaṉ in the original Tamil text.</note>.
+         		<unclear>Year?</unclear> twenty of the victorious king <gap reason="ellipsis"/><note>The name of the king is unclear: Mahendravarman for <bibl><ptr target="bib:Markciyakanti1974_01"/></bibl>, Siṃhavarman for <bibl><ptr target="bib:Nakacami1975_01"/></bibl>.</note>.
          	</p>
          	
          	<p n="2-3">
-         		<supplied reason="subaudible">This is the</supplied> stone <supplied reason="subaudible">of/for</supplied> Mārāṉ, a relative <supplied reason="explanation"><foreign>makkaḷ</foreign></supplied> <supplied reason="subaudible">of</supplied> Pālācirir, the ruler of Ciṟuppāḻ in the Mīvēṇṇāṭu, he who fell at the time of seizing cattle <supplied reason="subaudible">at</supplied> Kaṅkalūr.
-         	</p>
-         	         	
+         		<supplied reason="subaudible">This is the</supplied> stone <supplied reason="subaudible">of/for</supplied> Mārāṉ, a relative <supplied reason="explanation"><foreign>makkaḷ</foreign></supplied> <supplied reason="subaudible">of</supplied> Pālācirir, the ruler <supplied reason="explanation"><foreign>āḷvār</foreign></supplied> of Ciṟuppāḻ in the Mīvēṇṇāṭu, he who fell at the time of seizing cattle <supplied reason="subaudible">at</supplied> <gap reason="ellipsis"/><note>The name of this place is unclear: Kaṅkalūr for <bibl><ptr target="bib:Markciyakanti1974_01"/></bibl>, Ka<supplied reason="undefined">pe</supplied>yūr for <bibl><ptr target="bib:Nakacami1975_01"/></bibl>.</note>.
+         	</p>         	         	
 
          </div>
       	
-         <div type="commentary">
-         	
-         	<p>
-         		Line beginnings not indicated in <bibl><ptr target="bib:Kalvettu"/></bibl>, here after <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.
-         	</p>
-         	
+         <div type="commentary">         	
+         
          	<p>
          		Pālācirir, the ruler of Ciṟuppāḻ = Pālācirikar, ruler of Ciṟuppāl (INSPallava406) = Pālāyiriyar, ruler of Ciṟuppāl (INSPallava407).
+         		<!--Add <persName>-->
          	</p>
          	
          </div>
@@ -162,7 +178,7 @@
 
             <p>
          		First edited in <bibl><ptr target="bib:Markciyakanti1974_01"/></bibl> (Kalveṭṭu no. 3; 5 non epigraphical lines);
-         		re-edited, with several variant readings, in <bibl><ptr target="bib:Nakacami1975_01"/></bibl> (no. 89; 9 epigraphical lines);
+         		re-edited, with substantial variant readings, in <bibl><ptr target="bib:Nakacami1975_01"/></bibl> (no. 89; 9 epigraphical lines);
          		text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl> (3 epigraphical lines, by mistake).
          	</p>
          	         	         	
@@ -175,7 +191,7 @@
          		<bibl n="NMK">
             		<ptr target="bib:Markciyakanti1974_01"/>         			
             		<citedRange unit="page">12</citedRange>
-            		<citedRange unit="item">1972/3</citedRange>
+            		<citedRange unit="item">1972/4</citedRange>
             	</bibl>
          		
          		<bibl n="RN">
