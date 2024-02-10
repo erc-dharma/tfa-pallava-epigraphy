@@ -130,7 +130,7 @@
                
                <app loc="3">
                   <lem><num value="736"><gap reason="illegible" quantity="2" unit="character"/></num></lem>
-                  <note>In <ptr target="bib:VenkatasubbaAyyar1943_01"/>'s edition two symbols are printed, apparently reproducing what is visible on the stone and looking like 100 and 1. <ptr target="bib:VenkatasubbaAyyar1943_01"/> notes: <cit><quote>This symbol probably stands for the figure 736.</quote></cit> As 736 <foreign>kaḻañcu</foreign>s is a very unusual amount, an alternative reading could be: <foreign> {symbol=36} Eḻuttu</foreign>. The word <foreign>eḻuttu</foreign> would be preceded by the figure in symbol and by the same figures in letters.</note>
+                  <note>In <ptr target="bib:VenkatasubbaAyyar1943_01"/>'s edition two symbols are printed, apparently reproducing what is visible on the stone and looking like 100 and 1. <ptr target="bib:VenkatasubbaAyyar1943_01"/> notes: <quote>This symbol probably stands for the figure 736.</quote> As 736 <foreign>kaḻañcu</foreign>s is a very unusual amount, an alternative reading could be: <foreign> {symbol=36} Eḻuttu</foreign>. The word <foreign>eḻuttu</foreign> would be preceded by the figure in symbol and by the same figures in letters.</note>
                </app>		
                
             </listApp>
