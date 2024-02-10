@@ -42,14 +42,13 @@
             <date from="2019" to="2025">2019-2025</date>
          </publicationStmt>
          <sourceDesc>
-            <msDesc><!--implement display [italics] of <foreign> in <sourceDesc>--><!-- it has been implemented, there is no italic in your <sourceDesc> though-->
+            <msDesc>
                <msIdentifier>
                   <repository>DHARMAbase</repository>
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Lacunose. Mentions Nandivarman II Pallava and Vicaiyanalluḻāṉ of
-							the Ādityakula.</summary>
+                  <summary>Lacunose. Mentions Nandivarman II Pallava and Vicaiyanalluḻāṉ of the Ādityakula.</summary>
                </msContents>
                <physDesc>
                   <handDesc>

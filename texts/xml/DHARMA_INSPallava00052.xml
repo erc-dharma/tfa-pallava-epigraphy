@@ -41,7 +41,20 @@
             <date from="2019" to="2025">2019-2025</date>
          </publicationStmt>
          <sourceDesc>
-            <p><!-- not to be filled in at this stage --></p>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary></summary>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p></p>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
