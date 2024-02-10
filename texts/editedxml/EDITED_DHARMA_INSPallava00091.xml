@@ -95,7 +95,7 @@
             <!--Check language statement in teiHeader-->
             <!--Check usage of @xml:lang below-->
             
-         	<ab xml:lang="san-Latn" rend="grantha">
+         	<ab xml:lang="san-Latn">
          		<lb n="1" style="text-align: left"/><hi rend="grantha">Om· namaś śivāya<surplus>m·</surplus> <unclear>sva</unclear>sti śrī</hi>
          	</ab>
          	

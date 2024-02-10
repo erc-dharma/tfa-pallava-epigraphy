@@ -55,7 +55,8 @@
                         <bibl>
                            <ptr target="bib:Mahalingam1988_01"/>
                            <citedRange unit="page">692</citedRange>
-                           <citedRange unit="note">2</citedRange> notes</bibl>: <quote>The script of the inscription is similar to that in the inscription from Tāḷaiyūttu.</quote> That is, INSPallava00300 and INSPallava00306.</p>
+                           <citedRange unit="note">2</citedRange>
+                        </bibl> notes: <quote>The script of the inscription is similar to that in the inscription from Tāḷaiyūttu.</quote> That is, INSPallava00300 and INSPallava00306.</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -158,7 +159,7 @@
          <div type="commentary">
          	
          	<p>
-         		<bibl><ptr target="bib:Mahalingam1988_01"/><citedRange unit="page">692</citedRange><citedRange unit="note">1</citedRange> notes</bibl>: <quote>The figure of a soldier facing left with a bow in the left hand and a stagger in the right hand is engraved on the stone. Above the right hand is seen a festoon engraved. To the right of the figure is the representation of a casket and a mirror while by the side of the left leg is seen a spout. The body and forehead of the soldier are found to be pierced by arrows.</quote>
+         		<bibl><ptr target="bib:Mahalingam1988_01"/><citedRange unit="page">692</citedRange><citedRange unit="note">1</citedRange></bibl> notes: <quote>The figure of a soldier facing left with a bow in the left hand and a stagger in the right hand is engraved on the stone. Above the right hand is seen a festoon engraved. To the right of the figure is the representation of a casket and a mirror while by the side of the left leg is seen a spout. The body and forehead of the soldier are found to be pierced by arrows.</quote>
          	</p> 
          	
          	<p n="1-2">

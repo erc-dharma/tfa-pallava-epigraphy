@@ -106,7 +106,7 @@
                <lb n="4" break="no"/><choice><orig>ṉṉ</orig><reg>ṉ</reg></choice>-āyiṉa pakai-c-cantira-vicai<choice><orig>-A</orig><reg>ya</reg></choice>
                <lb n="5" break="no"/>raiyaṉ ṟiru-v-ātirai nāṉṟu A
                <lb n="6" break="no"/>ṭṭ-aḻiya vaitta Arici 200 Iru
-               <lb n="7" break="no"/>nūṟṟu nāḻi nūṟṟuvarkku <g type="symbol" subtype="finalGomutra"/>  
+               <lb n="7" break="no"/>nūṟṟu nāḻi nūṟṟuvarkku <g type="finalGomutra">.</g>  
             </p>                       
                         
          </div>
@@ -122,7 +122,7 @@
       </app>
       
       <app loc="7">
-         <lem><g type="symbol" subtype="finalGomutra"/></lem>
+         <lem><g type="finalGomutra">.</g></lem>
          <note><ptr target="bib:VenkatasubbaAyyar1943_01"/> has 3 <foreign>daṇḍa</foreign>s followed by an hyphen; <ptr target="bib:Subbarayalu2015_01"/> has a <foreign>piḷḷaiyār cuḻi</foreign>.</note>
       </app>	
       

@@ -207,10 +207,10 @@ First edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 1
 	
 	<listBibl type="secondary">
 		
-		<bibl>ARIE 1922, no. 256 <!--Update accordingly. + Keep free text here? See display?-->
-			<ptr target="bib:ARIE1905-1906"/><!--Update-->
-			<citedRange unit="page">**</citedRange>
-			<citedRange unit="appendix">*/1922</citedRange>
+		<bibl>
+			<ptr target="bib:ARIE1921-1922"/>
+			<citedRange unit="page">78</citedRange>
+			<citedRange unit="appendix">C/1922</citedRange>
 			<citedRange unit="item">256</citedRange>
 		</bibl>
 		

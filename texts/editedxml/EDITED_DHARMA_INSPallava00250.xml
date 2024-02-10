@@ -90,16 +90,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-      	
-         <div type="edition" xml:lang="san-Latn">
-            <lg n="1" met="anuṣtubh">
-               <l n="a" real="++++-++-">[𑌮𑌤𑍍𑌸𑍍𑌯𑌃 𑌕𑍂𑌰𑍍𑌮𑍋 𑌵𑌰𑍍](𑌆)𑌹¿𑌸𑍍𑌯𑍍?⟨𑌶𑍍 𑌚𑍍⟩𑌅</l>
-               <l n="b" real="+-++-+--">𑌨𑌾𑌰(𑌸𑍍)𑌇𑌂𑌹𑌶𑍍 𑌚 𑌵𑌾𑌮𑌨⟨𑌃⟩</l>
-               <l n="c" real="+++-++-">𑌰𑌾𑌮𑍋 𑌰𑌾𑌮¿𑌪𑍍𑌯𑍍?⟨𑌶𑍍 𑌚𑍍⟩𑌅 𑌰𑌾𑌮¿𑌸𑍍𑌯𑍍?⟨𑌶𑍍 𑌚𑍍⟩𑌅</l>
-               <l n="d" real="++++-+--">𑌬𑍁𑌦𑍍𑌧⟨𑌃⟩ 𑌕𑌲𑍍𑌕𑍀 𑌚 𑌤𑍇 𑌦𑌶 <g type="ddandaOrnate">.</g></l>
-            </lg>
-         </div>
-         
+      	                 
          <div type="edition" xml:lang="san-Latn">
          	
             <lg n="1" met="anuṣtubh">
@@ -182,7 +173,7 @@
                   <citedRange unit="page">84</citedRange>
                </bibl>, <bibl>
                   <ptr target="bib:Francis2014_02"/>
-                  <citedRange unit="page">216-218</citedRange>.
+                  <citedRange unit="page">216-218</citedRange>
                </bibl>.
             </p>
             
