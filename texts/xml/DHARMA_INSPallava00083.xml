@@ -110,8 +110,8 @@
       			<lb n="6" break="no"/>yirattu nā-ṉūṟṟu-k kāṭi in-nel yāṅkaḷ
       			<lb n="7"/>koṇṭu ivv-ēriyiṉir u<choice><orig>ṇ</orig><reg>ṇṇ</reg></choice>un nilam ellā
       			<lb n="8" break="no"/>v<choice><sic>i</sic><corr>a</corr></choice>ṟṟiṉ mē<unclear>lu</unclear>m viṟkilum oṟṟi Iṭilum paṭṭiyāṟ pa
-      			<lb n="9" break="no"/>tiṉ aṟu-kāṭi-c ceytu nel paṭṭi-y <choice><unclear>o</unclear><unclear>ō</unclear></choice><!--display issue: unwanted underdot is displayed; must be inherited from EpiDoc/Leiden conventions--><!--I don't have those, do you still have the issue? --> <gap reason="lost" quantity="2" unit="character"/> kaṭaṉ-ā<choice><orig>yi</orig><reg>y</reg></choice> In-ne
-      			<lb n="10" break="no"/>llilē Iru-kāṭi-c ce<choice><orig><unclear>yi</unclear><reg>y</reg></orig></choice><!--display issue: unwanted underdot is displayed--><!-- I have deleted the underdot situation. I don't understand the position of your reg in this encoding. THe unclear is display but still figuring about the brackets. -->tuṅ koṇṭu <unclear>payiṉūr A</unclear>ṉṉu nāmam-uḷḷa
+      			<lb n="9" break="no"/>tiṉ aṟu-kāṭi-c ceytu nel paṭṭi-y <choice><unclear>o</unclear><unclear>ō</unclear></choice> <gap reason="lost" quantity="2" unit="character"/> kaṭaṉ-ā<choice><orig>yi</orig><reg>y</reg></choice> In-ne
+      			<lb n="10" break="no"/>llilē Iru-kāṭi-c ce<choice><orig><unclear>yi</unclear></orig><reg>y</reg></choice><!-- I don't understand the position of your reg in this encoding. THe unclear is display but still figuring about the brackets. -->tuṅ koṇṭu <unclear>payiṉūr A</unclear>ṉṉu nāmam-uḷḷa
       			<lb n="11"/>taṉaiyum <unclear>Āṭṭāṇṭu-tō</unclear>ṟum ēri <unclear>tōṇṭuvi</unclear>ppō<unclear>m</unclear>
       		</p>
       		<p>
