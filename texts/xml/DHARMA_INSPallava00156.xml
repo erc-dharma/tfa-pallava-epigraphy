@@ -86,30 +86,30 @@
     		</ab> 
     		
     		<p>
-    			kō-<choice><orig>ṉ</orig><reg>n</reg></choice>irupatuṅka-tēvarkku yāṇṭu <num value="10"> <g type="numeral">10</g> 1</num>-Āvatu
+    			kō-<choice><orig>ṉ</orig><reg>n</reg></choice>irupatuṅka-tēvarkku yāṇṭu <num value="10"> <g type="numeral">10</g> 1</num><g type="dash"/>Āvatu
     		</p>
     		<p>    			
     			It-tēvar tēviyār kāṭavaṉ mā-tēviyār
     			<lb n="2"/>pakkal Īkkāṭṭu-k-kōṭṭattu-k kākkalūr-nāṭṭu <hi rend="grantha">bram<supplied reason="omitted">·</supplied>ma</hi>tēcam perumuḷai-<choice><orig>Ū</orig><reg>y-ū</reg></choice>r <hi rend="grantha">sabhai</hi>yār koṇṭa tan
-    			<lb n="3" break="no"/>ma-kaṭṭaḷaiyāl poṉ- 100 8 <!--update num+hyphen=symbol--> Ip-poṉ nūṟṟ' eṇ kaḻañcukkum palicai-y-āka-p paḻaiyaṉūr-nāṭṭu tiruvā
-    			<lb n="4" break="no"/>laṅkāṭ-uṭaiyārkku Āṭṭ-āṇṭu tōṟum ceyya-k kaṭava nivantam Āṇṭu varai Āḷakku {nel} <!--update symbol--> {kalam} <!--update symbol--> nittam ney 
-    			<lb n="5" break="no"/>Ūri Āḻakku ||{piḷḷaiyār cuḻi} <!--update symbol-->    			 
+    			<lb n="3" break="no"/>ma-kaṭṭaḷaiyāl poṉ <g type="dash"/> <num value="108"><g type="numeral">100</g> 8</num> Ip-poṉ nūṟṟ' eṇ kaḻañcukkum palicai-y-āka-p paḻaiyaṉūr-nāṭṭu tiruvā
+    			<lb n="4" break="no"/>laṅkāṭ-uṭaiyārkku Āṭṭ-āṇṭu tōṟum ceyya-k kaṭava nivantam Āṇṭu varai Āḷakku <g type="nel"/> <g type="kalam"/> nittam ney 
+    			<lb n="5" break="no"/>Ūri Āḻakku <g type="gomutraFinal">.</g>    			 
     		</p>
     		    		    		
     	</div>
        
-    	<!--<div type="apparatus">
+    	<div type="apparatus">
     	   
     		<listApp>
     			
-    			<app loc="0">
-    				<lem></lem>
-    				<rdg source="bib:VenkatasubbaAyyar1943_01"></rdg>			
+    			<app loc="5">
+    				<lem><g type="gomutraFinal">.</g></lem>
+    				<rdg source="bib:VenkatasubbaAyyar1943_01"><g type="ddanda"/><g type="pc"/></rdg>			
     			</app>
     			
     		</listApp>
     		
-    	</div>-->
+    	</div>
     	
     	<div type="translation" resp="part:emfr">
     		
