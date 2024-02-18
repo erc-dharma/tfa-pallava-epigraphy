@@ -120,7 +120,7 @@
       		
       	</div>
       	
-      	<div type="translation" xml:lang="fra" resp="part:sybr"><!--add second translator: part:emfr"-->
+      	<div type="translation" xml:lang="fra" resp="part:sybr part:emfr">
       		<p>Le glorieux temple de Mahendravarmeśvara.</p>
       		<p><hi rend="italic">ou</hi></p>
       		<p>Le temple d’Īsvara du glorieux Mahendravarman.</p>

@@ -90,7 +90,7 @@
    <text xml:space="preserve">
       <body>
 
-<div type="edition" xml:lang="pra-Latn"><!--add @rendition-->
+<div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209">
 	
 	<div type="textpart" xml:lang="san-Latn" n="A">
 		<head xml:lang="eng">Seal</head>
@@ -377,19 +377,7 @@
 				<rdg source="bib:Leumann1894_01">...</rdg>
 				<rdg source="bib:Sircar1965_02">...</rdg>	
 			</app>-->
-			<!--<app loc="0">
-				<lem>...</lem>
-				<rdg source="bib:Buehler1892_01">...</rdg>
-				<rdg source="bib:Leumann1894_01">...</rdg>
-				<rdg source="bib:Sircar1965_02">...</rdg>	
-			</app>-->
-			<!--<app loc="0">
-				<lem>...</lem>
-				<rdg source="bib:Buehler1892_01">...</rdg>
-				<rdg source="bib:Leumann1894_01">...</rdg>
-				<rdg source="bib:Sircar1965_02">...</rdg>	
-			</app>-->
-			
+						
 			<app loc="7">
 				<lem>Ettha</lem>
 				<rdg source="bib:Buehler1892_01">cattha</rdg>

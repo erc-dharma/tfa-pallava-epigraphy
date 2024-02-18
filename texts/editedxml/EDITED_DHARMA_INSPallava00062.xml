@@ -292,7 +292,7 @@
       		
       	</div>
       	
-      	<div type="translation" xml:lang="fra" resp="part:sybr"><!--add second translator: part:emfr"-->
+      	<div type="translation" xml:lang="fra" resp="part:sybr part:emfr">
       		
       		<p rend="stanza" n="1">
       			<l><gap reason="lost"/></l>
