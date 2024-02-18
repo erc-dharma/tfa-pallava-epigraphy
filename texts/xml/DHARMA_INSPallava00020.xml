@@ -188,9 +188,9 @@
 </div>
 
 <div type="translation" source="bib:Hultzsch1913-1914_01">
+	<head>Translation by Hultzsch (1913-1914). Standardised according to DHARMA TG and EG.</head>
 	<!--reproduce Hultzsch's notes!-->
-	<note type="credit">Translation by Hultzsch (1913-1914). Standardised according to DHARMA TG and EG.</note><!--check-->
-<div type="textpart" subtype="face" n="A">
+	<div type="textpart" subtype="face" n="A">
 <head xml:lang="eng">Eastern face of the pillar</head>
       		<p n="1-10"> 
 Prosperity! The king <supplied reason="subaudible">who wore</supplied> a beautiful garland of <foreign>toṇṭai</foreign>, Narendra-Pōttaraiyaṉ, whose cruel bow bristled with arrows, made with great joy in the south of Veṇpēṭṭu <supplied reason="subaudible">this temple</supplied> named Śatrumallēśvarālaya, to be the residence of Hara <supplied reason="explanation">Śiva</supplied>.
@@ -279,6 +279,6 @@ First edited and translated by <bibl><ptr target="bib:Hultzsch1913-1914_01"/></b
       </body>
   </text>
 </TEI>
-<!--
+<!--METADATA:
 	On two perpendiculary adjacent faces of the lower square portion of the left/south pillar inside the Pallava rock-cut cave.
 -->
