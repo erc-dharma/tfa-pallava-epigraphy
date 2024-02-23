@@ -170,13 +170,13 @@
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Nakacami1980_01"/></bibl>; text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on previous editions.
+First edited in <bibl><ptr target="bib:Patmavati1980_03"/></bibl>; text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on previous editions.
             </p>
 
          	<listBibl type="primary">
          		         		
          		<bibl n="IN">
-            		<ptr target="bib:Nakacami1980_01"/>
+            		<ptr target="bib:Patmavati1980_02"/>
             		<citedRange unit="item">398/1978</citedRange>
             	</bibl>
          		

@@ -97,14 +97,25 @@
 			<lb n="1"/>svasti śrī
 		</ab>
 		
-		<lg met="uncertain" n="1-2"><!--two stanzas probably-->
-			<l n="a">Ānma <gap reason="undefined" quantity="1" unit="character"/> kṣa <gap reason="undefined" quantity="4" unit="character"/> <unclear>sna</unclear>
-			<lb n="2" break="no"/>panam atisitam· lepanam· śuddha
-			<lb n="3" break="no"/>pam· tām·būlaṁ sannivedya prati<unclear>di</unclear>
-			<lb n="4" break="no"/><unclear>na</unclear>m aniśandīpam ekam· pradātum· kāṭ·ṭ<choice><orig>u</orig><reg>ū</reg></choice>r-ī
-			<lb n="5" break="no"/>ś<unclear>o</unclear> vinītaḥ svapatimatiharaḥ ṣaṣṭhim·
-			<lb n="6"/>suvarṇṇam· bhakty<unclear>ā</unclear> paitāṁki kaṇṭho mu
-			<lb n="7" break="no"/><gap reason="undefined" quantity="2" unit="character"/> m adād oṟṟiyūreśvarāya<!--tag ṟṟi = Tamil script--></l>
+		<lg met="uncertain" n="1"><!-- 1 or 2 stanzas?-->
+			
+			<l n="a">
+				Ānma <gap reason="undefined" quantity="1" unit="character"/> kṣa <gap reason="undefined" quantity="2" unit="character"/> <unclear>sna</unclear>
+				<lb n="2" break="no"/>panam atisitam· lepanam· śuddha
+				<lb n="3" break="no"/>pam·
+			</l>
+			<l n="b">
+				tām·būlaṁ sannivedya prati<unclear>di</unclear>
+				<lb n="4" break="no"/><unclear>na</unclear>m aniśandīpam ekam·
+			</l>
+			<l n="c">
+				pradātum· kāṭ·ṭ<choice><orig>u</orig><reg>ū</reg></choice>r-ī
+				<lb n="5" break="no"/>ś<unclear>o</unclear> vinītaḥ svapatimatiharaḥ ṣaṣṭhim·
+			</l>
+			<l n="d">
+				<lb n="6"/>suvarṇṇam· bhakty<unclear>ā</unclear> paitāṁki kaṇṭho mu
+				<lb n="7" break="no"/><gap reason="undefined" quantity="2" unit="character"/> m adād oṟṟiyūreśvarāya<!--tag ṟṟi = Tamil script-->
+			</l>
 		</lg>
 	</div>
 	
@@ -163,7 +174,13 @@
 	<div type="textpart" n="A" xml:lang="san-Latn" rendition="class:38768 maturity:83213">
 	<head xml:lang="eng">Sanskrit Portion</head>	
 		
-		</div>
+		<app loc="1">
+			<lem>kṣa <gap reason="undefined" quantity="2" unit="character"/></lem>
+			<rdg source="bib:VenkatasubbaAyyar1943_01 bib:Mahalingam1988_01">kṣa <gap reason="undefined" quantity="4" unit="character"/></rdg>
+			<note>It seems that there is place only for two characters on the stone.</note>
+		</app>	
+	</div>		
+		
 	
 	<div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 	<head xml:lang="eng">Tamil Portion</head><listApp>
