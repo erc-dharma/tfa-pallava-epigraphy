@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>A series of names (mostly of persons, but also places) found on a group of rocks. Six names (A-F) are found on the rock locally known as <foreign>noṇṭi vīrappaṉ kutiraitoṭṭi</foreign> ("the watering place of the horse of Noṇṭi Vīrappaṉ"), one on a second rock nearby (G), one on a third rock in the same place (H).</summary>
+                  <summary>A series of names found on a group of rocks. The six first names (A, B, C, D, E, F) are found on the rock locally known as <foreign>noṇṭi vīrappaṉ kutiraitoṭṭi</foreign> ("the watering place of the horse of Noṇṭi Vīrappaṉ"), the seventh name (G) on a second rock nearby (G), the eighth name (H) on a third rock in the same place.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -188,7 +188,7 @@
          <app loc="2">
             <lem><hi rend="grantha">ma</hi> <gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/></lem>
             <rdg source="bib:VenkatasubbaAyyar1943_01"/>
-            <note>This line is not read by<bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>.</note><!--Delete <note>?-->
+            <note>This line is not read by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>.</note><!--Delete <note>?-->
          </app>
       </listApp>      
    </div>
@@ -255,7 +255,7 @@
    <div type="textpart" n="E" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
       <head>Fifth Name</head>
       <p>
-         Kaliyāṇi (Skt. Kalyāṇi).
+         Kaliyāṇi<note>That is, Sanskrit Kalyāṇi.</note>.
       </p>      
    </div>
    
@@ -288,20 +288,17 @@
          	
 <div type="bibliography">
    
-   <p>A-E first reported in </p>
-   <p>F first reported here.</p>
-   <p>G first reported in </p>
-   <p>H first reported in </p>
+   <p>A, B, C, D, E, and F first reported in <bibl n="ARIE 1932-1933"><ptr target="bib:ARIE1932-1933"/></bibl> (ARIE/1932-1933/B/1932-1933/105).</p>
+   <p>G first reported in first reported in <bibl n="ARIE 1932-1933"><ptr target="bib:ARIE1932-1933"/></bibl> (ARIE/1932-1933/B/1932-1933/106).</p>
+   <p>H first reported in first reported in <bibl n="ARIE 1932-1933"><ptr target="bib:ARIE1932-1933"/></bibl> (ARIE/1932-1933/B/1932-1933/107)</p>
    
    <p>
-      A-E, G-H first edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, n° 23A.1-7), with a facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 52.1-7); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020) from photographs (2011).
+      A, B, C, D, E, F and G, H first edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, n° 23A.1-7), with a facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 52.1-7); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020) from photographs (2011).
    </p>  
    
    <p>
       F first reported here and edited by Emmanuel Francis (2020) from photographs (2011).
-   </p>
-   
-   
+   </p>     
    
    <listBibl type="primary">
       
