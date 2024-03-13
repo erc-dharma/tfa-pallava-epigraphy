@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Pūñcēri name (1/8)</title>
+            <title>Pūñcēri, list of names</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,11 +47,11 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary></summary>
+                  <summary>A series of names (mostly of persons, but also places) found on a group of rocks. Six names (A-F) are found on the rock locally known as <foreign>noṇṭi vīrappaṉ kutiraitoṭṭi</foreign> ("the watering place of the horse of Noṇṭi Vīrappaṉ"), one on a second rock nearby (G), one on a third rock in the same place (H).</summary>
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p></p>
+                     <p>...</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -89,80 +89,255 @@
    <text xml:space="preserve">
       <body>
 
-      	<div type="edition" xml:lang="tam-Latn">
-      		
-      		<p>
-      			<lb n="1"/>ke<unclear reason="eccentric_ductus">v</unclear>āta-peru
-      			<lb n="2" break="no"/>n·tac·caṉ· <g type="finalGomutra">.</g>
-      		</p>      		
-      		
-      	</div>
+<div type="edition">
+   
+   <div type="textpart" n="A" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <head>First Name</head>
+      <p>
+         <lb n="1"/>ke<unclear reason="eccentric_ductus">v</unclear>āta-peru
+         <lb n="2" break="no"/>n·tac·caṉ· <g type="finalGomutra">.</g>
+      </p>    
+   </div>
+   
+   <div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <head>Second Name</head>
+      <p>
+         <lb n="1"/><hi rend="grantha">ku</hi>ṇa<hi rend="grantha">mal·laḥ</hi>
+      </p>      
+   </div>
+   
+   <div type="textpart" n="C" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <head>Third Name</head>
+      <p>
+         <lb n="1"/>pay<unclear>·</unclear>yami
+         <lb n="2" break="no"/>ḻip·pāṉ· <g type="finalGomutra">.</g>
+      </p>      
+   </div>
+   
+   <div type="textpart" n="D" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <head>Fourth Name</head>
+      <p>
+         <lb n="1"/>cātamukkiyaṉ·
+         <lb n="2"/><hi rend="grantha"><unclear>ma</unclear></hi> <gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/>
+      </p>      
+   </div>
+   
+   <div type="textpart" n="E" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <head>Fifth Name</head>
+      <p>
+         <lb n="1"/>kaliyā<unclear>ṇi</unclear>
+      </p>    
+   </div>
+   
+   <div type="textpart" n="F" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <head>Sixth Name</head>
+      <p>
+         <lb n="1"/>pe<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+      </p>      
+   </div>
+   
+   <div type="textpart" n="G" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <head>Seventh Name</head>
+      <p>
+         <lb n="1"/>na<hi rend="grantha">maḥ</hi> tiruvoṟṟiyūr Ā<hi rend="grantha">bhā</hi>jar <g type="finalGomutra">.</g>
+      </p>     
+   </div>
+   
+   <div type="textpart" n="H" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <head>Eighth Name</head>
+      <p>
+         <lb n="1"/>kol·laṉ<unclear>·</unclear> <hi rend="grantha"><unclear reason="eccentric_ductus">s</unclear></hi>emakaṉ·
+      </p>      
+   </div>     
+   
+</div>
 
-      	<div type="apparatus">
-      		
-      		<listApp>
-      			<app loc="1">
-      				<lem>ke<unclear reason="eccentric_ductus">v</unclear>āta°</lem>
-      				<rdg source="bib:VenkatasubbaAyyar1943_01">ke<unclear reason="eccentric_ductus">vā</unclear>ta°</rdg>
-      			</app>
-      			
-      		</listApp>
-      		
-         </div>
-
-      	<div type="translation" resp="part:emfr">
-      		
-      		<p>The great carpenter Kevātaṉ.</p>
-      		
-      	</div>
+<div type="apparatus">
+   
+   <div type="textpart" n="A" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <head>First Name</head>
+      <listApp>
+         <app loc="1">
+            <lem>ke<unclear reason="eccentric_ductus">v</unclear>āta°</lem>
+            <rdg source="bib:VenkatasubbaAyyar1943_01">ke<unclear reason="eccentric_ductus">vā</unclear>ta°</rdg>
+         </app>
          
-         <div type="commentary">
-         	<p>This inscription is part of a series of names found on a group of rocks. See also INSPallava00514-00520.<!--update!--> Six names (INSPallava00052, 00514-00517, 00520<!--update!-->) are found on the rock locally known as <foreign>noṇṭi vīrappaṉ kutiraitoṭṭi</foreign> ("the watering place of the horse of Noṇṭi Vīrappaṉ"), one on a second rock nearby (INSPallava00518), one on a third rock in the same place (INSPallava00519).<!--Update here and in INSPallava 514-520!--></p>
-         	<p><bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> notes: 
-         		<quote>The following seven labels are engraved in archaic Tamil and Grantha characters on a group of rocks, one of which, on account of a natural cavity in it, is locally known as 'Noṇḍi Vīrappaṉ Kudiraitoṭṭi'. The names Kevadaperundachchaṉ and Kollaṉ Śēmagaṉ found in this place indicate that the persons bearing these names belonged to the artisan class. One of the labels also gives the name Guṇamallaḥ.</quote></p>
-         </div>
-         	
-         <div type="bibliography">
+      </listApp>  
+   </div>
+   
+   <div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <head>Second Name</head>
+      
+      <listApp>
+         <app loc="1">
+            <lem><hi rend="grantha">ku</hi>ṇa<hi rend="grantha">mal·laḥ</hi></lem>
+            <rdg source="bib:ARIE1932-1933"><hi rend="grantha">ku</hi>ṇa<hi rend="grantha">mal·la</hi></rdg>
+         </app>
+      </listApp>
+      
+   </div>
+   
+   <!--<div type="textpart" n="C" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <head>Third Name</head>
+      
+      </div>-->
+   
+   <div type="textpart" n="D" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <head>Fourth Name</head>
+      <listApp>
+         <app loc="2">
+            <lem><hi rend="grantha">ma</hi> <gap reason="illegible" unit="character" quantity="1"/> <gap reason="lost" extent="unknown" unit="character"/></lem>
+            <rdg source="bib:VenkatasubbaAyyar1943_01"/>
+            <note>This line is not read by<bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>.</note><!--Delete <note>?-->
+         </app>
+      </listApp>      
+   </div>
+   
+   <!--<div type="textpart" n="E" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <head>Fifth Name</head>
+      
+      </div>-->
+   
+   <!--<div type="textpart" n="F" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <head>Sixth Name</head>
+      
+      </div>-->
+   
+   <div type="textpart" n="G" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <head>Seventh Name</head>
+      <listApp>
+         <app loc="1">
+            <lem>tiruvoṟṟiyūr</lem>
+            <rdg source="bib:ARIE1932-1933">tiruvoṟṟiyūr</rdg>
+            <rdg source="bib:VenkatasubbaAyyar1943_01">tiruveṟṟiyūr</rdg>
+            <note>It seems that this reading <foreign>tiruveṟṟiyūr</foreign> by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> is a typo. The ARIE reads <foreign>tiruvoṟṟiyūr</foreign>. <bibl><ptr target="bib:Kasinathan2007_01"/></bibl> also reads <foreign>tiruvorriyūr</foreign> or interprets the reading as such. This reading could not however be checked by lack of visual documentation. </note> 
+         </app>
+      </listApp>    
+   </div>
+   
+   <!-- <div type="textpart" n="H" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <head>Eighth Name</head>
+      
+      </div>-->  
+   
+</div>
 
-         	<p>
-First edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, n° 23-A/1), with a facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 52.1); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020) from photographs (2011).
-         	</p>
+<div type="translation" resp="part:emfr">
             
-         	<listBibl type="primary">
-         		
-         		<bibl n="VVA">
-         			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
-         			<citedRange unit="page">11</citedRange>
-         			<citedRange unit="item">23-A</citedRange>
-         			<citedRange unit="plate">II</citedRange>
-         		</bibl>
-         		
-         		<bibl n="TVM">
-         			<ptr target="bib:Mahalingam1988_01"/>
-         			<citedRange unit="page">168</citedRange>
-         			<citedRange unit="item">52</citedRange>
-         			
-         		</bibl>
-         		
-         	</listBibl>
-         	
-         	<listBibl type="secondary">
-         		
-         		<bibl n="ARIE 1932-1933">
-         			<ptr target="bib:ARIE1932-1933"/>
-         			<citedRange unit="page">17</citedRange>
-         			<citedRange unit="appendix">B/1932-1933</citedRange>
-         			<citedRange unit="item">105</citedRange>
-         		</bibl>
-         		
-         		<bibl>
-         			<ptr target="bib:Kasinathan2007_01"/>
-         			<citedRange unit="page">14</citedRange>
-         		</bibl>
-         		
-         	</listBibl>
-         	
+   <div type="textpart" n="A" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <head>First Name</head>
+      <p>
+         The great carpenter Kevātaṉ.
+      </p>    
+   </div>
+   
+   <div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <head>Second Name</head>
+      <p>
+         The virtue wrestler.
+      </p>      
+   </div>
+   
+   <div type="textpart" n="C" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <head>Third Name</head>
+      <p>
+         Payyamiḻippāṉ.
+      </p>      
+   </div>
+   
+   <div type="textpart" n="D" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <head>Fourth Name</head>
+      <p>
+         Cātamukkiyaṉ <gap reason="ellipsis"/>
+      </p>      
+   </div>
+   
+   <div type="textpart" n="E" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <head>Fifth Name</head>
+      <p>
+         Kaliyāṇi (Skt. Kalyāṇi).
+      </p>      
+   </div>
+   
+   <div type="textpart" n="F" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <head>Sixth Name</head>
+      <p>
+         Pe<gap reason="illegible"/>.
+      </p>      
+   </div>
+   
+   <div type="textpart" n="G" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <head>Seventh Name</head>
+      <p>
+         Homage! Ābhājar of Tiruvoṟṟiyūr.
+      </p>      
+   </div>
+   
+   <div type="textpart" n="H" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <head>Eighth Name</head>
+      <p>
+         Koḷḷaṉ Semakaṉ.
+      </p>      
+   </div>
+   
+</div>
+         <div type="commentary">
+         	<p><bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> notes about A-E, G-H: 
+         		<quote>The following seven labels are engraved in archaic Tamil and Grantha characters on a group of rocks, one of which, on account of a natural cavity in it, is locally known as 'Noṇḍi Vīrappaṉ Kudiraitoṭṭi'. The names Kevadaperundachchaṉ and Kollaṉ Śēmagaṉ found in this place indicate that the persons bearing these names belonged to the artisan class. One of the labels also gives the name Guṇamallaḥ. On account of their palaeographical interest, these labels, as also the one given in the previous inscription <supplied reason="explanation">SII 12.23 = IP ***<!--update!--></supplied>, are included here and some of them are reproduced on plate VI <supplied reason="explanation">plate II in fact</supplied>.</quote></p>
          </div>
+         	
+<div type="bibliography">
+   
+   <p>A-E first reported in </p>
+   <p>F first reported here.</p>
+   <p>G first reported in </p>
+   <p>H first reported in </p>
+   
+   <p>
+      A-E, G-H first edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, n° 23A.1-7), with a facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 52.1-7); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020) from photographs (2011).
+   </p>  
+   
+   <p>
+      F first reported here and edited by Emmanuel Francis (2020) from photographs (2011).
+   </p>
+   
+   
+   
+   <listBibl type="primary">
+      
+      <bibl n="VVA">
+         <ptr target="bib:VenkatasubbaAyyar1943_01"/>
+         <citedRange unit="page">11</citedRange>
+         <citedRange unit="item">23-A</citedRange>
+         <citedRange unit="plate">II</citedRange>
+      </bibl>
+      
+      <bibl n="TVM">
+         <ptr target="bib:Mahalingam1988_01"/>
+         <citedRange unit="page">168</citedRange>
+         <citedRange unit="item">52</citedRange>
+         
+      </bibl>
+      
+   </listBibl>
+   
+   <listBibl type="secondary">
+      
+      <bibl n="ARIE 1932-1933">
+         <ptr target="bib:ARIE1932-1933"/>
+         <citedRange unit="page">17</citedRange>
+         <citedRange unit="appendix">B/1932-1933</citedRange>
+         <citedRange unit="item">105, 106, 107</citedRange>
+      </bibl>
+      
+      <bibl>
+         <ptr target="bib:Kasinathan2007_01"/>
+         <citedRange unit="page">14</citedRange>
+      </bibl>
+      
+   </listBibl>
+   
+</div>
 
       </body>
   </text>
