@@ -121,7 +121,7 @@
 		i<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ellil-t <unclear>ti</unclear>
 		<lb n="24" break="no"/>ru-v-amirtukku nellu Aṟu nūṟṟu
 		<lb n="25" break="no"/>-k kāṭiyum tiru-v-uṇṇāḻikaiyu<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice> ār<unclear>ā</unclear>
-		<lb n="26" break="no"/>ti<unclear>t</unclear>t’ u<surplus>p</surplus>pācarikkum <hi rend="grantha"><unclear>śiva</unclear></hi>-<hi rend="grantha">brāhma</hi>ṇa
+		<lb n="26" break="no"/>ti<unclear>t</unclear>tu-p par<choice><orig>a</orig><reg>i</reg></choice>carikkum <hi rend="grantha">śiva</hi>-<hi rend="grantha">brāhma</hi>ṇa
 		<lb n="27" break="no"/>rkku nellu Ai<choice><orig>ñ</orig><reg>n</reg></choice>
 		<lb n="28" break="no"/>-<choice><orig>ñ</orig><reg>n</reg></choice>ūṟṟu-k kāṭiyum <hi rend="grantha">śrī</hi>-pa
 		<lb n="29" break="no"/>li-koṭṭuvārk=ku nellu
@@ -165,6 +165,11 @@
 		<app loc="3">
 			<lem>t<choice><sic>i</sic><corr>ī</corr></choice>kk<unclear>ā</unclear></lem>
 			<rdg source="bib:Hultzsch1899_01"/>
+		</app>
+		
+		<app loc="26">
+			<lem>par<choice><orig>a</orig><reg>i</reg></choice>carikkum</lem>
+			<rdg source="bib:Hultzsch1899_01">pācarikkum</rdg>
 		</app>
 		
 		<app loc="38">
@@ -245,12 +250,11 @@ to this god as long as the moon and the sun.
     		
     	</div>-->
             
-    	<div type="bibliography">
+<div type="bibliography">
     		
-<p>
-First edited and translated by <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> (SII 3, no. 43); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 132).</p>
-    		<p>Encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis, based on previous editions.
-</p>
+	<p>First edited and translated by <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> (SII 3, no. 43); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 132).</p>
+	<p>Encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis, based on previous editions.</p>
+	<p>Thanks to Dr. Marxiagandhi and Sudalaimuthu Palaniappan for their input for the improved reading in line 26.</p>
     		
 <listBibl type="primary">
     	      
