@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kāñcīpuram, Mukteśvara, time of Nandivarman II, year 28</title>
+				<title>Kāñcīpuram, Mukteśvara, time of Nandivarman, year 28</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -184,7 +184,7 @@
                
                <lb n="4"/>
                <milestone unit="block" n="7"/><label xml:lang="eng">southern base of <foreign>vimāna</foreign></label>
-               <unclear reason="eccentric_ductus">ma</unclear><hi rend="grantha">ntrācāryya</hi>r aivar· viḷak=kun= tavacikaṇāvar· paṉṉiruvar tavacikaḷ uṇ·ṇa-k k<unclear>u</unclear>ṭukka taḷiyāḷ·vār <unclear>ū</unclear>ṭṭārāka paṉṉiruva
+               <unclear reason="eccentric_ductus">ma</unclear><hi rend="grantha">ntrācāryya</hi>r aivar· viḷak=kun= tavaci-kaṇāvar· paṉṉiruvar tavacikaḷ uṇ·ṇa-k k<unclear>u</unclear>ṭukka taḷiyāḷ·vār <unclear>ū</unclear>ṭṭārāka paṉṉiruva
                
                <milestone unit="block" n="8" break="no"/><label xml:lang="eng">southern base of <foreign>vimāna</foreign></label>
                r kut=tikaḷai <choice><unclear>p</unclear><unclear>m</unclear></choice><!--check!-->eyitu kuṭut=tēṉ
@@ -204,7 +204,7 @@
                It-taḷi-puṟam-āṉa nāyvaṭṭi k<unclear>u</unclear>ḷattūrum· It<unclear>=t</unclear>aḷi parivāramum· taḷiyum·
             </p>
             <p>  
-               I<hi rend="grantha">dharmma</hi>m· Aḻiy<unclear>ā</unclear>mai k<unclear>ā</unclear>t=tāṉ aṭi eṉ· muṭi mēl-atu
+               I<hi rend="grantha">dharmma</hi>m· Aḻiy<unclear>ā</unclear>mai k<unclear>ā</unclear>t=tāṉ aṭi Eṉ· muṭi mēl-atu
             </p>      		
             
          </div>
@@ -287,11 +287,19 @@
       	</div>
       	
       	      	
-         <div type="commentary">
-         	<p>The king of the regnal year is identified as Nandivarman II, because of the high regnal year (28th).</p>
-         </div>
+<div type="commentary">
          	
-      	<div type="bibliography">
+	<p>
+		The king of the regnal year is identified as Nandivarman II, because of the high regnal year (28th).
+	</p>
+	
+	<!--
+		S. Palaniappan:
+		For the name tavacikaṇāvar, you may want to explain it as made up of tavaci (<tapasvin) +kaṇa (<gaṇa) +ar.
+		For the Tamil morphophonemic rule 3.2 that applies here, see 'A reference grammar of Classical Tamil Poetry’ by V. S. Rajam, 1992, American Philosophical Society, Philadelphia, p. 70.-->
+</div>
+         	
+<div type="bibliography">
       		<p>      			
       			First edited by <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4, n° 827), with a facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 80); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy, photos (2015), and the facsimile published in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>. Some characters now lost are legible on this facsimile.
       		</p>
