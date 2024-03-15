@@ -87,14 +87,43 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-
-<div type="edition" xml:lang="san-Latn" rendition="class:38768 maturity:83213">
-         	<!--Encoding issues! columns and marginal headings!-->
-   <p>
+         
+<div type="edition" xml:lang="san-Latn" rendition="class:38768 maturity:83213">         	
+   
+   <div type="textpart" n="A"><head>Blessings</head>
+      <p>      
       <lb n="1"/>siddhaM namaḥ <surplus><g type="danda">.</g></surplus> śivāya<surname>ḥ</surname> <g type="ddanda">.</g>
    </p>
-   	
-</div>
+   </div>
+   
+   <div type="textpart" n="B"><head>Section 1</head>
+   </div>
+   
+   <div type="textpart" n="C"><head>Section 2</head>
+   </div>
+   
+   <div type="textpart" n="D"><head>Section 3</head>
+   </div>
+   
+   <div type="textpart" n="E"><head>Section 4</head>
+   </div>
+   
+   <div type="textpart" n="F"><head>Section 5</head>
+   </div>
+   
+   <div type="textpart" n="G"><head>Section 6</head>
+   </div>
+   
+   <div type="textpart" n="H"><head>Section 7</head>
+   </div>
+   
+   <div type="textpart" n="I"><head>Coda 1</head>
+   </div>
+         
+   <div type="textpart" n="J" xml:lang="tam-Latn" rendition="class:38776 maturity:83215"><head>Coda 2</head>
+   </div>
+   
+</div>         
 
 <!--<div type="apparatus">
             
@@ -111,8 +140,10 @@
          
 <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
 	
-	<p>Disciple de Śrī-Rudrācārya, sectateur passionné de Maheśvara, le roi a composé ce traité sur les notes de musique, pour être utile à ses disciples.</p>
-		
+   <div type="textpart" n="I"><head>Coda 1</head>
+      <p>Disciple de Śrī-Rudrācārya, sectateur passionné de Maheśvara, le roi a composé ce traité sur les notes de musique, pour être utile à ses disciples.</p>
+   </div>   
+   
 </div>
       	
  <div type="commentary">    
