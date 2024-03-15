@@ -409,7 +409,7 @@
 </p>
       	
 	<p>
-		First edited and translated in <bibl><ptr target="bib:Subramaniam1959_01"/></bibl> (TASSI 1958-1959), with photos; text of the Tamil portion in <bibl><ptr target="bib:Zvelebil1964_01"/></bibl>; re-edited in <bibl><ptr target="bib:Subramaniam1966_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 17); text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 14).
+		First edited and translated in <bibl><ptr target="bib:Subramaniam1959_01"/></bibl> (TASSI 1958-1959), with photos; text of the Tamil portion in <bibl><ptr target="bib:Zvelebil1964_01"/></bibl>; re-edited in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 17); text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 14).
 	</p>
 	
 	<p>
@@ -426,8 +426,8 @@
             		<ptr target="bib:Zvelebil1964_01"/>
             	</bibl>
             	
-            	<bibl n="TNS1966">
-            		<ptr target="bib:Subramaniam1966_01"/>
+            	<bibl n="TNS">
+            		<ptr target="bib:Subrahmanian1966_01"/>
             	</bibl>
 
             	<bibl n="TVM">
@@ -436,7 +436,7 @@
             		<citedRange unit="item">17</citedRange>
             	</bibl>
 
-            	<bibl n="SB">
+            	<bibl n="B">
             		<ptr target="bib:Brocquet1997_01"/>
             		<citedRange unit="page">TBC</citedRange>
             		<citedRange unit="item">14</citedRange>
