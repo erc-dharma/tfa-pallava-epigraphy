@@ -291,7 +291,7 @@
    <p>H first reported in first reported in <bibl n="ARIE 1932-1933"><ptr target="bib:ARIE1932-1933"/></bibl> (ARIE/1932-1933/B/1932-1933/107)</p>
    
    <p>
-      A, B, C, D, E, F and G, H first edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, n° 23A.1-7), with facsimiles (of A, B, C, D, H); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 52.1-7); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020) based on published visual documentation and photographs (Emmanuel Francis, 2011).
+      A, B, C, D, E, F and G, H first edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, n° 23A.1-7), with facsimiles (of A, B, C, D, H); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 52.1-7); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020) based on published visual documentation and photographs (Emmanuel Francis, 2011).
    </p>  
    
    <p>
@@ -300,14 +300,14 @@
    
    <listBibl type="primary">
       
-      <bibl n="VVA">
+      <bibl n="SII">
          <ptr target="bib:VenkatasubbaAyyar1943_01"/>
          <citedRange unit="page">11</citedRange>
          <citedRange unit="item">23-A</citedRange>
          <citedRange unit="plate">II</citedRange>
       </bibl>
       
-      <bibl n="TVM">
+      <bibl n="IP">
          <ptr target="bib:Mahalingam1988_01"/>
          <citedRange unit="page">168</citedRange>
          <citedRange unit="item">52</citedRange>
