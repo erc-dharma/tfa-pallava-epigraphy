@@ -92,7 +92,7 @@
       <div type="edition" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
          
          <p xml:lang="san-Latn" rendition="class:38768 maturity:83213">
-            <lb n="1"/>Anava<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg>ta-citta<unclear>ṉ</unclear>
+            <lb n="1"/>Anava<supplied reason="lost">sth</supplied>ita-citta<unclear>ṉ</unclear>
          </p>
          
          <p xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
@@ -107,7 +107,7 @@
          		<app loc="1">
          			<lem>Anava<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg>ta-citta<unclear>ṉ</unclear></lem>
          		   <note>
-         			S. Deepika reads <foreign>Anavanītacittaṉ</foreign> in a<ref target="https://www.academia.edu/25492492">paper</ref> on Academia.edu.</note>
+         			S. Deepika reads <foreign>Anavanītacittaṉ</foreign> in a <ref target="https://www.academia.edu/25492492">paper</ref> on Academia.edu.</note>
          		   
          		</app>         		
          		
