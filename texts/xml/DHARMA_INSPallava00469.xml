@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Hero-stone commemorating the demise of Iṟaiyamaṉ of Tōkaipāṭi during a cattle-raid in Tōkaipāṭi.</summary>
+						<summary>Hero-stone commemorating the demise of Kattaiyaṉ, son of Iṟaiyamaṉ of Tōkkaipāṭi during a cattle-raid in Tōkkaipāṭi.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -88,7 +88,7 @@
       	<div type="edition" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
       		
       		<ab>
-      			<lb n="1"/><hi rend="grantha"><unclear>s</unclear></hi><unclear>pa</unclear> <hi rend="grantha">śri</hi> ri
+      			<lb n="1"/><hi rend="grantha"><unclear>s</unclear></hi><unclear>pa</unclear><hi rend="grantha">śri</hi> ri
       			
       		</ab>
       		
@@ -96,7 +96,7 @@
       			tōkkai-pāṭi
       			<lb n="2"/>Iṟaiyamaṉ makaṉ kattaiya
       			<lb n="3" break="no"/>ṉ <unclear>t</unclear>ōkkai-pāṭi toṟum <choice><orig>i</orig><reg>ī</reg></choice>ṭṭu
-      			<lb n="4" break="no"/>p pa<choice><sic>p</sic><corr>ṭ</corr></choice>ṭāṉ
+      			<lb n="4" break="no"/>-p-pa<choice><sic>p</sic><corr>ṭ</corr></choice>ṭāṉ
       		</p>    
       		
          </div>
@@ -106,7 +106,7 @@
          		
          		<app loc="1">
          			<lem><hi rend="grantha"><unclear>s</unclear></hi><unclear>pa</unclear> <hi rend="grantha">śri</hi> ri</lem>
-         			<note>The word <hi rend="grantha">svasti</hi> is obviously intended here.</note>
+         			<note>The word <foreign><hi rend="grantha">svasti</hi></foreign> is obviously intended here.</note>
          		</app>
          		         		      	         		
          	</listApp>
@@ -119,8 +119,8 @@
       	 		Prosperity! Fortune!
       	 	</p>
       	 	
-      	 	<p n="2-3">
-      	 		...
+      	 	<p n="2-4">
+      	 		Kattaiyaṉ, son of Iṟaiyamaṉ of Tōkkaipāṭi, became weak <supplied reason="explanation"><foreign>īṭṭupaṭṭān</foreign><note>That is, "died".</note></supplied> <supplied reason="subaudible">during</supplied> a cattle-raid in Tōkkaipāṭi
       	 	</p>
       	 	
       	 	
@@ -133,22 +133,21 @@
 <div type="bibliography">
 	
 	<p>
-		Quoted (partially) in <!--<bibl><ptr target="bib:"/></bibl>-->.
+		Quoted (partially) in <bibl><ptr target="bib:Nakacami1972_02"/></bibl>.
 	</p>
 	<p>
 		Edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on photos (EFEO, 2099).
 	</p>
 	
-         	         	<!--Add ref. bibl-->
-         	<!--<listBibl type="secondary">
+         	<listBibl type="secondary">
          		
-         		<bibl n="">
-         			<ptr target="bib:"/>
+         		<bibl>
+         			<ptr target="bib:Nakacami1972_02"/>
          			<citedRange unit="page">124</citedRange>
          			
          		</bibl>
          		
-         	</listBibl>-->
+         	</listBibl>
 
          </div>
       	
