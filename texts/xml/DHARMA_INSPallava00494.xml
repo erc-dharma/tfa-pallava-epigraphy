@@ -105,9 +105,9 @@
          	<listApp>
          		
          		<app loc="1">
-         			<lem></lem>
+         			<lem>Anava<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg>ta-citta<unclear>ṉ</unclear></lem>
          		   <note>
-         			S. Deepika reads <foreign xml:lang="tam-Latn">Anavanītacittaṉ</foreign>.</note>
+         			S. Deepika reads <foreign>Anavanītacittaṉ</foreign> in a<ref target="https://www.academia.edu/25492492">paper</ref> on Academia.edu.</note>
          		   
          		</app>         		
          		
@@ -116,8 +116,12 @@
          </div>
 
 <div type="translation" resp="part:emfr">
+   
+   <p n="1">The unsteady-minded one.</p>
+   
+   <p n="2"><gap reason="ellipsis"/></p>
             
-         </div>
+</div>
       	
 <div type="commentary">
          	
