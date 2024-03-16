@@ -100,13 +100,13 @@
 	<p>
 		v<choice><orig>ī</orig><reg>i</reg></choice>ṭēl<unclear>·</unclear>
 		<lb n="4" break="no"/>-viṭuku mut·taraiyaṉ-āyiṉa
-		<lb n="5"/><unclear>ku</unclear>vāvañ cāt·taṉ· t<choice><orig>ī</orig><reg>i</reg></choice>ruvāla
-		<lb n="6" break="no"/>ttūr-p paṭārkku-t tiru
+		<lb n="5"/><unclear>ku</unclear>vāvañ cāt·taṉ· t<choice><orig>ī</orig><reg>i</reg></choice>ru-vāla
+		<lb n="6" break="no"/>ttūr-p paṭāra<unclear>r</unclear>kku-t tiru
 		<lb n="7" break="no"/>viḷak·ku ney Aṭṭa vait
 		<lb n="8" break="no"/>t<unclear>a</unclear> kuṭi
 		
 		<unclear>m</unclear>āyāṉ kāṭaṉum
-		<lb n="9"/><unclear>m</unclear>āyāṉ v<choice><orig>ī</orig><reg>i</reg></choice>ll<choice><orig>ī</orig><reg>i</reg></choice>yum k * r<choice><orig>ī</orig><reg>i</reg></choice>
+		<lb n="9"/><unclear>m</unclear>āyāṉ v<choice><orig>ī</orig><reg>i</reg></choice>ll<choice><orig>ī</orig><reg>i</reg></choice>yum k <gap reason="illegible" unit="character" quantity="1"/> r<choice><orig>ī</orig><reg>i</reg></choice>
 		<lb n="10"/><unclear>vait</unclear>tuvaṉum ka <gap reason="illegible" unit="character" quantity="1"/> ar<choice><orig>ī</orig><reg>i</reg></choice> naṅkaḷ ma
 		<lb n="11" break="no"/>kkaḷum nakkaṉ <unclear>koṇai</unclear> <gap reason="illegible" unit="character" quantity="1"/>
 		<lb n="12" break="no"/>m <unclear>nakka</unclear>ṉ <gap reason="illegible" unit="character" quantity="2"/> ṉum ka	
@@ -114,9 +114,7 @@
 		
 	         </div>
 
-         <!--<div type="apparatus">
-
-         	
+         <!--<div type="apparatus">       	
 
          </div>-->
 
@@ -131,7 +129,14 @@
 	</p>
 	
 	<p n="3-12">
-		The people <supplied reason="explanation"><foreign>kuṭi</foreign></supplied> that ... assigned <supplied reason="explanation"><foreign>vaitta</foreign></supplied> ...
+		The people <supplied reason="explanation"><foreign>kuṭi</foreign></supplied> that Kuvāvaṉ Cāttaṉ <hi rend="italic">alias</hi> Viṭēlviṭuku Muttaraiyaṉ assigned <supplied reason="explanation"><foreign>vaitta</foreign><note>Literally, "endowed", "gave".)</note></supplied> so as to supply oil for a glorious lamp for the god <supplied reason="explanation"><foreign>paṭārar</foreign></supplied> of Tiruvalattūr <supplied reason="subaudible">are</supplied>:
+		Māyāṉ Kāṭaṉ,
+		Māyāṉ villi,
+		<gap reason="ellipsis"/>,
+		<gap reason="ellipsis"/>,
+		our relatives,
+		Nakkaṉ Koṇai,
+		Nakkaṉ <gap reason="ellipsis"/>.		
 	</p>
 	
 </div>
