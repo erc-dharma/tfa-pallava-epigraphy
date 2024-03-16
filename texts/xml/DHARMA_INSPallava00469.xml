@@ -105,7 +105,7 @@
          	<listApp>
          		
          		<app loc="1">
-         			<lem><hi rend="grantha"><unclear>s</unclear></hi><unclear>pa</unclear> <hi rend="grantha">śri</hi> ri</lem>
+         			<lem><hi rend="grantha"><unclear>s</unclear></hi><unclear>pa</unclear><hi rend="grantha">śri</hi> ri</lem>
          			<note>The word <foreign><hi rend="grantha">svasti</hi></foreign> is obviously intended here.</note>
          		</app>
          		         		      	         		
@@ -126,9 +126,11 @@
       	 	
       	</div>
       	
-         <div type="commentary">
+<div type="commentary">
          	
-         </div>
+         	<p>Probably dated to the Pallava period, on arguments based on paleography.</p>
+         
+</div>
       	
 <div type="bibliography">
 	
