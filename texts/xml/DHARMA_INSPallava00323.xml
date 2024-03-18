@@ -80,7 +80,8 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
+			<change who="part:axja" when="2020-11-03" status="draft"
+				>Updating toward the encoding template v03</change>
 			<change who="part:emfr" when="2020-03-06" status="draft">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
