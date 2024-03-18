@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Vēṭal, boulder</title>
+            <title>Vēṭal, boulder, time of Nandin, year 14</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,7 +47,11 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>...</summary>
+                  <summary>
+                     <bibl>
+                        <ptr target="bib:ARIE1908-1909"/>
+                     </bibl>: <quote>Mentions <foreign>viṭāl</foreign> and <foreign>viṭārpaḷḷi</foreign> (probably), ’the Jaina temple at Viṭāl.’ </quote>
+                  </summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -104,9 +108,21 @@
       		
       	</div>
       	
-      	<div type="commentary">
+<div type="commentary">
       		
-      	</div>
+	<p>
+		<bibl><ptr target="bib:ARIE1908-1909"/></bibl> (p. 77, §18) notes:<note>Quotation updated to DHARMA transliteration scheme.</note>
+		<quote>No. 82 of 1908 which is engraved on a boulder near a natural cavern called
+			Āṇṭār-maṭam at Veṭāl in the North Arcot district, belongs to the fourteenth year of
+			a certain Nandi<!--EF: check/update spelling--> and mentions a <foreign>paḷḷi</foreign> or
+			Jaina hermitage at Veṭāl. It cannot be
+			stated with certainty who this Nandi was. But as an inscription at Pāñcapāṇḍavamalai
+			written in the same old alphabet is dated in the 50th year of Nantippōttaraicar,
+			who has been identified with the Pallava king Nandivarman and as this latter is also
+			called Nandin in the Utayēntiram plates it may not be far wrong to suppose that
+			Nandi of the Veṭāl inscription is identical with Nandivarman Pallavamalla.</quote>
+	</p>
+</div>
       	
 <div type="bibliography">
 
@@ -127,7 +143,7 @@
       
       <bibl>
          <ptr target="bib:ARIE1908-1909"/>
-         <citedRange unit="page">13</citedRange>
+         <citedRange unit="page">13, 77 (§18)</citedRange>
          <citedRange unit="appendix">B/1908</citedRange>
          <citedRange unit="item">82</citedRange>
       </bibl>              
