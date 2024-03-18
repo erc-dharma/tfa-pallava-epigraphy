@@ -47,7 +47,9 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary><bibl><ptr target="bib:ARIE1937-1938"/></bibl>: <quote>...</quote></summary>
+						<summary><bibl>
+								<ptr target="bib:ARIE1937-1938"/>
+						</bibl> (p. 53): <quote>Fragment. Registers gift of a village for offerings and lamp, by Mahādēvaṭikaḷ<!--EF check orginal spelling-->, the daughter of Vāṇakōvaraiyar Siddhavaṭavaṉār<!--EF check orginal spelling--> (with the permission of her elder brother) <gap reason="lost" quantity="6" unit="character"/> yar Vayirimēkaṉār. Another fragment in the same place dated in the 7th year, probably of the same king, registers gift of gold for offerings to the god by Pullāli Cāttaṉ.</quote></summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
