@@ -49,7 +49,7 @@
 					<msContents>
 						<summary><bibl>
 								<ptr target="bib:ARIE1937-1938"/>
-						</bibl> (p. 53): <quote>In characters of the 9th century A.D. Registers gift of gold by Cāttaṉ <gap reason="lost" quantity="4" unit="character"/> of Pāṇṭi-nāṭu for a lamp in the temple.</quote></summary>
+							</bibl> (p. 53): <quote>In characters of the 9th century A.D. Registers gift of gold by Cāttaṉ . . . . of Pāṇṭi-nāṭu for a lamp in the temple.</quote></summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -134,7 +134,7 @@
       
       <bibl>
          <ptr target="bib:ARIE1937-1938"/>
-         <citedRange unit="page">53, 87 (§23)</citedRange>
+         <citedRange unit="page">53, 86-87 (§23)</citedRange>
          <citedRange unit="appendix">B/1937-1938</citedRange>
          <citedRange unit="item">468</citedRange>
       </bibl>              
