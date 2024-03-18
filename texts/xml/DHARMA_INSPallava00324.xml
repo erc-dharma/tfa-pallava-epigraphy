@@ -40,21 +40,21 @@
 				</availability>
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary><bibl><ptr target="bib:ARIE1937-1938"/></bibl>: <quote>Highly damaged. Mentions the <foreign>sabhā</foreign> of Niṉṟavūr.</quote></summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p/>
-						</handDesc>
-					</physDesc>
-				</msDesc>
+<sourceDesc>
+	<msDesc>
+		<msIdentifier>
+			<repository>DHARMAbase</repository>
+			<idno/>
+		</msIdentifier>
+		<msContents>
+			<summary><bibl><ptr target="bib:ARIE1937-1938"/></bibl>: <quote>Highly damaged. Mentions the <foreign>sabhā</foreign> of Niṉṟavūr.</quote></summary>
+		</msContents>
+		<physDesc>
+			<handDesc>
+				<p/>
+			</handDesc>
+		</physDesc>
+	</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
