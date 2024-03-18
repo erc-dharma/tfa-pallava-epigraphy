@@ -50,8 +50,8 @@
                   <summary>
                      <bibl>
                         <ptr target="bib:ARIE1939-1943"/>
-                     </bibl>: <quote>
-						Damaged. Mentions Kalanippā[kka*]m in Mēyāṟu-nāḍu and refers to a <foreign>[ka]ṉṉāḍu</foreign> evidently erected in memory of the hero, who is represented in relief near the inscription with a bow and arrow in his hands.</quote>
+                     </bibl>: <quote>Damaged. Mentions Kalanippā<supplied reason="omitted">kka</supplied>m in Mēyāṟu-nāṭu and refers to a <foreign>
+                           <supplied reason="undefined">ka</supplied>ṉṉāṭu</foreign> evidently erected in memory of the hero, who is represented in relief near the inscription with a bow and arrow in his hands.</quote>
                   </summary>
                </msContents>
                <physDesc>
@@ -118,6 +118,7 @@
 
    <p>First reported in <bibl><ptr target="bib:ARIE1886-1887"/></bibl> (ARIE/1886-1887/II/1886-1887/55); reported again in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1939-1940/207).</p>
    <p>Date phrase first edited by <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1, no. 125); summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 321).</p>
+	<p>ASI transcript and estampage yet to be consulted.</p>
    
    <listBibl type="primary">
       

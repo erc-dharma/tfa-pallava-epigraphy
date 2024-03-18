@@ -8,8 +8,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Cīyamaṅkalam pillar inscription, construction of a sluice, time of
-					Dantivarman, year 4</title>
+            <title>Cīyamaṅkalam, pillar, construction of a sluice, time of
+					Dantivikramavarman, year 4</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -48,7 +48,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Construction of a sluice by Aṭavi from Tiruppālaiyūr.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -94,21 +94,21 @@
       		
       		<p>
       			<lb n="1"/>kō-vicaiya-ta
-      			<lb n="2" break="no"/>nti-vikkiramaparu
+      			<lb n="2" break="no"/>nti-vikkirama-paru
       			<lb n="3" break="no"/>maṟk<choice><orig>i</orig><reg>u</reg></choice> yāṇṭu nā
       			<lb n="4" break="no"/>l-āvatu
       		</p>
       		<p>
       			Ūṟṟu-k
       			<lb n="5" break="no"/>-kāṭṭu-k-kōṭṭattu-p
-      			<lb n="6"/>perump<unclear>ā</unclear>lai-Ūr
-      			<lb n="7" break="no"/>-t tiruppālai-Ūr
+      			<lb n="6"/>perum-p<unclear>ā</unclear>lai-Ūr
+      			<lb n="7" break="no"/>-t tiru-p-pālai-Ūr
       			<lb n="8"/>kiḻava<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> a<unclear>ṭa</unclear>vi <hi rend="grantha">śrī</hi>
       			<lb n="9" break="no"/>-kaṅkar<choice><orig>e</orig><reg>ai</reg></choice>yar nērkuṭ
       			<lb n="10" break="no"/>ṭi perumāṉārk=ku vi
       			<lb n="11" break="no"/>ṇṇappañ cey
-      			<lb n="12" break="no"/><unclear>t</unclear>u ceyvi[tta]tu
-      			<lb n="13"/>kumāravāyt tūm
+      			<lb n="12" break="no"/><unclear>t</unclear>u ceyvi<unclear>tta</unclear><!--EF: or supplied; check-->tu
+      			<lb n="13"/>kumāra-vāy-t tūm
       			<lb n="14" break="no" style="text-align: center"/>pu
       		</p>     		
       		
@@ -131,13 +131,13 @@
 
          <div type="bibliography">
 
-            <p>
-Summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 323); first edited and translated (?) here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy and photographs (2019).
-            </p>
+            <p>First reported in <bibl><ptr target="bib:ARIE1956-1957"/></bibl> (ARIE/1956-1957/B/1956-1957/131).</p>
+         	<p>Summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 323); first edited and translated (?) here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy and photographs (Emmanuel Francis, 2019).
+         	</p>
 
          	<listBibl type="primary">
          		
-         		<bibl n="TVM">
+         		<bibl n="IP">
          			<ptr target="bib:Mahalingam1988_01"/>
          			<citedRange unit="item">323</citedRange>
          			<citedRange unit="page">722</citedRange>
@@ -147,9 +147,9 @@ Summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 323); firs
          	
          	<listBibl type="secondary">
          		
-         		<bibl n="ARIE1956-1957">
+         		<bibl n="ARIE">
          			<ptr target="bib:ARIE1956-1957"/>
-         			<citedRange unit="page">**</citedRange>
+         			<citedRange unit="page">54</citedRange>
          			<citedRange unit="appendix">B/1956-1957</citedRange>
          			<citedRange unit="item">131</citedRange>
          		</bibl>

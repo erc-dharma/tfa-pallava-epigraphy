@@ -128,13 +128,9 @@
          	
          <div type="bibliography">
 
-         	<p>
-First recorded in <bibl>
-         			<ptr target="bib:ARIE1966-1967"/>
-         			<citedRange unit="page">35</citedRange>
-         			<citedRange unit="appendix">B/1966-1967</citedRange>
-         			<citedRange unit="item">188</citedRange>
-         		</bibl>; text and translation in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 319)<!--display issue: parentheses fusion--><!-- Resolved -->; re-edited here by Emmanuel Francis (2020), from estampage kept at ASI, Mysore.
+         	<p>First recorded in <bibl><ptr target="bib:ARIE1966-1967"/></bibl> (ARIE/1966-1967/B/1966-1967/188).</p>
+         	<p>Text and translation in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 319).</p>
+         	<p>Re-edited here by Emmanuel Francis (2020), based on the ASI estampage, consulted in Mysore with the kind permission of the Director of Epigraphy.
          	</p>
          	         	
          	<listBibl type="primary">   
