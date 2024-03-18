@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiṉṉaṉūr, boulder, time of Dantivarman, year 9</title>
+				<title>Tiṉṉaṉūr, lamp pillar, time of Dantivarman, year 9</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -104,7 +104,7 @@
 <div type="commentary">
       		
 	<p>
-		<bibl><ptr target="bib:ARIE1908-1909"/></bibl> (p. 86, §22) notes:<note>Quotation updated to DHARMA transliteration scheme.</note>
+		<bibl><ptr target="bib:ARIE1937-1938"/></bibl> (p. 86, §22) notes:<note>Quotation updated to DHARMA transliteration scheme.</note>
 		<quote>It mentions
 			the <foreign>sabhā</foreign> of Niṉṟavūr which was evidently
 			the old name of the village (Tiruniṉṟavūr) which has become the modern
