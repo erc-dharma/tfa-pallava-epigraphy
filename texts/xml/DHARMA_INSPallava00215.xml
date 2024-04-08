@@ -119,23 +119,23 @@
 
 		</div>  
          
-         <div type="apparatus">
+<div type="apparatus">
             
-         	<listApp>           	
-         		
-         		<app loc="2">
-         			<lem>palicai</lem>
-         			<note><bibl><ptr target="bib:Hultzsch1899_01"/></bibl> notes: “palicai is another form of policai; see the Index to vol. I. s.v. paliśai, and Dr. Gundert’s Malayâḷam Dictionary, s.v. paliśa.”</note> <!--to be updated: italics from the original-->
-         		</app>
-         		
-         		<app loc="2">
-         			<lem>āṉōm</lem>
-         			<note>In <foreign>ṉō</foreign>, the <foreign>kāl</foreign> is marked twice, as a <foreign>kāl</foreign> proper and as a curl added to <foreign>ṉ</foreign>.</note>
-         		</app>       		
-         		
-         		         	</listApp>         
-         
-         </div>
+   <listApp>           	
+      
+      <app loc="2">
+         <lem>palicai</lem>
+         <note><bibl><ptr target="bib:Hultzsch1899_01"/></bibl> notes: “palicai is another form of policai; see the Index to vol. I. s.v. paliśai, and Dr. Gundert’s Malayâḷam Dictionary, s.v. paliśa.”</note> <!--to be updated: italics from the original-->
+      </app>
+      
+      <app loc="2">
+         <lem>āṉōm</lem>
+         <note>In <foreign>ṉō</foreign>, the <foreign>kāl</foreign> is marked twice, as a <foreign>kāl</foreign> proper and as a curl added to <foreign>ṉ</foreign>.</note>
+      </app>       		
+      
+   </listApp>         
+   
+</div>
          
 <div type="translation" resp="part:emfr">
 	
@@ -176,41 +176,41 @@
             <p>The same Caṭaiyaṉ is the donor of paddy for the feeding daily two Brahmins at Uṭkal in DHARMA_INSPallava00210 (year 10 of Kampavarman).</p>
          </div>
          
-         <div type="bibliography">
-            
-<p>
-First edited by <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with English translation and facsimile (SII 3, no. 5); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 215); re-edited and first translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on photographs (2019).
-</p>
-            
-         	<listBibl type="primary">
-         		
-         		<bibl n="H">
-         			<ptr target="bib:Hultzsch1899_01"/>
-         			<citedRange unit="item">5</citedRange>
-         			<citedRange unit="page">8-9</citedRange>
-         		</bibl>
-         		
-         		<bibl n="M">
-         			<ptr target="bib:Mahalingam1988_01"/>
-         			<citedRange unit="item">215</citedRange>
-         			<citedRange unit="page">559</citedRange>
-         		</bibl>
-         		
-         	</listBibl>
-         	
-         	<listBibl type="secondary">
-         		
-         		<bibl>
-         			<ptr target="bib:ARIE1892-1893"/>
-         			<citedRange unit="page">13</citedRange>
-         			<citedRange unit="appendix">B/1893</citedRange>
-         			<citedRange unit="item">26</citedRange>
-         		</bibl>
-         		
-         	</listBibl>
-         	
-         </div>
-			
+<div type="bibliography">
+   
+   <p>Edited by <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with English translation and facsimile (SII 3.5); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 215).</p>
+   <p>Re-edited translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on photographs (2019).
+   </p>
+   
+   <listBibl type="primary">
+      
+      <bibl n="H">
+         <ptr target="bib:Hultzsch1899_01"/>
+         <citedRange unit="item">5</citedRange>
+         <citedRange unit="page">8-9</citedRange>
+      </bibl>
+      
+      <bibl n="M">
+         <ptr target="bib:Mahalingam1988_01"/>
+         <citedRange unit="item">215</citedRange>
+         <citedRange unit="page">559</citedRange>
+      </bibl>
+      
+   </listBibl>
+   
+   <listBibl type="secondary">
+      
+      <bibl>
+         <ptr target="bib:ARIE1892-1893"/>
+         <citedRange unit="page">13</citedRange>
+         <citedRange unit="appendix">B/1893</citedRange>
+         <citedRange unit="item">26</citedRange>
+      </bibl>
+      
+   </listBibl>
+   
+</div>
+		   
 		</body>
 	</text>
 </TEI>
