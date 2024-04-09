@@ -173,24 +173,26 @@
 		   </div>-->
                  
          <div type="commentary">
-            <p>The same Caṭaiyaṉ is the donor of paddy for the feeding daily two Brahmins at Uṭkal in DHARMA_INSPallava00210 (year 10 of Kampavarman).</p>
+            <p>The same Caṭaiyaṉ is the donor of paddy for the feeding daily two Brahmins at Uṭkal in <ref target="DHARMA_INSPallava00210">DHARMA_INSPallava00210</ref> (year 10 of Kampavarman).</p>
          </div>
          
 <div type="bibliography">
    
-   <p>Edited by <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with English translation and facsimile (SII 3.5); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 215).</p>
-   <p>Re-edited translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on photographs (2019).
+   <p>Reported in <bibl><ptr target="bib:ARIE1892-1893"/></bibl> (ARIE/1892-1893/B/1893/26).</p>
+   <p>Edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, with English translation and facsimile (SII 3.5); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 215).</p>
+   <p>Re-edited translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> and published visual documentation.
    </p>
    
    <listBibl type="primary">
       
-      <bibl n="H">
+      <bibl n="SII">
          <ptr target="bib:Hultzsch1899_01"/>
          <citedRange unit="item">5</citedRange>
-         <citedRange unit="page">8-9</citedRange>
+         <citedRange unit="page">8-9</citedRange> 
+         <citedRange unit="plate">III</citedRange>
       </bibl>
       
-      <bibl n="M">
+      <bibl n="IP">
          <ptr target="bib:Mahalingam1988_01"/>
          <citedRange unit="item">215</citedRange>
          <citedRange unit="page">559</citedRange>
