@@ -88,60 +88,59 @@
    <text xml:space="preserve">
       <body>
 
-      	<div type="edition" xml:lang="tam-Latn">
+<div type="edition" xml:lang="tam-Latn">
       		
-      		<ab>
-      			<lb n="1"/><hi rend="grantha"><unclear>svasti</unclear> śrī</hi>
-      		</ab>
+	<ab>
+		<lb n="1"/><hi rend="grantha"><unclear>svasti</unclear> śrī</hi>
+	</ab>
+	
+	<p>
+		makka
+		<lb n="2"/>pērkāṇa
+		<lb n="3" break="no"/>m <gap reason="undefined" quantity="2" unit="character"/> caimāri-ma
+		<lb n="4" break="no"/>kkaḷ nākaṉum
+		<lb n="5"/>Ulakaṉum cāt
+		<lb n="6"/>taṉum mūvarum
+		<lb n="7" break="no"/>ce<surplus>y</surplus>yta tū<unclear>mpu</unclear>
+	</p>    
+	
+</div>
+      	
+<div type="apparatus">
       		
-      		<p>
-      			makka
-<lb n="2"/>pērkāṇa
-<lb n="3" break="no"/>m <gap reason="undefined" quantity="2" unit="character"/> caimāri-ma
-<lb n="4" break="no"/>kkaḷ nākaṉum
-<lb n="5" break="no"/>Ulakaṉum cāt
-<lb n="6" break="no"/>taṉum mūvarum
-<lb n="7" break="no"/>ce<surplus>y</surplus>yta tū<unclear>mpu</unclear>
-      		</p>    
-      		      		
+	<listApp>
+		
+		<app loc="7">
+			<lem>ce<surplus>y</surplus>yta</lem>
+			<rdg source="bib:Avanam">ceyyat</rdg>
+			<note><foreign>ceyta</foreign> = past <foreign>peyareccam</foreign> of <foreign>cey-tal</foreign>.</note>
+		</app>   
+		
+	</listApp>
+	
+</div>
+      	
+      	<div type="translation" resp="part:emfr">
+      		
+      		<p n="1">
+      			Prosperity! Fortune!
+      		</p>
+      		
+      		<p n="2-7">
+      			The sluice that Nākaṉ, Ulakaṉ and Cāttaṉ, relatives <supplied reason="explanation"><foreign>makkaḷ</foreign></supplied> <supplied reason="subaudible">of</supplied> <gap reason="ellipsis"/>, <supplied reason="subaudible">these</supplied> three, have made.
+      			
+      		</p>
+      		
       	</div>
       	
-      	<div type="apparatus">
-      		
-      		<listApp>
-      			
-      			<app loc="7">
-      				<lem>ce<surplus>y</surplus>yta</lem>
-      				<rdg source="bib:Avanam">ceyyat</rdg>
-      				<note><foreign>ceyta</foreign> = past <foreign>peyareccam</foreign> of <foreign>cey-tal</foreign>.</note>
-      			</app>   
-      			
-      		</listApp>
-      		
-      	</div>
-
-         <div type="translation" resp="part:emfr">
-         	
-         	<p n="1">
-         		Prosperity! Fortune!
-         	</p>
-         	
-         	<p n="2-7">
-         		The sluice that Nākaṉ, Ulakaṉ and Cāttaṉ, relatives <supplied reason="explanation"><foreign>makkaḷ</foreign></supplied> <supplied reason="subaudible">of</supplied> <gap reason="ellipsis"/>, <supplied reason="subaudible">these</supplied> three, have made.
-         		
-         	</p>
-         	
-         </div>
-      	
-         <div type="commentary">
+<div type="commentary">
          	
          </div>
 
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-First edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 12, no. 5.1); text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on previous editions.
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 12, no. 5.1); text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+	<p>Encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on previous editions.</p>
 
          	<listBibl type="primary">
          		         		
