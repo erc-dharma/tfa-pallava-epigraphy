@@ -91,7 +91,7 @@
    <text xml:space="preserve">
       <body>
 
-<div type="edition" xml:lang="pra-Latn"><!--add @rendition-->
+<div type="edition" xml:lang="pra-Latn" rendition="class:83227 maturity:83209">
 
 	<pb n="1r"/>
 
@@ -124,14 +124,14 @@
 	
 	<pb n="3r"/>
 	
-	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
+	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:83225 maturity:83209">
 		<l n="a"><lb n="3r1=12"/>bahubhi<unclear>r</unclear> vva<unclear>s</unclear>udhā dattā<space/></l>
 		<l n="b">bahubhi<unclear reason="eccentric_ductus">ś cā</unclear>nu<unclear reason="eccentric_ductus">pā</unclear>litā</l>		
 		<l n="c"><lb n="3r2=13"/>yasya yasya yadā bhūmi<unclear>ḥ</unclear><space/></l>
 		<l n="d">tasya tasya tadā phalam</l>
 	</lg>
 	
-	<lg n="2" met="anuṣṭubh" xml:lang="san-Latn">
+	<lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:83225 maturity:83209">
 		<l n="a"><lb n="3r3=14"/>svadat<choice><sic>a</sic><corr>ā</corr></choice>ṁ paradatt<choice><sic>a</sic><corr>ā</corr></choice>ṁ vā<space/></l>
 		<l n="b">y<choice><sic>e</sic><corr>o</corr></choice> ha<choice><sic>ratta</sic><corr>reta</corr></choice> vasundharām</l>
 		<l n="c"><lb n="3r4=15"/>gavāṁ śata-sahasrasya<space/></l>
