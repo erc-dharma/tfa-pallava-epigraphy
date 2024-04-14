@@ -90,7 +90,7 @@
       <body>
          
          <div type="edition" xml:lang="tam-Latn">
-            <!--add milestones-->
+            <!--add @type to milestones?-->
             
             <ab>
                <lb n="1"/><milestone n="1" unit="block"/><hi rend="grantha">svasti śrī</hi>
