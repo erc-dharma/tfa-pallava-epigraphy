@@ -87,11 +87,11 @@
 
 <body>
 			
-<div type="edition" xml:lang="tam-Latn">
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 	
-	<p>
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
 		<lb n="1"/><hi rend="grantha">śrī</hi>		
-	</p>
+	</ab>
 	
 	<p>
 		ka<unclear>m</unclear>paparuma<unclear>ṟ</unclear>ku <unclear>yā</unclear>ṇṭu Iru-pa<choice><sic>t</sic><corr>tt</corr></choice>-āvatu
