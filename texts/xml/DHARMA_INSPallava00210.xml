@@ -101,12 +101,12 @@
             </p>
             
             <p>
-               Uṭkaṟ <hi rend="grantha">sabhai</hi>yār<supplied reason="omitted">k</supplied>ku caṭaiya
+               Uṭka<add place="inline">ṟ</add> <hi rend="grantha">sabhai</hi>yār<supplied reason="omitted">k</supplied>ku caṭaiya
                <lb n="2" break="no"/><milestone n="1" unit="block"/>ṉ kuṭutta nel nā-ṉūṟṟu-k kāṭi
             </p>
             
             <p>
-               ne<choice><sic>Il</sic><corr>l</corr></choice>lāl-p poli-<choice><orig>Ū</orig><reg>y-ū</reg></choice>ṭṭu Ā<unclear>ṇ</unclear>
+               <supplied reason="omitted">In</supplied>-ne<choice><sic>Il</sic><corr>l</corr></choice>lāl-p poli-<choice><orig>Ū</orig><reg>y-ū</reg></choice>ṭṭu Ā<unclear>ṇ</unclear>
                <lb n="3" break="no"/><milestone n="1" unit="block"/>ṭu-var<unclear>ai</unclear> nūṟṟu-k kāṭi <unclear reason="eccentric_ductus">ne</unclear>l palicaiy<unclear>ā</unclear>l nicati Iruvar pirāma
                <lb n="4" break="no"/><milestone n="1" unit="block"/>ṇarai nilamum n<unclear>āya</unclear>ṟum Uḷḷa Aḷavum Ūṭṭuvōm āṉō<supplied reason="omitted">m</supplied> Uṭkal <hi rend="grantha">sabhai</hi>yōm
             </p>
@@ -139,7 +139,7 @@
                </app>
                   
                   <app loc="2">
-                  <lem>ne<choice><sic>Il</sic><corr>l</corr></choice>lāl</lem>
+                  <lem><supplied reason="omitted">In</supplied>-ne<choice><sic>Il</sic><corr>l</corr></choice>lāl</lem>
                   <rdg source="bib:Hultzsch1899_01">ne<unclear>Il</unclear>lāl</rdg>
                      <note><ptr target="bib:Hultzsch1899_01"/> suggests to read <foreign>Innellāl</foreign>.</note>
                </app>
@@ -167,7 +167,7 @@
                   
                <app loc="4">
                   <lem>Iv
-               <lb n="5" break="no"/>‡v-i<unclear>run</unclear>t’ ūṭṭu</lem>
+               <lb n="5" break="no"/>v-i<unclear>run</unclear>t’ ūṭṭu</lem>
                   <rdg source="bib:Hultzsch1899_01">Iv
                <lb n="5" break="no"/>viru<unclear>n</unclear>tūṭṭu</rdg>
                   <note><ptr target="bib:Hultzsch1899_01"/> notes that the <quote><foreign>n</foreign> of <foreign>virun</foreign> appears to be corrected from <foreign>ṉ</foreign></quote>.</note>
