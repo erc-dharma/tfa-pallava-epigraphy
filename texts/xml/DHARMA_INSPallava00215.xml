@@ -87,37 +87,36 @@
          <change who="part:emfr" when="2020-02-04" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve">
-		<body>
+   
+<text xml:space="preserve">
+<body>
 		
-			<div type="edition" xml:lang="tam-Latn">
-				
-				<ab>
-					<lb n="1"/><hi rend="grantha">svasti śrī</hi>
-				</ab>
-				<p>
-					kampava<hi rend="grantha"><unclear>r</unclear>mma</hi>ṟku yāṇṭu pati<choice><orig>n</orig><reg>ṉ</reg></choice> <choice><orig>ā</orig><reg>ai</reg></choice>ñc-āvatu
-				</p>
-				<p>
-					Uṭkar <hi rend="grantha">sabhai</hi>yōm Eḻuttu-c
-				</p>
-				<p>
-					caṭaiyaṉ pakkal āyira-k-kāṭi nel koṇ
-					<lb n="2" break="no"/>ṭōm
-				</p>
-				<p>
-					Ivv-āyira-k-kāṭi nellālum palicai Aynnūṟṟukkāṭi nel āṭṭāṇṭu tōṟum ērikk’ aṭṭi Ikuttuvippōm āṉōm <hi rend="grantha">sabhai</hi>
-					<lb n="3" break="no"/>yōm
-				</p> 
-				<p>
-					I<unclear>t’</unclear> <unclear>a</unclear>ṉṟ’ eṉṟār kaṅkai Iṭaik= kumari Iṭai ceytār ceyta pāvam paṭuvar āka-p
-				</p>
-				<p>
-					paṇittōm
-				</p>
-				<p><hi rend="grantha">sam<unclear>·</unclear><choice><orig>b</orig><reg>v</reg></choice>atsa</hi>ravāriyapperumakkaḷē Aṭṭuvik=ka kaṭavār <unclear><g type="danda">.</g></unclear></p>
-
-		</div>  
+<div type="edition" xml:lang="tam-Latn">
+   
+   <ab>
+      <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+   </ab>
+   <p>
+      kampa-va<hi rend="grantha"><unclear>r</unclear>mma</hi>ṟku yāṇṭu pati<choice><orig>n</orig><reg>ṉ</reg></choice>-<choice><orig>ā</orig><reg>ai</reg></choice>ñc-āvatu
+   </p>
+   <p>
+      Uṭkar <hi rend="grantha">sabhai</hi>yōm Eḻuttu-c
+   </p>
+   <p>
+      caṭaiyaṉ pakkal āyira-k-kāṭi nel koṇ
+      <lb n="2" break="no"/>ṭōm
+   </p>
+   <p>
+      Ivv-āyira-k-kāṭi nellālum palicai A<choice><orig>y</orig><reg>i</reg></choice>n-nūṟṟu-k kāṭi nel āṭṭ-āṇṭu tōṟum ērikk’ aṭṭi Ikuttuvippōm āṉōm <hi rend="grantha">sabhai</hi>
+      <lb n="3" break="no"/>yōm
+   </p> 
+   <p>
+      I<unclear>t’</unclear> <unclear>a</unclear>ṉṟ’ eṉṟār kaṅkai Iṭaik= kumari Iṭai ceytār ceyta pāvam paṭuvar āka-p
+      paṇittōm
+   </p>
+   <p><hi rend="grantha">sam<unclear>·</unclear><choice><orig>b</orig><reg>v</reg></choice>atsa</hi>ra-vāriya-p-peru-makkaḷē Aṭṭuvik=ka kaṭavār <unclear><g type="danda">.</g></unclear></p>
+   
+</div>  
          
 <div type="apparatus">
             
@@ -125,7 +124,7 @@
       
       <app loc="2">
          <lem>palicai</lem>
-         <note><bibl><ptr target="bib:Hultzsch1899_01"/></bibl> notes: “palicai is another form of policai; see the Index to vol. I. s.v. paliśai, and Dr. Gundert’s Malayâḷam Dictionary, s.v. paliśa.”</note> <!--to be updated: italics from the original-->
+         <note><bibl><ptr target="bib:Hultzsch1899_01"/></bibl> notes: <quote><foreign>palicai</foreign> is another form of <foreign>policai</foreign>; see the Index to vol. I. s.v. <foreign>palicai</foreign>, and Dr. Gundert’s Malayâḷam Dictionary, s.v. <foreign>paliśa</foreign>.</quote></note>
       </app>
       
       <app loc="2">
@@ -134,6 +133,16 @@
       </app>       		
       
    </listApp>         
+   
+</div>
+		   
+<div type="translation" source="bib:Hultzsch1899_01">
+	
+   <p n="1">Hail! Prosperity! In the fifteenth year <supplied reason="subaudible">of the reign</supplied> of Kampavarman. The writing of us, the assembly of Uṭkar. We have received one thousand <foreign>kāṭi</foreign>s of paddy from Caṭaiyaṉ.</p>
+   
+   <p n="2">We, the assembly, shall close <supplied reason="subaudible">the sluice of</supplied> the tank <supplied reason="subaudible">to collect water for irrigation</supplied>, and shall cause five hundred <foreign>kāṭi</foreign>s of paddy to be supplied every year as interest on these one thousand <foreign>kāṭi</foreign>s of paddy.</p>
+   
+   <p n="3">We declare that those who disobey this, shall incur <supplied reason="subaudible">all</supplied> the sins committed between the Gaṅgā and Kumari. The great men<note><foreign>Perumakkaḷ</foreign> is an honorific designation of respectable villagers. The corresponding Sanskrit term is <foreign>mahājana</foreign>, on which see the Index to Vol. I.</note> elected<note>Compare <foreign>ūram[ai] ceyyum vāriyapperumakkaḷ</foreign> in Vol. I. p. 117.</note> for the year shall cause <supplied reason="subaudible">thepaddy</supplied> to be supplied.</p>
    
 </div>
          
@@ -156,10 +165,7 @@
    Having endowed/supplied <supplied reason="explanation"><foreign>aṭṭi</foreign></supplied> for the tank the interest of five hundred <foreign>kāṭi</foreign>s every year <supplied reason="subaudible">which comes</supplied> through the paddy of these one thousand <foreign>kāṭi</foreign>s, We, the members of the assembly <supplied reason="explanation"><foreign><hi rend="grantha">sabhā</hi></foreign></supplied> are those who will close <supplied reason="subaudible">it, i.e. the sluice of the tank</supplied>.</p>
          	
 <p n="3">
-   Those who say it is not so, let them undergo the sin done by those who do <supplied reason="explanation"><foreign>ceytār</foreign></supplied> <supplied reason="subaudible">sin</supplied> between the Ganges and Kumari <supplied reason="explanation">i.e. Kaṉṉiyākumari</supplied>.</p>
-         	
-<p n="3">
-   <supplied reason="subaudible">So</supplied> have we ordered/declared <supplied reason="explanation"><foreign>paṇittōm</foreign></supplied>.</p>
+   Those who say it is not so, let them undergo the sin done by those who do <supplied reason="explanation"><foreign>ceytār</foreign></supplied> <supplied reason="subaudible">sin</supplied> between the Ganges and Kumari <supplied reason="explanation">i.e. Kaṉṉiyākumari</supplied>. <supplied reason="subaudible">So</supplied> have we ordered/declared <supplied reason="explanation"><foreign>paṇittōm</foreign></supplied>.</p>
          	
 <p n="3">
    The great men of the committee for the year are due to/should/have the duty of <supplied reason="explanation"><foreign>kaṭavār</foreign></supplied> having it <supplied reason="subaudible">the five hundred <foreign>kāṭi</foreign></supplied> flowing/being supplied/endowed.</p>
