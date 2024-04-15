@@ -89,23 +89,23 @@
    <text xml:space="preserve">
       <body>
                	
-      	<div type="edition" xml:lang="tam-Latn">
+      	<div type="edition" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
 <!--Check § split-->
-      		<ab>
-      			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+      		<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+      			<lb n="1"/>svasti śrī
       		</ab>
       		<p>
       			kampa-paṉmaṟku yāṇ
-      			<lb n="2" break="no"/>ṭ-āṟāvatu
+      			<lb n="2" break="no"/>ṭ-āṟ-āvatu
       		</p>
       		<p>      			
       			kāṭakati-y-araiyar ma
-      			<lb n="3" break="no"/>ṇavāṭṭi mātavi-y it-tirukkō
+      			<lb n="3" break="no"/>ṇavāṭṭi mātavi-y it-tiru-k-kō
       			<lb n="4" break="no"/>yil putukki muka-maṇṭakam e
       			<lb n="5" break="no"/>ṭuppittu pāḻi putukki yak
-      			<lb n="6" break="no"/>kā-paṭāri tirukkōyi<choice><orig>ll</orig><reg>l</reg></choice> eṭu
+      			<lb n="6" break="no"/>kā-paṭāri tiru-k-kōyi<choice><orig>ll</orig><reg>l</reg></choice> eṭu
       			<lb n="7" break="no"/>ppittu Ip-paḷḷikk’ iṭṭa
-      			<lb n="8"/>perumaṇi oṉṟu Ūṭṭu<unclear>vi</unclear>ttāḷ
+      			<lb n="8"/>peru-maṇi Oṉṟu Ūṭṭu<unclear>vi</unclear>ttāḷ
       		</p>
       		      		      		
       	</div>

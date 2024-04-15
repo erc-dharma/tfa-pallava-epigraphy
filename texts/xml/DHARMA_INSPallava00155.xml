@@ -99,7 +99,7 @@
 	<!--placement of <pb> and <lb>vis à vis <l> and <lg>-->
 	<!--check metre names-->
 	
-	<div type="textpart" xml:lang="san-Latn" n="A">
+	<div type="textpart" xml:lang="san-Latn" rendition="class:38768 maturity:83215" n="A">
 	<head xml:lang="eng">Sanskrit portion 1 of 2</head>		
 		
 		<ab>
@@ -318,7 +318,7 @@
 		</lg>
 	</div>
 	
-	<div type="textpart" xml:lang="tam-Latn" n="B">
+	<div type="textpart" xml:lang="tam-Latn" rendition="class:57475 maturity:83215" n="B">
 	<head xml:lang="eng">Tamil portion 1 of 2</head>
 		
 		<p>
@@ -379,7 +379,7 @@
 			<lb n="4v9=74" break="no"/> tu :||⸺</p>
 	</div>
 	
-	<div type="textpart" xml:lang="san-Latn" n="C">
+	<div type="textpart" xml:lang="san-Latn" rendition="class:38768 maturity:83215" n="C">
 	<head xml:lang="eng">Sanskrit portion 2 of 2</head>
 			
 			<lg n="31" met="vasantatilakā">
@@ -398,7 +398,7 @@
 			<l n="d">pallava-kula-<unclear>m</unclear>ūla-bhṛtyo ’tra :||-</l></lg>
 	</div>
 	
-	<div type="textpart" xml:lang="tam-Latn" n="D">
+	<div type="textpart" xml:lang="tam-Latn" rendition="class:57475 maturity:83215" n="D">
 	<head xml:lang="eng">Tamil portion 2 of 2</head>
 			
 		<p>

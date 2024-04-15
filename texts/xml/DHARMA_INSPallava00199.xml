@@ -91,13 +91,15 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="tam-Latn">
+
             <!--Add milestones for blocks: replace ‡ by markup-->
-         	<ab>
-         		<lb n="1"/><hi rend="grantha"><unclear>sva</unclear>sti śrī</hi>
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+      		
+      		<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+         		<lb n="1"/><unclear>sva</unclear>sti śrī
          	</ab>
          	<p>
-         		kō-vic<choice><unclear>a</unclear><unclear>ai</unclear></choice>‡ya-kampava<hi rend="grantha"><unclear>r</unclear>mma</hi>ṟku yāṇṭ' āṟ-āvatu
+         		kō-vic<choice><unclear>a</unclear><unclear>ai</unclear></choice>‡ya-kampa-va<hi rend="grantha"><unclear>r</unclear>mma</hi>ṟku yāṇṭ' āṟ-āvatu
          	</p>
          	<p>
          		kāliyūr-k-kōṭṭatt‡u taṉ kūṟṟ’ uttaramēru-<hi rend="grantha">ca</hi>tu<hi rend="grantha"><unclear>r</unclear>vvedi</hi>-maṅkalattu <hi rend="grantha">sabhai</hi>yō<choice><orig>mm</orig><reg>m</reg></choice> eḻuttu
