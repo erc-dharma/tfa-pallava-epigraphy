@@ -88,7 +88,8 @@
    <text xml:space="preserve">
    	<body>
    		
-   		<div type="edition" xml:lang="tam-Latn">
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+      		
    			<p>
    				<lb n="1"/><gap reason="undefined" quantity="10" unit="character"/>p-pōttaraiya<supplied reason="omitted">r</supplied>kku yāṇṭ’ iru-pattu nā
    				<lb n="2" break="no"/><supplied reason="lost">ṇkāvatu</supplied><gap reason="undefined" quantity="6" unit="character"/><unclear>yi</unclear>ṟ-kōṭṭattu mēṟpaḷukūr-nāṭṭu nal

@@ -88,12 +88,13 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-      	<div type="edition" xml:lang="tam-Latn">
-      		<ab>
-      			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+      		
+      		<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+      			<lb n="1"/>svasti śrī
       		</ab>
       		<p>
-      			<hi rend="grantha">nṛpa</hi>t<choice><orig>o</orig><reg>u</reg></choice>ṅkaṟku yāṇṭu Irupattu <choice><orig>Ay</orig><reg>Ai</reg></choice>nt-āvatu 			
+      			<hi rend="grantha">nṛpa</hi>-t<choice><orig>o</orig><reg>u</reg></choice>ṅkaṟku yāṇṭu Iru-pattu <choice><orig>Ay</orig><reg>Ai</reg></choice>nt-āvatu 			
       		</p>
       	</div>
 

@@ -103,7 +103,7 @@
 	<!--placement of <pb> and <lb>vis à vis <l> and <lg>-->
 	<!--check metre names-->
 	
-	<div type="textpart" xml:lang="san-Latn" n="A">
+	<div type="textpart" xml:lang="san-Latn" rendition="class:38768 maturity:83215" n="A">
 	<head xml:lang="eng">Sanskrit portion 1 of 2</head>		
 		
 		<ab>
@@ -322,7 +322,7 @@
 		</lg>
 	</div>
 	
-	<div type="textpart" xml:lang="tam-Latn" n="B">
+	<div type="textpart" xml:lang="tam-Latn" rendition="class:57475 maturity:83215" n="B">
 	<head xml:lang="eng">Tamil portion 1 of 2</head>
 		
 		<p>
@@ -383,7 +383,7 @@
 			<lb n="4v9=74" break="no"/> tu :||⸺</p>
 	</div>
 	
-	<div type="textpart" xml:lang="san-Latn" n="C">
+	<div type="textpart" xml:lang="san-Latn" rendition="class:38768 maturity:83215" n="C">
 	<head xml:lang="eng">Sanskrit portion 2 of 2</head>
 			
 			<lg n="31" met="vasantatilakā">
@@ -402,7 +402,7 @@
 			<l n="d">pallava-kula-<unclear>m</unclear>ūla-bhṛtyo ’tra :||-</l></lg>
 	</div>
 	
-	<div type="textpart" xml:lang="tam-Latn" n="D">
+	<div type="textpart" xml:lang="tam-Latn" rendition="class:57475 maturity:83215" n="D">
 	<head xml:lang="eng">Tamil portion 2 of 2</head>
 			
 		<p>
@@ -894,19 +894,19 @@
 		<p n="56-63">
 			As for both Viḷāṁkāṭṭāṅkaṭuvaṉūr and Ceṭṭuppākkam: 
 			
-			<l>the eastern-side boundary <supplied reason="subaudible">is</supplied> west of the boundary of the forest and of the boundary of Neṉmalippākkam;</l>
-			<l>the southern-side boundary <supplied reason="subaudible">is</supplied> north of the boundary of Neṉmalippākkam, of the boundary of Nelvāyippākkam and of the boudary of Urattūr;</l>
-			<l>the western-side boundary <supplied reason="subaudible">is</supplied> east of the boundary of Māmpākkam and of the sixty fields which are the <foreign>brahmadeya</foreign> on the side of Viḷāṁkāṭṭāṅkaṭuvaṉūr;</l>
-			<l>the northern-side boundary <supplied reason="subaudible">is</supplied> south of the boundary of Vākūr.</l>
+			<list><item>the eastern-side boundary <supplied reason="subaudible">is</supplied> west of the boundary of the forest and of the boundary of Neṉmalippākkam;</item>
+			<item>the southern-side boundary <supplied reason="subaudible">is</supplied> north of the boundary of Neṉmalippākkam, of the boundary of Nelvāyippākkam and of the boudary of Urattūr;</item>
+			<item>the western-side boundary <supplied reason="subaudible">is</supplied> east of the boundary of Māmpākkam and of the sixty fields which are the <foreign>brahmadeya</foreign> on the side of Viḷāṁkāṭṭāṅkaṭuvaṉūr;</item>
+			<item>the northern-side boundary <supplied reason="subaudible">is</supplied> south of the boundary of Vākūr.</item></list>
 			
 		</p>
 		
 		<p n="63-66">			
 			As for the boundaries of Iṟaippuṇaiccēri:			
-			<l>the eastern-side boundary <supplied reason="subaudible">is</supplied> west of the forest which includes the <foreign>nattam</foreign>;</l>
-			<l>the southern-side boundary <supplied reason="subaudible">is</supplied> north of the boundary of the <foreign>neruñci kuṟumpu</foreign>;</l>
-			<l>the western-side boundary <supplied reason="subaudible">is</supplied> east of the boundary of Vākūr;</l>
-			<l>the northern-side boundary <supplied reason="subaudible">is</supplied> south of the boundary of Kiṟimānpātti.</l>
+			<list><item>the eastern-side boundary <supplied reason="subaudible">is</supplied> west of the forest which includes the <foreign>nattam</foreign>;</item>
+			<item>the southern-side boundary <supplied reason="subaudible">is</supplied> north of the boundary of the <foreign>neruñci kuṟumpu</foreign>;</item>
+			<item>the western-side boundary <supplied reason="subaudible">is</supplied> east of the boundary of Vākūr;</item>
+			<item>the northern-side boundary <supplied reason="subaudible">is</supplied> south of the boundary of Kiṟimānpātti.</item></list>
 		</p>
 				
 		<p n="66-74">

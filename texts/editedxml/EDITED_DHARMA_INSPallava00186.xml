@@ -88,9 +88,10 @@
    <text xml:space="preserve">
    	<body>
    		
-   		<div type="edition" xml:lang="tam-Latn">
-   			<ab>
-   				<lb n="1"/><supplied reason="lost"><hi rend="grantha">svasti śrī</hi></supplied>
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+      		
+      		<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+   				<lb n="1"/><supplied reason="lost">svasti śrī</supplied>
    			</ab>
    			<p>
    				kō-vicaiya-nirupat<choice><orig>o</orig><reg>u</reg></choice>ṅka-vikkirama-pa<supplied reason="lost"><hi rend="grantha">nma</hi>rkku</supplied> yāṇṭu Irupatt’ aint-āvatu

@@ -88,14 +88,14 @@
    <text xml:space="preserve">
    	<body>
    		
-   		<div type="edition" xml:lang="tam-Latn">
-   			
-   			<ab>
-   				<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+      		
+      		<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+   				<lb n="1"/>svasti śrī
    			</ab>
    			
    			<p>
-   				nirupatoṅka-va<hi rend="grantha">rmma</hi><supplied reason="omitted">r</supplied>kku yāṇṭu pati<supplied reason="lost">ṉ</supplied><gap reason="lost" quantity="2" unit="character"/><supplied reason="lost">ā</supplied>
+   				nirupa-toṅka-va<hi rend="grantha">rmma</hi><supplied reason="omitted">r</supplied>kku yāṇṭu pati<supplied reason="lost">ṉ</supplied>-<gap reason="lost" quantity="2" unit="character"/><supplied reason="lost">-ā</supplied>
    				<lb n="2" break="no"/>vatu
    			</p>
    			<p>
