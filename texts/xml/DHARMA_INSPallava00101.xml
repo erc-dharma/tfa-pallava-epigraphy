@@ -92,9 +92,9 @@
    <text xml:space="preserve">
     <body>
       
-    	<div type="edition" xml:lang="tam-Latn">
-       	
-    		<ab>
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+            
+            <ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
     			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
     		</ab>
     		<p>
@@ -120,8 +120,8 @@
     			<hi rend="grantha">svāmi</hi>-kumāra-kuṭṭam-ākiya <hi rend="grantha">dha</hi>
     			<lb n="6" break="no"/><hi rend="grantha">rmma</hi>ttiṉai <unclear>ra</unclear><hi rend="grantha">kṣi</hi>ttār <hi rend="grantha">pāda</hi>ṅkaḷ Eṉ ṟalai melaṉa <!--blank space extent 2 letters to be added here-->
     		</p>
-    		<p>
-    			<hi rend="grantha">parameśvarasya</hi> <hi rend="grantha">lekh<unclear>ā</unclear></hi>
+    		<p xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+    			parameśvarasya <hi rend="grantha">lekh<unclear>ā</unclear></hi>
     		</p>
 <!-- Check the unclear on the stone -->
        		

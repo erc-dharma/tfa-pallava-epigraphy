@@ -87,11 +87,11 @@
    </teiHeader>
    <text xml:space="preserve">
    	
-		<body>
+<body>
 			
-			<div type="edition" xml:lang="tam-Latn">
-				
-				<ab>
+<div type="edition" xml:lang="tam-Latn" rendition="class:38776  maturity:83215">
+            
+            <ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
 					<lb n="1"/><hi rend="grantha">sva<unclear>sti</unclear> śrī</hi>
 				</ab>
 				
@@ -117,7 +117,7 @@
 
 <div type="apparatus">
 	
-	<app loc="5">
+	<listApp><app loc="5">
 		<lem>viḷakku</lem>
 		<rdg source="bib:SubrahmanyaAiyer1932_01">viḷakku</rdg>
 		<rdg source="bib:Mahalingam1988_01">viḷakku<supplied reason="omitted">kku</supplied></rdg>
@@ -127,7 +127,7 @@
 		<lem>urai</lem>
 		<rdg source="bib:SubrahmanyaAiyer1932_01 bib:Mahalingam1988_01">urai</rdg>
 		<note><ptr target="bib:Mahalingam1988_01"/>'s summary seems to imply the correction of <foreign>urai</foreign> to <foreign>uri</foreign>.</note>
-	</app>
+	</app></listApp>
 			
 </div>
 			
