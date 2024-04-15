@@ -85,115 +85,95 @@
 	<text xml:space="preserve">
 		<body>
 			
-<div type="edition" xml:lang="tam-Latn">
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">		
 	
-	<div type="textpart" n="A" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
-	<head xml:lang="eng">Sanskrit Portion</head>	
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+		<lb n="1"/>svasti śrī
+	</ab>
 	
-		<ab>
-			<lb n="1"/>svasti śrī
-		</ab>
+	<lg met="uncertain" n="1" xml:lang="san-Latn" rendition="class:38768 maturity:83215"><!-- 1 or 2 stanzas?-->
 		
-		<lg met="uncertain" n="1"><!-- 1 or 2 stanzas?-->
-			
-			<l n="a">
-				Ānma <gap reason="undefined" quantity="1" unit="character"/> kṣa <gap reason="undefined" quantity="2" unit="character"/> <unclear>sna</unclear>
-				<lb n="2" break="no"/>panam atisitam· lepanam· śuddha
-				<lb n="3" break="no"/>pam·
-			</l>
-			<l n="b">
-				tām·būlaṁ sannivedya prati<unclear>di</unclear>
-				<lb n="4" break="no"/><unclear>na</unclear>m aniśandīpam ekam·
-			</l>
-			<l n="c">
-				pradātum· kāṭ·ṭ<choice><orig>u</orig><reg>ū</reg></choice>r-ī
-				<lb n="5" break="no"/>ś<unclear>o</unclear> vinītaḥ svapatimatiharaḥ ṣaṣṭhim·
-			</l>
-			<l n="d">
-				<lb n="6"/>suvarṇṇam· bhakty<unclear>ā</unclear> paitāṁki kaṇṭho mu
-				<lb n="7" break="no"/><gap reason="undefined" quantity="2" unit="character"/> m adād oṟṟiyūreśvarāya<!--tag ṟṟi = Tamil script-->
-			</l>
-		</lg>
-	</div>
+		<l n="a">
+			Ānma <gap reason="undefined" quantity="1" unit="character"/> kṣa <gap reason="undefined" quantity="2" unit="character"/> <unclear>sna</unclear>
+			<lb n="2" break="no"/>panam atisitam· lepanam· śuddha
+			<lb n="3" break="no"/>pam·
+		</l>
+		<l n="b">
+			tām·būlaṁ sannivedya prati<unclear>di</unclear>
+			<lb n="4" break="no"/><unclear>na</unclear>m aniśandīpam ekam·
+		</l>
+		<l n="c">
+			pradātum· kāṭ·ṭ<choice><orig>u</orig><reg>ū</reg></choice>r-ī
+			<lb n="5" break="no"/>ś<unclear>o</unclear> vinītaḥ svapatimatiharaḥ ṣaṣṭhim·
+		</l>
+		<l n="d">
+			<lb n="6"/>suvarṇṇam· bhakty<unclear>ā</unclear> paitāṁki kaṇṭho mu
+			<lb n="7" break="no"/><gap reason="undefined" quantity="2" unit="character"/> m adād oṟṟiyūreśvarāya<!--tag ṟṟi = Tamil script-->
+		</l>
+	</lg>
 	
-	<div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
-	<head xml:lang="eng">Tamil Portion</head>
 	
-		<p>
-			kō
-			<lb n="8" break="no"/>vicaiya-Aparājita-va<hi rend="grantha">rmma</hi>-p-pōttarai
-			<lb n="9" break="no"/>yaṟkku yāṇṭ’ eṭṭ-āvatu
-		</p>
-		
-		<p>	
-			cōḻa-nāṭṭu vaṭa
-			<lb n="10" break="no"/>karai Iṉṉampar-nāṭṭu-k kāṭṭ<choice><orig>u</orig><reg>ū</reg></choice><unclear>r</unclear> kāṭṭ<choice><orig>u</orig><reg>ū</reg></choice><surplus>r</surplus><unclear>r-uṭai</unclear>
-			<lb n="11" break="no"/>yāṉ paiytāṅki kaṇṭaṉ tiru-v-oṟṟi
-			<lb n="12" break="no"/>yūr <hi rend="grantha">mahāde</hi>varkku vaitta poṉ <unclear>Ūr-k-ka</unclear>
-			<lb n="13" break="no"/>ṟ cemmai <hi rend="grantha">A</hi>ṟupatiṉ kaḻañcu
-		</p>	
-		
-		<p>
-			<unclear>Ip</unclear>
-			<lb n="14" break="no"/>-poṉṉuḷ tāṉ piṟanta cōti-<unclear>nā</unclear>ḷ
-			<lb n="15"/>tiru-v-amirtu patt’ eṭṭu-k kuttaṟ paḻa-<unclear>v-a</unclear>
-			<lb n="16" break="no"/><unclear>rici</unclear> patiṉ aṟu nāḻikkum <hi rend="grantha">sna</hi>paṉattiṟku
-			<lb n="17" break="no"/><unclear>m</unclear> tiru-v-amirtiṟkum-āka ney Āṟu nāḻi
-			<lb n="18" break="no"/>kkum vāḻaippaḻam eṭṭuñ carkkarai
-			<lb n="19" break="no"/>-<unclear>p</unclear> palamuṅ kaṟi-y-amirtiṟku-k kāy-t ti<unclear>ru</unclear>
-			<lb n="20" break="no"/>maṭaikkāy amirt’ eṇ-patilaiyum pat
-			<lb n="21" break="no"/>tukkāyum iḷan<choice><orig>i</orig><reg>ī</reg></choice>r mu-p-patum pañca-<hi rend="grantha">gavya</hi>
-			<lb n="22" break="no"/>ṅkaḷukku veṇṭuvaṉavuñ cantaṉamun= tū
-			<lb n="23" break="no"/>pamuṅ karppūramum-āka Ivv-aṉaittu
-			<lb n="24" break="no"/>kkum-āka vaitta poṉ mu-p-patiṉ kaḻa
-			<lb n="25" break="no"/>ñcum oru na<hi rend="grantha">ndā</hi>viḷakk’ erippataṟku vai
-			<lb n="26" break="no"/>tta poṉ mu-p-patiṉ kaḻañcum-āka vai
-			<lb n="27" break="no"/>tta poṉ <hi rend="grantha">A</hi>ṟu-patiṉ kaḻañcuṅ ko
-			<lb n="28" break="no"/>ṇṭu kaṭavōn tiru-v-oṟṟiyūr-k karma-k-kiḻava
-			<lb n="29" break="no"/><unclear>r-āyiṉa</unclear> Ūrōm
-		</p>
-		
-		<p>
-			ip-poṉṉāl āṇṭu-varai kaḻa
-			<lb n="30" break="no"/>ñciṉ vāy m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟu mañcāṭi-p poṉ pali
-			<lb n="31" break="no"/>cai-y-āka Ivv-āṭṭai-c cittirai-t tiṅkaḷ mu
-		</p>
-		
-		<p>
-			<gap reason="undefined" extent="unknown" unit="line"/>
-		</p>
-	</div>
+	<p>
+		kō
+		<lb n="8" break="no"/>vicaiya-Aparājita-va<hi rend="grantha">rmma</hi>-p-pōttarai
+		<lb n="9" break="no"/>yaṟkku yāṇṭ’ eṭṭ-āvatu
+	</p>
+	
+	<p>	
+		cōḻa-nāṭṭu vaṭa
+		<lb n="10" break="no"/>karai Iṉṉampar-nāṭṭu-k kāṭṭ<choice><orig>u</orig><reg>ū</reg></choice><unclear>r</unclear> kāṭṭ<choice><orig>u</orig><reg>ū</reg></choice><surplus>r</surplus><unclear>r-uṭai</unclear>
+		<lb n="11" break="no"/>yāṉ paiytāṅki kaṇṭaṉ tiru-v-oṟṟi
+		<lb n="12" break="no"/>yūr <hi rend="grantha">mahāde</hi>varkku vaitta poṉ <unclear>Ūr-k-ka</unclear>
+		<lb n="13" break="no"/>ṟ cemmai <hi rend="grantha">A</hi>ṟupatiṉ kaḻañcu
+	</p>	
+	
+	<p>
+		<unclear>Ip</unclear>
+		<lb n="14" break="no"/>-poṉṉuḷ tāṉ piṟanta cōti-<unclear>nā</unclear>ḷ
+		<lb n="15"/>tiru-v-amirtu patt’ eṭṭu-k kuttaṟ paḻa-<unclear>v-a</unclear>
+		<lb n="16" break="no"/><unclear>rici</unclear> patiṉ aṟu nāḻikkum <hi rend="grantha">sna</hi>paṉattiṟku
+		<lb n="17" break="no"/><unclear>m</unclear> tiru-v-amirtiṟkum-āka ney Āṟu nāḻi
+		<lb n="18" break="no"/>kkum vāḻaippaḻam eṭṭuñ carkkarai
+		<lb n="19" break="no"/>-<unclear>p</unclear> palamuṅ kaṟi-y-amirtiṟku-k kāy-t ti<unclear>ru</unclear>
+		<lb n="20" break="no"/>maṭaikkāy amirt’ eṇ-patilaiyum pat
+		<lb n="21" break="no"/>tukkāyum iḷan<choice><orig>i</orig><reg>ī</reg></choice>r mu-p-patum pañca-<hi rend="grantha">gavya</hi>
+		<lb n="22" break="no"/>ṅkaḷukku veṇṭuvaṉavuñ cantaṉamun= tū
+		<lb n="23" break="no"/>pamuṅ karppūramum-āka Ivv-aṉaittu
+		<lb n="24" break="no"/>kkum-āka vaitta poṉ mu-p-patiṉ kaḻa
+		<lb n="25" break="no"/>ñcum oru na<hi rend="grantha">ndā</hi>viḷakk’ erippataṟku vai
+		<lb n="26" break="no"/>tta poṉ mu-p-patiṉ kaḻañcum-āka vai
+		<lb n="27" break="no"/>tta poṉ <hi rend="grantha">A</hi>ṟu-patiṉ kaḻañcuṅ ko
+		<lb n="28" break="no"/>ṇṭu kaṭavōn tiru-v-oṟṟiyūr-k karma-k-kiḻava
+		<lb n="29" break="no"/><unclear>r-āyiṉa</unclear> Ūrōm
+	</p>
+	
+	<p>
+		ip-poṉṉāl āṇṭu-varai kaḻa
+		<lb n="30" break="no"/>ñciṉ vāy m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟu mañcāṭi-p poṉ pali
+		<lb n="31" break="no"/>cai-y-āka Ivv-āṭṭai-c cittirai-t tiṅkaḷ mu
+	</p>
+	
+	<p>
+		<gap reason="undefined" extent="unknown" unit="line"/>
+	</p>
 	
 </div>
 			
-<div type="apparatus">
-	
-	<div type="textpart" n="A" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
-	<head xml:lang="eng">Sanskrit Portion</head>	
+<div type="apparatus">	
 		
-		<app loc="1">
+		<listApp><app loc="1">
 			<lem>kṣa <gap reason="undefined" quantity="2" unit="character"/></lem>
 			<rdg source="bib:VenkatasubbaAyyar1943_01 bib:Mahalingam1988_01">kṣa <gap reason="undefined" quantity="4" unit="character"/></rdg>
 			<note>It seems that there is place only for two characters on the stone.</note>
 		</app>	
-	</div>		
-		
-	
-	<div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
-	<head xml:lang="eng">Tamil Portion</head><listApp>
 		
 		<app loc="20">
-			<lem>pat
-		<lb n="21" break="no"/>tukkāyum</lem>
-			<rdg source="bib:VenkatasubbaAyyar1943_01">pata
-		<lb n="21" break="no"/>tukkāyum</rdg>
-		<rdg source="bib:Mahalingam1988_01">pat
-		<lb n="21" break="no"/>tukkāyum</rdg>
+			<lem>pat<lb n="21" break="no"/>tukkāyum</lem>
+			<rdg source="bib:VenkatasubbaAyyar1943_01">pata	<lb n="21" break="no"/>tukkāyum</rdg>
+			<rdg source="bib:Mahalingam1988_01">pat<lb n="21" break="no"/>tukkāyum</rdg>
 			<note>Probably a typo in <ptr target="bib:VenkatasubbaAyyar1943_01"/>.</note>
-		</app>	
+		</app>	</listApp>
 		 		
-	</listApp>
-	</div>
 	
 </div>
 			
