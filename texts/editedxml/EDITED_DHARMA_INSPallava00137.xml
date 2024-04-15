@@ -86,13 +86,12 @@
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
-      <body>
-<!--display issue with <g type="ddanda">.</g>-->
-      	<div type="edition" xml:lang="tam-Latn">
+<body>
+      	<!--add readings by Schmid 2014-->
+	
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
       		
-      		      		<!--add readings by Schmid 2014-->
-      		
-      		<ab>
+      		<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
       			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
       		</ab>
       		
