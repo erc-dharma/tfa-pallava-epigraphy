@@ -89,10 +89,10 @@
    <text xml:space="preserve">
       <body>
 
-<div type="edition" xml:lang="san-Latn">
+<div type="edition" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
          
 	<p>
-		<lb n="1"/><hi rend="grantha">dhi<gap reason="lost" quantity="1" unit="character"/>ta</hi></p>
+		<lb n="1"/>dhi<gap reason="lost" quantity="1" unit="character"/>ta</p>
 	
 </div>
 
