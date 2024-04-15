@@ -91,10 +91,10 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="tam-Latn">
+         <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
             <!--Add milestones for blocks: replace ‡ by markup-->
-         	<ab>
-         		<lb n="1"/><hi rend="grantha"><unclear>sva</unclear>sti śrī</hi>
+         	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+         		<lb n="1"/><unclear>sva</unclear>sti śrī
          	</ab>
          	<p>
          		kō-vicaiya-kampa-va<hi rend="grantha">rmma</hi><supplied reason="omitted">r</supplied>kku yāṇṭu Eṭṭāvatu
