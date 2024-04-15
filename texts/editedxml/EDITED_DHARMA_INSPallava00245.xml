@@ -88,15 +88,16 @@
    <text xml:space="preserve">
 		<body>
 			
-<div type="edition" xml:lang="tam-Latn">
+
 	<!--check encoding of verse-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 	
-	<ab>
-		<lb n="1"/><hi rend="grantha">svasti śrī</hi> 
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+		<lb n="1"/>svasti śrī 
 	</ab>
 	
 	
-	<lg n="1" met="unknown">
+	<lg n="1" met="uncertain" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 		<l n="1"><lb n="2"/>tiruntu tiruttaṇiyil ceñ-caṭai Īcarkku</l> 
 		<l n="2">karuṅkallāl kaṟṟaḷiyā niṟka virumpiy<choice><sic>ā</sic><corr>ē</corr></choice></l>
 		<l n="3">naṟka<lb n="3" break="no"/>laikaḷ ellām naviṉṟa cīr nampi Appi</l> 
@@ -129,7 +130,7 @@
 		Prosperity! Fortune!
 	</p>
 	
-	<p n="2-3">
+	<p rend="stanza" n="2-3">
 		<l>So that <supplied reason="subaudible">this temple</supplied> stands as a stone temple <supplied reason="subaudible">made</supplied> with black stones for the Lord <supplied reason="explanation"><foreign>īcar</foreign><note>That is, Sanskrit <foreign>īśa</foreign></note></supplied> with red matted hairs<note>That is, Śiva.</note> in gracious/perfect/eminent Tiruttaṇi</l>
 		<l>Lovingly/with devotion <supplied reason="explanation"><foreign>virumpi-y-ē</foreign><note>Literally: “having desired”.</note></supplied>, the glorious Nampi Appi, who has learned all good arts, beautifully <supplied reason="explanation"><foreign>poṟpu amai-y-a</foreign><note>Infinitive, “so that it agrees with beauty”.</note></supplied> made it <supplied reason="explanation"><foreign>ceytāṉ purintu</foreign><note>Literally: “made it having made it”.</note></supplied>.</l>
 	</p>
