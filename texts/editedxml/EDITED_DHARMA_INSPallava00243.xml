@@ -90,7 +90,7 @@
 			
 <div type="edition" xml:lang="tam-Latn">
 	
-	<div type="textpart" n="A" xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+	<div type="textpart" n="A" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
 	<head xml:lang="eng">Sanskrit Portion</head>	
 	
 		<ab>
@@ -171,7 +171,7 @@
 			
 <div type="apparatus">
 	
-	<div type="textpart" n="A" xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+	<div type="textpart" n="A" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
 	<head xml:lang="eng">Sanskrit Portion</head>	
 		
 		<app loc="1">
@@ -202,7 +202,7 @@
 			
 <div type="translation" resp="part:emfr">
 	
-	<div type="textpart" n="A" xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+	<div type="textpart" n="A" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
 		
 		<p n="1">
 		Prosperity! Fortune!
