@@ -86,10 +86,10 @@
 	<text xml:space="preserve">
       <body>
 
-      	<div type="edition" xml:lang="tam-Latn">
-      		
-      		<ab>
-      			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+            
+            <ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+      			<lb n="1"/>svasti śrī
       		</ab>
       		
       		<p>
@@ -116,7 +116,7 @@
 
       	<div type="apparatus">
       		
-      		<app loc="6">
+      		<listApp><app loc="6">
       			<lem>āyi
       			<lb n="7" break="no"/><supplied reason="undefined">ṉa</supplied></lem>
       			<rdg source="bib:SubrahmanyaAiyer1932_01">āyi
@@ -141,7 +141,7 @@
       			<lem><supplied reason="undefined">nakara</supplied>ttār</lem>
       			<rdg source="bib:SubrahmanyaAiyer1932_01">
       			<gap reason="undefined" quantity="3" unit="character"/>ttār</rdg>
-      		</app>	
+      		</app>	</listApp>
       		
       	</div>
         
