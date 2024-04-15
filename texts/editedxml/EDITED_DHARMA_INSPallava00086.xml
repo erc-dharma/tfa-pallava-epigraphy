@@ -89,7 +89,7 @@
    <text xml:space="preserve">
 <body>
                   
-   <div type="edition" xml:lang="tam-Latn">
+   <div type="edition" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
       
       <ab>
          <lb n="1"/><hi rend="grantha">śrī</hi>
@@ -117,7 +117,7 @@
                   
 <div type="apparatus">
    
-   <app loc="1">
+   <listApp><app loc="1">
       <lem>nanti<lb n="2" break="no"/>ccura-</lem>
       <rdg source="bib:VenkatasubbaAyyar1933-1934_01 bib:Mahalingam1988_01">nanti<lb n="2" break="no"/>ccura-</rdg>      
       <rdg source="bib:Mahalingam1959_01">nantī<lb n="2" break="no"/>ccura-</rdg>
@@ -164,7 +164,7 @@
       <rdg source="bib:Mahalingam1988_01">kaṅkatiyaṟai<lb n="11" break="no"/>yar</rdg>
       <note><bibl n="EI_22.18">
          <ptr target="bib:Mahalingam1988_01"/></bibl> = probably a typo.</note><!--Update! + display siglum in note also-->
-   </app>
+   </app></listApp>
 				
 </div>
          

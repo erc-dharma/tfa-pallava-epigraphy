@@ -89,10 +89,10 @@
    <text xml:space="preserve">
       <body>
 
-         <div type="edition" xml:lang="san-Latn">
+<div type="edition" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
             <lg n="1" met="anuṣṭubh">
             	<l n="a"><lb n="1"/>rāja-si<supplied reason="omitted">ṁ</supplied>ho raṇa-jayaḥ</l>
-            	<l n="b"><lb n="2"/>śrī-bharaś citrakārmuka<supplied reason="omitted">ḥ</supplied></l>
+            	<l n="b"><lb n="2"/>śrī-bharaś citra-kārmuka<supplied reason="omitted">ḥ</supplied></l>
             	<l n="c">E<lb n="3" break="no"/>ka-vīraś ciram pātu<surplus>ḥ</surplus></l>
             	<l n="d">śi<lb n="4" break="no"/>va-cū<orig>ḷ</orig>ā-maṇir mmahīM</l>
             </lg>

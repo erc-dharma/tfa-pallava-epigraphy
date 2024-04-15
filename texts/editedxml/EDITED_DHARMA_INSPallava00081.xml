@@ -95,11 +95,11 @@
 			
 <div type="edition">
 	
-	<div type="textpart" xml:lang="san-Latn" n="A">
+	<div type="textpart" n="A" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
 	<head xml:lang="eng">Seal</head>
 	</div>
 	
-	<div type="textpart" xml:lang="san-Latn" n="B">
+	<div type="textpart" xml:lang="san-Latn" rendition="class:38768 maturity:83215" n="B">
 	<head xml:lang="eng">Sanskrit portion 1 of 2</head>		
 		
 		<pb n="1r"/>
@@ -171,7 +171,7 @@
 		
 	</div>
 	
-	<div type="textpart" xml:lang="tam-Latn" n="C">
+	<div type="textpart" xml:lang="tam-Latn" rendition="class:57475 maturity:83215" n="C">
 	<head xml:lang="eng">Tamil portion 1 of 2</head>
 		
 		<p>
@@ -325,7 +325,7 @@ mēlpāṟk’ ellai paḻaṅkōḷūr Ellaiyin kiḻakkum <space/>
 	</div>
 			
 			
-	<div type="textpart" xml:lang="san-Latn" n="D">
+	<div type="textpart" xml:lang="san-Latn" rendition="class:38768 maturity:83215" n="D">
 	<head xml:lang="eng">Sanskrit portion 2 of 2</head>
 		
 		<lg n="7" met="anuṣṭubh">
@@ -351,7 +351,7 @@ mēlpāṟk’ ellai paḻaṅkōḷūr Ellaiyin kiḻakkum <space/>
 			
 	</div>
 	
-	<div type="textpart" xml:lang="tam-Latn" n="E">
+	<div type="textpart" xml:lang="tam-Latn" rendition="class:57475 maturity:83215" n="E">
 	<head xml:lang="eng">Tamil portion 2 of 2</head>
 			
 		<p>
