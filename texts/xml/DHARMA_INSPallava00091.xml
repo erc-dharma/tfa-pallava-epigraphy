@@ -88,22 +88,18 @@
       <body>
 
                   
-         <div type="edition" xml:lang="tam-Latn">
-            <!--bilingual inscription: sanskrit (l.1), tamil (ll. 2-14), sanskrit (ll.15-16)-->
-            <!--Check language statement in teiHeader-->
-            <!--Check usage of @xml:lang below-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">            
             
-         	<ab xml:lang="san-Latn">
+         	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
          		<lb n="1" style="text-align: left"/><hi rend="grantha">Om· namaś śivāya<surplus>m·</surplus> <unclear>sva</unclear>sti śrī</hi>
          	</ab>
          	
-         	<ab xml:lang="tam-Latn">
-         		<!--@xml:lang unnecessary here, as already @ of the <div type="edition">??-->
+         	<p>
          		<lb n="2"/>kō-vicaiya-nanti-vikkirama-parumaṟku yā 
-         		<lb n="3" break="no"/>ṇṭ’ aṟupa<unclear>t</unclear>tiraṇ<unclear>ṭ</unclear>ā<unclear>va</unclear>tu
-         	</ab>
+         		<lb n="3" break="no"/>ṇṭ’ aṟu-pa<unclear>t</unclear>t-iraṇ<unclear>ṭ</unclear>-ā<unclear>va</unclear>tu
+         	</p>
          	
-         	<p xml:lang="tam-Latn">
+         	<p>
          		<hi rend="grantha">sakala-jagatra</hi>
          		<lb n="4" break="no"/>yā<hi rend="grantha">bhi</hi>va<hi rend="grantha">ndi</hi>ta-<hi rend="grantha">surāsurādhīśa-parameśvara-prati</hi> 
          		<lb n="5" break="no"/><hi rend="grantha">hārikṛ</hi>ta-<hi rend="grantha">mahā</hi>va<hi rend="grantha">li-kulot·bha</hi>va-<hi rend="grantha">śrī</hi>-māvalivāṇa<hi rend="grantha">rā</hi>yar 
@@ -112,28 +108,29 @@
          		<lb n="8" break="no"/>kiḻavar makaṉ maṉṟāṭiṭai Aḻiñciṟka<unclear>ḷam</unclear> paṭṭi <unclear>vi</unclear>laikku 
          		<lb n="9"/>koṇṭu kuṭuttēṉ
          	</p>
-         	<p xml:lang="tam-Latn">	
+	
+         	<p>	
          		U<unclear>ṟ</unclear>ṟukkāṭṭu kōṭṭattu <unclear>A</unclear>ḷiṅkaṇa-pā<supplied reason="omitted">kka</supplied>ttu 
          		<lb n="10" break="no"/>kīḻakattu taṭṭāṉ mā<unclear>ta</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> maka<choice><orig>n</orig><reg>ṉ</reg></choice> <unclear>A</unclear>ritīraṉ kuṭutta tēvar pōkam
          		<lb n="11" break="no"/>ma<hi rend="grantha">hā</hi>valivāṇarāyar piṭākai valañ-ceytu koṭuttār
          	</p>
          	
-         	<p xml:lang="tam-Latn">
+         	<p>
          		Itu kāt
          		<lb n="12" break="no"/>tā<unclear>r A</unclear>ṭi<supplied reason="lost">yeṇ muṭi mē</supplied>laṉa
          	</p>
          	
-         	<p xml:lang="tam-Latn">
+         	<p>
          		Itu Aḻittāṉ kaṭikai <unclear>E</unclear>ḻā Iru<unclear>va</unclear>raiyum
          		<lb n="13"/>ko<unclear>ṉṟa pāvattu pa</unclear>ṭuvāṉ
          	</p>
          	
-         	<p xml:lang="tam-Latn">
+         	<p>
          		Itu Aḻi<unclear>t</unclear>tāṉ Ippāvattu<supplied reason="omitted">k</supplied>ku Añcāṉāyil 
          		<lb n="14"/><unclear>Aṉ</unclear> <gap reason="lost" quantity="2" unit="character"/> kōyilu<supplied reason="omitted">k</supplied>ku Āyiram kā<unclear>ṇam ta</unclear>ṇṭappaṭuvōm vāṇapurattō<unclear>m</unclear>
          	</p>         	
          	
-         	<lg n="1" met="anuṣṭubh">
+         	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
          		<l n="a">
          			<lb n="15"/><hi rend="grantha"><choice><sic>va</sic><corr>ba</corr></choice><unclear>hu</unclear>bhir<unclear>·</unclear> vasudhā dattā</hi>
          		</l>

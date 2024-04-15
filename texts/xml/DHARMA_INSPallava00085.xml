@@ -92,16 +92,16 @@
    <text xml:space="preserve">
 <body>
                   
-<div type="edition" xml:lang="tam-Latn">
+<div type="edition" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
 	
 	<p>
-		<lb n="1"/>nantippōttaraca<unclear>r</unclear>kku Ay<unclear>m</unclear>patāvatu
+		<lb n="1"/>nanti-p-pōtt-araca<unclear>r</unclear>kku A<choice><orig>y</orig><reg>i</reg></choice><unclear>m</unclear>pat-āvatu
 	</p>
 	<p>
-		nāka<unclear>ṇa</unclear>ndi-kura<unclear>var</unclear>
+		nāka-<unclear>ṇa</unclear>ndi-kura<unclear>var</unclear>
 	<lb n="2"/><unclear>Iru</unclear>kka poṉṉiya<unclear>k</unclear>kiy<unclear>ā</unclear>r paṭimam koṭṭuvittā<unclear>ṉ</unclear>
-	<lb n="3"/>pu<unclear>ka</unclear>ḻālaimaṅka<unclear>la</unclear>ttu maruttuvar makaṉ nāraṇa-
-	<lb n="4"/>ṉ
+	<lb n="3"/>pu<unclear>ka</unclear>ḻālai-maṅka<unclear>la</unclear>ttu maruttuvar makaṉ nāraṇa
+	<lb n="4" break="no"/>ṉ
 	</p>
 
 </div>
