@@ -86,13 +86,13 @@
          <change who="part:emfr" when="2020-03-05" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve">
-		<body>
-			
-			<div type="edition" xml:lang="tam-Latn">                     	
-				<p>
-					<lb n="1"/><hi rend="grantha">svastī śrī</hi>
-				</p>
+   
+<text xml:space="preserve">
+<body>
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+         	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+					<lb n="1"/>svastī śrī
+				</ab>
 				<p>
 					kō-vīcaiyakampavīkkīramava<hi rend="grantha">rmma</hi>rkku yāṇṭu Eṭṭ-āvātu
 				</p>
