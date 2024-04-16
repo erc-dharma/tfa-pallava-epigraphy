@@ -47,12 +47,12 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Grant of three villages (Ceṭṭuppākkam, Viḷāṅkāṭṭāṅkaṭuvaṉūr and Iṟaippuṇaiccēri) in the Kīḻvaḻivākūrnāṭu in the Aruvānāṭu as <foreign>vidyābhoga</foreign> and <foreign>brahmadeya</foreign> to the <foreign>vidyāsthāna</foreign> of Vāgūr/Vākūr.</summary>
+<summary>Grant of three villages (Ceṭṭuppākkam, Viḷāṅkāṭṭāṅkaṭuvaṉūr and Iṟaippuṇaiccēri) in the Kīḻvaḻivākūrnāṭu in the Aruvānāṭu as <foreign>vidyābhoga</foreign> and <foreign>brahmadeya</foreign> to the <foreign>vidyāsthāna</foreign> of Vāgūr/Vākūr.</summary>
 					</msContents>
 					<physDesc>
-						<handDesc>
-							<p>Sanskrit spelling influenced by Tamil usage. Grantha <foreign>ṛ</foreign> and <foreign>ra</foreign>, <foreign>pa</foreign> and <foreign>va</foreign> not distinguished. Grantha <foreign>ba</foreign> and <foreign>ya</foreign>, <foreign>bha</foreign> and <foreign>ha</foreign>, <foreign>ga</foreign> and <foreign>śa</foreign> very similar. Tamil medial <foreign>i</foreign> and <foreign>ī</foreign> not distinguished and interchangeable. Tamil medial <foreign>u</foreign> and <foreign>ū</foreign> not always distinguished and interchangeable.Tamil oblique suffix <foreign>-iṉ</foreign> with initial <foreign>i</foreign>. The punctuation marks, <foreign>gomūtra</foreign>-like, at the end of stanzas have various forms. In several instances, the first element looks like a <foreign>visarga</foreign>, whereas in other instances, there is really a <foreign>visarga</foreign> at the end of the verse. Hyphen-like horizontal line occasionally used at the hemistiche. For further paleaographical details, see <bibl
-									n="EH"><ptr target="bib:Hultzsch1925-1926_01"/><citedRange
+<handDesc>
+	<p>Sanskrit spelling influenced by Tamil usage. Grantha <foreign>ṛ</foreign> and <foreign>ra</foreign>, <foreign>pa</foreign> and <foreign>va</foreign> not distinguished. Grantha <foreign>ba</foreign> and <foreign>ya</foreign>, <foreign>bha</foreign> and <foreign>ha</foreign>, <foreign>ga</foreign> and <foreign>śa</foreign> very similar. Tamil medial <foreign>i</foreign> and <foreign>ī</foreign> not distinguished and interchangeable. Tamil medial <foreign>u</foreign> and <foreign>ū</foreign> not always distinguished and interchangeable. Tamil oblique suffix <foreign>-iṉ</foreign> with initial <foreign>i</foreign>. The punctuation marks, <foreign>gomūtra</foreign>-like, at the end of stanzas have various forms. In several instances, the first element looks like a <foreign>visarga</foreign>, whereas in other instances, there is really a <foreign>visarga</foreign> at the end of the verse. Hyphen-like horizontal line occasionally used at the hemistiche. For further paleaographical details, see <bibl
+		n="EH"><ptr target="bib:Hultzsch1925-1926_01"/><citedRange
 										unit="page">5-6</citedRange></bibl>.</p>
 						</handDesc>
 					</physDesc>
@@ -111,161 +111,161 @@
 			<l n="a">diśatu va<supplied reason="omitted">ḥ</supplied> śriyam ambuja-locanas</l>
 			<l n="b">tridaśa-mauli-nighṛ<lb n="1r2=2" break="no"/>ṣta-padāmbujaḥ</l>
 			<l n="c" enjamb="yes">sakala-loka-bhayaṁ-kara-rākṣasa</l>
-			<l n="d">praśama-hetur a<lb n="1r3=3" break="no"/>j<choice><sic>e</sic><corr>o</corr></choice> madh<choice><sic>a</sic><corr>u</corr></choice>-sūdanaḥ ||-</l>
+			<l n="d">praśama-hetur a<lb n="1r3=3" break="no"/>j<choice><sic>e</sic><corr>o</corr></choice> madh<choice><sic>a</sic><corr>u</corr></choice>-sūdanaḥ <g type="gomutraFinal">.</g></l>
 		</lg>
 		
 		<lg n="2" met="praharṣiṇī">
 			<l n="a">śrī-bhartuś śayana-parasya netre </l>
 			<l n="b">yat teja<supplied reason="omitted">ḥ</supplied> sthiti-laya-sū<lb n="1r4=4" break="no"/>ti-hetuḥ </l>
 			<l n="c">tan-nābher ajani samasta-b<choice><orig>i</orig><reg>ī</reg></choice>jam</l>
-			<l n="d">abjam ātma-yonis tato 'bhavat :|-</l>
+			<l n="d">abjam ātma-yonis tato 'bhavat <g type="gomutraFinal">.</g></l>
 		</lg>
 		
 		<lg n="3" met="anuṣṭubh">
 			<l n="a"><lb n="1r5=5"/>A<supplied reason="omitted">ṁ</supplied>girās tata utpan<unclear>n</unclear>o</l>
 			<l n="b">loka-nāthāc catur-mmukhāt</l>
 			<l n="c">bṛhaspatis tato <lb n="1r6=6"/>mantr<choice><orig>i</orig><reg>ī</reg></choice></l>
-			<l n="d">śakrasya vala-bhedinaḥ |―</l>
+			<l n="d">śakrasya vala-bhedinaḥ <g type="gomutraFinal">.</g></l>
 		</lg>
 			
 		<lg n="4" met="anuṣṭubh">
 			<l n="a">tataś śaṁyus tato j<choice><sic>e</sic><corr>a</corr></choice>jñe</l>
 			<l n="b">bharadvāja-sa<lb n="1r7=7" break="no"/>māhvayaḥ</l>
 			<l n="c">tato droṇo maheṣvāsas</l>
-			<l n="d">samare śakra-vikramaḥ ||-</l>
+			<l n="d">samare śakra-vikramaḥ <g type="gomutraFinal">.</g></l>
 		</lg>
 			
 		<lg n="5" met="anuṣṭubh">
 			<l n="a">tato <lb n="1r8=8"/>dro<unclear reason="eccentric_ductus">ṇā</unclear>n mahā-bāhus</l>
 			<l n="b">sarvva-yu<supplied reason="omitted">d</supplied>dha-viśāradaḥ</l>
 			<l n="c">Aśvatthāmā kilāṁśena</l>
-			<l n="d">sa<surplus><unclear>r</unclear></surplus>mba<lb n="1r9=9" break="no"/>bhū<choice><sic>pa</sic><corr>va</corr></choice> pinākinaḥ ||-</l>
+			<l n="d">sa<surplus><unclear>r</unclear></surplus>mba<lb n="1r9=9" break="no"/>bhū<choice><sic>pa</sic><corr>va</corr></choice> pinākinaḥ <g type="gomutraFinal">.</g></l>
 		</lg>
 		
 		<lg n="6" met="anuṣṭubh">
 			<l n="a">aśvatthāmnas tato rājā</l>
 			<l n="b">pallavākhyo babhūva <choice><sic>U</sic><corr>yaḥ</corr></choice></l>
 			<l n="c">ra<pb n="1v" break="no"/><lb n="1v1=10" break="no"/>ra<choice><orig>t</orig><reg>k</reg></choice>ṣa nava-khaṇḍa-sthān</l>
-			<l n="d">bhūpatīn sa-kṛṣ<choice><orig>i</orig><reg>ī</reg></choice>valān· |-</l>
+			<l n="d">bhūpatīn sa-kṛṣ<choice><orig>i</orig><reg>ī</reg></choice>valān· <g type="gomutraFinal">.</g></l>
 		</lg>		
 					
 		<lg n="7" met="drutavilambita">
 			<l n="a">vimala-koṁkaṇikādi ta<lb n="1v2=11" break="no"/>d-anvayād</l>
 			<l n="b">ajani bṛndam ari-pramadānatam·</l>
 			<l n="c">nihita-śāsanam anya-nṛpeśv api</l>
-			<l n="d"><lb n="1v3=12"/>priyatamañ jaya-ghoṣam anāratam· :-</l>
+			<l n="d"><lb n="1v3=12"/>priyatamañ jaya-ghoṣam anāratam· <g type="gomutraFinal">.</g></l>
 		</lg>
 			
 		<lg n="8" met="anuṣṭubh">
 			<l n="a">bhuktvā bhuvaṁ sva-v<choice><orig>i</orig><reg>ī</reg></choice>ryyeṇa</l>
 			<l n="b">catus-<unclear>sā</unclear><lb n="1v4=13" break="no"/>gara-mekhalām·</l>
 			<l n="c">tata<supplied reason="omitted">ḥ</supplied> svargga<choice><orig>m</orig><reg>ṁ</reg></choice> vimānena</l>
-			<l n="d">gateṣu vimalādiṣu :|-</l>
+			<l n="d">gateṣu vimalādiṣu <g type="gomutraFinal">.</g></l>
 		</lg>
 			
 		<lg n="9" met="anuṣṭubh">
 			<l n="a">Ā<lb n="1v5=14" break="no"/>s<choice><orig>i</orig><reg>ī</reg></choice>t purandara-samo</l>
 			<l n="b">rājā dṛ<choice><sic>p</sic><corr>ḍha</corr></choice>a-bhaktir mmura-dvi<choice><sic>p</sic><corr>ṣ</corr></choice>i</l>
 			<l n="c"><choice><sic>t</sic><corr>d</corr></choice>antivarmmā mahā-<unclear reason="eccentric_ductus">b</unclear>āhuḥ</l>
-			<l n="d"><choice><sic>t</sic><corr>k</corr></choice>ṣmā<lb n="1v6=15" break="no"/>pāla-makuṭānataḥ ||-</l>
+			<l n="d"><choice><sic>t</sic><corr>k</corr></choice>ṣmā<lb n="1v6=15" break="no"/>pāla-makuṭānataḥ <g type="gomutraFinal">.</g></l>
 		</lg>
 			
 		<lg n="10" met="anuṣṭubh">
 			<l n="a">dharmmeṇa pālanā<choice><sic>t</sic><corr>d</corr></choice> bhūmiṁ</l>
 			<l n="b">kalāv api yuge nṛpaḥ –</l>
 			<l n="c">va<lb n="1v7=16" break="no"/>rṣaṇād api dānasya</l>
-			<l n="d">parjjanya Iva nirbabhau ||-</l>
+			<l n="d">parjjanya Iva nirbabhau <g type="gomutraFinal">.</g></l>
 		</lg>
 			
 		<lg n="11" met="anuṣṭubh">
 			<l n="a">Ātmano bandi-yuktān<supplied reason="omitted">y</supplied>ā<unclear>ṁ</unclear></l>
 			<l n="b">ya<lb n="1v8=17" break="no"/>mālaya-didṛ<choice><orig>t</orig><reg>k</reg></choice>ṣayā –</l>
 			<l n="c">pātheyam iva kṛtvār<choice><orig>i</orig><reg>ī</reg></choice>n</l>
-			<l n="d"><choice><sic>pa</sic><corr>kā</corr></choice>ṇḍāni visa<supplied reason="omitted">sa</supplied>rjja yaḥ | -</l>
+			<l n="d"><choice><sic>pa</sic><corr>kā</corr></choice>ṇḍāni visa<supplied reason="omitted">sa</supplied>rjja yaḥ <g type="gomutraFinal">.</g></l>
 		</lg>			
 					
 		<lg n="12" met="anuṣṭubh">
 			<l n="a">nandi<lb n="1v9=18" break="no"/>varmmā mahā-bāhus</l>
 			<l n="b">sa<supplied reason="omitted">ṁ</supplied>jāto <choice><orig>ta</orig><reg>da</reg></choice>ntiva<supplied reason="omitted">r</supplied>mmanaḥ</l>
 			<l n="c">samare vijitā bhūmir</l>
-			<l n="d">asahāye<pb n="2r" break="no"/><lb n="2r1=19" break="no"/>na yena saḥ |-</l>
+			<l n="d">asahāye<pb n="2r" break="no"/><lb n="2r1=19" break="no"/>na yena saḥ <g type="gomutraFinal">.</g></l>
 		</lg>
 			
 		<lg n="13" met="anuṣṭubh">
 			<l n="a">Āsīc chaṅkhāhvayā devī</l>
 			<l n="b">tanv-aṁgī nandivarmmaṇaḥ</l>
 			<l n="c">rāṣṭra<lb n="2r2=20" break="no"/>kūṭa-<supplied reason="omitted">ku</supplied>le jātā</l>
-			<l n="d">la<choice><sic>t</sic><corr>k</corr></choice>ṣmīr iva mura-dviṣaḥ |-</l>
+			<l n="d">la<choice><sic>t</sic><corr>k</corr></choice>ṣmīr iva mura-dviṣaḥ <g type="gomutraFinal">.</g></l>
 		</lg>
 			
 		<lg n="14" met="anuṣṭubh">
 			<l n="a">kṣamāvatī dharitrīva</l>
 			<l n="b">mā<supplied reason="omitted">tṛ</supplied>vaj jagataḥ <lb n="2r3=21"/> priyā</l>
 			<l n="c">babhau śaṁkhāhvayā devī</l>
-			<l n="d">rājña<supplied reason="omitted">ḥ</supplied> śrīr iva rūpiṇī :|-</l>
+			<l n="d">rājña<supplied reason="omitted">ḥ</supplied> śrīr iva rūpiṇī <g type="gomutraFinal">.</g></l>
 		</lg>
 			
 		<lg n="15" met="vasantatilakā">
 			<l n="a">tasyām· <lb n="2r4=22"/><unclear reason="eccentric_ductus">ba</unclear>bhūva mati-kānti-kalādi-matyām</l>
 			<l n="b">mānyaḥ kulena guṇavān bhuvana-traye<lb n="2r5=23" break="no"/>śaḥ</l>
 			<l n="c">Utpadyamāna-tapanādhipa-tulya-tejā</l>
-			<l n="d">jiṣṇuḥ kalā<choice><sic>vān</sic><corr>pa</corr></choice>-samare <lb n="2r6=24"/>nṛpatu<unclear reason="eccentric_ductus">ṁ</unclear>ga-devaḥ |-</l>
+			<l n="d">jiṣṇuḥ kalā<choice><sic>vān</sic><corr>pa</corr></choice>-samare <lb n="2r6=24"/>nṛpatu<unclear reason="eccentric_ductus">ṁ</unclear>ga-devaḥ <g type="gomutraFinal">.</g></l>
 		</lg>
 			
 		<lg n="16" met="anuṣṭubh">
 			<l n="a">yat-prasādā<supplied reason="omitted">r</supplied>jjitā senā</l>
 			<l n="b">pāṇḍyena samare purā</l>
 			<l n="c"><lb n="2r7=25"/>pārericit sa rājā<unclear reason="eccentric_ductus">gn</unclear>ir </l>
-			<l n="d">ddadāha ripu-saṁhatim· ||-</l>
+			<l n="d">ddadāha ripu-saṁhatim· <g type="gomutraFinal">.</g></l>
 		</lg>
 			
 		<lg n="17" met="anuṣṭubh">
 			<l n="a">nṛpatuṁga Iti khyāto</l>
 			<l n="b"><lb n="2r8=26"/>bālo ’pi bhuvaneśvaraḥ –</l>
 			<l n="c">khyāto na kevalam bhūmāv</l>
-			<l n="d">amuṣminn api rāmavat <lb n="2r9=27"/> ||-</l>
+			<l n="d">amuṣminn api rāmavat <lb n="2r9=27"/> <g type="gomutraFinal">.</g></l>
 		</lg>
 			
 		<lg n="18" met="anuṣṭubh">
 			<l n="a">tasyopakāra-saṁyukto</l>
 			<l n="b">rājñaḥ kuru-kulodbhavaḥ</l>
 			<l n="c">veśāli-vaṁśa-m<unclear>ā</unclear><pb n="2v" break="no"/><lb n="2v1=28" break="no"/><unclear>r</unclear>ttā<unclear>ṇḍaḥ</unclear></l>
-			<l n="d">prajānāṁ śaraṇe rataḥ |-</l>
+			<l n="d">prajānāṁ śaraṇe rataḥ <g type="gomutraFinal">.</g></l>
 		</lg>
 			
 		<lg n="19" met="anuṣṭubh">
 			<l n="a">śaśivat tilako loke</l>
 			<l n="b">gāmbhīryyādau <lb n="2v2=29"/>samudravat</l>
 			<l n="c">sū<supplied reason="omitted">r</supplied>yyavad rakṣaṇāl lokā<choice><sic>n</sic><corr>ṁl</corr></choice></l>
-			<l n="d">lokānān nilayo nṛpaḥ ||-</l>
+			<l n="d">lokānān nilayo nṛpaḥ <g type="gomutraFinal">.</g></l>
 		</lg>
 			
 		<lg n="20" met="anuṣṭubh">
 			<l n="a"><lb n="2v3=30"/>tasmāt tasyocitan nāma</l>
 			<l n="b">n<unclear>i</unclear>laitāṁgīti devavat</l>
 			<l n="c">Athavā sutarān nāma</l>
-			<l n="d">pra<lb n="2v4=31" break="no"/>tyakṣatvād viśām pateḥ ||-</l>
+			<l n="d">pra<lb n="2v4=31" break="no"/>tyakṣatvād viśām pateḥ <g type="gomutraFinal">.</g></l>
 		</lg>
 			
 		<lg n="21" met="anuṣṭubh">
 			<l n="a">grāma-trayaṁ sva-rāṣtre saḥ</l>
 			<l n="b">kuru-vaṁśa-vivarddha<lb n="2v5=32" break="no"/>na<unclear>ḥ</unclear></l>
 			<l n="c">vijñā<supplied reason="lost">pya</supplied> nṛpatuṁgeśāl</l>
-			<l n="d">labdham ājñapti-pū<unclear>r</unclear>vvaka<unclear>m‧</unclear> :-</l>
+			<l n="d">labdham ājñapti-pū<unclear>r</unclear>vvaka<unclear>m‧</unclear> <g type="gomutraFinal">.</g></l>
 		</lg>
 			
 		<lg n="22" met="anuṣṭubh">
 			<l n="a">ceṭṭu<lb n="2v6=33" break="no"/>p-pākkam phalādhāraṁ</l>
 			<l n="b">grāmam ekam a<unclear>thā</unclear>param‧</l>
 			<l n="c" enjamb="yes">grāma<choice><sic>ḥ</sic><corr>ṁ</corr></choice> vidyāviḷāṁgādi</l>
-			<l n="d">re<choice><sic><choice><unclear>bh</unclear><unclear>h</unclear></choice></sic><corr>ph</corr></choice>ā<lb n="2v7=34" break="no"/>nta-pada-nāmaka<unclear>m‧</unclear> |-</l>
+			<l n="d">re<choice><sic><choice><unclear>bh</unclear><unclear>h</unclear></choice></sic><corr>ph</corr></choice>ā<lb n="2v7=34" break="no"/>nta-pada-nāmaka<unclear>m‧</unclear> <g type="gomutraFinal">.</g></l>
 		</lg>
 			
 		<lg n="23" met="anuṣṭubh">
 			<l n="a">tasmād iṟaippuṉaiccerin</l>
 			<l n="b">tṛtīyaṁ sarvva-<unclear>sampa</unclear>dam</l>
 			<l n="c"><unclear>E</unclear>vaṁ <lb n="2v8=35"/>grāma-trayaṁ labdha<choice><orig>m</orig><reg>ṁ</reg></choice></l>
-			<l n="d">vidyā-sthānāya dattavān ||-</l>
+			<l n="d">vidyā-sthānāya dattavān <g type="gomutraFinal">.</g></l>
 		</lg>
 			
 		<lg n="24" met="anuṣṭubh">
@@ -279,42 +279,42 @@
 			<l n="a"><pb n="3r"/><lb n="3r1=37"/>vidyā-nad<choice><orig>i</orig><reg>ī</reg></choice> tathāg<choice><sic>ath</sic><corr>ādh</corr></choice>ā</l>
 			<l n="b">caturddiśa-gaṇākulā </l>
 			<l n="c">vāgū<unclear>r</unclear>-grāma-juṣ<supplied reason="lost">āṁ</supplied> <lb n="3r2=38"/> sthānaṁ</l>
-			<l n="d">vyāpya yasmād vyavasthitā |―</l>
+			<l n="d">vyāpya yasmād vyavasthitā <g type="gomutraFinal">.</g></l>
 		</lg>
 			
 		<lg n="26" met="anuṣṭubh">
 			<l n="a">tat sthānam evaṁ viduṣāṁ</l>
 			<l n="b">vidyā<lb n="3r3=39" break="no"/>sthānam pracakṣate</l>
 			<l n="c">tebhyo da<supplied reason="omitted">t</supplied>tvā sa bhūpālo</l>
-			<l n="d">gramān ājñapti<lb n="3r4=40" break="no"/>pu<unclear>r</unclear>vvakān |―</l>
+			<l n="d">gramān ājñapti<lb n="3r4=40" break="no"/>pu<unclear>r</unclear>vvakān <g type="gomutraFinal">.</g></l>
 		</lg>
 			
 		<lg n="27" met="anuṣṭubh">
 			<l n="a">hasti-sañcāri-s<choice><orig>i</orig><reg>ī</reg></choice>māntān</l>
 			<l n="b">ātmānam bahu-manyate</l>
 			<l n="c">yuktān sa<lb n="3r5=41" break="no"/>rvva-par<choice><orig>i</orig><reg>ī</reg></choice>hārair</l>
-			<l n="d">akaratvena rakṣitān |―</l>
+			<l n="d">akaratvena rakṣitān <g type="gomutraFinal">.</g></l>
 		</lg>
 			
 		<lg n="28" met="anuṣṭubh">
 			<l n="a">Ājñaptir uttamaśīlas</l>
 			<l n="b">trai-lo<lb n="3r6=42" break="no"/>kyeśvara-pūjitaḥ</l>
 			<l n="c"><unclear>ma</unclear>ntrī bṛhaspati-prakhyo</l>
-			<l n="d">rājña<supplied reason="omitted">ḥ</supplied> śrī-tuṁgava<unclear>r</unclear>mmaṇaḥ |―</l>
+			<l n="d">rājña<supplied reason="omitted">ḥ</supplied> śrī-tuṁgava<unclear>r</unclear>mmaṇaḥ <g type="gomutraFinal">.</g></l>
 		</lg>
 				
 		<lg n="29" met="anuṣṭubh">
 			<l n="a"><lb n="3r7=43"/>Āgāminaḥ prajāpālān</l>
 			<l n="b">yācate kuru-nandanaḥ </l>
 			<l n="c">dha<supplied reason="omitted">rmma</supplied>syaitasya sāmānyā<lb n="3r8=44" break="no"/>t</l>
-			<l n="d">pālanīya Iti svayam‧ :|―</l>
+			<l n="d">pālanīya Iti svayam‧ <g type="gomutraFinal">.</g></l>
 		</lg>
 				
 		<lg n="30" met="anuṣṭubh">
 			<l n="a">dāsa<supplied reason="omitted">ḥ</supplied> sthānasya vidyāyā</l>
 			<l n="b">vāgūr-grāma-juṣām a<lb n="3r9=45" break="no"/>yam‧ </l>
 			<l n="c">kṛtavā<choice><sic>n</sic><corr>ñ</corr></choice> śāstra-ta<supplied reason="omitted">t</supplied>tva-jñaḥ</l>
-			<l n="d">praśa<unclear>s</unclear>tin nāgayas su<supplied reason="omitted">kṛ</supplied>t :|-</l>
+			<l n="d">praśa<unclear>s</unclear>tin nāgayas su<supplied reason="omitted">kṛ</supplied>t <g type="gomutraFinal">.</g></l>
 		</lg>
 	</div>
 	
@@ -376,7 +376,7 @@
 			<lb n="4v6=71" break="no"/>m Uṇṇilaṉ oḻi-v-iṉṟi vākūr-<hi rend="grantha">vidyā-sthā</hi>ṉattārkku <hi rend="grantha">vidyā</hi><surplus><gap reason="illegible" quantity="1" unit="character"/></surplus>				
 			<lb n="4v7=72" break="no"/><hi rend="grantha">bhogam</hi>-āyi vākūrōṭē Ēṟi vākūr peṟṟa pari<hi rend="grantha">hā</hi>ram-um <hi rend="grantha">vyavas<choice><sic>te</sic><corr>thai</corr></choice></hi><unclear>yu</unclear>
 			<lb n="4v8=73" break="no"/>m peṟṟu <hi rend="grantha">sarvva-parihā</hi>ram-āyi <hi rend="grantha">brahma</hi>tēyam-āyi-p para<hi rend="grantha">datti</hi> ceṉṟa
-			<lb n="4v9=74" break="no"/> tu :||⸺</p>
+			<lb n="4v9=74" break="no"/> tu <g type="gomutraFinal">.</g></p>
 	</div>
 	
 	<div type="textpart" xml:lang="san-Latn" rendition="class:38768 maturity:83215" n="C">
@@ -386,7 +386,7 @@
 			<l n="a">puṇyaṁ samaṁ kṛtavatām‧ parirakṣatāñ ca</l>
 			<l n="b">tad rakṣateti nṛpatir nnṛ<lb n="4v10=75" break="no"/>patuṅgavarmmā</l>
 			<l n="c">Āgāminaḥ kṣitipat<choice><orig>i</orig><reg>ī</reg></choice>n praṇamaty ajasram‧</l>
-			<l n="d">mūrd<unclear>dhnā mu</unclear>kunda-<unclear>caraṇā</unclear><supplied reason="omitted">m</supplied><pb n="5r"/><lb n="5r1=76"/>buja-śekhareṇa :||-</l>
+			<l n="d">mūrd<unclear>dhnā mu</unclear>kunda-<unclear>caraṇā</unclear><supplied reason="omitted">m</supplied><pb n="5r"/><lb n="5r1=76"/>buja-śekhareṇa <g type="gomutraFinal">.</g></l>
 		</lg>
 		 
 			
@@ -395,7 +395,7 @@
 			<l n="b">suvarṇṇa-kṛt sarvva-ś<supplied reason="lost">āstra</supplied>
 				<lb n="5r2=77" break="no"/>niṣṇātaḥ</l>
 			<l n="c">Alikhan nṛpatuṁgākhyaḥ</l>
-			<l n="d">pallava-kula-<unclear>m</unclear>ūla-bhṛtyo ’tra :||-</l></lg>
+			<l n="d">pallava-kula-<unclear>m</unclear>ūla-bhṛtyo ’tra <g type="gomutraFinal">.</g></l></lg>
 	</div>
 	
 	<div type="textpart" xml:lang="tam-Latn" rendition="class:57475 maturity:83215" n="D">
@@ -403,7 +403,7 @@
 			
 		<p>
 			<lb n="5r3=78"/>kaccipēṭṭu k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-paicārattu U<hi rend="grantha">di</hi>to<hi rend="grantha">da</hi>ya-peru<supplied reason="omitted">n</supplied>-taṭṭā<supplied reason="omitted">ṉ</supplied> makaṉ mā<hi rend="grantha">de</hi>vi-peru<supplied reason="omitted">n</supplied>-taṭṭā
-			<lb n="5r4=79" break="no"/>ṉ maka<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">nṛpa</hi>tu<hi rend="grantha">ṁga</hi><supplied reason="omitted">ṉ</supplied> Eḻuttu :||-
+			<lb n="5r4=79" break="no"/>ṉ maka<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">nṛpa</hi>tu<hi rend="grantha">ṁga</hi><supplied reason="omitted">ṉ</supplied> Eḻuttu <g type="gomutraFinal">.</g>
 		</p>
 		
 		<p>

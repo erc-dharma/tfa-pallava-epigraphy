@@ -145,7 +145,7 @@
       		
       		<app loc="24">
       			<lem><hi rend="grantha">panmā<unclear>he</unclear></hi>
-      			<lb n="25" break="no"/><hi rend="grantha">śvara-<supplied reason="omitted">ra</supplied><supplied reason="lost">rakṣai ||</supplied></hi></lem>
+      			<lb n="25" break="no"/><hi rend="grantha">śvara-<supplied reason="omitted">ra</supplied><supplied reason="lost">rakṣai <g type="ddanda">.</g></supplied></hi></lem>
       			<rdg source="bib:SubrahmanyaAiyer1932_01"><hi rend="grantha">panmāhe</hi>
       			<lb n="25" break="no"/><hi rend="grantha">śvara-<supplied reason="omitted">ra</supplied>kṣai <g type="ddanda">.</g></hi></rdg>
       			<note>The end of lines 24 and 25 has been damaged since the edition by <ptr target="bib:SubrahmanyaAiyer1932_01"/>.</note>
