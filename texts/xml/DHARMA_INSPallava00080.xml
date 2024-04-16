@@ -90,13 +90,14 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"> 
             <!--update milestones-->
-            <ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">      		   
+            
+   <ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">      		   
                <milestone type="pagelike" unit="faces" n="ABC"/><label xml:lang="eng">western and southern bases of <foreign>maṇḍapa</foreign>, and western base of <foreign>vimāna</foreign></label>
                
                <lb n="1"/>
                <milestone unit="block" n="1"/><label xml:lang="eng">western base of <foreign>maṇḍapa</foreign></label>
                
-               <supplied reason="lost"><hi rend="grantha">svasti śrī</hi></supplied>
+               <supplied reason="lost">svasti śrī</supplied>
             </ab>
             
             <p>
