@@ -112,7 +112,7 @@
 
       	<div type="apparatus">
       		
-      		<app loc="1">
+      		<listApp><app loc="1">
       			<lem><choice><unclear>o</unclear><unclear>e</unclear></choice>	
 		<lb n="2" break="no"/><supplied reason="lost"><choice><unclear>ṭṭ</unclear><unclear>ḻ</unclear><unclear>ṉṟ</unclear><!--Display issue: third <unclear> within choice not displayed. Check EGD!--></choice>ā</supplied><unclear>va</unclear>tu</lem>
       			<note>Three different readings are possible for the regnal year: 61st (<foreign>Āṟupatt’ oṉṟāvatu</foreign>), 67th (<foreign>Āṟupatt’ ēḻāvatu</foreign>), and 68th (<foreign>Āṟupatt’ eṭṭāvatu</foreign>). In <ptr target="bib:ARIE2018-2019"/>, the reading 69th is suggested, but there is not enough space on the stone to accomodate three characters in the gap and obtain <foreign>Āṟupatt’ oṉpatāvatu</foreign>.</note>
@@ -126,7 +126,7 @@
       		<app loc="5">
       			<lem><gap reason="lost" quantity="4" unit="character" precision="low"/> <space/> <gap reason="lost" quantity="6" unit="character" precision="low"/></lem>
       			<note>The upper part of the headdress of the left-hand figure (represented below the inscription on the stele) comes between these two lacunae.</note>
-      		</app>
+      		</app></listApp>
       		
       	</div>
 
