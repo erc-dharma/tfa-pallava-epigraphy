@@ -86,10 +86,9 @@
 	<text xml:space="preserve">
       <body>
 
-      	<div type="edition" xml:lang="tam-Latn">
-      		
-      		<ab>
-      			<lb n="1"/><hi rend="grantha"><supplied reason="lost">svast</supplied>i śrī</hi>
+      	<div type="edition" xml:lang="tam-Latn" rendition="class:38776 maturity:83215"><!--confirm script-->
+      		<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+      			<lb n="1"/><supplied reason="lost">svast</supplied>i śrī
       			
       		</ab>
       		

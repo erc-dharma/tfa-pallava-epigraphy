@@ -84,8 +84,8 @@
 	</teiHeader>
 	<text xml:space="preserve">
       <body>
-
-      	<div type="edition" xml:lang="tam-Latn">
+      	
+<div type="edition" xml:lang="tam-Latn" rendition="class:70420 maturity:83215">
       		
       		<p>
       			<lb n="1-3"/><gap reason="undefined" quantity="3" unit="line"/>
