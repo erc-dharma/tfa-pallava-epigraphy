@@ -86,11 +86,10 @@
          <change who="part:emfr" when="2020-07-02" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve">
-		
-		<body>
-			
-			<div type="edition" xml:lang="san-Latn">
+   
+<text xml:space="preserve">
+<body>
+<div type="edition" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
 				
 				<lg met="vasantatilakā" n="1">
 					<l n="a" real="++-+---+--+-+"><milestone unit="block" n="a"/><lb n="1"/><supplied reason="lost">śrī-pallavānvaya-kulācala-r</supplied>ājasi<unclear>ṁ</unclear>ho</l>
@@ -103,14 +102,14 @@
 			
 			<div type="apparatus">
 				
-      		<listApp>
+      		<!--<listApp>
       			
       			<app loc="1">
       				<lem/>
       				<rdg source="bib:ARIE1966-1967"/>
       			</app>    
       			
-      		</listApp>
+      		</listApp>-->
       		
          </div>
 

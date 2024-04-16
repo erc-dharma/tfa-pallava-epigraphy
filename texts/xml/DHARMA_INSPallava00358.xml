@@ -90,18 +90,18 @@
    <text xml:space="preserve">
       <body>
 
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
          	
          <p>
-<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>gṛhe śailā<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> gṛhe śailā <gap reason="lost" extent="unknown" unit="character"/>
             </p>
          </div>
                      
          <div type="apparatus">
-         	<app loc="1">
+         	<listApp><app loc="1">
          		<lem>gṛhe śailā</lem>
          		<rdg source="bib:Mahalingam1988_01">gṛheśailā</rdg>
-         	</app>
+         	</app></listApp>
          </div>
 
          <div type="translation" resp="part:emfr">
