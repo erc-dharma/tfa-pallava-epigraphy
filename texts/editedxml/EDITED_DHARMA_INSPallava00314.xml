@@ -89,10 +89,10 @@
    <text xml:space="preserve">
       <body>
 
-      	<div type="edition" xml:lang="san-Latn">
+      	<div type="edition" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
       		
       		<p>
-      			<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>lanaḥ <g type="ddandaOrnate">.</g> nṛpa-c<supplied reason="lost">ū</supplied>ḷāmaṇi<gap reason="lost" extent="unknown" unit="character"/>
+      			<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> lanaḥ <g type="ddandaOrnate">.</g> nṛpa-c<supplied reason="lost">ū</supplied>ḷāmaṇi<gap reason="lost" extent="unknown" unit="character"/>
       		</p>      		
       		
       	</div>

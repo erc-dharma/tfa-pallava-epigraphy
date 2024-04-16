@@ -88,7 +88,7 @@
    <text xml:space="preserve">
       <body>
 
-      	<div type="edition" xml:lang="tam-Latn">
+      	<div type="edition" xml:lang="tam-Latn" rendition="class:70420 maturity:83215">
       		
       		<p>
       			<lb n="1"/>kō-vicaiya-may<choice><sic>a</sic><corr>e</corr></choice>ntira-paruma
@@ -98,7 +98,7 @@
       		
       		<p>
       			kōvūr-nāṭṭu
-      			<lb n="3" break="no"/>-k kārimaṅkalaṅ kaṅkati A
+      			<lb n="3" break="no"/>-k kāri-maṅkalaṅ kaṅkati A
       			<lb n="4" break="no"/>raicarōṭu
       			<lb n="5"/>purava<unclear>r</unclear>
       			<lb n="6"/>peṟṟāṇṭāṇ
