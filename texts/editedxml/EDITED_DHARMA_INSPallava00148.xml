@@ -89,119 +89,104 @@
       <body>
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">   
+	
+	<p>
+		<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>ya</unclear>varmanku <gap reason="lost" extent="unknown" unit="character"/>
+	</p>
+	<p>
+		<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>m</unclear>ān tān naṅkū<unclear>r A</unclear>ṭai <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <choice><unclear>t</unclear><unclear>n</unclear></choice> toṭṭa kuḷam<unclear>·</unclear> pēr <hi rend="grantha">śrī</hi>-<unclear>A</unclear><supplied reason="lost">va</supplied>
+		<lb n="4" break="no"/><supplied reason="lost">ni</supplied>-nāraṇam<unclear>·</unclear>		
+	</p>
+	<p>
+		maṇi-k-kirāmat<unclear>·</unclear>tār 
+		<lb n="5" break="no"/><supplied reason="lost">k</supplied><unclear>k</unclear>um cēṉā-mukattārkkum<unclear>·</unclear>
+		<lb n="6"/><unclear>muḻu</unclear>tārkkum Aṭai-k-kalam<unclear>·</unclear>
+	</p>
+	
+</div>
+      	
+<div type="apparatus">
       		
-      		<p>
-      			<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>ya</unclear>varmanku <gap reason="lost" extent="unknown" unit="character"/>
-      		</p>
-      		<p>
-      			<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>m</unclear>ān tān naṅkū<unclear>r A</unclear>ṭai <gap reason="lost" extent="unknown" unit="character"/>
-      			<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <choice><unclear>t</unclear><unclear>n</unclear></choice> toṭṭa kuḷam<unclear>·</unclear> pēr <hi rend="grantha">śrī</hi>-<unclear>A</unclear><supplied reason="lost">va</supplied>
-      			<lb n="4" break="no"/><supplied reason="lost">ni</supplied>-nāraṇam<unclear>·</unclear>
-      			
-      		</p>
-      		<p>
-      			maṇikkirāmat<unclear>·</unclear>tār 
-      			<lb n="5" break="no"/><supplied reason="lost">k</supplied><unclear>k</unclear>um cēṉāmukattārkkum<unclear>·</unclear>
-      			<lb n="6"/><unclear>muḻu</unclear>tārkkum Aṭaikkalam<unclear>·</unclear>
-      		</p>
-      		
-      	</div>
-
-      	<div type="apparatus">
-      		
-      		<listApp>
-      			
-      			<app loc="1">
-      				<lem><gap reason="lost" extent="unknown" unit="character"/> <unclear>ya</unclear>varmanku <gap reason="lost" extent="unknown" unit="character"/></lem>
-      				<rdg source="bib:Hultzsch1913_02"><gap reason="undefined" extent="unknown" unit="character"/> <hi rend="grantha">ra</hi>varma<choice><sic><unclear>t</unclear></sic><corr>ṟ</corr></choice>ku <gap reason="undefined" extent="unknown" unit="character"/></rdg>
-      				<rdg source="bib:Hultzsch1914_01"><gap reason="undefined" extent="unknown" unit="character"/> ravarman ku<unclear>ṇa</unclear> <gap reason="undefined" extent="unknown" unit="character"/></rdg>
-      				<rdg source="bib:GopinathaRao1925-1926_01"><gap reason="undefined" quantity="7" unit="character"/> <unclear>ya</unclear>varmatku <unclear>y</unclear> <gap reason="undefined" quantity="5" unit="character"/></rdg>
-      				<rdg source="bib:NilakantaSastri1932_02"><gap reason="undefined" quantity="2" unit="character"/> <unclear>ra</unclear>varman ku<supplied reason="undefined">ṇā</supplied></rdg>
-      				<rdg source="bib:NilakantaSastri1949_01"><gap reason="undefined" quantity="8" unit="character"/> <unclear>ya</unclear> varmakku <gap reason="undefined" quantity="1" unit="character"/></rdg>
-      				<rdg source="bib:Karashima2002_02 bib:Karashima+Subbarayalu2009_01"><gap reason="undefined" extent="unknown" unit="character"/> <unclear>ya</unclear>ravarmakku</rdg>
-      			</app>
-      			      			
-      			<app loc="2">
-      				<lem><gap reason="lost" extent="unknown" unit="character"/> <unclear>m</unclear>ān tān</lem>
-      				<rdg source="bib:Hultzsch1913_02"><unclear>m</unclear>ān tān</rdg>
-      				<rdg source="bib:Hultzsch1914_01"><unclear>m</unclear>ān tān</rdg>
-      				<rdg source="bib:GopinathaRao1925-1926_01"><gap reason="undefined" quantity="3" unit="character"/> <unclear>m</unclear>ān tān</rdg>
-      				<rdg source="bib:NilakantaSastri1932_02 bib:NilakantaSastri1949_01"><gap reason="undefined" quantity="2" unit="character"/> mān tān</rdg>
-      				<rdg source="bib:Karashima2002_02"><gap reason="undefined" quantity="2" unit="character"/> <unclear>m</unclear>āṉ tāṉ</rdg>
-      				<rdg source="bib:Karashima+Subbarayalu2009_01"><gap reason="lost" extent="unknown" unit="character"/> māṉ tāṉ</rdg>
-      			</app>
-      			
-      			<app loc="2">
-      				<lem>naṅkū<unclear>r A</unclear>ṭai <gap reason="lost" extent="unknown" unit="character"/>
-      					<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <choice><unclear>t</unclear><unclear>n</unclear></choice></lem>
-      				<rdg source="bib:Hultzsch1913_02">naṅkar<unclear>aiy</unclear>ai<lb n="3" break="no"/>t</rdg>
-      				<rdg source="bib:Hultzsch1914_01">naṅkūr a<unclear>ṭ</unclear>ai <gap reason="lost" extent="unknown" unit="character"/>
-<lb n="3"/><unclear>t</unclear></rdg>
-      				<rdg source="bib:GopinathaRao1925-1926_01">naṅ<unclear>ku</unclear> rayai <gap reason="undefined" quantity="5" unit="character"/><lb n="3"/><gap reason="undefined" quantity="2" unit="character"/> t</rdg>
-      				<rdg source="bib:NilakantaSastri1932_02 bib:NilakantaSastri1949_01">naṅk<unclear>ū</unclear>r<unclear>u</unclear>ṭai<unclear>yā</unclear><lb n="3" break="no"/>n</rdg>
-      				<rdg source="bib:Karashima2002_02">naṅk<unclear>u</unclear>r<unclear>u</unclear>ṭaiy<unclear>a</unclear><lb n="3" break="no"/><unclear>n</unclear></rdg>
-      				<rdg source="bib:Karashima+Subbarayalu2009_01">naṅ<unclear>kurutaiya</unclear><lb n="3" break="no"/><unclear>ṉ</unclear></rdg>
-      				<note>The standardised reading <foreign>naṅkūr-utaiyāṉ</foreign> would make good sense, but it does not appear possible to us, as it is not clear if letters are lost at the beginning of the line 3 and if <foreign>toṭṭa</foreign>, in the same line 3, is preceded by <foreign>t</foreign> or <foreign>n</foreign>.</note>
-      			</app>
-      			
-      			<app loc="3">
-      				<lem> toṭṭa</lem>
-      				<rdg source="bib:Hultzsch1913_02 bib:Hultzsch1914_01"/>
-      				<rdg source="bib:GopinathaRao1925-1926_01"><gap reason="undefined" quantity="2" unit="character"/> <unclear>t</unclear>toṭṭa</rdg>
-      				<rdg source="bib:NilakantaSastri1932_02 bib:NilakantaSastri1949_01">n toṭṭa</rdg>
-      				<rdg source="bib:Karashima2002_02"><unclear>n</unclear> toṭṭa</rdg>
-      				<rdg source="bib:Karashima+Subbarayalu2009_01"><unclear>ṉ</unclear> toṭṭa</rdg>
-      			</app>
-      			
-      			<app loc="3">
-      				<lem>kuḷam<unclear>·</unclear> pēr</lem>
-      				<rdg source="bib:Hultzsch1913_02">kuḷamp-ēr</rdg>
-      				<rdg source="bib:Hultzsch1914_01 bib:GopinathaRao1925-1926_01 bib:NilakantaSastri1932_02 bib:NilakantaSastri1949_01 bib:Karashima2002_02 bib:Karashima+Subbarayalu2009_01">kuḷam pēr</rdg>
-      			</app>
-      			
-      			<app loc="3">
-      				<lem><hi rend="grantha">śrī</hi>-<unclear>A</unclear><supplied reason="lost">va</supplied>
-      			<lb n="4" break="no"/><supplied reason="lost">ni</supplied>-nāraṇam<unclear>·</unclear></lem>
-      				<rdg source="bib:Hultzsch1913_02"><hi rend="grantha">śrī</hi>
-      			<lb n="4"/>nāraṇam</rdg>
-      				<rdg source="bib:Hultzsch1914_01"><hi rend="grantha">śrī</hi><unclear>Ava</unclear><supplied reason="undefined">ni
-</supplied>      			<lb n="4" break="no"/>nāraṇam</rdg>
-      				<rdg source="bib:GopinathaRao1925-1926_01"><hi rend="grantha">śrī</hi>
-      			<lb n="4" break="no"/>nāraṇam</rdg>
-      				<rdg source="bib:NilakantaSastri1932_02"><hi rend="grantha">śrī</hi> <unclear>Avani</unclear>
-      			<lb n="4" break="no"/>nāraṇam</rdg>
-      				<rdg source="bib:NilakantaSastri1949_01 bib:Karashima2002_02 bib:Karashima+Subbarayalu2009_01"><hi rend="grantha">śrī</hi> A<unclear>vani</unclear>
-      			<lb n="4" break="no"/>nāraṇam</rdg>
-      				<note>The syllable <foreign>ni</foreign> that most editors supply as omitted at the end of line 3 might in fact be supplied as lost at the beginning of line 4. It is in fact not clear whether letters have been lost on the left, on the right, or on both sides of the slab.</note>
-      			</app>
-      			
-      			<app loc="4">
-      				<lem>maṇikkirāmat<unclear>·</unclear>tār 
-      			<lb n="5" break="no"/><supplied reason="lost">k</supplied><unclear>k</unclear>um</lem>
-      				<rdg source="bib:Hultzsch1913_02 bib:Karashima2002_02">maṇikkirāmattār<unclear>k</unclear> 
-      			<lb n="5" break="no"/><unclear>k</unclear>um</rdg>
-      				<rdg source="bib:Hultzsch1914_01">maṇikkirāmattār<supplied reason="undefined">k</supplied> 
-      			<lb n="5" break="no"/><unclear>k</unclear>um</rdg>
-      				<rdg source="bib:GopinathaRao1925-1926_01">maṇikkirāmattār 
-      			<lb n="5" break="no"/><supplied reason="lost">k</supplied>kum</rdg>
-      				<rdg source="bib:NilakantaSastri1932_02 bib:NilakantaSastri1949_01">maṇikkirāmattār<unclear>k</unclear> 
-      			<lb n="5" break="no"/>kum</rdg>      				
-      				<rdg source="bib:Karashima+Subbarayalu2009_01">maṇikkirāmattārk 
-      			<lb n="5" break="no"/>kum</rdg>
-      				<note>The syllable <foreign>k</foreign> that most editors supply as omitted at the end of line 4 might in fact be supplied as lost at the beginning of line 5. It is in fact not clear whether letters have been lost on the left, on the right, or on both sides of the slab.</note>
-      			</app>
-      			
-      			
-      			<app loc="6">
-      				<lem><unclear>muḻu</unclear>tārkkum</lem>
-      				<rdg source="bib:Hultzsch1913_02"><hi rend="grantha"><unclear>cā</unclear></hi><unclear>pa</unclear><supplied reason="omitted">t</supplied>tārkkum</rdg>
-      				<rdg source="bib:Hultzsch1914_01"><unclear>m uḻu</unclear>tārkkum</rdg>
-      				<rdg source="bib:GopinathaRao1925-1926_01"><unclear>ku</unclear>la<supplied reason="omitted">t</supplied>tārkkum</rdg>
-      				<rdg source="bib:NilakantaSastri1932_02"><gap reason="undefined" quantity="1" unit="character"/> patārkkum</rdg>
-      				<rdg source="bib:NilakantaSastri1949_01"><gap reason="lost" extent="unknown" unit="character"/> pātarkkum</rdg>
-      				<rdg source="bib:Karashima2002_02 bib:Karashima+Subbarayalu2009_01"><gap reason="lost" extent="unknown" unit="character"/> apatārkkum</rdg>
-      				<note><bibl><ptr target="bib:Hultzsch1914_01"/></bibl> suggests that <foreign>uḻutār</foreign> is used here in the sense of <foreign>uḻavar</foreign> or <foreign>uḻunar</foreign>, "cultivators".</note>
-      			</app>
+	<listApp>
+		
+		<app loc="1">
+			<lem><gap reason="lost" extent="unknown" unit="character"/> <unclear>ya</unclear>varmanku <gap reason="lost" extent="unknown" unit="character"/></lem>
+			<rdg source="bib:Hultzsch1913_02"><gap reason="undefined" extent="unknown" unit="character"/> <hi rend="grantha">ra</hi>varma<choice><sic><unclear>t</unclear></sic><corr>ṟ</corr></choice>ku <gap reason="undefined" extent="unknown" unit="character"/></rdg>
+			<rdg source="bib:Hultzsch1914_01"><gap reason="undefined" extent="unknown" unit="character"/> ravarman ku<unclear>ṇa</unclear> <gap reason="undefined" extent="unknown" unit="character"/></rdg>
+			<rdg source="bib:GopinathaRao1925-1926_01"><gap reason="undefined" quantity="7" unit="character"/> <unclear>ya</unclear>varmatku <unclear>y</unclear> <gap reason="undefined" quantity="5" unit="character"/></rdg>
+			<rdg source="bib:NilakantaSastri1932_02"><gap reason="undefined" quantity="2" unit="character"/> <unclear>ra</unclear>varman ku<supplied reason="undefined">ṇā</supplied></rdg>
+			<rdg source="bib:NilakantaSastri1949_01"><gap reason="undefined" quantity="8" unit="character"/> <unclear>ya</unclear> varmakku <gap reason="undefined" quantity="1" unit="character"/></rdg>
+			<rdg source="bib:Karashima2002_02 bib:Karashima+Subbarayalu2009_01"><gap reason="undefined" extent="unknown" unit="character"/> <unclear>ya</unclear>ravarmakku</rdg>
+		</app>
+		
+		<app loc="2">
+			<lem><gap reason="lost" extent="unknown" unit="character"/> <unclear>m</unclear>ān tān</lem>
+			<rdg source="bib:Hultzsch1913_02"><unclear>m</unclear>ān tān</rdg>
+			<rdg source="bib:Hultzsch1914_01"><unclear>m</unclear>ān tān</rdg>
+			<rdg source="bib:GopinathaRao1925-1926_01"><gap reason="undefined" quantity="3" unit="character"/> <unclear>m</unclear>ān tān</rdg>
+			<rdg source="bib:NilakantaSastri1932_02 bib:NilakantaSastri1949_01"><gap reason="undefined" quantity="2" unit="character"/> mān tān</rdg>
+			<rdg source="bib:Karashima2002_02"><gap reason="undefined" quantity="2" unit="character"/> <unclear>m</unclear>āṉ tāṉ</rdg>
+			<rdg source="bib:Karashima+Subbarayalu2009_01"><gap reason="lost" extent="unknown" unit="character"/> māṉ tāṉ</rdg>
+		</app>
+		
+		<app loc="2">
+			<lem>naṅkū<unclear>r A</unclear>ṭai <gap reason="lost" extent="unknown" unit="character"/><lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <choice><unclear>t</unclear><unclear>n</unclear></choice></lem>
+			<rdg source="bib:Hultzsch1913_02">naṅkar<unclear>aiy</unclear>ai<lb n="3" break="no"/>t</rdg>
+			<rdg source="bib:Hultzsch1914_01">naṅkūr a<unclear>ṭ</unclear>ai <gap reason="lost" extent="unknown" unit="character"/><lb n="3"/><unclear>t</unclear></rdg>
+			<rdg source="bib:GopinathaRao1925-1926_01">naṅ<unclear>ku</unclear> rayai <gap reason="undefined" quantity="5" unit="character"/><lb n="3"/><gap reason="undefined" quantity="2" unit="character"/> t</rdg>
+			<rdg source="bib:NilakantaSastri1932_02 bib:NilakantaSastri1949_01">naṅk<unclear>ū</unclear>r<unclear>u</unclear>ṭai<unclear>yā</unclear><lb n="3" break="no"/>n</rdg>
+			<rdg source="bib:Karashima2002_02">naṅk<unclear>u</unclear>r<unclear>u</unclear>ṭaiy<unclear>a</unclear><lb n="3" break="no"/><unclear>n</unclear></rdg>
+			<rdg source="bib:Karashima+Subbarayalu2009_01">naṅ<unclear>kurutaiya</unclear><lb n="3" break="no"/><unclear>ṉ</unclear></rdg>
+			<note>The standardised reading <foreign>naṅkūr-utaiyāṉ</foreign> would make good sense, but it does not appear possible to us, as it is not clear if letters are lost at the beginning of the line 3 and if <foreign>toṭṭa</foreign>, in the same line 3, is preceded by <foreign>t</foreign> or <foreign>n</foreign>.</note>
+		</app>
+		
+		<app loc="3">
+			<lem> toṭṭa</lem>
+			<rdg source="bib:Hultzsch1913_02 bib:Hultzsch1914_01"/>
+			<rdg source="bib:GopinathaRao1925-1926_01"><gap reason="undefined" quantity="2" unit="character"/> <unclear>t</unclear>toṭṭa</rdg>
+			<rdg source="bib:NilakantaSastri1932_02 bib:NilakantaSastri1949_01">n toṭṭa</rdg>
+			<rdg source="bib:Karashima2002_02"><unclear>n</unclear> toṭṭa</rdg>
+			<rdg source="bib:Karashima+Subbarayalu2009_01"><unclear>ṉ</unclear> toṭṭa</rdg>
+		</app>
+		
+		<app loc="3">
+			<lem>kuḷam<unclear>·</unclear> pēr</lem>
+			<rdg source="bib:Hultzsch1913_02">kuḷamp-ēr</rdg>
+			<rdg source="bib:Hultzsch1914_01 bib:GopinathaRao1925-1926_01 bib:NilakantaSastri1932_02 bib:NilakantaSastri1949_01 bib:Karashima2002_02 bib:Karashima+Subbarayalu2009_01">kuḷam pēr</rdg>
+		</app>
+		
+		<app loc="3">
+			<lem><hi rend="grantha">śrī</hi>-<unclear>A</unclear><supplied reason="lost">va</supplied><lb n="4" break="no"/><supplied reason="lost">ni</supplied>-nāraṇam<unclear>·</unclear></lem>
+			<rdg source="bib:Hultzsch1913_02"><hi rend="grantha">śrī</hi><lb n="4"/>nāraṇam</rdg>
+			<rdg source="bib:Hultzsch1914_01"><hi rend="grantha">śrī</hi><unclear>Ava</unclear><supplied reason="undefined">ni</supplied><lb n="4" break="no"/>nāraṇam</rdg>
+			<rdg source="bib:GopinathaRao1925-1926_01"><hi rend="grantha">śrī</hi><lb n="4" break="no"/>nāraṇam</rdg>
+			<rdg source="bib:NilakantaSastri1932_02"><hi rend="grantha">śrī</hi> <unclear>Avani</unclear><lb n="4" break="no"/>nāraṇam</rdg>
+			<rdg source="bib:NilakantaSastri1949_01 bib:Karashima2002_02 bib:Karashima+Subbarayalu2009_01"><hi rend="grantha">śrī</hi> A<unclear>vani</unclear><lb n="4" break="no"/>nāraṇam</rdg>
+			<note>The syllable <foreign>ni</foreign> that most editors supply as omitted at the end of line 3 might in fact be supplied as lost at the beginning of line 4. It is in fact not clear whether letters have been lost on the left, on the right, or on both sides of the slab.</note>
+		</app>
+		
+		<app loc="4">
+			<lem>maṇikkirāmat<unclear>·</unclear>tār<lb n="5" break="no"/><supplied reason="lost">k</supplied><unclear>k</unclear>um</lem>
+			<rdg source="bib:Hultzsch1913_02 bib:Karashima2002_02">maṇikkirāmattār<unclear>k</unclear><lb n="5" break="no"/><unclear>k</unclear>um</rdg>
+			<rdg source="bib:Hultzsch1914_01">maṇikkirāmattār<supplied reason="undefined">k</supplied><lb n="5" break="no"/><unclear>k</unclear>um</rdg>
+			<rdg source="bib:GopinathaRao1925-1926_01">maṇikkirāmattār<lb n="5" break="no"/><supplied reason="lost">k</supplied>kum</rdg>
+			<rdg source="bib:NilakantaSastri1932_02 bib:NilakantaSastri1949_01">maṇikkirāmattār<unclear>k</unclear><lb n="5" break="no"/>kum</rdg>      				
+			<rdg source="bib:Karashima+Subbarayalu2009_01">maṇikkirāmattārk<lb n="5" break="no"/>kum</rdg>
+			<note>The syllable <foreign>k</foreign> that most editors supply as omitted at the end of line 4 might in fact be supplied as lost at the beginning of line 5. It is in fact not clear whether letters have been lost on the left, on the right, or on both sides of the slab.</note>
+		</app>
+		
+		
+		<app loc="6">
+			<lem><unclear>muḻu</unclear>tārkkum</lem>
+			<rdg source="bib:Hultzsch1913_02"><hi rend="grantha"><unclear>cā</unclear></hi><unclear>pa</unclear><supplied reason="omitted">t</supplied>tārkkum</rdg>
+			<rdg source="bib:Hultzsch1914_01"><unclear>m uḻu</unclear>tārkkum</rdg>
+			<rdg source="bib:GopinathaRao1925-1926_01"><unclear>ku</unclear>la<supplied reason="omitted">t</supplied>tārkkum</rdg>
+			<rdg source="bib:NilakantaSastri1932_02"><gap reason="undefined" quantity="1" unit="character"/> patārkkum</rdg>
+			<rdg source="bib:NilakantaSastri1949_01"><gap reason="lost" extent="unknown" unit="character"/> pātarkkum</rdg>
+			<rdg source="bib:Karashima2002_02 bib:Karashima+Subbarayalu2009_01"><gap reason="lost" extent="unknown" unit="character"/> apatārkkum</rdg>
+			<note><bibl><ptr target="bib:Hultzsch1914_01"/></bibl> suggests that <foreign>uḻutār</foreign> is used here in the sense of <foreign>uḻavar</foreign> or <foreign>uḻunar</foreign>, "cultivators".</note>
+		</app>
       			
       			<!--<app loc="0">
       				<lem></lem>
@@ -212,11 +197,11 @@
       				<rdg source="bib:NilakantaSastri1949_01"></rdg>
       				<rdg source="bib:Karashima2002_02"></rdg>
       				<rdg source="bib:Karashima+Subbarayalu2009_01"></rdg>
-      			</app>-->
+      				</app>-->
       		</listApp>
       		
       	</div>
-        
+      	
       	<div type="translation" source="bib:Hultzsch1913_02">
       		
       		<p n="1-3">
@@ -240,8 +225,8 @@
       		
       		<p n="1-6">      			
       			(The year) <gap reason="undefined"/> of (the reign of the king) <gap reason="undefined"/> yavarman <gap reason="undefined"/>; <gap reason="undefined"/> man <gap reason="undefined"/> dug a tank in our <gap reason="undefined"/>.
-Its name is Śrī-Nāraṇam. This is placed under the protection of the Maṇikkirāmattār, the Cēṉamukattār and (his own) descendents<note resp="part:emfr"><foreign>kulattār</foreign></note>.
-		
+      			Its name is Śrī-Nāraṇam. This is placed under the protection of the Maṇikkirāmattār, the Cēṉamukattār and (his own) descendents<note resp="part:emfr"><foreign>kulattār</foreign></note>.
+      			
       		</p>
       		
       	</div>
@@ -252,7 +237,7 @@ Its name is Śrī-Nāraṇam. This is placed under the protection of the Maṇik
       			The tank called Avani-nāraṇam dug by the lord of Naṅkūr (is placed under) the protection of the members of Manigrāmam, the residents of the military camp and <gap reason="undefined"/>.     		
       		</p>
       	</div>
-	
+      	
       	<div type="translation" resp="part:emfr">
       		
       		<p n="1">
@@ -262,17 +247,17 @@ Its name is Śrī-Nāraṇam. This is placed under the protection of the Maṇik
       		<p n="2-4">
       			The name <supplied reason="subaudible">of</supplied> the tank that <gap reason="lost"/><note>If the standardised reading <foreign>naṅkūr-utaiyāṉ</foreign> is accepted, this “lord of Naṅkūr” would be the commissioner of the tank. See <bibl><ptr target="bib:NilakantaSastri1932_02"/><citedRange unit="page">308</citedRange></bibl>, who is tempted to identify him as a native of Nāṅkūr in the Tanjore district.</note> has dug <supplied reason="explanation"><foreign>toṭṭa</foreign><note>Past <foreign>peyareccam</foreign> of <foreign>toṭu-tal</foreign>.</note></supplied> <supplied reason="subaudible">at?</supplied> Naṇkūr <gap reason="ellipsis"/> <supplied reason="subaudible">is</supplied> the glorious Avanināṟaṇam<note>The tank might have named after the <foreign>biruda</foreign> Avanināṟaṇaṉ (Sanskrit Avaninārāyaṇa) of the Pallava king Nandivarman III. See <bibl><ptr target="bib:NilakantaSastri1932_02"/><citedRange unit="page">306</citedRange></bibl>. The inscription has thus been dated to the reign of this king.</note>.
       		</p>
-      			
+      		
       		<p n="4-6">
       			It is a help <supplied reason="explanation"><foreign>aṭaikkalam</foreign><note>We follow here <bibl><ptr target="bib:Hultzsch1913_02"/></bibl> against others: the tank is made for the use of these persons, not put under their protection.</note></supplied> for the members of the Maṇikkirāmam <supplied reason="explanation"><foreign>maṇikkirāmattār</foreign><note>Maṇikkirāmam is the name of a Tamil merchant guild, from Sanskrit <foreign>maṇigrāma</foreign>.</note></supplied>, for the members of the Cēṉamukam <supplied reason="explanation"><foreign>cēnāmukattār</foreign><note>Cēṉamukam is usually considered as the name of another Tamil merchant guild, from Sanskrit <foreign>Senāmukha</foreign>. See e.g. <bibl><ptr target="bib:Subbarayalu2012_01"/><citedRange unit="page">44</citedRange></bibl>. The etymology suggests however a soldiers’ group, possibly attached to the protection of the merchants. <bibl n="TVM">
-	               		<ptr target="bib:Mahalingam1988_01"/>
-	               		<citedRange unit="page">432</citedRange>
-    			</bibl> translates as “the residents of the military camp”. See translations in <bibl><ptr target="bib:Hultzsch1913_02"/></bibl>, and in <bibl><ptr target="bib:Hultzsch1914_01"/></bibl>. See also 
+      				<ptr target="bib:Mahalingam1988_01"/>
+      				<citedRange unit="page">432</citedRange>
+      			</bibl> translates as “the residents of the military camp”. See translations in <bibl><ptr target="bib:Hultzsch1913_02"/></bibl>, and in <bibl><ptr target="bib:Hultzsch1914_01"/></bibl>. See also 
       				<bibl n="GR"><ptr target="bib:GopinathaRao1925-1926_01"/><citedRange unit="page">72</citedRange></bibl> on sanskrit <foreign>senāmukha</foreign>.</note></supplied>, and for the cultivators <supplied reason="explanation"><foreign>uḻūtār</foreign><note>We follow here Hultzsch. Contra, see <bibl><ptr target="bib:NilakantaSastri1932_02"/><citedRange unit="page">306</citedRange></bibl></note></supplied>.
       		</p>
       		
       	</div>
-      	      	
+      	
 <div type="commentary">
 	
 	
