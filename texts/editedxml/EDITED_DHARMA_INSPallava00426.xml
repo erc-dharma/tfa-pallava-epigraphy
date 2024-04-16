@@ -88,7 +88,7 @@
    <text xml:space="preserve">
       <body>
 
-      	<div type="edition" xml:lang="tam-Latn">
+      	<div type="edition" xml:lang="tam-Latn" rendition="class:38776 maturity:83215"><!--confirm script-->
       		
       		<p>
       			<lb n="1"/>kō-vicaiya-nanti<choice><orig>c</orig><reg>cc</reg></choice>ura-parumaṟk
@@ -120,8 +120,7 @@
 
          <div type="translation" resp="part:emfr">
          	
-         	<p n="1-3">
-         		Tirthy-seventh year of the victorious king Nandīśvaravarman.          	</p>
+         	<p n="1-3">Tirthy-seventh year of the victorious king Nandīśvaravarman.</p>
          	
          	         	
          	<p n="3-5">
