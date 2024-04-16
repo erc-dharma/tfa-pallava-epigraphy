@@ -85,26 +85,26 @@
 	<text xml:space="preserve">
       <body>
 
-      	<div type="edition" xml:lang="tam-Latn">
+      	<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
       		
-      		<ab>
-      			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+      		<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+      			<lb n="1"/>svasti śrī
       		</ab>
       		<p>	
-      			tiruvaiyā
-      			<lb n="2" break="no"/>ṟṟu ma<hi rend="grantha">hā</hi>tēvarkku
+      			tiruvai-y-ā
+      			<lb n="2" break="no"/>ṟṟu ma<hi rend="grantha">hā</hi>-tēvarkku
       			<lb n="3"/>teḷḷaṟṟ' eṟinta nanti
-      			<lb n="4" break="no"/>-p-pōttaraiyar kuṭut
+      			<lb n="4" break="no"/>-p-pōtt-araiyar kuṭut
       			<lb n="5" break="no"/>ta poṉ <num value="10">10</num> patiṉ kaḻa
       			<lb n="6" break="no"/>ñcu
       		</p>
       		<p>
       			Ip-poṉ koṇṭu
-      			<lb n="7"/>Oru nantā viḷakk’ erikka
+      			<lb n="7"/>Oru nantā-viḷakk’ erikka
       			<lb n="8"/>Ik-kōyiliṟ cantirātitta
-      			<lb n="9" break="no"/>vaṟ kumaramāttāṇṭattā
+      			<lb n="9" break="no"/>-vaṟ kumara-māttāṇṭattā
       			<lb n="10" break="no"/>l nicati uri-y ney Aṭṭu
-      			<lb n="11" break="no"/>vōm āṉōm kārikuṭi-c ca
+      			<lb n="11" break="no"/>vōm āṉōm kāri-kuṭi-c ca
       			<lb n="12" break="no"/>vaiyōm
       		</p>
       		
