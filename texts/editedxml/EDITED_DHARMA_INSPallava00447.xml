@@ -88,7 +88,7 @@
    <text xml:space="preserve">
       <body>
 
-      	<div type="edition" xml:lang="tam-Latn">
+      	<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
       		
       		<p>
       			<lb n="1"/>kō-vicaiyya<surplus>n</surplus>-nirupa-t<choice><orig>o</orig><reg>u</reg></choice>ṅka-vikkirama-parumaṟku yāṇṭu Onpat-āvatu
@@ -146,10 +146,12 @@
          	
          	<p n="1-2">
          		The boundaries for the garden <supplied reason="subaudible">are as follows</supplied>:
-         		<l>the eastern boundary is ...;</l>
-         		<l>the southern boundary is ...;</l>
-         		<l>the westernn boundary is ...;</l>
-         		<l>the northern boundary is ...;</l>
+         		<list>
+         			<item>the eastern boundary is ...;</item>
+         			<item>the southern boundary is ...;</item>
+         			<item>the westernn boundary is ...;</item>
+         			<item>the northern boundary is ...;</item>
+         		</list>
          		
          	</p>
          	
