@@ -111,11 +111,12 @@
 <div type="bibliography">
 
    <p>First reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/222).</p>
-   <p>Summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 360).</p>
+   <p>Recorded in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 360).</p>
+   <p>ASI transcript and estampage yet to be consulted.</p>
    
    <listBibl type="primary">
       
-      <bibl n="TVM">
+      <bibl n="IP">
          <ptr target="bib:Mahalingam1988_01"/>
          <citedRange unit="item">360</citedRange>
          <citedRange unit="page">759</citedRange>

@@ -107,12 +107,13 @@
       	
 <div type="bibliography">
 
-   <p>First reported in <bibl><ptr target="bib:ARIE1938-1939"/></bibl> (ARIE/1938-1939/B/1938-1939/277); again reported in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 322).</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1938-1939"/></bibl> (ARIE/1938-1939/B/1938-1939/277).</p>
+	<p>Recorded in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 322).</p>
 	<p>ASI transcript and estampage yet to be consulted.</p>
    
    <listBibl type="primary">
             
-      <bibl n="TVM">
+      <bibl n="IP">
          <ptr target="bib:Mahalingam1988_01"/>
          <citedRange unit="item">322</citedRange>
          <citedRange unit="page">721</citedRange>
