@@ -162,7 +162,7 @@
     	<div type="bibliography">
     		
 <p>
-First edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, no. 56); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 142); encoded here for DHARMA (ERC n° 809994) and translated for the first time by Emmanuel Francis, based on previous editions.
+Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, no. 56); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 142); encoded here for DHARMA (ERC n° 809994) and translated for the first time by Emmanuel Francis, based on previous editions.
 </p>
     		
     		<listBibl type="primary">
@@ -173,7 +173,7 @@ First edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 1
          			<citedRange unit="item">56</citedRange>
          		</bibl> 
     		   
-    			<bibl n="TVM">
+    			<bibl n="IP">
 	               		<ptr target="bib:Mahalingam1988_01"/>
 	               		<citedRange unit="page">417-418</citedRange>
     				<citedRange unit="item">142</citedRange>

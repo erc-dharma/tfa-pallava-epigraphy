@@ -196,7 +196,7 @@
                <bibl n="HKS"><ptr target="bib:KrishnaSastri1923_01"/></bibl> notes about lines 1 and 2 that: <q>The continuation of this line and of the next, covering more than half of the inscription, has been chiselled off.</q>
             </p>
             
-            <p>On Avanicandra, see <bibl n="TVM">
+            <p>On Avanicandra, see <bibl n="IP">
          <ptr target="bib:Mahalingam1988_01"/>
          <citedRange unit="page">349</citedRange>
          <citedRange unit="note">4</citedRange>
@@ -208,7 +208,7 @@
 <div type="bibliography">
 
    <p>
-      First edited by <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4, no. 132); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 107); re-edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on autopsy, photographs and published visual documentation.
+      Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4, no. 132); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 107); re-edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on autopsy, photographs and published visual documentation.
    </p>
    
    <listBibl type="primary">
@@ -221,7 +221,7 @@
          
       </bibl>
       
-      <bibl n="TVM">
+      <bibl n="IP">
          <ptr target="bib:Mahalingam1988_01"/>
          <citedRange unit="page">349-350</citedRange>
          <citedRange unit="item">107</citedRange>

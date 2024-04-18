@@ -160,7 +160,7 @@
 <div type="bibliography">
 
    <p>
-      First edited in <bibl><ptr target="bib:ARIE1932-1933"/></bibl><!--display issue: the numerals in the "Title" are unduly circumscribed by parentheses--><!-- I have rewritten the regex pattern deleting the unnecessary html tags and others. Seem to work fine even with the other Zotero entries, but it still need to be watched over -->; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 42).
+      Edited in <bibl><ptr target="bib:ARIE1932-1933"/></bibl><!--display issue: the numerals in the "Title" are unduly circumscribed by parentheses--><!-- I have rewritten the regex pattern deleting the unnecessary html tags and others. Seem to work fine even with the other Zotero entries, but it still need to be watched over -->; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 42).
    </p>
    <p>Re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:ARIE1932-1933"/></bibl>.
    </p>
@@ -173,7 +173,7 @@
 			<citedRange unit="plate">I</citedRange>
 		</bibl>	
 		
-		<bibl n="TVM">
+		<bibl n="IP">
 			<ptr target="bib:Mahalingam1988_01"/>
 			<citedRange unit="page">144</citedRange>
 			<citedRange unit="item">42</citedRange>

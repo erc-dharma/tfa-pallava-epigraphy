@@ -260,7 +260,7 @@
          <div type="bibliography">
 
             <p>
-First edited by <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with facsimile and English translation (SII 3, n° 42); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 91); re-edited here by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>.
+Edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with facsimile and English translation (SII 3, n° 42); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 91); re-edited here by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>.
 </p>
 
          	<listBibl type="primary">
@@ -272,7 +272,7 @@ First edited by <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with facsimile 
          			<citedRange unit="plate">V</citedRange>
          		</bibl>
          		
-         		<bibl n="TVM">
+         		<bibl n="IP">
          			<ptr target="bib:Mahalingam1988_01"/>
          			<citedRange unit="item">91</citedRange>
          			<citedRange unit="page">321-322</citedRange>

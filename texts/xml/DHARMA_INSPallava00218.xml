@@ -322,7 +322,7 @@ Those who say “This is not <supplied reason="subaudible">so</supplied>”, let
          <div type="bibliography">
 
             <p>
-First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 375); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 218); re-edited here, with substantial revisions, and first translated for DHARMA (ERC n° 809994) by Emmanuel Francis (2020) from autopsy and photographs (2019).
+Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 375); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 218); re-edited here, with substantial revisions, and first translated for DHARMA (ERC n° 809994) by Emmanuel Francis (2020) from autopsy and photographs (2019).
             </p>
 
             <listBibl type="primary">
@@ -332,7 +332,7 @@ First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6,
             		<citedRange unit="page">172</citedRange>
             		<citedRange unit="item">375</citedRange>
             	</bibl>
-            	<bibl n="TVM">
+            	<bibl n="IP">
             		<ptr target="bib:Mahalingam1988_01"/>
             		<citedRange unit="page">553</citedRange>
             		<citedRange unit="item">218</citedRange>

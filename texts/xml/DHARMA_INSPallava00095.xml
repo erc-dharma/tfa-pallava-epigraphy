@@ -247,7 +247,7 @@
       	<div type="bibliography">
 
  <p>
- 	First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 333); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 95); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 59); re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp;Emmanuel Francis (2020), from autopsy and photographs (2004, 2013).
+ 	Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 333); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 95); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 59); re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp;Emmanuel Francis (2020), from autopsy and photographs (2004, 2013).
 </p>	
       		
 <listBibl type="primary">
@@ -257,7 +257,7 @@
 		<citedRange unit="page">158</citedRange>
 		<citedRange unit="item">333</citedRange>
 	</bibl>
-	<bibl n="TVM">
+	<bibl n="IP">
 		<ptr target="bib:Mahalingam1988_01"/>
 		<citedRange unit="page">331</citedRange>
 		<citedRange unit="item">95</citedRange>

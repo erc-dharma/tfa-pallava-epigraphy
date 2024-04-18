@@ -302,7 +302,7 @@
          	
 <div type="bibliography">
       		<p>      			
-      			First edited by <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4, n° 827), with a facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 80); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy, photos (2015), and the facsimile published in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>. Some characters now lost are legible on this facsimile.
+      			Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4, n° 827), with a facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 80); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy, photos (2015), and the facsimile published in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>. Some characters now lost are legible on this facsimile.
       		</p>
       		
       		<listBibl type="primary">
@@ -314,7 +314,7 @@
             		<citedRange unit="plate">IX</citedRange>
             	</bibl>
             	
-            	<bibl n="TVM">
+            	<bibl n="IP">
             		<ptr target="bib:Mahalingam1988_01"/>
             		<citedRange unit="page">259-260</citedRange>
             		<citedRange unit="item">80</citedRange>

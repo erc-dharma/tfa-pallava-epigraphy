@@ -156,7 +156,7 @@
       	<div type="bibliography">
             
             <p>
-First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7, no. 929); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 118); encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020).
+Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7, no. 929); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 118); encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020).
             </p>
       		<listBibl type="primary">
       			<bibl n="KVSA">
@@ -165,7 +165,7 @@ First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7,
       				<citedRange unit="item">929</citedRange>
       				    				 
       			</bibl>
-      			<bibl n="TVM">
+      			<bibl n="IP">
       				<ptr target="bib:Mahalingam1988_01"/>
       				<citedRange unit="item">118</citedRange>
       				<citedRange unit="page">367</citedRange>     				

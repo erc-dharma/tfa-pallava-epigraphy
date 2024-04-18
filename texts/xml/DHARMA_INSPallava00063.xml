@@ -148,7 +148,7 @@
       	<div type="bibliography">
       		
             <p>
-First edited by <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1, no. 31); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 63); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 47); re-edited by <bibl><ptr target="bib:MarxiaGandhi+al2011_01"/></bibl> (SII 30, no. 266); re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2011).
+Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1, no. 31); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 63); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 47); re-edited by <bibl><ptr target="bib:MarxiaGandhi+al2011_01"/></bibl> (SII 30, no. 266); re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2011).
             </p>
 
       		<listBibl type="primary">
@@ -159,7 +159,7 @@ First edited by <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1, no. 31)
       				<citedRange unit="item">31</citedRange>
       			</bibl>
       			
-      			<bibl n="TVM">
+      			<bibl n="IP">
       				<ptr target="bib:Mahalingam1988_01"/>
       				<citedRange unit="page">203</citedRange>
       				<citedRange unit="item">63</citedRange>            		

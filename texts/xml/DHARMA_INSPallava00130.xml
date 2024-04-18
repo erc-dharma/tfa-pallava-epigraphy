@@ -162,7 +162,7 @@
       	<div type="bibliography">
       		
       		<p>
-      			First edited by by <bibl><ptr target="bib:Hultzsch1902-1903_04"/></bibl> (EI 7, no. 20A); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 130); encoded and first translated here for DHARMA (ERC n° 809994) by Emmanuel Francis, based on previous editions.
+      			Edited in by <bibl><ptr target="bib:Hultzsch1902-1903_04"/></bibl> (EI 7, no. 20A); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 130); encoded and first translated here for DHARMA (ERC n° 809994) by Emmanuel Francis, based on previous editions.
       		</p>
       		
       		<listBibl type="primary">
@@ -173,7 +173,7 @@
       				
       			</bibl>
       			
-      			<bibl n="TVM">
+      			<bibl n="IP">
       				<ptr target="bib:Mahalingam1988_01"/>
       				<citedRange unit="page">394-395</citedRange>
       				<citedRange unit="item">130</citedRange>

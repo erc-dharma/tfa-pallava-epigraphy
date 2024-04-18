@@ -161,12 +161,12 @@
          <div type="bibliography">
 
             <p>
-First edited in MCC Magazine 8 (1890-91), p. 98-104<!--Update!-->; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 135); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis, based on <bibl><ptr target="bib:Mahalingam1988_01"/></bibl>. Grantha characters not certified.
+Edited in MCC Magazine 8 (1890-91), p. 98-104<!--Update!-->; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 135); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis, based on <bibl><ptr target="bib:Mahalingam1988_01"/></bibl>. Grantha characters not certified.
             </p>
 
             <listBibl type="primary">
                                            
-               <bibl n="TVM">
+               <bibl n="IP">
                   <ptr target="bib:Mahalingam1988_01"/>
                   <citedRange unit="page">404-405</citedRange>
                   <citedRange unit="item">135</citedRange>            		

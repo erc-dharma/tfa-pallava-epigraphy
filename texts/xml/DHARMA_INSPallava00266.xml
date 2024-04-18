@@ -157,12 +157,12 @@
 			
 <div type="bibliography">
 				<p>
-					First edited in <bibl><ptr target="bib:ARIE1934-1935"/><citedRange unit="page">75</citedRange></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 266); encoded and first translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on previous editions. Grantha letters and initial vowels not guaranteed.
+					Edited in <bibl><ptr target="bib:ARIE1934-1935"/><citedRange unit="page">75</citedRange></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 266); encoded and first translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2022), based on previous editions. Grantha letters and initial vowels not guaranteed.
 				</p>
 				
 				<listBibl type="primary">
 					
-					<bibl n="TVM">
+					<bibl n="IP">
 						<ptr target="bib:Mahalingam1988_01"/>
 						<citedRange unit="page">647</citedRange>
 						<citedRange unit="item">266</citedRange>

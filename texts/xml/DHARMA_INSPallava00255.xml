@@ -179,7 +179,7 @@
          <div type="bibliography">
             
             <p>
-               First edited and translated in <bibl><ptr target="bib:Hultzsch1896-1897_05"/></bibl> (EI 4, no. 22A), with a photo and a facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 255); re-edited and translated here by Emmanuel Francis (2021), based on the previous editions.
+               Edited and translated in <bibl><ptr target="bib:Hultzsch1896-1897_05"/></bibl> (EI 4, no. 22A), with a photo and a facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 255); re-edited and translated here by Emmanuel Francis (2021), based on the previous editions.
             </p>
             
             <listBibl type="primary">
@@ -191,7 +191,7 @@
             		<citedRange unit="plate">facing page 182</citedRange>
             	</bibl>
             	
-            	<bibl n="TVM">
+            	<bibl n="IP">
             		<ptr target="bib:Mahalingam1988_01"/>
             		<citedRange unit="page">630</citedRange>
             		<citedRange unit="item">255</citedRange>

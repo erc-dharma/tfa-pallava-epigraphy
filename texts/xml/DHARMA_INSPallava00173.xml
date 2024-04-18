@@ -157,7 +157,7 @@
       	<div type="bibliography">
       		
       		<p>
-      			First edited by by <bibl><ptr target="bib:Hultzsch1902-1903_04"/></bibl> (EI 7, no. 20C); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 173); encoded and first translated here for DHARMA (ERC n° 809994) by Emmanuel Francis, based on previous editions. The Grantha characters and numerals are not warranted due to the defective transliteration scheme used by <ptr target="bib:Hultzsch1902-1903_04"/>.
+      			Edited in by <bibl><ptr target="bib:Hultzsch1902-1903_04"/></bibl> (EI 7, no. 20C); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 173); encoded and first translated here for DHARMA (ERC n° 809994) by Emmanuel Francis, based on previous editions. The Grantha characters and numerals are not warranted due to the defective transliteration scheme used by <ptr target="bib:Hultzsch1902-1903_04"/>.
       		</p>
       		
       		<listBibl type="primary">
@@ -168,7 +168,7 @@
       				
       			</bibl>
       			
-      			<bibl n="TVM">
+      			<bibl n="IP">
       				<ptr target="bib:Mahalingam1988_01"/>
       				<citedRange unit="page">491</citedRange>
       				<citedRange unit="item">173</citedRange>

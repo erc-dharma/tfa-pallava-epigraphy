@@ -302,7 +302,7 @@
 <div type="bibliography">
 
    <p>
-      First edited by <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7, no. 523); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 145); edited and translated by <bibl><ptr target="bib:Schmid2014_02"/></bibl>; edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis, based on photos (beginning of lines 13-24 and end of lines 15-21 not covered by photos).
+      Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7, no. 523); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 145); edited and translated by <bibl><ptr target="bib:Schmid2014_02"/></bibl>; edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis, based on photos (beginning of lines 13-24 and end of lines 15-21 not covered by photos).
    	
    </p>
    
@@ -314,7 +314,7 @@
 			<citedRange unit="item">523</citedRange>
 		</bibl>
 				
-		<bibl n="TVM">
+		<bibl n="IP">
 			<ptr target="bib:Mahalingam1988_01"/>
 			<citedRange unit="page">423-425</citedRange>
 			<citedRange unit="item">145</citedRange>
