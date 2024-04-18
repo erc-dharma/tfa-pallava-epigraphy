@@ -113,12 +113,12 @@
 <div type="bibliography">
 	
 	<p>Reported in <bibl><ptr target="bib:ARIE1892-1893"/></bibl> (ARIE 1892-1893, p. 6), in <bibl><ptr target="bib:Hultzsch1903_01"/></bibl> (SII 3, p. 8), and in IAR 1969-1970 (no. 39, p. 50)<!--update-->.</p>
-	<p>Summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 339).</p>
+	<p>Recorded in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 339).</p>
 	<p>ASI transcript and estampage, if any, yet to be consulted.</p>
 	
 	<listBibl type="primary">
 		
-		<bibl n="TVM">
+		<bibl n="IP">
 			<ptr target="bib:Mahalingam1988_01"/>
 			<citedRange unit="item">339</citedRange>
 			<citedRange unit="page">TBC</citedRange>

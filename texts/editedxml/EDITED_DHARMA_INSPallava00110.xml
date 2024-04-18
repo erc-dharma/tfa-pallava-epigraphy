@@ -254,7 +254,7 @@
   	<div type="bibliography">
   		
 <p>
-First edited and translated into English in <bibl><ptr target="bib:GopinathaRao1911_01"/></bibl>; re-edited and translated into English in <bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> (EI 11, no. 22), with facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 110);  re-edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on photographs (2019) kindly provided by Valérie Gillet.
+Edited and translated into English in <bibl><ptr target="bib:GopinathaRao1911_01"/></bibl>; re-edited and translated into English in <bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> (EI 11, no. 22), with facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 110);  re-edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on photographs (2019) kindly provided by Valérie Gillet.
 </p>
   		
   		<listBibl type="primary">
@@ -271,7 +271,7 @@ First edited and translated into English in <bibl><ptr target="bib:GopinathaRao1
   				<citedRange unit="page">225-226</citedRange>
   			</bibl>
   			
-  			<bibl n="TVM">
+  			<bibl n="IP">
   				<ptr target="bib:Mahalingam1988_01"/>
   				<citedRange unit="item">110</citedRange>
   				<citedRange unit="page">354-357</citedRange>

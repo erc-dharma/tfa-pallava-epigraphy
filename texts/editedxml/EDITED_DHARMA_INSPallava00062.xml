@@ -350,13 +350,13 @@
       	<div type="bibliography">
       		
 <p>
-	First reported in <bibl><ptr target="bib:ARIE1915-1916"/></bibl> (ARIE/1915-1916/B/1915/616) with a plate;
+	Reported in <bibl><ptr target="bib:ARIE1915-1916"/></bibl> (ARIE/1915-1916/B/1915/616) with a plate;
 	reported again in <bibl><ptr target="bib:ARIE1974-1975"/></bibl> (ARIE/1974-1975/B/1974-1975/109), when until then covered portions were exposed following renovation work.
 </p>
       		
 <p>
 	First translated in <bibl><ptr target="bib:Jouveau-Dubreuil1915_01"/></bibl>;
-	first edited in <bibl><ptr target="bib:Jouveau-Dubreuil1916_01"/></bibl> with translation (revised by S. Krishnaswami Aiyangar) and visual documentation and in <bibl><ptr target="bib:Jouveau-Dubreuil1916-1917_01"/></bibl> with French translation and visual documentation;
+	Edited in <bibl><ptr target="bib:Jouveau-Dubreuil1916_01"/></bibl> with translation (revised by S. Krishnaswami Aiyangar) and visual documentation and in <bibl><ptr target="bib:Jouveau-Dubreuil1916-1917_01"/></bibl> with French translation and visual documentation;
 	re-edited and translated in <bibl><ptr target="bib:SankaraAiyar1919_01"/></bibl>;
 	re-edited in <bibl><ptr target="bib:SankaraAiyar1922-1923_01"/></bibl>;
 	re-edited and translated in <bibl><ptr target="bib:Rangacharya1927-1928_01"/></bibl> (EI 19, no. 18B);
@@ -401,7 +401,7 @@
       				<citedRange unit="item">B</citedRange>
       			</bibl>
       			
-      			<bibl n="TVM">
+      			<bibl n="IP">
       				<ptr target="bib:Mahalingam1988_01"/>
       				<citedRange unit="page">200-202</citedRange>
       				<citedRange unit="item">62</citedRange>            		

@@ -121,7 +121,7 @@
 	<div type="bibliography">
             
             <p>
-First edited in (SII 7, no. 1007); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 263); re-edited and first translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy and photographs (2008).
+Edited in (SII 7, no. 1007); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 263); re-edited and first translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy and photographs (2008).
             </p>
             
 		<listBibl type="primary">
@@ -132,7 +132,7 @@ First edited in (SII 7, no. 1007); text and summary in <bibl><ptr target="bib:Ma
 				<citedRange unit="item">1007</citedRange>
 			</bibl>
 			
-			<bibl n="TVM">
+			<bibl n="IP">
 				<ptr target="bib:Mahalingam1988_01"/>
 				<citedRange unit="page">pages</citedRange>
 				<citedRange unit="item">263</citedRange>

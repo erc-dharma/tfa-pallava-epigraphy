@@ -171,7 +171,7 @@
          <div type="bibliography">
 
             <p>
-            	First edited by <bibl><ptr target="bib:Swaminathan1957-1958_01"/></bibl> (EI 32, n° 12), with a facsimile; re-edited by <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/54); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 299); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous editions.           	
+            	Edited in <bibl><ptr target="bib:Swaminathan1957-1958_01"/></bibl> (EI 32, n° 12), with a facsimile; re-edited by <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/54); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 299); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2021), based on previous editions.           	
             </p>
          	
          	<listBibl type="primary">
@@ -185,7 +185,7 @@
          			<citedRange unit="item">1971/54</citedRange>
          		</bibl>
          		
-         		<bibl n="TVM">
+         		<bibl n="IP">
          			<ptr target="bib:Mahalingam1988_01"/>
          			<citedRange unit="page">692</citedRange>
          			<citedRange unit="item">299</citedRange>

@@ -95,7 +95,8 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
          	
    <p>
-      [text not available]
+      
+      
    </p>
 	
 </div>
@@ -132,7 +133,7 @@
 	
 	<listBibl type="primary">
 		
-		<bibl n="TVM">
+		<bibl n="IP">
 			<ptr target="bib:Mahalingam1988_01"/>
 			<citedRange unit="item">320</citedRange>
 			<citedRange unit="page">719</citedRange>

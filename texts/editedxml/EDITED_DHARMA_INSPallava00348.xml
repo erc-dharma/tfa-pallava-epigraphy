@@ -118,12 +118,12 @@
 <div type="bibliography">
 	
 	<p>Reported in <bibl><ptr target="bib:ARIE1943-1945"/></bibl> (ARIE/1943-1945/B/1943-1944/173).</p>
-	<p>Summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 348).</p>
+	<p>Recorded in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 348).</p>
 	<p>ASI transcript and estampage, if any, yet to be consulted.</p>
 	
 	<listBibl type="primary">
 		
-		<bibl n="TVM">
+		<bibl n="IP">
 			<ptr target="bib:Mahalingam1988_01"/>
 			<citedRange unit="item">348</citedRange>
 			<citedRange unit="page">TBC</citedRange>

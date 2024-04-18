@@ -133,7 +133,7 @@
          <div type="bibliography">
 
          	<p>
-First edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, n° 31); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 70); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 53/c); re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on the facsimile published in <bibl>
+Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, n° 31); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 70); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 53/c); re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on the facsimile published in <bibl>
          			<ptr target="bib:ARIE1932-1933"/><citedRange unit="plate">I</citedRange>
          			</bibl>.</p>
          	         	
@@ -145,7 +145,7 @@ First edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 1
          			<citedRange unit="item">31</citedRange>
          		</bibl>
          		
-         		<bibl n="TVM">
+         		<bibl n="IP">
          			<ptr target="bib:Mahalingam1988_01"/>
          			<citedRange unit="page">214</citedRange>
          			<citedRange unit="item">70</citedRange>

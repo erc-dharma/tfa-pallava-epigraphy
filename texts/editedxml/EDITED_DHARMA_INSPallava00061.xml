@@ -157,7 +157,7 @@
       	<div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Hultzsch1909-1910_01"/></bibl> (EI 10, no. 1.18), with a facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 61); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl>; re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy, photographs (2009), and facsimile published in <bibl n="EH">
+Edited in <bibl><ptr target="bib:Hultzsch1909-1910_01"/></bibl> (EI 10, no. 1.18), with a facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 61); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl>; re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy, photographs (2009), and facsimile published in <bibl n="EH">
       				<ptr target="bib:Hultzsch1909-1910_01"/>
       				<citedRange unit="page">8</citedRange>
       				<citedRange unit="item">19</citedRange>
@@ -176,7 +176,7 @@ First edited in <bibl><ptr target="bib:Hultzsch1909-1910_01"/></bibl> (EI 10, no
       				<citedRange unit="page">11</citedRange>
       				<citedRange unit="item">23</citedRange>
       			</bibl>      			
-      			<bibl n="TVM">
+      			<bibl n="IP">
       				<ptr target="bib:Mahalingam1988_01"/>
       				<citedRange unit="page">199</citedRange>
       				<citedRange unit="item">61</citedRange>            		

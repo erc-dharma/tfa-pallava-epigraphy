@@ -159,7 +159,7 @@
       	<div type="bibliography">
 
  <p>
- First edited with a facsimile in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 359); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 102); re-edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy and photographs (2019).
+ Edited with a facsimile in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 359); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 102); re-edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy and photographs (2019).
 </p>
       		
 <listBibl type="primary">
@@ -169,7 +169,7 @@
          		<citedRange unit="item">359</citedRange>
          		<citedRange unit="page">167</citedRange>
          	</bibl>
-         	<bibl n="TVM">
+         	<bibl n="IP">
   		<ptr target="bib:Mahalingam1988_01"/>
   		<citedRange unit="item">102</citedRange>
   		<citedRange unit="page">342-343</citedRange>

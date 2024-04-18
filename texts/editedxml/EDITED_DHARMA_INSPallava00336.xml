@@ -120,7 +120,7 @@
 	
 	<listBibl type="primary">
 		
-		<bibl n="TVM">
+		<bibl n="IP">
 			<ptr target="bib:Mahalingam1988_01"/>
 			<citedRange unit="item">336</citedRange>
 			<citedRange unit="page">TBC</citedRange>

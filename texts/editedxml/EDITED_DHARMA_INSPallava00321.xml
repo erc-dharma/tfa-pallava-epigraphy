@@ -116,8 +116,8 @@
       	
 <div type="bibliography">
 
-   <p>First reported in <bibl><ptr target="bib:ARIE1886-1887"/></bibl> (ARIE/1886-1887/II/1886-1887/55); reported again in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1939-1940/207).</p>
-   <p>Date phrase first edited by <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1, no. 125); summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 321).</p>
+   <p>Reported in <bibl><ptr target="bib:ARIE1886-1887"/></bibl> (ARIE/1886-1887/II/1886-1887/55); reported again in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1939-1940/207).</p>
+   <p>Date phrase Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1, no. 125); summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 321).</p>
 	<p>ASI transcript and estampage yet to be consulted.</p>
    
    <listBibl type="primary">
@@ -128,7 +128,7 @@
          <citedRange unit="item">125</citedRange>
       </bibl>
       
-      <bibl n="TVM">
+      <bibl n="IP">
          <ptr target="bib:Mahalingam1988_01"/>
          <citedRange unit="item">321</citedRange>
          <citedRange unit="page">720</citedRange>

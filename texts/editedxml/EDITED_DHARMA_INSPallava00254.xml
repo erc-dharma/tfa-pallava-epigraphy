@@ -161,7 +161,7 @@ The slab was indeed still exhibited in the Chennai Government Museum in 2019. Th
          <div type="bibliography">
 
             <p>
-First edited in <bibl><ptr target="bib:Hultzsch1896-1897_07"/></bibl> with facsimile and English translation, based on three inked estampages (EI 4, no. 52); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 254); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy and photographs (2019).
+Edited in <bibl><ptr target="bib:Hultzsch1896-1897_07"/></bibl> with facsimile and English translation, based on three inked estampages (EI 4, no. 52); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 254); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy and photographs (2019).
 </p>
 
          	<listBibl type="primary">
@@ -170,7 +170,7 @@ First edited in <bibl><ptr target="bib:Hultzsch1896-1897_07"/></bibl> with facsi
          			<ptr target="bib:Hultzsch1896-1897_07"/>
          		</bibl>
          		
-         		<bibl n="TVM">
+         		<bibl n="IP">
          			<ptr target="bib:Mahalingam1988_01"/>
          			<citedRange unit="item">254</citedRange>
          			<citedRange unit="page">629</citedRange>

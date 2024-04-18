@@ -171,7 +171,7 @@
          <div type="bibliography">
 
          	<p>
-First reported in <bibl>
+Reported in <bibl>
          			<ptr target="bib:Jouveau-Dubreuil1918_01"/><!--remove hyphen of ZST?-->
          			<citedRange unit="page">15</citedRange>
          		</bibl>; reported in <bibl>

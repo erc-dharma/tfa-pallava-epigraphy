@@ -112,12 +112,12 @@
          <div type="bibliography">
 
          	<p>
-         		First reported in <bibl><ptr target="bib:ARIE1959-1960"/></bibl>; text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 362); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020).
+         		Reported in <bibl><ptr target="bib:ARIE1959-1960"/></bibl>; text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 362); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020).
          	</p>
          	
          	<listBibl type="primary">
          		
-         		<bibl n="TVM">
+         		<bibl n="IP">
          			<ptr target="bib:Mahalingam1988_01"/>
          			<citedRange unit="item">362</citedRange>
          			<citedRange unit="page">761</citedRange>
