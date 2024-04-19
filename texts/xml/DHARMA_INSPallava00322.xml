@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Fragment.</summary>
+						<summary>Fragment. <bibl><ptr target="bib:ARIE1938-1939"/></bibl>: <quote>Continuation of lines lost. Seems to register a gift of land by the assembly of Kāmappullūr to a certain Naraciṅkattiruvēti of Uṟuppuṭṭūr.</quote></summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -93,7 +93,7 @@
 	
 </div>
 
-      	<div type="apparatus">
+      	<!--<div type="apparatus">
       		
       	</div>
       	
@@ -103,7 +103,7 @@
       	
       	<div type="commentary">
       		
-      	</div>
+      	</div>-->
       	
 <div type="bibliography">
 
@@ -111,26 +111,23 @@
 	<p>Recorded in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 322).</p>
 	<p>ASI transcript and estampage, if any, yet to be consulted.</p>
    
-   <listBibl type="primary">
+<!--<listBibl type="primary"/>-->
             
-      <bibl n="IP">
-         <ptr target="bib:Mahalingam1988_01"/>
-         <citedRange unit="item">322</citedRange>
-         <citedRange unit="page">721</citedRange>
-      </bibl>
-      
-   </listBibl>
+<listBibl type="secondary">
    
-   <listBibl type="secondary">
-   
-      <bibl>
-         <ptr target="bib:ARIE1938-1939"/>
-         <citedRange unit="page">38, 91 (§ 59)</citedRange>
-         <citedRange unit="appendix">B/1938-1939</citedRange>
-         <citedRange unit="item">277</citedRange>
-      </bibl>              
-      
-   </listBibl>
+	<bibl>
+		<ptr target="bib:Mahalingam1988_01"/>
+		<citedRange unit="item">322</citedRange>
+		<citedRange unit="page">721</citedRange>
+	</bibl>
+	<bibl>
+		<ptr target="bib:ARIE1938-1939"/>
+		<citedRange unit="page">38, 91 (§ 59)</citedRange>
+		<citedRange unit="appendix">B/1938-1939</citedRange>
+		<citedRange unit="item">277</citedRange>
+	</bibl>              
+	
+</listBibl>
    
 </div>
 
