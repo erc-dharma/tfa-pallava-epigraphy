@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Isolated name.</summary>
+                  <summary>Isolated name found on a cistern excavated in a rock in front of the Trimūrti cave. This cistern is nowadays called the Gopi’s Churn in reference to Kṛṣṇa narratives. The inscription itself consist in four syllables in Grantha script. It appears to be a name, either a graffiti or a signature. It is not clear if it has a closer connexion with the cistern on which it is engraved.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -87,12 +87,15 @@
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
-      <body>
+ <body>
 
          <div type="edition" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
-<p>
-<lb n="1"/><hi rend="grantha"><unclear>śrī</unclear>-k<choice><unclear>a</unclear><unclear>ā</unclear></choice>viti</hi>
-            </p></div>
+            
+            <p>
+               <lb n="1"/><hi rend="grantha"><unclear>śrī</unclear>-k<choice><unclear>a</unclear><unclear>ā</unclear></choice>viti</hi>
+            </p>
+            
+         </div>
 
       	<div type="apparatus">
       		<listApp>
@@ -121,29 +124,28 @@
       		</p>
       	</div>
       	
-         <div type="commentary">
-<p>This inscription is found on a cistern excavated in a rock in front of the “Trimūrti cave”. This cistern is nowadays called the Gopi’s Churn in reference to Kṛṣṇa narratives. The inscription itself consist in four syllables in Grantha script. It appears to be a name, either a graffiti or a signature. It is not clear if it has a closer connexion with the cistern on which it is engraved.</p> <!--Put as <summary> in the teiHeader?-->
-<p>காவிதி kāviti has an entry in the Madras Tamil Lexicon:
-<cit><quote>n. 1. Ancient title bestowed on Vēḷāḷas by Pāṇḍya kings; வேளாளர்க்குப் பாண்டியர் கொடுத்துவந்த ஒரு பட்டம். (தொல். பொ. 30, உரை.) 2. Title conferred on Vaiśya ladies; வைசியமாதர்பெறும் பட்டவகை. எட்டி காவிதிப் பட் டந்தாங்கிய மயிலியன் மாதர் (பெருங். இலாவாண. 3, 144). 3. Minister; மந்திரி. (திவா.) 4. Accountant caste; கணக்கர் சாதி. (சூடா.) 5. Collector of revenues; வரிதண்டும் அரசாங்கத்தலைவர்.</quote><bibl><ptr target="bib:MTL"/><citedRange unit="entry"/><citedRange unit="page">903</citedRange></bibl></cit></p><!--Update ref to MTL-->
-<p>A certain poet named Peruṅkāviti Caṭaiyaṉpaḷḷi composed the verse in <ref target="INSPallava00119.xml">INSPallava00119</ref>, see line 13.</p> 
-<p><bibl><ptr target="bib:Lockwood1993_01"/><citedRange unit="page">163</citedRange></bibl> suggested that <foreign>kāviti</foreign>, which he reads <foreign>kaviti</foreign>, in fact represents what would be pronounced <foreign>gaviti</foreign> in Tamil and makes it meaning <foreign>gokula</foreign>. It seems that this interpretation is based on the assumption that the name Gopis’ churn has some relevance to the Pallava period, which one may doubt like in the case of other landmarks of Mahābalipuram recently (18th/19th century) renamed after Kṛṣṇa, e.g. the nearby Kṛṣṇa’s butter ball.</p>
-         </div>
+<div type="commentary">
+
+   <p>On <foreign>kāviti</foreign>, see MTL, s.v.: 1. Ancient title bestowed on Vēḷāḷas by Pāṇḍya kings; 2. Title conferred on Vaiśya ladies; 3. Minister;  4. Accountant caste;  5. Collector of revenues.</p>
+   <p>A  poet named Peruṅkāviti Caṭaiyaṉpaḷḷi composed the verse in <ref target="DHARMA_INSPallava00119">INSPallava00119</ref>, see line 13.</p> 
+   <p><bibl><ptr target="bib:Lockwood1993_01"/></bibl> (p. 163) suggests that <foreign>kāviti</foreign>, which he reads <foreign>kaviti</foreign>, in fact represents what would be pronounced <foreign>gaviti</foreign> in Tamil and would mean <foreign>gokula</foreign>. It seems that this interpretation is based on the assumption that the name Gopis’ churn has some relevance to the Pallava period, which one may doubt like in the case of other landmarks of Mahābalipuram recently (18th/19th century) renamed after Kṛṣṇa, e.g. the nearby Kṛṣṇa’s butter ball.</p>
+   
+</div>
 
          <div type="bibliography">
          	
-         	<p>
-         		Reported in <bibl><ptr target="bib:ARIE1959-1960"/></bibl>; text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 363); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy and photographs (2017).
-         	</p>
+         	<p>Reported in <bibl><ptr target="bib:ARIE1959-1960"/></bibl>.</p>
+            <p>Text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 363).</p>
+            <p>Edited here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on autopsy and photographs (2017).</p>
          	         	
-
          	<listBibl type="primary">
          		
-         		<bibl n="GJD1">
+         		<bibl n="JD1">
          			<ptr target="bib:Jouveau-Dubreuil1916_01"/>
          			<citedRange unit="plate">XXXI, B (facing page 64)</citedRange>
          		</bibl>
          		
-         		<bibl n="GJD2">
+         		<bibl n="JD2">
          			<ptr target="bib:Jouveau-Dubreuil1916-1917_01"/>
          			<citedRange unit="plate">XXXI, B (facing page 59)</citedRange>
          		</bibl>         		      	
@@ -158,7 +160,7 @@
 
          	<listBibl type="secondary">
          		
-         		<bibl n="ARIE 1959-1960">
+         		<bibl n="ARIE">
          			<ptr target="bib:ARIE1959-1960"/>
          			<citedRange unit="page">73</citedRange>
          			<citedRange unit="appendix">B/1959-1960</citedRange>
@@ -170,8 +172,7 @@
          			<citedRange unit="page">163</citedRange>
          		</bibl>
          	</listBibl>
-         	
-         	
+         	         	
          </div>
 
       </body>
