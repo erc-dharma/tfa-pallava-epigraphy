@@ -119,10 +119,10 @@
 	</lg>	
 		
 	<lg n="3" met="pr̥thvī">
-		<l n="a">...</l>
-		<l n="b">...</l>
-		<l n="c">...</l>
-		<l n="d">...</l>
+		<l n="a">tataḥ pratata-kīrttiṣu prahata-lo<lb n="1v8=8" break="no"/>ka-śokeṣv iteṣv</l>
+		<l n="b">aśoka-harigupta-rāḍ·-pramukha<pb n="1v" break="no"/><lb n="2r1=9" break="no"/>-pallaveṣu kramāt<unclear>·</unclear></l>
+		<l n="c" enjamb="yes">praṇamra-nṛpa-kamra-m<choice><orig>o</orig><reg>au</reg></choice>ly-aruṇa-ratna-ra<lb n="2r2=10" break="no"/>śmy-ātapat</l>
+		<l n="d">-prabuddha-pada-paṃkajeṣv ajani siṃhavarmmādhipāt <g type="gomutraFinal">.</g></l>
 	</lg>	
 		
 	<lg n="4" met="upajāti">
@@ -161,10 +161,10 @@
 	</lg>	
 	
 	<lg n="9" met="anuṣṭubh">
-		<l n="a">...<pb n="3r"/><lb n="3r1=25"/></l>
-		<l n="b">...</l>
-		<l n="c">...</l>
-		<l n="d">...</l>
+		<l n="a" enjamb="yes">samasta-śāstra-niṣṇā<pb n="3r" break="no"/><lb n="3r1=25" break="no"/>ta</l>
+		<l n="b">dhiṣaṇo dhiṣaṇopamaḥ</l>
+		<l n="c">mānyo nāmnāpi <lb n="3r2=26"/> medhāvī</l>
+		<l n="d">praśastiṃ kṛtavān imām· <g type="gomutraFinal">§§§§§§</g></l>
 	</lg>
 	
 </div>
@@ -260,11 +260,13 @@
 </div>
 
 <div type="apparatus">
+	
+	<!--Complete apparatus-->
 
-<div type="textpart" xml:lang="san-Latn" n="A">
+<!--<div type="textpart" xml:lang="san-Latn" n="A">
 <head xml:lang="eng">Seal</head>
 
-      		</div>
+      		</div>-->
 	
 <div type="textpart" xml:lang="san-Latn" n="B">
 <head xml:lang="eng">Plates: Sanskrit Portion</head>
@@ -278,16 +280,28 @@
 		<app loc="3">
 			<lem>ambuja°</lem>
 			<rdg source="bib:Subramaniam1959_01">a<unclear>ṃ</unclear>buja°</rdg>
-			<!--<rdg source="bib:Mahalingam1988_01">...</rdg>
-				<rdg source="bib:Zvelebil1964_01">...</rdg>-->
 		</app>     
 		
 		<app loc="4">
 			<lem>gī<supplied reason="omitted">r</supplied>°</lem>
 			<rdg source="bib:Subramaniam1959_01">gī<unclear>r</unclear>°</rdg>
-			<!--<rdg source="bib:Mahalingam1988_01">...</rdg>
-				<rdg source="bib:Zvelebil1964_01">...</rdg>-->
-		</app>     
+		</app>   
+		
+		<app loc="9">
+ 			<lem>kramāt<unclear>·</unclear></lem>
+ 			<rdg source="bib:Subramaniam1959_01">kramāt<unclear>·</unclear></rdg>
+ 			</app>
+		
+		<app loc="9">
+			<lem>°m<choice><orig>o</orig><reg>au</reg></choice>ly°</lem>
+			<rdg source="bib:Subramaniam1959_01">°mauly°.</rdg>
+		</app>		
+		<!--<app loc="0">
+ 			<lem>...</lem>
+ 			<rdg source="bib:Subramaniam1959_01">...</rdg>
+ 			<rdg source="bib:Mahalingam1988_01">...</rdg>      					
+ 			<rdg source="bib:Zvelebil1964_01">...</rdg>
+ 			</app>-->  
 		
 	</listApp>
 </div>
@@ -315,14 +329,14 @@
 
 <div type="translation" resp="part:emfr">
       		
-	<div type="textpart" xml:lang="san-Latn" n="A">
+	<!--<div type="textpart" xml:lang="san-Latn" n="A">
 		<head xml:lang="eng">Seal</head>
 		
 		<p>
 			<lb n="1"/>...
 		</p>
 		
-	</div>	
+	</div>	-->
 	
 <div type="textpart" xml:lang="san-Latn" n="B">
 <head xml:lang="eng">Plates: Sanskrit Portion</head>
@@ -338,6 +352,13 @@
 		<l>Who is the glorious beloved of his beloved earth, who has the waters of the ocean for her garments.</l>
 	</p>
 	
+	<p rend="stanza" n="3">
+		<l>Then, after Pallava <supplied reason="subaudible">kings</supplied>, such as Aśoka, Harigupta, and others, were gone one after the other,</l>
+		<l>Their fame having spread <supplied reason="subaudible">in the world</supplied> and their wordly pains having ceased <supplied reason="explanation"><foreign>prahatta</foreign><note>Literally, killed, defeated,</note></supplied>,</l>
+		<l>Their lotus-feet having been awakened by the hot rays of the red jewels on the beautiful crowns</l>
+		<l>of bowing kings, from the king Siṃhavarman was born:</l>
+	</p>
+	
 </div>
 	
 <div type="textpart" xml:lang="san-Latn" n="C">
@@ -349,67 +370,64 @@
 
 <div type="translation" xml:lang="fra" resp="part:sybr">
 
-	<div type="textpart" xml:lang="san-Latn" n="B">
-		<head xml:lang="eng">Plates: Sanskrit Portion</head>
+<div type="textpart" xml:lang="san-Latn" n="B">
+<head xml:lang="eng">Plates: Sanskrit Portion</head>
 		
-		<p rend="stanza" n="1">
-			<l>...</l>
-			<l>...</l>
-			<l>...</l>
-			<l>...</l>
-		</p>
+	<p rend="stanza" n="1">
+		<l>Puisse<note>La fin de b (<foreign>-tāj jinêndraḥ</foreign>) permet de supposer un impératif en -<foreign>tāt</foreign>; il s’agit d’une invocation à Mahāvīra, ouvrant le texte d’une inscription qui enregistre une donation en faveur d’un ascète jaina, de la part d’un souverain dont il y a tout lieu de penser qu’il fut adepte de cette religion. La généalogie commence à la str. 2.</note> le Seigneur Jina <gap reason="lost"/> les plus hautes vertus qui conduisent au ciel et à la délivrance</l>
+		<l>- Lui que doit révérer la multitude <gap reason="lost"/> des grands ermites et du roi des dieux <gap reason="lost"/></l>
+	</p>
+	
+	<p rend="stanza" n="2">
+		<l><supplied reason="lost">Brahmā</supplied> naquit du dieu dont le nombril est un lotus ; de lui naquit Aṃgiras,</l>
+		<l>De ce dernier Gīrvāṇeśa<note>Litt. « le maître des êtres ayant la parole pour flèches », appellation de Bṛhaspati.</note> <gap reason="lost"/> <supplied reason="lost">qui eut pour fils</supplied> Śamyu; puis vint Bharadvājaka,</l>
+		<l><supplied reason="lost">Qui engendra</supplied> Droṇa; <supplied reason="lost">de ce dernier naquit</supplied> celui qui fut une incarnation partielle de l’Ennemi de Pura<note>Aśvatthāman, incarnation partielle de Śiva.</note> ; Pallava,</l>
+		<l><gap reason="lost"/> de la Fortune <gap reason="lost"/>, qui fut l’époux de son épouse la Terre.</l>
+	</p>
+	
+	<p rend="stanza" n="3">
+		<l>Puis <gap reason="lost"/> disparues les causes de douleur,</l>
+		<l>Aśoka <gap reason="lost"/>; quand, les uns après les autres, les Pallava <gap reason="lost"/>,</l>
+		<l>Dont les rois, en s’inclinant, des rayons brûlants émanant des gemmes rougeoyants de leurs beaux diadèmes,</l>
+		<l>Eveillaient les pieds de lotus, Siṃhavarman naquit du souverain<note>Le dernier mot (<foreign>adhipāt</foreign>) oblige à supposer que le nom du père de Siṃhavarman est mentionné, à l’abl., dans l’une ou l’autre des parties illisibles.</note> <gap reason="lost"/></l>
+	</p>
+	
+	<p rend="stanza" n="4">
+		<l>Śrī-Siṁhaviṣṇu, qui dépassa Siṁhaviṣṇu<note>= Narasiṁha (avatar de Viṣṇu), à moins qu’il ne s’agisse du nom d’un autre roi, que celui-ci aurait vaincu à la guerre.</note></l>
+		<l>Par sa force, dont l’arc surpassa même celui de Jiṣṇu<note>= Arjuna.</note>,</l>
+		<l>Qui illustra sa lignée resplendissante,</l>
+		<l>Qui, dans les combats, repoussa les audacieux<note>Il semble que le verbe dont ce personnage est le sujet soit omis.</note>.</l>			
 		
-		<p rend="stanza" n="2">
-			<l>...</l>
-			<l>...</l>
-			<l>...</l>
-			<l>...</l>
-		</p>
-		
-		<p rend="stanza" n="3">
-			<l>...</l>
-			<l>...</l>
-			<l>...</l>
-			<l>...</l>
-		</p>
-		
-		<p rend="stanza" n="4">
-			<l>Śrī-Siṁhaviṣṇu, qui dépassa Siṁhaviṣṇu<note>= Narasiṁha (avatar de Viṣṇu), à moins qu’il ne s’agisse du nom d’un autre roi, que celui-ci aurait vaincu à la guerre.</note></l>
-			<l>Par sa force, dont l’arc surpassa même celui de Jiṣṇu<note>= Arjuna.</note>,</l>
-			<l>Qui illustra sa lignée resplendissante,</l>
-			<l>Qui, dans les combats, repoussa les audacieux<note>Il semble que le verbe dont ce personnage est le sujet soit omis.</note>.</l>			
-
-		</p>
-		
-		<p rend="stanza" n="5">
-			<l>C’est chez ce souverain doué d’une profonde intelligence que trouvèrent place l’ensemble des vertus immaculées des guerriers, qui ne trouvent pas de place chez les autres : notamment la vérité, le renoncement (/la générosité) et la modestie;</l>
-			<l>Et mieux que son rival, il s’empara de la terre des Coḷa dont la Kāverī est le collier, les rizières et les champs de canne à sucre l’<foreign>aṁśuka</foreign>, les vergers de noix d’arech et de bananes la belle ceinture. 
-</l>
-		</p>
-		
-		<p rend="stanza" n="6">
-			<l>Au lieu sacré de Śrī-Varddhamāneśvara,</l>
-			<l>Dans la noble congrégation de Śrī-Nandisaṁgha, par les chefs de la congrégation</l>
-			<l>Méritants, innombrables et vertueux, entouré d’une abondante</l>
-			<l>Compagnie, naquit, pareil à Gaṇin, Vajranandī.</l>
-		</p>
-		
-		<p rend="stanza" n="7">
-			<l>Le roi donna tout entier le village nommé Śramaṇāśrama, après en avoir délimité les frontières</l>
-			<l>A cet ascète, pour qu’il célèbre le culte du Seigneur Jina, au nom du groupe des grands ascètes adeptes du Seigneur Jina.</l>
-		</p>
-		
-		<p rend="stanza" n="8">
-			<l>L’exécuteur fut, en cette occasion, le ministre intrépide nommé Narabhaya,</l>
-			<l>Un homme avisé, réceptacle d’une multitude de nobles vertus, dont l’humilité et la sérénité.</l>
-		</p>
-						
-		<p rend="stanza" n="9">
-			<l>Comparable à Dhiṣaṇa par son intelligence rompue à tous les traités,</l>
-			<l>Celui dont le nom lui-même est digne d’honneur, Medhāvin composa ce panégyrique.</l>
-		</p>
-		
-	</div>
+	</p>
+	
+	<p rend="stanza" n="5">
+		<l>C’est chez ce souverain doué d’une profonde intelligence que trouvèrent place l’ensemble des vertus immaculées des guerriers, qui ne trouvent pas de place chez les autres : notamment la vérité, le renoncement (/la générosité) et la modestie;</l>
+		<l>Et mieux que son rival, il s’empara de la terre des Coḷa dont la Kāverī est le collier, les rizières et les champs de canne à sucre l’<foreign>aṁśuka</foreign>, les vergers de noix d’arech et de bananes la belle ceinture.</l>
+	</p>
+	
+	<p rend="stanza" n="6">
+		<l>Au lieu sacré de Śrī-Varddhamāneśvara,</l>
+		<l>Dans la noble congrégation de Śrī-Nandisaṁgha, par les chefs de la congrégation</l>
+		<l>Méritants, innombrables et vertueux, entouré d’une abondante</l>
+		<l>Compagnie, naquit, pareil à Gaṇin, Vajranandī.</l>
+	</p>
+	
+	<p rend="stanza" n="7">
+		<l>Le roi donna tout entier le village nommé Śramaṇāśrama, après en avoir délimité les frontières</l>
+		<l>A cet ascète, pour qu’il célèbre le culte du Seigneur Jina, au nom du groupe des grands ascètes adeptes du Seigneur Jina.</l>
+	</p>
+	
+	<p rend="stanza" n="8">
+		<l>L’exécuteur fut, en cette occasion, le ministre intrépide nommé Narabhaya,</l>
+		<l>Un homme avisé, réceptacle d’une multitude de nobles vertus, dont l’humilité et la sérénité.</l>
+	</p>
+	
+	<p rend="stanza" n="9">
+		<l>Comparable à Dhiṣaṇa par son intelligence rompue à tous les traités,</l>
+		<l>Celui dont le nom lui-même est digne d’honneur, Medhāvin composa ce panégyrique.</l>
+	</p>
+	
+</div>
     		
 </div>
 
@@ -464,9 +482,14 @@
             		<citedRange unit="plate">III</citedRange>
             	</bibl>     
             	
-            	<bibl n="EF">
+            	<bibl>
             		<ptr target="bib:Francis2013_01"/>
             		<citedRange unit="item">IR 21</citedRange>
+            	</bibl>
+            	
+            	<bibl>
+            		<ptr target="bib:Rajentiran2015_01"/>
+            		<citedRange unit="page">TBC</citedRange>
             	</bibl>
 
            </listBibl>
@@ -476,3 +499,7 @@
       </body>
   </text>
 </TEI>
+<!--
+	METADATA:
+	add details on whereabouts of second fragment of plate 1.
+-->
