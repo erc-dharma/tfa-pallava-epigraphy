@@ -105,17 +105,17 @@
 	<pb n="1r"/>
 	
 	<lg n="1" met="upajāti">
-		<l n="a"><pb n="1v"/><lb n="1v1=1"/>...</l>
-		<l n="b">...</l>
-		<l n="c">...</l>
-		<l n="d">...</l>
+		<l n="a" enjamb="yes"><pb n="1v"/><lb n="1v1=1"/>svarggāpava<unclear>r</unclear>gga-praguṇāgra-mārgga</l>
+		<l n="b">-prakāśi-vākyo jaya<lb n="1v2=1" break="no"/>tāj jinendraḥ</l>
+		<l n="c" enjamb="yes">munīndra-devendra-narendra</l>
+		<l n="d">-vidvad-vandāru-bṛndāraka<lb n="1v3=3" break="no"/>-bṛnda-vandyaḥ <g type="gomutraFinal">.</g></l>
 	</lg>
 	
 	<lg n="2" met="śārdūlavikrīḍita">
-		<l n="a">...</l>
-		<l n="b">...</l>
-		<l n="c">...</l>
-		<l n="d">...</l>
+		<l n="a">Āsīd ambuja-nābha-nābhi-jala-jād abjāsano<lb n="1v4=4" break="no"/>to <supplied reason="subaudible">’</supplied>ṃgirā</l>
+		<l n="b">gī<supplied reason="omitted">r</supplied>-vvāṇeśa-gurus tatas tata-matiś śa<lb n="1v5=5" break="no"/>ṃyur bharadvājakaḥ</l>
+		<l n="c">droṇo drauṇir ato ’bha-va-t pu<lb n="1v6=6" break="no"/>ra-ripor aṃśas tataḥ pallavaḥ</l>
+		<l n="d">śrīmān-nīradhi-nīra-nīlavasa<lb n="1v7=7" break="no"/>nā-kṣmā-vallabhā-vallabhaḥ <g type="ddanda">.</g></l>
 	</lg>	
 		
 	<lg n="3" met="pr̥thvī">
@@ -259,48 +259,59 @@
 </div>
 </div>
 
-      	<div type="apparatus">
+<div type="apparatus">
 
-      		<div type="textpart" xml:lang="san-Latn" n="A">
-      			<head xml:lang="eng">Seal</head>
+<div type="textpart" xml:lang="san-Latn" n="A">
+<head xml:lang="eng">Seal</head>
 
       		</div>
-
-      		<div type="textpart" xml:lang="san-Latn" n="B">
-      			<head xml:lang="eng">Plates: Sanskrit Portion</head>
+	
+<div type="textpart" xml:lang="san-Latn" n="B">
+<head xml:lang="eng">Plates: Sanskrit Portion</head>
       			
-      			<listApp>
-
-      				<app loc="0">
-      					<lem>...</lem>
-      					<rdg source="bib:Subramaniam1959_01">...</rdg>
-      					<rdg source="bib:Mahalingam1988_01">...</rdg>
-      					<rdg source="bib:Zvelebil1964_01">...</rdg>
-      				</app>      				
-
-      			</listApp>
-      		</div>
-
-      		<div type="textpart" xml:lang="san-Latn" n="C">
-      			<head xml:lang="eng">Plates: Tamil Portion</head>
+	<listApp>      			
+		
+		<app loc="1">
+			<lem>svarggāpava<unclear>r</unclear>gga°</lem>
+			<rdg source="bib:Subramaniam1959_01"/>
+		</app>   	
+		<app loc="3">
+			<lem>ambuja°</lem>
+			<rdg source="bib:Subramaniam1959_01">a<unclear>ṃ</unclear>buja°</rdg>
+			<!--<rdg source="bib:Mahalingam1988_01">...</rdg>
+				<rdg source="bib:Zvelebil1964_01">...</rdg>-->
+		</app>     
+		
+		<app loc="4">
+			<lem>gī<supplied reason="omitted">r</supplied>°</lem>
+			<rdg source="bib:Subramaniam1959_01">gī<unclear>r</unclear>°</rdg>
+			<!--<rdg source="bib:Mahalingam1988_01">...</rdg>
+				<rdg source="bib:Zvelebil1964_01">...</rdg>-->
+		</app>     
+		
+	</listApp>
+</div>
+	
+ <div type="textpart" xml:lang="san-Latn" n="C">
+<head xml:lang="eng">Plates: Tamil Portion</head>
       			
-      			<listApp>
-
-      				<!--<app loc="0">
-      					<lem>...</lem>
-      					<rdg source="bib:Subramaniam1959_01">...</rdg>
-      					<rdg source="bib:Mahalingam1988_01">...</rdg>      					
-      					<rdg source="bib:Zvelebil1964_01">...</rdg>
-      				</app>-->      				
-
-      				<app loc="32">
-      					<lem>k<unclear>o</unclear><pb n="3v" break="no"/><lb n="3v1=33"/>ṭuttu</lem>
-      					<note>In <foreign>k<unclear>o</unclear></foreign>, only the <foreign>kāl</foreign> is unclear.</note>
-      				</app>   
-
-      			</listApp>
-      		</div>
-      	</div>
+ 	<listApp>
+ 		
+ 		<!--<app loc="0">
+ 			<lem>...</lem>
+ 			<rdg source="bib:Subramaniam1959_01">...</rdg>
+ 			<rdg source="bib:Mahalingam1988_01">...</rdg>      					
+ 			<rdg source="bib:Zvelebil1964_01">...</rdg>
+ 			</app>-->      				
+ 		
+ 		<app loc="32">
+ 			<lem>k<unclear>o</unclear><pb n="3v" break="no"/><lb n="3v1=33"/>ṭuttu</lem>
+ 			<note>In <foreign>k<unclear>o</unclear></foreign>, only the <foreign>kāl</foreign> is unclear.</note>
+ 		</app>   
+ 		
+ 	</listApp>
+ </div>
+</div>
 
 <div type="translation" resp="part:emfr">
       		
@@ -313,13 +324,24 @@
 		
 	</div>	
 	
-	<div type="textpart" xml:lang="san-Latn" n="B">
-		<head xml:lang="eng">Plates: Sanskrit Portion</head>
+<div type="textpart" xml:lang="san-Latn" n="B">
+<head xml:lang="eng">Plates: Sanskrit Portion</head>
 		
-	</div>
+	<p rend="stanza" n="1">
+		<l>May Jinendra, whose words/commands are illuminating in the path of highest virtues <supplied reason="subaudible">which lead</supplied> to heaven and final beatitude, be victorious,</l>
+		<l>He who is praised, for a multitude of aeons <supplied reason="explanation"><foreign>araka</foreign><note>That is, <foreign>ara</foreign>.</note></supplied>, by the multitude of the great sages, great gods/Indra, great men/kings, wise men and panegyrists. </l>
+	</p>
+	<p rend="stanza" n="2">
+		<l>From he who is born on the waters on the navel of he whose navel is a lotus<note>That is, Brahmā, arising form the navel of Viṣṇu.</note>, sitting in the lotus posture, was born Aṅgiras;</l>
+		<l>From him, the preceptor who is the master of those who have words as arrows<note>That is, Bṛhaspati, the preceptor of the gods and the <foreign>purohita</foreign> of Indra.</note>; <supplied reason="subaudible">from him</supplied>, Śaṃyu, whose thoughts are broad/concealed; <supplied reason="subaudible">from him</supplied>, Bharadvājaka;</l>
+		<l><supplied reason="subaudible">from him</supplied>, Droṇa; <supplied reason="subaudible">from him</supplied>, Drauṇi<note>That is, Aśvatthāman.</note>, who was a partial incarnation of the enemy of Pura; from him was born Pallava,</l>
+		<l>Who is the glorious beloved of his beloved earth, who has the waters of the ocean for her garments.</l>
+	</p>
 	
-	<div type="textpart" xml:lang="san-Latn" n="C">
-		<head xml:lang="eng">Plates: Tamil Portion</head>
+</div>
+	
+<div type="textpart" xml:lang="san-Latn" n="C">
+<head xml:lang="eng">Plates: Tamil Portion</head>
 		
 	</div>
 	
@@ -391,24 +413,18 @@
     		
 </div>
 
-<div type="commentary">
+<!--<div type="commentary">
 
       		
-      	</div>
+</div>-->
 
 <div type="bibliography">
 	
-	<p>
-	Reported in <bibl><ptr target="bib:ARIE1958-1959"/></bibl> (ARIE/1958-1959/A/1958-1959/10).
-</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1958-1959"/></bibl> (ARIE/1958-1959/A/1958-1959/10).</p>
       	
-	<p>
-		Edited and translated in <bibl><ptr target="bib:Subramaniam1959_01"/></bibl> (TASSI 1958-1959), with photos; text of the Tamil portion in <bibl><ptr target="bib:Zvelebil1964_01"/></bibl>; re-edited in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 17); text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 14).
-	</p>
+	<p>Edited and translated in <bibl><ptr target="bib:Subramaniam1959_01"/></bibl> (TASSI 1958-1959), with photos; text of the Tamil portion in <bibl><ptr target="bib:Zvelebil1964_01"/></bibl>; edited in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 17); text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 14).</p>
 	
-	<p>
-		Re-edited here for DHARMA (ERC n° 809994) by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on previous editions and published visual documentation.
-	</p>
+	<p>Edited and translated by Emmanuel Francis (2024), based on previous editions, published visual documentation, and on photo of second fragment of plate 1, kindly supplied by Senthamizhselvan Elango (April 2024). The apparatus is restricted mostly to variant reading compared to <bibl><ptr target="bib:Subramaniam1959_01"/></bibl>, which edition has been followed by most further editors.</p>
 
             <listBibl type="primary">
 
