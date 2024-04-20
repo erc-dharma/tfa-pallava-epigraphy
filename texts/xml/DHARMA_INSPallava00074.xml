@@ -144,37 +144,37 @@
       			<app loc="7">
       				<lem>kaḻañciṉā<supplied reason="omitted">l</supplied></lem>
       				<rdg source="bib:Sampath1968_01">kaḻañciṉāl</rdg>
-      				<rdg source="bib:Nagaswamy1970_02">kaḻañciṉā<supplied reason="omitted">l</supplied></rdg>
+      				<rdg source="bib:Nagaswamy1970_03">kaḻañciṉā<supplied reason="omitted">l</supplied></rdg>
       				<rdg source="bib:Mahalingam1988_01">kaḻañciṉāl</rdg>
       			</app>      			
       			<app loc="7">
       				<lem>muṉ kuṟaṭṭi</lem>
       				<rdg source="bib:Sampath1968_01">muṉ kuṟaṭṭi</rdg>
-      				<rdg source="bib:Nagaswamy1970_02">muṉ kuṟaṭṭi</rdg>
+      				<rdg source="bib:Nagaswamy1970_03">muṉ kuṟaṭṭi</rdg>
       				<rdg source="bib:Mahalingam1988_01"><unclear>muṉ kuṟaṭṭi</unclear></rdg>
       			</app>      			
       			<app loc="9">
       				<lem>Oṭṭiṉōṅ</lem>
       				<rdg source="bib:Sampath1968_01">Oṭṭiṉāl</rdg>
-      				<rdg source="bib:Nagaswamy1970_02">Oṭṭiṉōṅ</rdg>
+      				<rdg source="bib:Nagaswamy1970_03">Oṭṭiṉōṅ</rdg>
       				<rdg source="bib:Mahalingam1988_01">Oṭṭiṉōṅ</rdg>
       			</app>      			
       			<app loc="10">
       				<lem>Oṭṭiṟ 2</lem>
       				<rdg source="bib:Sampath1968_01">Oṭṭiṟ</rdg>
-      				<rdg source="bib:Nagaswamy1970_02">Oṭṭiṟ 2</rdg>
+      				<rdg source="bib:Nagaswamy1970_03">Oṭṭiṟ 2</rdg>
       				<rdg source="bib:Mahalingam1988_01">Oṭṭiṟ</rdg>
       			</app>      			
       			<app loc="11">
       				<lem>kō-Iṟku</lem>
       				<rdg source="bib:Sampath1968_01">kōka</rdg>
-      				<rdg source="bib:Nagaswamy1970_02">kō-Iṟku</rdg>
+      				<rdg source="bib:Nagaswamy1970_03">kō-Iṟku</rdg>
       				<rdg source="bib:Mahalingam1988_01">kō-Iṟku</rdg>
       			</app>      			
       			<app loc="13">
       				<lem>ṟaṭṭārkkulam</lem>
       				<rdg source="bib:Sampath1968_01">paṭṭārakkulam</rdg>
-      				<rdg source="bib:Nagaswamy1970_02">ṟaṭṭārkkulam</rdg>
+      				<rdg source="bib:Nagaswamy1970_03">ṟaṭṭārkkulam</rdg>
       				<rdg source="bib:Mahalingam1988_01">ṟaṭṭārkkulam</rdg>
       			</app>  
       			
@@ -209,7 +209,7 @@
          <div type="bibliography">
 
             <p>
-Edited in <bibl><ptr target="bib:Sampath1968_01"/></bibl>; re-edited by <bibl><ptr target="bib:Nagaswamy1970_02"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 74); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous editions.
+Edited in <bibl><ptr target="bib:Sampath1968_01"/></bibl>; re-edited by <bibl><ptr target="bib:Nagaswamy1970_03"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 74); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous editions.
             </p>
 
             	<listBibl type="primary">
@@ -219,7 +219,7 @@ Edited in <bibl><ptr target="bib:Sampath1968_01"/></bibl>; re-edited by <bibl><p
             			<citedRange unit="page">158</citedRange>
             		</bibl>
             		<bibl n="RN">
-            			<ptr target="bib:Nagaswamy1970_02"/>
+            			<ptr target="bib:Nagaswamy1970_03"/>
             			<citedRange unit="page">122</citedRange>
             		</bibl>
             		<bibl n="IP 74">
