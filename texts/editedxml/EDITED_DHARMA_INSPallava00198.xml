@@ -117,28 +117,28 @@
       			<app loc="2">
       				<lem/>
       				<rdg source="bib:Sampath1968_01">kāṭakatīyaṉayar</rdg>
-      				<rdg source="bib:Nagaswamy1970_02">kāṭakati-y-araiyar</rdg>
+      				<rdg source="bib:Nagaswamy1970_03">kāṭakati-y-araiyar</rdg>
       				<rdg source="bib:Mahalingam1988_01">kāṭakati-y-araiyar</rdg>      				
       			</app>
       			
       			<app loc="3">
       				<lem/>
       				<rdg source="bib:Sampath1968_01">māntavi</rdg>
-      				<rdg source="bib:Nagaswamy1970_02">mātavi-y</rdg>
+      				<rdg source="bib:Nagaswamy1970_03">mātavi-y</rdg>
       				<rdg source="bib:Mahalingam1988_01">mātavi-y</rdg>
       			</app>
       			
       			<app loc="3">
       				<lem/>
       				<rdg source="bib:Sampath1968_01">It-tirukkō<lb n="4" break="no"/>yil</rdg>
-      				<rdg source="bib:Nagaswamy1970_02">it-tirukkō<lb n="4" break="no"/>yil</rdg>
+      				<rdg source="bib:Nagaswamy1970_03">it-tirukkō<lb n="4" break="no"/>yil</rdg>
       				<rdg source="bib:Mahalingam1988_01">it-tirukkō<lb n="4" break="no"/>yil</rdg>      				
       			</app>
       			
       			<app loc="5">
       				<lem/>
       				<rdg source="bib:Sampath1968_01">yak<lb n="6" break="no"/>kāpaṭṭāri-t</rdg>
-      				<rdg source="bib:Nagaswamy1970_02">yak<lb n="6" break="no"/>kā-paṭāri</rdg>
+      				<rdg source="bib:Nagaswamy1970_03">yak<lb n="6" break="no"/>kā-paṭāri</rdg>
       				<rdg source="bib:Mahalingam1988_01">yak<lb n="6" break="no"/>kā-paṭāri</rdg>
       			</app>	
       			      			
@@ -166,20 +166,20 @@
          <div type="bibliography">
 
             <p>
-Edited in <bibl><ptr target="bib:Sampath1968_01"/></bibl>; re-edited by <bibl><ptr target="bib:Nagaswamy1970_02"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 198); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous editions.
+Edited in <bibl><ptr target="bib:Sampath1968_01"/></bibl>; re-edited by <bibl><ptr target="bib:Nagaswamy1970_03"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 198); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous editions.
             </p>
 
             	<listBibl type="primary">
         		
-            		<bibl n="MDS">
+            		<bibl n="S">
             			<ptr target="bib:Sampath1968_01"/>
             			<citedRange unit="page">159</citedRange>
             		</bibl>
-            		<bibl n="RN">
-            			<ptr target="bib:Nagaswamy1970_02"/>
+            		<bibl n="N">
+            			<ptr target="bib:Nagaswamy1970_03"/>
             			<citedRange unit="page">125</citedRange>
             		</bibl>
-            		<bibl n="IP 74">
+            		<bibl n="IP">
             			<ptr target="bib:Mahalingam1988_01"/>
             			<citedRange unit="page">532</citedRange>
             			<citedRange unit="item">74</citedRange>

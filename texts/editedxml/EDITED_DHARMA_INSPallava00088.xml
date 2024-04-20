@@ -123,14 +123,14 @@
       			<app loc="3">
       				<lem>viḻukkattu-c</lem>
       				<rdg source="bib:Sampath1968_01">viḻukkattu</rdg>
-      				<rdg source="bib:Nagaswamy1970_02">viḻukkattu-c</rdg>
+      				<rdg source="bib:Nagaswamy1970_03">viḻukkattu-c</rdg>
       				<rdg source="bib:Mahalingam1988_01">viḻukkattu</rdg>
       			</app>
       			
       			<app loc="3">
       				<lem>ciṉaṟiyār</lem>
       				<rdg source="bib:Sampath1968_01">ciṉaṭiyār</rdg>
-      				<rdg source="bib:Nagaswamy1970_02">ciṉaṟiyār</rdg>
+      				<rdg source="bib:Nagaswamy1970_03">ciṉaṟiyār</rdg>
       				<rdg source="bib:Mahalingam1988_01">cīṉaṟiyār</rdg>
       				<note>IP fn2 @ cīṉaṟiyār: “It should be read as Ci(Ji)ṉaṭiyār.” Sampath fn3: “jinadiyar means Samanas (or) it may refer to a Jaina ascetic.”</note><!--Update!-->
       			</app>
@@ -138,7 +138,7 @@
       			<app loc="4">
       				<lem>mūppāvaik kācu patiṉ E<lb n="5" break="no"/>ḻu</lem>
       				<rdg source="bib:Sampath1968_01">mūppāvai<surplus>tta</surplus>kkācu patiṉ eḻu</rdg>
-      				<rdg source="bib:Nagaswamy1970_02">mūppāvaik kācu patiṉ E<lb n="5" break="no"/>ḻu</rdg>
+      				<rdg source="bib:Nagaswamy1970_03">mūppāvaik kācu patiṉ E<lb n="5" break="no"/>ḻu</rdg>
       				<rdg source="bib:Mahalingam1988_01">mū<unclear>ppā</unclear> vaitta kkācu patiṉ ē<lb n="5" break="no"/>ḻu</rdg>
       				<note>Sampath = surplus. Not clear. = My interpretation --- IP fn 3 @ mū[ppā]: “The readings are doubtful.”</note><!--Update!-->
       			</app>
@@ -146,28 +146,28 @@
       			<app loc="5">
       				<lem>poṉ</lem>
       				<rdg source="bib:Sampath1968_01">mēl</rdg>
-      				<rdg source="bib:Nagaswamy1970_02">poṉ</rdg>
+      				<rdg source="bib:Nagaswamy1970_03">poṉ</rdg>
       				<rdg source="bib:Mahalingam1988_01">poṉ</rdg>
       			</app>      			
       			
       			<app loc="7">
       				<lem><gap reason="undefined" quantity="2" unit="character"/>kaṟ ūṭṭuvār</lem>
       				<rdg source="bib:Sampath1968_01">koṟaṭṭuvar</rdg>
-      				<rdg source="bib:Nagaswamy1970_02"><gap reason="undefined" quantity="2" unit="character"/>kaṟ ūṭṭuvār</rdg>
+      				<rdg source="bib:Nagaswamy1970_03"><gap reason="undefined" quantity="2" unit="character"/>kaṟ ūṭṭuvār</rdg>
       				<rdg source="bib:Mahalingam1988_01"><gap reason="undefined" quantity="3" unit="character"/><unclear>ka</unclear>ṟ ūṭṭuvār</rdg>
       			</app>  
       			
       			<app loc="7">
       				<lem>pavaṇa<lb n="8"/><unclear>nti</unclear>yu</lem>
       				<rdg source="bib:Sampath1968_01">pavaṉa<lb n="8"/>ṭiyār</rdg>
-      				<rdg source="bib:Nagaswamy1970_02">pavaṇa<lb n="8"/><unclear>nti</unclear>yu</rdg>
+      				<rdg source="bib:Nagaswamy1970_03">pavaṇa<lb n="8"/><unclear>nti</unclear>yu</rdg>
       				<rdg source="bib:Mahalingam1988_01">pavaṇa<lb n="8"/><unclear>nti</unclear>yār</rdg>
       			</app>        			
 
       			<app loc="8">
       				<lem>Ūrōṅ</lem>
       				<rdg source="bib:Sampath1968_01">Ūrōm</rdg>
-      				<rdg source="bib:Nagaswamy1970_02">Ūrōṅ</rdg>
+      				<rdg source="bib:Nagaswamy1970_03">Ūrōṅ</rdg>
       				<rdg source="bib:Mahalingam1988_01">Ūrōṅ</rdg>
       			</app>      			
       			      			
@@ -196,7 +196,7 @@
          <div type="bibliography">
 
             <p>
-Edited in <bibl><ptr target="bib:Sampath1968_01"/></bibl>; re-edited by <bibl><ptr target="bib:Nagaswamy1970_02"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 88); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous editions.
+Edited in <bibl><ptr target="bib:Sampath1968_01"/></bibl>; re-edited by <bibl><ptr target="bib:Nagaswamy1970_03"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 88); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous editions.
             </p>
 
             	<listBibl type="primary">
@@ -206,7 +206,7 @@ Edited in <bibl><ptr target="bib:Sampath1968_01"/></bibl>; re-edited by <bibl><p
             			<citedRange unit="page">159</citedRange>
             		</bibl>
             		<bibl n="RN">
-            			<ptr target="bib:Nagaswamy1970_02"/>
+            			<ptr target="bib:Nagaswamy1970_03"/>
             			<citedRange unit="page">124</citedRange>
             		</bibl>
             		<bibl n="IP 74">

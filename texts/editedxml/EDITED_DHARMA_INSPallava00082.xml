@@ -121,40 +121,40 @@
       			      <!--Fuse identical readings by different editors-->
       			<app loc="3">
       				<lem>kāṇamuma<lb n="4" break="no"/><unclear>t</unclear>tu</lem>      				
-      				<rdg source="bib:Nagaswamy1970_02">kāṇamuma<lb n="4" break="no"/><unclear>t</unclear>tu</rdg>
+      				<rdg source="bib:Nagaswamy1970_03">kāṇamuma<lb n="4" break="no"/><unclear>t</unclear>tu</rdg>
       				<rdg source="bib:Mahalingam1988_01">kāṇamu<lb n="4" break="no"/><unclear>mattu</unclear></rdg>
       			</app>
       			      			      
       			<app loc="4">
       				<lem>pānilai</lem>      				
-      				<rdg source="bib:Nagaswamy1970_02">pānilai</rdg>
+      				<rdg source="bib:Nagaswamy1970_03">pānilai</rdg>
       				<rdg source="bib:Mahalingam1988_01"><unclear>pānilai</unclear></rdg>
       			</app>      	
       			
       			<app loc="6">
       				<lem/>      				
-      				<rdg source="bib:Nagaswamy1970_02">nāyakarallā</rdg>
+      				<rdg source="bib:Nagaswamy1970_03">nāyakarallā</rdg>
       				<rdg source="bib:Mahalingam1988_01">nāyakarallār</rdg>
       				<note>Read possibly <foreign>nāyakarallar</foreign>.</note>
       			</app>    
       			
       			<app loc="7">
       				<lem>uḷaṉāyilum</lem>      				
-      				<rdg source="bib:Nagaswamy1970_02">uḷaṉāyilum</rdg>
+      				<rdg source="bib:Nagaswamy1970_03">uḷaṉāyilum</rdg>
       				<rdg source="bib:Mahalingam1988_01">uḷaṉayilum</rdg>
       				<note><ptr target="bib:Mahalingam1988_01"/>’s reading appears to be the result of a typo.</note>
       			</app>
       			
       		   <app loc="8">
       		      <lem>ture <gap reason="undefined" quantity="1" unit="character"/></lem>
-      		      <rdg source="bib:Nagaswamy1970_02">ture <gap reason="undefined" quantity="1" unit="character"/></rdg>
+      		      <rdg source="bib:Nagaswamy1970_03">ture <gap reason="undefined" quantity="1" unit="character"/></rdg>
       		      <rdg source="bib:Mahalingam1988_01"><unclear>ture</unclear> <gap reason="undefined" quantity="1" unit="character"/></rdg>
       		      <note><ptr target="bib:Mahalingam1988_01"/> also considers the gap of one character as unclear.</note>
       		   </app>     
       			
       			<app loc="9">
       				<lem>Aṭai-c</lem>      				
-      				<rdg source="bib:Nagaswamy1970_02">Aṭai-c</rdg>
+      				<rdg source="bib:Nagaswamy1970_03">Aṭai-c</rdg>
       				<rdg source="bib:Mahalingam1988_01">A<surplus>yi</surplus>ṭai-c</rdg>
       				<note><ptr target="bib:Mahalingam1988_01"/> reads <foreign>a(yi)ḍai</foreign>, which I interpret as surplus, but what his parentheses means is in fact unclear.</note>
       			</app>   
@@ -180,13 +180,13 @@
          <div type="bibliography">
 
             <p>
-Edited in <bibl><ptr target="bib:Nagaswamy1970_02"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 82); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous editions.
+Edited in <bibl><ptr target="bib:Nagaswamy1970_03"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 82); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020), based on previous editions.
             </p>
 
             	<listBibl type="primary">
         		            		
             		<bibl n="RN">
-            			<ptr target="bib:Nagaswamy1970_02"/>
+            			<ptr target="bib:Nagaswamy1970_03"/>
             			<citedRange unit="page">122</citedRange>
             		</bibl>
             	   
