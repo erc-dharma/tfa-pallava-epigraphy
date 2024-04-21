@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Pūñcēri name (5/8)</title>
+            <title>Kāppalūr, Saptamātṛika temple, no king, no year</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>...</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -60,8 +60,8 @@
       <encodingDesc>
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union’s Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
+                        under the European Union’s Horizon 2020 research and innovation programme (grant
+                        agreement no 809994).</p>
          </projectDesc>
          <schemaRef type="guide"
                     key="EGDv01"
@@ -71,92 +71,118 @@
                        matchPattern="([a-zA-Z0-9\-\_]+)"
                        replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
+                            ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
             <prefixDef ident="part"
                        matchPattern="([a-z]+)"
                        replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding
-				template v03</change>
-         <change who="part:emfr" when="2020-03-12" status="draft">Creation of the file</change>
+         <change who="part:emfr" when="2024-04-21" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
 
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+         	
+	<p>
+		<lb n="1"/>
+		<gap reason="lost" extent="unknown" unit="character"/>
+		<supplied reason="lost">ku</supplied>tuttōm <hi rend="grantha">sabhai</hi>yōm
+	</p>
+	<p>
+		Iv-ūr-p pāra<hi rend="grantha">śi</hi>va<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> oru kā
+		<gap reason="lost" extent="unknown" unit="character"/>
+		l-āka-p pērā<hi rend="grantha">śā</hi>yyamaṉukku Iṉ-ṉilaṉ cuṭṭi
+		nīr <unclear>vi</unclear> li Uḷiṭṭu Eppēṟpaṭṭa Iṟaiyum
+		<lb n="2"/>koḷḷa p<choice><sic>i</sic><corr>e</corr></choice>ṟātōm ākavum
+	</p>
+	<p>
+		piṭāri-kōyilukku teṟkku
+		Oru ko <gap reason="lost" extent="unknown" unit="character"/> kati-k-karaiyum avikkuṇtilukku mēṟkkum
+		Ivv-uṇ-ṇilam oḻiv’ iṉṟi aṉupōcippār ākavum
+	</p>
+	<p>  	
+		<lb n="3"/> Iv-vūr ma<choice><orig>ṇṇ</orig><reg>ṇ</reg></choice>utaiyarkaḷum piṭāri-kōyilukku pukum vaḻiyē pukku kāṭukāl kōṭṭam ārāticcu pōka-p peṟuvarkaḷ ākavum
+	</p>
+	<p>
+		Ip-paric’ oṭṭi kututtōm <hi rend="grantha">sabhai</hi>yōm
+	</p>
+	<p>
+		<lb n="4"/>rakṣittār aṭi y-eṉ talai mēḻiṉa
+	</p>
+	
+</div>
 
-      	<div type="edition" xml:lang="tam-Latn">
-      		
-      		<p>
-      			<lb n="1"/>kaliyā<unclear>ṇi</unclear>
-      		</p>
-      		
-      	</div>
-      	
       	<div type="apparatus">
-      	</div>
-      	
-      	<div type="translation" resp="part:emfr">
-      		      		
-      		<p>Kaliyāṇi (Skt. Kalyāṇi).</p>
+      		
+      		<listApp>
+      			
+      			<app loc="1">
+      				<lem><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ku</supplied>tuttōm</lem>
+      				<rdg source="bib:Dayalan2005_01"><gap reason="lost" extent="unknown" unit="character"/> tuttōm</rdg>
+      			</app>
+      		</listApp>
       		
       	</div>
-         
-        <div type="commentary"><!--update by import from INSPallava0052-->
-         	 <p>This inscription is part of a series of names found on a group of rocks. See also tfaPallava52, tfaPallava514-516, tfaPallava518-520.<!--update!--> Six names (tfaPallava52, 514-517, 520<!--update!-->) are found on the rock locally known as <foreign>noṇṭi vīrappaṉ kutiraitoṭṭi</foreign> (“the watering place of the horse of Noṇṭi Vīrappaṉ”). One on a second rock nearby (tfaPallava518). One on a third rock in the same place (tfaPallava519).<!--Update!--></p>
-        	<p>SII 12: The following seven labels are engraved in archaic Tamil and Grantha characters on a group of rocks, one of which, on account of a natural cavity in it, is locally known as ’Noṇḍi Vīrappaṉ Kudiraitoṭṭi’. The names Kevadaperundachchaṉ and Kollaṉ Śēmagaṉ found in this place indicate that the persons bearing these names belonged to the artisan class. One of the labels also gives the name Guṇamallaḥ. On account of their palaeographical interest, these labels, as also the one given in the previous inscription <supplied reason="explanation">SII 12.23 = IP ***<!--update!--></supplied>, are included here and some of them are reproduced on plate VI <supplied reason="explanation">plate II in fact</supplied>.</p>
-         </div>
-         	
-         <div type="bibliography">
-         	
-         	<p>
-First edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, n° 23a.5), with a facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 52.5); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020).
-         	</p>
-            
-         	<listBibl type="primary">
-         		
-         		<bibl n="VVA">
-         			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
-         			<citedRange unit="page">11</citedRange>
-         			<citedRange unit="item">23-A</citedRange>
-         			<citedRange unit="plate">II</citedRange>
-         			<note>5 items</note>
-         		</bibl>
-         		
-         		<bibl n="TVM">
-         			<ptr target="bib:Mahalingam1988_01"/>
-         			<citedRange unit="page">168</citedRange>
-         			<citedRange unit="item">52</citedRange>
-         		</bibl>
-         		
-         	</listBibl>
-         	
-         	<listBibl type="secondary">
-         		
-         		<bibl n="ARIE 1932-1933">
-         			<ptr target="bib:ARIE1932-1933"/>
-         			<citedRange unit="page">17</citedRange>
-         			<citedRange unit="appendix">B/1932-1933</citedRange>
-         			<citedRange unit="item">105</citedRange>
-         		</bibl>
-         		
-         		
-         		<bibl>
-         			<ptr target="bib:Kasinathan2007_01"/>
-         			<citedRange unit="page">14</citedRange>
-         		</bibl>
-         		
-         	</listBibl>
+      	
+<div type="translation" resp="part:emfr">
+	
+	<p n="1">We, the members of the assembly, we have given <gap reason="lost"/></p>
+	
+	<p n="1-2">We should not obtain to get taxes, whatever, <gap reason="lost"/></p>
+	
+	<p n="2">...</p>
+	
+	<p n="3">...</p>
+	
+	<p n="3">...</p>
+	
+	<p n="4">The feet of those who protect <supplied reason="subaudible">this</supplied> are on my head.</p>
+      		
+      	</div>
+      	
+<!--<div type="commentary">
+      		
+      	</div>-->
+      	
+<div type="bibliography">
 
-         </div>
+	<p>Reported in <bibl><ptr target="bib:ARIE1938-1939"/></bibl> (ARIE/1938-1939/B/1938-1939/287).</p>
+	<p>Edited in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+	<p>Encoded here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+   
+<listBibl type="primary">
+	
+	<bibl n="D">
+		<ptr target="bib:Dayalan2005_01"/>
+		<citedRange unit="volume">3</citedRange>
+		<citedRange unit="appendix">I</citedRange>
+		<citedRange unit="page">1311</citedRange>
+		<citedRange unit="item">74</citedRange>            		
+	</bibl>
+	
+</listBibl>
+            
+<listBibl type="secondary">
+   
+	
+	<bibl>
+		<ptr target="bib:ARIE1938-1939"/>
+		<citedRange unit="page">38, 91 (§ 59)</citedRange>
+		<citedRange unit="appendix">B/1938-1939</citedRange>
+		<citedRange unit="item">277</citedRange>
+	</bibl>              
+	
+</listBibl>
+   
+</div>
 
       </body>
   </text>
 </TEI>
-<!--Check pūñcēri in Avanam-->
