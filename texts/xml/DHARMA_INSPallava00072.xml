@@ -151,9 +151,12 @@
       	
 <div type="bibliography">
 
-            <p>
-Date phrase Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1, no. 124); fully edited by <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5, no. 54); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 72); encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2020).
-            </p>
+   <p>
+      Date phrase Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1, no. 124); fully edited by <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5, no. 54); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 72).
+   </p>
+   <p>
+      Encoded here by Emmanuel Francis (2020).
+   </p>
 
 	<listBibl type="primary">
 		
