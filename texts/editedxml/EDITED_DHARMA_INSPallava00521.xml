@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Cāḷuvaṉ Kuppam, pillar, time of Nṛpatuṅgavarman, year 13</title>
+            <title>Cāḷuvaṉ Kuppam, pillar, time of Nṛpatuṅga, year 13</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>...</summary>
+                  <summary>Fragment. Regnal year only.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -96,8 +96,8 @@
 	
 	<p>
 		yā
-		<lb n="2" break="no"/>ṭu <hi rend="grantha">nṛ</hi>pa-tuṅ
-		<lb n="3" break="no"/>kaṟkku-p patiṉ mū
+		<lb n="2" break="no"/>ṇṭu <hi rend="grantha">nṛ</hi>pa-tuṅ
+		<lb n="3" break="no"/>kaṟku-p patiṉ mū
 		<lb n="4" break="no"/>ṉṟ-āvatu
 	</p>
 	
@@ -107,23 +107,43 @@
 		
 </div>
 
-<!--<div type="apparatus">
+<div type="apparatus">
       		
 	<listApp>
 		
-		<app loc="0">
-			<lem></lem>					
-			<rdg source="bib:Rajavelu2008_01"></rdg>
-			<rdg source="bib:Badhreenath2015_01"></rdg>
+		<app loc="2">
+			<lem><hi rend="grantha">nṛ</hi>pa-tuṅ
+		<lb n="3" break="no"/>kaṟku-p</lem>					
+			<rdg source="bib:Rajavelu2008_01">nripatun<lb n="3" break="no"/>karkup</rdg>
+			<rdg source="bib:Badhreenath2015_01">nirupatu<lb n="3" break="no"/>karkkup</rdg>
 		</app>		
+		
+		<app loc="3">
+			<lem>patiṉ mū
+		<lb n="4" break="no"/>ṉṟ-āvatu</lem>					
+			<rdg source="bib:Rajavelu2008_01">patin mu
+		<lb n="4" break="no"/>nravatu</rdg>
+			<rdg source="bib:Badhreenath2015_01">patiṉ mū
+		<lb n="4" break="no"/>ṉṟāvatu</rdg>
+		</app>	
+		
+		<app loc="3">
+			<lem>kat <gap reason="undefined" extent="unknown" unit="character"/></lem>					
+			<rdg source="bib:Rajavelu2008_01"><unclear>tanku</unclear></rdg>
+			<rdg source="bib:Badhreenath2015_01">kat &gt;</rdg>
+		</app>	
 		
 	</listApp>
 	
-</div>-->
+</div>
       	
 <div type="translation" resp="part:emfr">
 	
 	<p n="1">Prosperity! Fortune!</p>
+	
+	<p n="1-4">Thirteenth year of Nṛpatuṅga.</p>
+	
+	<p n="4"><gap reason="lost"/></p>
 			
       	</div>
       	
@@ -134,7 +154,7 @@
 <div type="bibliography">
 
 	<p>Edited in <bibl><ptr target="bib:Rajavelu2008_01"/></bibl>, in <bibl><ptr target="bib:Badhreenath2015_01"/></bibl>.</p>
-	<p>Encoded and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Badhreenath2015_01"/></bibl>, which does not appear to be a very reliable edition. The above encoding should thus be revised with proper visual documentation.</p>
+	<p>Encoded and translated here by Emmanuel Francis (2024), based on the previous editions, none of which seems sufficiently reliable, notably for the transliteration of Grantha characters of the original and for the length of lacunas. The present digital edition is thus provisional and should be revised with proper visual documentation.<!--quantity of gap to be assessed--></p>
 	
 	<listBibl type="primary">
 				

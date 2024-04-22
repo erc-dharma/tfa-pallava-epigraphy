@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Donation of gold for providing food a the time of Karttikai festival.</summary>
+                  <summary>Donation of gold for providing food a the time of the Karttikai festival in Tiruviḻicil.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -90,6 +90,7 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
          	
+         	<!--fill gaps comparing pallava 505-508, 521-525-->
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
 		<milestone n="1" type="pagelike" unit="zone"/>
 		<lb n="1"/>svasti śrī
@@ -106,7 +107,7 @@
 		<lb n="5"/><hi rend="grantha"><unclear>śrī</unclear></hi>-mā-malla
 		<lb n="6" break="no"/>-purattu kīrai
 		<lb n="7" break="no"/>-p-piriyaṉ
-		<lb n="8"/>tiru-Iḻiccil
+		<lb n="8"/>tiru-<choice><orig>I</orig><reg>v-i</reg></choice>ḻiccil
 		<lb n="9"/><hi rend="grantha"><unclear>sa</unclear></hi> <gap reason="lost" quantity="1" unit="character"/> <hi rend="grantha"><unclear>hāsi</unclear></hi><unclear>ra</unclear>
 		<milestone n="3" type="pagelike" unit="zone"/>
 		<lb n="10"/><hi rend="grantha">śrī</hi>kku patiṉ
@@ -116,7 +117,7 @@
 	</p>
 	<p>		
 		Ataṉ po
-		<lb n="14" break="no"/>liyūṭṭu ko
+		<lb n="14" break="no"/>li-y-ūṭṭu ko
 		<lb n="15" break="no"/>ṇ
 		<lb n="16" break="no"/>ṭu
 		<lb n="17"/>kārt
@@ -182,19 +183,20 @@
 	
 	<p n="1">Prosperity! Fortune!</p>
 	
-	<p n="1-4">Twenty second year of Nantippōttaraiyaṉ.</p>
+	<p n="1-4">Twelfth year of Nantippōttaraiyaṉ.</p>
 	
-	<p n="5-13">Kīraippiriyaṉ of the <unclear>glorious</unclear> Māmallapuram
-		<supplied reason="lost">through the member of the assembly</supplied> of Tiruviḻicil
-		<gap reason="ellipsis"/>
-		gave ten <foreign>kaḻañcu</foreign>s of gold.	</p>
+	<p n="5-13">
+		Kīraippiriyaṉ of the <unclear>glorious</unclear> Māmallapuram		
+		gave ten <foreign>kaḻañcu</foreign>s of gold
+		for <gap reason="lost"/>
+		<supplied reason="subaudible">of/at</supplied> Tiruviḻicil.	
+	</p>
 	
-	<p n="13-30">We, the members of the assembly have become those who, with the interest of that <supplied reason="subaudible">gold</supplied>, will provide food <supplied reason="explanation"><foreign>ūṭṭuvōm</foreign></supplied>, when celebrati the festival <supplied reason="explanation"><foreign>ceytu</foreign></supplied> at the time of Karttikai <note>See MTL, s.v. <foreign>kārttikai</foreign>: <quote>4. cf. <foreign>kārttika</foreign>. The full-moon day in the month of Kārttikai when every house is beautifully lit with lamps</quote>.</note> <supplied reason="subaudible">in the month of</supplied> Karttikai.</p>
+	<p n="13-30">We, the members of the assembly have become those who, with the interest of that <supplied reason="subaudible">gold</supplied>, will provide food <supplied reason="explanation"><foreign>ūṭṭuvōm</foreign></supplied>, when celebrating <supplied reason="explanation"><foreign>ceytu</foreign></supplied> the festival at the time of Karttikai<note>See MTL, s.v. <foreign>kārttikai</foreign>: <quote>4. cf. <foreign>kārttika</foreign>. The full-moon day in the month of Kārttikai when every house is beautifully lit with lamps</quote>.</note> <supplied reason="subaudible">in the month of</supplied> Karttikai.</p>
 	
-	<p n="31-35">We commit ourselves to give
-	...
-	to/for Kīraippiriyaṉ
-	...</p>
+	<p n="31-35">
+		We commit ourselves to give<note>That is, to have the deposited gold used for the purpose indicated.</note>
+		to/for Kīraippiriyaṉ of this village.</p>
 	
       	</div>
       	
@@ -205,7 +207,7 @@
 <div type="bibliography">
 
 	<p>Edited in <bibl><ptr target="bib:Irajavel2006_01"/></bibl> (Āvaṇam 17.23.1), in <bibl><ptr target="bib:Rajavelu2008_01"/></bibl>, in <ptr target="bib:Badhreenath2015_01"/>.</p>
-	<p>Encoded and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Irajavel2006_01"/></bibl>, which seems the most reliable of the existing editions. The above encoding should thus be revised with proper visual documentation.</p>
+	<p>Encoded and translated here by Emmanuel Francis (2024), based on the previous editions, none of which seems sufficiently reliable, notably for the transliteration of Grantha characters of the original and for the length of lacunas. The present digital edition is thus provisional and should be revised with proper visual documentation.</p>
 	
 	<listBibl type="primary">
 		

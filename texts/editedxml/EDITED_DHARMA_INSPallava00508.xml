@@ -108,7 +108,7 @@
 		<lb n="5" break="no"/>-kōṭṭattu maṉai<unclear>yi</unclear>
 		<lb n="6" break="no"/><gap reason="lost" quantity="10" unit="character"/> ṇṭaṅ kiḻavarkaḷil ra
 		<lb n="7" break="no"/><gap reason="lost" quantity="10" unit="character"/> l ciyacarmaṉ pirā<hi rend="grantha">h</hi>maṇi
-		<lb n="8" break="no"/><gap reason="lost" quantity="1" unit="line"/>
+		<lb n="8"/><gap reason="lost" quantity="1" unit="line"/>
 		<lb n="9"/>naṅkai-p perumāṉ
 		<lb n="10"/>tiru-v-iḻiccil <hi rend="grantha">su</hi>pra
 		<lb n="11" break="no"/><hi rend="grantha">h</hi>maṇya-paṭārarkku nantā-viḷa
@@ -163,6 +163,21 @@
 <div type="translation" resp="part:emfr">
 	
 	<p n="1">Prosperity! Fortune!</p>
+	
+	<p n="1-3">Eighteenth year of Kampavarman.</p>
+	
+	<p n="4-12">
+		<supplied reason="subaudible">There are</supplied> ten <foreign>kaḻañcu</foreign>s of gold that
+		...,
+		the Brahmin <supplied reason="subaudible">spouse</supplied> of
+		...
+		gave for a perpetual lamp for the glorious Subrahmaṇya ...
+	</p>
+	
+	<p n="12-17">
+		We, the members of the assembly, have become those who will ...
+	</p>
+	
 			
       	</div>
       	
@@ -173,7 +188,7 @@
 <div type="bibliography">
 
 	<p>Edited in <bibl><ptr target="bib:Irajavel2006_01"/></bibl> (Āvaṇam 17.23.3), in <bibl><ptr target="bib:Rajavelu2008_01"/></bibl>, in <ptr target="bib:Badhreenath2015_01"/>.</p>
-	<p>Encoded and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Irajavel2006_01"/></bibl>, which seems the most reliable of the existing editions. The above encoding should thus be revised with proper visual documentation.<!--quantity of gap to be assessed--></p>
+	<p>Encoded and translated here by Emmanuel Francis (2024), based on the previous editions, none of which seems sufficiently reliable, notably for the transliteration of Grantha characters of the original and for the length of lacunas. The present digital edition is thus provisional and should be revised with proper visual documentation.<!--quantity of gap to be assessed--></p>
 	
 	<listBibl type="primary">
 		
