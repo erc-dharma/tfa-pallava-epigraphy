@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>...</summary>
+						<summary>Donation of land for offering food during a festival.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -93,14 +93,20 @@
 	
 	<p>
 		yāṇ
-		<lb n="2" break="no"/>ṭ’ ēḻ-āvatu peruñ-caṭṭi Āṟṟulaku nārāyaṇa
-		<lb n="3" break="no"/>-sarman talaippali
-		<lb n="4" break="no"/>viḻāvukku kuṭutta tō
+		<lb n="2" break="no"/>ṭ’ ēḻ-āvatu
+	</p>
+	<p>
+		peruñ-caṭṭi Āṟṟulaka nārāyaṇa
+		<lb n="3" break="no"/>-<hi rend="grantha">śarma</hi>ṉ talai-p-pali
+		<lb n="4" break="no"/>-viḻāvukku kuṭutta tō
 		<lb n="5" break="no"/>ṭṭan kiḻāṉ ceṟuvum catan
 		<lb n="6" break="no"/>maṇ kollaiyil kālam u
 		<lb n="7" break="no"/>tuvārkkum paṭṭiyum
-		<lb n="8" break="no"/>kuṭuttar-k kāṇiyar ko
-		<lb n="9" break="no"/>ṟṟa-sarma cataṅkaviya
+		<lb n="8"/>kuṭuttar-k
+	</p>
+	<p>
+		kāṇiyar ko
+		<lb n="9" break="no"/>ṟṟa-<hi rend="grantha">śarma</hi>-cataṅkaviya
 		<lb n="10" break="no"/>ṟum viṟṟu-k koṇṭa paḷ
 		<lb n="11" break="no"/>la-c ceṟuvum It-tiru-vi
 		<lb n="11" break="no"/>ḻavukkē kuṭuttar		
@@ -125,6 +131,8 @@
 <div type="translation" resp="part:emfr">
 	
 	<p n="1">Prosperity! Fortune!</p>
+	
+	<p n="1-2">Seventh year.</p>
 			
 </div>
       	
@@ -135,7 +143,7 @@
 <div type="bibliography">
 
 	<p>Edited in <bibl><ptr target="bib:Rajavelu2008_01"/></bibl>, in <bibl><ptr target="bib:Badhreenath2015_01"/></bibl>.</p>
-	<p>Encoded and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Irajavel2006_01"/></bibl> and <bibl><ptr target="bib:Badhreenath2015_01"/></bibl>, neither of which seem to be reliable editions.</p>
+	<p>Encoded and translated here by Emmanuel Francis (2024), based on the previous editions, with notable variant readings, whereas none seems sufficiently reliable, notably for the transliteration of Grantha characters of the original and for the length of lacunas. The present digital edition (based on conjectural reading of <bibl><ptr target="bib:Rajavelu2008_01"/></bibl>) is thus provisional and should be revised with proper visual documentation.<!--quantity of gap to be assessed--></p>
 	
 	<listBibl type="primary">
 				

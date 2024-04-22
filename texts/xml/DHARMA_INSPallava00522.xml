@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>...</summary>
+						<summary>Donation of gold for offering food during a festival.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -94,7 +94,7 @@
 	<p>
 		kīrai-p-piriyaṉ koṇṭa<choice><orig>n</orig><reg>ṉ</reg></choice> nannatya civarē kārtti
 		<lb n="2" break="no"/>kai y-ūṭṭukkun tiru-viḻāvukkum-āka-t taṅkaḷ kurukkaḷ vai
-		<lb n="3" break="no"/><surplus>y</surplus>tta poṉṉ āṭu muṭal-āka vaitta po<choice><orig>nn</orig><reg>ṉṉ</reg></choice> iru-kaḻañcu
+		<lb n="3" break="no"/><surplus>y</surplus>tta po<choice><orig>nn</orig><reg>ṉṉ</reg></choice> āṭu mu<choice><sic>ṭ</sic><corr>t</corr></choice>al-āka vaitta po<choice><orig>nn</orig><reg>ṉṉ</reg></choice> iru-kaḻañcu
 	</p>
 	
 </div>
@@ -116,6 +116,13 @@
 <div type="translation" resp="part:emfr">
 	
 	<p n="1">Prosperity! Fortune!</p>
+	
+	<p n="1-3">
+		<supplied reason="subaudible">There are</supplied> two <foreign>kaḻañcu</foreign>s of gold that
+		...
+		gave
+		...
+	</p>
 			
       	</div>
       	
@@ -126,7 +133,7 @@
 <div type="bibliography">
 
 	<p>Edited in <ptr target="bib:Badhreenath2015_01"/>.</p>
-	<p>Encoded and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Badhreenath2015_01"/></bibl>, which does not appear to be a very reliable edition. The above encoding should thus be revised with proper visual documentation.</p>
+	<p>Encoded and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Badhreenath2015_01"/></bibl>'s edition, which does not seem sufficiently reliable, notably for the transliteration of Grantha characters of the original and for the length of lacunas. The present digital edition is thus provisional and should be revised with proper visual documentation.<!--quantity of gap to be assessed: counted as Roman letters by Badhreenath, it seems--></p>
 	
 	<listBibl type="primary">
 		
