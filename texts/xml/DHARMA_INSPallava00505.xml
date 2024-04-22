@@ -94,7 +94,7 @@
 	</ab>
 	
 	<p>
-		nanti
+		<supplied reason="omitted">na</supplied>n=ti
 		<lb n="2" break="no"/>-p-pōtt-arai
 		<lb n="3" break="no"/>yaṟkku paṉ
 		<lb n="2" break="no"/>ṉ-iraṇṭ-āva<supplied reason="omitted">tu</supplied>
@@ -145,6 +145,13 @@
 <div type="apparatus">
       		
 	<listApp>
+		
+		<app loc="1">
+			<lem><supplied reason="omitted">na</supplied>n=ti°</lem>
+			<rdg source="bib:Irajavel2006_01 bib:Badhreenath2015_01">nanti°</rdg>			
+			<rdg source="bib:Rajavelu2008_01">nandi</rdg>
+			<note>The correct reading has been assessed from a picture once published online (Frontline 22.22).</note>
+		</app>
 		
 		<app loc="4">
 			<lem>°āva<supplied reason="omitted">tu</supplied></lem>
