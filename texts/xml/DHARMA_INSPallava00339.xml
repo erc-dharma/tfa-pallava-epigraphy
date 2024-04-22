@@ -47,7 +47,7 @@
 			<idno/>
 		</msIdentifier>
 		<msContents>
-			<summary>IAR 1969-1970 (no. 39, p. 50)<!--update-->: <quote>This incomplete inscription in Tamil language and characters of the ninth century A.D., engraved on the <foreign>tripattakumuda</foreign> of the north and south walls of the Vaikuṇṭha Perumāḷ temple, is dated in the twenty-fifth year in the reign of Pallava Vijaya-Kampavarman. It mentions Cittiramēkataṭākam in Kaliyūr-kōttam and seems to record a gift of land endowed to a deity called Irunta-Perumāṉaṭikaḷ as <foreign>devadāna</foreign> and made tax-free for conducting a festival for seven days from Vicākam to Tiruvōṇam in the month of Vaikāci every year.</quote></summary>
+			<summary><bibl><ptr target="bib:IAR1969-1970"/></bibl> (no. 39, p. 50): <quote>This incomplete inscription in Tamil language and characters of the ninth century A.D., engraved on the <foreign>tripattakumuda</foreign> of the north and south walls of the Vaikuṇṭha Perumāḷ temple, is dated in the twenty-fifth year in the reign of Pallava Vijaya-Kampavarman. It mentions Cittiramēkataṭākam in Kaliyūr-kōttam and seems to record a gift of land endowed to a deity called Irunta-Perumāṉaṭikaḷ as <foreign>devadāna</foreign> and made tax-free for conducting a festival for seven days from Vicākam to Tiruvōṇam in the month of Vaikāci every year.</quote></summary>
 		</msContents>
 		<physDesc>
 			<handDesc>
@@ -108,11 +108,17 @@
       	
 <div type="bibliography">
 	
-	<p>Reported in <bibl><ptr target="bib:ARIE1892-1893"/></bibl> (ARIE 1892-1893, p. 6), in <bibl><ptr target="bib:Hultzsch1903_01"/></bibl> (SII 3, p. 8), and in IAR 1969-1970 (no. 39, p. 50)<!--update-->.</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1892-1893"/></bibl> (ARIE 1892-1893, p. 6), in <bibl><ptr target="bib:Hultzsch1903_01"/></bibl> (SII 3, p. 8), and in <bibl><ptr target="bib:IAR1969-1970"/></bibl> (no. 39, p. 50)>.</p>
 	<p>Recorded in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 339).</p>
 	<p>ASI transcript and estampage, if any, yet to be consulted.</p>
 	
 	<listBibl type="primary">
+		
+		<bibl n="IAR">
+         			<ptr target="bib:IAR1969-1970"/>
+         			<citedRange unit="page">56</citedRange>
+         			<citedRange unit="plate">19</citedRange>
+         		</bibl> 
 		
 		<bibl n="IP">
 			<ptr target="bib:Mahalingam1988_01"/>

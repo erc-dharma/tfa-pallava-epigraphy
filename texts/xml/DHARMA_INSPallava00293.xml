@@ -144,7 +144,7 @@
          	</p>
          	
          	<p>
-         		The inscription is described as follows in <bibl n="IAR"><ptr target="bib:Deshpande1975_01"/></bibl>: <quote>An inscription from Tandrampattu, in characters of about the eighth century A.D. and dated in the seventh year of the reign of Narasimhavarman, records the death of Marudakalan, son of Eruma[nda]nar while Merkovalur was auacked by Vanako-Puttaraisar.</quote>
+         		The inscription is described as follows in <bibl><ptr target="bib:IAR1971-1972"/></bibl>: <quote>An inscription from Tandrampattu, in characters of about the eighth century A.D. and dated in the seventh year of the reign of Narasimhavarman, records the death of Marudakalan, son of Eruma[nda]nar while Merkovalur was auacked by Vanako-Puttaraisar.</quote>
          	</p>
          	
          	<p n="1-2">
@@ -177,7 +177,7 @@
         	<listBibl type="secondary">
         		
         		<bibl n="IAR">
-        			<ptr target="bib:Deshpande1975_01"/>
+        			<ptr target="bib:IAR1971-1972"/>
         			<citedRange unit="page">59</citedRange>
         			<citedRange unit="item">40</citedRange>
         		</bibl>

@@ -47,7 +47,7 @@
 			<idno/>
 		</msIdentifier>
 		<msContents>
-			<summary><bibl><ptr target="bib:IAR1970-71"/></bibl> (p. 54): <quote>This inscription
+			<summary><bibl><ptr target="bib:IAR1970-1971"/></bibl> (p. 54): <quote>This inscription
 				in Tamil language and script on the <foreign>kumuda</foreign> of the north wall of the Jalanātheśvara temple
 				is dated in the sixth year in the reign of Aparājita and seems to refer to a gift of land to the
 				temple.</quote> </summary>
@@ -110,7 +110,7 @@
       	
 <div type="bibliography">
 	
-	<p>Reported in <bibl><ptr target="bib:IAR1970-71"/></bibl>, p. 21, no. 54<!--Update-->.</p>
+	<p>Reported in <bibl><ptr target="bib:IAR1970-71"/></bibl>, p. 21, no. 54.</p>
 	<p>Recorded in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 345).</p>
 	<p>ASI transcript and estampage, if any, yet to be consulted.</p>
 	
@@ -127,7 +127,7 @@
 	<listBibl type="secondary">
 		
 		<bibl>
-			<ptr target="bib:IAR1970-71"/>
+			<ptr target="bib:IAR1970-1971"/>
 			<citedRange unit="page">54</citedRange>
 			<citedRange unit="item">54</citedRange>			
 		</bibl>         

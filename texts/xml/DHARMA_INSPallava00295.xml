@@ -150,7 +150,7 @@
          	
             	<listBibl type="primary">
         		
-        		<bibl n="RN">
+        		<bibl n="N">
         			<ptr target="bib:Nakacami1972_01"/>
         			<citedRange unit="item">1971/36</citedRange>
         		</bibl>
@@ -165,13 +165,13 @@
         	
         	<listBibl type="secondary">
         		
-        		<bibl n="D"><!--Check Zotero encoding: IAR-->
-        			<ptr target="bib:Deshpande1975_01"/>
+        		<bibl n="IAR">
+        			<ptr target="bib:IAR1971-1972"/>
         			<citedRange unit="page">59</citedRange>
         			<citedRange unit="item">40</citedRange>
         		</bibl>
         		
-        		<bibl n="RN">
+        		<bibl n="N">
         			<ptr target="bib:Nagaswamy1980_02"/><!--Check ZST-->
         			<citedRange unit="plate">23</citedRange>
         		</bibl>
