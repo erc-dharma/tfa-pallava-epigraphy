@@ -93,25 +93,51 @@
 	</ab>
 	
 	<p>
-		<lb n="24"/>...
+		<unclear>kampa-va</unclear>
+		<lb n="2" break="no"/>mmaṟku yāṇṭu patiṉ-ēḻ-ā
+		<lb n="3" break="no"/>vatu
+	</p>
+	<p>
+		tiru-v-iḻiccil cupra
+		<lb n="4" break="no"/>maṇya-paṭārarkku maṉaiy	cupramaṇya prob. in Grantha
+		<lb n="5" break="no"/>yiṟ cāṇṭayalaṉ kiḻavaṉ
+		<lb n="6"/>kayi <gap reason="lost" quantity="9" unit="character"/> caṉ makan
+		<lb n="7" break="no"/>śrī kampapattan pirāmaṇi va-
+		<lb n="8"/>santa pirāṭṭiyār ……
+		<lb n="9"/>kuṭutta patiṉāṟu kaḻañcu 
+		<lb n="10"/>poṉṉāl kaḻañciṉ vā-
+		<lb n="11" break="no"/>11. y Aru nāḻip palicaiyāka Ā-
+		<lb n="12" break="no"/>12. ṭṭaṇṭu tōṟum toṇṇū-
+		<lb n="13" break="no"/>13. ru nāḻi Eṇṇai Ippo-
+		<lb n="14" break="no"/>14. ṉ koṇṭu Erikka ……
+		<lb n="15" break="no"/>15.ttuk koṇṭu nan(tā) viḷakku
+		<lb n="16"/>16. Erippōm aṉōm ..
+		<lb n="17"/>17. tiruvamirtukkuk kuṭutta
+		<lb n="18"/>18. kiḻāṉ ceṟuvil …
+		<lb n="19" break="no"/>19. na kallilum tiruva …..
+		<lb n="20" break="no"/>20. vippōm aṉōm ……
+		<lb n="6"/>21. …
+		<lb n="6"/>22. …………… lai mel … 		eṉ talai mēl
+		<lb n="6"/>23. tirukkiṉ kiḻavarāṉa …….
+		<lb n="24"/>24. …… maṉṉa ….
 	</p>
 		
 </div>
 
-<!--<div type="apparatus">
+<div type="apparatus">
       		
 	<listApp>
 		
-		<app loc="0">
-			<lem></lem>
-			<rdg source="bib:Irajavel2006_01">></rdg>					
-			<rdg source="bib:Rajavelu2008_01"></rdg>
-			<rdg source="bib:Badhreenath2015_01"></rdg>
+		<app loc="3">
+			<lem>cupra
+				<lb n="4" break="no"/>maṇya°</lem>
+			<rdg source="bib:Badhreenath2015_01"/>
+			<note>Read <foreign>subra<lb n="4" break="no"/>hmaṇya</foreign>°?</note>
 		</app>		
 		
 	</listApp>
 	
-</div>-->
+</div>
       	
 <div type="translation" resp="part:emfr">
 	
