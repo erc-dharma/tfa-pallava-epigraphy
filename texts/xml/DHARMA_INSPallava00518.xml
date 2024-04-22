@@ -160,11 +160,9 @@
 	
 	<bibl>
 		<ptr target="bib:ARIE1938-1939"/>
-		<citedRange unit="page">38</citedRange>
+		<citedRange unit="page">38, 91 (§59)</citedRange>
 		<citedRange unit="appendix">B/1938-1939</citedRange>
 		<citedRange unit="item">271</citedRange>
-		<citedRange unit="page">91</citedRange>
-		<citedRange unit="section">59</citedRange>
 	</bibl>              
 	
 </listBibl>
