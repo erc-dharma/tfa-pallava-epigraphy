@@ -88,12 +88,18 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check script: Grantha letters in Tamil portion or not?-->
          	
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
-		<milestone n="1" type="pagelike" unit="zone"/>
 		<lb n="1"/>svasti śrī
 	</ab>
 	
 	<p>
-		<lb n="4"/>...
+		yā
+		<lb n="2" break="no"/>ṭu <hi rend="grantha">nṛ</hi>pa-tuṅ
+		<lb n="3" break="no"/>kaṟkku-p patiṉ mū
+		<lb n="4" break="no"/>ṉṟ-āvatu
+	</p>
+	
+	<p>
+		kat <gap reason="undefined" extent="unknown" unit="character"></gap>
 	</p>
 		
 </div>
@@ -124,8 +130,8 @@
       	
 <div type="bibliography">
 
-	<p>Edited in <bibl><ptr target="bib:Rajavelu2008_01"/></bibl>, in <ptr target="bib:Badhreenath2015_01"/>.</p>
-	<p>Encoded and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Irajavel2006_01"/></bibl>, which seems the most reliable of the existing editions.</p>
+	<p>Edited in <bibl><ptr target="bib:Rajavelu2008_01"/></bibl>, in <bibl><ptr target="bib:Badhreenath2015_01"/></bibl>.</p>
+	<p>Encoded and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Badhreenath2015_01"/></bibl>, which does not appear to be a very reliable edition. The above encoding should thus be revised with proper visual documentation.</p>
 	
 	<listBibl type="primary">
 				

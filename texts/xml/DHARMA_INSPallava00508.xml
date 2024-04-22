@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Donation of gold for upkeeping a perpetual lamp.</summary><!--Check script: Grantha letters in Tamil portion or not?-->
+						<summary>Donation of gold for upkeeping a perpetual lamp.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -79,39 +79,82 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:emfr" when="2024-04-21" status="draft">Creation of the file</change>
+			<change who="part:emfr" when="2024-04-21" status="draft">Creation of the file</change><!--Check script: Grantha letters in Tamil portion or not?-->
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
       <body>
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+	
+	<!--fill gaps comparing pallava 505-508-->
          	
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
-		<milestone n="1" type="pagelike" unit="zone"/>
 		<lb n="1"/>svasti śrī
 	</ab>
 	
 	<p>
-		<lb n="17"/>...
+		
+		<lb n="2"/>kampa-varmmaṟku
+		<lb n="3"/>yāṇṭu patiṉ
+		<lb n="4"/>Eṭṭāvatu
+	</p>
+	<p>
+		maṉai<unclear>yiṟ</unclear>
+		<lb n="5" break="no"/>-kōṭṭattu maṉai<unclear>yi</unclear>
+		<lb n="6" break="no"/><gap reason="lost" quantity="10" unit="character"/> ṇṭaṅ kiḻavarkaḷil ra
+		<lb n="7" break="no"/><gap reason="lost" quantity="10" unit="character"/> l ciyacarmaṉ pirā<hi rend="grantha">h</hi>maṇi
+		<lb n="8" break="no"/><gap reason="lost" quantity="1" unit="line"/>
+		<lb n="9"/>naṅkai-p perumāṉ
+		<lb n="10"/>tiru-v-iḻiccil <hi rend="grantha">su</hi>pra
+		<lb n="11" break="no"/><hi rend="grantha">h</hi>maṇya-paṭārarkku nantā-viḷa
+		<lb n="12" break="no"/>kkukku kuṭutta poṉ pattu
+	</p>
+	<p>
+		I
+		<lb n="13" break="no"/>p-poṉṉālum vanta Aṟu-patiṉā
+		<lb n="14" break="no"/>ḻi Eṇṇaiyum Āṭṭā
+		<lb n="15" break="no"/>ṇṭu tōṟum tiru-v-iḷakku
+		<lb n="16"/>muṭṭāmai-y Eriya <gap reason="lost" quantity="10" unit="character"/> vai
+		<lb n="17" break="no"/>ppōm āṉōm <hi rend="grantha">sa</hi>paiyōm
 	</p>
 		
 </div>
 
-<!--<div type="apparatus">
+<div type="apparatus">
       		
 	<listApp>
 		
-		<app loc="0">
-			<lem></lem>
-			<rdg source="bib:Irajavel2006_01">></rdg>					
-			<rdg source="bib:Rajavelu2008_01"></rdg>
-			<rdg source="bib:Badhreenath2015_01"></rdg>
+		<app loc="2">
+			<lem>°varmmaṟku</lem>
+			<rdg source="bib:Irajavel2006_01"/>					
+			<!--<rdg source="bib:Rajavelu2008_01"></rdg>
+			<rdg source="bib:Badhreenath2015_01"></rdg>-->
+			<note>The original reading might be °<foreign>va<hi rend="grantha">rmma</hi>ṟku</foreign>.</note>
 		</app>		
+		
+		<app loc="7">
+			<lem>pirā<hi rend="grantha">h</hi>maṇi</lem>
+			<rdg source="bib:Irajavel2006_01"/>					
+			<!--<rdg source="bib:Rajavelu2008_01"></rdg>
+			<rdg source="bib:Badhreenath2015_01"></rdg>-->
+			<note>The original reading might be <foreign>pirā<hi rend="grantha">hma</hi>ṇi</foreign>.</note>
+		</app>
+		
+		<app loc="10">
+			<lem><hi rend="grantha">su</hi>pra
+		<lb n="11" break="no"/><hi rend="grantha">h</hi>maṇya°</lem>
+			<rdg source="bib:Irajavel2006_01"/>					
+			<!--<rdg source="bib:Rajavelu2008_01"></rdg>
+			<rdg source="bib:Badhreenath2015_01"></rdg>-->
+			<note>The original reading might be <foreign><hi rend="grantha">subra
+		<lb n="11" break="no"/>hmaṇya</hi>°</foreign>.</note>
+		</app>
+		
 		
 	</listApp>
 	
-</div>-->
+</div>
       	
 <div type="translation" resp="part:emfr">
 	
@@ -126,7 +169,7 @@
 <div type="bibliography">
 
 	<p>Edited in <bibl><ptr target="bib:Irajavel2006_01"/></bibl> (Āvaṇam 17.23.3), in <bibl><ptr target="bib:Rajavelu2008_01"/></bibl>, in <ptr target="bib:Badhreenath2015_01"/>.</p>
-	<p>Encoded and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Irajavel2006_01"/></bibl>, which seems the most reliable of the existing editions.</p>
+	<p>Encoded and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Irajavel2006_01"/></bibl>, which seems the most reliable of the existing editions. The above encoding should thus be revised with proper visual documentation.<!--quantity of gap to be assessed--></p>
 	
 	<listBibl type="primary">
 		
