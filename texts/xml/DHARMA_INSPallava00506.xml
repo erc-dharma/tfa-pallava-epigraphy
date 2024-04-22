@@ -99,27 +99,37 @@
 	</p>
 	<p>
 		tiru-v-iḻiccil cupra
-		<lb n="4" break="no"/>maṇya-paṭārarkku maṉaiy	cupramaṇya prob. in Grantha
+		<lb n="4" break="no"/>maṇya-paṭārarkku maṉaiy
 		<lb n="5" break="no"/>yiṟ cāṇṭayalaṉ kiḻavaṉ
 		<lb n="6"/>kayi <gap reason="lost" quantity="9" unit="character"/> caṉ makan
-		<lb n="7" break="no"/>śrī kampapattan pirāmaṇi va-
-		<lb n="8"/>santa pirāṭṭiyār ……
-		<lb n="9"/>kuṭutta patiṉāṟu kaḻañcu 
-		<lb n="10"/>poṉṉāl kaḻañciṉ vā-
-		<lb n="11" break="no"/>11. y Aru nāḻip palicaiyāka Ā-
-		<lb n="12" break="no"/>12. ṭṭaṇṭu tōṟum toṇṇū-
-		<lb n="13" break="no"/>13. ru nāḻi Eṇṇai Ippo-
-		<lb n="14" break="no"/>14. ṉ koṇṭu Erikka ……
-		<lb n="15" break="no"/>15.ttuk koṇṭu nan(tā) viḷakku
-		<lb n="16"/>16. Erippōm aṉōm ..
-		<lb n="17"/>17. tiruvamirtukkuk kuṭutta
-		<lb n="18"/>18. kiḻāṉ ceṟuvil …
-		<lb n="19" break="no"/>19. na kallilum tiruva …..
-		<lb n="20" break="no"/>20. vippōm aṉōm ……
-		<lb n="6"/>21. …
-		<lb n="6"/>22. …………… lai mel … 		eṉ talai mēl
-		<lb n="6"/>23. tirukkiṉ kiḻavarāṉa …….
-		<lb n="24"/>24. …… maṉṉa ….
+		<lb n="7"/><hi rend="grantha">śrī</hi>-kampapatta<choice><orig>n</orig><reg>ṉ</reg></choice> pirāmaṇi va
+		<lb n="8"/><hi rend="grantha">sa</hi>nta-pirāṭṭiyār <gap reason="lost" quantity="6" unit="character"/>
+		<lb n="9"/>kuṭutta patiṉ-āṟu kaḻañcu
+	</p>
+	<p>		
+		<lb n="10"/>poṉṉāl kaḻañciṉ vā
+		<lb n="11" break="no"/>y A<choice><orig>r</orig><reg>ṟ</reg></choice>u nāḻi-p palicai-y-āka Ā
+		<lb n="12" break="no"/>ṭṭāṇṭu tōṟum toṇṇū
+		<lb n="13" break="no"/>ru nāḻi Eṇṇai
+	</p>
+	<p>
+		Ip-po
+		<lb n="14" break="no"/>ṉ koṇṭu Erikka <gap reason="lost" quantity="6" unit="character"/>
+		<lb n="15" break="no"/>ttu-k koṇṭu nan<unclear>tā</unclear>-viḷakku
+		<lb n="16"/>Erippōm āṉōm <gap reason="lost" quantity="2" unit="character"/>
+	</p>
+	<p>
+		<lb n="17"/>tiru-v-amirtukkuk kuṭutta
+		<lb n="18"/>kiḻāṉ ceṟuvil <gap reason="lost" quantity="3" unit="character"/>
+		<lb n="19" break="no"/>na kallilum tiru-v-a <gap reason="lost" quantity="5" unit="character"/><!--restore tiru-v-amirtu Ūṭṭuvippōm-->
+		<lb n="20" break="no"/>vippōm āṉōm
+	</p>
+	<p>
+		<gap reason="lost" quantity="6" unit="character"/>
+		<lb n="21"/><gap reason="lost" quantity="1" unit="line"/>
+		<lb n="22"/><gap reason="lost" quantity="16" unit="character"/> lai mēl <gap reason="lost" quantity="3" unit="character"/><!--restore eṉ talai mēl-->
+		<lb n="23"/>tirukkiṉ kiḻavar-āṉa <gap reason="lost" quantity="7" unit="character"/>
+		<lb n="24"/><gap reason="lost" quantity="6" unit="character"/> maṉṉa <gap reason="lost" quantity="10" unit="character"/>
 	</p>
 		
 </div>
@@ -132,7 +142,7 @@
 			<lem>cupra
 				<lb n="4" break="no"/>maṇya°</lem>
 			<rdg source="bib:Badhreenath2015_01"/>
-			<note>Read <foreign>subra<lb n="4" break="no"/>hmaṇya</foreign>°?</note>
+			<note>Read <foreign><hi rend="grantha">subra<lb n="4" break="no"/>hmaṇya</hi></foreign>°?</note>
 		</app>		
 		
 	</listApp>
@@ -152,7 +162,7 @@
 <div type="bibliography">
 
 	<p>Edited in <ptr target="bib:Badhreenath2015_01"/>.</p>
-	<p>Encoded and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Badhreenath2015_01"/></bibl>, which does not appear to be a very reliable edition.</p>
+	<p>Encoded and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Badhreenath2015_01"/></bibl>, which does not appear to be a very reliable edition. The above encoding should thus be revised with proper visual documentation.<!--quantity of gap to be assessed: counted as Roman letters by Badhreenath, it seems--></p>
 	
 	<listBibl type="primary">
 			
