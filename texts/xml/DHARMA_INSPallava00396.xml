@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Pāndūru plates, time of Siṁhavarman</title>
+				<title>Pāndūra grant, time of Siṁhavarman, year 1</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>...</summary>
+						<summary>Donation (<foreign>brahmadeya</foreign>) of the village of Pāndūra (modern Pātūru).</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -85,11 +85,104 @@
 	<text xml:space="preserve">
       <body>
 
-<div type="edition" xml:lang="tam-Latn" rendition="class:83225 maturity:83211"><!--my conjecture on the script-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:83225 maturity:83213">
+	
+	<pb n="1r"/>
+	
+	<ab>
+		<pb n="1v"/>
+		<lb n="1v1=1"/>jitam bhagavatā svasti 		
+	</ab>
 	
 	<p>
-		<lb n="1"/>...		
+		vijaya-daśana-purād ...
+		
+		<pb n="2r"/>
+		<lb n="2r1=6"/>
+		
+		<pb n="2v"/>
+		<lb n="2v1=11"/>
+		
+		<pb n="3r"/>
+		<lb n="3r1=16"/>śrī-vallabhānām pallavānān dha<unclear>rm</unclear>ma-mahārāja-śrī-si<unclear>ṃha-va</unclear>rmmā muṇḍa
+		<lb n="3r2=17" break="no"/>rāṣṭre pā<unclear>ndūra</unclear>-grāme <unclear>grāme</unclear>yakā<unclear>n</unclear> ...
+		<lb n="3r3=18" break="no"/>... cājñāpayati
 	</p>
+	<p>
+		...
+		<lb n="3r4=19" break="no"/>...
+		
+		<pb n="3v"/>
+		<lb n="3v1=21"/>
+		
+		<pb n="4r"/>
+		<lb n="4r1=26"/>
+		
+		<pb n="4v"/>
+		
+		<lb n="4v1=31"/>
+		
+		<pb n="5r"/>		
+		<lb n="5r1=36"/>
+		
+		<pb n="5v"/>		
+		<lb n="5v1=41"/>
+		
+		<pb n="6r"/>
+		<lb n="6r1=46"/>
+		
+		<pb n="6v"/>		
+		<lb n="6v1=51"/>
+		
+		<pb n="7r"/>
+		<lb n="7r1=56"/>
+		<lb n="7r2=57"/>
+		<lb n="7r2=58"/>
+		<lb n="7r4=59"/>... <unclear>p</unclear>āndūra-grāma<unclear>ṃ</unclear> sarvva-parih<unclear>āro</unclear>peta<unclear>n deva</unclear>-bhoga-hala-varjjyam ...
+		<lb n="7r5=60"/>... samedha<unclear>māna</unclear>-vijaya-rājya-prathama
+		
+		<pb n="7v" break="no"/>
+		<lb n="7v1=61" break="no"/>sa<unclear>ṃ</unclear>vvatsara-āṣāḍha-śukla-pakṣa-pañcamyām brahmadeyī-kṛtya samprādama
+	</p>
+	<p>
+		...
+		<lb n="7v2=62"/>...
+	</p>
+	<p>
+		yaś cedam asma 
+		<lb n="7v2=63" break="no"/><supplied reason="lost">c-chā</supplied>sanam atikramet sa pāpa<unclear>ś ś</unclear>ārīran daṇḍam arhaty
+	</p>
+	<p>
+		api cātrārṣā<unclear>ḥ</unclear>
+		<lb n="7v4=64"/><unclear>ś</unclear>l<unclear>o</unclear>kā bhavant<supplied reason="lost">i</supplied>
+	</p>
+	
+	<lg n="1" met="anuṣṭubh">
+		<l n="a">bhūm<unclear>i</unclear>-dānāt para<unclear>n dānan</unclear></l> 
+		<l n="b"><unclear>na</unclear> bhū<unclear>ta</unclear>n na bhaviṣyati</l> 
+		<l n="c">tasyaiva haraṇā[t] <lb n="7v5=65"/>pāpa<unclear>n</unclear></l>
+		<l n="d"><unclear>na</unclear> bhūtan na bhaviṣyati</l>
+	</lg>
+	
+	<lg n="2" met="anuṣṭubh">
+		<l n="a">bahubhi<unclear>r</unclear> vvasudhā dattā</l>
+		<l n="b">bahubhiś cānupālitā</l>
+		<l n="c"><pb n="8r"/><lb n="8r1=66"/><unclear>ya</unclear>sya yasya yadā bhūmis</l>
+		<l n="d">tasya tasya tadā phalaM</l>
+	</lg>
+	<lg n="3" met="anuṣṭubh">
+		<l n="a">svadattām paradattām vā</l>
+		<l n="b">yo ha<lb n="8r2=67" break="no"/>reta vasu<choice><orig>t</orig><reg>n</reg></choice>dhar<unclear>ā</unclear>M</l>
+		<l n="c">gāvā<unclear>ṃ</unclear> śata-sahasrasya</l>
+		<l n="d">hantuḥ pibati kilbiṣam</l>
+	</lg>
+	<p>
+		<lb n="8r3=68"/>
+		<lb n="8r4=69"/>
+		<lb n="8r5=70"/>
+	</p>	
+	
+		<pb n="8v"/>
          	         	
          </div>
 
@@ -116,8 +209,7 @@
 
 	
 	<p>Edited in <ptr target="bib:Gopalareddi1982_01"/>, with facsimiles.</p>
-	<p>Mentioned in <bibl><ptr target="bib:Mohan1996_01"/><citedRange unit="page">10</citedRange>
-			<citedRange unit="note">19</citedRange></bibl> as discovered in Pātūru, near Nellore, according to N. S. Ramachandra Murthy, registering Officer, Tirupati.</p>
+	<p>Edited here by Emmanuel Francis (2024) based on the facsimiles in <ptr target="bib:Gopalareddi1982_01"/>.</p>
 	
 	<listBibl type="primary">
 		
@@ -130,7 +222,8 @@
 	<listBibl type="secondary">
 		
 		<bibl>
-			<ptr target="bib:Mohan1996_01"/>			
+			<ptr target="bib:Mohan1996_01"/>
+			<citedRange unit="page">10</citedRange>									
 		</bibl>			
 		
 	</listBibl>
