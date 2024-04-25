@@ -129,39 +129,36 @@
 	
 </div>-->
 			
-			<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
 				
-				<p n="1">
-					Fortune!
-				</p>
-				
-				<p n="1">
-					[...] year of Nṛpatuṅgavarman.
-				</p>
-				
-				<p n="2-7">The land that Caṅkaṉ made, after purchase, as <foreign>arcanābhoga</foreign>, <supplied reason="subaudible">that is,</supplied> eight hundred <foreign>kuḻi</foreign>s <supplied reason="subaudible">comprising the plots named</supplied> Vīraṉ Ceṟuvu, Kaḻuval, Koṭumāṭi and Kāḻi, <supplied reason="subaudible">that is,</supplied> the pious donation given for Akatti Śrītēvar, the feet of he who protects it are on my feet.
-					
-				</p>
-				
-				<p n="8">These cannot go into sale or mortgage.
-					
-				</p>
-				
-				<p n="2-3">In this matter, if opposing/failing, let he be fined (an amount of) […].
-					
-				</p>
-				
-			</div>      	
+	<p n="1">
+		Fortune!<note>This could alternatively be considered an honourific prefix to the name of the king, thus: "year of the glorious Nṛpatuṅgavarman."</note>
+	</p>
+	
+	<p n="1">
+		<supplied reason="lost">Umpteenth</supplied> year of <hi rend="grantha">Nṛ</hi>patuṅkaparm<unclear>ma</unclear>r <supplied reason="explanation">Sanskrit Nṛpatuṅgavarman</supplied>.
+	</p>
+	
+	<p n="2-7">
+		The land that Caṅkaṉ made, after purchase, as <foreign>arcanābhoga</foreign>, <supplied reason="subaudible">that is</supplied>, eight hundred <foreign>kuḻi</foreign>s <supplied reason="subaudible">comprising the plots named</supplied> Vīraṉ Ceṟuvu, Kaḻuval, Koṭumāṭi and Kāḻi, <supplied reason="subaudible">that is</supplied>, the pious donation <supplied reason="explanation"><foreign><hi rend="bold">dharma</hi></foreign></supplied> given for Akatti Śrītēvar.
+	</p>
+	
+	<p>
+		The feet of he who protects <supplied reason="subaudible">this donation</supplied> are on my feet.
+	</p>
+	
+	<p n="8">
+		These cannot go into sale or mortgage.		
+	</p>
+	
+</div>      	
 			
-			<div type="commentary">
-				
-			</div>
+<!--<div type="commentary"/>-->
 			
 <div type="bibliography">
 				
-	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.83).</p>
-	<p>Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 192).</p>
-	<p>Encoded and translated here by Emmanuel Francis (2022), based on previous editions.</p>
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.83); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 192).</p>
+	<p>Encoded and translated here by Emmanuel Francis (2022), based on <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>.</p>
 	
 	<listBibl type="primary">
 		
