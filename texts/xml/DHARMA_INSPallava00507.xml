@@ -94,17 +94,17 @@
 	
 	<p>
 		<unclear>kampa-va</unclear>
-		<lb n="2" break="no"/>rmmaṟku yāṇṭu patiṉ-ēḻ-ā
+		<lb n="2" break="no"/><hi rend="grantha"><unclear>r</unclear>mma</hi>ṟku yāṇṭu patiṉ-ēḻ-ā
 		<lb n="3" break="no"/>vatu
 	</p>
 	<p>
 		maṉaiyir-kōṭṭattu ma
 		<lb n="4" break="no"/>ṉaiyiṟ cāṇṭalya <unclear>kōṅ</unclear> kiḻa
 		<lb n="5" break="no"/>varkaḷil ciyacarmmaṉṉā
-		<lb n="6" break="no"/>ṉ <hi rend="grantha">śrī</hi>-kampapaṭṭaṉ prāma
-		<lb n="7" break="no"/>ṇi vacantaṉā<supplied reason="omitted">r</supplied> tiru
-		<lb n="8" break="no"/>-v-iḻiccil <hi rend="grantha">śrī-su</hi>
-		<lb n="9" break="no"/>pra<hi rend="grantha">hma</hi>ṇṇaya-paṭṭārarkku
+		<lb n="6" break="no"/>ṉ <hi rend="grantha">śrī</hi>-kampapaṭṭaṉ <hi rend="grantha">brāhma</hi>
+		<lb n="7" break="no"/>ṇi va<hi rend="grantha">sandha</hi>ṉā<supplied reason="omitted">r</supplied> tiru
+		<lb n="8" break="no"/>-v-iḻiccil <hi rend="grantha">śrī-<unclear>su</unclear></hi>
+		<lb n="9" break="no"/><hi rend="grantha">brahma<choice><orig>ṇṇy</orig><reg>ṇy</reg></choice>a-bha</hi>ṭārarkku
 		<lb n="10"/>nontā-viḷakku-k kuṭu
 		<lb n="11" break="no"/>tta poṉ pati<unclear>ṉ-a</unclear>
 		<lb n="12" break="no"/><choice><orig>r</orig><reg>ṟ</reg></choice>u kaḻañcu
@@ -114,23 +114,23 @@
 		<lb n="13" break="no"/>-Il kaḻañciṉ vā
 		<lb n="14" break="no"/>y aṟu nāḻi Eṇṇai
 		<lb n="15"/>palicai-y-āka <unclear>Aṭṭāṇ</unclear>
-		<lb n="16" break="no"/>ṭu tōṟum mu <gap reason="lost" quantity="10" unit="character"/>
-		<lb n="17"/>A<choice><sic>y</sic><corr>p</corr></choice>paci ce <gap reason="lost" quantity="10" unit="character"/>
+		<lb n="16" break="no"/>ṭu tōṟum mu <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="17"/>A<choice><sic>y</sic><corr>p</corr></choice>paci ce <gap reason="lost" quantity="4" unit="character" precision="low"/>
 		<lb n="18" break="no"/>ṭa-t toṇṇū<unclear>ṟu</unclear>
 		<lb n="19"/>nāḻi Eṇṇai E
-		<lb n="20" break="no"/>ri-<surplus>y</surplus>vippōm āṉō
-		<lb n="21" break="no"/>m capaiyōm
+		<lb n="20" break="no"/>rip<choice><sic>v</sic><corr>p</corr></choice>ippōm āṉō
+		<lb n="21" break="no"/>m <hi rend="grantha">sabhai</hi>yōm
 	</p>
 	<p>		
 		I
-		<lb n="22" break="no"/>nta pirāṭṭiyār tiru-v-a
+		<lb n="22" break="no"/>n=ta pirāṭṭiyār tiru-v-a
 		<lb n="23" break="no"/>mirtukku-k kuṭutta
 		<lb n="24"/>kiḻāṉ ceṟuvil
-		<lb n="25"/>vanta pōkam Ā
+		<lb n="25"/>van=ta pōkam Ā
 		<lb n="26" break="no"/>ṭṭāṇṭu tōṟum
 		<lb n="27"/>Iruntu kuṭu
 		<lb n="28" break="no"/>ppōm āṉōm
-		<lb n="29"/>capaiyōm		
+		<lb n="29"/><hi rend="grantha">sabhai</hi>yōm		
 	</p>
 		
 </div>
@@ -139,25 +139,51 @@
       		
 	<listApp>		
 		
-		<app loc="1">
-			<lem>°<unclear>va</unclear>
-		<lb n="2" break="no"/>rmmaṟku</lem>
+		<!--<app loc="0">
+			<lem></lem>
 			<rdg source="bib:Irajavel2006_01"/>					
-			<!--<rdg source="bib:Rajavelu2008_01"></rdg>
-			<rdg source="bib:Badhreenath2015_01"></rdg>-->
-			<note>The original reading might be °<foreign><unclear>va</unclear>
-		<lb n="2" break="no"/><hi rend="grantha">rmma</hi>ṟku</foreign>.</note>
+			<!-\-<rdg source="bib:Rajavelu2008_01"></rdg>
+			<rdg source="bib:Badhreenath2015_01"></rdg>-\->
+		</app>	-->
+		
+		<app loc="6">
+			<lem><hi rend="grantha">brāhma</hi><lb n="7" break="no"/>ṇi</lem>
+			<rdg source="bib:Irajavel2006_01">prāma<lb n="7" break="no"/>ṇi</rdg>					
+			<rdg source="bib:Rajavelu2008_01">brhamani</rdg>
+			<rdg source="bib:Badhreenath2015_01">pirāma<lb n="7" break="no"/>ṇi</rdg>
 		</app>	
 		
-		
 		<app loc="8">
-			<lem>°<hi rend="grantha">su</hi>
-		<lb n="9" break="no"/>pra<hi rend="grantha">hma</hi>ṇṇaya°</lem>
-			<rdg source="bib:Irajavel2006_01"/>					
-			<!--<rdg source="bib:Rajavelu2008_01"></rdg>
-			<rdg source="bib:Badhreenath2015_01"></rdg>-->
-			<note>The original reading might be <foreign><hi rend="grantha">subra<lb n="9" break="no"/>hmaṇya</hi></foreign>°.</note>
-		</app>		
+			<lem>°<hi rend="grantha"><unclear>su</unclear></hi>
+		<lb n="9" break="no"/><hi rend="grantha">brahma<choice><orig>ṇṇy</orig><reg>ṇy</reg></choice>a-bha</hi>ṭārarkku</lem>
+			<rdg source="bib:Irajavel2006_01">°<hi rend="grantha"><unclear>su</unclear></hi>
+		<lb n="9" break="no"/>prahmaṇṇaya-paṭṭārarkku</rdg>				
+			<rdg source="bib:Rajavelu2008_01">sub<lb n="9" break="no"/>rahmanya bhattararku</rdg>
+			<rdg source="bib:Badhreenath2015_01">°<hi rend="grantha"><unclear>su</unclear></hi>
+		<lb n="9" break="no"/>pirāmaṇa paṭṭārarkku</rdg>
+		</app>	
+		
+		<app loc="19">
+			<lem>E
+		<lb n="20" break="no"/>rip<choice><sic>v</sic><corr>p</corr></choice>ippōm</lem>
+			<rdg source="bib:Irajavel2006_01">E
+		<lb n="20" break="no"/>riyvippōm</rdg>				
+			<rdg source="bib:Rajavelu2008_01">E<lb n="20" break="no"/>rivippom</rdg>
+			<rdg source="bib:Badhreenath2015_01">E
+		<lb n="20" break="no"/>rivippōm</rdg>
+		</app>
+		
+		<app loc="21">
+			<lem><hi rend="grantha">sabhai</hi>yōm</lem>
+			<rdg source="bib:Irajavel2006_01 bib:Badhreenath2015_01">capaiyōm</rdg>				
+			<rdg source="bib:Rajavelu2008_01"><hi rend="grantha">sabhai</hi>yōm</rdg>
+		</app>	
+		
+		<app loc="29">
+			<lem><hi rend="grantha">sabhai</hi>yōm</lem>
+			<rdg source="bib:Irajavel2006_01 bib:Badhreenath2015_01">capaiyōm</rdg>				
+			<rdg source="bib:Rajavelu2008_01"><hi rend="grantha">sabhai</hi>yōm</rdg>
+		</app>	
 		
 	</listApp>
 	
@@ -194,7 +220,7 @@
 <div type="bibliography">
 
 	<p>Edited in <bibl><ptr target="bib:Irajavel2006_01"/></bibl> (Āvaṇam 17.23.2), in <bibl><ptr target="bib:Rajavelu2008_01"/></bibl>, in <ptr target="bib:Badhreenath2015_01"/>.</p>
-	<p>Encoded and translated here by Emmanuel Francis (2024), based on the previous editions, none of which seems sufficiently reliable, notably for the transliteration of Grantha characters of the original and for the length of lacunas. The present digital edition is thus provisional and should be revised with proper visual documentation.</p>
+	<p>Encoded and translated here by Emmanuel Francis (2024), based on partial photographic coverage (Emmanuel Francis, 2009) and for the uncovered parts on the previous editions, none of which seems sufficiently reliable, notably for the transliteration of Grantha characters of the original and for the length of lacunas. The present digital edition is thus provisional and should be revised with proper visual documentation. Initial vowels and Grantha letters are not warranted.</p>
 	
 	<listBibl type="primary">
 		

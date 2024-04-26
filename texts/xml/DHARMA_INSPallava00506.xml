@@ -94,12 +94,12 @@
 	
 	<p>
 		<unclear>kampa-va</unclear>
-		<lb n="2" break="no"/>mmaṟku yāṇṭu patiṉ-ēḻ-ā
+		<lb n="2" break="no"/><hi rend="grantha"><unclear>r</unclear>mma</hi>ṟku yāṇṭu patiṉ-ēḻ-ā
 		<lb n="3" break="no"/>vatu
 	</p>
 	<p>
-		tiru-v-iḻiccil cupra
-		<lb n="4" break="no"/>maṇya-paṭārarkku maṉaiy
+		tiru-v-iḻiccil <hi rend="grantha">subra</hi>
+		<lb n="4" break="no"/><hi rend="grantha">hmaṇya-bha</hi>ṭārarkku maṉaiy
 		<lb n="5" break="no"/>yiṟ cāṇṭayalaṉ kiḻavaṉ
 		<lb n="6"/>kayi <gap reason="lost" quantity="9" unit="character"/> caṉ makan
 		<lb n="7"/><hi rend="grantha">śrī</hi>-kampapatta<choice><orig>n</orig><reg>ṉ</reg></choice> pirāmaṇi va
@@ -139,17 +139,16 @@
 		
 		<app loc="3">
 			<lem>°<unclear>va</unclear>
-		<lb n="2" break="no"/>mmaṟku</lem>
-			<rdg source="bib:Badhreenath2015_01"/>
-			<note>The original reading might be °<foreign><unclear>va</unclear>
-		<lb n="2" break="no"/><hi rend="grantha">rmma</hi>ṟku</foreign>.</note>
+		<lb n="2" break="no"/><hi rend="grantha"><unclear>r</unclear>mma</hi>ṟku</lem>
+			<rdg source="bib:Badhreenath2015_01">°<unclear>va</unclear>
+		<lb n="2" break="no"/>mmaṟku</rdg>
 		</app>	
 		
 		<app loc="3">
-			<lem>cupra
-				<lb n="4" break="no"/>maṇya°</lem>
-			<rdg source="bib:Badhreenath2015_01"/>
-			<note>The original reading might be <foreign><hi rend="grantha">subra<lb n="4" break="no"/>hmaṇya</hi></foreign>°.</note>
+			<lem><hi rend="grantha">subra</hi>
+		<lb n="4" break="no"/><hi rend="grantha">hmaṇya-bha</hi>ṭārarkku</lem>
+			<rdg source="bib:Badhreenath2015_01">cupra
+				<lb n="4" break="no"/>maṇya patārarku</rdg>
 		</app>		
 		
 	</listApp>
@@ -199,7 +198,7 @@
 <div type="bibliography">
 
 	<p>Edited in <bibl><ptr target="bib:Badhreenath2015_01"/></bibl>.</p>
-	<p>Encoded and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Badhreenath2015_01"/></bibl>'s edition, which does not seem sufficiently reliable, notably for the transliteration of Grantha characters of the original and for the length of lacunas. The present digital edition is thus provisional and should be revised with proper visual documentation.<!--quantity of gap to be assessed: counted as Roman letters by Badhreenath, it seems--></p>
+	<p>Encoded and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Badhreenath2015_01"/></bibl>'s edition, which does not seem sufficiently reliable, notably for the transliteration of Grantha characters of the original and for the length of lacunas. The present digital edition is thus provisional and should be revised with proper visual documentation. Initial vowels and Grantha letters are not warranted.<!--quantity of gap to be assessed: counted as Roman letters by Badhreenath, it seems--></p>
 	
 	<listBibl type="primary">
 			

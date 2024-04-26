@@ -127,7 +127,7 @@
 		<app loc="3">
 			<lem>kat <gap reason="undefined" extent="unknown" unit="character"/></lem>					
 			<rdg source="bib:Rajavelu2008_01"><unclear>tanku</unclear></rdg>
-			<rdg source="bib:Badhreenath2015_01">kat ></rdg>
+			<rdg source="bib:Badhreenath2015_01">kat</rdg>
 		</app>	
 		
 	</listApp>
@@ -151,7 +151,7 @@
 <div type="bibliography">
 
 	<p>Edited in <bibl><ptr target="bib:Rajavelu2008_01"/></bibl>, in <bibl><ptr target="bib:Badhreenath2015_01"/></bibl>.</p>
-	<p>Encoded and translated here by Emmanuel Francis (2024), based on the previous editions, none of which seems sufficiently reliable, notably for the transliteration of Grantha characters of the original and for the length of lacunas. The present digital edition is thus provisional and should be revised with proper visual documentation.<!--quantity of gap to be assessed--></p>
+	<p>Encoded and translated here by Emmanuel Francis (2024), based on the previous editions, none of which seems sufficiently reliable, notably for the transliteration of Grantha characters of the original and for the length of lacunas. The present digital edition is thus provisional and should be revised with proper visual documentation. Initial vowels and Grantha letters are not warranted.<!--quantity of gap to be assessed--></p>
 	
 	<listBibl type="primary">
 				
