@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Cāttamaṅkalam (3)</title>
+            <title><title>Cāttamaṅkalam, time of Nantippōttaraicar, year 56</title></title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -117,7 +117,7 @@
       	</div>
 
       	<div type="apparatus">
-      		<!--Fuse identical readings by different editors-->
+      		<!--Fuse identical readings by different editors; remove hyphens from their readings-->
       		<listApp>
       			
       			<app loc="3">
@@ -180,7 +180,7 @@
       		<!--add @n to p-->
       		<p>Fortune!</p>
       		<p>Fifty-sixth year of Nantippōttaraicar.</p>
-      		<p>ADD TRANSLATION</p>
+      		<p>...</p>
       		
       	</div>
       	
@@ -195,32 +195,46 @@
 
          <div type="bibliography">
 
-            <p>
-Edited in <bibl><ptr target="bib:Sampath1968_01"/></bibl>; re-edited by <bibl><ptr target="bib:Nagaswamy1970_03"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 88); encoded here by Emmanuel Francis (2020), based on previous editions.
-            </p>
+            <p>Reported in <bibl><ptr target="bib:ARIE1968-1969"/></bibl> (ARIE/1968-1969/B/1968-1969/220).</p>
+            <p>Edited in <bibl><ptr target="bib:Sampath1968_01"/></bibl>, in <bibl><ptr target="bib:Nagaswamy1970_03"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 88); text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+            <p>Encoded here by Emmanuel Francis (2020), based on previous editions.</p>
 
             	<listBibl type="primary">
         		
-            		<bibl n="MDS">
+            		<bibl n="S">
             			<ptr target="bib:Sampath1968_01"/>
             			<citedRange unit="page">159</citedRange>
             		</bibl>
-            		<bibl n="RN">
+            		<bibl n="N">
             			<ptr target="bib:Nagaswamy1970_03"/>
             			<citedRange unit="page">124</citedRange>
             		</bibl>
-            		<bibl n="IP 74">
+            		<bibl n="IP">
             			<ptr target="bib:Mahalingam1988_01"/>
             			<citedRange unit="page">287-288</citedRange>
             			<citedRange unit="item">88</citedRange>
             		</bibl>
+            	   
+            	   <bibl n="D">
+			<ptr target="bib:Dayalan2005_01"/>
+			<citedRange unit="volume">3</citedRange>
+			<citedRange unit="appendix">I</citedRange>
+			<citedRange unit="page">1283</citedRange>
+			<citedRange unit="item">48</citedRange>            		
+		</bibl>
+            	   
+            	   
         		        		       		
         	</listBibl>
         	
         	<listBibl type="secondary">
         		
         		<bibl>
-        		</bibl>
+			<ptr target="bib:ARIE1968-1969"/>
+			<citedRange unit="page">46</citedRange>
+			<citedRange unit="appendix">B/1968-1969</citedRange>
+			<citedRange unit="item">220</citedRange>
+		</bibl>
         		
         	</listBibl>
 
