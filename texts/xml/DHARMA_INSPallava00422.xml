@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vaitāmpāṭi, time of Parameśvara Pōttaraiyar, year lost</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+					
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+					
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">DHARMA_INSPallava00422</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis and Valérie Gillet.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Donation of gold for upkeeping a perpetual lamp.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p>...</p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>This project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union's Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
+							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change status="draft" when="2024-04-25" who="part:emfr"
+				>Creation of the file on the repository</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+
+<body>
+         
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+           
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+		<lb n="1"/>svasti śrī
+	</ab>
+	
+	<p>      			
+		<gap reason="lost" quantity="3" unit="character" precision="low"/> paramē<hi rend="grantha">śva</hi>ra-p
+		<lb n="2" break="no"/>pōttaraiyarku yā <gap reason="lost" quantity="3" unit="character" precision="low"/> vatu
+	</p>
+	
+	<p>		
+		vā
+		<lb n="3" break="no"/>valūr-nāṭṭu ta <gap reason="lost" quantity="4" unit="character" precision="low"/> kkal vaṭu
+		<lb n="4" break="no"/>ka meruta <gap reason="lost" quantity="3" unit="character" precision="low"/> ṉ Ayyaṉāṟkku <gap reason="lost" quantity="2" unit="character" precision="low"/>
+		<lb n="5" break="no"/><hi rend="grantha">śva</hi>rattu ma<hi rend="grantha">hāde</hi>varkku <gap reason="lost" quantity="5" unit="character" precision="low"/> iti <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="6"/>nicati nā-ṉāḻi parivarikka U<unclear>rik</unclear>ku neykku
+		<lb n="7" break="no"/>m āka vaitta poli-y-ūṭṭu <gap reason="lost" quantity="5" unit="character" precision="low"/> kai <unclear>te</unclear> yā
+		<lb n="8" break="no"/>ṉaṉum kaḻañc' arai vāy <gap reason="lost" quantity="3" unit="character" precision="low"/> ṟ kaṭu <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="9" break="no"/>ttāl Aṭṭuvat' ākavum
+	</p>
+	<p>
+		i mo <gap reason="lost" quantity="3" unit="character" precision="low"/> eṉṟu <gap reason="lost" quantity="2" unit="character" precision="low"/>
+		<lb n="10" break="no"/>yalam po <gap reason="lost" quantity="1" unit="character" precision="low"/> tt' ākavum
+	</p>
+	<p>
+		<gap reason="lost" quantity="3" unit="character" precision="low"/> ṇṭaikku cātava <gap reason="lost" quantity="1" unit="character" precision="low"/>
+		<lb n="11" break="no"/>-c-camaṉār koṇṭa poṉ poṉ kaḻañcu <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="12" break="no"/>ṉāl ney aṉu <gap reason="lost" quantity="2" unit="character" precision="low"/> ṭṭi <gap reason="lost" quantity="4" unit="character" precision="low"/> na <gap reason="lost" quantity="3" unit="character" precision="low"/> ca
+		<lb n="13" break="no"/>mā kiḻanari <gap reason="lost" quantity="4" unit="character" precision="low"/> yaṟ <gap reason="lost" quantity="4" unit="character" precision="low"/> l <gap reason="lost" quantity="3" unit="character" precision="low"/> ṉṟu <gap reason="lost" quantity="3" unit="character" precision="low"/> tai
+		<lb n="14" break="no"/><gap reason="lost" quantity="3" unit="character" precision="low"/> ṉāru Iraṇṭu <gap reason="lost" quantity="3" unit="character" precision="low"/> ṟu ṭṭum Oṟṟi <gap reason="lost" quantity="1" unit="character" precision="low"/>
+		<lb n="15"/><gap reason="lost" quantity="6" unit="character" precision="low"/> cari <gap reason="lost" quantity="3" unit="character" precision="low"/> viṭṭu <gap reason="lost" quantity="3" unit="character" precision="low"/> yaṉā <gap reason="lost" quantity="3" unit="character" precision="low"/> r taḻu
+		<lb n="16"/>I <gap reason="lost" quantity="3" unit="character" precision="low"/> p poṉ kaṭava <gap reason="lost" quantity="3" unit="character" precision="low"/> kaḻañcu Itaṉāl
+		<lb n="17"/><gap reason="lost" quantity="3" unit="character" precision="low"/> kāṭi <gap reason="lost" quantity="3" unit="character" precision="low"/> ita <gap reason="lost" quantity="4" unit="character" precision="low"/> raṇṭu Eṇ <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="18"/><gap reason="lost" quantity="4" unit="character" precision="low"/> te <gap reason="lost" quantity="8" unit="character" precision="low"/> ṟṟi <gap reason="lost" quantity="5" unit="character" precision="low"/>
+		<lb n="19" break="no"/>lañc' āka na <gap reason="lost" quantity="6" unit="character" precision="low"/> tavayē
+		<lb n="20"/><gap reason="lost" quantity="9" unit="character" precision="low"/> aṭuka <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="21"/>mu-k-kāl Itaṟ <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="22"/>kūṭallūr tā <gap reason="lost" quantity="1" unit="character" precision="low"/> carumaṉ kaṭayo
+		<lb n="23" break="no"/>n I-kaḻañcu ney patiṉ-oru kaṭiku Icu <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="24" /><gap reason="lost" quantity="5" unit="character" precision="low"/> ccapāṭu k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-naṟpā <gap reason="lost" quantity="3" unit="character" precision="low"/> yeṉa Iti Etti
+		<lb n="25" break="no"/>tu vaṭakk' aṭaiya nā-nūṟṟ' iraṭal nāṉ
+		<lb n="26" break="no"/><gap reason="lost" quantity="4" unit="character" precision="low"/> lumu nīkki Oḻinta nilam kāli kiḷai-p-paṭṭi
+		<lb n="27" break="no"/>ni lamā<unclear>l</unclear> paḻu ceṟuvu mōṟṟi nimpai cāti carum
+		<lb n="28" break="no"/>ṉā kaṭava poṉ Ēḻu kaḻañcu nel A <gap reason="lost" quantity="3" unit="character" precision="low"/> cāṭi <gap reason="lost" quantity="3" unit="character" precision="low"/> ṭṭi
+		<lb n="29"/>Itaṟku talai-c-camāṭu Eṉvati Eṉci <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="30"/>mūṉṟu ceṟuvu moṟṟi ru <gap reason="lost" quantity="1" unit="character" precision="low"/>  ca <gap reason="lost" quantity="3" unit="character" precision="low"/>  ti carumaṉaka
+		<lb n="31"/>poṉ Iru kaḻañcu nel Aṟu k<choice><sic>ā</sic><corr>a</corr></choice>lañcuṟku <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="32"/><gap reason="lost" quantity="5" unit="character" precision="low"/> laccaṇṭu eṉ <gap reason="lost" quantity="4" unit="character" precision="low"/> ṭavati maki <gap reason="lost" quantity="3" unit="character" precision="low"/> ḻañcu
+		<lb n="33"/>Iṟai <gap reason="lost" quantity="5" unit="character" precision="low"/> ceṟuvu poṟṟi kuṟukkaiyāḷum kā
+		<lb n="34" break="no"/>pa carumaṉakaṭa-p poṉ A <gap reason="lost" quantity="2" unit="character" precision="low"/> kaḻañcu mu
+		<lb n="35" break="no"/>-k-kāṭi mu-k-kāl itaraku talai-c-camāṭu <choice><orig>i</orig><reg>ī</reg></choice>nāṟ
+		<lb n="36" break="no"/>pānila paṭu māṟṟiyil mēṟk' aṭaiya <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="37"/>tilā <gap reason="lost" quantity="3" unit="character" precision="low"/> niṉṟa Iraṇṭu ceṟuvu moṟṟi
+		<lb n="38"/><gap reason="lost" quantity="3" unit="character" precision="low"/> ḻayāḷu kōṭṭai carumaṉā kaṭa-p poṉ pati <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="39" break="no"/><gap reason="lost" quantity="3" unit="character" precision="low"/> ṉ kaḻañcu nel Ēḻu ka <gap reason="lost" quantity="4" unit="character" precision="low"/> Itaṟku-t ta
+		<lb n="40" break="no"/>lai-c-camāṭu k<choice><orig>i</orig><reg>ī</reg></choice>ḻ aṟay nilam <gap reason="lost" quantity="4" unit="character" precision="low"/> ḻi
+		<lb n="41" break="no"/><gap reason="lost" quantity="2" unit="character" precision="low"/> ṉ paḷḷa paṭṭiyilu taram <gap reason="lost" quantity="2" unit="character" precision="low"/> paṭṭi
+		<lb n="42" break="no"/>yilum āka paṭṭi nila oṟṟiyiṉukku <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="43" break="no"/>tu uḻu tāmeṉ <gap reason="lost" quantity="2" unit="character" precision="low"/> katava poṉ nāṉ kaḻañ <gap reason="lost" quantity="3" unit="character" precision="low"/>
+	</p>
+	
+</div>
+         
+<!--<div type="apparatus">
+           
+	<listApp>		
+		
+		<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:Dayalan2005_01">...</rdg>
+		</app>               	               	
+		
+	</listApp>
+	
+</div>-->
+	
+<div resp="part:emfr" type="translation">
+      		
+	<p n="1">
+		Prosperity! Fortune!
+	</p>
+	
+	<p n="1-2">
+		<supplied reason="lost">Umpteenth</supplied> year of the <supplied reason="lost">victorious king</supplied> Parameśvara Pōttāraiyar.
+	</p>
+	
+	<p n="2-9">
+		So that there be
+		...
+		there should be
+		...
+	</p>
+	
+	<p n="9-10">
+		There should be
+		...
+	</p>
+	
+	<p n="10-43">
+		...
+	</p>
+      		
+</div>
+      	
+<!--<div type="commentary">
+      		
+	<p/>
+	
+</div>-->
+	
+<div type="bibliography">
+      		
+	<p>Reported in <bibl><ptr target="bib:ARIE1992-1993"/></bibl> (ARIE/1992-1993/B/1992-1993/350).</p>
+	<p>Edited in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+	<p>Edited here by Emmanuel Francis (2022) based on <bibl><ptr target="bib:Dayalan2005_01"/></bibl> (initial vowels and Grantha letters not warranted).</p>
+	
+	<listBibl type="primary">
+		
+		<bibl n="D">
+			<ptr target="bib:Dayalan2005_01"/>
+			<citedRange unit="volume">3</citedRange>
+			<citedRange unit="appendix">I</citedRange>
+			<citedRange unit="page">1268</citedRange>
+			<citedRange unit="item">34</citedRange>            		
+		</bibl>
+		
+	</listBibl>
+	
+	<listBibl type="secondary">
+		
+		<bibl>
+			<ptr target="bib:ARIE1992-1993"/>
+			<citedRange unit="page">58</citedRange>
+			<citedRange unit="appendix">B/1992-1993</citedRange>
+			<citedRange unit="item">350</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+</div>
+      </body>
+  </text>
+</TEI>
