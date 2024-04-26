@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tiruppāccaṉūr, time of Dantivikramavarman, year 3</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+					
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+					
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">DHARMA_INSPallava00427</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis and Valérie Gillet.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Donation of a flower garden (<foreign>nantavaṉam</foreign>).</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p>...</p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>This project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union's Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
+							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change status="draft" when="2024-04-26" who="part:emfr"
+				>Creation of the file on the repository</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+
+<body>
+         
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+           
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+		<lb n="1"/>svasti śrī
+	</ab>
+	
+	<p>     	
+		<lb n="2"/>kō-vicaiya-<hi rend="grantha">da</hi>nti-<unclear>vi</unclear>
+		<lb n="3" break="no"/><hi rend="grantha">kra</hi>ma-pammarkku yā
+		<lb n="4" break="no"/>ṇṭu mūṉṟ-āvatu
+	</p>
+	
+	<p>
+		tiru
+		<lb n="5" break="no"/>-p-pācca-nallūr <unclear>mūla</unclear>
+		<lb n="6" break="no"/>-<hi rend="grantha">s<choice><orig>tt</orig><reg>t</reg></choice>ā</hi><choice><orig>n</orig><reg>ṉ</reg></choice>attu <hi rend="grantha">bha</hi>ṭārakku <gap reason="lost" quantity="2" unit="character" precision="low"/>
+		<lb n="7" break="no"/>ma-p-piṟiyār vilaikku
+		<lb n="8" />koṇṭa pa<unclear>ṉai</unclear>-c-cēri <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="9" break="no"/>ṅ tōṭṭam Iru peṭa <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="10" break="no"/>ttu-k kīḻakk’ aṭaiya <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="11"/>nilamum nanta-vaṉamum <unclear>Ā</unclear>
+		<lb n="12" break="no"/>ka kuṭuttēṉ
+	</p>
+	<p>
+		Itu kāttā <gap reason="lost" quantity="4" unit="character" precision="low"/>
+	</p>
+	
+</div>
+         
+<!--<div type="apparatus">
+           
+	<listApp>		
+		
+		<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:Dayalan2005_01">...</rdg>
+		</app>               	               	
+		
+	</listApp>
+	
+</div>-->
+	
+<div resp="part:emfr" type="translation">
+      		
+	<p n="1">
+		Prosperity! Fortune!
+	</p>
+	
+	<p n="2-4">
+		Third year of the victorious king Dantivikramapammar<note>Sanskrit Dantivikramavarman.</note>.
+	</p>
+	
+	<p n="4-12">
+		So that there be a flower garden
+		with<note>Literally: "a land and a flower garden." That is, more properly, <foreign>nilam nantavaṉam āka kututtēṉ</foreign>, "I have given, for a flower garden, a land."</note> a land,
+		<supplied reason="subaudible">which is situated</supplied>
+		...
+		<supplied reason="subaudible">in</supplied> Paṉaiccēri,
+		<supplied reason="subaudible">and</supplied> which <gap reason="lost"/>ma-piṟiyār bought for the Lord <supplied reason="explanation"><foreign><hi rend="grantha">bha</hi>ṭarar</foreign></supplied> of the <foreign><unclear>mūla</unclear><hi rend="grantha">stā</hi>ṉam</foreign><note>Sanskrit <foreign>mūlasthāna</foreign>.</note> of the glorious Pāccanallūr,		
+		I have given.
+	</p>	
+      		
+</div>
+      	
+<!--<div type="commentary">
+      		
+	<p/>
+	
+</div>-->
+	
+<div type="bibliography">
+      		
+	<p>Reported in <bibl><ptr target="bib:ARIE1991-1992"/></bibl> (ARIE/1991-1992/B/1991-1992/317).</p>
+	<p>Edited in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+	<p>Edited here by Emmanuel Francis (2022) based on <bibl><ptr target="bib:Dayalan2005_01"/></bibl> (initial vowels and Grantha letters not warranted).</p>
+	
+	<listBibl type="primary">
+		
+		<bibl n="D">
+			<ptr target="bib:Dayalan2005_01"/>
+			<citedRange unit="volume">3</citedRange>
+			<citedRange unit="appendix">I</citedRange>
+			<citedRange unit="page">1277</citedRange>
+			<citedRange unit="item">42</citedRange>            		
+		</bibl>
+		
+	</listBibl>
+	
+	<listBibl type="secondary">
+		
+		<bibl>
+			<ptr target="bib:ARIE1992-1993"/>
+			<citedRange unit="page">121</citedRange>
+			<citedRange unit="appendix">B/1991-1992</citedRange>
+			<citedRange unit="item">317</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+</div>
+      </body>
+  </text>
+</TEI>
