@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ilaṅkāṭu, slab, time of Nṛpa<supplied reason="lost">vikra</supplied>mavarman, year 18</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">DHARMA_INSPallava00448</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Construction of a temple (<foreign>taḷi</foreign>) and donation of land for sacred food offerings (<foreign>tiruvamutu</foreign>) and a flower garden (<foreign>nantavāṉam</foreign>), at the time of the Tiruvātirai festival.</summary>
+					</msContents>
+					<!--<physDesc>
+						<handDesc>
+							<p></p>
+						</handDesc>
+					</physDesc>-->
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union's Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
+							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2024-04-27" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+      <body>
+
+      	<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+      		      		
+      		<p>
+      			<lb n="1"/><supplied reason="lost">kō-vicai</supplied>ya-nirupa
+      			<lb n="2" break="no"/>-<supplied reason="lost">vikkira</supplied>ma-parumāṟku yā
+      			<lb n="3" break="no"/><supplied reason="lost">ṇṭu pa</supplied>tiṉ-eṭṭ-āvatu
+      		</p>
+      		<p>
+      			<lb n="4" break="no"/><gap reason="lost" quantity="4" unit="character" precision="low"/> <unclear>ḻaṉi</unclear> nallūr-t taḷi
+      			<lb n="5"/>Eṭuppittāḷ Ali-ñā
+      			<lb n="6" break="no"/>ṭṭu Ālañcēri-c Iruntu vā
+      			<lb n="7" break="no"/>ḻum cēnti makaḷ na<choice><orig>n</orig><reg>ṅ</reg></choice>
+      			<lb n="8" break="no"/>kāḷi Akkaṉ Ivaḷ tiru-v-amu
+      			<lb n="9" break="no"/>tukku vaitta pōkam taḷi
+      			<lb n="10" break="no"/>-paṭṭa-c-caṉṉa-carumaṉ kūṟum
+      			<lb n="11"/>cōmāci-perumāṉ kūṟum
+      			<lb n="12"/>nantavāṉam cittirai-t
+      			<lb n="13"/><gap reason="lost" quantity="5" unit="character" precision="low"/> tiru-v-ātirai-viḻā
+      			<lb n="14" break="no"/>c ceyya vaittāḷ
+      		</p>      		      		
+      		
+      	</div>
+
+<div type="apparatus">
+      		
+	<listApp>
+		
+		<app loc="1">
+			<lem><supplied reason="lost">kō-vicai</supplied>ya°</lem>
+			<rdg source="bib:Dayalan2005_01"><gap reason="lost" quantity="7" unit="character"/> y</rdg>
+		</app>   
+		
+		<app loc="2">
+			<lem>°<supplied reason="lost">vikkira</supplied>ma°</lem>
+			<rdg source="bib:Dayalan2005_01"><gap reason="lost" quantity="7" unit="character"/> ma</rdg>
+		</app>   
+		
+		<app loc="2">
+			<lem>yā<lb n="3" break="no"/><supplied reason="lost">ṇṭu pa</supplied>tiṉ-eṭṭ-āvatu</lem>
+			<rdg source="bib:Dayalan2005_01">yā<lb n="3" break="no"/><gap reason="lost" quantity="7" unit="character"/> tiṇettāvatu</rdg>
+		</app>   
+		
+		<app loc="5">
+			<lem>Ali-ñā<lb n="6" break="no"/>ṭṭu</lem>
+			<rdg source="bib:Dayalan2005_01"/>
+			<note><bibl><ptr target="bib:ARIE1967-1968"/></bibl> reads <foreign>Āli-nāṭu</foreign>.</note>
+		</app>   
+		
+	</listApp>
+      		
+</div>
+
+<div type="translation" resp="part:emfr">
+         	         	
+         	<p n="1-3">
+         		Eighteenth year of the victorious king Nirupa<supplied reason="lost">vikkira</supplied>maparumaṉ.<note>Sanskrit Nṛpatuṅgavikramavarman.</note>
+         	</p>
+         	<p n="4-14">
+         		She who had the temple <supplied reason="explanation"><foreign>taḷi</foreign></supplied> of <gap reason="lost"/>ḻaṉinallūr built, Naṅkāḷi Akkaṉ, daughter of Cēnti, who lives residing in Ālañcēri in Alināṭu,
+         		she gave <supplied reason="explanation"><foreign>vaittāḷ</foreign></supplied>
+         		<list>
+         			<item>
+         				an enjoyment <supplied reason="explanation"><foreign>bhoga</foreign></supplied>, that she <supplied reason="explanation"><foreign>ivaḷ</foreign></supplied> gave <supplied reason="explanation"><foreign>vaitta</foreign></supplied> for sacred food-offerings,
+         			</item>
+         			<item>
+         				a flower garden,
+         			</item>
+         		</list>
+         				
+         				<supplied reason="subaudible">in the form of</supplied>
+         		<list>
+         				<item>a share <supplied reason="explanation"><foreign>kūṟu</foreign></supplied> <supplied reason="subaudible">of land for/under the supervision of</supplied> Caṉṉacarumaṉ, a priest <supplied reason="explanation"><foreign>paṭṭaṉ</foreign></supplied> of <supplied reason="subaudible">this</supplied> temple, <supplied reason="subaudible">and of</supplied></item>
+         				
+         				<item>a share <supplied reason="explanation"><foreign>kūṟu</foreign></supplied> <supplied reason="subaudible">of land for/under the supervision of</supplied> Cōmāci Perumaṉ,<note>Also, presumably, a priest of the same temple.</note>
+         			</item>
+         		</list>
+         		in order to celebrate <supplied reason="explanation"><foreign>ceyya</foreign><note>Literally: "to do."</note></supplied> the Tiruvātirai<note>"The glorious <foreign>ātirai</foreign>." See MTL, s.v.: <quote>1. The 6th <foreign>nakṣatra</foreign>, part of Orion; 2. A festival in the month of Mārkaḻi. 3. A special ceremony observed on the day of <foreign>āruttirā-taricaṉam</foreign> before a girl's marriage when she is given a bath and decorated.</quote>.</note> festival <supplied reason="lost">in the month</supplied> of Cittirai.<!--Check parallel: on the day of Cittirai in the month of Cittirai--> 
+         	</p>
+</div>
+      	
+         <!--<div type="commentary">
+         	
+         </div>-->
+
+<div type="bibliography">
+
+	<p>Reported in <bibl><ptr target="bib:ARIE1967-1968"/></bibl> (ARIE/1967-1968/B/1967-1968/251).</p>
+	<p>Edited in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+	<p>Encoded and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+	
+	<listBibl type="primary">
+		
+		<bibl n="D">
+			<ptr target="bib:Dayalan2005_01"/>
+			<citedRange unit="volume">3</citedRange>
+			<citedRange unit="appendix">I</citedRange>
+			<citedRange unit="page">1305</citedRange>
+			<citedRange unit="item">68</citedRange>            		
+		</bibl>
+		
+	</listBibl>
+	
+	<listBibl type="secondary">
+		
+		<bibl n="ARIE">
+			<ptr target="bib:ARIE1967-1968"/>
+			<citedRange unit="page">43</citedRange>
+			<citedRange unit="appendix">B/1990-1991</citedRange>
+			<citedRange unit="item">251</citedRange>
+		</bibl>                     	
+		
+	</listBibl>
+	
+</div>
+
+      </body>
+  </text>
+</TEI>
