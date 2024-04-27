@@ -85,41 +85,34 @@
 <text xml:space="preserve">
 <body>
 
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--script to be checked and updated-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
       		      		
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
 		<lb n="1"/>śrī
 	</ab>
 	<p>
-		caturvvimcati
-		<lb n="2" break="no"/>-stāpaka-va
-		<lb n="3" break="no"/>su-tēva-cittā
-		<lb n="4" break="no"/>nta-paṭārar
+		<hi rend="grantha">catu<unclear>r</unclear>vvi<unclear>ṃ</unclear></hi>
+		<lb n="2" break="no"/><hi rend="grantha">śa</hi>ti-<hi rend="grantha">s<choice><orig>t</orig><reg>th</reg></choice>āpaka</hi>-va
+		<lb n="3" break="no"/><hi rend="grantha">su-de</hi>va-<hi rend="grantha">siddh<unclear>ā</unclear></hi>
+		<lb n="4" break="no"/>n=ta-<hi rend="grantha">bhaṭā</hi>rar
 		<lb n="5" break="no"/>ceyvitta
-		<lb n="6" break="no"/>tēvāram
+		<lb n="6" break="no"/><hi rend="grantha">de</hi>vāra<hi rend="grantha">ṃ</hi>
 	</p>      		      		
 	
 </div>
 
-<div type="apparatus">
+<!--<div type="apparatus">
       		
 	<listApp>
 		
-		<app loc="3">
-			<lem>°cittā<lb n="3" break="no"/>nta°</lem>
-			<rdg source="bib:Dayalan2005_01">cittā <gap reason="lost" quantity="4" unit="character" precision="low"/>
-		<lb n="3" break="no"/>nta</rdg>
-			<note>The indication of a gap is most probably a typo in <ptr target="bib:Dayalan2005_01"/>.</note>
+		<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:Dayalan2005_01">...</rdg>
 		</app>	
-		
-		<app loc="4">
-			<lem>paṭārar</lem>
-			<rdg source="bib:Dayalan2005_01">patārar</rdg>
-		</app>		
 		
 	</listApp>
       		
-</div>
+</div>-->
 
 <div type="translation" resp="part:emfr">
          	         	
@@ -127,7 +120,7 @@
          		Prosperity!
          	</p>
 	<p n="2-6">
-         		<supplied reason="subaudible">This is</supplied> the <foreign>tēvāram</foreign><note>That is, "the temple"? This a shrine accroding to <bibl><ptr target="bib:ARIE1972-1973"/></bibl>.</note>
+         		<supplied reason="subaudible">This is</supplied> the <foreign>tēvāram</foreign><note>That is, "the temple"? This a shrine according to <bibl><ptr target="bib:ARIE1972-1973"/></bibl>.</note>
 		that
 		Caturviṁśati-sthāpaka Vasudēva Siddhānta Bhaṭārar had built.		
          	</p>
@@ -140,8 +133,9 @@
 <div type="bibliography">
 
 	<p>Reported in <bibl><ptr target="bib:ARIE1972-1973"/></bibl> (ARIE/1972-1973/B/1972-1973/273).</p>
-	<p>Edited in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
-	<p>Encoded and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Dayalan2005_01"/></bibl>, not sufficiently reliable. The distinction between vowel <foreign>akṣara</foreign>s and markers, and between Grantha and Tamil letters, cannot be implemented with full confidence. The present digital edition is thus provisional and should be revised with proper visual documentation.<!--probably full of Grantha--></p>
+	<p>Edited in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>, quite unreliable.</p>
+	<p>Encoded and translated here by Emmanuel Francis (2024), based on an online
+<ref target="http://3.bp.blogspot.com/-bERLxsu5FYM/UN00HiXEW8I/AAAAAAAAUfw/KZlEphI0BMU/s1600/_DSC5373.jpg">photo</ref> (accessed 2024-04-27) on the Blog <ref target="http://udhayan-photos.blogspot.com/2013/08/4.html">உதயனின் உதார்கள் </ref>.</p>
 	
 	<listBibl type="primary">
 		
