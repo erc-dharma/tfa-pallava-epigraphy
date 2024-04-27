@@ -95,28 +95,27 @@
 	
 	<p>
 		
-		<lb n="2"/>kampa-va<hi rend="grantha">rmma</hi>ṟku
+		<lb n="2"/>kampa-va<hi rend="grantha"><unclear>r</unclear>mma</hi>ṟku
 		<lb n="3"/>yāṇṭu patiṉ
 		<lb n="4"/>Eṭṭāvatu
 	</p>
 	<p>
 		maṉai<unclear>yiṟ</unclear>
 		<lb n="5" break="no"/>-kōṭṭattu maṉai<unclear>yi</unclear>
-		<lb n="6" break="no"/><gap reason="lost" quantity="10" unit="character"/> ṇṭaṅ kiḻavarkaḷil ra
-		<lb n="7" break="no"/><gap reason="lost" quantity="10" unit="character"/> l ciyacarmaṉ <hi rend="grantha">brāhma</hi>ṇi
-		<lb n="8"/><gap reason="lost" quantity="1" unit="line"/>
-		<lb n="9"/>naṅkai-p perumāṉ
-		<lb n="10"/>tiru-v-iḻiccil <hi rend="grantha">subra</hi>
-		<lb n="11" break="no"/><hi rend="grantha">hmaṇya-bha</hi>ṭārarkku nantā-viḷa
-		<lb n="12" break="no"/>kkukku kuṭutta poṉ pattu
+		<lb n="6" break="no"/><gap reason="lost" quantity="5" unit="character"/> ṇṭaṅ kiḻavarkaḷil ra
+		<lb n="7" break="no"/><gap reason="lost" quantity="5" unit="character"/> l ciyacarmaṉ <hi rend="grantha">brāhma</hi>ṇi
+		<lb n="8"/>naṅkai-p perumāṉ
+		<lb n="9"/>tiru-v-iḻiccil <hi rend="grantha">subra</hi>
+		<lb n="10" break="no"/><hi rend="grantha">hmaṇya-bha</hi>ṭāra<reg>r</reg>kku nantā-viḷa
+		<lb n="11" break="no"/>kkukku kuṭutta poṉ pattu
 	</p>
 	<p>
 		I
-		<lb n="13" break="no"/>p-poṉṉālum vanta Aṟu-patiṉā
-		<lb n="14" break="no"/>ḻi Eṇṇaiyum Āṭṭā
-		<lb n="15" break="no"/>ṇṭu tōṟum tiru-v-iḷakku
-		<lb n="16"/>muṭṭāmai-y Eriya <gap reason="lost" quantity="10" unit="character"/> vai
-		<lb n="17" break="no"/>ppōm āṉōm <hi rend="grantha">sa</hi>paiyōm
+		<lb n="12" break="no"/>p-poṉṉālum vanta Aṟu-patiṉā
+		<lb n="13" break="no"/>ḻi Eṇṇaiyum Āṭṭā
+		<lb n="14" break="no"/>ṇṭu tōṟum tiru-viḷakku
+		<lb n="15"/>muṭṭāmai-y Eriya <gap reason="lost" quantity="10" unit="character"/> vai
+		<lb n="16" break="no"/>ppōm āṉōm <hi rend="grantha">sa</hi>paiyōm
 	</p>
 		
 </div>
@@ -126,7 +125,7 @@
 	<listApp>
 		
 		<app loc="2">
-			<lem>°va<hi rend="grantha">rmma</hi>ṟku</lem>
+			<lem>°va<hi rend="grantha"><unclear>r</unclear>mma</hi>ṟku</lem>
 			<rdg source="bib:Irajavel2006_01">°varmmaṟku</rdg>					
 			<rdg source="bib:Rajavelu2008_01">°varmmarku</rdg>
 			<rdg source="bib:Badhreenath2015_01">vaṟmarku</rdg>
@@ -139,8 +138,8 @@
 			<rdg source="bib:Badhreenath2015_01">pirāmaṇi</rdg>
 		</app>
 		
-		<app loc="10">
-			<lem><hi rend="grantha">subra</hi><lb n="11" break="no"/><hi rend="grantha">hmaṇya-bha</hi>ṭārarkku</lem>
+		<app loc="9">
+			<lem><hi rend="grantha">subra</hi><lb n="10" break="no"/><hi rend="grantha">hmaṇya-bha</hi>ṭāra<reg>r</reg>kku</lem>
 			<rdg source="bib:Irajavel2006_01"><hi rend="grantha">su</hi>pra<lb n="11" break="no"/>hmaṇya paṭārarkku</rdg>					
 			<rdg source="bib:Rajavelu2008_01">subra<lb n="11" break="no"/>hmaṇya batararkku</rdg>
 			<rdg source="bib:Badhreenath2015_01">cuprama<lb n="11" break="no"/>ṇya paṭārarkku</rdg>
@@ -178,8 +177,8 @@
       	
 <div type="bibliography">
 
-	<p>Edited in <bibl><ptr target="bib:Irajavel2006_01"/></bibl> (Āvaṇam 17.23.3), in <bibl><ptr target="bib:Rajavelu2008_01"/></bibl>, in <ptr target="bib:Badhreenath2015_01"/>.</p>
-	<p>Encoded and translated here by Emmanuel Francis (2024), based on a photo published in <bibl><ptr target="bib:Rajavelu2008_01"/></bibl> (fig. 4, p. 180) and on the previous editions, none of which seems sufficiently reliable, notably for the transliteration of Grantha characters of the original and for the length of lacunas. The present digital edition is thus provisional and should be revised with proper visual documentation. The distinctions between vowel <foreign>akṣara</foreign>s and markers, and between Grantha and Tamil letters, cannot be implemented with full confidence.<!--quantity of gap to be assessed--></p>
+	<p>Edited in <bibl><ptr target="bib:Irajavel2006_01"/></bibl> (Āvaṇam 17.23.3), in <bibl><ptr target="bib:Rajavelu2008_01"/></bibl>, in <ptr target="bib:Badhreenath2015_01"/>. Both editions count 17 lines of text, but the photo published in <bibl><ptr target="bib:Rajavelu2008_01"/></bibl> (fig. 4, p. 180) shows that there is no missing line 8.</p>
+	<p>Encoded and translated here by Emmanuel Francis (2024), based on a photo published in <bibl><ptr target="bib:Rajavelu2008_01"/></bibl> (fig. 4, p. 180) and on the previous editions, none of which seems sufficiently reliable, notably for the line split, for he transliteration of Grantha characters, and for the length of lacunas. The present digital edition is thus provisional and should be revised with proper visual documentation. The distinctions between vowel <foreign>akṣara</foreign>s and markers, and between Grantha and Tamil letters, cannot be implemented with full confidence.<!--quantity of gap to be assessed--></p>
 	
 	<listBibl type="primary">
 		

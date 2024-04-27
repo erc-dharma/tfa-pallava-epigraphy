@@ -198,7 +198,7 @@
 <div type="bibliography">
 
 	<p>Edited in <bibl><ptr target="bib:Badhreenath2015_01"/></bibl>.</p>
-	<p>Encoded and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Badhreenath2015_01"/></bibl>'s edition, which does not seem sufficiently reliable, notably for the transliteration of Grantha characters of the original and for the length of lacunas. The present digital edition is thus provisional and should be revised with proper visual documentation. The distinctions between vowel <foreign>akṣara</foreign>s and markers, and between Grantha and Tamil letters, cannot be implemented with full confidence.<!--quantity of gap to be assessed: counted as Roman letters by Badhreenath, it seems--></p>
+	<p>Encoded and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Badhreenath2015_01"/></bibl>'s edition, which does not seem sufficiently reliable, notably for the transliteration of Grantha characters and for the length of lacunas. The present digital edition is thus provisional and should be revised with proper visual documentation. The distinctions between vowel <foreign>akṣara</foreign>s and markers, and between Grantha and Tamil letters, cannot be implemented with full confidence.<!--quantity of gap to be assessed: counted as Roman letters by Badhreenath, it seems--></p>
 	
 	<listBibl type="primary">
 			
