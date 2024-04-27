@@ -151,7 +151,7 @@
 <div type="bibliography">
 
 	<p>Edited in <bibl><ptr target="bib:Rajavelu2008_01"/></bibl>, in <bibl><ptr target="bib:Badhreenath2015_01"/></bibl>.</p>
-	<p>Encoded and translated here by Emmanuel Francis (2024), based on the previous editions, none of which seems sufficiently reliable, notably for the transliteration of Grantha characters of the original and for the length of lacunas. The present digital edition is thus provisional and should be revised with proper visual documentation. Initial vowels and Grantha letters are not warranted.<!--quantity of gap to be assessed--></p>
+	<p>Encoded and translated here by Emmanuel Francis (2024), based on the previous editions, none of which seems sufficiently reliable, notably for the transliteration of Grantha characters of the original and for the length of lacunas. The present digital edition is thus provisional and should be revised with proper visual documentation. The distinctions between vowel <foreign>akṣara</foreign>s and markers, and between Grantha and Tamil letters, cannot be implemented with full confidence.<!--quantity of gap to be assessed--></p>
 	
 	<listBibl type="primary">
 				
