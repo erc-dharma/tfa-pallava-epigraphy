@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vīraṇam, hero-stone, time of Kampapōttaraiyar, year 14</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">DHARMA_INSPallava00312</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Records the death of a hero in battle. See <ref target="DHARMA_INSPallava00311">INSPallava00311</ref>, same date, of very similar content.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p></p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union's Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
+							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2024-04-28" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+      <body>
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">	
+	
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+		<lb n="1"/>svasti śrī
+	</ab>
+	
+	<p>
+		kō-vicaiya-kampa-pōttaraiyarkku yāṇṭu patiṉāl-āvatu
+	</p>
+	<p>
+		
+		<lb n="2"/>vāṇa-kō-v-araiyar va<choice><orig>I</orig><reg>yi</reg></choice>ra-mēkaṉār vāṇa-kō-p-pātiyu maḷā
+		<lb n="3" break="no"/>ṭu milāṭai-p-pāṭiyuñ cōḻa-nāṭṭu-k kāviri-<choice><orig>I</orig><reg>y-i</reg></choice>ṉ
+		<lb n="4"/>vaṭa-karai Ellām āḷā-niṉṟa kālattu vēṇāṭṭu mu-n-nū
+		<lb n="5" break="no"/>ṟum e<choice><orig>I</orig><reg>y-i</reg></choice>ṉāṭ' ai
+		<lb n="6" break="no"/> -n-nūṟum āṇ
+		<lb n="7" break="no"/>ṭa nanti-perumā
+		<lb n="8" break="no"/>ṉār makaṉ Akkaḻi
+		<lb n="9" break="no"/>mallaṉār mēṟ
+		<lb n="10" break="no"/>-kōvalūr-nāṭṭu
+		<lb n="11"/>veṇṇamuñ cā
+		<lb n="12" break="no"/>ttaṉūrum āḷā
+		<lb n="13" break="no"/>-niṟka-p paṅkaḷa
+		<lb n="14" break="no"/>-nāṭṭ-uṭaiya mā-tē
+		<lb n="15" break="no"/>var paṭai cātta
+		<lb n="16" break="no"/>ṉūr Eṟiya ve-
+		<lb n="17" break="no"/><choice><orig>ṉ</orig><reg>ṇ</reg></choice>ṇattu niṉ
+		<lb n="18" break="no"/>ru ceṉṟu pi
+		<lb n="19" break="no"/>ṉpu ceṉṟu
+		<lb n="20" break="no"/>piṇaṅki vē
+		<lb n="21" break="no"/>ṇāṭṭ’ ellai
+		<lb n="22" break="no"/>-k kārā-c-caṅka-
+		<lb n="23" break="no"/>nṉ <choice><orig>p-p</orig><reg>p</reg></choice>aṭṭāṉ ka<unclear>l</unclear>
+</p>
+</div>
+      	
+<!--<div type="apparatus">
+      		
+      		<listApp>
+      			<app loc="0">
+      				<lem>...</lem>
+      				<rdg source="bib:Nakacami1972_01">...</rdg>
+      			</app>
+      			
+      		</listApp>
+      		
+</div>-->
+      	
+<div type="translation" resp="part:emfr">
+      		
+	<p n="1">
+		Prosperity! Fortune!
+	</p>
+	
+	<p n="1">Fourteenth year the victorious king Kampapōttaraiyar.</p>
+	
+	<p n="2-23">
+		<supplied reason="subaudible">This is the</supplied> stone <supplied reason="subaudible">erected in honour of</supplied>
+		Kārāccaṅkaṉ, he who, 
+		
+		<list>
+			<item>when <supplied reason="explanation"><foreign>kālattu</foreign><note>Literally, "at the time."</note></supplied> Vāṇakōvaraiyar Vayiramēkaṉār was currently/continuously ruling over <supplied reason="explanation"><foreign>āḷā-niṉṟa</foreign></supplied> the whole <supplied reason="explanation"><foreign>ellām</foreign></supplied> of the Vāṇakōppāṭi, Mālāṭu, Milāṭaippāṭi and the northern bank of the Kāvēri <supplied reason="explanation"><foreign>kāviri</foreign></supplied> in the Cōḻanāṭu,</item>
+			<item>whereas Akkaḻimallaṉār—the son of Nanti-perumāṉār who was ruling <supplied reason="explanation"><foreign>āṇṭa</foreign></supplied> over the Vēṇātu three-hundred and the Eyiṟnāṭu <supplied reason="explanation"><foreign>e-Iṉāṭ'</foreign></supplied> five-hundred— was currently/continuously ruling over <supplied reason="explanation"><foreign>āḷā-niṉṟa</foreign></supplied> Veṇṇam and Cāttaṉūr in the Mēṟkōvalūrnāṭu,</item>
+			<item>whereas the army of Mātēvar, the Lord, of Paṅkaḷanāṭu, attacked <supplied reason="explanation"><foreign>eṟiya</foreign></supplied> Cāttaṉūr,</item>
+		</list>
+		
+		went from <supplied reason="explanation"><foreign>niṉṟu ceṉṟu</foreign></supplied> Veṇṇam, went after <supplied reason="explanation"><foreign>piṉpu ceṉṟu</foreign></supplied> <supplied reason="subaudible">the enemies</supplied>, mingled <supplied reason="explanation"><foreign>piṅaṅki</foreign></supplied> <supplied reason="subaudible">with them</supplied>, and died at the border <supplied reason="explanation"><foreign>ellai</foreign></supplied> of Vēṇāṭu.
+	</p>
+	
+</div>
+      	
+<!--<div type="translation" xml:lang="fra" resp="part:emfr"/>-->
+         	
+<!--<div type="commentary"/>-->
+
+<div type="bibliography">
+
+	<p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/46); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 312).</p>
+	<p>Encoded here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Nakacami1972_01"/></bibl> and on photos (EFEO, 2009).</p>
+	
+	<listBibl type="primary">
+		
+		<bibl n="N">
+			<ptr target="bib:Nakacami1972_01"/>
+			<citedRange unit="item">1971/46</citedRange>
+		</bibl>
+		
+		<bibl n="IP">
+			<ptr target="bib:Mahalingam1988_01"/>
+			<citedRange unit="page">708-709</citedRange>
+			<citedRange unit="item">312</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+	<listBibl type="secondary">
+		
+		<bibl><!--complex ref to update-->
+			<ptr target="bib:Rajan2000_01"/>
+			<citedRange unit="page">185</citedRange>
+			<citedRange unit="item">310</citedRange>
+		</bibl>
+		
+	</listBibl>	
+	
+</div>
+      	
+      </body>
+  </text>
+</TEI>
