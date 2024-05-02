@@ -103,13 +103,13 @@
 		
 		<ab>
 			<pb n="1r"/>
-			<lb n="01"/>diṭhaṁ
+			<lb n="1"/>diṭhaṁ
 		</ab>
 		
 		<ab>
-			<pb n="1v"/>
-			<lb n="01"/>siddhaM <g type="ddanda">.</g>
-		</ab>
+		<pb n="1v"/>
+		<fw place="left" n="1r"><hi rend="grantha">siddhaM <g type="ddanda">.</g></hi></fw>
+	</ab>	
 		
 		<p>			
 			<lb n="1v1=1"/>k<choice><sic>o</sic><corr>ā</corr></choice>ṁcīpurā Aggiṭ<choice><sic>th</sic><corr>ṭh</corr></choice>oma-vājapeyassamedha-yājī dhamma-mahā
