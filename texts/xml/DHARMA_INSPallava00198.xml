@@ -96,7 +96,7 @@
     </p>
     <p>      			
         kāṭakati-y-araiyar ma
-        <lb n="3" break="no"/>ṇavāṭṭi mātavi-y it-tiru-k-kō
+        <lb n="3" break="no"/>ṇavāṭṭi mātavi y-it-tiru-k-kō
         <lb n="4" break="no"/>yil putukki muka-maṇṭakam e
         <lb n="5" break="no"/>ṭuppittu pāḻi putukki yak
         <lb n="6" break="no"/>kā-paṭāri tiru-k-kōyi<choice><orig>ll</orig><reg>l</reg></choice> eṭu
@@ -106,48 +106,44 @@
     
 </div>
 
-      	<div type="apparatus">
-      		<!--Fuse identical readings by different editors; remove hyphens from their readings-->
-      		<listApp>
-      			
-      			<app loc="2">
-      				<lem/>
-      				<rdg source="bib:Sampath1968_01">kāṭakatīyaṉayar</rdg>
-      				<rdg source="bib:Nagaswamy1970_03">kāṭakati-y-araiyar</rdg>
-      				<rdg source="bib:Mahalingam1988_01">kāṭakati-y-araiyar</rdg>      				
-      			</app>
-      			
-      			<app loc="3">
-      				<lem/>
-      				<rdg source="bib:Sampath1968_01">māntavi</rdg>
-      				<rdg source="bib:Nagaswamy1970_03">mātavi-y</rdg>
-      				<rdg source="bib:Mahalingam1988_01">mātavi-y</rdg>
-      			</app>
-      			
-      			<app loc="3">
-      				<lem/>
-      				<rdg source="bib:Sampath1968_01">It-tirukkō<lb n="4" break="no"/>yil</rdg>
-      				<rdg source="bib:Nagaswamy1970_03">it-tirukkō<lb n="4" break="no"/>yil</rdg>
-      				<rdg source="bib:Mahalingam1988_01">it-tirukkō<lb n="4" break="no"/>yil</rdg>      				
-      			</app>
-      			
-      			<app loc="5">
-      				<lem/>
-      				<rdg source="bib:Sampath1968_01">yak<lb n="6" break="no"/>kāpaṭṭāri-t</rdg>
-      				<rdg source="bib:Nagaswamy1970_03">yak<lb n="6" break="no"/>kā-paṭāri</rdg>
-      				<rdg source="bib:Mahalingam1988_01">yak<lb n="6" break="no"/>kā-paṭāri</rdg>
-      			</app>	
-      			      			
-      		</listApp>
-      		
-      	</div>
+<div type="apparatus">
+    <!--Fuse identical readings by different editors; remove hyphens from their readings-->
+    <listApp>
+        
+        <app loc="2">
+            <lem>kāṭakatiyaraiyar</lem>      			    
+            <rdg source="bib:Nagaswamy1970_03"/>      			
+            <rdg source="bib:Sampath1968_01">kāṭaka tīyaṉayar</rdg>	
+        </app>
+        
+        <app loc="3">
+            <lem>mātavi</lem>
+            <rdg source="bib:Nagaswamy1970_03"/>
+            <rdg source="bib:Sampath1968_01">māntavi</rdg>
+        </app>
+        
+        <app loc="3">
+            <lem>yittirukkō<lb n="4" break="no"/>yil</lem>
+            <rdg source="bib:Nagaswamy1970_03"/>
+            <rdg source="bib:Sampath1968_01">Ittirukkō<lb n="4" break="no"/>yil</rdg>     				
+        </app>
+        
+        <app loc="5">
+            <lem>yak<lb n="6" break="no"/>kāpaṭāri</lem>
+            <rdg source="bib:Nagaswamy1970_03"/>
+            <rdg source="bib:Sampath1968_01">yak<lb n="6" break="no"/>kāpaṭṭārit</rdg>
+        </app>	
+        
+    </listApp>
+    
+</div>
       	
       	
       	<div type="translation" resp="part:emfr">
       		<!--Check/Update translation + if necessary encode properly "..."-->
       		<p n="1">Prosperity! Fortune!</p>
-      		<p n="1-2">Sixth year of Kampavarman.</p>
-      		<p n="2-8">Mātavi, the wife <supplied reason="subaudible">of</supplied> Kāṭakati-y-araiyar, after renovating this glorious temple, having a front hall erected, renovating the monastery (pāḻi), <supplied reason="subaudible">and</supplied> having a glorious temple <supplied reason="subaudible">of</supplied> Yakṣa-Bhaṭṭāri erected, had  one big bell fed <supplied reason="explanation"><foreign>ūṭṭuvittāḷ</foreign>,i.e. gave one big bell</supplied> to be given <supplied reason="explanation"><foreign>iṭṭa</foreign></supplied> to this <foreign>paḷḷi</foreign>.</p>
+      		<p n="1-2">Sixth year of  Kampapaṉmaṉ.<note>Sanskrit Kampavarman.</note></p>
+      		<p n="2-8">Mātavi, the wife <supplied reason="subaudible">of</supplied> Kāṭakati Araiyar, after renovating this glorious temple, having a front hall erected, renovating the monastery <supplied reason="explanation"><foreign>pāḻi</foreign></supplied>, <supplied reason="subaudible">and</supplied> having a glorious temple <supplied reason="subaudible">of</supplied> Yakṣa Bhaṭṭāri erected, had one big bell fed <supplied reason="explanation"><foreign>ūṭṭuvittāḷ</foreign>That is, "gave one big bell."</supplied> given <supplied reason="explanation"><foreign>iṭṭa</foreign></supplied> to this <foreign>paḷḷi</foreign>.</p>
       		
       	</div>
       	
@@ -156,7 +152,7 @@
          </div>
 
       	<div type="commentary">
-      		<p n="5">The term <foreign>pāḻi</foreign> is polysemic. Several of its meanings, according to the MTL<!--Update--> could apply here: temple, hermitage; cave, mountain cavern; sleeping place for human beings; small tank;flight of steps leading into a tank. IP: cavern. Sampath fn6: “Pali is a term, known in all the Jaina Literature, and means a ‘temple’ or sometimes ‘monastery’.”<!--Update--></p>
+      		<p n="5">The term <foreign>pāḻi</foreign> is polysemic. Several of its meanings, according to the MTL could apply here: temple, hermitage; cave, mountain cavern; sleeping place for human beings; small tank; flight of steps leading into a tank. <bibl><ptr target="bib:Sampath1968_01"/></bibl> notes: <quote><foreign>Pāḻi</foreign> is a term, known in all the Jaina Literature, and means a ‘temple’ or sometimes ‘monastery’.</quote> According to <bibl><ptr target="bib:Mahalingam1988_01"/></bibl>, this means here "cavern."</p>
       		<p n="5">The term <foreign>paḷḷi</foreign> appears to be used here in the sense of the entire Jaina cultic place.</p>
       	</div>
 
