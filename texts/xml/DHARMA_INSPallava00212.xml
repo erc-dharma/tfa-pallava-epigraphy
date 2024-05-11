@@ -10,19 +10,23 @@
 			<titleStmt>
 				<title>Kīḻputtūr, irrigation transaction, time of Kampavarman, year 11</title>
 				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName>
+						<forename>V.</forename>
+						<surname>Venkatasubba Ayyar</surname>
+					</persName>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>				
+				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
 					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
+				</respStmt>				
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
@@ -100,25 +104,29 @@
 	<p>
 		kāliyūr-kōṭṭattu-k k<choice><orig>i</orig><reg>ī</reg></choice>
 		<lb n="4" break="no"/>ḻ-p-pūtūr Ūrōm
-	</p>
-	
-	<p>
-		pperumpāṇa<choice><sic>n</sic><corr>ṉ</corr></choice> ca
+		perumpāṇa<choice><sic>n</sic><corr>ṉ</corr></choice> ca
 		<lb n="5" break="no"/>kkaṭi Araiyar makaṉār <unclear>m</unclear>ā-tēvaṉārkku
 		<lb n="6"/>Oṭṭi viṟṟu-k kuṭutta paric-āvatu 
 	</p>
 	
 	<p>	
-		E<unclear>m</unclear>
+		<list>
+			<item>
+				E<unclear>m</unclear>
 		<lb n="7" break="no"/>m<choice><orig>u</orig><reg>ū</reg></choice>r varamp’ aṟutta viḷai nilam-āy
 		<lb n="8" break="no"/><unclear>ṟ</unclear>aivayal nilamum Aṭai-nilamuṅ ka
 		<lb n="9" break="no"/>ṟ<unclear>ai</unclear>-nilamum Etta-p-pulamum tēva
-		<lb n="10" break="no"/><hi rend="grantha">bhoga</hi>mum paḷḷi-c-cantamum vai
+		<lb n="10" break="no"/>-<hi rend="grantha">bhoga</hi>mum paḷḷi-c-cantamum vai
 		<lb n="11" break="no"/><hi rend="grantha">jya-bhoga</hi>mum pāppaṉ paṭṭiyu<unclear>m</unclear>
 		<lb n="12"/>Uḷḷiṭṭu Ep-pēr-p-paṭṭa nilamum viḷain
 		<lb n="13" break="no"/>ta nilattāl<surplus>p</surplus> paṭṭiyāl Oru kāṭi nel
-		<lb n="14"/>Ēri-k-kāṭi Āka kōvuṅ kuṭiyu<unclear>m</unclear> potu vē<unclear>y</unclear>
-		<lb n="15"/>viḷai<name>n</name>ta nilattāl Ēri-k kaṭṭuvat-ā<unclear>ka</unclear>
+		<lb n="14"/>Ēri-k-kāṭi Āka
+			</item>
+			<item>
+				kōvuṅ kuṭiyu<unclear>m</unclear> potuvē<unclear>y</unclear>
+		<lb n="15"/>viḷai<name>n</name>ta nilattāl Ēri-k kaṭṭuvat ā<unclear>ka</unclear>
+			</item>		
+		</list>
 		<lb n="16"/><choice><sic>Uvver</sic><corr>Ivvūr</corr></choice> niṟkavum Oṭṭi mā-tēvaṉār pa
 		<lb n="17" break="no"/>kkal poṉ koṇṭu viṟṟu<supplied reason="omitted">k</supplied> kuṭut
 		<lb n="18" break="no"/>tōm
@@ -126,7 +134,7 @@
 	
 	<p>	
 		Ip-paricu Āṭṭātu tiṟampiṉō
-		<lb n="19" break="no"/>m kuṭi<surplus>y</surplus>maiyu veṟu
+		<lb n="19" break="no"/>m kuṭi<surplus>y</surplus>maiyu vēṟu
 		<lb n="20"/><hi rend="grantha"><unclear>dharmm</unclear></hi>āsanattu nicati I
 		<lb n="21" break="no"/>ru-pattu nālum Ūr tiṟappil
 		<lb n="22"/>nāṟ-p-patt’ eṭṭu-k kāṇam
@@ -197,32 +205,52 @@
 		Eleventh year of the victorious king Kampavarman.
 	</p>
 	
-	<p n="3-4">
-		We the villagers of Kīḻppūtūr in the Kāliyūrkōṭṭam.		
-	</p>
-	
-	<p n="4-6">
-		The manner in which <supplied reason="subaudible">we</supplied> gave ...
-	</p>
-	
-	<p n="6-18">
-		We have given, after sale, ...
+	<p n="3-6">
+		This is the manner in which,
+		We, the villagers of Kīḻppūtūr in the Kāliyūrkōṭṭam,
+		have given
+		...
+		to Mātēvaṉār, the son of Perumpāṇaṉ Cakkaṭi Araiyar. 	
 	</p>
 		
+	<p n="6-18">
+		<list>
+			<item>
+				So that there be as tank <foreign>kāṭi</foreign> one <foreign>kāṭi</foreign> of paddy
+				... <supplied reason="subaudible">and</supplied>
+			</item>
+			<item>
+				so that there be assignement
+				...
+			</item>
+		</list>
+		We have given, after sale <supplied reason="explanation"><foreign>viṟṟu</foreign></supplied> and receiving gold from Mātēvaṉār,
+		...
+	</p>
+	
 	<p n="18-23">
-		In this manner, ...
+		In this manner/accordingly,
+		there should be a fine <supplied reason="explanation"><foreign>taṇṭa-p-paṭuvatu</foreign><note>Literally, "the fact of being fined/punished."</note></supplied> 
+		of twenty-four <supplied reason="subaudible"><foreign>kāṇam</foreign>s</supplied>
+		...
+		<supplied reason="subaudible">and</supplied>
+		of fourty-eight <foreign>kāṇam</foreign>s
+		...
 	</p>
 			
 	<p n="23-25">
+		There should be no obtention
 		...
 	</p>
 		
 	<p n="25-27">
+		There should be
 		...
 	</p>
 		
 	<p n="27-28">
-		We have given, after sale, ...
+		There should be
+		...
 	</p>
 		
 	<p n="28-29">
@@ -230,11 +258,12 @@
 	</p>
 		
 	<p n="29-30">
-		We, ..., the villagers of the above-mentioned Kīḻppūtūr.
+		We, the villagers of the above-mentioned Kīḻppūtūr, have given
+		...
 	</p>
 		
 	<p n="30-32">
-		Whereas the villagers said so, I, Ṛṣikeśavabhaṭṭa, a member of the assembly <supplied reason="explanation"><foreign>kūṭṭam</foreign></supplied>, I wrote.
+		Whereas the villagers said so,<note>That is, deliberated and agreed so.</note> I, Ṛṣikeśavabhaṭṭa, a member of the assembly <supplied reason="explanation"><foreign>kūṭṭam</foreign></supplied> of this Kīḻppūtūr, I wrote.
 	</p>
 	
 	<p n="33-34">
@@ -243,45 +272,45 @@
 			
 </div>      	
 			
-			<div type="commentary">
+<!--<div type="commentary">
 				
-</div>
+</div>-->
 			
-			<div type="bibliography">
+<div type="bibliography">
 				
-				<p>
-					Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, no. 102); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 212); encoded and first translated here by Emmanuel Francis (2022), based on previous editions.          	
-				</p>
-				
-				<listBibl type="primary">
-					
-					<bibl n="VVA">
-						<ptr target="bib:VenkatasubbaAyyar1943_01"/>
-						<citedRange unit="page">46</citedRange>
-						<citedRange unit="item">102</citedRange>
-					</bibl> 
-					
-					<bibl n="IP">
-						<ptr target="bib:Mahalingam1988_01"/>
-						<citedRange unit="page">554-555</citedRange>
-						<citedRange unit="item">212</citedRange>
-					</bibl>
-					
-					
-				</listBibl>
-				
-				<listBibl type="secondary">
-					
-					<bibl>
-					<ptr target="bib:ARIE1922-1923"/>
-						<citedRange unit="page">72</citedRange>
-						<citedRange unit="appendix">B/1923</citedRange>
-						<citedRange unit="item">116</citedRange>
-					</bibl>
-					
-				</listBibl>
-				
-			</div>
+	<p>Reported in <bibl><ptr target="bib:ARIE1922-1923"/></bibl> (ARIE/1922-1923/C/1923/116).</p>
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.102); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 212).</p>
+	<p>Encoded and first translated here by Emmanuel Francis (2022), based on <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>.          	
+	</p>
+	
+	<listBibl type="primary">
+		
+		<bibl n="SII">
+			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
+			<citedRange unit="page">46</citedRange>
+			<citedRange unit="item">102</citedRange>
+		</bibl> 
+		
+		<bibl n="IP">
+			<ptr target="bib:Mahalingam1988_01"/>
+			<citedRange unit="page">554-555</citedRange>
+			<citedRange unit="item">212</citedRange>
+		</bibl>		
+		
+	</listBibl>
+	
+	<listBibl type="secondary">
+		
+		<bibl>
+			<ptr target="bib:ARIE1922-1923"/>
+			<citedRange unit="page">72</citedRange>
+			<citedRange unit="appendix">B/1923</citedRange>
+			<citedRange unit="item">116</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+</div>
 			
 		</body>
 	</text>
