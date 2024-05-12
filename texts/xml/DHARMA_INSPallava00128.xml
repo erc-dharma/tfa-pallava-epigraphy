@@ -82,33 +82,35 @@
    <text xml:space="preserve">
     <body>
        
-<div type="edition" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
             
-            <ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
-             <lb n="1"/>svasti śrī
-          </ab> 
-          
-          <p>	
-             kō-vicaiya
-             <lb n="2" break="no"/>-nanti-vikkirama-<unclear>p</unclear>
-             <lb n="3" break="no"/>-paruma<unclear>kku</unclear> yāṇṭu pati
-             <lb n="4" break="no"/>ṉ aint-āvatu
-          </p>
-          
-          <p>             
-             veṇ
-             <lb n="5" break="no"/>pēṭṭu vāḻum taḷi-Uṭai<unclear>ya</unclear>
-             <lb n="6"/><unclear>kā</unclear>ḷa<unclear>ya I</unclear> <gap reason="illegible" quantity="4" unit="character" precision="low"/> <unclear>ma</unclear>kaṉ te
-             <lb n="7" break="no"/><gap reason="lost" quantity="10" unit="character" precision="low"/>
-             <lb n="8"/><gap reason="lost" quantity="10" unit="character" precision="low"/>
-             <lb n="9"/><unclear>m</unclear>ula<unclear>ṅkūr-p</unclear> pur<unclear>ai</unclear>car
-             <lb n="10"/>moṭa<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> iṭai-k ka
-             <lb n="11" break="no"/>ḻañcu-<unclear>p po</unclear>ṉ muta
-             <lb n="12" break="no"/>l koṇṭu Ip-po
-             <gap reason="lost" quantity="4" unit="line" precision="low"/>
-          </p>
-          
-       </div>
+   <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+      <lb n="1"/>svasti śrī
+   </ab> 
+   
+   <p>	
+      kō-vicaiya
+      <lb n="2" break="no"/>-nanti-vikkirama-<unclear>p</unclear>
+      <lb n="3" break="no"/>-paruma<reg>r</reg><unclear>kku</unclear> yāṇṭu pati
+      <lb n="4" break="no"/>ṉ aint-āvatu
+   </p>
+   
+   <p>             
+      veṇ
+      <lb n="5" break="no"/>pēṭṭu vāḻum taḷi-Uṭai<unclear>ya</unclear>
+      <lb n="6"/><unclear>kā</unclear>ḷa<unclear>ya I</unclear> <gap reason="illegible" quantity="4" unit="character" precision="low"/> <unclear>ma</unclear>kaṉ te
+      <lb n="7" break="no"/><gap reason="lost" quantity="10" unit="character" precision="low"/>
+      <lb n="8"/><gap reason="lost" quantity="10" unit="character" precision="low"/>
+      <lb n="9"/><unclear>m</unclear>ula<unclear>ṅkūr-p</unclear> pur<unclear>ai</unclear>car
+      <lb n="10"/>mōṭa<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> iṭai-k ka
+      <lb n="11" break="no"/>ḻañcu-<unclear>p po</unclear>ṉ muta
+      <lb n="12" break="no"/>l koṇṭu Ip-po
+   </p>
+   <p>
+      <gap reason="lost" quantity="4" unit="line" precision="low"/>
+   </p>
+   
+</div>
        
     	<!--<div type="apparatus">
     	   Add SII reading!!
@@ -122,59 +124,65 @@
     	
     	</div>-->
     	
-       <div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
           
-          <p n="1">
-             Prosperity! Fortune!
-          </p>
-          
-          <p n="1-4">
-             Fifteenth year of the victorious king Nandivikramavarman.
-          </p>
-          
-          <p n="4-12">
-             
-          </p>
-                               	
-            </div>
+   <p n="1">
+      Prosperity! Fortune!
+   </p>
+   
+   <p n="1-4">
+      Fifteenth year of the victorious king Nantivikkiramaparumar.<note>Sanskrit Nandivikramavarman.</note>
+   </p>
+   
+   <p n="4-12">
+      <gap reason="lost"/>,
+      the son <supplied reason="subaudible">of</supplied>
+      <gap reason="lost"/>,
+      the lord of the temple <supplied reason="explanation"><foreign>taḷi-y-uṭaiya</foreign></supplied>, who lives in Veṇpēṭu
+      <gap reason="lost"/>
+      with <supplied reason="explanation"><foreign>koṇṭu</foreign></supplied> the capital <supplied reason="explanation"><foreign>mutal</foreign></supplied> <supplied reason="subaudible">of one</supplied> <foreign>kaḻañcu</foreign> <supplied reason="subaudible">of</supplied> gold
+      <supplied reason="subaudible">deposited</supplied> with <supplied reason="explanation"><foreign>iṭai</foreign><note>Literally, "in the place of."</note></supplied> Puraicar Mōṭaṉ <supplied reason="subaudible">of</supplied> Mulaṅkūr,
+      this gold
+      <gap reason="lost"/>
+   </p>
+   
+</div>
             
-    	<div type="commentary">
+<!--<div type="commentary">
     		
-    	</div>
-            
-    	<div type="bibliography">
+</div>-->
+       
+<div type="bibliography">
+   
+   <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/B/1905/49).</p>   
+   <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.52); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 128).</p>
+   <p>This edition by Emmanuel Francis, based on autopsy and photographs.</p>
     		
-<p>
-Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, no. 52); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 128).</p>
-    	   <p>Edited and translated here by Emmanuel Francis, based on autopsy and photographs.
-</p>
-    		
-    		<listBibl type="primary">
-    			
-    			<bibl n="VVA">
-         			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
-         			<citedRange unit="page">21</citedRange>
-         			<citedRange unit="item">52</citedRange>
-         		</bibl> 
-    		   
-    			<bibl n="IP">
-	               		<ptr target="bib:Mahalingam1988_01"/>
-	               		<citedRange unit="page">390</citedRange>
-    				<citedRange unit="item">128</citedRange>
-    			</bibl>
-    		</listBibl>
-    		
-    		<!--<listBibl type="secondary">
-    		   Update to ARE, 1905, no. 49
-    			<bibl n="ARIE 1897-1898">
-    				<ptr target="bib:ARIE1897-1898"/>
-    				<citedRange unit="page">18</citedRange>
-    				<citedRange unit="appendix">B/1898</citedRange>
-    				<citedRange unit="item">72</citedRange>
-    			</bibl>
-    		</listBibl>-->
-    		
-            </div>
-        </body>
+   <listBibl type="primary">
+      
+      <bibl n="VVA">
+         <ptr target="bib:VenkatasubbaAyyar1943_01"/>
+         <citedRange unit="page">21</citedRange>
+         <citedRange unit="item">52</citedRange>
+      </bibl> 
+      
+      <bibl n="IP">
+         <ptr target="bib:Mahalingam1988_01"/>
+         <citedRange unit="page">390</citedRange>
+         <citedRange unit="item">128</citedRange>
+      </bibl>
+   </listBibl>
+   
+   <listBibl type="secondary">
+      <bibl>
+         <ptr target="bib:ARIE1904-1905"/>
+         <citedRange unit="page">32</citedRange>
+         <citedRange unit="appendix">B/1905</citedRange>
+         <citedRange unit="item">49</citedRange>
+      </bibl>
+   </listBibl>
+   
+</div>
+    </body>
     </text>
 </TEI>

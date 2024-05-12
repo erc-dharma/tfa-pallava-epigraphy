@@ -8,21 +8,25 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Taḷavāṉūr, time of Mahendravarman I</title>
+            <title>Taḷavāṉūr, foundation, time of Śatrumalla</title>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:sybr">
+                  <forename>Sylvain</forename>
+                  <surname>Brocquet</surname>
+               </persName>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+            </respStmt>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>
                </persName>
-            </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
-                  <surname>Francis</surname>
-               </persName>
-            </respStmt>
+            </respStmt>            
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
@@ -116,7 +120,7 @@
 
 		<app loc="1">
 			<lem>’smi<orig>N</orig></lem>
-			<rdg source="bib:Hultzsch1913-1914_01">’smi<choice><sic>n</sic><corr>ñ</corr></choice></rdg>
+			<rdg source="bib:Hultzsch1913-1914_02">’smi<choice><sic>n</sic><corr>ñ</corr></choice></rdg>
 			<note/>
 		</app>	
 		
@@ -124,35 +128,36 @@
 
 </div>
 
-      	<div type="translation" source="bib:Hultzsch1913-1914_01">
-      		<p>Narendra Śatrumalla, who has humbled kings by <supplied reason="subaudible">his</supplied> army, caused to be made on this hill this <supplied reason="subaudible">temple named</supplied> Śatrumalleśvarālaya.</p>
-      	</div>
-      	
-      	<div type="translation" xml:lang="fra" resp="part:sybr part:emfr">
+<div type="translation" source="bib:Hultzsch1913-1914_02">
+   
+   <p>Narendra Śatrumalla, who has humbled kings by <supplied reason="subaudible">his</supplied> army, caused to be made on this hill this <supplied reason="subaudible">temple named</supplied> Śatrumalleśvarālaya.</p>
+   
+</div>
+         
+<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
+            
+   <p rend="stanza" n="1">
+      <l>Le souverain<note>Il est difficile de savoir si <foreign>narendra</foreign>- (<foreign>pāda</foreign> B) est un <foreign>biruda</foreign> de Mahendravarman I, dont ce serait alors la seule occurrence. Il faut l’interpréter comme tel si on veut identifier dans cet hémistiche une première antanaclase (la seconde reposant sur <foreign>śatrumalla</foreign>-, à la fois nom de Śiva et <foreign>biruda</foreign> bien connu de Mahendravarman I). La traduction par « souverain » permet de reproduire tant bien que mal cette figure.</note> dont l’armée<note>Le mot <foreign>daṇḍa</foreign>- peut avoir une acception plus large, et cette traduction est évidemment réductrice. Par ailleurs, le composé peut recevoir une autre interprétation : « devant qui les rois sont prosternés comme des bâtons » (P.S. Filliozat 1984, p. 105).</note> fait plier les souverains fit construire,</l>
+      <l>Lui, Śatrumalla, sur cette colline, ce temple de Śatrumalleśvara.</l>
+   </p>
       		
-      		<p rend="stanza" n="1">
-      			<l>Le souverain dont l’armée fait plier les souverains fit construire,</l>
-      			<l>Śatrumalla, sur cette colline ce temple de Śatrumalleśvara.</l>
-      		</p>
-      		
-      	</div>
+</div>
       	
-      	<div type="commentary"><!--Update!-->
-      		<p>See also <ref target="INSPallava00020.xml">INSPallava00020</ref>, a probably later Tamil foundation inscription of the same cave-temple.</p>
-      		<p n="1"><foreign>daṇḍānata</foreign>. Interpretation? See note in B.</p>
-      		<p n="2"><foreign>narendra</foreign>. Identification? See note in B.</p>
-      	</div>
-      	
-      	<div type="bibliography">
+<div type="commentary"><!--Update!-->
       		
-            <p>
-Edited and translated in <bibl><ptr target="bib:Hultzsch1913-1914_01"/></bibl>, with a facsimile (EI 12, no. 27/A); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 19); text and translation in <bibl><ptr target="bib:Filliozat1984_01"/><citedRange unit="page">105</citedRange></bibl> and in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 16); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2009).
-            </p>
+   <p>See also <ref target="DHARMA_INSPallava00020.xml">Pallava 20</ref>, a probably later Tamil foundation inscription of the same cave-temple.</p>
+</div>
+      	
+<div type="bibliography">
+      		
+   <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/B/1905/51).</p> 
+   <p>Edited and translated in <bibl><ptr target="bib:Hultzsch1913-1914_02"/></bibl>, with a facsimile (EI 12.27A); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 19); text and translation in <bibl><ptr target="bib:Filliozat1984_01"/><citedRange unit="page">105</citedRange></bibl> and in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 16).</p>
+   <p>This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2009).</p>
 
       		<listBibl type="primary">
       			
       			<bibl n="EH">
-      				<ptr target="bib:Hultzsch1913-1914_01"/>
+      				<ptr target="bib:Hultzsch1913-1914_02"/>
       				<citedRange unit="page">320</citedRange>
       				<citedRange unit="item">A</citedRange>
       			</bibl>
@@ -164,7 +169,7 @@ Edited and translated in <bibl><ptr target="bib:Hultzsch1913-1914_01"/></bibl>, 
       				<citedRange unit="page">97</citedRange>
       				<citedRange unit="item">19</citedRange>            		
       			</bibl>            	
-      			<bibl n="SB">
+      			<bibl n="B">
       				<ptr target="bib:Brocquet1997_01"/>
       				<citedRange unit="page">465-466</citedRange>
       				<citedRange unit="item">24</citedRange>            		
