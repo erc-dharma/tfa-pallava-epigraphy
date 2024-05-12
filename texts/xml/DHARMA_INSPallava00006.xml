@@ -10,19 +10,23 @@
 			<titleStmt>
 				<title>Uruvupalli grant, time of Siṁhavarman, year 11</title>
 				<respStmt>
-					<resp>EpiDoc encoding</resp>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:sybr">
+						<forename>Sylvain</forename>
+						<surname>Brocquet</surname>
+					</persName>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
 					</persName>
 				</respStmt>
 				<respStmt>
-					<resp>intellectual authorship of edition</resp>
+					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
 					</persName>
-				</respStmt>
+				</respStmt>     
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
@@ -354,11 +358,11 @@
 
       	</div>
 
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		<p>English translation to be added after finalisation of the French translation.</p><!--Update!-->
       	</div>
 
-      	<div type="translation" xml:lang="fra" resp="part:sybr">
+<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
 
       		<p n="1">Le Bienheureux est vainqueur !</p>
       		<p n="1">Depuis le camp victorieux de Śrī-Palakkaḍa :</p>
@@ -411,9 +415,9 @@ Note the recurrent unstandard forms with <foreign>diśi</foreign>.
 
       	</div>
 
-         <div type="bibliography">
-<p>Edited in <bibl><ptr target="bib:Fleet1876_02"/></bibl> (SOCI no. 12) with facsimile and English translation; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 6); text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 3); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs of the original plates in Edinburgh University Library (2017).
-            </p>
+<div type="bibliography">
+<p>Edited in <bibl><ptr target="bib:Fleet1876_02"/></bibl> (SOCI no. 12) with facsimile and English translation; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 6); text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 3).</p>
+	<p>This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs of the original plates in Edinburgh University Library (2017).</p>
 
             <listBibl type="primary">
 

@@ -10,19 +10,23 @@
          <titleStmt>
             <title>Cīyamaṅkalam, time of Mahendravarman I </title>
             <respStmt>
-               <resp>EpiDoc encoding</resp>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:sybr">
+                  <forename>Sylvain</forename>
+                  <surname>Brocquet</surname>
+               </persName>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>
                </persName>
             </respStmt>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>
                </persName>
-            </respStmt>
+            </respStmt>            
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
@@ -132,9 +136,9 @@
       		<!--TO BE ADDED-->
       	</div>
       	
-      	<div type="translation" xml:lang="fra" resp="part:sybr part:emfr">
+<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
       		<p rend="stanza" n="1">
-      			<l>Le roi Lalitāṁkura a fait construire cet édifice nommé Avanibhājana-Pallaveśvara,</l>
+      			<l>Le roi Lalitāṁkura a fait construire cet édifice nommé Avanibhājana-Pallaveśvara<note>Il s’agit là d'un biruda de Mahendravarman, signifiant :« possesseur de la Terre ».</note>,</l>
       			<l>Telle une corbeille faite à sa volonté, pour recueillir les joyaux de ses bonnes actions.</l>
       		</p>
       		<!--EF: réviser la traduction de svedhā (conservé et non plus émendé en svecchā)? "Telle une corbeille de prospérité (recueillant) les joyaux ..."-->
@@ -148,8 +152,8 @@
       	<div type="bibliography">
       		
             <p>
-Edited in <bibl><ptr target="bib:Hultzsch1900-1901_05"/></bibl> (EI 6, no. 32/A); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 29); text and translation in <bibl><ptr target="bib:Filliozat1984_01"/></bibl> and in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 24); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2019).
-            </p>
+Edited in <bibl><ptr target="bib:Hultzsch1900-1901_05"/></bibl> (EI 6.32A); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 29); text and translation in <bibl><ptr target="bib:Filliozat1984_01"/></bibl> and in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 24).</p>
+      	   <p>This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2019).</p>
 
       		<listBibl type="primary">
       			

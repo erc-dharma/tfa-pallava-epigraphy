@@ -10,19 +10,23 @@
          <titleStmt>
             <title>Makēntiraravāṭi, time of Mahendravarman I</title>
             <respStmt>
-               <resp>EpiDoc encoding</resp>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:sybr">
+                  <forename>Sylvain</forename>
+                  <surname>Brocquet</surname>
+               </persName>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>
                </persName>
             </respStmt>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>
                </persName>
-            </respStmt>
+            </respStmt>        
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
@@ -152,7 +156,7 @@
       		
       	</div>
       	
-      	<div type="translation" xml:lang="fra" resp="part:sybr">
+<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
       		
       		<p rend="stanza" n="1">
       			<l>Objet des plus chauds éloges auprès des gens de bien, solide et spacieuse,</l>
@@ -163,17 +167,17 @@
       		
       	</div>
       	
-      	<div type="commentary">
+<!--<div type="commentary">
       		
-      	</div>
+</div>-->
       	
-      	<div type="bibliography">
+<div type="bibliography">
       		
-            <p>
-Edited and translated by <bibl><ptr target="bib:Hultzsch1896-1897_06"/></bibl>, with a facsimile (EI 4, no. 19); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 24); text and translation in <bibl><ptr target="bib:Filliozat1984_01"/><citedRange unit="page">104-105</citedRange></bibl>, in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 20), <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR no. 24); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2004).
-            </p>
-
-            <listBibl type="primary">
+   <p>Edited and translated by <bibl><ptr target="bib:Hultzsch1896-1897_06"/></bibl>, with a facsimile (EI 4, no. 19); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 24); text and translation in <bibl><ptr target="bib:Filliozat1984_01"/><citedRange unit="page">104-105</citedRange></bibl>, in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 20), <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 24).</p>
+   
+   <p>This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2004).</p>
+   
+   <listBibl type="primary">
 
             	<bibl n="EH">
             		<ptr target="bib:Hultzsch1896-1897_06"/>            		

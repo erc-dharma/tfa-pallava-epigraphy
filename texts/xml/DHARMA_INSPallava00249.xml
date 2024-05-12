@@ -10,19 +10,23 @@
          <titleStmt>
             <title>Mēlaccēri, Śikharipallaveśvara rock-cut cave, pillar, foundation</title>
             <respStmt>
-               <resp>EpiDoc encoding</resp>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:sybr">
+                  <forename>Sylvain</forename>
+                  <surname>Brocquet</surname>
+               </persName>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>
                </persName>
             </respStmt>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>
                </persName>
-            </respStmt>
+            </respStmt>            
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
@@ -131,7 +135,7 @@
 	<note type="credit">Text standardised according to DHARMA TG and EG.</note><!--check-->
 </div>
       	
-<div type="translation" xml:lang="fra" resp="part:sybr">
+<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
 	<p>Le roi Candrāditya, maître de l’univers, fit construire</p>
 	<p>Cette demeure de Śiva, appelée Śrī-Śikhari-Pallaveśvara, à Siṁhapura <supplied reason="explanation"><foreign>siṅhapure</foreign></supplied>.</p>
 	
@@ -151,7 +155,8 @@
          <div type="bibliography">
 
             <p>
-First tentatively edited and translated into French and into English by <bibl><ptr target="bib:Jouveau-Dubreuil1916-1917_01"/></bibl> and <bibl><ptr target="bib:Jouveau-Dubreuil1916_01"/></bibl> with facsimile; edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile (SII 12, no. 115; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 249); edited and translated into French by <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 68); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on facsimile published in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> and photographs (2008).
+First tentatively edited and translated into French and into English by <bibl><ptr target="bib:Jouveau-Dubreuil1916-1917_01"/></bibl> and <bibl><ptr target="bib:Jouveau-Dubreuil1916_01"/></bibl> with facsimile; edited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile (SII 12.115); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 249); edited and translated into French by <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 68).</p>
+            <p>This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on facsimile published in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> and photographs (2008).
             </p>
 
             <listBibl type="primary">

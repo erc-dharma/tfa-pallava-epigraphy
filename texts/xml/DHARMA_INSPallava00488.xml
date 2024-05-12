@@ -11,19 +11,23 @@
             <title>Kāñcīpuram, Kailāsanātha, Mahendravameśvaragṛha, temple-name on southern
 					string wall, time of Mahendravarman (1/2)</title>
             <respStmt>
-               <resp>EpiDoc encoding</resp>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:sybr">
+                  <forename>Sylvain</forename>
+                  <surname>Brocquet</surname>
+               </persName>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>
                </persName>
             </respStmt>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>
                </persName>
-            </respStmt>
+            </respStmt>            
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
@@ -109,7 +113,7 @@
       		      		
       	</div>
       	
-      	<div type="translation" xml:lang="fra" resp="part:sybr part:emfr">
+<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
       		
       		<p n="1">Le temple du Seigneur de Mahendravarman.</p>
       		
@@ -122,7 +126,8 @@
          <div type="bibliography">
 
          	<p>
-First recorded and edited by <bibl><ptr target="bib:Hultzsch1890_01"/><citedRange unit="page">22</citedRange><citedRange unit="note">2</citedRange></bibl> (SII 1); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 53.b); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2004).</p>
+First recorded and edited by <bibl><ptr target="bib:Hultzsch1890_01"/><citedRange unit="page">22</citedRange><citedRange unit="note">2</citedRange></bibl> (SII 1); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 53b).</p>
+            <p>This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2004).</p>
          	         	
          	<listBibl type="primary">
          		

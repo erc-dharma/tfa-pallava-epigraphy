@@ -10,19 +10,23 @@
          <titleStmt>
             <title>List of <foreign>avatāra</foreign>s in Ādivarāha cave, Mahābalipuram</title>
             <respStmt>
-               <resp>EpiDoc encoding</resp>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:sybr">
+                  <forename>Sylvain</forename>
+                  <surname>Brocquet</surname>
+               </persName>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>
                </persName>
             </respStmt>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>
                </persName>
-            </respStmt>
+            </respStmt>            
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
@@ -152,7 +156,7 @@
             </p>
          </div>
          
-         <div type="translation" xml:lang="fra" resp="part:sybr">
+<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
             
             <p rend="stanza" n="1">
                <l><supplied reason="lost">Le poisson, la tortue,</supplied> et le sanglier,</l>
@@ -197,7 +201,7 @@
             
             <p>
                Edited and translated by <bibl><ptr target="bib:KrishnaSastri1926_01"/></bibl>, with a facsimile (EI 17, no. 5); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 53); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 69), <bibl><ptr target="bib:Francis2017_01"/></bibl> (IR 53).</p>
-            <p>Edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on the estampage published in <bibl><ptr target="bib:KrishnaSastri1926_01"/></bibl>.
+            <p>This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on the estampage published in <bibl><ptr target="bib:KrishnaSastri1926_01"/></bibl>.
             </p>
             
             <listBibl type="primary">

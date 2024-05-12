@@ -10,19 +10,23 @@
 			<titleStmt>
 				<title>Vākūr (Pākūr) plates, time of Nṛpatuṅgavarman, year 8</title>
 				<respStmt>
-					<resp>EpiDoc encoding</resp>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:sybr">
+						<forename>Sylvain</forename>
+						<surname>Brocquet</surname>
+					</persName>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
 					</persName>
 				</respStmt>
 				<respStmt>
-					<resp>intellectual authorship of edition</resp>
+					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
 					</persName>
-				</respStmt>
+				</respStmt>            
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
@@ -934,7 +938,7 @@
 </div>
 
 
-<div type="translation" xml:lang="fra" resp="part:sybr">
+<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
 
 	<div type="textpart" n="A">
 		<head xml:lang="eng">Sanskrit portion 1 of 2</head>
@@ -1128,7 +1132,7 @@ Puis Droṇa, le grand archer qui montre au combat le courage de Śakra. </l>
 
          <div type="bibliography">
 <p>Tamil portion edited in Tamil script in <bibl><ptr target="bib:Vinson1903_01"/></bibl>; first fully edited (in Nāgarī, Tamil script, and transliteration) and translated into French in <bibl><ptr target="bib:Vinson1905_01"/></bibl>; re-edited in <bibl><ptr target="bib:KrishnaSastri1916_01"/></bibl> (postscript to SII 2, no. 98); corrections and translation in <bibl><ptr target="bib:Jouveau-Dubreuil1917_01"/></bibl>; re-edited in transliteration and translated into English in <bibl><ptr target="bib:Hultzsch1925-1926_01"/></bibl> (EI 18, no. 2), with facsimiles; re-edited and translated into Tamil in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 155); Sanskrit text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 62); <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR no. 91).</p>
-         	<p>Re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2022), based on previous editions, mostly that by <bibl><ptr target="bib:Hultzsch1925-1926_01"/></bibl>, photographs, and autopsy of the original plates in the BnF.
+         	<p>This edition by Sylvain Brocquet &amp; Emmanuel Francis (2022), based on previous editions, mostly that by <bibl><ptr target="bib:Hultzsch1925-1926_01"/></bibl>, photographs, and autopsy of the original plates in the BnF.
 	
             </p>
 

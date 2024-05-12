@@ -10,19 +10,23 @@
 			<titleStmt>
 				<title>Pullūr plates, time of Nandivarman, year 33</title>
 				<respStmt>
-					<resp>EpiDoc encoding</resp>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:sybr">
+						<forename>Sylvain</forename>
+						<surname>Brocquet</surname>
+					</persName>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
 					</persName>
 				</respStmt>
 				<respStmt>
-					<resp>intellectual authorship of edition</resp>
+					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
 					</persName>
-				</respStmt>
+				</respStmt>            
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
@@ -561,8 +565,7 @@ mēlpāṟk’ ellai paḻaṅkōḷūr Ellaiyin kiḻakkum <space/>
 	
 </div>
 
-
-<div type="translation" xml:lang="fra" resp="part:sybr">
+<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
 
 	<div type="textpart" n="B">
 		
@@ -645,11 +648,11 @@ mēlpāṟk’ ellai paḻaṅkōḷūr Ellaiyin kiḻakkum <space/>
 
          <div type="bibliography">
 <p>
-	Edited in Tamil script by <bibl><ptr target="bib:Mahalingam1965-1966_01"/></bibl> (EI 36, no. 20);
+	Edited in Tamil script by <bibl><ptr target="bib:Mahalingam1965-1966_01"/></bibl> (EI 36.20);
 	text (with many typos) and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 81);
-	Sanskrit text (based on the very imperfect edition in<bibl><ptr target="bib:Mahalingam1988_01"/></bibl>) and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 56);
-	<bibl><ptr target="bib:Francis2013_01"/></bibl> (IR no. 83);
-	re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2023), based on previous editions, published facsimiles and online photos.
+	Sanskrit text (based on the very imperfect edition in<bibl><ptr target="bib:Mahalingam1988_01"/></bibl>) and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 56);
+	<bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 83).</p>
+         	<p>This edition by Sylvain Brocquet &amp; Emmanuel Francis (2023), based on previous editions, published facsimiles and online photos.
 </p>
          	
             <listBibl type="primary">

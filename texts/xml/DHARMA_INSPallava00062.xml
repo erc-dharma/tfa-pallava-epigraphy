@@ -8,21 +8,25 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Paṉaimalai, temple, time of Narasiṁhavarman II </title>
+				<title>Paṉaimalai, foundation, time of Narasiṁhavarman II </title>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:sybr">
+						<forename>Sylvain</forename>
+						<surname>Brocquet</surname>
+					</persName>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
 					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
+				</respStmt>            
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
@@ -289,7 +293,7 @@
       		
       	</div>
       	
-      	<div type="translation" xml:lang="fra" resp="part:sybr part:emfr">
+<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
       		
       		<p rend="stanza" n="1">
       			<l><gap reason="lost"/></l>
@@ -360,10 +364,9 @@
 	text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 62);
 	text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 46).
 </p>
-<p>
-	Re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2023), based on published visual documentation, autopsy, partial new estampages (2011) and photographs (2011). First edition and translation of the complete text. 
-</p>
-
+      		
+      		<p>This edition by Sylvain Brocquet &amp; Emmanuel Francis (2023), based on published visual documentation, autopsy, partial new estampages (2011) and photographs (2011). First edition and translation of the complete text.</p>
+      		
       		<listBibl type="primary">
       			
       			<bibl n="JD1915">

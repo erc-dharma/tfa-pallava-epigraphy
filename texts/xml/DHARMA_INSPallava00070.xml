@@ -10,19 +10,23 @@
          <titleStmt>
             <title>Kāñcīpuram, temple-name on slab, time of Mahendravarman</title>
             <respStmt>
-               <resp>EpiDoc encoding</resp>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:sybr">
+                  <forename>Sylvain</forename>
+                  <surname>Brocquet</surname>
+               </persName>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>
                </persName>
             </respStmt>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>
                </persName>
-            </respStmt>
+            </respStmt>            
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
@@ -120,7 +124,7 @@
       		
       	</div>
       	
-      	<div type="translation" xml:lang="fra" resp="part:sybr part:emfr">
+<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
       		<p>Le glorieux temple de Mahendravarmeśvara.</p>
       		<p><hi rend="italic">ou</hi></p>
       		<p>Le temple d'Īsvara du glorieux Mahendravarman.</p>
@@ -133,9 +137,8 @@
          <div type="bibliography">
 
          	<p>
-Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, n° 31); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 70); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 53/c); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on the facsimile published in <bibl>
-         			<ptr target="bib:ARIE1932-1933"/><citedRange unit="plate">I</citedRange>
-         			</bibl>.</p>
+Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.31); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 70); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 53c).</p>
+            <p>This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:ARIE1932-1933"/><citedRange unit="plate">I</citedRange></bibl>.</p>
          	         	
          	<listBibl type="primary">
          		

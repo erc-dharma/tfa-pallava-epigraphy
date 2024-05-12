@@ -10,19 +10,23 @@
 			<titleStmt>
 				<title>Paṉaimalai, cave, eulogy, time of Narasiṁhavarman II </title>
 				<respStmt>
-					<resp>EpiDoc encoding</resp>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:sybr">
+						<forename>Sylvain</forename>
+						<surname>Brocquet</surname>
+					</persName>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
 					</persName>
 				</respStmt>
 				<respStmt>
-					<resp>intellectual authorship of edition</resp>
+					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
 					</persName>
-				</respStmt>
+				</respStmt>            
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
@@ -131,7 +135,7 @@
       		</p>
       	</div>
       	
-      	<div type="translation" xml:lang="fra" resp="part:sybr"><!--add second translator: part:emfr"-->
+<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
       		<p rend="stanza" n="1">
       			<l>Puisse Rājasiṁha, le vainqueur au combat,</l>
       			<l>Celui qui apporte la prospérité, celui qui possède un arc resplendissant,</l>
@@ -145,11 +149,11 @@
       		<p>The same verse is found in two other inscriptions of Narasiṁhavarman II. See <ref target="INSPallava00054.xml">INSPallava00054</ref> (stanza 12) and <ref target="INSPallava00060.xml">INSPallava00060</ref> (stanza 3).</p>
       	</div>
       	
-      	<div type="bibliography">
+<div type="bibliography">
       		
-            <p>
-Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1, no. 31); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 63); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 47); re-edited by <bibl><ptr target="bib:MarxiaGandhi+al2011_01"/></bibl> (SII 30, no. 266); re-edited here by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2011).
-            </p>
+	<p>
+		Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.31); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 63); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 47); re-edited by <bibl><ptr target="bib:MarxiaGandhi+al2011_01"/></bibl> (SII 30.266).</p>
+	<p>This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs (2011).</p>
 
       		<listBibl type="primary">
       			
@@ -167,8 +171,8 @@ Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1, no. 31); text
       			
       			<bibl n="SB">
       				<ptr target="bib:Brocquet1997_01"/>
-      				<citedRange unit="page">586</citedRange>
-      				<citedRange unit="item">45</citedRange>            		
+      				<citedRange unit="page">592-593</citedRange>
+      				<citedRange unit="item">47</citedRange>            		
       			</bibl>
       			
       			<bibl n="NMG">
