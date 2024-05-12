@@ -95,10 +95,28 @@
 	</ab>
 	
 	<p>
-		vijaya-daśana-purād ...
+		vijaya-daśana-purād 
+		<list>
 		
-		<pb n="2r"/>
-		<lb n="2r1=6"/>
+		<item>yathāvad abhy-arccita-devat<supplied reason="lost">ā</supplied>
+		<lb n="1v2=2" break="no"/>-brāhmaṇa-guru-vṛddhasya śakti-traya-vṛddhasya mahātmana<unclear>s s</unclear>va-bhuja
+		<lb n="1v3=3" break="no"/>-dravinārjjitodāra-bhoga-bhujaḥ pṛthivī-talaika-vīrasya
+		<lb n="1v4=4"/>mahārāja-śrī-vīra-varmmaṇaḥ prapautraḥ</item>
+		
+		<item>samara-ṣa<choice><sic>d</sic><corr>t</corr></choice>a-karaṇa
+		<lb n="1v5=5"/>samadhigatādbhuta-pratāpasya vidya-vṛddhasyānanta-kalpa-pradāyi
+		
+		<pb n="2r" break="no"/>
+		<lb n="2r1=6" break="no"/><supplied reason="lost">no</supplied> <supplied reason="subaudible">’</supplied>nanta-kalpasya guṇamāhato  mahārāja-śrī-skanda<unclear>va</unclear>rmma<supplied reason="lost">ṇaḥ</supplied>
+		<lb n="2r2=7"/>pautrasya</item> 
+		
+		<item>...
+		<lb n="2r3=8"/>...		
+		<lb n="2r4=9"/><supplied reason="lost">bh</supplied>āvasya yuvarāja-śrī-viṣnugopasya putraḥ</item>
+		</list>
+		
+		tapta-sā<supplied reason="lost">ma</supplied>nta
+		<lb n="2r5=10"/>maṇḍa<supplied reason="lost">le</supplied>nāpratimābhis ...
 		
 		<pb n="2v"/>
 		<lb n="2v1=11"/>
@@ -201,15 +219,14 @@
       	
 <div type="translation" xml:lang="fra" resp="part:emfr"/>
          	        
-<div type="commentary"/>-->
-         	
+<div type="commentary"/>-->         	
          
 
 <div type="bibliography">
 
 	
 	<p>Edited in <ptr target="bib:Gopalareddi1982_01"/>, with facsimiles.</p>
-	<p>Edited here by Emmanuel Francis (2024) based on the facsimiles in <ptr target="bib:Gopalareddi1982_01"/>.</p>
+	<p>This edition Emmanuel Francis (2024), based on the facsimiles in <ptr target="bib:Gopalareddi1982_01"/>.</p>
 	
 	<listBibl type="primary">
 		
