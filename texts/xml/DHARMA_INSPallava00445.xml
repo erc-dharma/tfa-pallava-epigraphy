@@ -95,7 +95,7 @@
       			<lb n="2" break="no"/>ṟṟu ma<hi rend="grantha">hā</hi>-tēvarkku
       			<lb n="3"/>teḷḷaṟṟ' eṟinta nanti
       			<lb n="4" break="no"/>-p-pōtt-araiyar kuṭut
-      			<lb n="5" break="no"/>ta poṉ <num value="10">10</num> patiṉ kaḻa
+      			<lb n="5" break="no"/>ta poṉ <num value="10"><g type="numeral">10</g></num> patiṉ kaḻa
       			<lb n="6" break="no"/>ñcu
       		</p>
       		<p>
@@ -139,8 +139,8 @@
          		</app>  
          			
          		<app loc="5">
-         			<lem>poṉ <num value="10">10</num> patiṉ</lem>
-         			<rdg source="bib:Tiyakaracan1994_01">poṉ <num value="10">10</num> patiṉ</rdg>
+         			<lem>poṉ <num value="10"><g type="numeral">10</g></num> patiṉ</lem>
+         			<rdg source="bib:Tiyakaracan1994_01">poṉ <num value="10"><g type="numeral">10</g></num> patiṉ</rdg>
          			<rdg source="bib:Swaminathan1995_01">poṉṉ aṟupatiṉ</rdg>         			
          		</app>  
          			

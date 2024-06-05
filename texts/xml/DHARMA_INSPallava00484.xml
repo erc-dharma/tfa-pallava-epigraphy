@@ -94,7 +94,7 @@
       			kō-vicaiya
       			<lb n="2" break="no"/><supplied reason="lost">ya-ni</supplied>rupatuṅka-vi
       			<lb n="3" break="no"/><supplied reason="lost">kkira</supplied>ma-paṉ·makk<choice><orig>i</orig><reg>u</reg></choice>
-      			<lb n="4"/><supplied reason="lost">yā</supplied>ṇṭu <num value="24"><unclear>24</unclear></num> Irupa	
+      			<lb n="4"/><supplied reason="lost">yā</supplied>ṇṭu <num value="24"><unclear>2 <g type="numeral">10</g> 4</unclear></num> Irupa	
       			<lb n="5" break="no"/><supplied reason="lost">ttu</supplied> nāṉ·k-āvatu
       		</p>
       		
@@ -108,7 +108,7 @@
       			<lb n="11" break="no"/><supplied reason="lost">tēva</supplied>ṉā<supplied reason="omitted">r</supplied> makaḷ· kēca
       			<lb n="12" break="no"/><gap reason="lost" extent="unknown" unit="character"/> mi Oru non·tā
       			<lb n="13"/><supplied reason="lost">viḷak·</supplied>kiṉuk·ku-k kuṭut·ta
-      			<lb n="14"/><supplied reason="lost">po</supplied>ṉ· <num value="30">3 10</num> m mup·pa
+      			<lb n="14"/><supplied reason="lost">po</supplied>ṉ· <num value="30">3 <g type="numeral">10</g></num> m mup·pa
       			<lb n="15" break="no"/><supplied reason="lost">t·tu</supplied>-<unclear>k</unclear> kaḻañ·cu
       		</p>
       		
@@ -135,7 +135,7 @@
          	<listApp>
          		
          		<app loc="4">
-         			<lem><num value="24"><unclear>24</unclear></num></lem>
+         			<lem><num value="24"><unclear>2 <g type="numeral">10</g> 4</unclear></num></lem>
          			<rdg source="bib:Cankar2012_01">2<unclear>4</unclear></rdg>
          			<note>This figure is not clear, but should correspond the number provided right after it in words.</note>
          		</app>   

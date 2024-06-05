@@ -118,7 +118,7 @@
 		<app loc="2">
 			<lem>E<supplied reason="lost">ri</supplied>
 		<lb n="3" break="no"/>ya</lem>
-			<rdg source="bib:IAR2003-2004"><num value="40">4 10</num></rdg>
+			<rdg source="bib:IAR2003-2004"><num value="40">4 <g type="numeral">10</g></num></rdg>
 			<note><ptr target="bib:IAR2003-2004"/> notes: <quote>The number 40 is mentioned after the word, “<hi rend="italic">nandavilakku</hi>” This may denote the weight of the lamp</quote>.</note>
 		</app>	
 		 		

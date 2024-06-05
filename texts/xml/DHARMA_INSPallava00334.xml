@@ -159,8 +159,8 @@
       			</app>
       			
       			<app loc="13">
-      				<lem> <num value="200"><unclear>2 100</unclear></num></lem>
-      				<rdg source="bib:Schmid2014_02"> <num value="200"><unclear>2 100</unclear></num></rdg>
+      				<lem> <num value="200"><unclear>2 <g type="numeral">100</g></unclear></num></lem>
+      				<rdg source="bib:Schmid2014_02"> <num value="200"><unclear>2 <g type="numeral">100</g></unclear></num></rdg>
       				<note>Alternative reading: <foreign>Uḷ</foreign>.</note>      				
       			</app>
       			
