@@ -93,7 +93,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+         <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
             <!--Add milestones for blocks-->
          	
          	<div type="textpart" subtype="zone" n="1">

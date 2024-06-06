@@ -89,13 +89,13 @@
 <text xml:space="preserve">
    <body>
       
-      <div type="edition" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+      <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
          
-         <p xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+         <p xml:lang="san-Latn" rendition="class:grantha maturity:83215">
             <lb n="1"/>Anava<supplied reason="lost">sth</supplied>ita-citta<unclear>ṉ</unclear>
          </p>
          
-         <p xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+         <p xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
             <lb n="2"/><gap reason="lost" quantity="4" unit="character" precision="low"/> <choice><unclear>p</unclear><unclear>pa</unclear></choice> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg> <gap reason="lost" quantity="1" unit="character"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg> <choice><unclear>ḷ</unclear><unclear>ṉ</unclear></choice>i
          </p>
       </div>

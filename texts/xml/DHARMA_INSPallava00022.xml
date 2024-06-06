@@ -92,7 +92,7 @@
    <text xml:space="preserve">
       <body>
          
-<div type="edition" xml:lang="san-Latn" rendition="class:38768 maturity:83215">         	
+<div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">         	
    
    <div type="textpart" n="A"><head>Blessings</head>
       <p>      
@@ -124,7 +124,7 @@
    <div type="textpart" n="I"><head>Coda 1</head>
    </div>
          
-   <div type="textpart" n="J" xml:lang="tam-Latn" rendition="class:38776 maturity:83215"><head>Coda 2</head>
+   <div type="textpart" n="J" xml:lang="tam-Latn" rendition="class:tamil maturity:83215"><head>Coda 2</head>
    </div>
    
 </div>         

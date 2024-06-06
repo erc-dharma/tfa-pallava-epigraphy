@@ -88,9 +88,9 @@
       <body>
 
                   
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">            
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">            
             
-         	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+         	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
          		<lb n="1" style="text-align: left"/><hi rend="grantha">Om· namaś śivāya<surplus>m·</surplus> <unclear>sva</unclear>sti śrī</hi>
          	</ab>
          	
@@ -130,7 +130,7 @@
          		<lb n="14"/><unclear>Aṉ</unclear> <gap reason="lost" quantity="2" unit="character"/> kōyilu<supplied reason="omitted">k</supplied>ku Āyiram kā<unclear>ṇam ta</unclear>ṇṭappaṭuvōm vāṇapurattō<unclear>m</unclear>
          	</p>         	
          	
-         	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+         	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
          		<l n="a">
          			<lb n="15"/><hi rend="grantha"><choice><sic>va</sic><corr>ba</corr></choice><unclear>hu</unclear>bhir<unclear>·</unclear> vasudhā dattā</hi>
          		</l>

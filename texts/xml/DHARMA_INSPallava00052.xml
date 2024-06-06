@@ -89,7 +89,7 @@
 
 <div type="edition">
    
-   <div type="textpart" n="A" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+   <div type="textpart" n="A" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>First Name</head>
       <p>
          <lb n="1"/>ke<unclear reason="eccentric_ductus">v</unclear>āta-peru
@@ -97,14 +97,14 @@
       </p>    
    </div>
    
-   <div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+   <div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>Second Name</head>
       <p>
          <lb n="1"/><hi rend="grantha">ku</hi>ṇa<hi rend="grantha">mal·laḥ</hi>
       </p>      
    </div>
    
-   <div type="textpart" n="C" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+   <div type="textpart" n="C" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>Third Name</head>
       <p>
          <lb n="1"/>pay<unclear>·</unclear>yami
@@ -112,7 +112,7 @@
       </p>      
    </div>
    
-   <div type="textpart" n="D" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+   <div type="textpart" n="D" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>Fourth Name</head>
       <p>
          <lb n="1"/>cātamukkiyaṉ·
@@ -120,28 +120,28 @@
       </p>      
    </div>
    
-   <div type="textpart" n="E" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+   <div type="textpart" n="E" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>Fifth Name</head>
       <p>
          <lb n="1"/>kaliyā<unclear>ṇi</unclear>
       </p>    
    </div>
    
-   <div type="textpart" n="F" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+   <div type="textpart" n="F" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>Sixth Name</head>
       <p>
          <lb n="1"/>pe<gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
       </p>      
    </div>
    
-   <div type="textpart" n="G" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+   <div type="textpart" n="G" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>Seventh Name</head>
       <p>
          <lb n="1"/>na<hi rend="grantha">maḥ</hi> tiruvoṟṟiyūr Ā<hi rend="grantha">bhā</hi>jar <g type="finalGomutra">.</g>
       </p>     
    </div>
    
-   <div type="textpart" n="H" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+   <div type="textpart" n="H" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>Eighth Name</head>
       <p>
          <lb n="1"/>kol·laṉ<unclear>·</unclear> <hi rend="grantha"><unclear reason="eccentric_ductus">s</unclear></hi>emakaṉ·
@@ -152,7 +152,7 @@
 
 <div type="apparatus">
    
-   <div type="textpart" n="A" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+   <div type="textpart" n="A" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>First Name</head>
       <listApp>
          <app loc="1">
@@ -163,7 +163,7 @@
       </listApp>  
    </div>
    
-   <div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+   <div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>Second Name</head>
       
       <listApp>
@@ -175,12 +175,12 @@
       
    </div>
    
-   <!--<div type="textpart" n="C" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+   <!--<div type="textpart" n="C" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>Third Name</head>
       
       </div>-->
    
-   <div type="textpart" n="D" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+   <div type="textpart" n="D" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>Fourth Name</head>
       <listApp>
          <app loc="2">
@@ -191,17 +191,17 @@
       </listApp>      
    </div>
    
-   <!--<div type="textpart" n="E" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+   <!--<div type="textpart" n="E" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>Fifth Name</head>
       
       </div>-->
    
-   <!--<div type="textpart" n="F" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+   <!--<div type="textpart" n="F" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>Sixth Name</head>
       
       </div>-->
    
-   <div type="textpart" n="G" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+   <div type="textpart" n="G" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>Seventh Name</head>
       <listApp>
          <app loc="1">
@@ -213,7 +213,7 @@
       </listApp>    
    </div>
    
-   <!-- <div type="textpart" n="H" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+   <!-- <div type="textpart" n="H" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>Eighth Name</head>
       
       </div>-->  
@@ -222,56 +222,56 @@
 
 <div type="translation" resp="part:emfr">
             
-   <div type="textpart" n="A" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+   <div type="textpart" n="A" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>First Name</head>
       <p>
          The great carpenter Kevātaṉ.
       </p>    
    </div>
    
-   <div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+   <div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>Second Name</head>
       <p>
          The virtue wrestler.
       </p>      
    </div>
    
-   <div type="textpart" n="C" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+   <div type="textpart" n="C" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>Third Name</head>
       <p>
          Payyamiḻippāṉ.
       </p>      
    </div>
    
-   <div type="textpart" n="D" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+   <div type="textpart" n="D" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>Fourth Name</head>
       <p>
          Cātamukkiyaṉ <gap reason="lost"/>.
       </p>      
    </div>
    
-   <div type="textpart" n="E" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+   <div type="textpart" n="E" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>Fifth Name</head>
       <p>
          Kaliyāṇi<note>That is, Sanskrit Kalyāṇi.</note>.
       </p>      
    </div>
    
-   <div type="textpart" n="F" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+   <div type="textpart" n="F" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>Sixth Name</head>
       <p>
          Pe<gap reason="illegible"/>.
       </p>      
    </div>
    
-   <div type="textpart" n="G" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+   <div type="textpart" n="G" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>Seventh Name</head>
       <p>
          Homage! Ābhājar of Tiruvoṟṟiyūr.
       </p>      
    </div>
    
-   <div type="textpart" n="H" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
+   <div type="textpart" n="H" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>Eighth Name</head>
       <p>
          Koḷḷaṉ Semakaṉ.

@@ -85,13 +85,13 @@
 	<text xml:space="preserve">
 		<body>
 			
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">		
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">		
 	
-	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<lb n="1"/>svasti śrī
 	</ab>
 	
-	<lg met="uncertain" n="1" xml:lang="san-Latn" rendition="class:38768 maturity:83215"><!-- 1 or 2 stanzas?-->
+	<lg met="uncertain" n="1" xml:lang="san-Latn" rendition="class:grantha maturity:83215"><!-- 1 or 2 stanzas?-->
 		
 		<l n="a">
 			Ānma <gap reason="undefined" quantity="1" unit="character"/> kṣa <gap reason="undefined" quantity="2" unit="character"/> <unclear>sna</unclear>
@@ -179,7 +179,7 @@
 			
 <div type="translation" resp="part:emfr">
 	
-	<div type="textpart" n="A" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+	<div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		
 		<p n="1">
 		Prosperity! Fortune!
