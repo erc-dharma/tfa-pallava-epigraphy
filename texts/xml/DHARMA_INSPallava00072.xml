@@ -96,54 +96,48 @@
       		</ab>   
       		
       		<p>
-      			kōvicaiya-nanti-vik<unclear>kirama-paruma</unclear>
-      			<lb n="2" break="no"/>ṟku yāṇṭu Oṉpatāvatu
+      			kō-vicaiya-nanti-vik<unclear>kirama-paruma</unclear>
+      			<lb n="2" break="no"/>ṟku yāṇṭu Oṉpat-āvatu
       		</p>   
       		
       		<p>
       			<gap reason="undefined" quantity="3" unit="character"/> <supplied reason="lost">peru</supplied>
       			<lb n="3" break="no"/>māṉaṭikaṉ cerut=talai-maṅ<supplied reason="lost">kala</supplied>
       			<lb n="4" break="no"/>tu nakarattārkku Uḷḷūr <gap reason="undefined" quantity="4" unit="character"/>
-      			<lb n="5"/>viṭṭu <hi rend="grantha">sarvva</hi>paricālam koṭu<gap reason="undefined" quantity="4" unit="character"/>
-      			<lb n="6"/>viṭēlviṭuku mammaḷi na<gap reason="undefined" quantity="5" unit="character"/>
-      			<lb n="7" break="no"/>ṇamum pi<gap reason="undefined" quantity="6" unit="character"/>
-      			<lb n="8" break="no"/>m maḻit<gap reason="undefined" quantity="5" unit="character"/>    	      				
+      			<lb n="5"/>v-iṭṭu <hi rend="grantha">sarvva</hi>-paricālam koṭu <gap reason="undefined" quantity="4" unit="character"/>
+      			<lb n="6"/>viṭēlviṭuku mammaḷi na <gap reason="undefined" quantity="5" unit="character"/>
+      			<lb n="7" break="no"/>ṇamum pi <gap reason="undefined" quantity="6" unit="character"/>
+      			<lb n="8" break="no"/>m maḻit <gap reason="undefined" quantity="5" unit="character"/>    	      				
       		</p>
       		
       	</div>
       	
-      	<div type="apparatus">
+<div type="apparatus">
       		
-      		<listApp>
-      			<app loc="3">
-      				<lem>cerut=talai°</lem>
-      				<rdg source="bib:ARIE1939-1943">ceruvālai°</rdg>
-      			</app>
-      		</listApp><listApp>
-      			<app loc="5">
-      				<lem>paricālam</lem>
-      				<note>Seems to be a variant of <foreign>parikāram</foreign> (Skt. <foreign>parihāra</foreign>).</note>
-      			</app>
-      		</listApp>
-      		
-      	</div>
-        
+    <listApp>
+        <app loc="3">
+            <lem>cerut=talai°</lem>
+            <rdg source="bib:ARIE1939-1943">ceruvālai°</rdg>
+        </app>
+    </listApp>      	   
+    
+</div>        
 
-      	<div type="translation" resp="part:emfr">
-      		
-      		<p n="1">
-      			Fortune!
-      		</p>
-      		<p n="1-2">
-      			Ninth year of the victorious king Nandivikramavarman.
-      		</p>
-      		<p n="2-8">
-      			<gap reason="undefined"/> <foreign><supplied reason="lost">peru</supplied>māṉaṭikaṉ</foreign>, for the <foreign>nakarattār</foreign>s of Ceruttalaimaṅgala, Uḷḷūr <gap reason="undefined"/> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>viṭṭu sarvvaparicālam koṭu</foreign></supplied> <gap reason="undefined"/> Viṭēlviṭuku <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>mammaḷi na</foreign></supplied> <gap reason="undefined"/>
-      				<gap reason="ellipsis"/> <supplied reason="explanation"><foreign>ṇamum pi</foreign></supplied> <gap reason="undefined"/>
-      				<gap reason="ellipsis"/> <supplied reason="explanation"><foreign>m maḻit</foreign></supplied> <gap reason="undefined"/>
-      		</p>
-      		      		
-      	</div>
+<div type="translation" resp="part:emfr">
+    
+    <p n="1">
+        Fortune!
+    </p>
+    <p n="1-2">
+        Ninth year of the victorious king Nantivik<unclear>kiramaparuma</unclear>ṉ.<note>Sanskrit Nandivikramavarman.</note>
+    </p>
+    <p n="2-8">
+        <gap reason="undefined"/> <foreign><supplied reason="lost">peru</supplied>māṉaṭikaṉ</foreign>, for the <foreign>nakarattār</foreign>s of Ceruttalaimaṅgala, Uḷḷūr <gap reason="undefined"/> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>viṭṭu sarvvaparicālam koṭu</foreign><note>The term <foreign>paricālam</foreign> seems to be a variant of <foreign>parikāram</foreign> (Sanskrit <foreign>parihāra</foreign>).</note></supplied> <gap reason="undefined"/> Viṭēlviṭuku <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>mammaḷi na</foreign></supplied> <gap reason="undefined"/>
+        <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>ṇamum pi</foreign></supplied> <gap reason="undefined"/>
+        <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>m maḻit</foreign></supplied> <gap reason="undefined"/>
+    </p>
+    
+</div>
       	      	
 <div type="commentary">
 	
@@ -151,12 +145,9 @@
       	
 <div type="bibliography">
 
-   <p>
-      Date phrase Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1, no. 124); fully edited by <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5, no. 54); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 72).
+   <p>Date phrase edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.124); fully edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5.54); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 72).
    </p>
-   <p>
-      Encoded here by Emmanuel Francis (2020).
-   </p>
+   <p>This digital edition by Emmanuel Francis (2020).</p>
 
 	<listBibl type="primary">
 		
@@ -166,7 +157,7 @@
 			<citedRange unit="item">124</citedRange>
 		</bibl>
 		
-		<bibl n="HKS">
+		<bibl n="SII">
 			<ptr target="bib:KrishnaSastri1925_01"/>
 			<citedRange unit="page">518</citedRange>
 			<citedRange unit="item">54</citedRange>
