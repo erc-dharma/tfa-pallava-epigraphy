@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tiruppōrūr, pillars' list of <foreign>biruda</foreign>s</title>
+            <title>Tiruppōrūr, list of <foreign>biruda</foreign>s</title>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:emfr">
@@ -23,7 +23,6 @@
                   <surname>Francis</surname>
                </persName>
             </respStmt>
-            
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
@@ -48,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>A list of 16 <foreign>biruda</foreign>s of, most probably, Narasiṃhavarman II Pallava.</summary>
+                  <summary>A list of 16 <foreign>biruda</foreign>s engraved on two pillars. Most probably <foreign>biruda</foreign>s of Narasiṃhavarman II Pallava.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -305,7 +304,7 @@
        
        <bibl n="B">
            <ptr target="bib:Brocquet1997_01"/>
-           <citedRange unit="page">TBC</citedRange>
+           <citedRange unit="page">600-602</citedRange>
            <citedRange unit="item">50</citedRange>
        </bibl>
        
