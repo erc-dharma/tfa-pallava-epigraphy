@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tiruppōrūr, list of <foreign>biruda</foreign>s</title>
+            <title>Tiruppōrūr, pillars' list of <foreign>biruda</foreign>s</title>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:emfr">
@@ -48,7 +48,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>A list of 16 <foreign>biruda</foreign>s of Narasiṃhavarman II Pallava.</summary>
+                  <summary>A list of 16 <foreign>biruda</foreign>s of, most probably, Narasiṃhavarman II Pallava.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -91,80 +91,81 @@
 
 <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">         	
    
+   <!--check order of faces: maybe start with alpahabetical order of the birudas-->
    <div type="textpart" n="A1">
       <head xml:lang="eng">1st pillar, face 1</head>
       <ab>      
-         <lb n="1"/>...
+         <lb n="1"/>kāma-laḷita<unclear>ḥ</unclear>
       </ab>
       <ab> 
-         <lb n="2"/>...
+         <lb n="2"/>kula-tilaka<unclear>ḥ</unclear>
       </ab>
    </div>
    
    <div type="textpart" n="A2">
       <head xml:lang="eng">1st pillar, face 2</head>
       <ab>      
-         <lb n="1"/>...
+         <lb n="1"/>guṇa-vinīta<unclear>ḥ</unclear>
       </ab>
       <ab> 
-         <lb n="2"/>...
+         <lb n="2"/>dharaṇi-tilaka<unclear>ḥ</unclear>
       </ab>
    </div>
    
    <div type="textpart" n="A3">
       <head xml:lang="eng">1st pillar, face 3</head>
       <ab>      
-         <lb n="1"/>...
+         <lb n="1"/>jñāna-sāgaraḥ
       </ab>
       <ab> 
-         <lb n="2"/>...
+         <lb n="2"/>tri-bhuvana-dīpa<unclear>ḥ</unclear>
       </ab>
    </div>
    
    <div type="textpart" n="A4">
       <head xml:lang="eng">1st pillar, face 4</head><ab>      
-         <lb n="1"/>...
+         <lb n="1"/>Avirata-dānaḥ 
       </ab>
       <ab> 
-         <lb n="2"/>...
+         <lb n="2"/>Īśāna-śara<unclear>ṇaḥ</unclear>
       </ab>
    </div>
    
    <div type="textpart" n="B1">
       <head xml:lang="eng">2nd pillar, face 1</head><ab>      
-         <lb n="1"/>...
+         <lb n="1"/>pṛthivī-sāraḥ
       </ab>
       <ab> 
-         <lb n="2"/>...
+         <lb n="2"/>samara-dhanañjaya<unclear>ḥ</unclear>
       </ab>
    </div>
    
    <div type="textpart" n="B2">
       <head xml:lang="eng">2nd pillar, face 2</head>
       <ab>      
-         <lb n="1"/>...
+         <lb n="1"/>Atyanta-kāma<unclear>ḥ</unclear>
       </ab>
       <ab> 
-         <lb n="2"/>...
+         <lb n="2"/>Abhayaṃ-kara<unclear>ḥ</unclear>
       </ab>
    </div>
    
    <div type="textpart" n="B3">
       <head xml:lang="eng">2nd pillar, face 3</head><ab>      
-         <lb n="1"/>...
+         <lb n="1"/>Avani-divākara<unclear>ḥ</unclear>
       </ab>
       <ab> 
-         <lb n="2"/>...
+         <lb n="2"/>Atiraṇa-caṇḍa<unclear>ḥ</unclear>
       </ab>
    </div>
    
    <div type="textpart" n="B4">
       <head xml:lang="eng">2nd pillar, face 4</head>
       <ab>      
-         <lb n="1"/>...
+         <lb n="1"/>Avārita-vīryya<unclear>ḥ</unclear>
       </ab>
       <ab> 
-         <lb n="2"/>...
+         <lb n="2"/>Ari-kari-kesar<choice><unclear>ī</unclear><unclear>ī</unclear></choice>
       </ab>
    </div>
    
@@ -174,7 +175,7 @@
       		
 </div>-->
       	
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
    
    <div type="textpart" n="A1">
       <head xml:lang="eng">1st pillar, face 1</head>
@@ -224,8 +225,59 @@
       <p n="2">...</p>
    </div>
       		
+</div>-->
+  
+<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
+   
+   <div type="textpart" n="A1">
+      <head xml:lang="eng">1st pillar, face 1</head>
+      <p n="1">Celui qui possède le charme de Kāma</p>
+      <p n="2">L’ornement de sa famille</p>
+   </div>
+   
+   <div type="textpart" n="A2">
+      <head xml:lang="eng">1st pillar, face 2</head>
+      <p n="1">Celui qui malgré ses vertus conserve sa modestie</p>
+      <p n="2">L’ornement de la terre</p>
+   </div>
+   
+   <div type="textpart" n="A3">
+      <head xml:lang="eng">1st pillar, face 3</head>
+      <p n="1">L’océan de la connaissance</p>
+      <p n="2">Le flambeau des trois mondes</p>
+   </div>
+   
+   <div type="textpart" n="A4">
+      <head xml:lang="eng">1st pillar, face 4</head>
+      <p n="1">Celui dont la générosité n’a pas de fin</p>
+      <p n="2">Celui qui trouve refuge en Īśāna</p>
+   </div>
+   
+   <div type="textpart" n="B1">
+      <head xml:lang="eng">2nd pillar, face 1</head>
+      <p n="1">Celui qui a la terre pour richesse</p>
+      <p n="2">Celui qui est un Dhanañjaya au combat</p>
+   </div>
+   
+   <div type="textpart" n="B2">
+      <head xml:lang="eng">2nd pillar, face 2</head>
+      <p n="1">Celui dont les désirs sont infinis</p>
+      <p n="2">Celui qui dispense la sécurité</p>
+   </div>
+   
+   <div type="textpart" n="B3">
+      <head xml:lang="eng">2nd pillar, face 3</head>
+      <p n="1">Le soleil de la terre</p>
+      <p n="2">Celui qui montre au combat une férocité extrême</p>
+   </div>
+   
+   <div type="textpart" n="B4">
+      <head xml:lang="eng">2nd pillar, face 4</head>
+      <p n="1">Celui dont l’héroïsme ne connaît nulle entrave</p>
+      <p n="2">Celui qui est un lion pour ces éléphants que sont ses ennemis</p>
+   </div>
+      		
 </div>
-      	
 <!--<div type="commentary">
       		
 </div>-->
@@ -234,8 +286,8 @@
 
    <p>Reported in <bibl><ptr target="bib:ARIE1908-1909"/></bibl> (ARIE/1908-1909/C/1909/76).</p>
    
-   <p>Edited, with facsimiles (pl. V), in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.27); text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 67).</p>
-   <p>Re-edited here by Emmanuel Francis (2024), based on the facsimiles published in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>.</p>
+   <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.27), with facsimiles (pl. V). Text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 67). Text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 50).</p>
+   <p>This edition by Emmanuel Francis (2024), based on the facsimiles published in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>.</p>
    
    <listBibl type="primary">      
             
@@ -249,8 +301,14 @@
          <ptr target="bib:Mahalingam1988_01"/>
          <citedRange unit="item">67</citedRange>
          <citedRange unit="page">208-209</citedRange>
-      </bibl>
-      
+      </bibl>       
+       
+       <bibl n="B">
+           <ptr target="bib:Brocquet1997_01"/>
+           <citedRange unit="page">TBC</citedRange>
+           <citedRange unit="item">50</citedRange>
+       </bibl>
+       
    </listBibl>
    
    <listBibl type="secondary">
