@@ -93,56 +93,56 @@
     <!--check order of faces: maybe start with alpahabetical order of the birudas-->
     
     <div type="textpart" n="A">
-    <head xml:lang="eng">1st pillar</head>
+    <head xml:lang="eng">A = 1st pillar</head>
         
         <ab>      
-            <milestone n="1" unit="face" type="pagelike"/>
+            <milestone n="A1" unit="face" type="pagelike"/>
             <lb n="1"/>kāma-laḷita<unclear>ḥ</unclear>
             <lb n="2"/>kula-tilaka<unclear>ḥ</unclear>
         </ab>
         
         <ab>      
-            <milestone n="2" unit="face" type="pagelike"/>
+            <milestone n="A2" unit="face" type="pagelike"/>
             <lb n="3"/>guṇa-vinīta<unclear>ḥ</unclear>
             <lb n="4"/>dharaṇi-tilaka<unclear>ḥ</unclear>
         </ab>
         
         <ab>      
-            <milestone n="3" unit="face" type="pagelike"/>
+            <milestone n="A3" unit="face" type="pagelike"/>
             <lb n="5"/>jñāna-sāgaraḥ
             <lb n="6"/>tri-bhuvana-dīpa<unclear>ḥ</unclear>
         </ab>
         
         <ab>      
-            <milestone n="4" unit="face" type="pagelike"/>
+            <milestone n="A4" unit="face" type="pagelike"/>
             <lb n="7"/>Avirata-dānaḥ
             <lb n="8"/>Īśāna-śara<unclear>ṇaḥ</unclear>
         </ab>
     </div>
     
     <div type="textpart" n="B">
-    <head xml:lang="eng">2nd pillar</head>
+    <head xml:lang="eng">B = 2nd pillar</head>
         
         <ab>      
-            <milestone n="1" unit="face" type="pagelike"/>
+            <milestone n="B1" unit="face" type="pagelike"/>
             <lb n="9"/>pṛthivī-sāraḥ
             <lb n="10"/>samara-dhanañjaya<unclear>ḥ</unclear>
         </ab>
         
         <ab>      
-            <milestone n="2" unit="face" type="pagelike"/>
+            <milestone n="B2" unit="face" type="pagelike"/>
             <lb n="11"/>Atyanta-kāma<unclear>ḥ</unclear>
             <lb n="12"/>Abhayaṃ-kara<unclear>ḥ</unclear>
         </ab>   
         
         <ab>      
-            <milestone n="3" unit="face" type="pagelike"/>
+            <milestone n="B3" unit="face" type="pagelike"/>
             <lb n="13"/>Avani-divākara<unclear>ḥ</unclear>
             <lb n="14"/>Atiraṇa-caṇḍa<unclear>ḥ</unclear>
         </ab>
         
         <ab>      
-            <milestone n="4" unit="face" type="pagelike"/>
+            <milestone n="B4" unit="face" type="pagelike"/>
             <lb n="15"/>Avārita-vīryya<unclear>ḥ</unclear>
             <lb n="16"/>Ari-kari-kesar<choice><unclear>ī</unclear><unclear>ī</unclear></choice>
         </ab>
@@ -191,15 +191,15 @@
 <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
    
    <div type="textpart" n="A">
-      <head xml:lang="eng">1st pillar</head>
-      <p n="1">Celui qui possède le charme de Kāma</p>
-      <p n="2">L’ornement de sa famille</p>
+       <head xml:lang="eng">1st pillar</head>
+       <p n="1">Celui qui possède le charme de Kāma</p>
+       <p n="2">L’ornement de sa famille</p>
        <p n="3">Celui qui malgré ses vertus conserve sa modestie</p>
        <p n="4">L’ornement de la terre</p>
-      <p n="5">L’océan de la connaissance</p>
-      <p n="6">Le flambeau des trois mondes</p>
-      <p n="7">Celui dont la générosité n’a pas de fin</p>
-      <p n="8">Celui qui trouve refuge en Īśāna</p>
+       <p n="5">L’océan de la connaissance</p>
+       <p n="6">Le flambeau des trois mondes</p>
+       <p n="7">Celui dont la générosité n’a pas de fin</p>
+       <p n="8">Celui qui trouve refuge en Īśāna</p>
    </div>
    
    <div type="textpart" n="B">
