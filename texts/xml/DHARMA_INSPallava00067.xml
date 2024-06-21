@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>A list of 16 <foreign>biruda</foreign>s engraved on two pillars. Most probably <foreign>biruda</foreign>s of Narasiṃhavarman II Pallava.</summary>
+                   <summary>A list of 16 <foreign>biruda</foreign>s engraved on two pillars. Most probably <foreign>biruda</foreign>s of Narasiṃhavarman II Pallava, as the list includes the <foreign>biruda</foreign>s Atyantakāma and Atiraṇacaṇḍa.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -90,190 +90,128 @@
 
 <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">         	
    
-   <!--check order of faces: maybe start with alpahabetical order of the birudas-->
-   <div type="textpart" n="A1">
-      <head xml:lang="eng">1st pillar, face 1</head>
-      <ab>      
-         <lb n="1"/>kāma-laḷita<unclear>ḥ</unclear>
-      </ab>
-      <ab> 
-         <lb n="2"/>kula-tilaka<unclear>ḥ</unclear>
-      </ab>
-   </div>
-   
-   <div type="textpart" n="A2">
-      <head xml:lang="eng">1st pillar, face 2</head>
-      <ab>      
-         <lb n="1"/>guṇa-vinīta<unclear>ḥ</unclear>
-      </ab>
-      <ab> 
-         <lb n="2"/>dharaṇi-tilaka<unclear>ḥ</unclear>
-      </ab>
-   </div>
-   
-   <div type="textpart" n="A3">
-      <head xml:lang="eng">1st pillar, face 3</head>
-      <ab>      
-         <lb n="1"/>jñāna-sāgaraḥ
-      </ab>
-      <ab> 
-         <lb n="2"/>tri-bhuvana-dīpa<unclear>ḥ</unclear>
-      </ab>
-   </div>
-   
-   <div type="textpart" n="A4">
-      <head xml:lang="eng">1st pillar, face 4</head><ab>      
-         <lb n="1"/>Avirata-dānaḥ 
-      </ab>
-      <ab> 
-         <lb n="2"/>Īśāna-śara<unclear>ṇaḥ</unclear>
-      </ab>
-   </div>
-   
-   <div type="textpart" n="B1">
-      <head xml:lang="eng">2nd pillar, face 1</head><ab>      
-         <lb n="1"/>pṛthivī-sāraḥ
-      </ab>
-      <ab> 
-         <lb n="2"/>samara-dhanañjaya<unclear>ḥ</unclear>
-      </ab>
-   </div>
-   
-   <div type="textpart" n="B2">
-      <head xml:lang="eng">2nd pillar, face 2</head>
-      <ab>      
-         <lb n="1"/>Atyanta-kāma<unclear>ḥ</unclear>
-      </ab>
-      <ab> 
-         <lb n="2"/>Abhayaṃ-kara<unclear>ḥ</unclear>
-      </ab>
-   </div>
-   
-   <div type="textpart" n="B3">
-      <head xml:lang="eng">2nd pillar, face 3</head><ab>      
-         <lb n="1"/>Avani-divākara<unclear>ḥ</unclear>
-      </ab>
-      <ab> 
-         <lb n="2"/>Atiraṇa-caṇḍa<unclear>ḥ</unclear>
-      </ab>
-   </div>
-   
-   <div type="textpart" n="B4">
-      <head xml:lang="eng">2nd pillar, face 4</head>
-      <ab>      
-         <lb n="1"/>Avārita-vīryya<unclear>ḥ</unclear>
-      </ab>
-      <ab> 
-         <lb n="2"/>Ari-kari-kesar<choice><unclear>ī</unclear><unclear>ī</unclear></choice>
-      </ab>
-   </div>
+    <!--check order of faces: maybe start with alpahabetical order of the birudas-->
+    
+    <div type="textpart" n="A">
+    <head xml:lang="eng">1st pillar</head>
+        
+        <ab>      
+            <milestone n="1" unit="face" type="pagelike"/>
+            <lb n="1"/>kāma-laḷita<unclear>ḥ</unclear>
+            <lb n="2"/>kula-tilaka<unclear>ḥ</unclear>
+        </ab>
+        
+        <ab>      
+            <milestone n="2" unit="face" type="pagelike"/>
+            <lb n="3"/>guṇa-vinīta<unclear>ḥ</unclear>
+            <lb n="4"/>dharaṇi-tilaka<unclear>ḥ</unclear>
+        </ab>
+        
+        <ab>      
+            <milestone n="3" unit="face" type="pagelike"/>
+            <lb n="5"/>jñāna-sāgaraḥ
+            <lb n="6"/>tri-bhuvana-dīpa<unclear>ḥ</unclear>
+        </ab>
+        
+        <ab>      
+            <milestone n="4" unit="face" type="pagelike"/>
+            <lb n="7"/>Avirata-dānaḥ
+            <lb n="8"/>Īśāna-śara<unclear>ṇaḥ</unclear>
+        </ab>
+    </div>
+    
+    <div type="textpart" n="B">
+    <head xml:lang="eng">2nd pillar</head>
+        
+        <ab>      
+            <milestone n="1" unit="face" type="pagelike"/>
+            <lb n="9"/>pṛthivī-sāraḥ
+            <lb n="10"/>samara-dhanañjaya<unclear>ḥ</unclear>
+        </ab>
+        
+        <ab>      
+            <milestone n="2" unit="face" type="pagelike"/>
+            <lb n="11"/>Atyanta-kāma<unclear>ḥ</unclear>
+            <lb n="12"/>Abhayaṃ-kara<unclear>ḥ</unclear>
+        </ab>   
+        
+        <ab>      
+            <milestone n="3" unit="face" type="pagelike"/>
+            <lb n="13"/>Avani-divākara<unclear>ḥ</unclear>
+            <lb n="14"/>Atiraṇa-caṇḍa<unclear>ḥ</unclear>
+        </ab>
+        
+        <ab>      
+            <milestone n="4" unit="face" type="pagelike"/>
+            <lb n="15"/>Avārita-vīryya<unclear>ḥ</unclear>
+            <lb n="16"/>Ari-kari-kesar<choice><unclear>ī</unclear><unclear>ī</unclear></choice>
+        </ab>
+    </div>
    
 </div>         
         
-<!--<div type="apparatus">
+<div type="apparatus">
+    
+    <div type="textpart" n="A">
+    <head xml:lang="eng">1st pillar</head>
+        <listApp>
+            <app loc="1">
+                <lem>kāma-laḷita<unclear>ḥ</unclear></lem>
+                <rdg source="bib:VenkatasubbaAyyar1943_01">kāmalaḷitaḥ</rdg>
+            </app>
+            <app loc="2">
+                <lem>kula-tilaka<unclear>ḥ</unclear></lem>
+                <rdg source="bib:VenkatasubbaAyyar1943_01">kulatilakaḥ</rdg>
+            </app>
+        </listApp>
+    </div>
+    
+    <div type="textpart" n="B">        
+    <head xml:lang="eng">2nd pillar</head>
+    </div>
       		
-</div>-->
+</div>
       	
 <!--<div type="translation" resp="part:emfr">
    
-   <div type="textpart" n="A1">
-      <head xml:lang="eng">1st pillar, face 1</head>
+   <div type="textpart" n="A">
+      <head xml:lang="eng">1st pillar</head>
       <p n="1">...</p>
-      <p n="2">...</p>
+      <p n="2">...</p>   
    </div>
    
-   <div type="textpart" n="A2">
-      <head xml:lang="eng">1st pillar, face 2</head>
-      <p n="1">...</p>
-      <p n="2">...</p>
-   </div>
-   
-   <div type="textpart" n="A3">
-      <head xml:lang="eng">1st pillar, face 3</head>
-      <p n="1">...</p>
-      <p n="2">...</p>
-   </div>
-   
-   <div type="textpart" n="A4">
-      <head xml:lang="eng">1st pillar, face 4</head>
-      <p n="1">...</p>
-      <p n="2">...</p>
-   </div>
-   
-   <div type="textpart" n="B1">
-      <head xml:lang="eng">2nd pillar, face 1</head>
-      <p n="1">...</p>
-      <p n="2">...</p>
-   </div>
-   
-   <div type="textpart" n="B2">
-      <head xml:lang="eng">2nd pillar, face 2</head>
-      <p n="1">...</p>
-      <p n="2">...</p>
-   </div>
-   
-   <div type="textpart" n="B3">
-      <head xml:lang="eng">2nd pillar, face 3</head>
-      <p n="1">...</p>
-      <p n="2">...</p>
-   </div>
-   
-   <div type="textpart" n="B4">
-      <head xml:lang="eng">2nd pillar, face 4</head>
-      <p n="1">...</p>
-      <p n="2">...</p>
+   <div type="textpart" n="B">
+      <head xml:lang="eng">2nd pillar</head>
+      <p n="9">...</p>
+      <p n="10">...</p>
    </div>
       		
 </div>-->
   
 <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
    
-   <div type="textpart" n="A1">
-      <head xml:lang="eng">1st pillar, face 1</head>
+   <div type="textpart" n="A">
+      <head xml:lang="eng">1st pillar</head>
       <p n="1">Celui qui possède le charme de Kāma</p>
       <p n="2">L’ornement de sa famille</p>
+       <p n="3">Celui qui malgré ses vertus conserve sa modestie</p>
+       <p n="4">L’ornement de la terre</p>
+      <p n="5">L’océan de la connaissance</p>
+      <p n="6">Le flambeau des trois mondes</p>
+      <p n="7">Celui dont la générosité n’a pas de fin</p>
+      <p n="8">Celui qui trouve refuge en Īśāna</p>
    </div>
    
-   <div type="textpart" n="A2">
-      <head xml:lang="eng">1st pillar, face 2</head>
-      <p n="1">Celui qui malgré ses vertus conserve sa modestie</p>
-      <p n="2">L’ornement de la terre</p>
-   </div>
-   
-   <div type="textpart" n="A3">
-      <head xml:lang="eng">1st pillar, face 3</head>
-      <p n="1">L’océan de la connaissance</p>
-      <p n="2">Le flambeau des trois mondes</p>
-   </div>
-   
-   <div type="textpart" n="A4">
-      <head xml:lang="eng">1st pillar, face 4</head>
-      <p n="1">Celui dont la générosité n’a pas de fin</p>
-      <p n="2">Celui qui trouve refuge en Īśāna</p>
-   </div>
-   
-   <div type="textpart" n="B1">
-      <head xml:lang="eng">2nd pillar, face 1</head>
-      <p n="1">Celui qui a la terre pour richesse</p>
-      <p n="2">Celui qui est un Dhanañjaya au combat</p>
-   </div>
-   
-   <div type="textpart" n="B2">
-      <head xml:lang="eng">2nd pillar, face 2</head>
-      <p n="1">Celui dont les désirs sont infinis</p>
-      <p n="2">Celui qui dispense la sécurité</p>
-   </div>
-   
-   <div type="textpart" n="B3">
-      <head xml:lang="eng">2nd pillar, face 3</head>
-      <p n="1">Le soleil de la terre</p>
-      <p n="2">Celui qui montre au combat une férocité extrême</p>
-   </div>
-   
-   <div type="textpart" n="B4">
-      <head xml:lang="eng">2nd pillar, face 4</head>
-      <p n="1">Celui dont l’héroïsme ne connaît nulle entrave</p>
-      <p n="2">Celui qui est un lion pour ces éléphants que sont ses ennemis</p>
+   <div type="textpart" n="B">
+      <head xml:lang="eng">2nd pillar</head>
+      <p n="9">Celui qui a la terre pour richesse</p>
+      <p n="10">Celui qui est un Dhanañjaya au combat</p>
+      <p n="11">Celui dont les désirs sont infinis</p>
+      <p n="12">Celui qui dispense la sécurité</p>
+      <p n="13">Le soleil de la terre</p>
+      <p n="14">Celui qui montre au combat une férocité extrême</p>
+      <p n="15">Celui dont l’héroïsme ne connaît nulle entrave</p>
+      <p n="16">Celui qui est un lion pour ces éléphants que sont ses ennemis</p>
    </div>
       		
 </div>
