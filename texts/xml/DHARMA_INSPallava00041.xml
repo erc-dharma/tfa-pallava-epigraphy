@@ -91,34 +91,34 @@
 <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">         	
       
    <div type="textpart" n="A">
-      <head xml:lang="eng">face 1</head>
+      <head xml:lang="eng">Face 1</head>
       <p>
-         <lb n="1"/>tāśeṣa-prajā-vipalla[vā][nā]
-         <lb n="2"/>m=pallavānām=anvaye viṣva-
-         <lb n="3"/>kseṇa Iva vṛṣṇīnām=a[Xṛ][X]
-         <lb n="4"/>nmānugraham=atiśay[i/ī] [XX]
+         <lb n="1"/>tāśeṣa-prajā-vipalla<unclear>vānā</unclear>
+         <lb n="2" break="no"/>m pallavānām anvaye viṣva
+         <lb n="3" break="no"/>kseṇa Iva vṛṣṇīnām a<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ṛ</seg> <gap reason="lost" quantity="1" unit="character"/>
+          <lb n="4"/>nmānugraham atiśay<choice><unclear>i</unclear><unclear>ī</unclear></choice>  <gap reason="lost" quantity="2" unit="character"/>
       </p>
    </div>
    
    <div type="textpart" n="B">
-      <head xml:lang="eng">face 2</head>
+      <head xml:lang="eng">Face 2</head>
       <p>      
-         <lb n="1"/>[vi]jaya[s]y[ā]m=e[va] mah[ā]-sainya-
-         <lb n="2"/>dvipo daśāśvamedha-bahusuvarṇṇa-
-         <lb n="3"/>kratuyājī devah śrī-siṃha
-         <lb n="4"/>varmmā pratāpa iva mūrttim[ān]
-         <lb n="5"/>[…]
-         <lb n="6"/>[…]-[va]na-ma[ṇ]ḍa[…]
+         <lb n="1"/><unclear>vi</unclear>jaya<unclear>s</unclear>y<unclear>ā</unclear>m e<unclear>va</unclear> mah<unclear>ā</unclear>-sainya
+         <lb n="2" break="no"/>dvipo daśāśvamedha-bahusuvarṇṇa
+         <lb n="3" break="no"/>kratuyājī devah śrī-siṃha
+         <lb n="4" break="no"/>varmmā pratāpa Iva mūrttim<unclear>ān</unclear>
+         <lb n="5"/><gap reason="lost" quantity="1" unit="line"/>
+         <lb n="6"/><gap reason="illegible" extent="unknown" unit="character"/> -<unclear>va</unclear>na-ma<unclear>ṇ</unclear>ḍa <gap reason="illegible" extent="unknown" unit="character"/>
       </p>
    </div>
    
    <div type="textpart" n="C">
-      <head xml:lang="eng">face 3</head>
+      <head xml:lang="eng">Face 3</head>
       <p>
-         <lb n="1"/>[su]pra[ṇ]īta-daṇḍ[e]na […]
-         <lb n="2"/>punar=i[ḍha/va] dvijanmasu vi […]
-         <lb n="3"/>[XX] sarvva-sva-pratipa
-         <lb n="4"/>[…][l]ī
+         <lb n="1"/><unclear>su</unclear>pra<unclear>ṇ</unclear>īta-daṇḍ<unclear>e</unclear>na <gap reason="illegible" extent="unknown" unit="character"/>
+         <lb n="2"/>punar i<choice><unclear>ḍha</unclear><unclear>va</unclear></choice> dvijanmasu vi <gap reason="illegible" extent="unknown" unit="character"/>
+         <lb n="3"/><gap reason="lost" quantity="2" unit="character"/> sarvva-sva-pratipa
+         <lb n="4" break="no"/><gap reason="illegible" extent="unknown" unit="character"/> <unclear> l</unclear>ī
       </p>
    </div>
 </div>
@@ -136,13 +136,13 @@
       		
 </div>-->
   
-<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
+<!--<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
      
       <p>
          ...
       </p>
       		
-</div>
+</div>-->
          
 <!--<div type="commentary">
       		
