@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                   <summary>A list of 16 <foreign>biruda</foreign>s engraved on two pillars. Most probably <foreign>biruda</foreign>s of Narasiṃhavarman II Pallava, as the list includes the <foreign>biruda</foreign>s Atyantakāma and Atiraṇacaṇḍa.</summary>
+                   <summary>A list of 16 <foreign>biruda</foreign>s engraved on two pillars. Most probably <foreign>biruda</foreign>s of Narasiṃhavarman II Pallava, as the list includes the <foreign>biruda</foreign>s Atyantakāma and Atiraṇacaṇḍa and as the paleaography matches his other known inscriptions (see <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/><citedRange unit="page">12</citedRange></bibl>).</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -167,7 +167,7 @@
 </div>         
         
 <div type="apparatus">
-    <!--complete apparatus-->
+    
     <div type="textpart" n="A">
     <head xml:lang="eng">1st pillar</head>
         <listApp>
@@ -177,8 +177,8 @@
                 <rdg source="bib:Brocquet1997_01">°lalitaḥ</rdg>
             </app>
             <app loc="2">
-                <lem>kula-tilaka<unclear>ḥ</unclear></lem>
-                <rdg source="bib:VenkatasubbaAyyar1943_01">kulatilakaḥ</rdg>
+                <lem>°tilaka<unclear>ḥ</unclear></lem>
+                <rdg source="bib:VenkatasubbaAyyar1943_01">°tilakaḥ</rdg>
             </app>
         </listApp>
     </div>
@@ -278,6 +278,8 @@
          <citedRange unit="appendix">C/1909</citedRange>
          <citedRange unit="item">76</citedRange>
       </bibl>
+       
+       <!--Add Venkayya 1912-->
            
    </listBibl>
    
