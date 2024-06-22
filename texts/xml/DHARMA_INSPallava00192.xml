@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Accaravākkam, donation, time of Nṛpatuṅgavarman, year lost</title>
+				<title>Accaravākkam, time of Nṛpatuṅgavarman, year lost</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -99,20 +99,21 @@
 	<p>		
 		<lb n="2"/>caṅkaṉ viṟṟu-k-koṇṭu Arccaṉā-pōkañ
 		<lb n="3"/>ceyta nilam viraṉ ceṟuvuṅ kaḻuvaluṅ
-		<lb n="4"/>koṭumāṭiyuṅ kāḻiyu<unclear>m</unclear>-āka Eṇ
-		<lb n="5" break="no"/>ṇūṟu kuḻiyum A<hi rend="grantha">ga</hi>tti <hi rend="grantha">śrī</hi>-t-tēvar
+		<lb n="4"/>koṭumāṭiyuṅ kāḻiyu<unclear>m</unclear> āka Eṇ
+		<lb n="5" break="no"/>ṇūṟu kuḻiyum
+	</p>
+	<p>		
+		A<hi rend="grantha">ga</hi>tti <hi rend="grantha">śrī</hi>-t-tēvar
 		<lb n="6" break="no"/>k=ku-k= kuṭutta <hi rend="grantha">dharmmam· rakṣi</hi>ppār aṭi E
-		<lb n="7" break="no"/>ṉ ṟalai mēlaṉa 		
-		
+		<lb n="7" break="no"/>ṉ ṟalai mēlaṉa		
 	</p>
 	
 	<p>	
 		I<unclear>vai vilaiyum oṟṟi</unclear>
-		<lb n="8" break="no"/> yuñ cellā
+		<lb n="8" break="no"/>yuñ cellā
 		
 	</p>
-	
-	
+		
 </div>
 			
 <!--<div type="apparatus">
@@ -139,12 +140,15 @@
 		<supplied reason="lost">Umpteenth</supplied> year of <hi rend="grantha">Nṛ</hi>patuṅkaparm<unclear>ma</unclear>r <supplied reason="explanation">Sanskrit Nṛpatuṅgavarman</supplied>.
 	</p>
 	
-	<p n="2-7">
-		The land that Caṅkaṉ made, after purchase, as <foreign>arcanābhoga</foreign>, <supplied reason="subaudible">that is</supplied>, eight hundred <foreign>kuḻi</foreign>s <supplied reason="subaudible">comprising the plots named</supplied> Vīraṉ Ceṟuvu, Kaḻuval, Koṭumāṭi and Kāḻi, <supplied reason="subaudible">that is</supplied>, the pious donation <supplied reason="explanation"><foreign><hi rend="bold">dharma</hi></foreign></supplied> given for Akatti Śrītēvar.
+	<p n="2-5">
+		The land that Caṅkaṉ made, after purchase, an <foreign>arcanābhoga</foreign>, <supplied reason="subaudible">is</supplied> eight hundred <foreign>kuḻi</foreign>s <supplied reason="subaudible">comprising the plots named</supplied> Vīraṉ Ceṟuvu, Kaḻuval, Koṭumāṭi and Kāḻi.
 	</p>
 	
-	<p>
-		The feet of he who protects <supplied reason="subaudible">this donation</supplied> are on my feet.
+	<p n="5-7">
+		<supplied reason="subaudible">This</supplied> pious donation <supplied reason="explanation"><foreign><hi rend="bold">dharma</hi></foreign></supplied>
+		that
+		he gave for Akatti Śrītēvar,
+		the feet of he who protects <supplied reason="subaudible">it</supplied> are on my feet.
 	</p>
 	
 	<p n="8">
@@ -157,8 +161,9 @@
 			
 <div type="bibliography">
 				
+	<p>Reported in <bibl><ptr target="bib:ARIE1933-1934"/></bibl> (ARIE/1933-1934/B/1933-1934/108).</p>
 	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.83); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 192).</p>
-	<p>Encoded and translated here by Emmanuel Francis (2022), based on <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>.</p>
+	<p>This edition and translation by Emmanuel Francis (2022), based on <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>.</p>
 	
 	<listBibl type="primary">
 		
