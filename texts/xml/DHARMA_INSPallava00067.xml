@@ -93,57 +93,73 @@
     <!--check order of faces: maybe start with alpahabetical order of the birudas-->
     
     <div type="textpart" n="A">
-    <head xml:lang="eng">A = 1st pillar</head>
+    <head xml:lang="eng">1st pillar</head>
         
         <ab>      
             <milestone n="A1" unit="face" type="pagelike"/>
             <lb n="1"/>kāma-laḷita<unclear>ḥ</unclear>
+        </ab>
+        <ab>
             <lb n="2"/>kula-tilaka<unclear>ḥ</unclear>
         </ab>
         
         <ab>      
             <milestone n="A2" unit="face" type="pagelike"/>
             <lb n="3"/>guṇa-vinīta<unclear>ḥ</unclear>
+        </ab>
+        <ab>
             <lb n="4"/>dharaṇi-tilaka<unclear>ḥ</unclear>
         </ab>
         
         <ab>      
             <milestone n="A3" unit="face" type="pagelike"/>
             <lb n="5"/>jñāna-sāgaraḥ
+        </ab>
+        <ab>
             <lb n="6"/>tri-bhuvana-dīpa<unclear>ḥ</unclear>
         </ab>
         
         <ab>      
             <milestone n="A4" unit="face" type="pagelike"/>
             <lb n="7"/>Avirata-dānaḥ
+        </ab>
+        <ab>
             <lb n="8"/>Īśāna-śara<unclear>ṇaḥ</unclear>
         </ab>
     </div>
     
     <div type="textpart" n="B">
-    <head xml:lang="eng">B = 2nd pillar</head>
+    <head xml:lang="eng">2nd pillar</head>
         
         <ab>      
             <milestone n="B1" unit="face" type="pagelike"/>
             <lb n="9"/>pṛthivī-sāraḥ
+        </ab>
+        <ab>
             <lb n="10"/>samara-dhanañjaya<unclear>ḥ</unclear>
         </ab>
         
         <ab>      
             <milestone n="B2" unit="face" type="pagelike"/>
             <lb n="11"/>Atyanta-kāma<unclear>ḥ</unclear>
+        </ab>
+        <ab>
             <lb n="12"/>Abhayaṃ-kara<unclear>ḥ</unclear>
         </ab>   
         
         <ab>      
             <milestone n="B3" unit="face" type="pagelike"/>
             <lb n="13"/>Avani-divākara<unclear>ḥ</unclear>
+        </ab>
+        <ab>
             <lb n="14"/>Atiraṇa-caṇḍa<unclear>ḥ</unclear>
         </ab>
         
         <ab>      
             <milestone n="B4" unit="face" type="pagelike"/>
             <lb n="15"/>Avārita-vīryya<unclear>ḥ</unclear>
+        </ab>
+        <ab>
             <lb n="16"/>Ari-kari-kesar<choice><unclear>ī</unclear><unclear>ī</unclear></choice>
         </ab>
     </div>
@@ -151,13 +167,14 @@
 </div>         
         
 <div type="apparatus">
-    
+    <!--complete apparatus-->
     <div type="textpart" n="A">
     <head xml:lang="eng">1st pillar</head>
         <listApp>
             <app loc="1">
-                <lem>kāma-laḷita<unclear>ḥ</unclear></lem>
-                <rdg source="bib:VenkatasubbaAyyar1943_01">kāmalaḷitaḥ</rdg>
+                <lem>°laḷita<unclear>ḥ</unclear></lem>
+                <rdg source="bib:VenkatasubbaAyyar1943_01">°laḷitaḥ</rdg>                
+                <rdg source="bib:Brocquet1997_01">°lalitaḥ</rdg>
             </app>
             <app loc="2">
                 <lem>kula-tilaka<unclear>ḥ</unclear></lem>
@@ -168,6 +185,12 @@
     
     <div type="textpart" n="B">        
     <head xml:lang="eng">2nd pillar</head>
+        <listApp>
+            <app loc="16">
+                <lem>°kesar<choice><unclear>ī</unclear><unclear>ī</unclear></choice></lem>
+                <rdg source="bib:VenkatasubbaAyyar1943_01">°kesarī <unclear><g type="ddanda">.</g></unclear></rdg>
+            </app>
+        </listApp>
     </div>
       		
 </div>
@@ -221,8 +244,7 @@
       	
 <div type="bibliography">
 
-   <p>Reported in <bibl><ptr target="bib:ARIE1908-1909"/></bibl> (ARIE/1908-1909/C/1909/76).</p>
-   
+   <p>Reported in <bibl><ptr target="bib:ARIE1908-1909"/></bibl> (ARIE/1908-1909/C/1909/76).</p>   
    <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.27), with facsimiles (pl. V). Text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 67). Text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 50).</p>
    <p>This edition by Emmanuel Francis (2024), based on the facsimiles published in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>.</p>
    
