@@ -125,6 +125,17 @@
         
 <div type="apparatus">
    
+      <div type="textpart" n="A">
+      <head xml:lang="eng">Face 1</head>
+      <listApp>
+         <app loc="1">
+            <lem>°tāśeṣa°</lem>
+            <rdg source="bib:VenkataRamayya1947-1948_01"/>
+            <note><ptr target="bib:Brocquet1997_01"/> notes (fn. 857): <quote>Il faut suppléer, au début de ce composé, <foreign><supplied reason="lost">dhvas</supplied>tāśeṣa-</foreign> (cf. No 60) ou <foreign><supplied reason="lost">nirākṛ</supplied>tāśeṣa</foreign>- (cf. Nos 33 &amp; 54).</quote>.</note>
+         </app>
+      </listApp>
+   </div>
+   
    <div type="textpart" n="C">
       <head xml:lang="eng">Face 3</head>
       <listApp>
