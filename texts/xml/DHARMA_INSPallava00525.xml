@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruveḷḷaṟai well (2/2)</title>
+				<title>Tiruveḷḷaṟai's well; gnomic verse</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -136,56 +136,56 @@
          	
          </div>
 
-      	<div type="commentary">
-      		<p>
-      			See DHARMA_INSPallava00098<!--update!-->.
-      		</p>
-      		<p>
-      			In two instances, consonants are unduly duplicated at word <foreign>sandhi</foreign> (<foreign>uṇṭ’ ēl<surplus>l</surplus></foreign>, <foreign>ulakam<surplus>m</surplus></foreign>).
-      		</p>
-      		<p>
-      			The particle <foreign>-ē</foreign> is consistently appended with a <foreign>y</foreign> (<foreign>nillātē<surplus>y</surplus></foreign>, <foreign>paṇṭē<surplus>y</surplus></foreign>, <foreign>naiyyātē<surplus>y</surplus></foreign>, <foreign>vaimmiṉē<surplus>y</surplus></foreign>). <bibl><ptr target="bib:SubrahmanyaAiyar1911-1912_01"/><citedRange unit="page">157</citedRange><citedRange unit="note">7</citedRange></bibl> notes: <q>In these four instances the final <foreign>y</foreign> seems to have been inserted to represent the full sound produced in pronouncing the words.</q>
-      		</p>
-      	</div>
+<div type="commentary">
+    <p>
+        See also inscription <ref target="DHARMA_INSPallava00098.xml">Pallava 98</ref>.
+    </p>
+    <p>
+        In two instances, consonants are unduly duplicated at word <foreign>sandhi</foreign> (<foreign>uṇṭ’ ēl<surplus>l</surplus></foreign>, <foreign>ulakam<surplus>m</surplus></foreign>).
+    </p>
+    <p>
+        The particle <foreign>-ē</foreign> is consistently appended with a <foreign>y</foreign> (<foreign>nillātē<surplus>y</surplus></foreign>, <foreign>paṇṭē<surplus>y</surplus></foreign>, <foreign>naiyyātē<surplus>y</surplus></foreign>, <foreign>vaimmiṉē<surplus>y</surplus></foreign>). <bibl><ptr target="bib:SubrahmanyaAiyar1911-1912_01"/><citedRange unit="page">157</citedRange><citedRange unit="note">7</citedRange></bibl> notes: <q>In these four instances the final <foreign>y</foreign> seems to have been inserted to represent the full sound produced in pronouncing the words.</q>
+    </p>
+</div>
+          
+<div type="bibliography">
 
-         <div type="bibliography">
-
-            <p>
-            	Edited in <bibl><ptr target="bib:SubrahmanyaAiyar1911-1912_01"/></bibl> (EI 11, no. 15); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 98); re-edited here by Emmanuel Francis (2020), based on autopsy, photographs, and facsimile published in <bibl><ptr target="bib:SubrahmanyaAiyar1911-1912_01"/></bibl>.           	
-            </p>
-
-            	<listBibl type="primary">
-        		
-        		<bibl n="KVS">
-        			<ptr target="bib:SubrahmanyaAiyar1911-1912_01"/>
-        		</bibl>
-            	   
-        		<bibl n="IP">
-        			<ptr target="bib:Mahalingam1988_01"/>
-        			<citedRange unit="page">335-336</citedRange>
-        			<citedRange unit="item">98</citedRange>
-        		</bibl>
-        		
-        		
-        	</listBibl>
-        	
-        	<listBibl type="secondary">
-        		
-        	   <bibl>
-        	      <ptr target="bib:ARIE1904-1905"/>
-        	      <citedRange unit="page">33</citedRange>
-        	      <citedRange unit="appendix">B/1905</citedRange>
-        	      <citedRange unit="item">541</citedRange>
-        	   </bibl>
-        	   
-        	   <bibl n="VVA">
-        	      <ptr target="bib:VenkatasubbaAyyar1943_01"/>
-        	      <citedRange unit="page">16</citedRange>
-        	      <citedRange unit="item">40</citedRange>
-        	      <note>Summary only.</note>
-        	   </bibl>
-        		
-        	</listBibl>
+    <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyar1911-1912_01"/></bibl> (EI 11.15); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 98).</p>
+    <p>This edition by Emmanuel Francis (2020), based on autopsy, photographs, and facsimile published in <bibl><ptr target="bib:SubrahmanyaAiyar1911-1912_01"/></bibl>.      	
+    </p>
+    
+    <listBibl type="primary">
+        
+        <bibl n="KVS">
+            <ptr target="bib:SubrahmanyaAiyar1911-1912_01"/>
+        </bibl>
+        
+        <bibl n="IP">
+            <ptr target="bib:Mahalingam1988_01"/>
+            <citedRange unit="page">335-336</citedRange>
+            <citedRange unit="item">98</citedRange>
+        </bibl>
+        
+        
+    </listBibl>
+    
+    <listBibl type="secondary">
+        
+        <bibl>
+            <ptr target="bib:ARIE1904-1905"/>
+            <citedRange unit="page">33</citedRange>
+            <citedRange unit="appendix">B/1905</citedRange>
+            <citedRange unit="item">541</citedRange>
+        </bibl>
+        
+        <bibl n="VVA">
+            <ptr target="bib:VenkatasubbaAyyar1943_01"/>
+            <citedRange unit="page">16</citedRange>
+            <citedRange unit="item">40</citedRange>
+            <note>Summary only.</note>
+        </bibl>
+        
+    </listBibl>
 
          </div>
 

@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tiruveḷḷaṟai, praise, time of Nandivarman, year 6</title>
+            <title>Tiruveḷḷaṟai, Jambunāthasvāmi, time of Nandivarman, year 6</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -134,7 +134,7 @@
 
          <div resp="part:emfr" type="translation">
             <p n="1">Prosperity! Fortune!</p>
-            <p n="2-3"><supplied reason="lost">Sixth</supplied> year of the glorious Danti-Nandivarman<note>That is, Nandivarman, son of Dantin, that is, Dantivarman.</note> alias the Pallava emperor or the great kings <supplied reason="subaudible">and</supplied> supreme lord, who is the ornament of the lineage of the Bhāradvājas <supplied reason="subaudible">and</supplied> who rose in a lineage of Brahmins and Kṣatriyas.
+            <p n="2-3"><supplied reason="lost">Sixth</supplied> year of the glorious Danti-Nandivarman<note>That is, Nandivarman, son of Dantin (Dantivarman).</note> alias the Pallava emperor or the great kings <supplied reason="subaudible">and</supplied> supreme lord, who is the ornament of the lineage of the Bhāradvājas <supplied reason="subaudible">and</supplied> who rose in a lineage of Brahmins and Kṣatriyas.
             </p>
             
             <p n="3-12">
@@ -154,8 +154,8 @@
          <div type="bibliography">
 
             <p>
-Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS no. 15);  translated in <bibl><ptr target="bib:SrinivasaAiyar1941_01"/></bibl> (IPS no. 15); reedited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile (SII 12, no. 46); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 116); reedited by <bibl><ptr target="bib:Subbarayalu2015_01"/></bibl> with facsimile (SII 34, no. 347); re-edited here by Emmanuel Francis (2021), based on photos.
-            </p>
+Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS 15);  translated in <bibl><ptr target="bib:SrinivasaAiyar1941_01"/></bibl> (IPS 15); reedited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile (SII 12, no. 46); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 116); reedited by <bibl><ptr target="bib:Subbarayalu2015_01"/></bibl> with facsimile (SII 34.347).</p>
+             <p>This edition by Emmanuel Francis (2021), based on photos.</p>
 
             <listBibl type="primary">
                
@@ -165,7 +165,7 @@ Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bib
                   <citedRange unit="item">15</citedRange>
                </bibl>
                
-               <bibl n="VVA">
+               <bibl n="SII">
                   <ptr target="bib:VenkatasubbaAyyar1943_01"/>
                   <citedRange unit="page">19</citedRange>
                   <citedRange unit="item">46</citedRange>

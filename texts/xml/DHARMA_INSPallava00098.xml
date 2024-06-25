@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tiruveḷḷaṟai well (1/2)</title>
+             <title>Tiruveḷḷaṟai’s well, time of Dantivarman, year 4</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -152,60 +152,61 @@
        
          </div>
 
-         <div type="commentary">
-            <p>
-               See DHARMA_INSPallava00525<!--update!-->.
-            </p>
-         	<p n="1">
-         		<foreign><hi rend="grantha">palla</hi>va-ti<hi rend="grantha">la</hi>ta-ku<hi rend="grantha">lorbha</hi>vaṉ</foreign>. <foreign><hi rend="grantha">palla</hi>va-ku<hi rend="grantha">la</hi>-ti<hi rend="grantha">la</hi>to<hi rend="grantha">rbha</hi>vaṉ</foreign>, "who appeared as the ornament of the Pallava lineage" would be more straightforward. Alternatively, as suggested by Christophe Vielle, <foreign><hi rend="grantha">palla</hi>va-ti<hi rend="grantha">la</hi>ta-ku<hi rend="grantha">lorbha</hi>vaṉ</foreign> can be translated as "who appeared in the lineage whose ornament is the sprout", with a play, attested elsewehere in the Pallava corpus, on the dynastic name Pallava ("sprout" in Skt.). As the the phrase <foreign>pallava-tilaka</foreign>, "ornament of the Pallava (lineage)", is also attested in the Pallava corpus as an epithet of Pallava kings, it seems that the present writer either deliberately used it in a new way or misused it. On this epithet, see <bibl><ptr target="bib:SubrahmanyaAiyar1911-1912_01"/><citedRange unit="page">157</citedRange></bibl><!--update!-->
-         	</p>
-         	<p n="2">
-         		<foreign>mārppiṭuku</foreign>. See <bibl><ptr target="bib:SubrahmanyaAiyar1911-1912_01"/><citedRange unit="page">156</citedRange></bibl><!--update!-->
-         	</p>
+<div type="commentary">
+    <p>
+        See also inscription <ref target="DHARMA_INSPallava00525.xml">Pallava 525</ref>.
+    </p>
+    <p n="1">
+        <foreign><hi rend="grantha">palla</hi>va-ti<hi rend="grantha">la</hi>ta-ku<hi rend="grantha">lorbha</hi>vaṉ</foreign>. <foreign><hi rend="grantha">palla</hi>va-ku<hi rend="grantha">la</hi>-ti<hi rend="grantha">la</hi>to<hi rend="grantha">rbha</hi>vaṉ</foreign>, "who appeared as the ornament of the Pallava lineage" would be more straightforward. Alternatively, as suggested by Christophe Vielle, <foreign><hi rend="grantha">palla</hi>va-ti<hi rend="grantha">la</hi>ta-ku<hi rend="grantha">lorbha</hi>vaṉ</foreign> can be translated as "who appeared in the lineage whose ornament is the sprout", with a play, attested elsewehere in the Pallava corpus, on the dynastic name Pallava ("sprout" in Sanskrit). As the the phrase <foreign>pallava-tilaka</foreign>, "ornament of the Pallava (lineage)", is also attested in the Pallava corpus as an epithet of Pallava kings, it seems that the present writer either deliberately used it in a new way or misused it. On this epithet, see <bibl><ptr target="bib:SubrahmanyaAiyar1911-1912_01"/><citedRange unit="page">157</citedRange></bibl>.<!--update!-->
+    </p>
+    <p n="2">
+        <foreign>mārppiṭuku</foreign>. See <bibl><ptr target="bib:SubrahmanyaAiyar1911-1912_01"/><citedRange unit="page">156</citedRange></bibl>.<!--update!-->
+    </p>
          	
-         </div>
+</div>
+          
+<div type="bibliography">
 
-         <div type="bibliography">
+    <p><!--update-->
+        Edited in <bibl><ptr target="bib:SubrahmanyaAiyar1911-1912_01"/></bibl> (EI 11.15); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 98).</p>
+    
+    <p>This edition by Emmanuel Francis (2021), based on autopsy, photographs, and the facsimile published in <bibl><ptr target="bib:SubrahmanyaAiyar1911-1912_01"/></bibl>.</p>
+    
+    <listBibl type="primary">
+        
+        <bibl n="KVS">
+            <ptr target="bib:SubrahmanyaAiyar1911-1912_01"/>
+        </bibl>
+        
+        <bibl n="IP">
+            <ptr target="bib:Mahalingam1988_01"/>
+            <citedRange unit="page">335-336</citedRange>
+            <citedRange unit="item">98</citedRange>
+        </bibl>
+        
+        
+    </listBibl>
+    
+    <listBibl type="secondary">
+        
+        <bibl>
+            <ptr target="bib:ARIE1905-1906"/>
+            <citedRange unit="page">33</citedRange>
+            <citedRange unit="appendix">B/1905</citedRange>
+            <citedRange unit="item">541</citedRange>
+        </bibl>
+        
+        <bibl>
+            <ptr target="bib:VenkatasubbaAyyar1943_01"/>
+            <citedRange unit="page">16</citedRange>
+            <citedRange unit="item">40</citedRange>
+            <note>Summary only.</note>
+        </bibl>
+        
+    </listBibl>
 
-            <p><!--update-->
-            	Edited in <bibl><ptr target="bib:SubrahmanyaAiyar1911-1912_01"/></bibl> (EI 11, no. 15); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 98); re-edited here by Emmanuel Francis (2021), based on autopsy, photographs, and the facsimile published in <bibl><ptr target="bib:SubrahmanyaAiyar1911-1912_01"/></bibl>.           	
-            </p>
-
-            	<listBibl type="primary">
-        		
-        		<bibl n="KVS">
-        			<ptr target="bib:SubrahmanyaAiyar1911-1912_01"/>
-        		</bibl>
-            	   
-        		<bibl n="IP">
-        			<ptr target="bib:Mahalingam1988_01"/>
-        			<citedRange unit="page">335-336</citedRange>
-        			<citedRange unit="item">98</citedRange>
-        		</bibl>
-        		
-        		
-        	</listBibl>
-        	
-        	<listBibl type="secondary">
-        		
-        	   <bibl>
-        	      <ptr target="bib:ARIE1905-1906"/>
-        	      <citedRange unit="page">33</citedRange>
-        	      <citedRange unit="appendix">B/1905</citedRange>
-        	      <citedRange unit="item">541</citedRange>
-        	   </bibl>
-        	   
-        	   <bibl>
-        	      <ptr target="bib:VenkatasubbaAyyar1943_01"/>
-        	      <citedRange unit="page">16</citedRange>
-        	      <citedRange unit="item">40</citedRange>
-        	      <note>Summary only.</note>
-        	   </bibl>
-        		
-        	</listBibl>
-
-         </div>
-
+</div>
+          
       </body>
   </text>
 </TEI>
