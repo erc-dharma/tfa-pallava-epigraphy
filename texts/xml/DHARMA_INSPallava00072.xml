@@ -102,7 +102,7 @@
       		
       		<p>
       			<gap reason="undefined" quantity="3" unit="character"/> <supplied reason="lost">peru</supplied>
-      			<lb n="3" break="no"/>māṉaṭikaṉ cerut=talai-maṅ<supplied reason="lost">kala</supplied>
+      			<lb n="3" break="no"/>māṉaṭikaṉ cerut=talai-maṅ<supplied reason="lost">kalat</supplied>
       			<lb n="4" break="no"/>tu nakarattārkku Uḷḷūr <gap reason="undefined" quantity="4" unit="character"/>
       			<lb n="5"/>v-iṭṭu <hi rend="grantha">sarvva</hi>-paricālam koṭu <gap reason="undefined" quantity="4" unit="character"/>
       			<lb n="6"/>viṭēlviṭuku mammaḷi na <gap reason="undefined" quantity="5" unit="character"/>
@@ -118,6 +118,11 @@
         <app loc="3">
             <lem>cerut=talai°</lem>
             <rdg source="bib:ARIE1939-1943">ceruvālai°</rdg>
+        </app>
+       
+       <app loc="3">
+            <lem>°maṅ<supplied reason="lost">kalat</supplied><lb n="4" break="no"/>tu</lem>
+            <rdg source="bib:KrishnaSastri1925_01">°maṅ<gap reason="lost" quantity="3" unit="character"/><lb n="4" break="no"/>tu</rdg>
         </app>
     </listApp>      	   
     
@@ -139,16 +144,16 @@
     
 </div>
       	      	
-<div type="commentary">
+<!--<div type="commentary">
 	
-</div>
+</div>-->
       	
 <div type="bibliography">
 
-   <p>Date phrase edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.124); fully edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5.54); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 72).
-   </p>
-   <p>This digital edition by Emmanuel Francis (2020).</p>
-
+   <p>Reported <bibl n="ARIE"><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1886-1887/II/1886-1887/54)<!--54 of 1888 acc. to SII 5--> and again in <bibl n="ARIE"><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1939-1940/206).</p>
+   <p>Date phrase edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.124); fully edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5, Appendix I, no. 54); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 72).</p>
+   <p>This digital edition by Emmanuel Francis (2020), based on <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl>.</p>
+   
 	<listBibl type="primary">
 		
 		<bibl n="EH">
@@ -160,6 +165,7 @@
 		<bibl n="SII">
 			<ptr target="bib:KrishnaSastri1925_01"/>
 			<citedRange unit="page">518</citedRange>
+		   <citedRange unit="appendix">I</citedRange>
 			<citedRange unit="item">54</citedRange>
 		</bibl>
 		
@@ -173,8 +179,15 @@
 	
 	<listBibl type="secondary">
 		
-		<bibl n="ARIE 1939-1943">
-			<ptr target="bib:ARIE1939-1943"/>
+		<bibl n="ARIE">
+			<ptr target="bib:ARIE1886-1887"/>
+			<citedRange unit="page">5</citedRange>
+			<citedRange unit="appendix">II</citedRange>
+			<citedRange unit="item">54</citedRange>
+		</bibl>
+	   
+	   <bibl n="ARIE">
+	      <ptr target="bib:ARIE1939-1943"/>
 			<citedRange unit="page">55</citedRange>
 			<citedRange unit="appendix">B/1939-1940</citedRange>
 			<citedRange unit="item">206</citedRange>
