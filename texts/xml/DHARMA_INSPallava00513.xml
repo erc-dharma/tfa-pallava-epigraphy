@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Hanumantapuram hero-stone 2/2</title>
+             <title>Hanumantapuram hero-stone, time of Īccuvaraparumaṉ, year 17</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -145,7 +145,7 @@
       	
       	<div resp="part:emfr" type="translation">
       		<p n="1-2">
-      			Seventeenth year of the victorious king Īśvaravarman.
+      			Seventeenth year of the victorious king Īccuvaraparumaṉ.<note>Sanskrit Īśvaravarman.</note>.
       		</p> 
       		<p n="2-5">
       			When, there <supplied reason="explanation"><foreign>aṅkaṇ</foreign></supplied>, the honourable Kāṭṭiṟai vanquished, Kāṭaṭi Kaṟakkaṉ, who went <supplied reason="explanation">against</supplied> the change of property, was himself cut down.

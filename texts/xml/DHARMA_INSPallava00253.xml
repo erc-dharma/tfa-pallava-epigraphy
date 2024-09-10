@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Hanumantapuram hero-stone 1/2</title>
+            <title>Hanumantapuram hero-stone, time of Īccuvaraparumaṉ, year 17</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -131,10 +131,10 @@
       	
       	<div resp="part:emfr" type="translation">
       		<p n="1-2">
-      			Seventeenth year of the victorious king Īśvaravarman.
+      			Seventeenth year of the victorious king Īccuvaraparumaṉ.<note>Sanskrit Īśvaravarman.</note>
       		</p> 
       		<p n="2-5">
-      			When, there (<foreign>aṅkaṇ</foreign>), <supplied reason="subaudible">at</supplied> Kaṉaiyūr a change of property occured, Cāttaṉ <supplied reason="subaudible">of</supplied> Pūtūr, the servant <supplied reason="subaudible">of</supplied> the honoorable Kāṭṭiṟai, was himself cut down.
+      			When, there (<foreign>aṅkaṇ</foreign>), <supplied reason="subaudible">at</supplied> Kaṉaiyūr a change of property occured, Cāttaṉ <supplied reason="subaudible">of</supplied> Pūtūr, the servant <supplied reason="subaudible">of</supplied> the honourable Kāṭṭiṟai, was himself cut down.
       		</p>
       	</div>
       	
