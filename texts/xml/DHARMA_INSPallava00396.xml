@@ -156,15 +156,17 @@
 		<lb n="7r1=56"/>
 		<lb n="7r2=57"/>
 		<lb n="7r2=58"/>
-		<lb n="7r4=59"/>... <unclear>p</unclear>āndūra-grāma<unclear>ṃ</unclear> sarvva-parih<unclear>āro</unclear>peta<unclear>n deva</unclear>-bhoga-hala-varjjyam ...
-		<lb n="7r5=60"/>... samedha<unclear>māna</unclear>-vijaya-rājya-prathama
-		
-		<pb n="7v" break="no"/>
-		<lb n="7v1=61" break="no"/>sa<unclear>ṃ</unclear>vvatsara-āṣāḍha-śukla-pakṣa-pañcamyām brahmadeyī-kṛtya samprādama
 	</p>
+    <p>
+        <lb n="7r4=59"/>Imam <unclear>p</unclear>āndūra-grāma<unclear>ṃ</unclear> sarvva-parih<unclear>āro</unclear>peta<unclear>n deva</unclear>-bhoga-hala-varjjyam asma
+        <lb n="7r5=60" break="no"/>d-āyur-bala-vijayābhivṛddhaye samedha<unclear>māna</unclear>-vijaya-rājya-prathama
+        
+        <pb n="7v" break="no"/>
+        <lb n="7v1=61" break="no"/>sa<unclear>ṃ</unclear>vvatsar-āṣāḍha-śukla-pakṣa-pañcamyām brahmadeyī-kṛtya samprādama
+    </p>
 	<p>
-		...
-		<lb n="7v2=62"/>...
+		tada
+		<lb n="7v2=62" break="no"/>yaṅ grāmas sarvva-parihārai<unclear>ḥ</unclear> pariharttavyaḥ parihārayitavyaś ca
 	</p>
 	<p>
 		yaś cedam asma 
@@ -215,11 +217,31 @@
 		
 	</listApp>
 	
-</div>
+</div>-->
       	
-<div type="translation" xml:lang="fra" resp="part:emfr"/>
+<!--<div type="translation" resp="part:emfr">
+    
+    <p>...</p>
+    
+    <p n="59-61">...</p>
+    
+    <p n="61-62">...</p>
+    
+    <p n="62-63">...</p>
+    
+    <p n="63-64">...</p>
+    
+    <p n="1" rend="stanza">...</p>
+    <p n="2" rend="stanza">...</p>
+    <p n="3" rend="stanza">...</p>
+    
+    <p n="68-70">...</p>
+    
+</div>-->
          	        
-<div type="commentary"/>-->         	
+<!--<div type="commentary">
+    
+</div>   -->      	
          
 
 <div type="bibliography">
