@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mahābalipuram Ādivaraha Cave slab</title>
+            <title>Mahābalipuram, Ādivarāha, time of Nandibodhuvarman, year 65</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Land-sale of pasture-land for calves.</summary>
+                  <summary>A slab inscription recording the land-sale of pasture-land for calves.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -121,36 +121,32 @@
 
                      <p>
                         <unclear>Ā</unclear>
-                        <lb n="8" break="no"/>mūr-nāṭṭu Kuṉṟattūr i[ṭai] 
-                        <lb n="9" break="no"/>vāḻum<unclear>·</unclear> Kuṉṟat<unclear>·</unclear>tūr-<unclear>ki</unclear><supplied reason="lost">ḻā</supplied>
+                        <lb n="8" break="no"/>mūr-nāṭṭu kuṉṟattūr i[ṭai] 
+                        <lb n="9" break="no"/>vāḻum<unclear>·</unclear> kuṉṟat<unclear>·</unclear>tūr-<unclear>ki</unclear><supplied reason="lost">ḻā</supplied>
                         <lb n="10" break="no"/>r Iḷa-naṭuvuṇār makaṉ <gap reason="lost" quantity="2" unit="character" precision="low"/>	
                         <lb n="11"/>ṉ kaṇṭa<choice><orig>n</orig><reg>ṉ</reg></choice> iṭ<unclear>ai</unclear> kaṉṟu-mē<supplied reason="omitted">y</supplied>-ka<unclear>ḻa</unclear><choice><orig>n</orig><reg>ṉ</reg></choice>i
                         <lb n="12" break="no"/>-y-āka viṟṟu-<supplied reason="omitted">k</supplied>-koṇṭa nilat<unclear>tu</unclear>
                         <lb n="13" break="no"/><supplied reason="omitted">k</supplied>k’ ellai
-                     </p>
                      
-                     <p>
-                        maḻiṉai nal<unclear>lu</unclear>
-                        <lb n="14" break="no"/>ḻār tōṭṭa<supplied reason="omitted">t</supplied>ti<unclear>ṉ</unclear> mē<choice><sic>l</sic><corr>ṟ</corr></choice>kum <unclear>teṉ</unclear>
-                        <lb n="15" break="no"/>pāl Ellai
-                     </p>
-                     
-                     <p>
+                        <list>
+                           <item>maḻiṉai nal<unclear>lu</unclear>
+                        <lb n="14" break="no"/>ḻār tōṭṭa<supplied reason="omitted">t</supplied>ti<unclear>ṉ</unclear> mē<choice><sic>l</sic><corr>ṟ</corr></choice>kum</item> 
+                        
+                        <item><unclear>teṉ</unclear>
+                        <lb n="15" break="no"/>pāl Ellai                     
                         kō<choice><orig>n</orig><reg>ṉ</reg></choice>-ē
-                        <lb n="16" break="no"/><supplied reason="lost">ri</supplied>-<unclear>I</unclear>ṉ vaṭak=kum mēl-pāl
+                        <lb n="16" break="no"/><supplied reason="lost">ri</supplied>-<unclear>I</unclear>ṉ vaṭak=kum</item>
+                        
+                        <item>mēl-pāl
                         <lb n="17" break="no"/><supplied reason="lost">e</supplied>llai
-                     </p>
-                     
-                     <p>
                         mān<unclear>·</unclear>tai talaiva				
                         <lb n="18" break="no"/><supplied reason="lost">ṉ ē</supplied>rikkum· peru-vaḻi-Iṉ· 
-                        <lb n="19"/><supplied reason="lost">kiḻak</supplied>kum· vaṭa-pāl-el<supplied reason="omitted">l</supplied>ai
-                     </p>
-                     
-                     <p>
+                        <lb n="19"/><supplied reason="lost">kiḻak</supplied>kum·</item>                           
+                        
+                        <item>vaṭa-pāl-el<supplied reason="omitted">l</supplied>ai
                         pa
                         <lb n="20" break="no"/><gap reason="lost" unit="character" quantity="1" precision="low"/>nappāṭi-e<supplied reason="omitted">l</supplied>lai-I<unclear>ṉ te</unclear>
-                        <lb n="21" break="no"/><supplied reason="lost">ṟku</supplied>m
+                        <lb n="21" break="no"/><supplied reason="lost">ṟku</supplied>m</item></list>
                      </p>
                      
                      <p>
@@ -315,16 +311,20 @@
 
 <p n="4-7"><supplied reason="subaudible">This is about</supplied> the land that Iṭaivalañcāṉ Kaṇṭaṉ <supplied reason="subaudible">among</supplied> the <foreign>nakarattār</foreign>s of Māmallapuram got<note>That is, "purchased".</note> as pasture-land for calves <supplied reason="explanation"><foreign>kaṉṟu-mēy-kaḻaṉi-y-āka</foreign></supplied>.</p>
 
-<p n="7-13">The boundaries to the land purchased as pasture-land for calves from <supplied reason="explanation"><foreign>iṭai</foreign></supplied> Kōṉ Kaṇṭaṉ, son of Iḷa-naṭuvuṇār, the lord of Kuṉṟattūr, who resides in Kuṉṟattūr in the Āmūr-nāṭu <supplied reason="subaudible">are as follows:</supplied></p>
-
-<p n="13-15">the boundary on the southern side is west of the garden of Maḻiṉai Nalluḻār;</p>
-            
-<p n="15-17">the boundary on the western side is north of the royal tank;</p>
-
-<p n="17-19">the boundary on the northern side is east of the tank of the chief of Māntai and of the great road;</p>
- 
-<p n="19-21"><supplied reason="subaudible">the boundary on the eastern side</supplied> is south of the boundary of Panappāṭi;</p>
-
+            <p n="7-21">The boundaries to the land purchased as pasture-land for calves from <supplied reason="explanation"><foreign>iṭai</foreign></supplied> Kōṉ Kaṇṭaṉ, son of Iḷa-naṭuvuṇār, the lord of Kuṉṟattūr, who resides in Kuṉṟattūr in the Āmūr-nāṭu <supplied reason="subaudible">are as follows:</supplied>
+               
+               <list>
+                  <item><supplied reason="subaudible">the boundary on the eastern side</supplied> is west of the garden of Maḻiṉai Nalluḻār;</item>
+                  
+                  <item>the boundary on the southern side is north of the royal tank;</item>
+                  
+                  <item>the boundary on the western side is east of the tank of the chief of Māntai and of the great road;</item>
+                  
+                  <item>the boundary on the northern side is south of the boundary of Panappāṭi.</item>
+               </list>
+               
+            </p>
+         
 <p n="21-25">The land comprised within these four boundaries, he<note>That is, Iṭaivalañcāṉ Kaṇṭaṉ.</note> bought <supplied reason="subaudible">it</supplied> from Kaṇṭaṉ, <supplied reason="subaudible">with</supplied> gold, and made the libation <supplied reason="explanation"><foreign>peytāṉ</foreign></supplied><note>Literally: "poured <supplied reason="subaudible">water</supplied>".</note> <supplied reason="subaudible">so as to enjoy it</supplied> for pasture-land for calves.</p>
 
 <p n="25-27">The feet <supplied reason="subaudible">of</supplied> he who protects this<note>That is, the present transaction.</note> without destroying <supplied reason="subaudible">it</supplied> are on my head.</p>
@@ -351,7 +351,10 @@
          <div type="bibliography">
 
             <p>
-            	Edited and translated by <bibl><ptr target="bib:KrishnaSastri1926_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 92);  re-edited with substantial corrections by <bibl><ptr target="bib:Lockwood+al2001_01"/></bibl>; re-edited here by Emmanuel Francis (2021), based on published visual documentation.           	
+            	Edited and translated by <bibl><ptr target="bib:KrishnaSastri1926_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 92);  re-edited with substantial corrections by <bibl><ptr target="bib:Lockwood+al2001_01"/></bibl>
+            </p>
+            <p>
+               This revised edition by Emmanuel Francis (2021), based on published visual documentation.           	
             </p>
 
             <listBibl type="primary">

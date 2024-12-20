@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Vilāppākkam rock, sculpture donation, time of Nantippōttaracar, year 50</title>
+            <title>Vilāppākkam, time of Nantippōttaracar, year 50</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,9 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Foundation <!--OK for an image?--> of an image of Poṉṉiyakkiyār and
-							Nākaṇandi by Nāraṇaṉ (Nārāyaṇa), son of Maruttuvar of
-							Pukaḻālaimaṅkalam.</summary>
+                  <summary>Rock inscription recording the installation of an image of Poṉṉiyakkiyār and Nākaṇandi by Nāraṇaṉ (Nārāyaṇa), son of Maruttuvar of Pukaḻālaimaṅkalam.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -139,12 +137,12 @@ In the fiftieth <supplied reason="subaudible">year</supplied> of Nandippōttarac
          
 <div type="bibliography">
             
-            <p>
-Edited in <bibl><ptr target="bib:Venkayya1896-1897_01"/></bibl> (EI 4.14), with facsimile and English translation; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 85).
-            </p>
+   <p>
+      Edited in <bibl><ptr target="bib:Venkayya1896-1897_01"/></bibl> (EI 4.14), with facsimile and English translation; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 85).
+   </p>
    <p>
       This revised edition by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:Venkayya1896-1897_01"/></bibl>.
-            </p>
+   </p>
             
 	<listBibl type="primary">
 		

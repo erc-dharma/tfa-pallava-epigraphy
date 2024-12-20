@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvallam rock inscription, time of Nandivarman, year 62</title>
+				<title>Tiruvallam, time of Nandivikramavarman, year 62</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary/>
+						<summary>Rock inscription recording ...</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -100,9 +100,9 @@
          	</p>
          	
          	<p>
-         		<hi rend="grantha">sakala-jagatra</hi>
+         		<hi rend="grantha">sakala-jaga<reg>t</reg>tra</hi>
          		<lb n="4" break="no"/>yā<hi rend="grantha">bhi</hi>va<hi rend="grantha">ndi</hi>ta-<hi rend="grantha">surāsurādhīśa-parameśvara-prati</hi> 
-         		<lb n="5" break="no"/><hi rend="grantha">hārikṛ</hi>ta-<hi rend="grantha">mahā</hi>va<hi rend="grantha">li-kulot·bha</hi>va-<hi rend="grantha">śrī</hi>-māvalivāṇa<hi rend="grantha">rā</hi>yar 
+         		<lb n="5" break="no"/><hi rend="grantha">hārikṛ</hi>ta-<hi rend="grantha">mahā</hi>va<hi rend="grantha">li-kulo<choice><orig>t</orig><reg>d</reg></choice>·bha</hi>va-<hi rend="grantha">śrī</hi>-māvalivāṇa<hi rend="grantha">rā</hi>yar 
          		<lb n="6"/>vaṭu<unclear>kava</unclear>ḻi <unclear>pa</unclear>ṉṉī<choice><orig>rr</orig><reg>r</reg></choice>āyiramum Āḻa v<unclear>āṇa</unclear>purattu 
          		<lb n="7"/>vaṭa-<unclear>c</unclear>ikara-kōyil putukkuvittu Itaṟku Iḷaṅ
          		<lb n="8" break="no"/>kiḻavar makaṉ maṉṟāṭiṭai Aḻiñciṟka<unclear>ḷam</unclear> paṭṭi <unclear>vi</unclear>laikku 
@@ -160,17 +160,7 @@
                   <lem>°jagatrayā°</lem>
                   <note>That, is <foreign><hi rend="grantha">jagat+trayā°</hi></foreign></note><!--Check EG-->
                </app>
-               
-               <app loc="5">
-                  <lem><hi rend="grantha">°kulot·bha</hi>va°</lem>
-                  <note>That is, <foreign><hi rend="grantha">°kulod·bha</hi>va°</foreign></note>
-               </app>
-               
-               <app loc="7">
-                  <lem>vaṭa-<unclear>c</unclear>ikara-kōyil</lem>
-                  <rdg source="bib:Hultzsch1899_01">vaṭa-<unclear>ci</unclear>kara-kōyil</rdg>
-               </app>
-               
+            
                <app loc="7">
                   <lem>Itaṟku</lem>
                   <rdg source="bib:Hultzsch1899_01">I<unclear>ta</unclear>ṟku</rdg>
@@ -223,32 +213,32 @@
 
 <div type="translation" source="bib:Hultzsch1899_01">
       	<p n="1">Ōm. Obeisance to Śiva! Hail! Prosperity!</p>
-      	<p n="2-9">In the sixty-second year <supplied reason="explanation">of the reign</supplied> of king Vijaya-Nandivikrama-varman, while the glorious Māvalivāṇarāya,— born from the family of Mahābali, who had been made door-keeper by the lord of gods and demons, Parameśvara <supplied reason="explanation">Śiva</supplied>, who is worshipped in all the three worlds,— was ruling the Vaṭu<unclear>kava</unclear>ḻi twelve-thousand,— I, <unclear>A</unclear>ridhiraṉ, the son of Mā<unclear>ta</unclear>ṉ, a goldsmith <supplied reason="explanation">and resident</supplied> of a house in the east of <unclear>A</unclear>ḷiṅganāpā<unclear>kka</unclear>m in <supplied reason="explanation">the district of</supplied> Ūṟṟukkāṭṭu-kōṭṭam,<note>7 See above, Vol. II. p. 345 and note 4.</note> caused to be renewed the Vaṭa-<unclear>ci</unclear>kara-kōyil<note>8 I.e. 'the temple with the tower in the north.'</note> at Vāṇapuram and gave to it the <supplied reason="explanation"><foreign>paṭṭi</foreign></supplied><note>9 On this term see above, Vol. II. p. 359, note 12.</note> <supplied reason="explanation">called</supplied> Aḻiñciṟka<unclear>ḷam</unclear>, <supplied reason="explanation">which I had</supplied> bought from Maṉṟāṭi, the son of Iḷaṅkiḻavar.</p>
+      	<p n="2-9">In the sixty-second year <supplied reason="explanation">of the reign</supplied> of king Vijaya-Nandivikrama-varman, while the glorious Māvalivāṇarāya,— born from the family of Mahābali, who had been made door-keeper by the lord of gods and demons, Parameśvara <supplied reason="explanation">Śiva</supplied>, who is worshipped in all the three worlds,— was ruling the Vaṭu<unclear>kava</unclear>ḻi twelve-thousand,— I, <unclear>A</unclear>ridhiraṉ, the son of Mā<unclear>ta</unclear>ṉ, a goldsmith <supplied reason="explanation">and resident</supplied> of a house in the east of <unclear>A</unclear>ḷiṅganāpā<unclear>kka</unclear>m in <supplied reason="explanation">the district of</supplied> Ūṟṟukkāṭṭu-kōṭṭam,<note>7 See above, Vol. II. p. 345 and note 4.</note> caused to be renewed the Vaṭa-<unclear>ci</unclear>kara-kōyil<note>8 I.e. ‘the temple with the tower in the north.’</note> at Vāṇapuram and gave to it the <supplied reason="explanation"><foreign>paṭṭi</foreign></supplied><note>9 On this term see above, Vol. II. p. 359, note 12.</note> <supplied reason="explanation">called</supplied> Aḻiñciṟka<unclear>ḷam</unclear>, <supplied reason="explanation">which I had</supplied> bought from Maṉṟāṭi, the son of Iḷaṅkiḻavar.</p>
 	<p n="10">Mahāvalivāṇarāya circumambulated the hamlet <supplied reason="explanation"><foreign>piṭākai</foreign></supplied> towards the right and granted <supplied reason="explanation">the land</supplied> enjoyed by the god, which <supplied reason="explanation">Aridhīraṉ</supplied> had given.</p>
-	<p n="11">The feet of him who protects this <supplied reason="explanation">charity</supplied>, <supplied reason="explanation">shall be</supplied> on my head.<note>1 See above, p. 39, note 4.</note> He who destroys this <supplied reason="explanation">charity</supplied>, shall incur the sin of one who kills the great men who are permanent <supplied reason="explanation">members</supplied><note>2 Literally, 'who do not rise.'</note> of the assembly.<note>3 The two Tamil words <foreign>iruvar</foreign> and <foreign>kaṭikai</foreign> correspond to  <foreign>mahājana</foreign> and <foreign>ghaṭige</foreign> in Cāḷukya inscription; Ep. Ind. Vol. III. p. 360.</note> If the destroyer of this <supplied reason="explanation">charity</supplied> does not fear this sin, we, <supplied reason="explanation">the inhabitants</supplied> of Vāṇapuram, shall pay a fine of one thousand <supplied reason="explanation"><foreign>kāṇam</foreign></supplied> to the palace of the king who is then ruling.<note>4 With அன்றாள் கொயில் compare அன்றார் கொ, above, Vol. I. pp. 113 and 115.</note></p>
+	<p n="11">The feet of him who protects this <supplied reason="explanation">charity</supplied>, <supplied reason="explanation">shall be</supplied> on my head.<note>1 See above, p. 39, note 4.</note> He who destroys this <supplied reason="explanation">charity</supplied>, shall incur the sin of one who kills the great men who are permanent <supplied reason="explanation">members</supplied><note>2 Literally, ‘who do not rise.’</note> of the assembly.<note>3 The two Tamil words <foreign>iruvar</foreign> and <foreign>kaṭikai</foreign> correspond to  <foreign>mahājana</foreign> and <foreign>ghaṭige</foreign> in Cāḷukya inscription; Ep. Ind. Vol. III. p. 360.</note> If the destroyer of this <supplied reason="explanation">charity</supplied> does not fear this sin, we, <supplied reason="explanation">the inhabitants</supplied> of Vāṇapuram, shall pay a fine of one thousand <supplied reason="explanation"><foreign>kāṇam</foreign></supplied> to the palace of the king who is then ruling.<note>4 With அன்றாள் கொயில் compare அன்றார் கொ, above, Vol. I. pp. 113 and 115.</note></p>
 <p n="15">Land has been granted by many kings, commencing with Sagara. Whosever
 <supplied reason="explanation">is</supplied> the earth at any time, his <supplied reason="explanation">is</supplied> then the reward <supplied reason="explanation">of gifts of land</supplied>.</p>
 	<note type="credit">Translation by Hultzsch (1899). Standardised according to DHARMA TG and EG.</note>
 </div>
          
-      	<div type="translation" xml:lang="fra" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
-      		<p n="1">Om. Homage to Śiva. Prosperity! Fortune!</p>
-      		<p n="2-3">Sixty-second year of the victorious king Nandivikramavarman.</p>
-      		<p n="3-9">I have given ...</p>
-      		<p n="9-11">The king Mahābalibāṇa has given ...</p>
-      		<p n="11-12">...</p>
-      		<p n="12-13">...</p>
-      		<p n="13-14">...</p>
-      		
-      		<p rend="stanza" n="1">
-      			<l>...</l>
-      			<l>...</l>
-      			<l>...</l>
-      			<l>...</l>
-      		</p>
-
-      	</div>
+	<p n="1">Om. Homage to Śiva. Prosperity! Fortune!</p>
+	<p n="2-3">Sixty-second year of the victorious king Nandivikramavarman.</p>
+	<p n="3-9">I have given ...</p>
+	<p n="9-11">The king Mahābalibāṇa has given ...</p>
+	<p n="11-12">...</p>
+	<p n="12-13">...</p>
+	<p n="13-14">...</p>
+	
+	<p rend="stanza" n="1">
+		<l>...</l>
+		<l>...</l>
+		<l>...</l>
+		<l>...</l>
+	</p>
+	
+</div>
 
          <div type="commentary">
          	
@@ -257,11 +247,14 @@
          	
          </div>
       	      	
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-Edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with facsimile and English translation (SII 3, n° 42); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 91); re-edited here by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>.
-</p>
+	<p>
+		Edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with facsimile and English translation (SII 3.42); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 91).
+	</p>
+	<p>
+		This revised edition by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>.
+	</p>
 
          	<listBibl type="primary">
          		
@@ -282,7 +275,7 @@ Edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with facsimile and En
          	
          	<listBibl type="secondary">
          		
-         		<bibl n="ARIE1889-1890">
+         		<bibl n="ARIE">
          			<ptr target="bib:ARIE1889-1890_01"/> <!--CHECK "_01"-->
          			<citedRange unit="page">5</citedRange>
          			<citedRange unit="appendix">A/1899</citedRange>
