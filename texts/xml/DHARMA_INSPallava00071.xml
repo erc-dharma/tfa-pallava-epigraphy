@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tiruvatikai slab</title>
+            <title>Tiruvatikai, slab, time of Paramēccurappōttaraiyar, year 3</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,8 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Donation of paddy and gold by Maṇiyaṉ, a devotee of the Mahādeva of
-							the Akatti<hi rend="grantha">śvara</hi>m temple in Aviṉūr.</summary>
+                  <summary>Donation of paddy and gold by Maṇiyaṉ, a devotee of the Mahādeva of the Akatti<hi rend="grantha">śvara</hi>m temple in Aviṉūr.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -106,7 +105,7 @@
       			<lb n="4" break="no"/><hi rend="grantha">śva</hi>rattu ma<hi rend="grantha">hāde</hi>var aṭiyāṉ maṇi
       			<lb n="5" break="no"/>yaṉ· tiru-p<unclear>·</unclear>-pali pōtavataṟkum tiru
       			<lb n="6" break="no"/>-Am<choice><orig>i</orig><reg>u</reg></choice><supplied reason="omitted">tu</supplied>kkum Oṭ·ṭi-p poli-y-ūṭṭu vait<unclear>·</unclear>ta
-      			<lb n="7"/>(pa)ric-āvatu
+      			<lb n="7"/><unclear>pa</unclear>ric-āvatu
       		</p>
       		
       		<p>
@@ -322,7 +321,7 @@
       		<p n="1">
       			Prosperity! Fortune!</p>
       		<p n="1-3">
-      			Third year of Paramēccurppōttaraiyar<note>That is, the Pallava king Parameśvara.</note>.</p>
+      			Third year of Paramēccurappōttaraiyar<note>That is, the Pallava king Parameśvara.</note>.</p>
       		<p n="3-7">
       			<supplied reason="subaudible">This is</supplied> the way that Maṇiyaṉ, the devotee <supplied reason="explanation"><foreign>atiyāṉ</foreign></supplied> of the Mahādeva of the glorious Akattiśvaram at Aviṉūr, gave interests so as provide <supplied reason="explanation"><foreign>oṭṭi</foreign></supplied> for the food-offerings <supplied reason="explanation"><foreign>amutu</foreign></supplied> and for what is adequate <supplied reason="explanation"><foreign>pōtavataṟku</foreign></supplied> <supplied reason="subaudible">for</supplied> the glorious offerings <supplied reason="explanation"><foreign>pali</foreign><note>That is, Sanskrit <foreign>bali</foreign>.</note></supplied>:</p>
       		<p n="7-10"/>

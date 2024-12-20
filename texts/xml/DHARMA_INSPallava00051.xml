@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mahābalipuram, Ādivarāha cave, curse, no king, no year</title>
+            <title>Mahābalipuram, Ādivarāha cave, curse</title>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:sybr">
@@ -100,7 +100,7 @@
          			<lb n="1"/>dhik teṣān dhik teṣāṁ punar api dhig dhig dhig astu dhik teṣāṁ
          		</l>
          		<l n="cd">
-         			yeṣān na vasati hṛdaye <lb n="2"/>k<unclear>u</unclear>-patha-gati -vimokṣako rudraḥ <g type="ddanda">.</g>
+         			yeṣān na vasati hṛdaye <lb n="2"/>k<unclear>u</unclear>-patha-gati-vimokṣako rudraḥ <g type="ddanda">.</g>
          		</l>
          		            	            	
             </lg>
@@ -145,7 +145,7 @@
       	<div type="bibliography">
       		
             <p>
-Edited in <bibl><ptr target="bib:KrishnaSastri1926_01"/></bibl>, with a facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 51); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 36b); <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR no. 62).</p>
+Edited in <bibl><ptr target="bib:KrishnaSastri1926_01"/></bibl>, with a facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 51); text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 36b); <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 62).</p>
       	   <p>This edition by Sylvain Brocquet &amp; Emmanuel Francis (2020), based on autopsy and photographs.</p>
 
             <listBibl type="primary">

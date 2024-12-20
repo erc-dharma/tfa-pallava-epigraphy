@@ -8,8 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Uttiramērūr, Vaikuṇṭhaperumāḷ, larger platform, southern base, time of
-					Nandivarman, year 24 </title>
+            <title>Uttiramērūr, Vaikuṇṭhaperumāḷ, time of Nandivarman, year 24 </title>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:emfr">
@@ -41,7 +40,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary></summary>
+                  <summary>Larger platform, southern base.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
