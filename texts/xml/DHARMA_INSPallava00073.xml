@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tiruveḷḷaṟai, Puṇḍarikākṣaperumāḷ, time of Nandivarman II, year 10</title>
+            <title>Tiruveḷḷaṟai, Puṇḍarikākṣaperumāḷ, time of Nandivarman, year 10</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -95,7 +95,7 @@
       			<lb n="1"/>svasti śrī
       		</ab>
       		<p>
-      			na<hi rend="grantha">n=di-parmma</hi><choice><orig>k</orig><reg>rk</reg></choice>ku yā<unclear>ṇṭu</unclear>
+      			na<hi rend="grantha">n=di-parmma</hi><reg>r</reg>kku yā<unclear>ṇṭu</unclear>
       			<lb n="2"/><num value="10"><g type="numeral">10</g></num> ÷
       		</p>
       		<p>
@@ -126,7 +126,7 @@
 <div type="translation" resp="part:emfr">
       		
     <p n="1">Prosperity! Fortune!</p>
-    <p n="1-2">10th year of Nandivarman.</p>
+    <p n="1-2">10th year of Nandivarman<note>That is, the Pallava king Nandivarman II.</note>.</p>
     <p n="2-3">to Nandivarman <gap reason="lost"/> the ornament of the Pallava lineage</p>
     <p n="4-5">Vicaiyanalluḻāṉ <gap reason="lost"/> the banner of the Āditya lineage</p>
     <p n="6-9">[too lacunose to be translated]</p>

@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mallām, donation, time of Nandivarman II, year 35</title>
+            <title>Mallām, donation, time of Nantippōttaracar, year 35</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -174,7 +174,7 @@
       	<div type="translation" resp="part:emfr">
       		
       		<p n="1">Prosperity! Fortune!</p>
-      		<p n="1-2">Twenty-fifth <supplied reason="subaudible">year</supplied> of Nantippōttaracar.</p>
+      		<p n="1-2">Twenty-fifth <supplied reason="subaudible">year</supplied> of Nantippōttaracar<note>That is, the Pallava king Nandivarman II.</note>.</p>
       		<p n="2-9"><supplied reason="subaudible">For</supplied> the Subrahmaṇya of Tiruvāṉpūr in the Peyyūriḷaṅkōṭṭam, in that manner, <seg cert="low">among</seg> <supplied reason="explanation"><foreign>-uḷḷum</foreign></supplied> fifty-five <foreign>kaḻañcu</foreign>s of gold, we have ordered/declared <supplied reason="subaudible">these/some of these</supplied> <foreign>kaḻañcu</foreign>s of gold that the Matuvārs had given as tax-free land for a lamp <seg cert="low">and offerings</seg>, at the request/petition of Āḷuva Aracar whereas the order/execution was <supplied reason="subaudible">by</supplied> Caḷukki Aracar.</p>
       		<p n="9-10">The <foreign>nāṭṭār</foreign>s, the <foreign>Ūrār</foreign>s, and the ruler shall not forget <supplied reason="explanation"><foreign>maṟavaṟka</foreign></supplied> this pious act <supplied reason="explanation"><foreign>aṟam</foreign></supplied>!<!--Check translation: aṟam + maṟavaṟka!--></p>
       		
@@ -189,9 +189,11 @@
       	
 <div type="bibliography">
 
-            <p>
-Edited in <bibl><ptr target="bib:Butterworth+VenugopaulChetty1905_01"/></bibl>; re-edited, with improvements, in <bibl><ptr target="bib:Mahalingam1960_03"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP n° 75); re-edited here by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:Butterworth+VenugopaulChetty1905_01"/></bibl>.
-            </p>
+   <p>
+      Edited in <bibl><ptr target="bib:Butterworth+VenugopaulChetty1905_01"/></bibl>; re-edited, with improvements, in <bibl><ptr target="bib:Mahalingam1960_03"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 75).</p>
+   <p>
+      This revisied edition by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:Butterworth+VenugopaulChetty1905_01"/></bibl>.
+   </p>
 
 	<listBibl type="primary">
 		

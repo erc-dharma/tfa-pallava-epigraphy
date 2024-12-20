@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Vilāppākkam rock, sculpture donation, time of Dantivarman, year 50</title>
+            <title>Vilāppākkam rock, sculpture donation, time of Nantippōttaracar, year 50</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -111,18 +111,19 @@
 </div>
       	
 <div type="translation" source="bib:Venkayya1896-1897_01">
+   <note type="credit">Translation by Venkayya (1996-1897). Standardised according to DHARMA TG and EG.</note>
 
 <p>
 In the fiftieth <supplied reason="subaudible">year</supplied> of Nandippōttaracar,— Nāraṇaṉ <supplied reason="explanation">Nārāyaṇa</supplied>, the son of Maruttuvar<note>The word <foreign>maruttuvaṉ</foreign>  means ‘a physician.’ In the present case it seems to be the proper name of a person.</note> of Pugaḻālaimaṅkalam, caused to be engraved an image of Poṉṉiyakkiyār, along with<note>Literally: “while there is present.”</note> the preceptor (<foreign>gurava</foreign>)<note>On this word, which appears to be derived from the honorific plural of <foreign>guru</foreign>, see <hi rend="italic">South-Indian Inscriptions</hi>, Vol. II. p. 251, note 3.</note> Nāgaṇandi <supplied reason="explanation">Nāganandin</supplied>.
 </p>
-	<note type="credit">Translation by Venkayya (1996-1897). Standardised according to DHARMA TG and EG.</note>
+	
 
 </div>
          
 <div type="translation" resp="part:emfr">
       
-<p>Fiftieth <supplied reason="subaudible">year</supplied> of Nantippōttaracar <supplied reason="explanation">that is, Nandippōtaraiyar, Nandivarman</supplied>.</p>
-<p>Nāraṇaṉ <supplied reason="explanation">Nārāyaṇa</supplied>, son of Maruttuvar of Pukaḻālaimaṅkalam, caused to be engraved <supplied reason="subaudible">this</supplied> image of Poṉṉiyakkiyār accompanied with <supplied reason="explanation">irukka</supplied> the Preceptor Nākaṇandi.</p>
+<p>Fiftieth <supplied reason="subaudible">year</supplied> of Nantippōttaracar <note>That is, the Pallava king Nandivarman.</note>.</p>
+<p>Nāraṇaṉ <note>That is, Sanskrit Nārāyaṇa.</note>, son of Maruttuvar of Pukaḻālaimaṅkalam, caused to be engraved <supplied reason="subaudible">this</supplied> image of Poṉṉiyakkiyār accompanied with <supplied reason="explanation">irukka</supplied> the Preceptor Nākaṇandi.</p>
 
 </div>
                   
@@ -139,7 +140,10 @@ In the fiftieth <supplied reason="subaudible">year</supplied> of Nandippōttarac
 <div type="bibliography">
             
             <p>
-Edited in <bibl><ptr target="bib:Venkayya1896-1897_01"/></bibl> (EI 4, no. 14), with facsimile and English translation; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 85); re-edited here by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:Venkayya1896-1897_01"/></bibl>.
+Edited in <bibl><ptr target="bib:Venkayya1896-1897_01"/></bibl> (EI 4.14), with facsimile and English translation; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 85).
+            </p>
+   <p>
+      This revised edition by Emmanuel Francis (2020), based on the facsimile published in <bibl><ptr target="bib:Venkayya1896-1897_01"/></bibl>.
             </p>
             
 	<listBibl type="primary">
@@ -159,7 +163,7 @@ Edited in <bibl><ptr target="bib:Venkayya1896-1897_01"/></bibl> (EI 4, no. 14), 
 	
 	<listBibl type="secondary">
 				
-		<bibl n="ARIE 1894-1895">
+		<bibl n="ARIE">
 			<ptr target="bib:ARIE1894-1895"/>
         			<citedRange unit="page">10</citedRange>
         			<citedRange unit="appendix">B/1895</citedRange>
