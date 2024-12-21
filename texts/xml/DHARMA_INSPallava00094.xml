@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Uḻalūr land donation, time of Nandivarman II</title>
+            <title>Uḻalūr, time of Nantippōttaraiyar</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Land donation.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -122,7 +122,7 @@
 
          <div type="translation" resp="part:emfr">
          	<p>Prosperity! Fortune!</p>
-         	<p>To the <foreign>koṭukkappiḷḷai</foreign>s <supplied reason="explanation"><foreign>koṭukkappiḷḷaikaḷ</foreign></supplied> <supplied reason="subaudible">at the service of</supplied> Nantippōttaraiyar:</p> 
+         	<p>To the <foreign>koṭukkappiḷḷai</foreign>s <supplied reason="explanation"><foreign>koṭukkappiḷḷaikaḷ</foreign></supplied> <supplied reason="subaudible">at the service of</supplied> Nantippōttaraiyar<note>That is, the Pallava king Nandin, that is, Nandivarman II.</note>:</p> 
          	<p>"<supplied reason="subaudible">We,</supplied> the <foreign>ūrār</foreign>s of Uḻalūr, according to <supplied reason="explanation"><foreign>paṭi</foreign></supplied> the <foreign>makaḷmai</foreign>, after having made a request to the lord <supplied reason="explanation"><foreign>perumāṉaṭikaḷukku</foreign></supplied>, we have given with <supplied reason="explanation"><foreign>koṇṭu</foreign></supplied> all immunities."</p>
          	<p>As per the above <supplied reason="explanation"><foreign>mēlālum</foreign></supplied>, the <foreign>koṭukkappiḷḷai</foreign>s:</p>
          	<p>"The feet of he who protects this <supplied reason="explanation">donation</supplied> are on <supplied reason="subaudible">our</supplied> heads <supplied reason="explanation">literally: tufts</supplied>."</p> 
@@ -130,9 +130,9 @@
          	</p>
          </div>
       	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
+         <!--<div type="translation" xml:lang="fra" resp="part:emfr">
          	
-         </div>
+         </div>-->
 
          <div type="commentary"><!--Update!-->
          	<p n="2, 6"><foreign>koṭukkappiḷḷaikaḷ</foreign>: ...</p>
@@ -144,7 +144,7 @@
 
             <p>
 Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.453); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 94).</p>
-            <p>Edited here and translated by Emmanuel Francis, based on a partial photographic documentation (2008).
+            <p>This edition by Emmanuel Francis, based on a partial photographic documentation (2008).
             </p>
 
          	<listBibl type="primary">
@@ -165,7 +165,7 @@ Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.453); 
          	
          	<listBibl type="secondary">
          		         		
-         		<bibl n="ARIE 1898-1899">
+         		<bibl n="ARIE">
          			<ptr target="bib:ARIE1898-1899"/>
          			<citedRange unit="page">23</citedRange>
          			<citedRange unit="appendix">B/1899</citedRange>

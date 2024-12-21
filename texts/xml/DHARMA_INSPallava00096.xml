@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Uttiramērūr, donation, no king, no year</title>
+            <title>Uttiramērūr, Vaikuṇṭhaperumāḷ, no king, no year</title>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:emfr">
@@ -40,7 +40,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Land donation.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -90,7 +90,7 @@
    <lb n="1"/>svasti śrī
 </ab>
         		
-<p>tiruppulivalattu <hi rend="grantha">mahāde</hi>varkku malliyaṉ kārāṇai nālu paṭṭi nilam oru tiraḷ-ē-y a<hi rend="grantha">rcca</hi>nā-<hi rend="grantha">bhoga</hi>m-āka vaittōm ut=ta<hi rend="grantha">ra<lb n="2" break="no"/>meru-ca</hi>tu<hi rend="grantha">rvvedi</hi>-maṅkalattu <hi rend="grantha">sabhai</hi>yōm</p>
+<p>tiru-p-pulivalattu <hi rend="grantha">mahā-de</hi>varkku malliyaṉ kārāṇai nālu paṭṭi nilam oru tiraḷ-ē-y a<hi rend="grantha">rcca</hi>nā-<hi rend="grantha">bhoga</hi>m-āka vaittōm ut=ta<hi rend="grantha">ra<lb n="2" break="no"/>meru-ca</hi>tu<hi rend="grantha">rvvedi</hi>-maṅkalattu <hi rend="grantha">sabhai</hi>yōm</p>
         		
 <p>itu <hi rend="grantha">pārā</hi>yaṇa-<hi rend="grantha">mārgga</hi>m vē<hi rend="grantha">da</hi>m vallaṉ āy <hi rend="grantha">ukta</hi>ṉ-ākiya <hi rend="grantha">brāhma</hi>ṇaṉ brahmācāri-y-ē-y mūṉṟu poḻutu<lb n="3" break="no"/><unclear>m<!--check on stone--></unclear> <hi rend="grantha">ārādhi</hi>tt' uṇpat’ ākavum</p>
         		
@@ -107,9 +107,10 @@
             	
 <p>Prosperity! Fortune!</p>
 
-<p>We the members of the assembly <supplied reason="explanation"><foreign>sabhā</foreign></supplied> of Uttaramērucaturvedimaṅkalam, we have allotted <supplied reason="explanation"><foreign>vaittōm</foreign></supplied> one land of four <foreign>paṭṭi</foreign> Malliyaṉ, as a single plot <supplied reason="explanation"><foreign>tiraḷ-ē</foreign></supplied>, as <foreign>arcanābhoga</foreign>, to the great god of Tiruppulivanam.</p>
+<p>We the members of the assembly <supplied reason="explanation"><foreign>sabhā</foreign></supplied> of Uttaramērucaturvedimaṅkalam, we have allotted <supplied reason="explanation"><foreign>vaittōm</foreign></supplied> one land of four <foreign>paṭṭi</foreign>s <supplied reason="subaudible">named
+</supplied> <foreign>kārāṇai</foreign> of Malliyaṉ, as a single plot <supplied reason="explanation"><foreign>tiraḷ-ē</foreign></supplied>, as <foreign>arcanābhoga</foreign>, to the great god of Tiruppulivanam.</p>
 
-<p>This should be for feeding <supplied reason="explanation"><foreign>uṇpatu</foreign></supplied> a Brahmin, who is reputed as <supplied reason="explanation"><foreign>uktaṉ-ākiya</foreign></supplied> skilled in the Vedas and the proper way of its recitation and who is a <foreign>brahmācārin</foreign>, for making worship <supplied reason="explanation"><foreign>ā<hi rend="grantha">rādhi</hi>tt</foreign></supplied> three times <supplied reason="subaudible">a day</supplied>.</p>
+<p>This should be for feeding <supplied reason="explanation"><foreign>uṇpatu</foreign></supplied> a Brahmin, who is reputed as <supplied reason="explanation"><foreign>uktaṉ-ākiya</foreign></supplied> skilled in the Vedas and the proper way of its recitation and who is a <foreign>brahmācārin</foreign>, for making worship <supplied reason="explanation"><foreign>ā<hi rend="grantha">rādhi</hi>ttu</foreign></supplied> three times <supplied reason="subaudible">a day</supplied>.</p>
         	
 <p>In this manner <supplied reason="explanation"><foreign>ipparicu</foreign></supplied> we have alloted <supplied reason="subaudible">this</supplied> for a limit of three years for each entrant <supplied reason="explanation"><foreign>pukkār pukkārkku</foreign></supplied>.</p>
 
@@ -122,11 +123,14 @@
     		
     	</div>
             
-    	<div type="bibliography">
+<div type="bibliography">
     		
-<p>
-Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 355); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 96); re-edited here  by Emmanuel Francis (2020), based on autopsy and photographs (2019).
-</p>
+   <p>
+      Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.355); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 96).
+   </p>
+   <p>      
+      This revised edition by Emmanuel Francis (2020), based on autopsy and photographs (2019).
+   </p>
     		
     		<listBibl type="primary">
     			
@@ -144,7 +148,7 @@ Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 3
     		</listBibl>
     		
     		<listBibl type="secondary">
-    			<bibl n="ARIE 1897-1898">
+    			<bibl n="ARIE">
     				<ptr target="bib:ARIE1897-1898"/>
     				<citedRange unit="page">18</citedRange>
     				<citedRange unit="appendix">B/1898</citedRange>
