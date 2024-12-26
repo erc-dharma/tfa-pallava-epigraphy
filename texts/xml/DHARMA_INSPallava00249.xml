@@ -161,19 +161,19 @@ First tentatively edited and translated into French and into English by <bibl><p
 
             <listBibl type="primary">
             	
-            	<bibl n="GJD1">
+            	<bibl n="JD1">
             		<ptr target="bib:Jouveau-Dubreuil1916_01"/>
             		<citedRange unit="page">65-66</citedRange>
             		<citedRange unit="plate">XXXII (facing page 65)</citedRange>
             	</bibl>
             	
-            	<bibl n="GJD2">
+            	<bibl n="JD2">
             		<ptr target="bib:Jouveau-Dubreuil1916-1917_01"/>
             		<citedRange unit="page">63-65</citedRange>
             		<citedRange unit="plate">XXXII (facing page 61)</citedRange>
             	</bibl>
             	
-            	<bibl n="VVA">
+            	<bibl n="SII">
             		<ptr target="bib:VenkatasubbaAyyar1943_01"/>
             		<citedRange unit="item">115</citedRange>
             		<citedRange unit="page">54</citedRange>
@@ -186,7 +186,7 @@ First tentatively edited and translated into French and into English by <bibl><p
             		<citedRange unit="page">623</citedRange>
             	</bibl>
             	
-            	<bibl n="SB">
+            	<bibl n="B">
             		<ptr target="bib:Brocquet1997_01"/>
             		<citedRange unit="item">68</citedRange>
             		<citedRange unit="page">776</citedRange>
@@ -196,7 +196,7 @@ First tentatively edited and translated into French and into English by <bibl><p
 
          	<listBibl type="secondary">
          		
-         		<bibl n="ARIE 1915-1916">
+         		<bibl n="ARIE">
          			<ptr target="bib:ARIE1915-1916"/>
          			<citedRange unit="page">92</citedRange>
          			<citedRange unit="appendix">C/1916</citedRange>

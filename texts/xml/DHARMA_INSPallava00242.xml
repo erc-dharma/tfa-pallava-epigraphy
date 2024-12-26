@@ -223,7 +223,7 @@
 				
 				<listBibl type="primary">
 					
-					<bibl n="VVA">
+					<bibl n="SII">
 						<ptr target="bib:VenkatasubbaAyyar1943_01"/>
 						<citedRange unit="page">40</citedRange>
 						<citedRange unit="item">91</citedRange>
@@ -241,7 +241,7 @@
 				<listBibl type="secondary">
 					
 					<bibl>
-					<ptr target="bib:ARIE1912-1913"/>
+					<ptr target="bib:ARIE"/>
 						<citedRange unit="page">24</citedRange>
 						<citedRange unit="appendix">B/1912</citedRange>
 						<citedRange unit="item">163</citedRange>
