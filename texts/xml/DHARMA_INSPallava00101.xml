@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Uttiramērūr, donation, time of Dantivarman, year 7</title>
+            <title>Uttiramērūr, time of Dantivarman, year 7</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Donation.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -130,12 +130,7 @@
        
     	<div type="apparatus">
     		<listApp>
-    			
-    			<app loc="3">
-    				<lem>°cilavum</lem>
-    				<note>Read <foreign>°celavum</foreign>.</note>
-  			</app>
-    			
+    		
     			<app loc="4">
     				<lem>koṇ·ṭō<unclear>m e</unclear></lem>
     				<note>At the end of the line, after a blank space, one reads <foreign>lluṭai</foreign>, which is most probably part of another inscription.</note> <!--Check reading lluṭai and confirm that it belongs to another inscription-->
@@ -170,11 +165,11 @@
     	<div type="bibliography">
 
 <p>
-	Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 365); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 101); re-edited and translated here by Emmanuel Francis (2020), based on autopsy and photographs (2019).
-</p>
+	Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.365); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 101).</p>
+    	 <p>This revised edition by Emmanuel Francis (2020), based on autopsy and photographs (2019).</p>
 
     		<listBibl type="primary">
-    			<bibl n="KVSA">
+    			<bibl n="SII">
     				<ptr target="bib:SubrahmanyaAiyer1928_01"/>
     				<citedRange unit="item">365</citedRange>
     				<citedRange unit="page">169</citedRange>
@@ -188,7 +183,7 @@
     		
     		<listBibl type="secondary">
     			
-    			<bibl n="ARIE 1897-1898">
+    			<bibl n="ARIE">
     				<ptr target="bib:ARIE1897-1898"/>
     				<citedRange unit="page">18</citedRange>
     				<citedRange unit="appendix">B/1898</citedRange>

@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Uttiramērūr, donation, time of Dantivarman, year 9</title>
+            <title>Uttiramērūr, time of Dantippōttaracar, year 9</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Donation.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -91,9 +91,9 @@
       <body>
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
             
-            <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-	<lb n="1"/>svasti śrī
-</ab>
+   <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+      <lb n="1"/>svasti śrī
+   </ab>
 <p>
 	<hi rend="grantha">da</hi>n=tippōttaracarkku yāṇṭ’ oṉpat-āvatu
 </p>
@@ -142,29 +142,27 @@
       			Prosperity! Fortune!
       		</p>
       		<p n="1">
-      			Ninth year of Dantippōttaracar <supplied reason="explanation">Dantivarman</supplied>.
+      			Ninth year of Dantippōttaracar<note>That is, the Pallva king Danti.</note>.
       		</p>
       		<p n="1">
-      			Writ <supplied reason="explanation"><foreign>eḻuttu</foreign></supplied> of We the members of the assembly <supplied reason="explanation"><foreign>sabhā</foreign></supplied> of Uttaramerucaturvedimaṅgalam:
+      			Writ <supplied reason="explanation"><foreign>eḻuttu</foreign></supplied> of We the members of the assembly <supplied reason="explanation"><foreign>sabhā</foreign></supplied> of Uttaramerucaturvedimaṅgalam
       		</p>
       		<p n="1-6">
-      			Translation to be completed.<!--Update-->
+      			...
       		</p>
       	</div>
       	      	
-      	<div type="commentary"/>
-      		
+      	<div type="commentary"/>      		
       	
         
-      	<div type="bibliography">
+<div type="bibliography">
 
- <p>
- Edited with a facsimile in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 359); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 102); re-edited and translated here by Emmanuel Francis (2020), based on autopsy and photographs (2019).
-</p>
-      		
+   <p>Edited with a facsimile in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.359); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 102).</p>
+   <p>This revised edition by Emmanuel Francis (2020), based on autopsy and photographs (2019).</p>
+   
 <listBibl type="primary">
             
-	<bibl n="KVSA">
+	<bibl n="SII">
          		<ptr target="bib:SubrahmanyaAiyer1928_01"/>
          		<citedRange unit="item">359</citedRange>
          		<citedRange unit="page">167</citedRange>
@@ -178,7 +176,7 @@
 
 <listBibl type="secondary">
 	
-	<bibl n="ARIE 1897-1898">
+	<bibl n="ARIE">
 		<ptr target="bib:ARIE1897-1898"/>
 		<citedRange unit="page">18</citedRange>
 		<citedRange unit="appendix">B/1898</citedRange>
