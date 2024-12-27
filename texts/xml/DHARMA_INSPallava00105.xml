@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Triplicane donation by Pukaḻ Tuṇai, time of Dantivarman, year 12.</title>
+            <title>Triplicane, time of Dantivarman, year 12</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -169,15 +169,18 @@
                                    
          </div>
          
-         <div type="translation" resp="part:emfr">
-         	
-         </div>
+<div type="translation" resp="part:emfr">
+   
+   <p n="1">
+      Prosperity! Fortune!
+   </p>
+   
+   <p n="1-4">
+       Twelfth year of ...
+   </p>
+</div>
       	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
-         	
-         </div>
-
-         <div type="commentary">
+<div type="commentary">
             <p>
                The non-availability of visual documentation prevents a faithfull representation of the spelling, due to the inprecise extant editions. Some Grantha characters and initial vowels might be unmarked.<!--Update!-->
             </p>
@@ -189,11 +192,12 @@
          <div type="bibliography">
 
             <p>
-               Edited in <bibl><ptr target="bib:Venkayya1905-1906_01"/></bibl> (EI 8, no. 29); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 105); encoded here by Emmanuel Francis (2021), based on previous editions.      </p>
+               Edited in <bibl><ptr target="bib:Venkayya1905-1906_01"/></bibl> (EI 8.29); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 105).</p>
+            <p>This digital edition by Emmanuel Francis (2021), based on previous editions.</p>
 
             <listBibl type="primary">
                
-               <bibl n="VV">
+               <bibl n="EI">
                   <ptr target="bib:Venkayya1905-1906_01"/>
                   <citedRange unit="volume">1</citedRange>
                   <citedRange unit="page">23</citedRange>
@@ -212,7 +216,7 @@
             <listBibl type="secondary">
                
                <bibl>
-                  <ptr target="bib:ARIE1903-1904"/>
+                  <ptr target="bib:ARIE"/>
                   <citedRange unit="page">22</citedRange>
                   <citedRange unit="appendix">A/1903</citedRange>
                   <citedRange unit="item">234</citedRange>

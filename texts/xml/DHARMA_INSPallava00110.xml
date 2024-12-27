@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Guḍimallam, Parameśurāmeśvara temple, stele, time of Dantivarman, year 49</title>
+            <title>Guḍimallam, time of Dantivikramavarman, year 49</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,13 +47,13 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Donation of land for the upkeep of a tank.</summary>
+                  <summary>Stele inscription recording a donation of land for the upkeep of a tank. Parameśurāmeśvara temple at Guḍimallam.</summary>
                </msContents>
-               <!--<physDesc>
+               <physDesc>
                   <handDesc>
                      <p/>
                   </handDesc>
-               </physDesc>-->
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
@@ -220,7 +220,7 @@
   	   </p>
   	   
   	   <p n="1-5">
-  	      Fourty-ninth year of the victorious king Dantivikramavarman.
+  	      Fourty-ninth year of the victorious king Dantivikkiramaparumaṉ<note>Sanskrit Dantivikramavarman.</note>.
   	   </p>
   	   
   	   <p n="5-22">
@@ -252,21 +252,22 @@
   	<div type="commentary"/>
   	
   	
-  	<div type="bibliography">
+  <div type="bibliography">
   		
 <p>
-Edited and translated into English in <bibl><ptr target="bib:GopinathaRao1911_01"/></bibl>; re-edited and translated into English in <bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> (EI 11, no. 22), with facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 110);  re-edited and translated here by Emmanuel Francis (2020), based on photographs (2019) kindly provided by Valérie Gillet.
+Edited and translated into English in <bibl><ptr target="bib:GopinathaRao1911_01"/></bibl>; re-edited and translated into English in <bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> (EI 11.22), with facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 110).</p>
+     <p>This revised edition by Emmanuel Francis (2020), based on photographs (Valérie Gillet, 2019).
 </p>
   		
   		<listBibl type="primary">
   			
-  			<bibl n="GR">
+  			<bibl n="IA">
   				<ptr target="bib:GopinathaRao1911_01"/>
   				<citedRange unit="item">E</citedRange>
   				<citedRange unit="page">113-114</citedRange>
   			</bibl>
   			
-  			<bibl n="V">
+  			<bibl n="EI">
   				<ptr target="bib:Venkayya1911-1912_01"/>
   				<citedRange unit="item">B</citedRange>
   				<citedRange unit="page">225-226</citedRange>
@@ -282,7 +283,7 @@ Edited and translated into English in <bibl><ptr target="bib:GopinathaRao1911_01
   		
   		<listBibl type="secondary">  			
   			
-  			<bibl n="ARIE 1903-1904">
+  			<bibl n="ARIE">
     				<ptr target="bib:ARIE1903-1904"/>
     				<citedRange unit="page">22</citedRange>
     				<citedRange unit="appendix">A/1903</citedRange>

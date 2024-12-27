@@ -8,8 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Uttiramērūr, Vaikuṇṭhaperumāḷ, larger platform, southern base, time of
-					Dantivarman, year 21</title>
+            <title>Uttiramērūr, Vaikuṇṭhaperumāḷ, time of Dantivikramavarman, year 21</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -48,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Vaikuṇṭhaperumāḷ, larger platform, southern base.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -157,7 +156,7 @@
       			Prosperity! Fortune!
       		</p>
       		<p n="1">
-      			Twenty-first year and day one hundred twenty-two of Dantivikramavarman.
+      			Twenty-first year and day one hundred twenty-two of Dantivikramaparmmar<note>Sanskrit Dantivikramavarman</note>.
       		</p>
       		<p n="1">Decision <supplied reason="explanation"><foreign>vyavasthā</foreign></supplied> that We, the members of the assembly of Uttaramērucaturrvedimaṅgala, did.</p>
       		<p n="1-3">Whereas the cultivators <supplied reason="explanation"><foreign>kuṭikaḷ</foreign></supplied> who owns land in our village, after saying “Let us make the boundary assessment" <supplied reason="explanation"><foreign><hi rend="grantha">sāmantu</hi></foreign></supplied>, made the the boundary assessment, of whatsoever kind that has come <supplied reason="explanation"><foreign>vantaṉa</foreign></supplied>, many cultivators <supplied reason="explanation">kuṭi palavum</supplied>, coming forward <supplied reason="explanation"><foreign>muṉ niṉṟu</foreign>, literally "standing in front"</supplied> <supplied reason="subaudible">as</supplied> land-owners <supplied reason="subaudible">and</supplied> not able to provide gold <supplied reason="subaudible">according</supplied> to the boundary assessment, did not provide gold <supplied reason="explanation"><foreign>poṉ iṭātār</foreign></supplied> gold, because of having left<supplied reason="explanation"><foreign>pōṉamaiyil</foreign></supplied> <supplied reason="subaudible">the village</supplied> without coming <supplied reason="subaudible">forward to pay this due</supplied> <supplied reason="explanation"><foreign>niṟkkamāṭṭātu</foreign></supplied>, let it be engraved <supplied reason="subaudible">in</supplied> letters on the stone of the <foreign>maṇḍapa</foreign> <supplied reason="explanation"><foreign>maṇṭakattu</foreign></supplied> that, We, the members of the village committee <supplied reason="explanation"><foreign>ūrōm</foreign></supplied>, after having provided gold <supplied reason="explanation"><foreign>poṉ iṭṭu</foreign></supplied> <supplied reason="subaudible">and</supplied> having made the boundary assessment for the Vajramegha tank in our village <supplied reason="subaudible">as per</supplied> the extent <supplied reason="explanation"><foreign>aḷavu</foreign></supplied> which is necessary <supplied reason="explanation"><foreign>vēṇtum</foreign></supplied> for the gold <supplied reason="subaudible">due for</supplied> his <supplied reason="explanation">i.e. the defaulter</supplied> land, we gave it for sale.</p>
@@ -176,20 +175,19 @@
       		<p n="4-5"><foreign>veṭṭi-p pōka iṭu<unclear>vat’ ā</unclear>kavum</foreign>. See EI, p. 34. Literally: "...".</p>
       	</div>      		      	      
       	
-      	<div type="bibliography">
+<div type="bibliography">
 
- <p>
- 	Edited in Subrahmanya Aiyer <bibl rend="omitname"><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 334); re-edited and translated by Subrahmanya Aiyer <bibl rend="omitname"><ptr target="bib:SubrahmanyaAiyer1936-1937_01"/></bibl> (EI 24, no. 7/A); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 109); re-edited and first translated here by Emmanuel Francis (2020), from autopsy and photographs (2019).
-</p>	
+   <p>Edited in Subrahmanya Aiyer <bibl rend="omitname"><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.334); re-edited and translated by Subrahmanya Aiyer <bibl rend="omitname"><ptr target="bib:SubrahmanyaAiyer1936-1937_01"/></bibl> (EI 24.7A); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 109).</p>
+   <p>This revised edition by Emmanuel Francis (2020), from autopsy and photographs (2019).</p>	
       		
       		<listBibl type="primary">
       			
-      			<bibl n="KVSA 1928">
+      			<bibl n="SII">
       				<ptr target="bib:SubrahmanyaAiyer1928_01"/>
       				<citedRange unit="page">161</citedRange>
       				<citedRange unit="item">344</citedRange>
       			</bibl>
-      			<bibl n="KVSA 1936-1937">
+      			<bibl n="SA">
       				<ptr target="bib:SubrahmanyaAiyer1936-1937_01"/>
       				<citedRange unit="page">29-34</citedRange>
       			</bibl>
@@ -202,7 +200,7 @@
       		
       		<listBibl type="secondary">
       			
-      			<bibl n="ARIE 1897-1898">
+      			<bibl n="ARIE">
       				<ptr target="bib:ARIE1897-1898"/>
       				<citedRange unit="page">18</citedRange>
       				<citedRange unit="appendix">B/1898</citedRange>
