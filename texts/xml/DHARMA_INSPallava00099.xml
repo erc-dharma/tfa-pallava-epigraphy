@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kunnāṇṭārkōyil</title>
+            <title>Kunnāṇṭārkōyil, time of Tantipōttaraiyaṉ, year 5</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -154,7 +154,7 @@
       		</p>
       		
       		<p n="1-3">
-      			5th year of the victorious king Tantippōttaraiyaṉ<note>That is, the Pallava king Dantin, that is, Dantivarman.</note>
+      			5th year of the victorious king Tantippōttaraiyaṉ<note>That is, the Pallava king Dantin, that is, Dantivarman.</note>.
       		</p>
       		
       		<p n="3-6">
@@ -174,7 +174,9 @@
       	<div type="bibliography">
       		
       		<p>
-      			Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS no. 17); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 99); re-edited by <bibl><ptr target="bib:Subbarayalu2015_01"/></bibl> (SII 34, no. 348); re-edited and first translated here by Emmanuel Francis (2021), based on photographs.           	
+      			Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS 17); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 99); re-edited by <bibl><ptr target="bib:Subbarayalu2015_01"/></bibl> (SII 34.348).</p>
+      	   
+      	   <p>This revised edition by Emmanuel Francis (2021), based on photographs.           	
       		</p>
       		
       		<listBibl type="primary">
@@ -185,7 +187,7 @@
       				<citedRange unit="item">17</citedRange>
       			</bibl>
       			
-      			<bibl n="KRSA">
+      			<bibl n="IPS">
       				<ptr target="bib:SrinivasaAiyar1941_01"/>
       				<citedRange unit="page">19-20</citedRange>
       				<citedRange unit="item">17</citedRange>
@@ -208,7 +210,7 @@
       		<listBibl type="secondary">
       			
       			<bibl>
-      				<ptr target="bib:ARIE1914-1915"/>
+      				<ptr target="bib:ARIE"/>
       				<citedRange unit="page">37</citedRange>
       				<citedRange unit="appendix">B/1914</citedRange>
       				<citedRange unit="item">348</citedRange>
