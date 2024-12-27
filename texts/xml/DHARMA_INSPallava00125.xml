@@ -182,7 +182,7 @@
     	<div type="bibliography">
     		
 <p>
-Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 447); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 125).</p><p>Edited and translated here by Emmanuel Francis, based on autopsy and photographs.
+Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.447); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 125).</p><p>Edited and translated here by Emmanuel Francis, based on autopsy and photographs.
 </p>
     		
     		<listBibl type="primary">
@@ -201,7 +201,7 @@ Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6, no. 4
     		</listBibl>
     		
     		<!--<listBibl type="secondary">
-    		   Update to ARE, 1899, no. 11
+    		   Update to ARE, 1899.11
     			<bibl n="ARIE 1897-1898">
     				<ptr target="bib:ARIE1897-1898"/>
     				<citedRange unit="page">18</citedRange>

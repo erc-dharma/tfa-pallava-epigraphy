@@ -177,7 +177,7 @@
 		
 		<app loc="1">
 			<lem>mahī-valla<space type="unclassified"/><seg met="++-"><gap reason="lost" quantity="3" unit="character"/></seg>vākhyaḥ</lem>
-			<note>In the space, of a length of one foot according to <ptr target="bib:Rangacharya1927-1928_01"/>,  left blank, for unclear reasons, <foreign>bhaḥ palla</foreign> is a plausible restoration, as suggested by <ptr target="bib:Rangacharya1927-1928_01"/> on the parallel found in SII 1, no. 24, stanza 3. Thus <foreign>mahī-vallabhaḥ pallavākhyaḥ</foreign></note>
+			<note>In the space, of a length of one foot according to <ptr target="bib:Rangacharya1927-1928_01"/>,  left blank, for unclear reasons, <foreign>bhaḥ palla</foreign> is a plausible restoration, as suggested by <ptr target="bib:Rangacharya1927-1928_01"/> on the parallel found in SII 1.24, stanza 3. Thus <foreign>mahī-vallabhaḥ pallavākhyaḥ</foreign></note>
 		</app>
 		
 		<app loc="1">
@@ -197,7 +197,7 @@
 		
 		<app loc="1">
 			<lem>para<supplied reason="lost">mād īśvarād ātta-janmā</supplied></lem>
-			<note>This lacuna, due to a break in the stone, is retored as such, following <ptr target="bib:Rangacharya1927-1928_01"/> from the parallel in SII 1, no. 24, stanza 5.</note>
+			<note>This lacuna, due to a break in the stone, is retored as such, following <ptr target="bib:Rangacharya1927-1928_01"/> from the parallel in SII 1.24, stanza 5.</note>
 		</app>
 		
 		
@@ -360,7 +360,7 @@
 	Edited in <bibl><ptr target="bib:Jouveau-Dubreuil1916_01"/></bibl> with translation (revised by S. Krishnaswami Aiyangar) and visual documentation and in <bibl><ptr target="bib:Jouveau-Dubreuil1916-1917_01"/></bibl> with French translation and visual documentation;
 	re-edited and translated in <bibl><ptr target="bib:SankaraAiyar1919_01"/></bibl>;
 	re-edited in <bibl><ptr target="bib:SankaraAiyar1922-1923_01"/></bibl>;
-	re-edited and translated in <bibl><ptr target="bib:Rangacharya1927-1928_01"/></bibl> (EI 19, no. 18B);
+	re-edited and translated in <bibl><ptr target="bib:Rangacharya1927-1928_01"/></bibl> (EI 19.18B);
 	text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 62);
 	text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 46).
 </p>
@@ -441,7 +441,7 @@
       			<bibl>
       				<ptr target="bib:MarxiaGandhi+al2011_01"/>
       				<citedRange unit="page">246</citedRange>
-      				<note>SII 30, no. 264. Text carelessly reproduced from EI 19, no. 18B.</note>
+      				<note>SII 30.264. Text carelessly reproduced from EI 19.18B.</note>
       			</bibl>
       			
       		</listBibl>

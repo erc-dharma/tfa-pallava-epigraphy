@@ -137,7 +137,7 @@
          <div type="bibliography">
 
             <p>
-Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile (SII 12, no. 44); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 112); encoded here by Emmanuel Francis (2021), based on previous editions.
+Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile (SII 12.44); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 112); encoded here by Emmanuel Francis (2021), based on previous editions.
             </p>
 
             <listBibl type="primary">
@@ -159,7 +159,7 @@ Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimi
             <!--<listBibl type="secondary">
                <bibl n="ARIE 1915-1916">
                
-               Update to ARE, 1921, no. 89
+               Update to ARE, 1921.89
                
                   <ptr target="bib:ARIE1915-1916"/>
                   <citedRange unit="page">92</citedRange>

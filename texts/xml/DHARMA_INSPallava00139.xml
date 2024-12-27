@@ -215,7 +215,7 @@
 <div type="bibliography">
     		
 	<p>
-		Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, no. 55); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 139).</p><p>Encoded and translated here by Emmanuel Francis, based on previous editions and photos.
+		Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.55); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 139).</p><p>Encoded and translated here by Emmanuel Francis, based on previous editions and photos.
 		</p>
 	
 	<listBibl type="primary">
@@ -234,7 +234,7 @@
 	</listBibl>
 	
 	<!--<listBibl type="secondary">
-		Update to ARE, 1930, no. 27
+		Update to ARE, 1930.27
 		<bibl n="ARIE 1897-1898">
 		<ptr target="bib:ARIE1897-1898"/>
 		<citedRange unit="page">18</citedRange>

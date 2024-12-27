@@ -121,7 +121,7 @@
 	<div type="bibliography">
 		
 		<p>
-			Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7, no. 847); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 138); edited and translated here by Emmanuel Francis, based on previous editions.			
+			Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.847); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 138); edited and translated here by Emmanuel Francis, based on previous editions.			
 		</p>
 		
 		<listBibl type="primary">
@@ -145,7 +145,7 @@
 		<!--<listBibl type="secondary">
 			
 			
-			Update to ARE, 1902, no. 220!!
+			Update to ARE, 1902.220!!
 			
 			<bibl n="ARIE 1899-1900">
 			<ptr target="bib:ARIE1899-1900"/>
