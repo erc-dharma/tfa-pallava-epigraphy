@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kunnāṇṭār Kōyil, donation, time of Nantipōttaraiyar, year 3</title>
+            <title>Kunnāṇṭār Kōyil, time of Nantipōttaraiyar, year 3</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -128,7 +128,7 @@
 
          <div resp="part:emfr" type="translation">
             <p n="1">Prosperity! Fortune!</p>
-            <p n="1-2">Third year of Nantipōttaraiyar.</p>
+            <p n="1-2">Third year of the king Nantipōttaraiyar<note>That is, the Pallava king Nandin.</note>.</p>
             <p n="2-7">
                <supplied reason="subaudible">There are</supplied> 200 <supplied reason="subaudible">that is</supplied>, two hundred, <foreign>nāḻi</foreign>s of paddy that Pakaiccantiravicai Araiyaṉ, alias Kaṇavatimāṉ, <supplied reason="subaudible">of</supplied> Vaṭuvūr in the Mīpuḷaināṭu, gave to cook and distribute <supplied reason="explanation"><foreign>aṭṭ-aḻiya</foreign></supplied> at the time/on the day <supplied reason="explanation"><foreign>nāṉṟu</foreign></supplied> <supplied reason="subaudible">of</supplied> <foreign>tiruvātirai</foreign>; <supplied reason="subaudible">this is for the food</supplied> for one hundred persons.
             </p>
@@ -141,11 +141,12 @@
             <p n="7"><foreign>nūṟṟuvar</foreign>. A corporate body ("the One Hundred")? Or one hundred people at random?</p>            
          </div>
          
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS 15);  translated in <bibl><ptr target="bib:SrinivasaAiyar1941_01"/></bibl> (IPS 15); reedited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile (SII 12.46); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 116); reedited by <bibl><ptr target="bib:Subbarayalu2015_01"/></bibl> with facsimile (SII 34.347); re-edited here by Emmanuel Francis (2021), based on photos.
-            </p>
+   <p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/B/1904/262).</p>
+   
+   <p>Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS 15);  translated in <bibl><ptr target="bib:SrinivasaAiyar1941_01"/></bibl> (IPS 15); reedited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile (SII 12.46); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 116); reedited in <bibl><ptr target="bib:Subbarayalu2015_01"/></bibl> with facsimile (SII 34.347).</p>
+   <p>This revised edition Emmanuel Francis (2021), based on photos (V. Gillet, 2009).</p>
 
             <listBibl type="primary">
                
@@ -183,15 +184,14 @@ Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bib
                   <citedRange unit="item">15</citedRange>
                </bibl>
                
-               <!--<bibl n="ARIE 1915-1916">
+               <bibl n="ARIE">
                   
-                  Update to ARE, 1914.347
-                  
-                  <ptr target="bib:ARIE1915-1916"/>
-                  <citedRange unit="page">92</citedRange>
-                  <citedRange unit="appendix">C/1916</citedRange>
-                  <citedRange unit="item">283</citedRange>
-               </bibl>-->
+                  <ptr target="bib:ARIE1914-1915"/>
+                  <citedRange unit="page">37</citedRange>
+                  <citedRange unit="appendix">B/1914</citedRange>
+                  <citedRange unit="item">347</citedRange>
+               </bibl>
+               
             </listBibl>
 
          </div>

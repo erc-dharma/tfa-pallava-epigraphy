@@ -117,9 +117,9 @@
             
          </div>
 
-<div type="apparatus">
+<!--<div type="apparatus">
 
-   <!--<listApp>
+   <listApp>
       
       <app loc="0">
          <lem></lem>
@@ -128,9 +128,8 @@
       </app>  
       
    </listApp>
--->
    
-</div>
+</div>-->
 
          <div resp="part:emfr" type="translation">
             <p n="1">Prosperity! Fortune!</p>
@@ -138,11 +137,11 @@
             </p>
             
             <p n="3-12">
-               
+               ...
             </p>
             
             <p n="12-13">
-               
+               ...
             </p>
             
          </div>
@@ -151,11 +150,13 @@
             <p n="1">On Danti-Nandivarman = Nandivarman III Pallava. See SII and IP.</p>
          </div>
          
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS 15);  translated in <bibl><ptr target="bib:SrinivasaAiyar1941_01"/></bibl> (IPS 15); reedited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile (SII 12.46); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 116); reedited by <bibl><ptr target="bib:Subbarayalu2015_01"/></bibl> with facsimile (SII 34.347).</p>
-             <p>This edition by Emmanuel Francis (2021), based on photos.</p>
+   
+   <p>Reported in <bibl><ptr target="bib:ARIE1905-1906"/></bibl> (ARIE/1905-1906/B/1905/529).</p>
+   
+   <p>Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS 15);  translated in <bibl><ptr target="bib:SrinivasaAiyar1941_01"/></bibl> (IPS 15); reedited by <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile (SII 12.46); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 116); reedited by <bibl><ptr target="bib:Subbarayalu2015_01"/></bibl> with facsimile (SII 34.347).</p>
+   <p>This revised edition by Emmanuel Francis (2021), based on photos.</p>
 
             <listBibl type="primary">
                
@@ -193,15 +194,14 @@ Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bib
                   <citedRange unit="item">15</citedRange>
                </bibl>
                
-               <!--<bibl n="ARIE 1915-1916">
+               <bibl n="ARIE">
                   
-                  Update to ARE, 1914.347
-                  
-                  <ptr target="bib:ARIE1915-1916"/>
-                  <citedRange unit="page">92</citedRange>
-                  <citedRange unit="appendix">C/1916</citedRange>
-                  <citedRange unit="item">283</citedRange>
-               </bibl>-->
+                  <ptr target="bib:ARIE1905-1906"/>
+                  <citedRange unit="page">33</citedRange>
+                  <citedRange unit="appendix">B/1905</citedRange>
+                  <citedRange unit="item">529</citedRange>
+               </bibl>
+               
             </listBibl>
 
          </div>

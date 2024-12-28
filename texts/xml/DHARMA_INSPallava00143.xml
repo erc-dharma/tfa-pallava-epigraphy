@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvaikāvūr, donation, time of Nandivarman, year 22</title>
+				<title>Tiruvaikāvūr, time of Nandivarman, year 22</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:emfr">
@@ -186,19 +186,19 @@
     		</p>
     		
     		<p n="1">
-    			Twenty-second year of the king Nandivarman. 
+    			Twenty-second year of the king Nantiparman<note>Sanskrit Nandivarman.</note>. 
     		</p>
     		
     		<p n="1-7">
-    						
+    			...			
     		</p>
     		
     		<p n="7">
-    			
+    			...
     		</p>
     		
     		<p n="7-8">
-    			
+    			...
     		</p>
     		
     		<p n="8">
@@ -212,16 +212,17 @@
     		
     	</div>
             
-    	<div type="bibliography">
+<div type="bibliography">
     		
-<p>
-Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.58); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 143); re-edited by <bibl><ptr target="bib:Subbarayalu2015_01"/></bibl> (SII 34.48).</p>
-    		<p>Encoded and translated here by Emmanuel Francis , based on previous editions.
-</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1914-1915"/></bibl> (ARIE/1914-1915/B/1914/48).</p>
+   	
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.58); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 143); re-edited by <bibl><ptr target="bib:Subbarayalu2015_01"/></bibl> (SII 34.48).</p>
+	
+	<p>This digital edition by Emmanuel Francis , based on previous editions.</p>
     		
     		<listBibl type="primary">
     			
-    			<bibl n="VVA">
+    			<bibl n="SII 12">
          			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
          			<citedRange unit="page">24</citedRange>
          			<citedRange unit="item">58</citedRange>
@@ -233,7 +234,7 @@ Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.58);
     				<citedRange unit="item">143</citedRange>
     			</bibl>
     			
-    			<bibl n="YS">
+    			<bibl n="SII 34">
       				<ptr target="bib:Subbarayalu2015_01"/>
       				<citedRange unit="page">TBC</citedRange>
       				<citedRange unit="item">48</citedRange>
@@ -241,15 +242,14 @@ Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.58);
     			
     		</listBibl>
     		
-    		<!--<listBibl type="secondary">
-    		   Update to ARE, 1914.48
-    			<bibl n="ARIE 1897-1898">
-    				<ptr target="bib:ARIE1897-1898"/>
-    				<citedRange unit="page">18</citedRange>
-    				<citedRange unit="appendix">B/1898</citedRange>
-    				<citedRange unit="item">72</citedRange>
+    		<listBibl type="secondary">
+    			<bibl n="ARIE">
+    				<ptr target="bib:ARIE1914-1915"/>
+    				<citedRange unit="page">48</citedRange>
+    				<citedRange unit="appendix">B/1914</citedRange>
+    				<citedRange unit="item">48</citedRange>
     			</bibl>
-    		</listBibl>-->
+    		</listBibl>
     		
             </div>
         </body>
