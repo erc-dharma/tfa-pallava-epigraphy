@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tillaisthānam, donation, time of Nantippōtairayar, year 10</title>
+            <title>Tillaisthānam, time of Nantippōtairayar, year 10</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -177,15 +177,15 @@
             </p>
             
             <p n="2-9">
-               
+               ...
             </p>
             
             <p n="9-12">
-               
+               ...
             </p>
             
             <p n="12-21">
-               
+               ...
             </p>
             
             <p n="21-23">
@@ -198,15 +198,17 @@
             
          </div>
          
-         <div type="bibliography">
-
-            <p>
+<div type="bibliography">
+         
+   <p>Reported in <bibl><ptr target="bib:ARIE1894-1895"/></bibl> (ARIE/1894-1895/B/1895/52).</p>
+   
+   <p>
 Edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5.609); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 122); re-edited here by Emmanuel Francis (2021), based on photos.
             </p>
 
             <listBibl type="primary">
                
-               <bibl n="HKS">
+               <bibl n="SII">
                   <ptr target="bib:KrishnaSastri1925_01"/>
                   <citedRange unit="page">243</citedRange>
                   <citedRange unit="item">609</citedRange>
@@ -220,18 +222,15 @@ Edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5.609); tex
                
             </listBibl>
             
-            <!--<listBibl type="secondary">               
+            <listBibl type="secondary">               
                             
                <bibl n="ARIE">
-                  
-                  Update to ARE, 1895.52 
-                  
-                  <ptr target="bib:ARIE1915-1916"/>
-                  <citedRange unit="page">92</citedRange>
-                  <citedRange unit="appendix">C/1916</citedRange>
-                  <citedRange unit="item">283</citedRange>
+                  <ptr target="bib:ARIE1894-1895"/>
+                  <citedRange unit="page">11</citedRange>
+                  <citedRange unit="appendix">B/1895</citedRange>
+                  <citedRange unit="item">52</citedRange>
                </bibl>
-            </listBibl>-->
+            </listBibl>
 
          </div>
 
