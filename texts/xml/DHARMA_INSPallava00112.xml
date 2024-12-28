@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Piḷḷaipāḷaiyam, donation, time of Dantivarman, year lost</title>
+            <title>Piḷḷaipāḷaiyam, time of Dantivikramavarman, year lost</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -88,18 +88,18 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
             
             <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-               <lb n="1"/><supplied reason="undefined"><hi rend="grantha">svasti śrī</hi></supplied>
+               <lb n="1"/><supplied reason="lost"><hi rend="grantha">svasti śrī</hi></supplied>
             </ab>
             
             <p>
-               <supplied reason="undefined">kō-vi</supplied>caiya-tanti-vikkirama-parumakki yā<supplied reason="undefined">ṇṭu</supplied> <gap reason="undefined" quantity="2" unit="character"/>
-               <lb n="2"/><gap reason="undefined" quantity="5" unit="character"/> <supplied reason="undefined">kā</supplied><unclear>ṭu-ve</unclear>ṭṭi muttaraiyaṉ viṇṇappattāl <gap reason="undefined" quantity="6" unit="character"/>
-               <lb n="3"/><gap reason="undefined" quantity="6" unit="character"/>ṭṭu Iṟaiyāṉ-cēri paḻan tiru-mēṟṟaḷiyum maṭamum U<gap reason="undefined" quantity="6" unit="character"/>
-               <lb n="4"/><gap reason="undefined" quantity="5" unit="character"/><supplied reason="undefined">u</supplied>ḷḷiṭṭu <hi rend="grantha">ca</hi>tu<hi rend="grantha">r</hi>-<choice><orig><hi rend="grantha">vv</hi></orig><reg><hi rend="grantha">pp</hi></reg></choice>aṭṭi nālu paṭṭi nilamum paḻan tirumēl<gap reason="undefined" quantity="4" unit="character"/>
-               <lb break="no" n="5"/><gap reason="undefined" quantity="4" unit="character"/> <hi rend="grantha">parihāra</hi>m-āka p<choice><sic>ā<hi rend="grantha">d</hi></sic><corr>a<hi rend="grantha">r</hi></corr></choice><hi rend="grantha">adatti</hi> ceṉ<unclear>ṟa</unclear>tu
+               <supplied reason="lost">kō-vi</supplied>caiya-tanti-vikkirama-paruma<reg>r</reg>kk<choice><orig>i</orig><reg>u</reg></choice> yā<supplied reason="lost">ṇṭu</supplied> <gap reason="lost" quantity="2" unit="character"/>
+               <lb n="2"/><gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">kā</supplied><unclear>ṭu-ve</unclear>ṭṭi muttaraiyaṉ viṇṇappattāl <gap reason="lost" quantity="6" unit="character"/>
+               <lb n="3"/><gap reason="lost" quantity="6" unit="character"/>ṭṭu Iṟaiyāṉ-cēri paḻan tiru-mēṟṟaḷiyum maṭamum U<gap reason="lost" quantity="6" unit="character"/>
+               <lb n="4"/><gap reason="lost" quantity="5" unit="character"/><supplied reason="lost">u</supplied>ḷḷiṭṭu <hi rend="grantha">ca</hi>tu<hi rend="grantha">r</hi>-<choice><orig><hi rend="grantha">vv</hi></orig><reg><hi rend="grantha">pp</hi></reg></choice>aṭṭi nālu paṭṭi nilamum paḻan tirumēl<gap reason="lost" quantity="4" unit="character"/>
+               <lb break="no" n="5"/><gap reason="lost" quantity="4" unit="character"/> <hi rend="grantha">parihāra</hi>m-āka p<choice><sic>ā<hi rend="grantha">d</hi></sic><corr>a<hi rend="grantha">r</hi></corr></choice><hi rend="grantha">adatti</hi> ceṉ<unclear>ṟa</unclear>tu
             </p>
             <p>
-               Itu kāttā<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> aṭi Eṉ ṟa<supplied reason="undefined">lai mēḻaṉa</supplied>
+               Itu kāttā<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> aṭi Eṉ ṟa<supplied reason="lost">lai mēḻaṉa</supplied>
             </p>                       
                         
          </div>
@@ -119,30 +119,32 @@
 </div>
 
          <div resp="part:emfr" type="translation">
-            <p n="1"><supplied reason="undefined">Prosperity! Fortune!</supplied></p>
-            <p n="1-2"><gap reason="undefined"/> year of the victorious <supplied reason="undefined">king</supplied> Dantivikramavarman.</p>
-            <p n="2">at the request of <supplied reason="undefined">Kā</supplied>ṭuveṭṭi Muttaraiyaṉ</p>
-            <p n="3"><gap reason="undefined"/> the ancient glorious western temple and the hermitage at Iṟaiyaṉ Cēri <gap reason="undefined"/></p>
-            <p n="4">including <gap reason="undefined"/> four <foreign>paṭṭi</foreign>s <supplied reason="explanation"><foreign><hi rend="grantha">ca</hi>tu<hi rend="grantha">r</hi>-<choice><orig><hi rend="grantha">vv</hi></orig><reg><hi rend="grantha">pp</hi></reg></choice>aṭṭi</foreign></supplied>
-               <supplied reason="subaudible">that is</supplied>, four <foreign>paṭṭi</foreign>s <supplied reason="explanation"><foreign>nālu paṭṭi</foreign></supplied> of land; the ancient glorious western <supplied reason="undefined">temple</supplied> <gap reason="undefined"/></p>
-            <p n="5"><gap reason="undefined"/> with exemption <supplied reason="explanation"><foreign><hi rend="grantha">parihāra</hi>m-āka</foreign><note>That is, tax-free.</note></supplied>, a donation by another<note>Skt. <foreign>paradatti</foreign>.</note> is in force <supplied reason="explanation"><foreign>ceṉṟatu</foreign><note>Literally: “has gone”.</note></supplied> <gap reason="undefined"/></p>
-            <p n="5">The feet of he who protects this <supplied reason="subaudible">donation</supplied> are <supplied reason="undefined">on</supplied> my <supplied reason="undefined">head</supplied>.</p>
+            <p n="1"><supplied reason="lost">Prosperity! Fortune!</supplied></p>
+            <p n="1-2"><gap reason="lost"/> year of the victorious <supplied reason="lost">king</supplied> Tantivikkiramaparumar<note>Sanskrit Dantivikramavarman.</note>.</p>
+            <p n="2">at the request of <supplied reason="lost">Kā</supplied>ṭuveṭṭi Muttaraiyaṉ</p>
+            <p n="3"><gap reason="lost"/> the ancient glorious western temple and the hermitage at Iṟaiyaṉ Cēri <gap reason="lost"/></p>
+            <p n="4">including <gap reason="lost"/> four <foreign>paṭṭi</foreign>s <supplied reason="explanation"><foreign><hi rend="grantha">ca</hi>tu<hi rend="grantha">r</hi>-<choice><orig><hi rend="grantha">vv</hi></orig><reg><hi rend="grantha">pp</hi></reg></choice>aṭṭi</foreign></supplied>
+               <supplied reason="subaudible">that is</supplied>, four <foreign>paṭṭi</foreign>s <supplied reason="explanation"><foreign>nālu paṭṭi</foreign></supplied> of land; the ancient glorious western <supplied reason="lost">temple</supplied> <gap reason="lost"/></p>
+            <p n="5"><gap reason="lost"/> with exemption <supplied reason="explanation"><foreign><hi rend="grantha">parihāra</hi>m-āka</foreign><note>That is, tax-free.</note></supplied>, a donation by another<note>Skt. <foreign>paradatti</foreign>.</note> is in force <supplied reason="explanation"><foreign>ceṉṟatu</foreign><note>Literally: “has gone”.</note></supplied> <gap reason="lost"/></p>
+            <p n="5">The feet of he who protects this <supplied reason="subaudible">donation</supplied> are <supplied reason="lost">on</supplied> my <supplied reason="lost">head</supplied>.</p>
             
          </div>
          
          <div type="commentary">
-            <p n="2"><supplied reason="undefined">Kā</supplied>ṭuveṭṭi Muttaraiyaṉ. Note on his identification.<!--Update--></p>
+            <p n="2"><supplied reason="lost">Kā</supplied>ṭuveṭṭi Muttaraiyaṉ. Note on his identification.<!--Update--></p>
          </div>
          
-         <div type="bibliography">
-
-            <p>
-Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile (SII 12.44); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 112); encoded here by Emmanuel Francis (2021), based on previous editions.
-            </p>
-
-            <listBibl type="primary">
+<div type="bibliography">
+   
+   <p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/89).</p>
+   
+   <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile (SII 12.44); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 112).</p>
+   
+   <p>This digital edition by Emmanuel Francis (2021), based on previous editions.</p>
+   
+   <listBibl type="primary">
                
-               <bibl n="VVA">
+               <bibl n="SII">
                   <ptr target="bib:VenkatasubbaAyyar1943_01"/>
                   <citedRange unit="page">18</citedRange>
                   <citedRange unit="item">44</citedRange>
@@ -156,17 +158,15 @@ Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimi
                
             </listBibl>
          	
-            <!--<listBibl type="secondary">
+            <listBibl type="secondary">
                <bibl n="ARIE">
                
-               Update to ARE, 1921.89
-               
-                  <ptr target="bib:ARIE1915-1916"/>
-                  <citedRange unit="page">92</citedRange>
-                  <citedRange unit="appendix">C/1916</citedRange>
-                  <citedRange unit="item">283</citedRange>
+                  <ptr target="bib:ARIE1920-1921"/>
+                  <citedRange unit="page">66</citedRange>
+                  <citedRange unit="appendix">C/1921</citedRange>
+                  <citedRange unit="item">89</citedRange>
                </bibl>
-            </listBibl>-->
+            </listBibl>
 
          </div>
 

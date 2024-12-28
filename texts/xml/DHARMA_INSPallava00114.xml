@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Paḷḷikoṇḍa, foundation, time of Nantipōttaraiyar, year 2</title>
+            <title>Paḷḷikoṇḍa, time of Nantipōttaraiyar, year 2</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -88,7 +88,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
             
             <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-               <lb n="1"/><supplied reason="undefined"><hi rend="grantha">śrī</hi></supplied>
+               <lb n="1"/><hi rend="grantha">śrī</hi>
             </ab>
             
             <p>               
@@ -109,9 +109,9 @@
                         
          </div>
 
-<div type="apparatus">
+<!--<div type="apparatus">
 
-   <!--<listApp>
+   <listApp>
       
       <app loc="0">
          <lem></lem>
@@ -119,13 +119,13 @@
          <note></note>
       </app>		
       
-   </listApp>-->
+   </listApp>
 
-</div>
+</div>-->
 
          <div resp="part:emfr" type="translation">
-            <p n="1"><supplied reason="undefined">Fortune!</supplied></p>
-            <p n="1-3">Second year of Nantipōttaraiyar.</p>
+            <p n="1">Fortune!</p>
+            <p n="1-3">Second year of Nantipōttaraiyar<note>That is, the Pallava king Nandin.</note>.</p>
             <p n="4-9">
                <supplied reason="subaudible">This is</supplied> the <foreign>mukhamaṇḍapa</foreign> that Celvavāṇarayaṉ, the son <supplied reason="subaudible">of</supplied> Amaṉikaṅkaraiyar had made <supplied reason="subaudible">when</supplied> ruling over Vittūr.
             </p>
@@ -138,15 +138,17 @@
             <p n="6">On Vittūr = Viccūr. See SII and IP.</p>            
          </div>
          
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile (SII 12.45); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 114); encoded here by Emmanuel Francis (2021), based on previous editions.
-            </p>
+   <p>Reported in <bibl><ptr target="bib:ARIE1925-1926"/></bibl> (ARIE/1925-1926/B/1925/4752).</p>
+   
+   <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile (SII 12.45); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 114).</p>   
+   
+   <p>This digital edition by Emmanuel Francis (2021), based on previous editions.</p>
 
             <listBibl type="primary">
                
-               <bibl n="VVA">
+               <bibl n="SII">
                   <ptr target="bib:VenkatasubbaAyyar1943_01"/>
                   <citedRange unit="page">18</citedRange>
                   <citedRange unit="item">45</citedRange>
@@ -160,17 +162,15 @@ Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimi
                
             </listBibl>
          	
-            <!--<listBibl type="secondary">
+            <listBibl type="secondary">
                <bibl n="ARIE">
                
-               Update to ARE, 1925.475
-               
-                  <ptr target="bib:ARIE1915-1916"/>
-                  <citedRange unit="page">92</citedRange>
-                  <citedRange unit="appendix">C/1916</citedRange>
-                  <citedRange unit="item">283</citedRange>
+                  <ptr target="bib:ARIE1925-1926"/>
+                  <citedRange unit="page">19</citedRange>
+                  <citedRange unit="appendix">B/1925</citedRange>
+                  <citedRange unit="item">475</citedRange>
                </bibl>
-            </listBibl>-->
+            </listBibl>
 
          </div>
 

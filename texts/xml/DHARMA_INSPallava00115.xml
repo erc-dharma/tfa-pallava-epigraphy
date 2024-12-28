@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kiḷiyaṉūr, donation, time of Nandivikramavarman, year 3</title>
+            <title>Kiḷiyaṉūr, time of Nandivikramavarman, year 3</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -108,9 +108,9 @@
                         
          </div>
 
-<div type="apparatus">
+<!--<div type="apparatus">
 
-   <!--<listApp>
+   <listApp>
       
       <app loc="0">
          <lem></lem>
@@ -118,16 +118,15 @@
          <note></note>
       </app>		
       
-   </listApp>-->
+   </listApp>
 
-</div>
+</div>-->
 
          <div resp="part:emfr" type="translation">
             <p n="1">Prosperity! Fortune!</p>
-            <p n="1">Third year of the victorious king Nandivikramavarman.</p>
-            <p n="2-4">
-               Three hundred goats that the honourable Tikaittiṟal, who had the temple of Viṣṇu <supplied reason="subaudible">named after</supplied> Tikaittiṟal built in Kiḷiñelūr in the Oymānāṭu, gave for a glorious lamp
-and two fields, east of the glorious temple, that he also <supplied reason="explanation"><foreign>ivarē</foreign></supplied> gave for the glorious food <supplied reason="subaudible">are given</supplied> tax-free <supplied reason="explanation"><foreign>iṟaiyili</foreign><note>According to the summary in <ptr target="bib:Mahalingam1988_01"/><!--ptr not displayed-->, this applies only to the land donation. This makes sense but goes agaisnt the syntax of the sentence.</note></supplied>.
+            <p n="1">Third year of the victorious king Nantivikkiramapaṉmar<note>Sanskrit Nandivikramavarman.</note>.</p>
+            <p n="2-4">Three hundred goats that the honourable Tikaittiṟal, who had the temple of Viṣṇu <supplied reason="subaudible">named after</supplied> Tikaittiṟal built in Kiḷiñelūr in the Oymānāṭu, gave for a glorious lamp
+and two fields, east of the glorious temple, that he also <supplied reason="explanation"><foreign>ivarē</foreign></supplied> gave for the glorious food <supplied reason="subaudible">are given</supplied> tax-free <supplied reason="explanation"><foreign>iṟaiyili</foreign><note>According to the summary in <ptr target="bib:Mahalingam1988_01"/>, this applies only to the land donation. This makes sense but goes agaisnt the syntax of the sentence.</note></supplied>.
 
             </p>
             <p n="4">The florious feet of those who protect this pious deed are on my head.</p>            
@@ -136,15 +135,17 @@ and two fields, east of the glorious temple, that he also <supplied reason="expl
          <div type="commentary">       
          </div>
          
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile (SII 12.47); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 115); encoded here by Emmanuel Francis (2021), based on pictures.
-            </p>
-
-            <listBibl type="primary">
+   <p>Reported in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/C/1919/158).</p>
+   
+   <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile (SII 12.47); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 115).</p>
+   
+   <p>This revised edition by Emmanuel Francis (2021), based on photos (V. Gillet, 2009).</p>
+   
+   <listBibl type="primary">
                
-               <bibl n="VVA">
+               <bibl n="SII">
                   <ptr target="bib:VenkatasubbaAyyar1943_01"/>
                   <citedRange unit="page">19</citedRange>
                   <citedRange unit="item">47</citedRange>
@@ -158,17 +159,14 @@ Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimi
                
             </listBibl>
          	
-            <!--<listBibl type="secondary">
-               <bibl n="ARIE">
-               
-               Update to ARE, 1919.158
-               
-                  <ptr target="bib:ARIE1915-1916"/>
-                  <citedRange unit="page">92</citedRange>
-                  <citedRange unit="appendix">C/1916</citedRange>
-                  <citedRange unit="item">283</citedRange>
+            <listBibl type="secondary">
+               <bibl n="ARIE">               
+                  <ptr target="bib:ARIE1918-1919"/>
+                  <citedRange unit="page">61</citedRange>
+                  <citedRange unit="appendix">C/1919</citedRange>
+                  <citedRange unit="item">158</citedRange>
                </bibl>
-            </listBibl>-->
+            </listBibl>
 
          </div>
 

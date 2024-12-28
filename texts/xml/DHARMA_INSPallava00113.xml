@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tiruccāṉūr, donation, time of Dantivarman, year lost</title>
+            <title>Tiruccāṉūr, time of Dantivikrama, year lost</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -105,9 +105,9 @@
             
          </div>
 
-<div type="apparatus">
+<!--<div type="apparatus">
 
-   <!--<listApp>
+   <listApp>
       
       <app loc="0">
          <lem></lem>
@@ -115,13 +115,13 @@
          <note></note>
       </app>		
       
-   </listApp>-->
+   </listApp>
 
-</div>
-
+</div>-->
+         
          <div resp="part:emfr" type="translation">
             <p n="1">Prosperity! Fortune!</p>
-            <p n="1-2"><gap reason="undefined"/> year of the victorious king Dantivikramadeva.</p>
+            <p n="1-2"><gap reason="undefined"/> year of the victorious king Tantivikrama<note>Sanskrit Dantivikrama.</note>.</p>
             <p n="2"><gap reason="undefined"/> in the Tiruvēṅkaṭalkōṭṭam <gap reason="undefined"/></p>
             <p n="3"><gap reason="undefined"/> the fine gold that Ciyakaṉ <supplied reason="undefined">gave</supplied> <gap reason="undefined"/></p>
             <p n="4"><gap reason="undefined"/> with <gap reason="undefined"/> one glorious lamp</p>
@@ -134,9 +134,8 @@
          
          <div type="bibliography">
 
-            <p>
-Edited and translated in TTDI <!--update!-->;text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 113); encoded here by Emmanuel Francis (2021), based on previous editions.
-            </p>
+            <p>Edited and translated in TTDI <!--update!-->; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 113).</p>
+            <p>This digital edition by Emmanuel Francis (2021), based on previous editions.</p>
 
             <listBibl type="primary">
                     
