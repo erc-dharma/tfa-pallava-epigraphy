@@ -181,7 +181,7 @@ Edited in <bibl><ptr target="bib:Hultzsch1900-1901_05"/></bibl> (EI 6.32A); text
       		
       		<listBibl type="secondary">
       			      			
-      			<bibl n="ARIE 1889-1900">
+      			<bibl n="ARIE">
       				<ptr target="bib:ARIE1899-1900"/>
       				<citedRange unit="page">3, 52</citedRange>
       				<citedRange unit="appendix">B/1900</citedRange>

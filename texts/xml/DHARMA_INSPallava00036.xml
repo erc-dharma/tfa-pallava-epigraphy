@@ -157,7 +157,7 @@ Edited in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.72) with facsi
             	
             	<listBibl type="secondary">
             		
-            		<bibl n="ARIE 1892-1893">
+            		<bibl n="ARIE">
             			<ptr target="bib:ARIE1892-1893"/>
             			<citedRange unit="page">2, 8</citedRange>
             			<citedRange unit="appendix">A/1892</citedRange>

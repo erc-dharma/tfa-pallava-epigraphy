@@ -156,7 +156,7 @@
    
    <listBibl type="secondary">
       
-      <bibl n="ARIE 1899-1900">
+      <bibl n="ARIE">
          <ptr target="bib:ARIE1899-1900"/>
          <citedRange unit="page">50</citedRange>
          <citedRange unit="appendix">B/1900</citedRange>

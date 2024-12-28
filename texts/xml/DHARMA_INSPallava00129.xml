@@ -176,18 +176,18 @@
 <div type="bibliography">
 
    <p>
-      Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.925); reedited by <bibl><ptr target="bib:Krishnan1957-1958_01"/></bibl> (EI 32.10); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 129); encoded and first translated here by Emmanuel Francis (2021), based on previous editions.
+      Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.925); re-edited in <bibl><ptr target="bib:Krishnan1957-1958_01"/></bibl> (EI 32.10); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 129); encoded and first translated here by Emmanuel Francis (2021), based on previous editions.
    </p>
    
 	<listBibl type="primary">
 		
-		<bibl n="KVSA">
+		<bibl n="SII">
 			<ptr target="bib:SubrahmanyaAiyer1932_01"/>
 			<citedRange unit="page">455</citedRange>
 			<citedRange unit="item">925</citedRange>
 		</bibl>
 		
-		<bibl n="KGK">
+		<bibl n="EI">
 			<ptr target="bib:Krishnan1957-1958_01"/>
 		</bibl>
 		
