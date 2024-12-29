@@ -133,7 +133,7 @@
          	         	
          	<listBibl type="primary">   
          		
-         		<bibl n="ARIE 1966-1967">
+         		<bibl n="ARIE">
          			<ptr target="bib:ARIE1966-1967"/>
          			<citedRange unit="page">35</citedRange>
          			<citedRange unit="appendix">B/1966-1967</citedRange>

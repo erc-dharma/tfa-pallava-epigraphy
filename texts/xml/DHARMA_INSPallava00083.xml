@@ -179,7 +179,7 @@ Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>; text and su
 
 	<listBibl type="primary">
 		
-		<bibl n="VVA">
+		<bibl n="SII">
             		<ptr target="bib:VenkatasubbaAyyar1943_01"/>
             		<citedRange unit="page">14-15</citedRange>
             		<citedRange unit="item">34</citedRange>
@@ -196,7 +196,7 @@ Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>; text and su
 	
 	<listBibl type="secondary">
 		
-		<bibl n="ARIE 1932-1933">
+		<bibl n="ARIE">
 			<ptr target="bib:ARIE1932-1933"/>
 			<citedRange unit="page">17</citedRange>
 			<citedRange unit="appendix">B/1932-1933</citedRange>

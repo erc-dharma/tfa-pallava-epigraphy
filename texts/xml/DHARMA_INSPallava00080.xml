@@ -323,7 +323,7 @@
 
          	<listBibl type="secondary">
          		
-         		<bibl n="ARIE 1892-1893">
+         		<bibl n="ARIE">
          			<ptr target="bib:ARIE1892-1893"/>
          			<citedRange unit="page">4, 13</citedRange>
          			<citedRange unit="appendix">B/1893</citedRange>

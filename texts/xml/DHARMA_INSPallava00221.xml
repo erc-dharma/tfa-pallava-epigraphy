@@ -200,7 +200,7 @@ First English translation?
          	
          	<listBibl type="secondary">
          		
-         		<bibl n="ARIE 1939-1943">
+         		<bibl n="ARIE">
          			<ptr target="bib:ARIE1939-1943"/>
          			<citedRange unit="page">52</citedRange>
          			<citedRange unit="appendix">B/1939-1940</citedRange>

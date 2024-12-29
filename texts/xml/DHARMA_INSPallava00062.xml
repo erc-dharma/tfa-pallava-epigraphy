@@ -407,7 +407,7 @@
       				<citedRange unit="item">62</citedRange>            		
       			</bibl>
       			
-      			<bibl n="SB">
+      			<bibl n="B">
       				<ptr target="bib:Brocquet1997_01"/>
       				<citedRange unit="page">587-591</citedRange>
       				<citedRange unit="item">46</citedRange>            		
@@ -418,7 +418,7 @@
       		
       		<listBibl type="secondary">
       			
-      			<bibl n="ARIE 1915-1916">
+      			<bibl>
       				<ptr target="bib:ARIE1915-1916"/>
       				<citedRange unit="page">61, 114</citedRange>
       				<citedRange unit="appendix">B/1915</citedRange>
@@ -426,7 +426,7 @@
       				<citedRange unit="plate">III</citedRange>
       			</bibl>     
       			
-      			<bibl n="ARIE 1974-1975">
+      			<bibl>
       				<ptr target="bib:ARIE1974-1975"/>
       				<citedRange unit="page">4, 33</citedRange>
       				<citedRange unit="appendix">B/1974-1975</citedRange>

@@ -182,7 +182,7 @@
 				
 </div>
 			
-			<div type="bibliography">
+<div type="bibliography">
 				
 				<p>
 					Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.90), with a facsimile; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 241); encoded and first translated here by Emmanuel Francis (2022), based on previous editions.          	
@@ -190,7 +190,7 @@
 				
 				<listBibl type="primary">
 					
-					<bibl n="VVA">
+					<bibl n="SII">
 						<ptr target="bib:VenkatasubbaAyyar1943_01"/>
 						<citedRange unit="page">39</citedRange>
 						<citedRange unit="item">90</citedRange>

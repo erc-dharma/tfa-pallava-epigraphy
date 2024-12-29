@@ -160,7 +160,7 @@
 	
 	<listBibl type="secondary">
 		
-		<bibl n="ARIE 1905-1906">
+		<bibl n="ARIE">
 			<ptr target="bib:ARIE1905-1906"/>
 			<citedRange unit="page">33</citedRange>
 			<citedRange unit="appendix">B/1905</citedRange>

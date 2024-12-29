@@ -237,7 +237,7 @@ Edited in <bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl> with facsimile a
          	
          	<listBibl type="secondary">
          		
-         		<bibl n="ARIE 1898-1899">
+         		<bibl n="ARIE">
          			<ptr target="bib:ARIE1898-1899"/>
          			<citedRange unit="page">25</citedRange>
          			<citedRange unit="appendix">B/1899</citedRange>

@@ -142,7 +142,7 @@ Edited in (SII 7.1007); text and summary in <bibl><ptr target="bib:Mahalingam198
 		
 		<listBibl type="secondary">
 			
-			<bibl n="ARIE 1901-1902">
+			<bibl n="ARIE">
 				<ptr target="bib:ARIE1901-1902"/>
 				<citedRange unit="page">21</citedRange>
 				<citedRange unit="appendix">B/1902</citedRange>

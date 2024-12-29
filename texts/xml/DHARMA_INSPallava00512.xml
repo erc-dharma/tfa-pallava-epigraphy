@@ -125,7 +125,7 @@ Reported in <bibl><ptr target="bib:ARIE1959-1960"/></bibl>; reported by <bibl><p
 
          	<listBibl type="secondary">
          		
-         		<bibl n="ARIE 1959-1960">
+         		<bibl n="ARIE">
          			<ptr target="bib:ARIE1959-1960"/>
          			<citedRange unit="page">73</citedRange>
          			<citedRange unit="appendix">B/1959-1960</citedRange>

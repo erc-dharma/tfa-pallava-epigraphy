@@ -132,45 +132,44 @@
 				
 			</div>
 			
-			<div type="bibliography">
+<div type="bibliography">
 				
-				<p>
-					Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1935-1936_01"/></bibl> with facsimile and English translation (EI 23.22); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 209); revised here by Emmanuel Francis (2022), based on previous editions and published facsimile.          	
-				</p>
-				
-				<listBibl type="primary">
-					
-					<bibl n="VVA">
-						<ptr target="bib:VenkatasubbaAyyar1935-1936_01"/>						
-					</bibl> 
-					
-					<bibl n="IP">
-						<ptr target="bib:Mahalingam1988_01"/>
-						<citedRange unit="page">551</citedRange>
-						<citedRange unit="item">209</citedRange>
-					</bibl>
-					
-					
-				</listBibl>
-				
-				<listBibl type="secondary">
-					
-					<bibl>
-					<ptr target="bib:ARIE1920-1921"/>
-						<citedRange unit="page">74</citedRange>
-						<citedRange unit="appendix">C/1921</citedRange>
-						<citedRange unit="item">171</citedRange>
-					</bibl>
-					
-					<bibl>
-						<ptr target="bib:VenkatasubbaAyyar1943_01"/>
-						<citedRange unit="page">46</citedRange>
-						<citedRange unit="item">101</citedRange>
-					</bibl>
-					
-				</listBibl>
-				
-			</div>
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1935-1936_01"/></bibl> with facsimile and English translation (EI 23.22); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 209); revised here by Emmanuel Francis (2022), based on previous editions and published facsimile.          	
+	</p>
+	
+	<listBibl type="primary">
+		
+		<bibl n="EI">
+			<ptr target="bib:VenkatasubbaAyyar1935-1936_01"/>						
+		</bibl> 
+		
+		<bibl n="IP">
+			<ptr target="bib:Mahalingam1988_01"/>
+			<citedRange unit="page">551</citedRange>
+			<citedRange unit="item">209</citedRange>
+		</bibl>
+		
+		
+	</listBibl>
+	
+	<listBibl type="secondary">
+		
+		<bibl>
+			<ptr target="bib:ARIE1920-1921"/>
+			<citedRange unit="page">74</citedRange>
+			<citedRange unit="appendix">C/1921</citedRange>
+			<citedRange unit="item">171</citedRange>
+		</bibl>
+		
+		<bibl>
+			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
+			<citedRange unit="page">46</citedRange>
+			<citedRange unit="item">101</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+</div>
 			
 		</body>
 	</text>

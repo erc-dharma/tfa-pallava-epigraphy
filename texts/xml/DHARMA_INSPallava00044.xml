@@ -172,7 +172,7 @@ Edited in <bibl><ptr target="bib:Desai1957-1958_01"/></bibl> (EI 32.23) with a f
 	
 	<listBibl type="secondary">
 		
-		<bibl n="ARIE 1947-1948">
+		<bibl n="ARIE">
 			<ptr target="bib:ARIE1947-1948"/>
 			<citedRange unit="page">12</citedRange>
 			<citedRange unit="appendix">B/1947-1948</citedRange>

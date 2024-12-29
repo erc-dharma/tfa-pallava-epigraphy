@@ -136,7 +136,7 @@ Edited in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 358); re-edited
          	
          	<listBibl type="secondary">
          		         		
-         		<bibl n="ARIE 1939-1943">
+         		<bibl n="ARIE">
          			<ptr target="bib:ARIE1939-1943"/><!--Check: page missing in Pondy scan!-->
          			<citedRange unit="page">69, 272</citedRange>
          			<citedRange unit="appendix">B/1939-1940</citedRange>
