@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kīḻūr, donation, time of Nandivikramavarman, year 16</title>
+				<title>Kīḻūr, time of Nandivikramavarman, year 16</title>
 				<!--check localisation! Which of the 2 temples-->
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
@@ -93,13 +93,13 @@
       		</ab>
       		
       		<p>
-      			k<unclear>ō</unclear>-vicaiya-na<unclear>n</unclear>tivik
-      			<lb n="2" break="no"/>kirama-parumaṟku yāṇṭu pati<unclear>ṉ-ā</unclear>ṟāvatu
+      			k<unclear>ō</unclear>-vicaiya-na<unclear>n</unclear>ti-vik
+      			<lb n="2" break="no"/>kirama-parumaṟku yāṇṭu pati<unclear>ṉ ā</unclear>ṟ-āvatu
       		</p>
       		<p>
       			<lb n="3"/>malāṭṭu-k kuṟukkai-k kūṟṟattu-t ti
-      			<lb n="4" break="no"/>rukkōvalūr-t ti<supplied reason="undefined">ruvīraṭṭā</supplied>ṉat
-      			<lb n="5" break="no"/>tu mā-tē<unclear>va</unclear>rk<supplied reason="undefined">k’ oru nantā vi</supplied>ḷa<supplied reason="undefined">kku</supplied>		
+      			<lb n="4" break="no"/>ru-k-kōvalūr-t ti<supplied reason="undefined">ruvīraṭṭā</supplied>ṉat
+      			<lb n="5" break="no"/>tu mā-tē<unclear>va</unclear>rk<supplied reason="undefined">k’ oru nantā-vi</supplied>ḷa<supplied reason="undefined">kku</supplied>		
       			<lb n="6"/>Iravum pakalu<supplied reason="undefined">m cantirātittavarai Erippa</supplied>
       			
       			<lb n="7" break="no"/>taṟku teṉṉavaṉ iḷa<supplied reason="undefined">ṅkō-vēḷār-āyiṉa</supplied>	
@@ -153,15 +153,15 @@
       		</p>
       		
       		<p n="1-2">
-      			Sixteenth year of the victorious king Nandivikramavarman.
+      			Sixteenth year of the victorious king Nantivikkiramaparumaṉ<note>Sanskrit Nandivikramavarman.</note>.
       		</p>
       		
       		<p n="3-10">
-      			
+      			...
       		</p> 
       		
       		<p n="10-14">
-      			
+      			...
       		</p>
       		
       		
@@ -175,8 +175,9 @@
       	
 <div type="bibliography">
 
-   <p>
-      Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.925); re-edited in <bibl><ptr target="bib:Krishnan1957-1958_01"/></bibl> (EI 32.10); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 129); encoded and first translated here by Emmanuel Francis (2021), based on previous editions.
+	<p>Reported in <bibl><ptr target="bib:ARIE1901-1902"/></bibl> (ARIE/1901-1902/B/1902/296).</p>
+	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.925); re-edited in <bibl><ptr target="bib:Krishnan1957-1958_01"/></bibl> (EI 32.10); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 129).</p>
+	<p>This digital edition by Emmanuel Francis (2021), based on previous editions.
    </p>
    
 	<listBibl type="primary">

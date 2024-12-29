@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kīḻūr, donation, time of Nandivikramavarman, year 17</title>
+				<title>Kīḻūr, time of Nandivikrama, year 17</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -134,40 +134,40 @@
       		</p>
       		
       		<p n="1">
-      			17th year of the victorious valorous king Nandivikramavarman.
+      			17th year of the victorious and valorous king Nantivikramaṉ<note>Sanskrit Nandivikrama.</note>.
       		</p>
       		
       		<p n="1-4">
-      			
+      			...
       		</p> 
       		
       		<p n="4-5">
-      			
+      			...
       		</p>
       		
       		<p n="5-6">
-      			
+      			...
       		</p>
       		
       		<p n="6">
-      			
+      			...
       		</p>
       		      		
       	</div>
       	
-      	<div type="commentary">
-      		<p>Perumāḷ = Śiva. See IP p395fn1.<!--Update!--></p>
-      	</div>
+<div type="commentary">
+	<p>Perumāḷ = Śiva. See IP p395fn1.<!--Update!--></p>
+</div>
       	
-      	<div type="bibliography">
-      		
-      		<p>
-      			Edited in by <bibl><ptr target="bib:Hultzsch1902-1903_04"/></bibl> (EI 7.20A); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 130); encoded and first translated here by Emmanuel Francis, based on previous editions.
-      		</p>
-      		
-      		<listBibl type="primary">
+<div type="bibliography">
+	
+	<p>Reported in <bibl><ptr target="bib:ARIE1901-1902"/></bibl> (ARIE/1901-1902/B/1902/278).</p>
+	<p>Edited in by <bibl><ptr target="bib:Hultzsch1902-1903_04"/></bibl> (EI 7.20A); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 130).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous editions.</p>
+	
+	<listBibl type="primary">
       			
-      			<bibl n="EH">
+      			<bibl n="EI">
       				<ptr target="bib:Hultzsch1902-1903_04"/>
       				<citedRange unit="item">A</citedRange>
       				

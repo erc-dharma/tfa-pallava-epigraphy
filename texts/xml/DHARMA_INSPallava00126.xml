@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kāvērippākkam, donation, time of Nandivarman, year 13</title>
+            <title>Kāvērippākkam, time of Nandivarman, year 13</title>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:emfr">
@@ -94,12 +94,12 @@
             </p>
             
             <p>               
-               <unclear>Em</unclear>m-<choice><orig>u</orig><reg>ū</reg></choice>r Ayyakki paṅkaḷa-Aṭikaḷ maru-makaḷ pakkal <choice><orig>Añ</orig><reg>Ain</reg></choice>-kaḻañ <gap reason="undefined" quantity="7" unit="character" precision="low"/><supplied reason="undefined"> ka</supplied>
+               <unclear>Em</unclear>m-<choice><orig>u</orig><reg>ū</reg></choice>r Ayyakki paṅkaḷa-Aṭikaḷ maru-makaḷ pakkal <choice><orig>Añ</orig><reg>Ain</reg></choice>-kaḻañ <gap reason="undefined" quantity="7" unit="character" precision="low"/> <supplied reason="undefined">ka</supplied>
                <lb n="2" break="no"/><unclear>ḻañ</unclear>cu poṉ vaittu <unclear>patiṉ</unclear> <gap reason="undefined" quantity="6" unit="character" precision="low"/> l Ivv-eṇṇai Uḷḷiṭṭ’ 
             </p>
             
             <p>               
-               aṉṟi E<choice><orig>mmu</orig><reg>mū</reg></choice>rava<unclear>r nica</unclear>ti Ā<supplied reason="omitted">ḻā</supplied>kkum kuṭu <gap reason="undefined" quantity="6" unit="character" precision="low"/>
+               aṉṟi Emm<choice><orig>u</orig><reg>ū</reg></choice>r ava<unclear>r nica</unclear>ti Ā<supplied reason="omitted">ḻā</supplied>kkum kuṭu <gap reason="undefined" quantity="6" unit="character" precision="low"/>
                <lb n="3"/><gap reason="undefined" quantity="10" unit="character" precision="low"/> kālamum muṭṭā<surplus>l</surplus>ma<supplied reason="omitted">l</supplied> Aṭṭuvippārkaḷ ākavum
                
                śrī- <gap reason="undefined" quantity="6" unit="character" precision="low"/>
@@ -126,15 +126,15 @@
           </p>
           
           <p n="1">
-             Thirtheenth year of Nandivarman.
+             Thirtheenth year of Nantivarman<note>Sankrit Nandivarman.</note>.
           </p>
           
           <p n="1-2">
-             
+             ...
           </p>
           
           <p n="2-3">
-             
+             ...
           </p>
             	
             </div>
@@ -145,16 +145,15 @@
     		
     	</div>
             
-    	<div type="bibliography">
+<div type="bibliography">
     		
-<p>
-Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.50); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 126).</p>
-    	   <p>Encoded and translated here by Emmanuel Francis, based on previous editions.
-</p>
+   <p>Reported in <bibl><ptr target="bib:ARIE1905-1906"/></bibl> (ARIE/1905-1906/B/1905/406).</p>
+   <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.50); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 126).</p>
+   <p>This digital edition by Emmanuel Francis, based on previous editions.</p>
     		
     		<listBibl type="primary">
     			
-    			<bibl n="VVA">
+    			<bibl n="SII">
          			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
          			<citedRange unit="page">20</citedRange>
          			<citedRange unit="item">50</citedRange>
@@ -167,15 +166,14 @@ Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.50);
     			</bibl>
     		</listBibl>
     		
-    		<!--<listBibl type="secondary">
-    		   Update to ARE, 1905.406
-    			<bibl n="ARIE 1897-1898">
-    				<ptr target="bib:ARIE1897-1898"/>
-    				<citedRange unit="page">18</citedRange>
-    				<citedRange unit="appendix">B/1898</citedRange>
-    				<citedRange unit="item">72</citedRange>
-    			</bibl>
-    		</listBibl>-->
+   <listBibl type="secondary">
+      <bibl>
+         <ptr target="bib:ARIE1905-1906"/>
+         <citedRange unit="page">26</citedRange>
+         <citedRange unit="appendix">B/1905</citedRange>
+         <citedRange unit="item">406</citedRange>
+      </bibl>
+    		</listBibl>
     		
             </div>
         </body>

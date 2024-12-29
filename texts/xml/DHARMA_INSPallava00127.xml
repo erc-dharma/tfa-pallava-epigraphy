@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kaḷattūr, tax regulation, time of Nandivarman, year 14</title>
+            <title>Kaḷattūr, time of Nandivarman, year 14</title>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:emfr">
@@ -132,25 +132,21 @@
           </p>
           
           <p n="3-12">
-             
+             ...
           </p>
                                	
             </div>
             
-    	<div type="commentary">
+<div type="commentary"/>
     		
-    	</div>
-            
-    	<div type="bibliography">
-    		
-<p>
-Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.51); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 126).</p>
-    	   <p>Encoded and translated here by Emmanuel Francis, based on previous editions.
-</p>
+<div type="bibliography">
+   <p>Reported in <bibl><ptr target="bib:ARIE1911-1912"/></bibl> (ARIE/1911-1912/B/1911/349).</p>	
+   <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.51); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 126).</p>
+   <p>This digital edition by Emmanuel Francis, based on previous editions.</p>
     		
     		<listBibl type="primary">
     			
-    			<bibl n="VVA">
+    			<bibl n="SII">
          			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
          			<citedRange unit="page">21</citedRange>
          			<citedRange unit="item">51</citedRange>
@@ -163,15 +159,14 @@ Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.51);
     			</bibl>
     		</listBibl>
     		
-    		<!--<listBibl type="secondary">
-    		   Update to ARE, 1911.349
-    			<bibl n="ARIE 1897-1898">
-    				<ptr target="bib:ARIE1897-1898"/>
-    				<citedRange unit="page">18</citedRange>
-    				<citedRange unit="appendix">B/1898</citedRange>
-    				<citedRange unit="item">72</citedRange>
+    		<listBibl type="secondary">
+    			<bibl>
+    				<ptr target="bib:ARIE1911-1912"/>
+    				<citedRange unit="page">24</citedRange>
+    				<citedRange unit="appendix">B/1911</citedRange>
+    				<citedRange unit="item">349</citedRange>
     			</bibl>
-    		</listBibl>-->
+    		</listBibl>
     		
             </div>
         </body>
