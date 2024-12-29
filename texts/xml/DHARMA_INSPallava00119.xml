@@ -166,7 +166,7 @@
                   <citedRange unit="item">15</citedRange>
                </bibl>
                
-               <bibl n="SII">
+               <bibl n="SII12">
                   <ptr target="bib:VenkatasubbaAyyar1943_01"/>
                   <citedRange unit="page">19</citedRange>
                   <citedRange unit="item">46</citedRange>
@@ -178,7 +178,7 @@
                   <citedRange unit="item">116</citedRange>            		
                </bibl>
                
-               <bibl n="YS">
+               <bibl n="SII34">
                   <ptr target="bib:Subbarayalu2015_01"/>
                   <citedRange unit="page">321<!--check--></citedRange>
                   <citedRange unit="item">347</citedRange>

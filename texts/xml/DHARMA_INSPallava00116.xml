@@ -146,7 +146,7 @@
    <p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/B/1904/262).</p>
    
    <p>Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS 15);  translated in <bibl><ptr target="bib:SrinivasaAiyar1941_01"/></bibl> (IPS 15); reedited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile (SII 12.46); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 116); reedited in <bibl><ptr target="bib:Subbarayalu2015_01"/></bibl> with facsimile (SII 34.347).</p>
-   <p>This revised edition Emmanuel Francis (2021), based on photos (V. Gillet, 2009).</p>
+   <p>This revised edition by Emmanuel Francis (2021), based on photos (V. Gillet, 2009).</p>
 
             <listBibl type="primary">
                
@@ -156,7 +156,7 @@
                   <citedRange unit="item">15</citedRange>
                </bibl>
                
-               <bibl n="VVA">
+               <bibl n="SII12">
                   <ptr target="bib:VenkatasubbaAyyar1943_01"/>
                   <citedRange unit="page">19</citedRange>
                   <citedRange unit="item">46</citedRange>
@@ -168,7 +168,7 @@
                   <citedRange unit="item">116</citedRange>            		
                </bibl>
                
-               <bibl n="YS">
+               <bibl n="SII34">
                   <ptr target="bib:Subbarayalu2015_01"/>
                   <citedRange unit="page">321<!--check--></citedRange>
                   <citedRange unit="item">347</citedRange>
