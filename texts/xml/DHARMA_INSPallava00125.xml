@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Centalai, donation, time of Nantippōttaraiyar, year 12</title>
+            <title>Centalai, time of Nantippōttaraiyar, year 12</title>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:emfr">
@@ -162,15 +162,15 @@
           </p>
           
           <p n="2-3">
-             12th year.
+             12th year<note>This is most probably the regnal year of <foreign>tellāṟṟ’ eṟinta nanti-pōttaraiyar</foreign> mentioned in lines 4-9.</note>..
           </p>
           
           <p n="3-34">
-             
+             ...
           </p>
           
           <p n="34-39">
-             
+             ...
           </p>
             	
             </div>
@@ -179,15 +179,17 @@
     		
     	</div>
             
-    	<div type="bibliography">
-    		
-<p>
-Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.447); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 125).</p><p>Edited and translated here by Emmanuel Francis, based on autopsy and photographs.
-</p>
-    		
+<div type="bibliography">   
+   
+   <p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1898-1899/B/1899/11).</p>
+   
+   <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.447); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 125).</p>
+   
+   <p>This revised edition by Emmanuel Francis, based on autopsy and photographs.</p>
+   
     		<listBibl type="primary">
     			
-    			<bibl n="KVS">
+    			<bibl n="SII">
     				<ptr target="bib:SubrahmanyaAiyer1928_01"/>
 	               		<citedRange unit="page">185</citedRange>
     				<citedRange unit="item">447</citedRange>	               		
@@ -200,15 +202,14 @@ Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.447); 
     			</bibl>
     		</listBibl>
     		
-    		<!--<listBibl type="secondary">
-    		   Update to ARE, 1899.11
-    			<bibl n="ARIE 1897-1898">
+    		<listBibl type="secondary">
+    			<bibl n="ARIE">
     				<ptr target="bib:ARIE1897-1898"/>
-    				<citedRange unit="page">18</citedRange>
-    				<citedRange unit="appendix">B/1898</citedRange>
-    				<citedRange unit="item">72</citedRange>
+    				<citedRange unit="page">23</citedRange>
+    				<citedRange unit="appendix">B/1899</citedRange>
+    				<citedRange unit="item">11</citedRange>
     			</bibl>
-    		</listBibl>-->
+    		</listBibl>
     		
             </div>
         </body>

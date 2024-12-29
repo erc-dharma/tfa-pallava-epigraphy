@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvatikai, donation, time of Nantippōttaraiyar, year 10</title>
+				<title>Tiruvatikai, time of Nantippōttaraiyar, no year</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -147,40 +147,40 @@
          	
          </div>
 
-      	<div type="translation" resp="part:emfr">
-      		<!--Complete translation-->
-      		
-      		<p n="1">
-      			Prosperity! Fortune!
-      		</p>
-      	   
-      		<p n="2-12">
-      		   
-      		</p>
-      	   
-      		<p n="12-26">
-      		   
-      		</p>
-      			
-      		<p n="27-28">
-      		   
-      		</p>
-      		         	
-         </div>      	
+<div type="translation" resp="part:emfr">
+	<!--Complete translation-->
+	
+	<p n="1">
+		Prosperity! Fortune!
+	</p>
+	
+	<p n="2-12">
+		...
+	</p>
+	
+	<p n="12-26">
+		...
+	</p>
+	
+	<p n="27-28">
+		...
+	</p>
+	
+</div>      	
          
-         <div type="commentary">
+<div type="commentary"/>
          	         	
-         </div>
-
-         <div type="bibliography">
-
-            <p>
-            	Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.309); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 123); encoded and first translated here by Emmanuel Francis (2021), based on previous editions.           	
-            </p>
+<div type="bibliography">
+            
+	<p>Reported in <bibl><ptr target="bib:ARIE1902-1903"/></bibl> (ARIE/1902-1903/B/1903/36).</p>
+	
+	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.309); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 123).</p>
+	
+	<p>This digital edition by Emmanuel Francis (2021), based on previous editions.</p>
 
             	<listBibl type="primary">
         		
-        		<bibl n="KVS">
+        		<bibl n="SII">
         			<ptr target="bib:SubrahmanyaAiyer1937_01"/>        			
         			<citedRange unit="page">168</citedRange>
         			<citedRange unit="item">309</citedRange>
