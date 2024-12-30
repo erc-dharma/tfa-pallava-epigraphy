@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Paṭūr, donation, time of Nandi<supplied reason="lost">varman</supplied>, year 18</title>
+            <title>Paṭūr, time of Nandivarman, year 18</title>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:emfr">
@@ -114,7 +114,7 @@
           
        </div>
        
-    	<!--<div type="apparatus">
+<!--<div type="apparatus">
     	   Add SII reading!!
     		<listApp>
     			
@@ -124,7 +124,7 @@
     			</app>
     			
     	
-    	</div>-->
+</div>-->
     	
        <div type="translation" resp="part:emfr">
           
@@ -133,11 +133,11 @@
           </p>
           
           <p n="1-3">
-             Eighteenth year of the <supplied reason="lost">victorious</supplied> king Nandi<supplied reason="lost">varman</supplied>.
+             Eighteenth year of the <supplied reason="lost">victorious king</supplied> Nan<supplied reason="lost">tiparuma</supplied>ṉ.<note>Sanskrit Nandivarman.</note>
           </p>
           
           <p n="3-11">
-             The sheep that the province shepherds of the province of Āmūr gave for one perpetual lamp given to the great Lord who graciously remains in the temple of Viṣṇu (named) Viḻupperuntāya in Paṭuvūr: ninety undying and un-aging great sheep.             
+             The sheep that the province shepherds of the province of Āmūr gave for one perpetual lamp given to the great Lord who graciously remains in the temple of Viṣṇu (named) Viḻupperuntāya in Paṭuvūr: ninety undying and unaging great sheep.             
           </p>
           
            <p n="11-13">
@@ -150,9 +150,10 @@
        
 <div type="bibliography">
     		
-<p>
-Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.54); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 136).</p><p>Encoded and translated here by Emmanuel Francis, based on previous editions.
-</p>
+   <p>Reported in <bibl><ptr target="bib:ARIE1934-1935"/></bibl> (ARIE/1934-1935/B/1934-1935/8).</p>
+   
+   <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.54); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 136).</p>
+   <p>This digital edition by Emmanuel Francis, based on previous editions.</p>
     		
     		<listBibl type="primary">
     			
@@ -169,15 +170,14 @@ Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.54);
     			</bibl>
     		</listBibl>
     		
-    		<!--<listBibl type="secondary">
-    		   Update to ARE, 1934-5.8
+    		<listBibl type="secondary">
     			<bibl n="ARIE">
-    				<ptr target="bib:ARIE1897-1898"/>
-    				<citedRange unit="page">18</citedRange>
-    				<citedRange unit="appendix">B/1898</citedRange>
-    				<citedRange unit="item">72</citedRange>
+    				<ptr target="bib:ARIE1934-1935"/>
+    				<citedRange unit="page">9</citedRange>
+    				<citedRange unit="appendix">B/1934-1935</citedRange>
+    				<citedRange unit="item">8</citedRange>
     			</bibl>
-    		</listBibl>-->
+    		</listBibl>
     		
             </div>
         </body>

@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvaṇṇāmalai, donation, time of Nandivikramavarman, year 17</title>
+				<title>Tiruvaṇṇāmalai, time of Nandivikrama, year 17</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:emfr">
@@ -87,7 +87,7 @@
           </ab> 
           
           <p>
-             kō-vi<hi rend="grantha">je</hi>ya-nantivikki<choice><orig>ṟ</orig><reg>r</reg></choice>ama-<surplus>tē</surplus>var<supplied reason="omitted">mar</supplied>kku yāṇṭu <num value="17"><g type="numeral">10</g> 7</num><g type="hyphen"/>vatu             
+             kō-vi<hi rend="grantha">je</hi>ya-nantivikki<choice><orig>ṟ</orig><reg>r</reg></choice>ama-tēvarkku yāṇṭu <num value="17"><g type="numeral">10</g> 7</num><g type="hyphen"/>vatu             
           </p>
           
           <p>
@@ -107,7 +107,7 @@
           <listApp>
              
              <app loc="1">
-                <lem>nantivikki<choice><orig>ṟ</orig><reg>r</reg></choice>ama<surplus>tē</surplus>var<supplied reason="omitted">mar</supplied>kku</lem>
+                <lem>nantivikki<choice><orig>ṟ</orig><reg>r</reg></choice>amatēvarkku</lem>
                 <rdg source="bib:Subramaniam1953_01 bib:Mahalingam1988_01">nantivikkiṟama<surplus>tē</surplus>var<supplied reason="omitted">mar</supplied>kku</rdg>                
              </app>
                   
@@ -169,7 +169,7 @@
           </p>
           
           <p>
-             Seventeenth year of the victorious king Nandivikramavarman.
+             Seventeenth year of the victorious king, the king Nantivikkirama<note>Sanskrit Nandivikrama.</note>.
           </p>
           
           <p>
@@ -186,7 +186,7 @@
           
             </div>
             
-    	<div type="commentary">
+ <div type="commentary">
     	   
     	   <p>This inscription has been copied for Colin Mackenzie at the beginning of the 18th century and has since been lost. This inscription could not be traced at the time of the complete epigraphical survey of the temple (<bibl><ptr target="bib:Srinivasan+Reiniche1990_01"/><citedRange unit="page">6</citedRange></bibl>). The only available documentation, its transcription without indication of line beginnings, is found in the Mackenzie manuscripts collection (GOML, D. 2869-3). The reading in this source might be flawed. The editorial conventions in <bibl><ptr target="bib:Subramaniam1953_01"/></bibl> are unclear. </p>
     	   
@@ -194,34 +194,33 @@
     		
     	</div>
             
-    	<div type="bibliography">
+ <div type="bibliography">
     		
-<p>
-Edited in <bibl><ptr target="bib:Subramaniam1953_01"/></bibl> (SITI 1.113); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 134); encoded and translated for the first time here by Emmanuel Francis (2022), based on previous edition(s).
-</p>
+    <p>Edited in <bibl><ptr target="bib:Subramaniam1953_01"/></bibl> (SITI 1.113); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 134).</p>
+    <p>This digital edition by Emmanuel Francis (2022), based on previous edition(s).</p>
     		
-    		<listBibl type="primary">
-    			
-    			<bibl n="S">
-    				<ptr target="bib:Subramaniam1953_01"/>
-	               		<citedRange unit="page">122-123</citedRange>
-    				<citedRange unit="item">113</citedRange>	               		
-    			</bibl>    
-    		   
-    			<bibl n="IP">
-	               		<ptr target="bib:Mahalingam1988_01"/>
-	               		<citedRange unit="page">402-403</citedRange>
-    				<citedRange unit="item">134</citedRange>
-    			</bibl>
-    		</listBibl>
+    <listBibl type="primary">
+       
+       <bibl n="SITI">
+          <ptr target="bib:Subramaniam1953_01"/>
+          <citedRange unit="page">122-123</citedRange>
+          <citedRange unit="item">113</citedRange>	               		
+       </bibl>    
+       
+       <bibl n="IP">
+          <ptr target="bib:Mahalingam1988_01"/>
+          <citedRange unit="page">402-403</citedRange>
+          <citedRange unit="item">134</citedRange>
+       </bibl>
+    </listBibl>
+    
+    <listBibl type="secondary">
+       <bibl>
+          <ptr target="bib:Srinivasan+Reiniche1990_01"/>
+       </bibl>
+    </listBibl>
     		
-    		<listBibl type="secondary">
-    			<bibl>
-    				<ptr target="bib:Srinivasan+Reiniche1990_01"/>
-    			</bibl>
-    		</listBibl>
-    		
-            </div>
-        </body>
+ </div>
+    </body>
     </text>
 </TEI>

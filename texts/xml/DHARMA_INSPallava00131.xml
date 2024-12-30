@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Māṅkāṭu, regulation, time of Nandivikramavarman, year 17</title>
+            <title>Māṅkāṭu, time of Nandivikramavarman, year 17</title>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:emfr">
@@ -118,26 +118,27 @@
           </p>
           
           <p n="2">
-             Seventeenth year of the victorious king Nandivikramavarman.
+             Seventeenth year of the victorious king Nantivikkiramaparumaṉ<note>Sanskrit Nandivikramavarman.</note>.
           </p>
           
           <p n="2-4">
-             
+             ...
           </p>
           
        </div>
        
-       <div type="commentary">
+<div type="commentary">
           
           <p n="3"><foreign>ceḻiya-vāṇiyarkaḷ</foreign>. See <ptr target="bib:Mahalingam1988_01"/>: “Perhaps they were merchants from the Pāṇḍya (Ceḻiya) country.”</p>
        </div>
        
-       <div type="bibliography">
+<div type="bibliography">
           
-          <p>
-             Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.53); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 131).</p>
-          <p>Encoded and translated here by Emmanuel Francis, based on previous editions.
-          </p>
+   <p>Reported in <bibl><ptr target="bib:ARIE1908-1909"/></bibl> (ARIE/1908-1909/B/1908/352).</p>
+   
+   <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.53); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 131).</p>
+   
+   <p>This digital edition by Emmanuel Francis, based on previous editions.</p>
           
           <listBibl type="primary">
              
@@ -154,15 +155,14 @@
              </bibl>
           </listBibl>
           
-          <!--<listBibl type="secondary">
-             Update to ARE, 1908.352
+          <listBibl type="secondary">
              <bibl n="ARIE">
-             <ptr target="bib:ARIE1897-1898"/>
-             <citedRange unit="page">18</citedRange>
-             <citedRange unit="appendix">B/1898</citedRange>
-             <citedRange unit="item">72</citedRange>
+             <ptr target="bib:ARIE1908-1909"/>
+             <citedRange unit="page">38</citedRange>
+             <citedRange unit="appendix">B/1908</citedRange>
+             <citedRange unit="item">352</citedRange>
              </bibl>
-             </listBibl>-->
+             </listBibl>
           
        </div>
         </body>
