@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kāvērippākkam, donation, time of Nṛpatuṅgavarman, year 15</title>
+				<title>Kāvērippākkam, time of Nṛpatuṅgavarman, year 15</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:emfr">
@@ -129,11 +129,13 @@
     		
     	</div>
             
-    	<div type="bibliography">
-    		
-<p>
-Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.67). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 158).</p><p>Encoded and translated here by Emmanuel Francis, based on previous editions.
-</p>
+<div type="bibliography">
+	
+	<p>Reported in <bibl><ptr target="bib:ARIE1905-1906"/></bibl> (ARIE/1905-1906/B/1905/404).</p>
+	
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.67). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 158).</p>
+	
+	<p>This digital edition by Emmanuel Francis, based on previous editions.</p>
     		
     		<listBibl type="primary">
     			
@@ -150,15 +152,14 @@ Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.67).
     			</bibl>
     		</listBibl>
     		
-    		<!--<listBibl type="secondary">
-    		   Update to 1905.404
+    		<listBibl type="secondary">
     			<bibl n="ARIE">
-    				<ptr target="bib:ARIE1897-1898"/>
-    				<citedRange unit="page">18</citedRange>
-    				<citedRange unit="appendix">B/1898</citedRange>
-    				<citedRange unit="item">72</citedRange>
+    				<ptr target="bib:ARIE1905-1906"/>
+    				<citedRange unit="page">26</citedRange>
+    				<citedRange unit="appendix">B/1905</citedRange>
+    				<citedRange unit="item">404</citedRange>
     			</bibl>
-    		</listBibl>-->
+    		</listBibl>
     		
             </div>
         </body>
