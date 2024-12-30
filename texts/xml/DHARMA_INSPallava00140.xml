@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kūram, Śiva temple pillar</title>
+            <title>Kūram, Śiva temple, time of Nandivarman</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Regulation by the king Nandivarman pertaining to a land-grant.
+                  <summary>Pillar inscription recording a regulation by the king Nandivarman pertaining to a land-grant.
 </summary>
                </msContents>
                <physDesc>
@@ -177,15 +177,15 @@
             </p>
             
             <p n="1-3">
-               Writ of the Mahārāja Nandivarman.
+               Writ of the <foreign>mahārāja</foreign> Nantivarman.<note>SanskritNandivarman.</note>
             </p>
             
             <p n="3-7">
-               Let the honourable members of the assembly of Kūram know<note>Literally: "see".</note>!
+               Let the honourable members of the assembly of Kūram know!<note>Literally, see.</note>
             </p>
             
             <p n="7-14">
-               Having removed the previous holders of the six <foreign>paṭṭi</foreign>s of land named <supplied reason="explanation"><foreign>āyiṉa</foreign><note>Literally: "which is".</note></supplied> Akkaḷanimmaṭippoṟṟi in their village, in the twentieth year <gap reason="undefined"/>
+               Having removed the previous holders of the six <foreign>paṭṭi</foreign>s of land named <supplied reason="explanation"><foreign>āyiṉa</foreign><note>Literally, which is.</note></supplied> Akkaḷanimmaṭippoṟṟi in their village, in the twentieth year <gap reason="undefined"/>
             </p>
             
             <p n="14-26">
@@ -194,19 +194,17 @@
             
          </div>
       	      	
-<div type="commentary">
-		
-</div>
+<div type="commentary"/>	
       	
 <div type="bibliography">
 
-            <p>
-Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.38); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 140); lines 1-11 re-edited, based on photographs, and lines 12-26 encoded, based on previous editions, by Emmanuel Francis (2021).
-            </p>
+   <p>Reported in <bibl><ptr target="bib:ARIE1899-1900"/></bibl> (ARIE/1899-1900/B/1900/38).</p>
+   <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.38). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 140).</p>
+   <p>This digital edition by Emmanuel Francis, based on previous editions. Lines 1-11 revised by Emmanuel Francis, based on photographs.</p>
 
 	<listBibl type="primary">
 		
-		<bibl n="KVSA">
+		<bibl n="SII">
 			<ptr target="bib:SubrahmanyaAiyer1932_01"/>
 			<citedRange unit="page">16</citedRange>
 			<citedRange unit="item">40</citedRange>

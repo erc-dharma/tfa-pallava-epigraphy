@@ -8,16 +8,9 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirucceṉṉampūṇṭi, donation, time of Nantippōttaraiyaṉ, year 18</title>
+				<title>Tirucceṉṉampūṇṭi, time of Nantippōttaraiyar, year 18</title>
 				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
+					<resp>author of digital edition</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
@@ -103,9 +96,9 @@
       		<p>
       			ti
       			<lb n="7" break="no"/>ru-k-kaṭai-muṭi
-      			<lb n="8"/><hi rend="grantha">m<choice><sic>ā</sic><corr>a</corr></choice>h<choice><sic>a</sic><corr>ā</corr></choice>de</hi>vark
+      			<lb n="8"/><hi rend="grantha">m<choice><sic>ā</sic><corr>a</corr></choice>h<choice><sic>a</sic><corr>ā</corr></choice>-de</hi>vark
       			<lb n="9" break="no"/>ku Iraṇṭu no
-      			<lb n="10" break="no"/>ntā viḷakkiṉu
+      			<lb n="10" break="no"/>ntā-viḷakkiṉu
       			<lb n="11" break="no"/>kku kuṭutta po
       			<lb n="12" break="no"/>ṉ Aṟupatiṉ
       			<lb n="13"/>kaḻañcu
@@ -163,7 +156,7 @@
       		</p>
       		
       		<p n="2-6">
-      			18th year of Nantippōttaraiyar who vanquished at Teḷḷāṟu.
+      			18th year of Nantippōttaraiyar<note>That is, the Pallava king Nandin.</note> who vanquished at Teḷḷāṟu.
       		</p>
       		
       		<p n="6-13">
@@ -185,14 +178,13 @@
       	
 <div type="bibliography">
 
-   <p>
-      Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.503); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 137); edited and translated by <bibl><ptr target="bib:Schmid2014_02"/></bibl>; edited and translated here by Emmanuel Francis, based on photos.
-   	<!--Add Schmid-->
-   </p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1900-1901"/></bibl> (ARIE/1900-1901/A/1901/283).</p>
+	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.503); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 137); edited and translated by <bibl><ptr target="bib:Schmid2014_02"/></bibl>.</p>
+	<p>This revised edition by Emmanuel Francis, based on photos.</p>
    
 	<listBibl type="primary">
 		
-		<bibl n="KVSA">
+		<bibl n="SII">
 			<ptr target="bib:SubrahmanyaAiyer1932_01"/>
 			<citedRange unit="page">312</citedRange>
 			<citedRange unit="item">503</citedRange>
@@ -214,12 +206,12 @@
    
    <listBibl type="secondary">
       	
-      	<bibl n="ARIE">
-         <ptr target="bib:ARIE1900-1901"/>
-         <citedRange unit="page">26</citedRange>
-         <citedRange unit="appendix">B/1901</citedRange>
-         <citedRange unit="item">283</citedRange>         
-      </bibl>            
+   	<bibl n="ARIE">
+   		<ptr target="bib:ARIE1900-1901"/>
+   		<citedRange unit="page">26</citedRange>
+   		<citedRange unit="appendix">B/1901</citedRange>
+   		<citedRange unit="item">283</citedRange>         
+   	</bibl>            
       
    </listBibl>
 	
