@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruppālattuṟai, donation, time of Nantippōtairayaṉ, year 22</title>
+				<title>Tiruppālattuṟai, time of Nantippōtairayaṉ, year 22</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:emfr">
@@ -137,7 +137,7 @@
     		</p>
     		
     		<p n="2-6">
-    			Twenty-first year of Nantippōttaraiyar who destroyed Teḷḷāṟu. 
+    			Twenty-first year of Nantippōttaraiyar<note>That is, the Pallava king Nandin.</note> who destroyed Teḷḷāṟu. 
     		</p>
     		
     		<p n="6-13">
@@ -154,16 +154,16 @@
     		    		
     	</div>
             
-    	<div type="commentary">
-    		<p>This appears to be a later copy of an original of the 9th century, as indicated by Cōḻa-period placenames (updated to the time of the copy).</p>    		
-    		
-    	</div>
+<div type="commentary">
+	<p>This appears to be a later copy of an original of the 9th century, as indicated by Cōḻa-period placenames (updated to the time of the copy).</p>    		
+	
+</div>
             
-    	<div type="bibliography">
-    		
-<p>
-Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.56); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 142).</p><p>Encoded and translated here by Emmanuel Francis, based on previous editions.
-</p>
+<div type="bibliography">
+        
+	<p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/B/1907/180).</p>
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.56). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 142).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous editions.</p>
     		
     		<listBibl type="primary">
     			
@@ -180,15 +180,14 @@ Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.56);
     			</bibl>
     		</listBibl>
     		
-    		<!--<listBibl type="secondary">
-    		   Update to ARE, 1928-9.144
+    		<listBibl type="secondary">
     			<bibl n="ARIE">
-    				<ptr target="bib:ARIE1897-1898"/>
+    				<ptr target="bib:ARIE1907-1908"/>
     				<citedRange unit="page">18</citedRange>
-    				<citedRange unit="appendix">B/1898</citedRange>
-    				<citedRange unit="item">72</citedRange>
+    				<citedRange unit="appendix">B/1907</citedRange>
+    				<citedRange unit="item">180</citedRange>
     			</bibl>
-    		</listBibl>-->
+    		</listBibl>
     		
             </div>
         </body>

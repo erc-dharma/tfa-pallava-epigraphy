@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Ceṉṉivāyakkāl, hero-stone, time of Nantippōtairayaṉ, year 21</title>
+				<title>Ceṉṉivāyakkāl, time of Nantippōtairayar, year 21</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:emfr">
@@ -40,8 +40,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Hero-stone commemorating the death of a Brahmin during a raid on a
-								<foreign>maṭha</foreign>.</summary>
+						<summary>Hero-stone commemorating the death of a Brahmin during a raid on a <foreign>maṭha</foreign>.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -132,29 +131,26 @@
           </p>
        	
        	<p n="2-7">
-             Twenty-first year of Nantippōttaraiyar who destroyed Teḷḷāṟu and took the kingdom/assumed sovereignty. 
+             Twenty-first year of Nantippōttaraiyar<note>That is, the Pallava king Nandin.</note> who destroyed Teḷḷāṟu and took the kingdom/assumed sovereignty. 
           </p>
           
           <p n="8-20">
-          	
+          	...
           </p>
-                  
                                	
             </div>
             
-    	<div type="commentary">
+<div type="commentary">
     		<p>This appears to be a later copy of an original of the 9th century, as indicated by Cōḻa-period placenames (updated to the time of the copy).</p>    		
     		
     	</div>
             
-<div type="bibliography">
-    		
-	<p>
-		Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.56); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 141).
-	</p>
-	<p>
-		Encoded and translated here by Emmanuel Francis, based on previous editions.
-	</p>
+<div type="bibliography">	
+	
+	<p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/144).</p>
+	
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.56). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 141).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous editions.</p>
 	
 	<listBibl type="primary">
 		
@@ -171,15 +167,14 @@
 		</bibl>
 	</listBibl>
 	
-	<!--<listBibl type="secondary">
-		Update to ARE, 1928-9.144
+	<listBibl type="secondary">
 		<bibl n="ARIE">
-		<ptr target="bib:ARIE1897-1898"/>
-		<citedRange unit="page">18</citedRange>
-		<citedRange unit="appendix">B/1898</citedRange>
-		<citedRange unit="item">72</citedRange>
+			<ptr target="bib:ARIE1928-1929"/>
+			<citedRange unit="page">18</citedRange>
+			<citedRange unit="appendix">B/1928-1929</citedRange>
+			<citedRange unit="item">144</citedRange>
 		</bibl>
-		</listBibl>-->
+	</listBibl>
 	
 </div>
         </body>
