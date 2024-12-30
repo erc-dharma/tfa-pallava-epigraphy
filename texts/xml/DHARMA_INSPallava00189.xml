@@ -8,8 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Āmpūr, time of
-					Nṛpatuṅgavikramavarman, year 26</title>
+            <title>Āmpūr, time of Nṛpatuṅgavikramavarman, year 26</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -48,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Hero-stone in honour of Kaliyirāmaṉ.</summary>
+                  <summary>Hero-stone bearing an inscription in honour of Kaliyirāmaṉ.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -116,19 +115,17 @@
             <p n="4-11">When the Nuḷampaṉ came <supplied reason="subaudible">with</supplied> his army upon Āmaiyūr, in the Mēlaṭaiyārunāṭu in the Paṭuvūrkkōṭṭam, and seized cattle, Kaliyirāṁaṉ, a hunter <gap reason="ellipsis"/>, the nephew of Akalaṅkattuvarāyar, a servant of Pirutikaṅkaraiyar, died.</p>
          </div>
          
-         <div type="commentary">
+<div type="commentary"/>
             
-         </div>
-         
-         <div type="bibliography">
+<div type="bibliography">
             
-            <p>
-               Edited and translated in <bibl><ptr target="bib:Hultzsch1896-1897_06"/></bibl> (EI 4.23B); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 188); re-edited and translated here by Emmanuel Francis (2021), based on the previous editions.
-            </p>
+   <p>Reported in <bibl><ptr target="bib:ARIE1895-1896"/></bibl> (ARIE/1895-1896/B/1896/8).</p>
+   <p>Edited and translated in <bibl><ptr target="bib:Hultzsch1896-1897_06"/></bibl> (EI 4.23B). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 188).</p>
+   <p>This revised edition Emmanuel Francis, based on the previous editions.</p>
             
             <listBibl type="primary">
                
-               <bibl n="H">
+               <bibl n="EI">
                   <ptr target="bib:Hultzsch1896-1897_06"/>
                   <citedRange unit="page">183</citedRange>
                </bibl>
@@ -140,17 +137,14 @@
                
             </listBibl>
             
-            <!--<listBibl type="secondary">
-               
-               <bibl n="ARIE">
-                  Update to ARIE, 1896.8
-                  <ptr target="bib:ARIE1897-1898"/>
-                  <citedRange unit="page">18</citedRange>
-                  <citedRange unit="appendix">B/1898</citedRange>
-                  <citedRange unit="item">81</citedRange>
-               </bibl>
-               
-            </listBibl>-->
+   <listBibl type="secondary">               
+      <bibl n="ARIE">
+         <ptr target="bib:ARIE1895-1896"/>
+         <citedRange unit="page">9</citedRange>
+         <citedRange unit="appendix">B/1896</citedRange>
+         <citedRange unit="item">8</citedRange>
+      </bibl>      
+   </listBibl>
             
          </div>
          
