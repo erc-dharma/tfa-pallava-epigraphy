@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Vañcikkuḻi hero-stone, time of Narasiṁhavarman, year 24</title>
+				<title>Vañcikkuḻi, time of Narasiṁhavarman, year 24</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -136,7 +136,7 @@
          <div type="bibliography">
 
             <p>
-Edited in <bibl><ptr target="bib:Rāmēṣ2008_01"/></bibl> (Āvaṇam 19.2), with a picture; encoded and translated here by Emmanuel Francis (2022), based on previous edition(s).
+Edited in <bibl><ptr target="bib:Rāmēṣ2008_01"/></bibl> (Āvaṇam 19.2), with a picture; encoded and translated here by Emmanuel Francis, based on previous edition(s).
             </p>
 
          	<listBibl type="primary">

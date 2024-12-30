@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kīraicāttu Hero-Stone, time of Nandīśvaravarman, year 37</title>
+				<title>Kīraicāttu, time of Nandīśvaravarman, year 37</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -49,11 +49,11 @@
 					<msContents>
 						<summary>Hero-stone commemorating the death of Vakkaṭi.</summary>
 					</msContents>
-					<!--<physDesc>
+					<physDesc>
 						<handDesc>
 							<p></p>
 						</handDesc>
-					</physDesc>-->
+					</physDesc>
 				</msDesc>
 			</sourceDesc>
 		</fileDesc>
@@ -134,7 +134,7 @@
          <div type="bibliography">
 
             <p>
-Edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 7.3); text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded and translated here by Emmanuel Francis (2022), based on previous editions.
+Edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 7.3); text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded and translated here by Emmanuel Francis, based on previous editions.
             </p>
 
          	<listBibl type="primary">

@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kāṭṭumalaiyaṉūr hero-stone, time of Nandīśvara, year 6[?]</title>
+				<title>Kāṭṭumalaiyaṉūr, time of Nandīśvara, year 6[?]</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -55,7 +55,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero.</summary>
+						<summary>Hero-stone. Records the death of a hero.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>

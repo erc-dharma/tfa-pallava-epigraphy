@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Baṅgavāḍi, time of Narasiṃhavikramavarman, year 24 hero-stone</title>
+            <title>Baṅgavāḍi, time of Narasiṃhavikramavarman, year 24</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -206,7 +206,7 @@
       	
 <div type="bibliography">
 
-   <p>Edited in <bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl> with facsimile and English translation (EI 7.4.1); edited in <bibl><ptr target="bib:Rice1905_01"/><!--update!--></bibl> with facsimile (line 6 missing) and English translation (EC 10, Mulbagal.227). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 252); re-edited here by Emmanuel Francis (2020), based on the edition and facsimile published in <bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl>.</p>
+   <p>Edited in <bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl> with facsimile and English translation (EI 7.4.1); edited in <bibl><ptr target="bib:Rice1905_01"/><!--update!--></bibl> with facsimile (line 6 missing) and English translation (EC 10, Mulbagal.227). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 252); re-edited here by Emmanuel Francis, based on the edition and facsimile published in <bibl><ptr target="bib:Hultzsch1902-1903_01"/></bibl>.</p>
    
    <listBibl type="primary">
       

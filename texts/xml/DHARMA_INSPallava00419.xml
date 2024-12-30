@@ -9,7 +9,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Vēṭartaṭṭakkal, hero-stone, time of Narasiṃavarman, no year</title>
+				<title>Vēṭartaṭṭakkal, time of Narasiṃavarman, no year</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -142,7 +142,7 @@
       		
 	<p>Reported in <bibl><ptr target="bib:ARIE1979-1980"/></bibl> (ARIE/1979-1980/B/1979-1980/233).</p>
 	<p>Edited in <bibl><ptr target="bib:Sampath1980_01"/></bibl>; text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
-	<p>Edited here by Emmanuel Francis (2022) based 0n <bibl><ptr target="bib:Sampath1980_01"/></bibl>.</p>
+	<p>Edited here by Emmanuel Francis based 0n <bibl><ptr target="bib:Sampath1980_01"/></bibl>.</p>
 	
 	<listBibl type="primary">
 		

@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Puḷiyaṉūr Hero-Stone, time of Mahendravarman, year 20</title>
+				<title>Puḷiyaṉūr, time of Mahendravarman, year 20</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -178,7 +178,7 @@
          		text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl> (3 epigraphical lines, by mistake).
          	</p>
          	<p>         		
-         		Encoded and translated here by Emmanuel Francis (2022), based on <bibl><ptr target="bib:Nakacami1975_01"/></bibl>.
+         		Encoded and translated here by Emmanuel Francis, based on <bibl><ptr target="bib:Nakacami1975_01"/></bibl>.
             </p>
 
          	<listBibl type="primary">
