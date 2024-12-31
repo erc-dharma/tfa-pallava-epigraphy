@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Vallam, foundation</title>
+				<title>Vallam, foundation inscription by Kommai</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -49,11 +49,11 @@
 					<msContents>
 						<summary>Foundation of a temple (<foreign>tēvakulam</foreign>).</summary>
 					</msContents>
-					<!--<physDesc>
+					<physDesc>
 						<handDesc>
 							<p></p>
 						</handDesc>
-					</physDesc>-->
+					</physDesc>
 				</msDesc>
 			</sourceDesc>
 		</fileDesc>

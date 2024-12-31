@@ -49,11 +49,11 @@
 					<msContents>
 						<summary>Donation of gold for daily food offering for a god's temple.</summary>
 					</msContents>
-					<!--<physDesc>
+					<physDesc>
 						<handDesc>
 							<p></p>
 						</handDesc>
-					</physDesc>-->
+					</physDesc>
 				</msDesc>
 			</sourceDesc>
 		</fileDesc>
@@ -170,9 +170,8 @@
 
          <div type="bibliography">
 
-            <p>
-Edited in <bibl><ptr target="bib:Cankita+al_1998"/></bibl> (Varalāṟu 8.3). Edited and translated here by Emmanuel Francis, based on previous edition(s) and, for lines 1-7, on photographs (2016) kindly provided by Valérie Gillet.
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Cankita+al_1998"/></bibl> (Varalāṟu 8.3).</p>
+         	<p>Edited and translated here by Emmanuel Francis, based on previous edition(s) and, for lines 1-7, on photos (2016, kindly supplied by Valérie Gillet).</p>
 
          	<listBibl type="primary">
          		

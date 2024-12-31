@@ -164,17 +164,17 @@
       		      				         	
          </div>      	
          
-         <div type="commentary">
+<div type="commentary">
          	
          	<p n="1-2">Note on the lost year: between 11th and 19th.</p>
          	         	
          </div>
 
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-            	Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.82). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 169); encoded and first translated here by Emmanuel Francis, based on previous edition(s).           	
-            </p>
+            <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.82). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 169)</p>
+	
+	<p>Encoded and first translated here by Emmanuel Francis, based on previous edition(s).</p>
 
             	<listBibl type="primary">
         		
@@ -188,8 +188,7 @@
         			<ptr target="bib:Mahalingam1988_01"/>
         			<citedRange unit="page">483</citedRange>
         			<citedRange unit="item">169</citedRange>
-        		</bibl>
-        		
+        		</bibl>        		
         		
         	</listBibl>
         	

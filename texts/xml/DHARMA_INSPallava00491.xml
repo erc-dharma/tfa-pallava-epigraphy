@@ -47,14 +47,13 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Hero-stone (?) commemorating the death of Āykaivāpāṭi
-							Valiyār.</summary>
+						<summary>Hero-stone (?) commemorating the death of Āykaivāpāṭi Valiyār.</summary>
 					</msContents>
-					<!--<physDesc>
-                  <handDesc>
-                     <p></p>
-                  </handDesc>
-               </physDesc>-->
+					<physDesc>
+						<handDesc>
+							<p></p>
+						</handDesc>
+					</physDesc>
 				</msDesc>
 			</sourceDesc>
 		</fileDesc>

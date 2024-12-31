@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tiruvatikai, slab, time of Paramēccurappōttaraiyar, year 3</title>
+            <title>Tiruvatikai, time of Paramēccurappōttaraiyar, year 3</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Donation of paddy and gold by Maṇiyaṉ, a devotee of the Mahādeva of the Akatti<hi rend="grantha">śvara</hi>m temple in Aviṉūr.</summary>
+                  <summary>Slab inscription recording the donation of paddy and gold by Maṇiyaṉ, a devotee of the Mahādeva of the Akatti<hi rend="grantha">śvara</hi>m temple in Aviṉūr.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -351,15 +351,14 @@
          	
          </div>
 
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-            	Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.331). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 71). Edited and first translated here by Emmanuel Francis, based on photographs (2007).           	
-            </p>
+   <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.331). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 71).</p>
+   <p>Edited and first translated here by Emmanuel Francis, based on photos (2007).</p>
 
             	<listBibl type="primary">
         		
-        		<bibl n="KVS">
+        		<bibl n="SII">
         			<ptr target="bib:SubrahmanyaAiyer1937_01"/>        			
         			<citedRange unit="page">177-178</citedRange>
         			<citedRange unit="item">331</citedRange>
