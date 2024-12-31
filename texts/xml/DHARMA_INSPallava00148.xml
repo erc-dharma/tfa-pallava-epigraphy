@@ -264,7 +264,7 @@
 
    <p>
       Edited and translated by <bibl><ptr target="bib:Hultzsch1913_02"/></bibl>, with an estampage; revised edition and translation by <bibl><ptr target="bib:Hultzsch1914_01"/></bibl>; re-edited in <bibl><ptr target="bib:GopinathaRao1925-1926_01"/></bibl>, <bibl><ptr target="bib:NilakantaSastri1932_02"/></bibl>, <bibl><ptr target="bib:NilakantaSastri1949_01"/></bibl> (without diacritic marks!); text in <bibl><ptr target="bib:Coedes1929_01"/></bibl>, after Hultzsch. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 148).</p>
-	<p>This revised edition by Emmanuel Francis, based on previous editions, published visual documentation and a photograph (2012), kindly supplied by Nicolas Revire.
+	<p>This revised edition by Emmanuel Francis, based on previous editions, published visual documentation and a photograph (2012, kindly supplied by Nicolas Revire).
    </p>
    
 	<listBibl type="primary">
@@ -277,7 +277,7 @@
 			<ptr target="bib:Hultzsch1914_01"/>
 		</bibl>
 		
-		<bibl n="GR">
+		<bibl n="EI">
 			<ptr target="bib:GopinathaRao1925-1926_01"/>
 		</bibl>
 		
@@ -317,7 +317,7 @@
 	<listBibl type="secondary">
 		
 		<bibl>
-			<ptr target="bib:Finot1910_01"/>
+			<ptr target="bib:Finot1910_01"/><!--Check ZST-->
 			<citedRange unit="page">148</citedRange>
 			<citedRange unit="item">5</citedRange>
 			<citedRange unit="plate">XIII</citedRange>
@@ -325,8 +325,7 @@
 		
 		<bibl>
 			<ptr target="bib:Subbarayalu2012_01"/>
-		</bibl>     
-		
+		</bibl>		
 		
 	</listBibl>
 		

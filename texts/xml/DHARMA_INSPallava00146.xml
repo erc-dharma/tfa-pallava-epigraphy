@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirucceṉṉampūṇṭi, donation of the time (?) of Nantippōttaraiyar</title>
+				<title>Tirucceṉṉampūṇṭi, time of Nantippōttaraiyar (?)</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -213,20 +213,18 @@
       		
       	</div>
       	      	
-<div type="commentary">
+<div type="commentary"/>
 		
-</div>
       	
 <div type="bibliography">
-
-   <p>
-      Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.524). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 146); edited and translated by <bibl><ptr target="bib:Schmid2014_02"/></bibl>; edited and translated here by Emmanuel Francis, based on photos.
-   	<!--Add Schmid-->
-   </p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1900-1901"/></bibl> (ARIE/1900-1901/A/1901/302).</p>
+	
+	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.524). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 146). Edited and translated by <bibl><ptr target="bib:Schmid2014_02"/></bibl>.</p>
+	<p>This revised edition by Emmanuel Francis, based on photos.</p>
    
 	<listBibl type="primary">
 		
-		<bibl n="KVSA">
+		<bibl n="SII">
 			<ptr target="bib:SubrahmanyaAiyer1932_01"/>
 			<citedRange unit="page">318</citedRange>
 			<citedRange unit="item">524</citedRange>

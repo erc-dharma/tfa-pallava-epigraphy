@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-             <title>Guḍimallam, Parameśurāmeśvara temple, stele, Nandivarman III, year 23</title>
+             <title>Guḍimallam, Parameśurāmeśvara, time of Nantippōttaraiyar, year 23</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,13 +47,13 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                   <summary>Donation, after purchase, of a land for supplying ghee for maintaining perpetual lamps.</summary>
+                   <summary>Stele with an inscription recording a donation, after purchase, of a land for supplying ghee for maintaining perpetual lamps.</summary>
                </msContents>
-               <!--<physDesc>
+               <physDesc>
                   <handDesc>
                      <p/>
                   </handDesc>
-               </physDesc>-->
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
@@ -214,7 +214,7 @@
   	   </p>
   	   
   	   <p n="1-5">
-  	      Twenty-third year of Nantippōttaraiyar.
+  	      Twenty-third year of Nantippōttaraiyar.<note>That is, the Pallava king Nandin, that is, Nandivarman III.</note>
   	   </p>
   	   
   	   <p n="5-24">
@@ -245,40 +245,41 @@
   		
   	</div>
   	
-  	<div type="bibliography">
+<div type="bibliography">
+    
+    <p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/A/1903/229).</p>
+    
+    <p>Edited and translated into English in <bibl><ptr target="bib:GopinathaRao1911_01"/></bibl>. Edited and translated into English in <bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> (EI 11.22A), with facsimile. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 144).</p>
+    
+    <p>This revised edition by Emmanuel Francis, based on photographs (2019, Valérie Gillet).</p>
   		
-<p>
-Edited and translated into English in <bibl><ptr target="bib:GopinathaRao1911_01"/></bibl>; re-edited and translated into English in <bibl><ptr target="bib:Venkayya1911-1912_01"/></bibl> (EI 11.22A), with facsimile. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 144); re-edited and translated here by Emmanuel Francis, based on photographs (2019), kindly provided by Valérie Gillet.
-</p>
-
-  		
-  		<listBibl type="primary">
-  			<bibl n="GR">
-  				<ptr target="bib:GopinathaRao1911_01"/>
-  				<citedRange unit="item">D</citedRange>
-  				<citedRange unit="page">111-113</citedRange>
-  			</bibl>
-  			<bibl n="V">
-  				<ptr target="bib:Venkayya1911-1912_01"/>
-  				<citedRange unit="item">A</citedRange>
-  				<citedRange unit="page">224-225</citedRange>
-  			</bibl>
-  			<bibl n="IP">
-  				<ptr target="bib:Mahalingam1988_01"/>
-  				<citedRange unit="item">144</citedRange>
-  				<citedRange unit="page">421-422</citedRange>
-  			</bibl>
-  		</listBibl>
-  		
-  		<listBibl type="secondary">
-  			
-  			<bibl n="ARIE">
-  				<ptr target="bib:ARIE1903-1904"/>
-    				<citedRange unit="page">22</citedRange>
-    				<citedRange unit="appendix">A/1903</citedRange>
-    				<citedRange unit="item">229</citedRange>
-    			</bibl>
-  		</listBibl>
+    <listBibl type="primary">
+        <bibl n="IA">
+            <ptr target="bib:GopinathaRao1911_01"/>
+            <citedRange unit="item">D</citedRange>
+            <citedRange unit="page">111-113</citedRange>
+        </bibl>
+        <bibl n="EI">
+            <ptr target="bib:Venkayya1911-1912_01"/>
+            <citedRange unit="item">A</citedRange>
+            <citedRange unit="page">224-225</citedRange>
+        </bibl>
+        <bibl n="IP">
+            <ptr target="bib:Mahalingam1988_01"/>
+            <citedRange unit="item">144</citedRange>
+            <citedRange unit="page">421-422</citedRange>
+        </bibl>
+    </listBibl>
+    
+    <listBibl type="secondary">
+        
+        <bibl n="ARIE">
+            <ptr target="bib:ARIE1903-1904"/>
+            <citedRange unit="page">22</citedRange>
+            <citedRange unit="appendix">A/1903</citedRange>
+            <citedRange unit="item">229</citedRange>
+        </bibl>
+    </listBibl>
             </div>
         </body>
     </text>

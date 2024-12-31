@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kīḻūr, donation, time of Nṛpatuṅgavarman (?), year 3</title>
+				<title>Kīḻūr, time of Nṛpatuṅgavarman (?), year 3</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -160,19 +160,19 @@
       		
       	</div>
       	      	
-<div type="commentary">
-			
-</div>
+<div type="commentary"/>
       	
 <div type="bibliography">
+	
+	<p>Reported in <bibl><ptr target="bib:ARIE1901-1902"/></bibl> (ARIE/1901-1902/B/1902/304).</p>
 
-   <p>
-      Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.933). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 150); encoded here and translated for the first time by Emmanuel Francis.
-   </p>
+	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.933). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 150).</p>
+	
+	<p>This digital edition by Emmanuel Francis.</p>
    
    <listBibl type="primary">
       
-      <bibl n="KVSA">
+      <bibl n="SII">
          <ptr target="bib:SubrahmanyaAiyer1932_01"/>
          <citedRange unit="page">457</citedRange>
          <citedRange unit="item">933</citedRange>

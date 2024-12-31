@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Lālkuṭi, donation, time of Nṛpatuṅgavikramavarman, year 3</title>
+				<title>Lālkuṭi, time of Nṛpatuṅgavikramavarman, year 3</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:emfr">
@@ -134,7 +134,7 @@
     		</p>
     		
     		<p n="2">
-    			Second year of the victorious king Nṛpatuṅgavikramavarman. 
+    			Second year of the victorious king nirupatoṅka-vikkirama-parumar.<note>Sanskrit Nṛpatuṅgavikramavarman.</note> 
     		</p>
     		
     		<p n="1-3">
@@ -155,25 +155,24 @@
     		    		
     	</div>
             
-    	<div type="commentary">
+<div type="commentary"/>
     		    		
-    	</div>
-            
-    	<div type="bibliography">
-    		
-<p>
-Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.61). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 149).</p><p>Encoded and translated here by Emmanuel Francis, based on previous editions and photos.
-</p>
+<div type="bibliography">
+	
+	<p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/122).</p>
+	
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.61). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 149).</p>
+	<p>This revised edition by Emmanuel Francis, based on previous editions and photos (2016, kindly supplied by Valérie Gillet).</p>
     		
     		<listBibl type="primary">
     			
-    			<bibl n="VA">
+    			<bibl n="SII">
          			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
          			<citedRange unit="page">25</citedRange>
          			<citedRange unit="item">61</citedRange>
          		</bibl> 
     		   
-    			<bibl n="M">
+    			<bibl n="IP">
 	               		<ptr target="bib:Mahalingam1988_01"/>
 	               		<citedRange unit="page">435-436</citedRange>
     				<citedRange unit="item">149</citedRange>
