@@ -8,8 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Nārttāmalai, foundation and donation, time of Nṛpatuṅkavikramavarman, year
-					7</title>
+				<title>Nārttāmalai, time of Nṛpatuṅkavikramavarman, year	7</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -315,7 +314,7 @@
 	</p>
 	
 	<p n="1">
-		Seventh year of the victorious king Nṛpatuṅkavikramavarman.
+		Seventh year of the victorious king <unclear>Ni</unclear>rupatoṅ<supplied reason="lost">ka</supplied><unclear>vi</unclear><supplied reason="lost">kkiramavanmaṉ</supplied><note>Sanskrit Nṛpatuṅkavikramavarman.</note>
 	</p>
 	
 	<p n="1-2">

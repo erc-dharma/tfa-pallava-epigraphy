@@ -8,8 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Parameśvaramaṅgalam, foundation, time of Nṛpatuṅgavarman, year
-					15</title>
+				<title>Parameśvaramaṅgalam, time of Nṛpatuṅgavarman (?), year 15</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:emfr">
@@ -171,7 +170,7 @@
     		</p>
     		
     		<p n="1-2">
-    			Fifteenth year.
+    			Fifteenth year.<note>Presumably of Nṛpatuṅgavarman, of which see ARIE/1912-1913/B/1912/258.</note>
     		</p>
     		
     		<p n="2-8">
@@ -192,18 +191,20 @@
     		    		
     	</div>
             
-    	<div type="commentary">
+<div type="commentary">
     		
     		<p>The inscription is incomplete. <ptr target="bib:Mahalingam1988_01"/> notes: <quote>Probably a few more letters are wanting. The significance of these names is not clear. They were probably the <hi rend="italic">taḷi uḍaiyār</hi> (temple priests), as stated in l. 13.</quote></p>
     		<p>According to <ptr target="bib:Mahalingam1988_01"/>: <quote>This gives the earliest reference to the setting up of the image of god Ganapati, during the Pallava period.</quote></p>
     		
     	</div>
             
-    	<div type="bibliography">
-    		
-<p>
-Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.68). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 159).</p><p>This digital edition by Emmanuel Francis, based on previous edition(s) and photos.
-</p>
+<div type="bibliography">
+    	
+	<p>Reported in <bibl><ptr target="bib:ARIE1912-1913"/></bibl> (ARIE/1912-1913/B/1912/258).</p>
+	
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.68). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 159).</p>
+	
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s) and photos.</p>
     		
     		<listBibl type="primary">
     			

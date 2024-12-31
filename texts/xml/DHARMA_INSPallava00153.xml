@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Vaḻuvūr, foundation (sluice), time of Nṛpatuṅkappōttaraiyar, year 6</title>
+				<title>Vaḻuvūr, time of Nṛpatuṅgappōttaraiyar, year 6</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:emfr">
@@ -40,7 +40,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Foundation of sluice.</summary>
+						<summary>Inscription recording the foundation of a sluice.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -88,7 +88,7 @@
     		<p>
     			nirupatoṅka-p-pōt
     			<lb n="2" break="no"/>taraiyarkku yāṇṭu Ā
-    			<lb n="3" break="no"/>ṟāvatu
+    			<lb n="3" break="no"/>ṟ-āvatu
     		</p>
     		<p>   
     			vaḷakūril <unclear>Ā</unclear>ḻu
@@ -119,7 +119,7 @@
     		</p>
     		
     		<p n="2-4">
-    			Sixth year of Nṛpatuṅkappōttaraiyar.
+    			Sixth year of Nirupatoṅkappōttaraiyar.<note>That is, the Pallava king Nṛpatuṅga</note>
     		</p>
     		
     		<p n="3-6">
@@ -128,15 +128,15 @@
     		    		
     	</div>
             
-    	<div type="commentary">
-    		    		
-    	</div>
-            
-    	<div type="bibliography">
+<div type="commentary"/>
+	
+<div type="bibliography">
     		
-<p>
-Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.62). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 153).</p><p>This digital edition by Emmanuel Francis, based on previous edition(s).
-</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1908-1909"/></bibl> (ARIE/1908-1909/B/1908/68).</p>
+	
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.62). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 153).</p>
+	
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
     		
     		<listBibl type="primary">
     			

@@ -8,8 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvālaṅkāṭu, donation, time of Nṛpatuṅgadeva, year
-					15</title>
+				<title>Tiruvālaṅkāṭu, time of Nṛpatuṅga, year 15</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:emfr">
@@ -125,7 +124,7 @@
     		</p>
     		
     		<p n="1">
-    			15th year of the king Nṛpatuṅgadeva.
+    			15th year of the king, the king Nirupatuṅka.<note>Sanskrit Nṛpatuṅga.</note>
     		</p>
     		
     		<p n="1-2">
@@ -134,24 +133,24 @@
     		
     		<p n="2-4">
     					  			   			
-    		</p> 
-    		    
+    		</p>    		    
     		    		    		
     	</div>
             
-    	<div type="commentary">
+<div type="commentary">
     		
     		<p>This appears to be a later copy of a Pallava original. See SII 12.66<!--update-->.</p>
     		
-    		
     	</div>
             
-    	<div type="bibliography">
-    		
-<p>
-Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.66). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 160).</p><p>This digital edition by Emmanuel Francis, based on previous edition(s).
-</p>
-    		
+<div type="bibliography">
+    	
+	<p>Reported in <bibl><ptr target="bib:ARIE1905-1906"/></bibl> (ARIE/1905-1906/B/1905/461).</p>
+	
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.66). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 160).</p>
+	
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
+	
     		<listBibl type="primary">
     			
     			<bibl n="SII">

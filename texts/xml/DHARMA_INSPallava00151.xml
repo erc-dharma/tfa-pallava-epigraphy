@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kīḻūr, donation, time of Nṛpatuṅgavarman (?), year 3</title>
+				<title>Kīḻūr, time of Nṛpatuṅgavarman (?), year 3</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -153,7 +153,10 @@ I<unclear>p</unclear>-palicai <gap reason="lost" quantity="10" unit="character"/
       	
 <div type="bibliography">
 
+	 <p>Reported in <bibl><ptr target="bib:ARIE1901-1902"/></bibl> (ARIE/1901-1902/B/1902/305).</p>
+   
 	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.934). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 151).</p>
+	
 	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
    
    <listBibl type="primary">
