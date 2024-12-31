@@ -48,13 +48,12 @@
 					</msIdentifier>
 					<msContents>
 						<summary>Hero-stone commemorating the death of Pila[yācata]ṅkaḷ during a cattle-raid.</summary>
-
 					</msContents>
-					<!--<physDesc>
+					<physDesc>
 						<handDesc>
 							<p></p>
 						</handDesc>
-					</physDesc>-->
+					</physDesc>
 				</msDesc>
 			</sourceDesc>
 		</fileDesc>
@@ -178,7 +177,7 @@
          	</p>
          	          	
          	<p>         		
-         		Encoded and translated here by Emmanuel Francis, based on <bibl><ptr target="bib:Nakacami1975_01"/></bibl>.
+         		This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Nakacami1975_01"/></bibl>.
          	</p>
 
          	<listBibl type="primary">

@@ -388,7 +388,7 @@
             		<citedRange unit="item">666</citedRange>
             	</bibl>
             	
-            	<bibl n="VA">
+            	<bibl>
             		<ptr target="bib:VenkatasubbaAyyar1943_01"/>
             		<citedRange unit="page">16</citedRange>
             		<citedRange unit="item">38</citedRange>

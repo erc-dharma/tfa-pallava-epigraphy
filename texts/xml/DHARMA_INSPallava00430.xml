@@ -49,11 +49,11 @@
 					<msContents>
 						<summary>Hero-stone commemorating the death of Kampaiyaṉār.</summary>
 					</msContents>
-					<!--<physDesc>
+					<physDesc>
 						<handDesc>
 							<p/>
 						</handDesc>
-					</physDesc>-->
+					</physDesc>
 				</msDesc>
 			</sourceDesc>
 		</fileDesc>
@@ -156,7 +156,7 @@
          <div type="bibliography">
 
             <p>
-Edited in <bibl><ptr target="bib:Sampath1968_01"/></bibl>; text and translation in <bibl><ptr target="bib:Mahalingam1988_01"/><citedRange unit="page" >282</citedRange><citedRange unit="note">1</citedRange></bibl> (footnote at IP 84); re-edited in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded here by Emmanuel Francis, based on previous editions.
+Edited in <bibl><ptr target="bib:Sampath1968_01"/></bibl>; text and translation in <bibl><ptr target="bib:Mahalingam1988_01"/><citedRange unit="page" >282</citedRange><citedRange unit="note">1</citedRange></bibl> (footnote at IP 84). Edited in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>. This digital edition by Emmanuel Francis, based on previous edition(s).
             </p>
 
             	<listBibl type="primary">

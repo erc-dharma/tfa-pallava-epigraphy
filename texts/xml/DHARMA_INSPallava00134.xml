@@ -42,11 +42,11 @@
 					<msContents>
 					   <summary>Donation of gold for maintaining a perpetual lamp.</summary>
 					</msContents>
-					<!--<physDesc>
-                  <handDesc>
-                     <p></p>
-                  </handDesc>
-               </physDesc>-->
+				   <physDesc>
+				      <handDesc>
+				         <p></p>
+				      </handDesc>
+				   </physDesc>
 				</msDesc>
 			</sourceDesc>
 		</fileDesc>

@@ -131,16 +131,12 @@
       	
 <div type="bibliography">
 
-	<p>
-		Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.42). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 38).
-	</p>
-	<p>
-		Encoded here by Emmanuel Francis.
-	</p>
+	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.42). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 38).</p>
+	<p>This digital edition by Emmanuel Francis.</p>
    
    <listBibl type="primary">
       
-      <bibl n="KVSA">
+      <bibl n="SII">
          <ptr target="bib:SubrahmanyaAiyer1932_01"/>
          <citedRange unit="page">16</citedRange>
          <citedRange unit="item">42</citedRange>

@@ -355,11 +355,10 @@
 	
 </div>
       	
-      <div type="bibliography">
+<div type="bibliography">
       		
-      		<p>
-      			Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS 19); first translated in <bibl><ptr target="bib:SrinivasaAiyar1941_01"/></bibl> (IPS 19); re-edited in <bibl><ptr target="bib:Balasubrahmanyan+VenkatarangaRaju1934_01"/></bibl> (without marking alveolar <foreign>ṉ</foreign>); re-edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>; text (mainly after <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>) and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 154); re-edited and  translated here by Emmanuel Francis, based on photographs.           	
-      		</p>
+	<p>Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS 19). Translated in <bibl><ptr target="bib:SrinivasaAiyar1941_01"/></bibl> (IPS 19). Edited in <bibl><ptr target="bib:Balasubrahmanyan+VenkatarangaRaju1934_01"/></bibl> (without marking alveolar <foreign>ṉ</foreign>). Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>. Text (mainly after <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>) and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 154).</p>
+	<p>This revised edition by Emmanuel Francis, based on photographs.</p>
       		
 <listBibl type="primary">
       			
@@ -369,7 +368,7 @@
 		<citedRange unit="item">19</citedRange>
 	</bibl>
 	
-	<bibl n="SA">
+	<bibl n="IPS">
 		<ptr target="bib:SrinivasaAiyar1941_01"/>
 		<citedRange unit="page">20-21</citedRange>
 		<citedRange unit="item">19</citedRange>
@@ -380,7 +379,7 @@
 		<citedRange unit="page">29-30</citedRange>
 	</bibl> 
 	
-	<bibl n="VA">
+	<bibl n="SII">
 		<ptr target="bib:VenkatasubbaAyyar1943_01"/>
 		<citedRange unit="page">26</citedRange>
 		<citedRange unit="item">63</citedRange>

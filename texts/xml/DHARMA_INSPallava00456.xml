@@ -118,11 +118,10 @@
          	
          </div>
 
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-Edited in <bibl><ptr target="bib:Virarakavan2000_01"/></bibl> (Āvaṇam 11.7.6); text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded and translated here by Emmanuel Francis, based on previous editions.
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Virarakavan2000_01"/></bibl> (Āvaṇam 11.7.6). Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 
          	<listBibl type="primary">
          		         		

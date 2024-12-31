@@ -48,13 +48,12 @@
 					</msIdentifier>
 					<msContents>
 						<summary>Lacunose inscription; undoubtedly probably a hero-stone, like others inscriptions (INSPallava406, INSPallava407 and INSPallava409) found at Puḷiyaṉūr.</summary>
-
 					</msContents>
-					<!--<physDesc>
+					<physDesc>
 						<handDesc>
 							<p></p>
 						</handDesc>
-					</physDesc>-->
+					</physDesc>
 				</msDesc>
 			</sourceDesc>
 		</fileDesc>
@@ -136,7 +135,7 @@
          	</p>
          	
          	<p>
-         		Encoded and translated here by Emmanuel Francis, based on <bibl><ptr target="bib:Hariharan1974_01"/></bibl>.
+         		This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Hariharan1974_01"/></bibl>.
          	</p>
 
          	<listBibl type="primary">

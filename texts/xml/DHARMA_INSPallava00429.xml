@@ -50,11 +50,11 @@
 						<summary>Hero-stone commemorating the death of Pe<gap reason="undefined"
 							/>r.</summary>
 					</msContents>
-					<!--<physDesc>
+					<physDesc>
 						<handDesc>
 							<p></p>
 						</handDesc>
-					</physDesc>-->
+					</physDesc>
 				</msDesc>
 			</sourceDesc>
 		</fileDesc>
@@ -123,7 +123,7 @@
          <div type="bibliography">
 
             <p>
-Edited in <bibl><ptr target="bib:Virarakavan1999_01"/></bibl> (Āvaṇam 10.3.3); text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded and translated here by Emmanuel Francis, based on previous edition(s).
+Edited in <bibl><ptr target="bib:Virarakavan1999_01"/></bibl> (Āvaṇam 10.3.3). Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p><p>This digital edition by Emmanuel Francis, based on previous edition(s).
             </p>
 
          	<listBibl type="primary">

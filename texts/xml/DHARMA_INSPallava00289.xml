@@ -119,21 +119,16 @@
       		
       	</div>
       	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
-         	
-         </div>
-
-         <div type="commentary">
+<!--<div type="translation" xml:lang="fra" resp="part:emfr"/>-->        	
+         
+<div type="commentary">
          	<p>There are further lines missing at the beginning.<!--check estampage, if available + revise encoding of missing line sin edition--></p>
          </div>
 
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-            	Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/67). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 289).</p>
-         	<p>
-         		Encoded here by Emmanuel Francis, based on previous editions.           	
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/67). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 289).</p>
+         	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
          	
             	<listBibl type="primary">
         		

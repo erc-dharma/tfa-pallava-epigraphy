@@ -121,12 +121,12 @@
 	<div type="bibliography">
             
             <p>
-Edited in (SII 7.1007). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 263); re-edited and first translated here by Emmanuel Francis, based on autopsy and photographs (2008).
+Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 7.1007). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 263). Edited and first translated here by Emmanuel Francis, based on autopsy and photographs (2008).
             </p>
             
 		<listBibl type="primary">
 			
-			<bibl n="KVSA">
+			<bibl n="SII">
 				<ptr target="bib:SubrahmanyaAiyer1932_01"/>
 				<citedRange unit="page">479</citedRange>
 				<citedRange unit="item">1007</citedRange>
