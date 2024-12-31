@@ -170,11 +170,11 @@
     				<rdg source="bib:Subbarayalu2015_01">miṇāḷaṉ</rdg>
     			</app>
     			
-    			<app loc="0">
+    			<!--<app loc="0">
     				<lem></lem>
     				<rdg source="bib:VenkatasubbaAyyar1943_01"></rdg>
     				<rdg source="bib:Subbarayalu2015_01"></rdg>
-    			</app>
+    			</app>-->
     		</listApp>
     		
     	</div>
@@ -186,7 +186,7 @@
     		</p>
     		
     		<p n="1">
-    			Twenty-second year of the king Nantiparman<note>Sanskrit Nandivarman.</note>. 
+    			Twenty-second year of the king Nantiparman.<note>Sanskrit Nandivarman.</note> 
     		</p>
     		
     		<p n="1-7">
@@ -207,22 +207,23 @@
     		    		
     	</div>
             
-    	<div type="commentary">
-    		<p>This is a later copy of an original of the 9th century, as indicated in line 8.</p>    		
-    		
-    	</div>
+<div type="commentary">
+	
+	<p>This is a later copy of an original of the 9th century, as indicated in line 8.</p>    		
+	
+</div>
             
 <div type="bibliography">
     		
 	<p>Reported in <bibl><ptr target="bib:ARIE1914-1915"/></bibl> (ARIE/1914-1915/B/1914/48).</p>
    	
-	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.58). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 143); re-edited in <bibl><ptr target="bib:Subbarayalu2015_01"/></bibl> (SII 34.48).</p>
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.58). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 143). Edited in <bibl><ptr target="bib:Subbarayalu2015_01"/></bibl> (SII 34.48).</p>
 	
 	<p>This digital edition by Emmanuel Francis , based on previous editions.</p>
     		
     		<listBibl type="primary">
     			
-    			<bibl n="SII 12">
+    			<bibl n="SII12">
          			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
          			<citedRange unit="page">24</citedRange>
          			<citedRange unit="item">58</citedRange>
@@ -234,7 +235,7 @@
     				<citedRange unit="item">143</citedRange>
     			</bibl>
     			
-    			<bibl n="SII 34">
+    			<bibl n="SII34">
       				<ptr target="bib:Subbarayalu2015_01"/>
       				<citedRange unit="page">TBC</citedRange>
       				<citedRange unit="item">48</citedRange>
