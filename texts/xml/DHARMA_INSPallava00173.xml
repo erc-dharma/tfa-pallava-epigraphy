@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kīḻūr, donation, time of Nṛpatuṅgavikramavarman, year 21</title>
+				<title>Kīḻūr, time of Nṛpatuṅgavikramavarman, year 21</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -87,15 +87,14 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       		
-      		<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-      			<lb n="1"/>svasti śrī
-      		</ab>
-      		      		
-      		<p>
-      			kō-vicaiya-niru<unclear>pat</unclear><choice><orig><unclear>o</unclear></orig><reg><unclear>u</unclear></reg></choice><unclear>ṅka</unclear>-vikkira
-      			<!--display issue: fusion of parentheses-->
-      			<lb n="2" break="no"/>ma-parumaṟku yāṇṭu <num value="21">2 <g type="numeral">10</g> 1</num>-āvatu
-      		</p>
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<lb n="1"/>svasti śrī
+	</ab>
+	
+	<p>
+		kō-vicaiya-niru<unclear>pa-t</unclear><choice><orig><unclear>o</unclear></orig><reg><unclear>u</unclear></reg></choice><unclear>ṅka</unclear>-vikkira
+		<lb n="2" break="no"/>ma-parumaṟku yāṇṭu <num value="21">2 <g type="numeral">10</g> 1</num>-āvatu
+	</p>
       		<p>
       			t<unclear>i</unclear>ru-k-kō
       			<lb n="3" break="no"/>valūr tiru-v<choice><orig>i</orig><reg>ī</reg></choice>raṭṭ<unclear>ā</unclear>ṉattu ma<hi rend="grantha">hāde</hi>varkku <unclear>na</unclear>
@@ -125,15 +124,14 @@
       		
       	</div>-->
       	
-      	
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
       		<p n="1">
       			Prosperity! Fortune!
       		</p>
       		
       		<p n="1-2">
-      			21st year of the victorious king Nṛpatuṅgavikrama.
+      			21st year of the victorious king Niru<unclear>patoṅka</unclear>vikkiramaparumaṉ.<note>Sanskrit Nṛpatuṅgavikrama.</note>
       		</p>
       		
       		<p n="2-6">
@@ -156,12 +154,13 @@
       	
 <div type="bibliography">
       		
+	<p>Reported in <bibl><ptr target="bib:ARIE1901-1902"/></bibl> (ARIE/1901-1902/B/1902/303).</p>
 	<p>Edited in by <bibl><ptr target="bib:Hultzsch1902-1903_04"/></bibl> (EI 7.20C). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 173).</p>
 	<p>This digital edition by Emmanuel Francis, based on previous edition(s). The Grantha characters and numerals are not warranted due to the defective transliteration scheme used by <ptr target="bib:Hultzsch1902-1903_04"/>.</p>
       		
       		<listBibl type="primary">
       			
-      			<bibl n="EH">
+      			<bibl n="EI">
       				<ptr target="bib:Hultzsch1902-1903_04"/>
       				<citedRange unit="item">C</citedRange>
       				

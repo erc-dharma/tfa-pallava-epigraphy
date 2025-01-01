@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirucceṉṉampūṇṭi, donation, time of Nṛpatuṅgavikramavarman, year 22</title>
+				<title>Tirucceṉṉampūṇṭi, time of Nṛpatuṅgavikramavarman, year 22</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -85,7 +85,6 @@
 	
 <text xml:space="preserve">
 <body>
-      	
       		
       		<!--add readings by Schmid 2014-->
       		<!--display issues with @break="no"-->
@@ -160,8 +159,7 @@
       			<lb n="40" break="no"/><supplied reason="omitted">p</supplied>pāṉ
       			<lb n="41"/><surplus><unclear>p</unclear></surplus> pāta
       			<lb n="42" break="no"/> <supplied reason="lost">n talai</supplied>
-      			<lb n="43" break="no"/>mēlaṉa     			
-      			
+      			<lb n="43" break="no"/>mēlaṉa
       		</p>
       		
       	</div>
@@ -189,39 +187,36 @@
       	</div>
       	
 
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
-      		<p n="1">
-      			Prosperity! Fortune!
-      		</p>
-      		
-      		<p n="2-8">
-      			Twenty second year of the victorious king Nṛpatuṅgavikramavarman      			
-      		</p>
-      		
-      		<p n="8-33">
-      			
-      		</p>
-      		
-      		<p n="34-38">
-      			
-      		</p>    
-      		
-      		<p n="39-43">
-      			
-      		</p>
-      		
-      	</div>
-      	      	
-<div type="commentary">
+	<p n="1">
+		Prosperity! Fortune!
+	</p>
 	
+	<p n="2-8">
+		Twenty-second year of the victorious king Nirupatoṅkavikkiramaparumar.<note>Sanskrit Nṛpatuṅgavikramavarman.</note>
+	</p>
 	
+	<p n="8-33">
 		
+	</p>
+	
+	<p n="34-38">
+		
+	</p>    
+	
+	<p n="39-43">
+		
+	</p>
+	
 </div>
+      	      	
+<div type="commentary"/>
       	
 <div type="bibliography">
 
-   <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.521). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 175); edited and translated by <bibl><ptr target="bib:Schmid2014_02"/></bibl>.</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1900-1901"/></bibl> (ARIE/1900-1901/A/1901/300).</p>
+	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.521). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 175). Edited and translated in <bibl><ptr target="bib:Schmid2014_02"/></bibl>.</p>
 	<p>This revised edition by Emmanuel Francis, based on photos (up to line 25) and on previous editions (from line 26 onwards).</p>
    
 	<listBibl type="primary">

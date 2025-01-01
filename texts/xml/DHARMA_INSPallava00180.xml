@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Lālkuṭi, donation, time of Nṛpatuṇgavikramavaram, year 23</title>
+            <title>Lālkuṭi, time of Nṛpatuṇgavikramavaram, year 23</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -85,8 +85,8 @@
       <body>
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-      		
-      		<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+   
+   <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
       <lb n="1"/>svasti śrī
    </ab>
    
@@ -114,7 +114,7 @@
       <lb n="15" break="no"/>lai-y-āvaṇañ ce<supplied reason="omitted">y</supplied>tu kuṭuttōm
       </p>
    <p>
-      Oru nontā viḷakkiṉukkum Oru ti<unclear>ru-v-ami</unclear>rtukkum-āka viṟṟu n<choice><orig>i</orig><reg>ī</reg></choice>rōṭ’ aṭṭi kuṭuttōm Ō
+      Oru nontā-viḷakkiṉukkum Oru ti<unclear>ru-v-ami</unclear>rtukkum-āka viṟṟu n<choice><orig>i</orig><reg>ī</reg></choice>rōṭ’ aṭṭi kuṭuttōm Ō
       <lb n="16" break="no"/>mañcaṉ tuvēti nakkaṉūraṉum cāvānti nārāyaṇaṉ mā-tē<unclear>vaṉu</unclear>m nārāyaṇaṉ cēntaṉum nārāyaṇaṉ
       <lb n="17"/><unclear>nakka</unclear>ṉum Ivaṉaivōm
       </p>
@@ -128,10 +128,10 @@
    <p>
       Itu kāttāṉukku Āyu<unclear>tum</unclear> <hi rend="grantha">śrī</hi>yum <hi rend="grantha">dharma</hi>mu<choice><orig>mm</orig><reg>m</reg></choice> āyiṭuka <g type="gomutraFinal">.</g><!--CHECK--> <gap reason="undefined" quantity="2" unit="character"/>
       <lb n="19" break="no"/>tāka Oṭṭik kuṭuttōn teṅkaṅkuṭi <hi rend="grantha">sabhai</hi>yōm
-      </p>
+   </p>
    <p>
       Itu pan-<hi rend="grantha">māheśvara-rakṣai</hi>
-         </p>
+   </p>
     
 </div>
 
@@ -143,21 +143,20 @@
                   <lem>v<choice><sic>a</sic><corr>e</corr></choice>ṭṭi</lem>
                   <rdg source="bib:KrishnaSastri1923_01">vaṭṭi</rdg>                  
                   <rdg source="bib:Mahalingam1988_01">va<supplied reason="omitted">ē</supplied>ṭṭi</rdg>
-               </app>              
-               
+               </app>
                
             </listApp>
             
          </div>
 
-         <div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
             
             <p n="1">
                Prosperity! Fortune!
             </p>
             
             <p n="1">
-               23rd year of the victorious king Nṛpatuṅkavikramavarman.
+               23rd year of the victorious king Nirupatoṅkavikkiramaparumar.<note>Sanskrit Nṛpatuṅkavikramavarman.</note>
             </p>
             
             <p n="1-9">
@@ -189,24 +188,17 @@
                         
          </div>
          
-         <div type="translation" xml:lang="fra" resp="part:emfr">
-            
-         </div>
-
-         <div type="commentary">
-            
-                        
-         </div>
+<div type="commentary"/>
 
 <div type="bibliography">
 
+   <p>Reported in <bibl><ptr target="bib:ARIE1900-1901"/></bibl> (ARIE/1891-1892/B/1892/1892/84).</p>
    <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>, with facsimiles (SII 4.531). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 180).</p>
-    <p>This edition by Emmanuel Francis, based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> and published visual documentation therein (SII 4, plate VII).
-   </p>
+    <p>This revised edition by Emmanuel Francis, based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> and published visual documentation therein (SII 4, plate VII).</p>
    
    <listBibl type="primary">
       
-      <bibl n="HKS">
+      <bibl n="SII">
          <ptr target="bib:KrishnaSastri1923_01"/>
          <citedRange unit="page">172-173</citedRange>
          <citedRange unit="item">531</citedRange>

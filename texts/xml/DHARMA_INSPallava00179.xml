@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvaṭikai, donation, time of Nṛpatuṅgappōttarar, year 22</title>
+				<title>Tiruvaṭikai, time of Nṛpatuṅgappōttaraiyar, year 22</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -94,7 +94,7 @@
    			<p>
    				<hi rend="grantha">nṛ
    				<lb n="2" break="no"/>pa</hi>t<choice><orig>o</orig><reg>u</reg></choice>ṅkap
-   				<lb n="3" break="no"/>pottaraiya<unclear>r</unclear>
+   				<lb n="3" break="no"/>pōttaraiya<unclear>r</unclear>
    				<lb n="4" break="no"/>kku yāṇṭu Iru
    				<lb n="5" break="no"/>patt' iraṇṭ-āvatu
    			</p>
@@ -129,14 +129,14 @@
    			
    		</div>-->
 
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		      		
       		<p n="1">
       			Prosperity! Fortune!
       		</p>
       		
       		<p n="1-5">
-      			Twenty-second year of Nṛpatungappōttaraiyar.
+      			Twenty-second year of Nṛpatoṅkappōttaraiyar.<note>Sanskrit Nṛpatuṅgappōttaraiyar.</note>
       		</p>
       	   
       		<p n="6-13">
@@ -157,23 +157,23 @@
 
 <div type="bibliography">
 
-            <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.73). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 179).</p>
+            <p>Reported in <bibl><ptr target="bib:ARIE1921-1922"/></bibl> (ARIE/1921-1922/B/1921/367).</p>
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.73). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 179).</p>
 	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 
             	<listBibl type="primary">
         		
-        		<bibl n="SII">
-    				<ptr target="bib:VenkatasubbaAyyar1943_01"/>
-    				<citedRange unit="page">31</citedRange>
-    				<citedRange unit="item">73</citedRange>
-    			</bibl> 
+            		<bibl n="SII">
+            			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
+            			<citedRange unit="page">31</citedRange>
+            			<citedRange unit="item">73</citedRange>
+            		</bibl> 
             	   
         		<bibl n="IP">
         			<ptr target="bib:Mahalingam1988_01"/>
         			<citedRange unit="page">502-503</citedRange>
         			<citedRange unit="item">179</citedRange>
-        		</bibl>
-        		
+        		</bibl>        		
         		
         	</listBibl>
         	

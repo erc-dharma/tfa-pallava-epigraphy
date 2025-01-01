@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirucceṉṉampūṇṭi, donation, time of Nṛpatuṅgavarman, year 22</title>
+				<title>Tirucceṉṉampūṇṭi, time of Nṛpatuṅgavarman, year 22</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -90,22 +90,22 @@
       		    	      		     		
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       		
-      		<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-      			<milestone type="pagelike" unit="zone" n="1"/>
-      			<label xml:lang="eng">Pillar, upper square portion, face 1</label>     			    			
-      			<lb n="1"/><supplied reason="lost">svasti śrī</supplied>      			
-      		</ab>
-      		
-      		<p>
-      			<lb n="2"/>kō-vicaya
-      			<lb n="3" break="no"/>-niru-pat<choice><orig>o</orig><reg>u</reg></choice>
-      			<lb n="4" break="no"/>ṅka-vaṉma
-      			<lb n="5" break="no"/>ṟku Irupa
-      			<lb n="6" break="no"/>tt’ iraṉ
-      			<lb n="7" break="no"/>ṭ-āvatu nāḷ
-      			<lb n="8"/>patiṉ oṉṟi
-      			<lb n="9" break="no"/>ṉāl
-      		</p>
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<milestone type="pagelike" unit="zone" n="1"/>
+		<label xml:lang="eng">Pillar, upper square portion, face 1</label>     			    			
+		<lb n="1"/><supplied reason="lost">svasti śrī</supplied>      			
+	</ab>
+	
+	<p>
+		<lb n="2"/>kō-vicaya
+		<lb n="3" break="no"/>-nirupa-t<choice><orig>o</orig><reg>u</reg></choice>
+		<lb n="4" break="no"/>ṅka-vaṉma
+		<lb n="5" break="no"/>ṟku Irupa
+		<lb n="6" break="no"/>tt’ iraṉ
+		<lb n="7" break="no"/>ṭ-āvatu nāḷ
+		<lb n="8"/>patiṉ oṉṟi
+		<lb n="9" break="no"/>ṉāl
+	</p>
       		<p>
       			<milestone type="pagelike" unit="zone" n="2"/>
       			<label xml:lang="eng">Pillar, middle octagonal portion, face 1</label>
@@ -137,14 +137,11 @@
       			Itu paṉ
       			<lb n="28" break="no"/>māye<hi rend="grantha">śva</hi>rar <unclear>i</unclear>
       			<lb n="29" break="no"/>ra<hi rend="grantha">kṣai</hi>
-
-      		
       		</p>
       		
       	</div>
 
-      	<!--<div type="apparatus">
-      		
+<!--<div type="apparatus">      		
       		
       		<listApp>
       			<app loc="0">
@@ -153,16 +150,16 @@
       			</app>
       		</listApp>
       		
-      	</div>-->
+</div>-->
       	
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
       		<p n="1">
       			Prosperity! Fortune!
       		</p>
       		
       		<p n="2-9">
-      			Twenty second year of the victorious king Nṛpatuṅgavarman      			
+      			Twenty second year of the victorious king Nirupatoṅkavaṉmaṉ.<note>Sanskrit Nṛpatuṅgavarman.</note>
       		</p>
       		
       		<p n="10-27">
@@ -175,18 +172,13 @@
       		
       	</div>
       	      	
-<div type="commentary">
-	
-	
-		
-</div>
+<div type="commentary"/>
       	
 <div type="bibliography">
 
-   <p>
-      Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.522). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 176); edited and translated by <bibl><ptr target="bib:Schmid2014_02"/></bibl>; edited and translated here by Emmanuel Francis, based on photos (up to line 25) and on previous editions (from line 26 onwards).
-   	
-   </p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1900-1901"/></bibl> (ARIE/1900-1901/A/1901/301).</p>
+	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.522). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 176). Edited and translated in <bibl><ptr target="bib:Schmid2014_02"/></bibl>.</p>
+	<p>This revised edition by Emmanuel Francis, based on photos (2006, by kindly supplied by EFEO).</p>
    
 	<listBibl type="primary">
 		

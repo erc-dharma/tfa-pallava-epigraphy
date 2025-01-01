@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kūram, Śiva temple pillar</title>
+            <title>Kūram, time of Nṛpatuṅga, year 21</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,8 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Regulation by the Kūram assembly pertaining to four <foreign>kaḻañcu</foreign>s of gold, apparently received in donation.
-</summary>
+                  <summary>Śiva temple pillar. Regulation by the Kūram assembly pertaining to four <foreign>kaḻañcu</foreign>s of gold, apparently received in donation.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -91,15 +90,15 @@
          
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       		
-      		<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-               <lb n="1"/>svasti śrī
-      		</ab>
-            
-            <p>
-               <hi rend="grantha">nṛ</hi>pat<choice><orig>o</orig><reg>u</reg></choice>
-               <lb n="2" break="no"/><unclear>ṅkarkku</unclear> yāṇṭu Iru
-               <lb n="3" break="no"/>patt-oṉṟ-āvatu
-            </p>
+   <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+      <lb n="1"/>svasti śrī
+   </ab>
+   
+   <p>
+      <hi rend="grantha">nṛ</hi>pat<choice><orig>o</orig><reg>u</reg></choice>
+      <lb n="2" break="no"/><unclear>ṅkarkku</unclear> yāṇṭu Iru
+      <lb n="3" break="no"/>-patt’ oṉṟ-āvatu
+   </p>
             
             <p>
                <lb n="4"/>kūrattu <hi rend="grantha">sabhai</hi>
@@ -178,7 +177,7 @@
             </p>
             
             <p n="1-3">
-               Twenty-first year of the Nṛpatuṅga.
+               Twenty-first year of Nṛpato<unclear>ṅkar</unclear>.<note>Sanskrit Nṛpatuṅga.</note>
             </p>
             
             <p n="3-30">
@@ -197,9 +196,9 @@
       	
 <div type="bibliography">
 
-            <p>
-Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.39). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 174). This digital edition by Emmanuel Francis.
-            </p>
+   <p>Reported in <bibl><ptr target="bib:ARIE1899-1900"/></bibl> (ARIE/1899-1900/B/1900/37).</p>
+   <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.39). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 174).</p>
+   <p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 
 	<listBibl type="primary">
 		

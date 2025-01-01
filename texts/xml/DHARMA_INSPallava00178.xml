@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirukkōṭikkāval, donation, time of Nṛpatuṅga, year 22</title>
+				<title>Tirukkōṭikkāval, time of Nṛpatuṅga, year 22</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,9 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Donation of gold for performing rituals
-								(<foreign>hiraṇyagrbha</foreign> and
-							<foreign>tulābhāra</foreign>).</summary>
+						<summary>Donation of gold for performing rituals (<foreign>hiraṇyagrbha</foreign> and <foreign>tulābhāra</foreign>).</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -105,7 +103,7 @@
    			</p>
    			<p>  	
    				Itaṉil Iru-patt’ aiṅ-kaḻañcu poṉṉiṉ palicaiyāl nicati Iru-nāḻi Ariciyum Oru piṭi neyyum taḷi Arcci<supplied reason="omitted">p</supplied>pār kai <hi rend="grantha">mahā</hi><gap reason="lost" quantity="9" unit="character"/>
-   				<lb n="3" break="no"/>l nicati Uḻakku ney taḷi Aṟcippār kai<choice><orig>yy</orig><reg>y</reg></choice>ilē no[ṉ>n]tā viḷakki[ṉu*]kku kuṭu[p*]pōm āṉōm tirukkoṭikā-v-āṉa kaṇṇamaṅkalattu <hi rend="grantha">sabhai</hi>yōm
+	   				<lb n="3" break="no"/>l nicati Uḻakku ney taḷi Aṟcippār kai<choice><orig>yy</orig><reg>y</reg></choice>ilē no<choice><orig>ṉ</orig><reg>n</reg></choice>tā-viḷakki<supplied reason="omitted">ṉu</supplied>kku kuṭu<supplied reason="omitted">p</supplied>pōm āṉōm tirukkoṭikā-v-āṉa kaṇṇamaṅkalattu <hi rend="grantha">sabhai</hi>yōm
    			</p>
    			<p>
    				Itu paḻaṅ-kal paṭi
@@ -117,7 +115,7 @@
    			
    		</div>
    		
-   		<div type="apparatus">
+<div type="apparatus">
    			
    			<listApp>
    				
@@ -130,7 +128,7 @@
    			
    		</div>
 
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		      		
       		<p n="1">
       			Prosperity! Fortune!
@@ -162,7 +160,7 @@
       		
          </div>      	
          
-         <div type="commentary">
+<div type="commentary">
          	
          	<p>This is a later copy of an original Pallava inscription.</p>
          	<p n="1">Note on the king of the year.</p>
@@ -173,7 +171,8 @@
 
 <div type="bibliography">
 
-            <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.74). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 178).</p>
+            <p>Reported in <bibl><ptr target="bib:ARIE1930-1931"/></bibl> (ARIE/1930-1931/B/1930-1931/38).</p>
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.74). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 178).</p>
 	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 
             	<listBibl type="primary">

@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kīḻūr, donation, time of Nṛpatuṅgavikrama, year 21</title>
+				<title>Kīḻūr, time of Nṛpatuṅgavikrama, year 21</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -108,10 +108,7 @@
       		<p>
       			Itu pa<choice><orig>n</orig><reg>ṉ</reg></choice>-mā
       			<lb n="6" break="no"/><hi rend="grantha">heśvara-rakṣai</hi>
-      			
       		</p>
-      		
-      			
       		
       	</div>
       	
@@ -124,15 +121,14 @@
       		
       	</div>-->
       	
-      	
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
       		<p n="1">
       			Prosperity! Fortune!
       		</p>
       		
       		<p n="1">
-      			21st year of the victorious king Nṛpatuṅgavikrama.
+      			21st year of the victorious king Nirupatoṅkavikramaṉ.<note>Sanskrit Nṛpatuṅgavikrama.</note>
       		</p>
       		
       		<p n="1-4">
@@ -155,12 +151,14 @@
       	
 <div type="bibliography">
       		
+	<p>Reported in <bibl><ptr target="bib:ARIE1901-1902"/></bibl> (ARIE/1901-1902/B/1902/277).</p>
+	
 	<p>Edited in by <bibl><ptr target="bib:Hultzsch1902-1903_04"/></bibl> (EI 7.20B). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 172).</p>
 	<p>This digital edition by Emmanuel Francis, based on previous edition(s). The Grantha characters and numerals are not warranted due to the defective transliteration scheme used by <ptr target="bib:Hultzsch1902-1903_04"/>.</p>
       		
       		<listBibl type="primary">
       			
-      			<bibl n="EH">
+      			<bibl n="EI">
       				<ptr target="bib:Hultzsch1902-1903_04"/>
       				<citedRange unit="item">B</citedRange>
       				

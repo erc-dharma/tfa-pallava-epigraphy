@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirucceṉṉampūṇṭi, donation, time of Nṛpatuṅgavarman, year 22</title>
+				<title>Tirucceṉṉampūṇṭi, time of Nṛpatuṅgavarman, year 22</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -101,7 +101,7 @@
       		<p>
       			kō-vi
       			<lb n="3" break="no"/><supplied reason="omitted">cai</supplied>ya-ni<supplied reason="omitted">ru</supplied>pa
-      			<lb n="4" break="no"/>t<choice><orig>o</orig><reg>u</reg></choice>ṅ
+      			<lb n="4" break="no"/>-t<choice><orig>o</orig><reg>u</reg></choice>ṅ
       			<lb n="5" break="no"/>ka-va<unclear>ṉ</unclear>
       			<lb n="6" break="no"/><choice><sic>v</sic><corr>m</corr></choice>aṟku
       			<lb n="7"/>Irupat
@@ -221,7 +221,7 @@
       		</p>
       		
       		<p n="2-9">
-      			Twenty-second year of the victorious king Nṛpatuṅgavarman.      			
+      			Twenty-second year of the victorious king Nirupatoṅkavaṉmaṉ.<note>Sanskrit Nṛpatuṅgavarman.</note>      			
       		</p>
       		
       		<p n="10-23">
@@ -240,17 +240,15 @@
       	      	
 <div type="commentary">
 	
-	<p n="24-25">The character<foreign><hi rend="grantha">śrī</hi></foreign> extends to height of both lines.</p>
-	
+	<p n="24-25">The character<foreign><hi rend="grantha">śrī</hi></foreign> extends to height of both lines.</p>	
 		
 </div>
       	
 <div type="bibliography">
 
-   <p>
-      Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.528). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 177); edited and translated by <bibl><ptr target="bib:Schmid2014_02"/></bibl>; edited and translated here by Emmanuel Francis, based on photos and on previous editions.
-   	
-   </p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1900-1901"/></bibl> (ARIE/1900-1901/A/1901/303C).</p>
+	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.528). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 177). Edited and translated in <bibl><ptr target="bib:Schmid2014_02"/></bibl>.</p>
+	<p>This revised edition by Emmanuel Francis, based on photos and on previous editions.</p>
    
 	<listBibl type="primary">
 		
@@ -283,8 +281,7 @@
 			<citedRange unit="item">303C</citedRange>         
 		</bibl>            
 		
-	</listBibl>
- 
+	</listBibl> 
 	
 </div>
       	
