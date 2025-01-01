@@ -131,6 +131,8 @@
       	
 <div type="bibliography">
 
+	<p>Reported in <bibl><ptr target="bib:ARIE1899-1900"/></bibl> (ARIE/1899-1900/B/1900/39A).<note>That is, renamed 39-A, when edited by <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl>, as he realized that more than one inscription was registered under number 39.</note></p>
+   
 	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.42). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 38).</p>
 	<p>This digital edition by Emmanuel Francis.</p>
    
@@ -157,10 +159,8 @@
          <citedRange unit="page">50</citedRange>
          <citedRange unit="appendix">B/1900</citedRange>
          <citedRange unit="item">39</citedRange>
-         <note>renamed 39-A, when edited by <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> as he realized that more than one inscription was registered under number 39.</note>
-         <!--check if note is displayed-->
       </bibl>            
-      
+   	
    </listBibl>
 	
 </div>

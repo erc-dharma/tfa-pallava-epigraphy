@@ -150,11 +150,10 @@
       		
       	</div>
       	
-      	<div type="bibliography">
+<div type="bibliography">
       		
-            <p>
-Edited and translated by <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.53). Edited and re-translated by <bibl><ptr target="bib:Hultzsch1902-1903_05"/></bibl>. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 228). Edited and translated here by Emmanuel Francis, based on previous edition(s) and published facsimile.
-            </p>
+   <p>Edited and translated in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.53), in <bibl><ptr target="bib:Hultzsch1902-1903_05"/></bibl>. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 228).</p>
+   <p>This revised edition by Emmanuel Francis, based on previous edition(s) and published facsimile.</p>
 
       		<listBibl type="primary">
       			

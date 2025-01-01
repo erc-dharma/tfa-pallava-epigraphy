@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Taṇṭampaṭṭu hero-stone, time of Mahendravarman, year 18</title>
+				<title>Taṇṭampaṭṭu, time of Mahendravarman, year 18</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -123,20 +123,13 @@
       		</p>
       		
       	</div>
+
+<div type="commentary"/>
       	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
-         	
-         </div>
+<div type="bibliography">
 
-         <div type="commentary">
-         	
-         </div>
-
-         <div type="bibliography">
-
-            <p>
-            	Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/77). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 279). This digital edition by Emmanuel Francis, based on previous edition(s).           	
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/77). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 279).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
          	
             	<listBibl type="primary">
         		

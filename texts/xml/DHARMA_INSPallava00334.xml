@@ -205,12 +205,10 @@
 </div>
       	
 <div type="bibliography">
-
-   <p>
-      Summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 194); Edited and translated by <bibl><ptr target="bib:Schmid2014_02"/></bibl>; edited and translated here by Emmanuel Francis, based on previous edition(s) and photos (EFEO).
-   	
-   </p>
-   
+	
+	<p>Summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 194). Edited and translated in <bibl><ptr target="bib:Schmid2014_02"/></bibl>.</p>
+	<p>This revised edition by Emmanuel Francis, based on previous edition(s) and photos (EFEO).</p>
+	
 	<listBibl type="primary">
 				
 		<bibl n="M">

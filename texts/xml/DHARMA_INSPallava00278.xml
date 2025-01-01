@@ -136,19 +136,12 @@
       		
       	</div>
       	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
+<div type="commentary"/>
          	
-         </div>
+<div type="bibliography">
 
-         <div type="commentary">
-         	
-         </div>
-
-         <div type="bibliography">
-
-            <p>
-            	Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/113). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 278). This digital edition by Emmanuel Francis, based on previous edition(s).           	
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/113). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 278).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
          	
             	<listBibl type="primary">
         		

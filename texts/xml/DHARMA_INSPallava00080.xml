@@ -300,37 +300,37 @@
 </div>
          	
 <div type="bibliography">
-      		<p>      			
-      			Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.827), with a facsimile. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 80). Edited here by Emmanuel Francis, based on autopsy, photos (2015), and the facsimile published in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>. Some characters now lost are legible on this facsimile.
-      		</p>
+    
+    <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.827), with a facsimile. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 80).</p>
+    <p>This revised edition by Emmanuel Francis, based on autopsy, photos (2015), and the facsimile published in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>. Some characters now lost are legible on this facsimile.</p>
       		
-      		<listBibl type="primary">
-               
-            	<bibl n="HKS">
-            		<ptr target="bib:KrishnaSastri1923_01"/>
-            		<citedRange unit="page">285-286</citedRange>
-            		<citedRange unit="item">827</citedRange>
-            		<citedRange unit="plate">IX</citedRange>
-            	</bibl>
-            	
-            	<bibl n="IP">
-            		<ptr target="bib:Mahalingam1988_01"/>
-            		<citedRange unit="page">259-260</citedRange>
-            		<citedRange unit="item">80</citedRange>
-            	</bibl>
-            	            	            	
-            </listBibl>
-
-         	<listBibl type="secondary">
-         		
-         		<bibl n="ARIE">
-         			<ptr target="bib:ARIE1892-1893"/>
-         			<citedRange unit="page">4, 13</citedRange>
-         			<citedRange unit="appendix">B/1893</citedRange>
-         			<citedRange unit="item">14</citedRange>
-         		</bibl>
-         		
-         	</listBibl>
+    <listBibl type="primary">
+        
+        <bibl n="SII">
+            <ptr target="bib:KrishnaSastri1923_01"/>
+            <citedRange unit="page">285-286</citedRange>
+            <citedRange unit="item">827</citedRange>
+            <citedRange unit="plate">IX</citedRange>
+        </bibl>
+        
+        <bibl n="IP">
+            <ptr target="bib:Mahalingam1988_01"/>
+            <citedRange unit="page">259-260</citedRange>
+            <citedRange unit="item">80</citedRange>
+        </bibl>
+        
+    </listBibl>
+    
+    <listBibl type="secondary">
+        
+        <bibl n="ARIE">
+            <ptr target="bib:ARIE1892-1893"/>
+            <citedRange unit="page">4, 13</citedRange>
+            <citedRange unit="appendix">B/1893</citedRange>
+            <citedRange unit="item">14</citedRange>
+        </bibl>
+        
+    </listBibl>
 
          </div>
 

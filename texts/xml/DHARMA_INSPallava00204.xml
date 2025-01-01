@@ -181,11 +181,10 @@
 
          <div type="commentary"/>
 
-         <div type="bibliography">
-
-            <p>
-Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> with facsimile (SII 6.287). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 204). Edited and first (?) translated here by Emmanuel Francis, based on photos (2019).
-            </p>
+<div type="bibliography">
+   
+   <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> with facsimile (SII 6.287). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 204).</p>
+   <p>This revised edition by Emmanuel Francis, based on photos (2019).</p>
 
          	<listBibl type="primary">
          		

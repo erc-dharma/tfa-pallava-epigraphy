@@ -164,14 +164,12 @@
 
          </div>
       	
-         <div type="commentary">
-         	
-         </div>
+ <div type="commentary"/>
 
-         <div type="bibliography">
+<div type="bibliography">
 
             <p>Edited in <bibl><ptr target="bib:Cankita+al_1998"/></bibl> (Varalāṟu 8.3).</p>
-         	<p>Edited and translated here by Emmanuel Francis, based on previous edition(s) and, for lines 1-7, on photos (2016, kindly supplied by Valérie Gillet).</p>
+         	<p>This edition by Emmanuel Francis, based on previous edition(s) and, for lines 1-7, on photos (2016, kindly supplied by Valérie Gillet).</p>
 
          	<listBibl type="primary">
          		
@@ -179,8 +177,6 @@
          			<ptr target="bib:Cankita+al_1998"/>
          			<citedRange unit="item">3.3</citedRange>
          		</bibl>
-         		
-         		
          		
          	</listBibl>
          	

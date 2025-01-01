@@ -125,11 +125,10 @@
 				
 </div>
 			
-			<div type="bibliography">
+<div type="bibliography">
 				
-				<p>
-					Illustrated in <bibl><ptr target="bib:Sivaramamurti1974_01"/></bibl>; encoded and Edited and translated here by Emmanuel Francis, based on photos (2019).          	
-				</p>
+	<p>Illustrated in <bibl><ptr target="bib:Sivaramamurti1974_01"/></bibl>.</p>
+	<p>This edition by Emmanuel Francis, based on photos (2019).</p>
 				
 				<!--<listBibl type="primary">			
 										

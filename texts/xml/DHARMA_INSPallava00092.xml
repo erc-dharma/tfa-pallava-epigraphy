@@ -348,14 +348,10 @@
          	
          </div>
 
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-            	Edited and translated by <bibl><ptr target="bib:KrishnaSastri1926_01"/></bibl>. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 92);  re-edited with substantial corrections by <bibl><ptr target="bib:Lockwood+al2001_01"/></bibl>
-            </p>
-            <p>
-               This revised edition by Emmanuel Francis, based on published visual documentation.           	
-            </p>
+            <p>Edited and translated in <bibl><ptr target="bib:KrishnaSastri1926_01"/></bibl>. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 92). Edited with substantial corrections by <bibl><ptr target="bib:Lockwood+al2001_01"/></bibl>.</p>
+            <p>This revised edition by Emmanuel Francis, based on published visual documentation.</p>
 
             <listBibl type="primary">
                

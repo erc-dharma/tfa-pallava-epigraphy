@@ -185,15 +185,11 @@
             </p>
                         
          </div>
-         
-         <div type="translation" xml:lang="fra" resp="part:emfr">
-            
-         </div>
 
-         <div type="commentary">
+<div type="commentary">
             
             <p>
-               <bibl n="HKS"><ptr target="bib:KrishnaSastri1923_01"/></bibl> notes about lines 1 and 2 that: <q>The continuation of this line and of the next, covering more than half of the inscription, has been chiselled off.</q>
+               <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> notes about lines 1 and 2 that: <q>The continuation of this line and of the next, covering more than half of the inscription, has been chiselled off.</q>
             </p>
             
             <p>On Avanicandra, see <bibl n="IP">
