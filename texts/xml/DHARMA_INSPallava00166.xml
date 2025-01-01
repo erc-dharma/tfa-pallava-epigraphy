@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirucceṉṉampūṇṭi, donation, time of Nṛpatuṅgavarman, year 18</title>
+				<title>Tirucceṉṉampūṇṭi, time of Nṛpatuṅgavarman, year 18</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -153,17 +153,15 @@
       			</app>
       		</listApp>
       		      		
-      	</div>
-      	
-
-      	<div type="translation" resp="part:emfr">
+      	</div>      	
+<div type="translation" resp="part:emfr">
       		
       		<p n="1">
       			Prosperity! Fortune!
       		</p>
       		
       		<p n="1-4">
-      			18th year of Nṛpatuṅgavarman      			
+      			18th year of Nirupatoṅkavarmaṉ.<note>Sanskrit Nṛpatuṅgavarman.</note>      			
       		</p>
       		
       		<p n="5-13">
@@ -180,16 +178,13 @@
       		
       	</div>
       	      	
-<div type="commentary">
-	
-	
-		
-</div>
+<div type="commentary"/>
       	
 <div type="bibliography">
 
-   <p>
-      Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.526). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 166); edited and translated by <bibl><ptr target="bib:Schmid2014_02"/></bibl>; edited and translated here by Emmanuel Francis, based on photos (up to line 13) and on previous editions (from line 14 onwards).
+   <p>Reported in <bibl><ptr target="bib:ARIE1900-1901"/></bibl> (ARIE/1900-1901/A/1901/303A).</p>
+	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.526). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 166). Edited and translated by <bibl><ptr target="bib:Schmid2014_02"/></bibl>.</p>
+	<p>This partially revised edition by Emmanuel Francis, based on photos (up to line 13) and on previous editions (from line 14 onwards).
    	
    </p>
    

@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kāvērippākkam, donation (?), time of Nṛpatuṅgavarman, year lost</title>
+				<title>Kāvērippākkam, time of Nṛpatuṅgavarman, year lost</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -92,7 +92,7 @@
    			</ab>
    			
    			<p>
-   				nirupa-toṅka-va<hi rend="grantha">rmma</hi><supplied reason="omitted">r</supplied>kku yāṇṭu pati<supplied reason="lost">ṉ</supplied>-<gap reason="lost" quantity="2" unit="character"/><supplied reason="lost">-ā</supplied>
+   				nirupa-toṅka-va<hi rend="grantha">rmma</hi><reg>r</reg>kku yāṇṭu pati<supplied reason="lost">ṉ</supplied>-<gap reason="lost" quantity="2" unit="character"/><supplied reason="lost">-ā</supplied>
    				<lb n="2" break="no"/>vatu
    			</p>
    			<p>
@@ -101,13 +101,11 @@
    				<lb n="4" break="no"/>ya Amani-nārāyaṇa-c-catu<hi rend="grantha">rvve</hi>ti-maṅkalam yāḷu<supplied reason="lost">ṅkaṇat</supplied>
    				<lb n="5" break="no"/>tāruḷ Aṅkāṇacca<unclear>n</unclear><surplus>yai</surplus> va<hi rend="grantha">sa</hi>n=tayā<hi rend="grantha">ji</hi>yār pa
    				<gap reason="lost" extent="unknown" unit="line"/>
-   			</p>
-   			
-   			
+   			</p>   	
    			
    		</div>
    		
-   		<div type="apparatus">
+<div type="apparatus">
    			
    			<listApp>
    				
@@ -150,14 +148,14 @@
    			
    		</div>
 
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		      		
       		<p n="1">
       			Prosperity! Fortune!
       		</p>
       	   
       		<p n="1-2">
-      			<gap reason="ellipsis"/><!--display isssue: incomplete-->teenth year of  Nṛpatuṅkavarman.
+      			<gap reason="ellipsis"/>teenth year of Nirupatoṅkavarmar.<note>Sanskrit Nṛpatuṅkavarman.</note>
       		</p>
       	   
       		<p n="2-5"></p>
@@ -172,9 +170,11 @@
 
 <div type="bibliography">
 
-            <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.82). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 169)</p>
+            <p>Reported in <bibl><ptr target="bib:ARIE1905-1906"/></bibl> (ARIE/1905-1906/B/1905/394).</p>
 	
-	<p>Encoded and first translated here by Emmanuel Francis, based on previous edition(s).</p>
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.82). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 169)</p>
+	
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 
             	<listBibl type="primary">
         		

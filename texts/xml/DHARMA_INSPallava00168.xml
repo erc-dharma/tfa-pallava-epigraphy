@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvoṟṟiyūr, donation, time of Nṛpatuṅgavarman, year 18</title>
+				<title>Tiruvoṟṟiyūr, time of Nṛpatuṅgavarman, year 18</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -87,15 +87,15 @@
    		
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       		
-      		<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-   				<lb n="1"/>svasti śrī
-   			</ab>
-   			
-   			<p>
-   				kō-vicai
-   				<lb n="2" break="no"/>ya-<hi rend="grantha">nṛ</hi>patuṅka-va<hi rend="grantha"><supplied reason="omitted">r</supplied>mma</hi>k=ku
-   				<lb n="3"/>yāṇṭu patiṉ eṭṭ-āvatu   
-   			</p>
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<lb n="1"/>svasti śrī
+	</ab>
+	
+	<p>
+		kō-vicai
+		<lb n="2" break="no"/>ya-<hi rend="grantha">nṛ</hi>patuṅka-va<hi rend="grantha"><reg>r</reg>mma</hi><reg>r</reg>k=ku
+		<lb n="3"/>yāṇṭu patiṉ eṭṭ-āvatu   
+	</p>
    			
    			<p>
    				<lb n="4"/><supplied reason="lost">t</supplied>iru-v-oṟṟi<unclear>yū</unclear><supplied reason="lost">r</supplied>-p-puṟattu
@@ -162,15 +162,14 @@
    			</listApp>
    			
    		</div>
-
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		      		
       		<p n="1">
       			Prosperity! Fortune!
       		</p>
       	   
       		<p n="1-3">
-      			Eighteenth year of the victorious king Nṛpatuṅkavarman.
+      			Eighteenth year of the victorious king Nṛpatuṅkavarmmar<note>Sanskrit Nṛpatuṅkavarman.</note>
       		</p>
       	   
       		<p n="4-16">
@@ -183,7 +182,7 @@
       				         	
          </div>      	
          
-         <div type="commentary">
+<div type="commentary">
          	
          	<p n="28"><ptr target="bib:VenkatasubbaAyyar1943_01"/> notes: <quote>The slab is broken at this place and the continuation of the inscription is lost.</quote></p>
          	         	
@@ -191,6 +190,7 @@
 
  <div type="bibliography">
 
+ 	<p>Reported in <bibl><ptr target="bib:ARIE1912-1913"/></bibl> (ARIE/1912-1913/B/1912/162).</p>
  	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.70). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 168).</p>
  	<p>This digital edition by Emmanuel Francis, based on previous edition(s) and photos.</p>
  	

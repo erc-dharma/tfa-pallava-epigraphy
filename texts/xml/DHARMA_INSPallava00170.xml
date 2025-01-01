@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Piḷḷaippākkam, imprecation, time of Nṛpatuṅga, year 20</title>
+				<title>Piḷḷaippākkam, time of Nṛpatuṅga, year 20</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -87,18 +87,17 @@
    		
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       		
-      		<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-   				<lb n="1"/>svasti śrī
-   			</ab>
-   			
-   			<p>
-   				<!--display: undesired hyphen before lb-->
-   				<lb n="2"/><hi rend="grantha">nṛ</hi><surplus>ru</surplus>pa<unclear>t</unclear><choice><orig><unclear>o</unclear></orig><reg><unclear>u</unclear></reg></choice>ṅ
-   				<lb n="3" break="no"/>ka<unclear>r</unclear>kku yāṇ
-   				<lb n="4" break="no"/>ṭu Iru-pat-āva
-   				<lb n="5" break="no"/>tu
-   			</p>
-   			
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<lb n="1"/>svasti śrī
+	</ab>
+	
+	<p>
+		<lb n="2"/><hi rend="grantha">nṛ</hi><surplus>ru</surplus>pa<unclear>t</unclear><choice><orig><unclear>o</unclear></orig><reg><unclear>u</unclear></reg></choice>ṅ
+		<lb n="3" break="no"/>ka<unclear>r</unclear>kku yāṇ
+		<lb n="4" break="no"/>ṭu Iru-pat-āva
+		<lb n="5" break="no"/>tu
+	</p>
+	
    			<p>
    				Iv-vūṟ ṟa
    				<lb n="6" break="no"/><unclear>la</unclear>ttu <unclear>ne</unclear><choice><orig>ll</orig><reg>l</reg></choice> a
@@ -134,34 +133,38 @@
    			
    		</div>-->
 
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		      		
       		<p n="1">
       			Prosperity! Fortune!
       		</p>
       	   
       		<p n="2-5">
-      			Twentieth year of Nṛpatuṅka.
+      			Twentieth year of Nṛpatuṅkar.<note>Sanskrit Nṛpatuṅka.</note>
       		</p>
       	   
       		<p n="5-12">
       			Those who dump paddy on the premises <supplied reason="lost"><foreign>talam</foreign></supplied> of this village will encur the sin done by those who did <supplied reason="subaudible">sin</supplied> between the Ganges and Kanniyakumari.
       		</p>
-      		<p n="12-16"/>
+	
+      		<p n="12-16">
+      			...
+      		</p>
       		      				         	
          </div>      	
          
-         <div type="commentary">
+<div type="commentary">
          	
          	<p n="16"><ptr target="bib:Mahalingam1988_01"/> notes: <quote>Letters at the end of the inscription have been chiselled away.</quote></p>
          	         	
          </div>
 
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-            	Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.72). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 170)</p><p>Encoded and first translated here by Emmanuel Francis, based on previous edition(s).           	
-            </p>
+            <p>Reported in <bibl><ptr target="bib:ARIE1929-1930"/></bibl> (ARIE/1929-1930/B/1929-1930/175).</p>
+	
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.72). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 170).</p>
+	<p>Encoded and first translated here by Emmanuel Francis, based on previous edition(s).</p>
 
             	<listBibl type="primary">
         		

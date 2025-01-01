@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Parameśvaramaṅgalam, donation, time of Nṛpatuṅgavarman, year
+				<title>Parameśvaramaṅgalam, time of Nṛpatuṅgavarman, year
 					16</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
@@ -83,13 +83,13 @@
                
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       		
-      		<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-    			<lb n="1"/>svasti śrī
-    		</ab> 
-    		
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<lb n="1"/>svasti śrī
+	</ab> 
+	
     		<p>
     			<hi rend="grantha">nṛpa</hi>tuṅka-va
-    			<lb n="2" break="no"/><hi rend="grantha"><unclear>r</unclear>mma</hi>ṟkku yāṇṭu patiṉ-āṟ-āvatu
+    			<lb n="2" break="no"/><hi rend="grantha"><unclear>r</unclear>mma</hi>ṟku yāṇṭu patiṉ āṟ-āvatu
     		</p>
     		
     		<p>
@@ -114,7 +114,7 @@
     		    		    		    		
     	</div>
        
-    	<div type="apparatus">
+<div type="apparatus">
     		
     		<listApp>
     			
@@ -148,14 +148,14 @@
     		
     	</div>
     	
-    	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
     		
     		<p n="1">
     			Prosperity! Fortune!
     		</p>
     		
     		<p n="1-2">
-    			Sixteenth year of Nṛpatuṅgavarman.
+    			Sixteenth year of Nṛpatuṅkavarmaṉ.<note>Sanskrit Nṛpatuṅgavarman.</note>
     		</p>
     		
     		<p n="2-14">
@@ -172,15 +172,13 @@
     		        		    		    		
     	</div>
             
-    	<div type="commentary">
-    		    		    		
-    	</div>
-            
-    	<div type="bibliography">
+<div type="commentary"/>
+  
+<div type="bibliography">
     		
-<p>
-Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.69). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 161).</p><p>This digital edition by Emmanuel Francis, based on previous edition(s) and photos.
-</p>
+	 <p>Reported in <bibl><ptr target="bib:ARIE1912-1913"/></bibl> (ARIE/1912-1913/B/1912/257).</p>
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.69). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 161).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s) and photos.</p>
     		
     		<listBibl type="primary">
     			

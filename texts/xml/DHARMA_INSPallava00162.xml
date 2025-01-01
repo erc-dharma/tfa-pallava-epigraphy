@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvatikai, donation, time of Nṛpatuṅga, year 10</title>
+				<title>Tiruvatikai, time of Nṛpatuṅga, year 10</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -97,7 +97,7 @@
    				<lb n="3" break="no"/>m putukki Im
    				<lb n="4" break="no"/>-<hi rend="grantha">mahāde</hi>varkku
    				<lb n="5"/>nirupatoṅkaṟku
-   				<lb n="6" break="no"/>yāṇṭu pati<orig>ṉ</orig>
+   				<lb n="6"/>yāṇṭu pati<orig>ṉ</orig>
    				<lb n="7" break="no"/>ṉ āṟ-āvatu muta<orig>l</orig>
    				<lb n="8" break="no"/>l-āka
    			</p>
@@ -176,19 +176,17 @@
       		</p>      		         	
          </div>      	
          
-         <div type="commentary">
+<div type="commentary"/>
          	         	
-         </div>
+<div type="bibliography">
 
-         <div type="bibliography">
-
-            <p>
-            	Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.308). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 162). This digital edition by Emmanuel Francis, based on previous edition(s).           	
-            </p>
+             <p>Reported in <bibl><ptr target="bib:ARIE1902-1903"/></bibl> (ARIE/1902-1903/B/1903/35).</p>
+	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.308). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 162).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 
             	<listBibl type="primary">
         		
-        		<bibl n="KVS">
+        		<bibl n="SII">
         			<ptr target="bib:SubrahmanyaAiyer1937_01"/>        			
         			<citedRange unit="page">167-168</citedRange>
         			<citedRange unit="item">308</citedRange>

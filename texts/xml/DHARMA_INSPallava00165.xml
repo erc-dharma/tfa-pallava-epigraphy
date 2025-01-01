@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kīḻūr, donation, time of Nṛpatuṅgavikrama, year 18</title>
+				<title>Kīḻūr, time of Nṛpatuṅgavikrama, year 18</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -91,7 +91,7 @@
     			<lb n="1"/>svasti śrī
     		</ab> 
       		<p>
-      			kō-vicaiya-nirupatoṅka-vikkirama-<supplied reason="omitted">r</supplied>kki <supplied reason="omitted">yā</supplied>ṇṭu pati<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> eṭṭ-ā
+      			kō-vicaiya-nirupatoṅka-vikkirama-<reg>r</reg>kki <supplied reason="omitted">yā</supplied>ṇṭu pati<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> eṭṭ-ā
       			<lb n="2" break="no"/><unclear>vatu</unclear>
       		</p>
       		<p>
@@ -112,7 +112,7 @@
       		
       	</div>
 
-      	<div type="apparatus">
+<div type="apparatus">
       		
       		<listApp>
       			
@@ -126,14 +126,14 @@
       		
       	</div>
         
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
       		<p n="1">
       			Prosperity! Fortune!
       		</p>
       		
       		<p n="1-2">
-      			Eighteenth year of the victorious king Nṛpatuṅgavikrama. 
+      			Eighteenth year of the victorious king Nirupatoṅkavikkirama.<note>Sanskrit Nṛpatuṅgavikrama.</note> 
       		</p>
       		
       		<p n="2-9">
@@ -146,12 +146,11 @@
       		
       	</div>
       	      	
-<div type="commentary">
-			
-</div>
+<div type="commentary"/>
       	
 <div type="bibliography">
 
+	<p>Reported in <bibl><ptr target="bib:ARIE1901-19024"/></bibl> (ARIE/1901-1902/B/1902/297).</p>
 	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.926). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 165).</p>
 	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 	

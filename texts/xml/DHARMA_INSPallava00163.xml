@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Uttiramērūr, donation, time of Nṛpatuṅgavarman, year 16</title>
+				<title>Uttiramērūr, time of Nṛpatuṅgavarman, year 16</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary/>
+						<summary>Donation.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -127,8 +127,8 @@
 
          <div type="translation" resp="part:emfr">
          	<p n="1">Prosperity! Fortune!</p>
-         	<p n="1">Sixteenth year of Nṛpatuṅgavarman.</p>
-         	<p n="1-3">The gold that I, Paṭāri<note>That is, Skt. Bhaṭāri.</note>, wife <supplied reason="explanation"><foreign>maṇavāṭṭi</foreign></supplied> <supplied reason="subaudible">of</supplied> Harinandin, temple-man <supplied reason="explanation"><foreign>kōyilāṉ</foreign></supplied> at Ālappākkam, have given for the sake of an unperishable lamp for the Mahādeva of Tiruppulivalam in Uttaramerucaturvedimaṅgala: thirteen <foreign>kaḻañcu</foreign>s.</p>
+         	<p n="1">Sixteenth year of Nṛpatuṅkavarmar.<note>Sanskrit Nṛpatuṅgavarman.</note></p>
+         	<p n="1-3">The gold that I, Paṭāri,<note>Sanskrit Bhaṭāri.</note> wife <supplied reason="explanation"><foreign>maṇavāṭṭi</foreign></supplied> <supplied reason="subaudible">of</supplied> Harinandin, temple-man <supplied reason="explanation"><foreign>kōyilāṉ</foreign></supplied> at Ālappākkam, have given for the sake of an unperishable lamp for the Mahādeva of Tiruppulivalam in Uttaramerucaturvedimaṅgala: thirteen <foreign>kaḻañcu</foreign>s.</p>
          	<p n="3-4">This gold, I have given for burning an unperishable lamp with <supplied reason="subaudible">its</supplied> interest <supplied reason="explanation"><foreign>poliyālē</foreign></supplied>.</p>
          	<p n="4">The great men of the supervision committee <supplied reason="explanation"><foreign>vāriyapperumakkaḷ</foreign></supplied> <supplied reason="subaudible">are</supplied> the protectors <supplied reason="subaudible">of</supplied> this.</p>
          	<p n="4-5">Let the feet of those who will protect this pious act <supplied reason="explanation"><foreign>dharma</foreign></supplied> be on my head.</p>
@@ -140,12 +140,11 @@
 
          </div>
 
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.346). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 163).</p>
-         	<p>Edited and first translated here by Emmanuel Francis, based on autopsy and photos (2019).
-            </p>
+            <p>Reported in <bibl><ptr target="bib:ARIE1897-1898"/></bibl> (ARIE/1897-1898/B/1898/63).</p>
+         	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.346). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 163).</p>
+         	<p>This revised edition by Emmanuel Francis, based on autopsy and photos (2019).</p>
 
             <listBibl type="primary">
             	
