@@ -169,12 +169,11 @@
 				
 			</div>
 			
-			<div type="bibliography">
+<div type="bibliography">
 				
-				<p>
-					Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.99). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 200).</p><p>Encoded and first translated here by Emmanuel Francis, based on previous edition(s).          	
-				</p>
-				
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.99). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 200).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
+	
 				<listBibl type="primary">
 					
 					<bibl n="SII">
