@@ -142,12 +142,12 @@
 	
 	<p>Reported in <bibl><ptr target="bib:ARIE1933-1934"/></bibl> (ARIE/1933-1934/B/1933-1934/68).</p>
 	
-	<p>Edited in <bibl><ptr target="bib:Kacinatan1980_01"/></bibl> (SII 12.99). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 202).</p>
+	<p>Edited in <bibl><ptr target="bib:Kacinatan1980_01"/></bibl>. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 202).</p>
 	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 	
 	<listBibl type="primary">
 		
-		<bibl n="SII">
+		<bibl n="K+T">
 			<ptr target="bib:Kacinatan1980_01"/>
 			<citedRange unit="page">84</citedRange>
 			<citedRange unit="item">18</citedRange>
