@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Uttiramērūr, sale-deed, time of Nṛpatuṅgavarman, year 26</title>
+            <title>Uttiramērūr, time of Nṛpatuṅgavarman, year 26</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Sale-deed.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -111,79 +111,79 @@
       		
       	</div>
 
-         <div type="apparatus">
+<div type="apparatus">
          	
-         	<listApp>
-         		
-         		<app loc="1">
-         		<lem>°vic<choice><orig><choice><unclear>a</unclear><unclear>e</unclear></choice></orig><reg>ai</reg></choice>ya°</lem>
-         			<rdg source="bib:SubrahmanyaAiyer1928_01">°vicaya°</rdg>
-         		</app>
-         		
-         		<app loc="1">
-         			<lem><hi rend="grantha">°nṛpa</hi>tu<hi rend="grantha">ṁ</hi>ka°</lem>
-         			<rdg source="bib:SubrahmanyaAiyer1928_01">°<hi rend="grantha">nṛpatuṁ</hi>ka°</rdg>
-         		</app>
-         		
-         		<app loc="2">
-         			<lem>°catu<hi rend="grantha"><unclear>r</unclear>vve</hi>tima<hi rend="grantha">ṁ</hi><unclear>ka</unclear>lattu</lem>
-         			<rdg source="bib:SubrahmanyaAiyer1928_01">°catu<hi rend="grantha">rvve</hi>tima<unclear>ṅka</unclear>lattu</rdg>
-         		</app>
-         	
-         		<app loc="2">
-         			<lem><hi rend="grantha">sabhai</hi>y<supplied reason="lost">ōm</supplied></lem>
-         			<rdg source="bib:SubrahmanyaAiyer1928_01"><hi rend="grantha">sabhai</hi>yō<unclear>m</unclear></rdg>
-         			<note>The kāl of -ō is lost, but not the kompu.</note><!--Update-->
-         		</app>
-         		
-         		<app loc="3">
-         			<lem>°vil<choice><sic>e</sic><corr>ai</corr></choice></lem>
-         			<rdg source="bib:SubrahmanyaAiyer1928_01">vila</rdg>
-         			<note>Note the special form of ai in lai. See regular ai in kai same line. nile could as well be considered an unstandard usage for nilai, like vicaya/viceya for vicaiya.</note><!--Update-->
-         		</app>
-         		
-         		<app loc="3">
-         			<lem>muttar<choice><orig>a</orig><reg>ai</reg></choice>yar-n<unclear>ā</unclear>ṭṭu</lem>
-         			<rdg source="bib:SubrahmanyaAiyer1928_01">muttarayā nāṭṭu</rdg>
-         			<note>This might just be a typo for missing <foreign>puḷḷi</foreign>.</note>
-         		</app>
-         		
-         		<app loc="3">
-         			<lem>kūkūr-k <supplied reason="lost">kū</supplied>kūr</lem>
-         			<rdg source="bib:SubrahmanyaAiyer1928_01">kūkūraka <unclear>kū</unclear>kūr</rdg>
-         			<note>These might just be typos for missing <foreign>puḷḷi</foreign>s.</note>
-         		</app>
-         		
-         		<app loc="4">
-         			<lem>vic<choice><orig>a</orig><reg>ai</reg></choice>yanalluḷāṉ</lem>
-         			<rdg source="bib:SubrahmanyaAiyer1928_01">vicayanalluḻāṉ</rdg><!--Check in situ!-->
-         		</app>
-         		
-         		<app loc="4">
-         			<lem>kāṭavati<unclear reason="eccentric_ductus">y</unclear>āṉ-ākiya</lem>
-         			<rdg source="bib:SubrahmanyaAiyer1928_01">kāṭavati<unclear>yaraya</unclear>ṉākiya</rdg>
-         		</app>
-         		
-         		<app loc="4">
-         			<lem>p<unclear>ū</unclear>ti</lem>
-         			<rdg source="bib:SubrahmanyaAiyer1928_01">pūti</rdg>
-         		</app>
-         		
-         		<app loc="5">
-         			<lem>kīḻ āṭalam</lem>
-         			<rdg source="bib:SubrahmanyaAiyer1928_01">kī<unclear>ḻ ā</unclear>ṭalam</rdg>
-         		</app>
-         		
-         	</listApp>
-         	
-         </div>
+   <listApp>
+      
+      <app loc="1">
+         <lem>°vic<choice><orig><choice><unclear>a</unclear><unclear>e</unclear></choice></orig><reg>ai</reg></choice>ya°</lem>
+         <rdg source="bib:SubrahmanyaAiyer1928_01">°vicaya°</rdg>
+      </app>
+      
+      <app loc="1">
+         <lem><hi rend="grantha">°nṛpa</hi>tu<hi rend="grantha">ṁ</hi>ka°</lem>
+         <rdg source="bib:SubrahmanyaAiyer1928_01">°<hi rend="grantha">nṛpatuṁ</hi>ka°</rdg>
+      </app>
+      
+      <app loc="2">
+         <lem>°catu<hi rend="grantha"><unclear>r</unclear>vve</hi>tima<hi rend="grantha">ṁ</hi><unclear>ka</unclear>lattu</lem>
+         <rdg source="bib:SubrahmanyaAiyer1928_01">°catu<hi rend="grantha">rvve</hi>tima<unclear>ṅka</unclear>lattu</rdg>
+      </app>
+      
+      <app loc="2">
+         <lem><hi rend="grantha">sabhai</hi>y<supplied reason="lost">ōm</supplied></lem>
+         <rdg source="bib:SubrahmanyaAiyer1928_01"><hi rend="grantha">sabhai</hi>yō<unclear>m</unclear></rdg>
+         <note>The kāl of -ō is lost, but not the kompu.</note><!--Update-->
+      </app>
+      
+      <app loc="3">
+         <lem>°vil<choice><sic>e</sic><corr>ai</corr></choice></lem>
+         <rdg source="bib:SubrahmanyaAiyer1928_01">vila</rdg>
+         <note>Note the special form of ai in lai. See regular ai in kai same line. nile could as well be considered an unstandard usage for nilai, like vicaya/viceya for vicaiya.</note><!--Update-->
+      </app>
+      
+      <app loc="3">
+         <lem>muttar<choice><orig>a</orig><reg>ai</reg></choice>yar-n<unclear>ā</unclear>ṭṭu</lem>
+         <rdg source="bib:SubrahmanyaAiyer1928_01">muttarayā nāṭṭu</rdg>
+         <note>This might just be a typo for missing <foreign>puḷḷi</foreign>.</note>
+      </app>
+      
+      <app loc="3">
+         <lem>kūkūr-k <supplied reason="lost">kū</supplied>kūr</lem>
+         <rdg source="bib:SubrahmanyaAiyer1928_01">kūkūraka <unclear>kū</unclear>kūr</rdg>
+         <note>These might just be typos for missing <foreign>puḷḷi</foreign>s.</note>
+      </app>
+      
+      <app loc="4">
+         <lem>vic<choice><orig>a</orig><reg>ai</reg></choice>yanalluḷāṉ</lem>
+         <rdg source="bib:SubrahmanyaAiyer1928_01">vicayanalluḻāṉ</rdg><!--Check in situ!-->
+      </app>
+      
+      <app loc="4">
+         <lem>kāṭavati<unclear reason="eccentric_ductus">y</unclear>āṉ-ākiya</lem>
+         <rdg source="bib:SubrahmanyaAiyer1928_01">kāṭavati<unclear>yaraya</unclear>ṉākiya</rdg>
+      </app>
+      
+      <app loc="4">
+         <lem>p<unclear>ū</unclear>ti</lem>
+         <rdg source="bib:SubrahmanyaAiyer1928_01">pūti</rdg>
+      </app>
+      
+      <app loc="5">
+         <lem>kīḻ āṭalam</lem>
+         <rdg source="bib:SubrahmanyaAiyer1928_01">kī<unclear>ḻ ā</unclear>ṭalam</rdg>
+      </app>
+      
+   </listApp>
+   
+</div>
 
-         <div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
          	<p n="1">
          		Prosperity! Fortune!
          	</p>
          	<p n="1">
-         		Twenty-sixth year of the victorious king Nṛpatuṅgavikramavarman.
+         		Twenty-sixth year of the victorious king Nṛpatuṁkavikramavarmaṉ.<note>Sanskrit Nṛpatuṅgavikramavarman.</note>
          	</p>
          	<p n="1-2">
          		Hand-written <supplied reason="explanation"><foreign>kai-y-eḻuttu</foreign></supplied> document <supplied reason="explanation"><foreign>āvaṇam<!--or Āvaṇam? cf. TG--></foreign></supplied> for the price of a land <supplied reason="explanation"><foreign>nila-vilai</foreign>, that is, sale-deed</supplied> <supplied reason="subaudible">by</supplied> We, the members of the assembly <supplied reason="explanation"><foreign><hi rend="grantha">sabhai</hi>yōm</foreign></supplied> of Uttaramērucaturvedimaṅgalam in the Kāliyūrkkōṭṭam and the division of the same name <supplied reason="explanation"><foreign>taṉ kūṟṟu</foreign><note>Literally: in the division of itself.</note></supplied>.
@@ -202,7 +202,8 @@
       	
 <div type="bibliography">
 
-            <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.368). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 190).</p>
+            <p>Reported in <bibl><ptr target="bib:ARIE1897-1898"/></bibl> (ARIE/1897-1898/B/1898/83).</p>
+   <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.368). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 190).</p>
             <p>This revised edition by Emmanuel Francis, based on autopsy and photos (2019).</p>
 
             <listBibl type="primary">

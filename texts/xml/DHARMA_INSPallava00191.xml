@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Piḷḷaippākkam, donation, time of Nṛpatuṅgavikramavarman, year 2[.]</title>
+				<title>Piḷḷaippākkam, time of Nṛpatuṅgavikramavarman, year 2[.]</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -107,8 +107,7 @@
 	<p>	
 		Ip-paricu muṭṭil UnaE taṇṭa<unclear>-p-pa</unclear> 				
 		<lb n="3" break="no"/>ṭuvā<choice><orig>nṉ</orig><reg>ṉ</reg></choice> āka<unclear>vum</unclear>
-	</p>
-	
+	</p>	
 	
 </div>
 			
@@ -126,67 +125,66 @@
 	
 </div>
 			
-			<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
 				
-				<p n="1">
-					Prosperity! Fortune!
-				</p>
-				
-				<p n="1">
-					Twenty-[...]th year of Nṛpatuṅgavikramavarman.
-				</p>
-				
-				<p n="1-2">For presenting food […] to the Mahādeva as a pious donation for (the sake of) Piḷḷaipākkiḻār [Nam?]pi of Piḷḷaippākkam, the land that Ayyakkuṭṭiyār, his younger brother gave.
-					
-				</p>
-				
-				<p n="2">I gave in this matter six <foreign>mā</foreign>s of land in Puṟampāṭu […] to the honourable Pācūraṉ who worships this god.
-					
-				</p>
-				
-				<p n="2-3">In this matter, if opposing/failing, let he be fined (an amount of) […].
-					
-				</p>
-				
-			</div>      	
+	<p n="1">
+		Prosperity! Fortune!
+	</p>
+	
+	<p n="1">
+		Twenty-[...]th year of Nṛpatuṅka-vikkirama-parumaṉ.<note>Sanskrit Nṛpatuṅgavikramavarman.</note>
+	</p>
+	
+	<p n="1-2">For presenting food […] to the Mahādeva as a pious donation for (the sake of) Piḷḷaipākkiḻār [Nam?]pi of Piḷḷaippākkam, the land that Ayyakkuṭṭiyār, his younger brother gave.
+		
+	</p>
+	
+	<p n="2">I gave in this matter six <foreign>mā</foreign>s of land in Puṟampāṭu […] to the honourable Pācūraṉ who worships this god.
+		
+	</p>
+	
+	<p n="2-3">In this matter, if opposing/failing, let he be fined (an amount of) […].
+		
+	</p>
+	
+</div>      	
 			
-			<div type="commentary">
-				
-			</div>
+<div type="commentary"/>
 			
 <div type="bibliography">
 				
-	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.80). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 191).</p><p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1929-1930"/></bibl> (ARIE/1929-1930/B/1929-1930/172).</p>
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.80). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 191).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 	
 	<listBibl type="primary">
-					
-					<bibl n="SII">
-						<ptr target="bib:VenkatasubbaAyyar1943_01"/>
-						<citedRange unit="page">34</citedRange>
-						<citedRange unit="item">80</citedRange>
-					</bibl> 
-					
-					<bibl n="IP">
-						<ptr target="bib:Mahalingam1988_01"/>
-						<citedRange unit="page">523</citedRange>
-						<citedRange unit="item">191</citedRange>
-					</bibl>
-					
-					
-				</listBibl>
-				
-				<listBibl type="secondary">
-					
-					<bibl>
-					<ptr target="bib:ARIE1929-1930"/>
-						<citedRange unit="page">19</citedRange>
-						<citedRange unit="appendix">B/1929-30</citedRange>
-						<citedRange unit="item">172</citedRange>
-					</bibl>
-					
-				</listBibl>
-				
-			</div>
+		
+		<bibl n="SII">
+			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
+			<citedRange unit="page">34</citedRange>
+			<citedRange unit="item">80</citedRange>
+		</bibl> 
+		
+		<bibl n="IP">
+			<ptr target="bib:Mahalingam1988_01"/>
+			<citedRange unit="page">523</citedRange>
+			<citedRange unit="item">191</citedRange>
+		</bibl>	
+		
+	</listBibl>
+	
+	<listBibl type="secondary">
+		
+		<bibl>
+			<ptr target="bib:ARIE1929-1930"/>
+			<citedRange unit="page">19</citedRange>
+			<citedRange unit="appendix">B/1929-30</citedRange>
+			<citedRange unit="item">172</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+</div>
 			
 		</body>
 	</text>

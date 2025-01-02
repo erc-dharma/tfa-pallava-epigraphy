@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Hero-stone bearing an inscription in honour of Kaliyirāmaṉ.</summary>
+                  <summary>Hero-stone inscription commemorating the death of Kaliyirāmaṉ.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -91,15 +91,15 @@
             
             <p>
                <lb n="1"/>kō-vicaiya-niru
-               <lb n="2" break="no"/>patoṅka-vikkirama-pa
+               <lb n="2" break="no"/>pat<choice><orig>o</orig><reg>u</reg></choice>ṅka-vikkirama-pa
                <lb n="3" break="no"/>ruma<supplied reason="lost">r</supplied>kku yāṇṭ’ iru-pa
                <lb n="4" break="no"/>tt’ āṟ-āvatu
             </p>
             <p>
                paṭuvū
                <lb n="5" break="no"/>r-k-kōṭṭattu mēl-a
-               <lb n="6" break="no"/>ṭaiy<unclear>ā</unclear>ṟu-nāṭṭu Āmai<unclear>y</unclear><supplied reason="lost">ūr</supplied><!--Fix: hyphen wrongly added a the end of line-->
-               <lb n="7"/>mēl nuḷampaṉ <unclear>pa</unclear><supplied reason="lost">ṭai-y</supplied><!--Fix: hyphen wrongly added a the end of line-->
+               <lb n="6"/>ṭaiy<unclear>ā</unclear>ṟu-nāṭṭu Āmai<unclear>y</unclear><supplied reason="lost">ūr</supplied>
+               <lb n="7"/>mēl nuḷampaṉ <unclear>pa</unclear><supplied reason="lost">ṭai-y</supplied>
                <lb n="8"/>vantu toṟu-k koḷḷa <unclear>p</unclear>i<unclear>ruti-ka</unclear>
                <lb n="9" break="no"/>ṅkaraiyar cēvakar Akala<supplied reason="lost">ṅkattu</supplied>
                <lb n="10" break="no"/>varāyar marukaṉ mā<unclear>c</unclear>i<unclear>ḻu</unclear> <gap reason="lost" quantity="3" unit="character"/>
@@ -108,10 +108,10 @@
             </p>
          </div>
          
-         <div type="apparatus"/>
+<div type="apparatus"/>
          
-         <div type="translation" resp="part:emfr">
-            <p n="1-4">Twenty-sixth year of the victorious king Nṛpatuṅgavikramavarman.</p>
+<div type="translation" resp="part:emfr">
+            <p n="1-4">Twenty-sixth year of the victorious king Nirupatoṅka-vikkirama-parumar.<note>Sanskrit Nṛpatuṅgavikramavarman.</note></p>
             <p n="4-11">When the Nuḷampaṉ came <supplied reason="subaudible">with</supplied> his army upon Āmaiyūr, in the Mēlaṭaiyārunāṭu in the Paṭuvūrkkōṭṭam, and seized cattle, Kaliyirāṁaṉ, a hunter <gap reason="ellipsis"/>, the nephew of Akalaṅkattuvarāyar, a servant of Pirutikaṅkaraiyar, died.</p>
          </div>
          
