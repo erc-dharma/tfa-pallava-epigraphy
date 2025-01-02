@@ -134,7 +134,7 @@
 	</p>
 	
 	<p n="1">
-		[...]th year of Nṛpatuṅga.
+		[...]th year of Nṛpatoṅkar.<note>Sanskrit Nṛpatuṅga.</note>
 	</p>
 	
 	<p n="1-2">
@@ -160,42 +160,41 @@
 	
 </div>      	
 			
-			<div type="commentary">
-				
-			</div>
+<div type="commentary"/>
 			
-			<div type="bibliography">
+<div type="bibliography">
 				
-				<p>
-					Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.81), described there as ARIE/1929-1930/B/1929-30/172-A, that is, ARIE/1929-1930/B/1929-30/172 was wrongly attributed to 2 inscriptions, the other being DHARMA_INSPallava00193<!--update-->. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 193).</p><p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
-				
-				<listBibl type="primary">
-					
-					<bibl n="SII">
-						<ptr target="bib:VenkatasubbaAyyar1943_01"/>
-						<citedRange unit="page">35</citedRange>
-						<citedRange unit="item">81</citedRange>
-					</bibl> 
-					
-					<bibl n="IP">
-						<ptr target="bib:Mahalingam1988_01"/>
-						<citedRange unit="page">524</citedRange>
-						<citedRange unit="item">192</citedRange>
-					</bibl>
-					
-					
-				</listBibl>
-				
-				<listBibl type="secondary">
-					
-					<bibl>
-					<ptr target="bib:ARIE1929-1930"/>
-						<citedRange unit="page">19</citedRange>
-						<citedRange unit="appendix">B/1929-30</citedRange>
-						<citedRange unit="item">172</citedRange>
-					</bibl>
-					
-				</listBibl>
+	<p>Reported in <bibl><ptr target="bib:ARIE1929-1930"/></bibl> (ARIE/1929-1930/B/1929-1930/172).</p>
+	
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.81), described there as ARIE/1929-1930/B/1929-30/172-A, that is, ARIE/1929-1930/B/1929-30/172 was wrongly attributed to 2 inscriptions, the other being DHARMA_INSPallava00193<!--update-->. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 193).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
+	
+	<listBibl type="primary">
+		
+		<bibl n="SII">
+			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
+			<citedRange unit="page">35</citedRange>
+			<citedRange unit="item">81</citedRange>
+		</bibl> 
+		
+		<bibl n="IP">
+			<ptr target="bib:Mahalingam1988_01"/>
+			<citedRange unit="page">524</citedRange>
+			<citedRange unit="item">192</citedRange>
+		</bibl>		
+		
+	</listBibl>
+	
+	<listBibl type="secondary">
+		
+		<bibl>
+			<ptr target="bib:ARIE1929-1930"/>
+			<citedRange unit="page">19</citedRange>
+			<citedRange unit="appendix">B/1929-30</citedRange>
+			<citedRange unit="item">172</citedRange>
+		</bibl>
+		
+	</listBibl>
 				
 			</div>
 			

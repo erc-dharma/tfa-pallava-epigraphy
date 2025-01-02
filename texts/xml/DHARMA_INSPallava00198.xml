@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Cāttamaṅkalam, rock, time of Kampavarman, year 6</title>
+                <title>Cāttamaṅkalam, time of Kampavarman, year 6</title>
                 <respStmt>
                     <resp>EpiDoc encoding</resp>
                     <persName ref="part:emfr">
@@ -47,7 +47,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary/>
+                        <summary>Rock inscription recording ...</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -137,12 +137,11 @@
     </listApp>
     
 </div>
-      	
-      	
-      	<div type="translation" resp="part:emfr">
+          
+<div type="translation" resp="part:emfr">
       		<!--Check/Update translation + if necessary encode properly "..."-->
       		<p n="1">Prosperity! Fortune!</p>
-      		<p n="1-2">Sixth year of  Kampapaṉmaṉ.<note>Sanskrit Kampavarman.</note></p>
+      		<p n="1-2">Sixth year of Kampapaṉmaṉ.<note>Sanskrit Kampavarman.</note></p>
       		<p n="2-8">Mātavi, the wife <supplied reason="subaudible">of</supplied> Kāṭakati Araiyar, after renovating this glorious temple, having a front hall erected, renovating the monastery <supplied reason="explanation"><foreign>pāḻi</foreign></supplied>, <supplied reason="subaudible">and</supplied> having a glorious temple <supplied reason="subaudible">of</supplied> Yakṣa Bhaṭṭāri erected, had one big bell fed <supplied reason="explanation"><foreign>ūṭṭuvittāḷ</foreign>That is, "gave one big bell."</supplied> given <supplied reason="explanation"><foreign>iṭṭa</foreign></supplied> to this <foreign>paḷḷi</foreign>.</p>
       		
       	</div>

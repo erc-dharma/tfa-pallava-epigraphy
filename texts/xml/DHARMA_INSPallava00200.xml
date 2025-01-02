@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvoṟṟiyūr, donation, time of Kampavarman, year 7</title>
+				<title>Tiruvoṟṟiyūr, time of Kampavarman, year 7</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -141,7 +141,7 @@
 <div type="translation" resp="part:emfr">
 						
 	<p n="1-2">
-		Seventh year of Kampavarman.
+		Seventh year of Kampavarmaṉ.<note>Sanskrit Kampavarman.</note>
 	</p>
 	
 	<p n="2-3">
@@ -164,45 +164,43 @@
 	</p>
 
 </div>      	
-			
-			<div type="commentary">
-				
-			</div>
+
+<div type="commentary"/>
 			
 <div type="bibliography">
 				
+	<p>Reported in <bibl><ptr target="bib:ARIE1912-1913"/></bibl> (ARIE/1912-1913/B/1912/189).</p>
 	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.99). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 200).</p>
 	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 	
-				<listBibl type="primary">
-					
-					<bibl n="SII">
-						<ptr target="bib:VenkatasubbaAyyar1943_01"/>
-						<citedRange unit="page">44-45</citedRange>
-						<citedRange unit="item">99</citedRange>
-					</bibl> 
-					
-					<bibl n="IP">
-						<ptr target="bib:Mahalingam1988_01"/>
-						<citedRange unit="page">535-536</citedRange>
-						<citedRange unit="item">200</citedRange>
-					</bibl>
-					
-					
-				</listBibl>
-				
-				<listBibl type="secondary">
-					
-					<bibl>
-					<ptr target="bib:ARIE1912-1913"/>
-						<citedRange unit="page">26</citedRange>
-						<citedRange unit="appendix">B/1912</citedRange>
-						<citedRange unit="item">189</citedRange>
-					</bibl>
-					
-				</listBibl>
-				
-			</div>
+	<listBibl type="primary">
+		
+		<bibl n="SII">
+			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
+			<citedRange unit="page">44-45</citedRange>
+			<citedRange unit="item">99</citedRange>
+		</bibl> 
+		
+		<bibl n="IP">
+			<ptr target="bib:Mahalingam1988_01"/>
+			<citedRange unit="page">535-536</citedRange>
+			<citedRange unit="item">200</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+	<listBibl type="secondary">
+		
+		<bibl>
+			<ptr target="bib:ARIE1912-1913"/>
+			<citedRange unit="page">26</citedRange>
+			<citedRange unit="appendix">B/1912</citedRange>
+			<citedRange unit="item">189</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+</div>
 			
 		</body>
 	</text>

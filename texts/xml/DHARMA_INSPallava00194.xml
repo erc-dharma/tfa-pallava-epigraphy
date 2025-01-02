@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirucceṉṉampūṇṭi, donation, time of Nṛpatuṅgavarman (?), year partially lost</title>
+				<title>Tirucceṉṉampūṇṭi, time of Nṛpatuṅgavarman (?), year [.]2</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -101,7 +101,7 @@
       			<lb n="1" break="no"/><unclear>ra</unclear>ṇ·ṭ-āvatu
       		</p>
       		<p>
-      			<lb n="2" break="no"/>tiru-k·-kaṭai-mu
+      			<lb n="2"/>tiru-k·-kaṭai-mu
       			<lb n="3" break="no"/>ṭi mātēvark·=ku no		
       			<lb n="4" break="no"/>n·tā viḷak·=ku Eri
       			<lb n="5" break="no"/>p·pata<supplied reason="omitted">ṟ</supplied>k·=ku vicai
@@ -118,7 +118,7 @@
       		<p>Itu 
       			<lb n="11" break="no"/>koṇṭu Ila
       			<lb n="12" break="no"/>kkittāṉ aṭi e<supplied reason="omitted">ṉ</supplied> ṟa
-      			<lb n="13" break="no"/>lai melatu
+      			<lb n="13" break="no"/>lai mēlatu
       		</p>
       		<p>
       			<lb n="14"/>paṉ-m<choice><sic>a</sic><corr>ā</corr></choice><hi rend="grantha">he</hi>cc<unclear>u</unclear>rar pati
@@ -151,7 +151,7 @@
       		
       	</div>
 
-      	<div type="apparatus">
+<div type="apparatus">
       		
       		<listApp>
       			<app loc="3">
@@ -187,14 +187,14 @@
       	</div>
       	
 
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
       		<p n="1">
-      			Prosperity! Fortune!
+      			<gap reason="lost"/>2nd year of <gap reason="lost"/> 
       		</p>
       		
       		<p n="2-10">
-      			18th year of Nṛpatuṅgavarman      			
+      			     			
       		</p>
       		
       		<p n="10-13">
@@ -217,6 +217,7 @@
       	
 <div type="bibliography">
 
+	<p>Reported in <bibl><ptr target="bib:ARIE1900-1901"/></bibl> (ARIE/1900-1901/A/1901/300B).</p>
 	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.527). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 194); edited and translated in <bibl><ptr target="bib:Schmid2014_02"/></bibl>.</p>
 	<p>This revised edition by Emmanuel Francis, based on photos (except for lines 24-25) and on previous editions.</p>
    

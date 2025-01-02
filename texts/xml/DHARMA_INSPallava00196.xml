@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Poṟpantal, donation, time of Kampavarman, year 2</title>
+				<title>Poṟpantal, time of Kampavarman, year 2</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -170,7 +170,7 @@
 	</p>
 	
 	<p n="2-5">
-		Second year of Kampavarman.
+		Second year of Kampavarmaṉ.<note>Sanskrit Kampavarman.</note>
 	</p>
 	
 	<p n="6-9">
@@ -195,14 +195,13 @@
 	
 </div>      	
 			
-			<div type="commentary">
-				
-				
-			</div>
+<div type="commentary"/>
 			
 <div type="bibliography">
 				
-	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.97). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 196).</p><p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/B/1923/402).</p>
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.97). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 196).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 	
 	<listBibl type="primary">
 		
@@ -217,7 +216,6 @@
 			<citedRange unit="page">529-530</citedRange>
 			<citedRange unit="item">196</citedRange>
 		</bibl>
-		
 		
 	</listBibl>
 	

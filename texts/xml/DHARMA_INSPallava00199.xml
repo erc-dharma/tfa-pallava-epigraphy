@@ -8,8 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Uttiramērūr, Vaikuṇṭhaperumāḷ, larger platform, southern base, time of
-					Kampavarman, year 6</title>
+            <title>Uttiramērūr, Vaikuṇṭhaperumāḷ, time of Kampavarman, year 6</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -48,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Larger platform, southern base.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -225,7 +224,7 @@
       			Prosperity! Fortune!
       		</p>
       		<p n="1">
-      			Sixth year of the victorious king Kampavarman.
+      			Sixth year of the victorious king Kampavarmaṉ.<note>Sanskrit Kampavarman.</note>
       		</p>      		
       		<p n="1">
       			Writ/Writings of us, the members of the assembly of Uttaramerucaturvedimaṅgala in the Kāliyūrkkōṭṭam and in the same division.
@@ -255,11 +254,12 @@
       		
       	</div>      		      	      
       	
-      	<div type="bibliography">
-
- <p>
-Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.347). Text and summary in Mahalingam <bibl rend="omitname"><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 199). Edited  by Emmanuel Francis, from autopsy and photos (2019).
-</p>	
+<div type="bibliography">
+   
+   <p>Reported in <bibl><ptr target="bib:ARIE1897-1898"/></bibl> (ARIE/1897-1898/B/1898/64).</p>
+   
+   <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.347). Text and summary in Mahalingam <bibl rend="omitname"><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 199).</p>
+   <p>This revised edition by Emmanuel Francis, from autopsy and photos (2019).</p>	
       		
       		<listBibl type="primary">
       			
