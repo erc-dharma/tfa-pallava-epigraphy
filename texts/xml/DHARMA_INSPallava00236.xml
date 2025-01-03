@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Putuppākkam, donation, time of Aparājitavarman, year (3)</title>
+				<title>Putuppākkam, time of Aparājitavarman, year (3)</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -166,7 +166,7 @@
 	</p>
 	
 	<p n="1-3">
-		Third year of the victorious king.<note>Sanskrit Aparājitavarman.</note>
+		Third year of the victorious king Aparājitavarmaṉ.<note>Sanskrit Aparājitavarman.</note>
 	</p>
 	
 	<p n="3-6">
@@ -199,6 +199,7 @@
 			
 <div type="bibliography">
 				
+	<p>Reported in <bibl><ptr target="bib:ARIE1922-1923"/></bibl> (ARIE/1922-1923/C/1923/62).</p>
 	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.84). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 236).</p>
 	<p>This digital edition by Emmanuel Francis, based on previous edition(s), with further text restorations, partly based on the suggestions by <bibl><ptr target="bib:Mahalingam1988_01"/></bibl>.</p>
 				
@@ -215,7 +216,6 @@
 						<citedRange unit="page">596-597</citedRange>
 						<citedRange unit="item">236</citedRange>
 					</bibl>
-					
 					
 				</listBibl>
 				

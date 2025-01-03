@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Satyavēḍu, donation, time of Aparājitavarman, year 4</title>
+				<title>Satyavēḍu, time of Aparājitavarman, year 4</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -139,7 +139,7 @@
 	</p>
 	
 	<p n="2-3">
-		Fourth year of the king.<note>Sanskrit Aparājitavarman.</note>
+		Fourth year of the king Aparājitapaṟmaṉ.<note>Sanskrit Aparājitavarman.</note>
 	</p>
 	
 	<p n="3-13">
@@ -152,16 +152,14 @@
 				
 </div>      	
 			
-			<div type="commentary">
-				
-</div>
+<div type="commentary"/>
 			
 <div type="bibliography">
-				
-				<p>
-					Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.86). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 237).</p>
-				<p>This digital edition by Emmanuel Francis, based on previous edition(s).          	
-				</p>
+	
+	<p>Reported in <bibl><ptr target="bib:ARIE1911-1912"/></bibl> (ARIE/1911-1912/C/1912/31).</p>
+	
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.86). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 237).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 				
 				<listBibl type="primary">
 					
@@ -176,7 +174,6 @@
 						<citedRange unit="page">598-599</citedRange>
 						<citedRange unit="item">237</citedRange>
 					</bibl>
-					
 					
 				</listBibl>
 				

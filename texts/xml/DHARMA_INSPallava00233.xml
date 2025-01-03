@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Koṭuṅkalūr, donation, time of Kampavikramavarman, year (3)2</title>
+				<title>Koṭuṅkalūr, time of Kampavikramavarman, year (3)2</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -95,7 +95,7 @@
 	
 	<p>
 		<lb n="2"/>kō-vicaiya-kampa-vi
-		<lb n="3" break="no"/>kkira-mapa<choice><orig><hi rend="grantha">t</hi></orig><reg><hi rend="grantha">n</hi></reg></choice><hi rend="grantha">ma</hi><supplied reason="omitted">ṟ</supplied>ku yāṇ
+		<lb n="3" break="no"/>kkirama-pa<choice><orig><hi rend="grantha">t</hi></orig><reg><hi rend="grantha">n</hi></reg></choice><hi rend="grantha">ma</hi><reg>ṟ</reg>ku yāṇ
 		<lb n="4" break="no"/>ṭu <num value="32"><unclear>3</unclear> <g type="numeral">10</g> 2</num> Āvatu
 		
 	</p>
@@ -106,8 +106,7 @@
 		<lb n="6" break="no"/>kkaṉ caṭaiyaṉukku
 		<lb n="7" break="no"/>-k kāviṭṭ’ <choice><orig>u</orig><reg>ū</reg></choice>rōm Iv<unclear>v-ū</unclear>
 		<lb n="8" break="no"/><unclear>r</unclear> <gap reason="undefined" quantity="2" unit="character"/> viṭa viṟṟu-k ku
-		<lb n="9" break="no"/>ṭut<unclear>tō</unclear>m
-		
+		<lb n="9" break="no"/>ṭut<unclear>tō</unclear>m		
 	</p>
 	
 	<p>
@@ -119,7 +118,6 @@
 	<p>
 		<gap reason="lost" quantity="1" unit="line" precision="low"/>
 	</p> 
-	
 	
 </div>
 			
@@ -144,7 +142,7 @@
 	</p>
 							
 	<p n="2-4">
-		<unclear>Tirthy</unclear>-second year of the victorious king.<note>Sanskrit Kampavikramavarman.</note>
+		<unclear>Tirthy</unclear>-second year of the victorious king Kampavikkiramapanmaṉ.<note>Sanskrit Kampavikramavarman.</note>
 	</p>
 	
 	<p n="4-9">
@@ -158,15 +156,14 @@
 
 </div>      	
 			
-			<div type="commentary">
-				
-			</div>
+<div type="commentary"/>
 			
 <div type="bibliography">
-				
-				<p>
-					Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.111). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 233).</p>
-				<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
+	
+	<p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/144).</p>
+	
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.111). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 233).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 				
 				<listBibl type="primary">
 					
@@ -178,10 +175,9 @@
 					
 					<bibl n="IP">
 						<ptr target="bib:Mahalingam1988_01"/>
-						<citedRange unit="page">590</citedRange>
+						<citedRange unit="page">592</citedRange>
 						<citedRange unit="item">233</citedRange>
 					</bibl>
-					
 					
 				</listBibl>
 				
