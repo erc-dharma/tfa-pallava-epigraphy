@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kāvantaṇṭalam, donation transaction, time of Kampavarman, year 18</title>
+            <title>Kāvantaṇṭalam, time of Kampavarman, year 18</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -147,14 +147,14 @@
    
 </div>-->
 
-         <div resp="part:emfr" type="translation">
+<div resp="part:emfr" type="translation">
             
             <p n="1">
                Prosperity! Fortune!
             </p>
             
             <p n="1">
-               Eighteenth year of Kampavarman.
+               Eighteenth year of.<note>Sanskrit Kampavarman.</note>
             </p>
             
             <p n="1">

@@ -8,8 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Uttiramērūr, donation, time of Kampavarman, year
-					10</title>
+				<title>Uttiramērūr, time of Kampavarman, year 10</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -48,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary/>
+						<summary>Donation.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -96,7 +95,7 @@
       			<lb n="1"/>svasti śrī
       		</ab>
       		<p>
-      			<unclear>kō-vicaiya-kam·pa-vi</unclear><hi rend="grantha"><unclear>kra</unclear></hi>ma-parmaṟ·k·ku yā<unclear>ṇṭu</unclear> pat<unclear>·</unclear>t-āva<unclear>tu</unclear>
+      			<unclear>kō-vicaiya-kam·pa-vi</unclear><hi rend="grantha"><unclear>kra</unclear></hi>ma-parma<choice><orig>ṟ</orig><reg>r</reg></choice>·k·ku yā<unclear>ṇṭu</unclear> pat<unclear>·</unclear>t-āva<unclear>tu</unclear>
       		</p>
       		<p>
       			<unclear>kā</unclear>liyūr·-k<unclear>·</unclear> <!-- Display issue -->-<supplied reason="lost">kōṭṭattu Uttarameru-c-catu<hi rend="grantha">r</hi></supplied><hi rend="grantha">vve</hi>timaṅkalam y-ā<unclear>ḷu</unclear>m· kaṇat·tāru<unclear>ḷ kurava</unclear><hi rend="grantha"><unclear>śiri</unclear></hi> <unclear>A</unclear>		
@@ -165,7 +164,7 @@
          	</p>
          	
          	<p n="1">
-         		Tenth year of the victorious king <seg cert="low">Kampavikra</seg>mavarman.
+         		Tenth year of the victorious king <unclear>Kampavikra</unclear>maparmaṟ.<note>Sanskrit Kampavikramavarman.</note>
          	</p>
          	
          	<p n="1-2">

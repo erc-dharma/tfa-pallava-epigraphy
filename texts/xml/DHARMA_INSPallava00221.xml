@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tippacamuttiram lake-bund stone, time of Kampavarman, year 17</title>
+            <title>Tippacamuttiram, time of Kampavarman, year 17</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary></summary>
+                  <summary>Lake-bund stone inscription recording ...</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -160,7 +160,7 @@
 	Prosperity! Fortune!
 </p>
 <p n="1-3">
-	Seventeenth year of the victorious king Kampavikramavarman <supplied reason="explanation"><foreign>kampavikkiramaparumaṉ</foreign></supplied>
+	Seventeenth year of the victorious king Kampavikkiramaparumaṉ.<note>Sanskrit Kampavikramavarman.</note>
 </p>
 <p n="4-12">
 	The pious act that Pṛthiyaṅkaraiyar, the lord of this province/region <supplied reason="explanation"><foreign>nāṭu</foreign></supplied> and his wife Ilāṭapperuntēviyār, both of them, did for their venerable son Ayyakkuṭṭi: a canal <supplied reason="explanation"><foreign>āṟṟu-k-kāl</foreign>, literally "river-leg"</supplied> which feeds <supplied reason="explanation"><foreign>kaṇṭa</foreign>, literally "which sees"</supplied> the lake/tank of Valivalakkamaṅkalam.
