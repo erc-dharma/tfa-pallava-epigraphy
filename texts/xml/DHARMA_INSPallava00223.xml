@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Uttiramērūr, donation, time of Kampavarman, year 18</title>
+				<title>Uttiramērūr, time of Kampavarman, year 18</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary/>
+						<summary>Donation.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -94,7 +94,7 @@
       			<lb n="1"/>svasti śrī
       		</ab>
       		<p>
-      			kō-vicaiya-kampava<hi rend="grantha">rmma</hi><supplied reason="omitted">r</supplied>kku yāṇṭu patiṉ e‡ṭṭāvatu
+      			kō-vicaiya-kampava<hi rend="grantha">rmma</hi><reg>r</reg>kku yāṇṭu patiṉ e‡ṭṭāvatu
       		</p>
       		<p>
       			kāliyūr-k-kōṭṭattu taṉ kūṟṟu Uttaramēru-c-ca<hi rend="grantha">turvve</hi>ti-maṅkalattu <hi rend="grantha">sabhai</hi>yōm Eḻuttu
@@ -131,7 +131,7 @@
       		
       	</div>
 
-         <div type="apparatus">
+<div type="apparatus">
          	
          	<listApp>    
          		
@@ -179,13 +179,13 @@
          	
          </div>
 
-         <div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
          	
          	<p n="1">
          		Prosperity! Fortune!
          	</p>         	
          	<p n="1">
-         		Eighteenth year of the victorious king.<note>Sanskrit Kampavarman.</note>
+         		Eighteenth year of the victorious king Kampavarmar.<note>Sanskrit Kampavarman.</note>
          	</p>
          	<p n="1">
          		Writ/Writing of Us, the members of the assembly of Uttaramerucaturvedimaṅgala in the Kāliyūrkkōṭṭam <supplied reason="subaudible">and</supplied> the division of the same name.
@@ -220,7 +220,7 @@
          	                  
          </div>
       	
-      	<div type="commentary">
+<div type="commentary">
       		
       		<p n="1">
       			<foreign>taṉ kūṟṟu</foreign>. <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> regularly translates <foreign>taṉ kūṟṟu</foreign> as "an independent village" of Kāliyūrkkōṭṭam.
@@ -238,11 +238,12 @@
       			<foreign>avv-āṇṭu</foreign>. The reading <foreign>avva āṇṭu</foreign>, with same meaning, is also possible.
       		</p>
       		
-         </div>
+</div>
       	
 <div type="bibliography">
 
-            <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.348). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 223).</p>
+            <p>Reported in <bibl><ptr target="bib:ARIE1897-1898"/></bibl> (ARIE/1897-1898/B/1898/65).</p>
+	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.348). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 223).</p>
 	<p>This revised edition by Emmanuel Francis from autopsy and photos (2019).</p>
 
             <listBibl type="primary">

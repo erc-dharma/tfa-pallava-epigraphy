@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Uttiramērūr, donation, time of Kampavarman, year 15</title>
+				<title>Uttiramērūr, time of Kampavarman, year 15</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary/>
+						<summary>Donation.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -199,7 +199,7 @@
          	</p>
          	
          	<p n="1">
-         		Fifteenth year of the victorious king.<note>Sanskrit Kampavarman.</note>
+         		Fifteenth year of the victorious king Kampavarmaṉ.<note>Sanskrit Kampavarman.</note>
          	</p> 
          	
          	<p n="1-2">
@@ -231,13 +231,12 @@
          	
          </div>
       	
-         <div type="commentary">
-         	
-         </div>
+<div type="commentary"/>
       	
 <div type="bibliography">
 
-            <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.325). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 217).</p>
+            <p>Reported in <bibl><ptr target="bib:ARIE1897-1898"/></bibl> (ARIE/1897-1898/B/1898/42).</p>
+	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.325). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 217).</p>
 	<p>This revised edition, with substantial additional readings, by Emmanuel Francis from autopsy and photos (2019).</p>
 
             <listBibl type="primary">

@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Uttiramērūr, donation, time of Kampavarman, year 21</title>
+            <title>Uttiramērūr, time of Kampavarman, year 21</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Donation.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -97,7 +97,7 @@
          		svasti śrī
          	</ab>
          	<p>
-         		kō-vicaiya-kam<unclear>·</unclear>pava<hi rend="grantha"><unclear>r</unclear>mma</hi>kku yāṇṭu Irupatt-oṉ<unclear>·</unclear>ṟ-āvatu
+         		kō-vicaiya-kam<unclear>·</unclear>pava<hi rend="grantha"><unclear>r</unclear>mma</hi><reg>r</reg>kku yāṇṭu Irupatt-oṉ<unclear>·</unclear>ṟ-āvatu
          	</p>
          	<p>
          		Ut<unclear>·</unclear>
@@ -139,12 +139,12 @@ tōm <hi rend="grantha">sabhai</hi>yōm ikkōyi<choice><orig>l·l</orig><reg>l</
             
          </div>
 
-         <div type="apparatus">
+<div type="apparatus">
 
          	<listApp>
          		
          		<app loc="1">
-         			<lem>°kam<unclear>·</unclear>pava<hi rend="grantha"><unclear>r</unclear>mma</hi>kku</lem>
+         			<lem>°kam<unclear>·</unclear>pava<hi rend="grantha"><unclear>r</unclear>mma</hi><reg>r</reg>kku</lem>
          			<rdg source="bib:SubrahmanyaAiyer1928_01">°kampava<hi rend="grantha">rmma</hi><supplied reason="omitted">r</supplied>kku</rdg>
          		</app>
          		
@@ -202,19 +202,21 @@ tōm <hi rend="grantha">sabhai</hi>yōm ikkōyi<choice><orig>l·l</orig><reg>l</
          			<lem><choice><orig><hi rend="grantha">savva</hi></orig><reg><hi rend="grantha">sarvva</hi></reg></choice>-paricāra<choice><orig>mm</orig><reg>m</reg></choice>-āka</lem>
          			<rdg source="bib:SubrahmanyaAiyer1928_01"><hi rend="grantha">sarvva</hi>-paricārammāka</rdg>
          		</app>
-         		        		
          		
          </listApp>
 
          </div>
 
+<div type="translation" resp="part:emfr"/>
+   
 <div type="commentary"/>
 
 <div type="bibliography">
 
-            <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.369). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 227).</p>
-            <p>This revised edition  by Emmanuel Francis, based on autopsy and photos (2019).</p>
-
+   <p>Reported in <bibl><ptr target="bib:ARIE1897-1898"/></bibl> (ARIE/1897-1898/B/1898/84).</p>
+   <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.369). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 227).</p>
+   <p>This revised edition  by Emmanuel Francis, based on autopsy and photos (2019).</p>
+   
          	<listBibl type="primary">
          		
          		<bibl n="SII">

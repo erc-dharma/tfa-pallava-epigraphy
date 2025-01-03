@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvoṟṟiyūr, donation transaction, time of Kampavarman, year 1[.]</title>
+				<title>Tiruvoṟṟiyūr, time of Kampavarman, year 1[.]</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -164,7 +164,7 @@
 	</p>
 							
 	<p n="1-2">
-		...th year of the victorious king.<note>Sanskrit Kampavarman.</note>
+		...th year of the victorious king Ka<unclear>mpavar</unclear>maṉ.<note>Sanskrit Kampavarman.</note>
 	</p>
 	
 	<p n="2-3">
@@ -189,12 +189,11 @@
 
 </div>      	
 			
-<!--<div type="commentary">
-				
-</div>-->
+<div type="commentary"/>
 			
 <div type="bibliography">
 				
+	<p>Reported in <bibl><ptr target="bib:ARIE1912-1913"/></bibl> (ARIE/1912-1913/B/1912/174).</p>
 	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.103). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 219).</p>
 	<p>This edition (with further text restorations) by Emmanuel Francis, based on previous edition(s).</p>
 	
@@ -210,8 +209,7 @@
 			<ptr target="bib:Mahalingam1988_01"/>
 			<citedRange unit="page">566-567</citedRange>
 			<citedRange unit="item">219</citedRange>
-		</bibl>
-		
+		</bibl>		
 		
 	</listBibl>
 	

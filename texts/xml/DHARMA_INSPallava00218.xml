@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Uttiramērūr, donation, time of Kampavarman, year 15</title>
+            <title>Uttiramērūr, time of Kampavarman, year 15</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Donation.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -261,14 +261,14 @@
          	
          </div>
 
-         <div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
          	
          	<p n="1">
-         		<seg cert="low">Prosperity! Fortune!</seg><!--OK for translation of <supplied>?-->
+         		<supplied reason="lost">Prosperity! Fortune!</supplied>
          	</p>
          	
          	<p n="1">
-         		Fifteenth year of the victorious king.<note>Sanskrit Kampavikramavarman.</note>
+         		Fifteenth year of the victorious king Kampavarmaṉ.<note>Sanskrit Kampavarman.</note>
          	</p>
          	
          	<p n="1-2">
@@ -321,7 +321,8 @@ Those who say “This is not <supplied reason="subaudible">so</supplied>”, let
       	
 <div type="bibliography">
 
-            <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.375). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 218).</p>
+   <p>Reported in <bibl><ptr target="bib:ARIE1897-1898"/></bibl> (ARIE/1897-1898/B/1898/90).</p>
+   <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.375). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 218).</p>
    <p>This revised edition, with substantial revisions, by Emmanuel Francis from autopsy and photos (2019).</p>
 
             <listBibl type="primary">

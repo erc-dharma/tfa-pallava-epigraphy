@@ -154,7 +154,7 @@
             </p>
             
             <p n="1">
-               Eighteenth year of.<note>Sanskrit Kampavarman.</note>
+               Eighteenth year of Kampavarmar.<note>Sanskrit Kampavarman.</note>
             </p>
             
             <p n="1">
@@ -191,15 +191,13 @@
             
          </div>
          
-         <div type="commentary">
-            
-         </div>
+<div type="commentary"/>
          
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.421). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 222). This digital edition by Emmanuel Francis, based on available editions.
-            </p>
+   <p>Reported in <bibl><ptr target="bib:ARIE1900-1901"/></bibl> (ARIE/1900-1901/A/1901/208).</p>
+   <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.421). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 222).</p>
+   <p>This digital edition by Emmanuel Francis, based on available editions.</p>
 
             <listBibl type="primary">
                
@@ -213,8 +211,7 @@ Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.421). 
                   <ptr target="bib:Mahalingam1988_01"/>
                   <citedRange unit="page">571-572</citedRange>
                   <citedRange unit="item">222</citedRange>            		
-               </bibl>              
-               
+               </bibl>
                
             </listBibl>
             

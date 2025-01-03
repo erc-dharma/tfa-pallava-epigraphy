@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Uttiramērūr, time of Kampavarman, year 10</title>
+				<title>Uttiramērūr, time of Kampavikramavarman, year 10</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -164,7 +164,7 @@
          	</p>
          	
          	<p n="1">
-         		Tenth year of the victorious king <unclear>Kampavikra</unclear>maparmaṟ.<note>Sanskrit Kampavikramavarman.</note>
+         		Tenth year of the victorious king <unclear>Kampavikra</unclear>maparmar.<note>Sanskrit Kampavikramavarman.</note>
          	</p>
          	
          	<p n="1-2">
@@ -188,9 +188,9 @@
       	
 <div type="bibliography">
 
-            <p>
-Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.294). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 211). This revised edition by Emmanuel Francis, based on autopsy and photos (2019).
-            </p>
+            <p>Reported in <bibl><ptr target="bib:ARIE1897-1898"/></bibl> (ARIE/1897-1898/B/1898/11).</p>
+	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.294). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 211).</p>
+	<p>This revised edition by Emmanuel Francis, based on autopsy and photos (2019).</p>
 
             <listBibl type="primary">
             	

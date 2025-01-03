@@ -88,7 +88,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
             
    <p>
-      <lb n="1"/>kampa-va<hi rend="grantha"><unclear>r</unclear>mma</hi>r<supplied reason="omitted">k</supplied>ku yāṇṭu patiṉāl-āvatu                
+      <lb n="1"/>kampa-va<hi rend="grantha"><unclear>r</unclear>mma</hi><choice><orig>r</orig><reg>ṟ</reg></choice>ku yāṇṭu patiṉāl-āvatu                
    </p>
    
    <p>
@@ -142,7 +142,7 @@ itaṟṟi
 <div resp="part:emfr" type="translation">
           
             <p n="1">
-               Fourteenth year of.<note>Sanskrit Kampavarman.</note>
+               Fourteenth year of Kampavarmaṉ.<note>Sanskrit Kampavarman.</note>
             </p>
             
             <p n="1">
@@ -175,15 +175,13 @@ itaṟṟi
             
          </div>
          
-         <div type="commentary">
-            
-         </div>
+<div type="commentary"/>
          
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.420). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 214). This digital edition by Emmanuel Francis, based on available editions.
-            </p>
+   <p>Reported in <bibl><ptr target="bib:ARIE1900-1901"/></bibl> (ARIE/1900-1901/A/1901/207).</p>
+   <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.420). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 214).</p>
+   <p>This digital edition by Emmanuel Francis, based on available editions.</p>
 
             <listBibl type="primary">
                
@@ -197,8 +195,7 @@ Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.420). 
                   <ptr target="bib:Mahalingam1988_01"/>
                   <citedRange unit="page">557-558</citedRange>
                   <citedRange unit="item">214</citedRange>            		
-               </bibl>              
-               
+               </bibl>
                
             </listBibl>
             

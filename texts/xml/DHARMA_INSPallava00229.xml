@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Uttiramērūr, donation, time of Kampavarman, year 23</title>
+            <title>Uttiramērūr, time of Kampavarman, year 23</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Donation.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -92,7 +92,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       		<!--Add milestones for blocks-->
       		
-      		<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">>
+      		<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
       			<lb n="1"/>svasti śrī
       		</ab>
       		
@@ -128,7 +128,7 @@
       		
       	</div>
 
-         <div type="apparatus">
+<div type="apparatus">
          	
          	<listApp>
          		
@@ -217,8 +217,7 @@ forty <foreign>kaḻañcu</foreign>s of fine gold <supplied reason="subaudible">
 <p n="3">... one hundred twenty-five <foreign>nāḻi</foreign> of ghee/oil <supplied reason="explanation">ney</supplied>, one hundred twenty ...</p> <!--Update on triple dots!-->
          	<p>Unfinished inscription/Stops abruptly here.</p><!--Update!-->
 
-         	         	         	         	      	
-         </div>
+ </div>
       	
 <div type="commentary">
    
@@ -232,6 +231,7 @@ forty <foreign>kaḻañcu</foreign>s of fine gold <supplied reason="subaudible">
       	
 <div type="bibliography">
 
+   <p>Reported in <bibl><ptr target="bib:ARIE1897-1898"/></bibl> (ARIE/1897-1898/B/1898/86).</p>
    <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.371). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 229).</p>
    <p>This revised edition by Emmanuel Francis, based on autopsy and photos (2019).</p>
 

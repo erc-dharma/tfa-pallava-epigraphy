@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Uttiramērūr, donation, time of Kampavarman, year 15</title>
+            <title>Uttiramērūr, time of Kampavarman, year 15</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Donation.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -96,7 +96,7 @@
       			<lb n="1"/>svasti śrī
       		</ab>
       		<p>
-      			kō-vicaiya‡-<unclear>ka</unclear>mpa-va‡<hi rend="grantha"><supplied reason="omitted">r</supplied>mma</hi>‡<supplied reason="omitted">r</supplied>k=ku yāṇṭu pati‡<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> <choice><orig>añc</orig><reg>aint</reg></choice>-āvatu
+      			kō-vicaiya‡-<unclear>ka</unclear>mpa-va‡<hi rend="grantha"><reg>r</reg>mma</hi>‡<reg>r</reg>k=ku yāṇṭu pati‡<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> <choice><orig>añc</orig><reg>aint</reg></choice>-āvatu
       		</p>
       		<p>
       			‡ kāli‡yūr-kōṭṭa‡ttu taṉ kūṟṟu Ut=taramēru-c-ca
@@ -120,7 +120,7 @@
       		
       	</div>
 
-         <div type="apparatus">
+<div type="apparatus">
          	
          	<listApp>    
          		
@@ -236,16 +236,16 @@
          		
          	</listApp>
          	
-         </div>
+</div>
 
-         <div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
          	
          	<p n="1">
          		Prosperity! Fortune!
          	</p>
          	
          	<p n="1">
-         		Fifteenth year of the victorious king.<note>Sanskrit Kampavarman.</note>
+         		Fifteenth year of the victorious king Kampavarmar.<note>Sanskrit Kampavarman.</note>
          	</p>
          	         	
          	<p n="1-3">
@@ -278,6 +278,7 @@
       	
 <div type="bibliography">
 
+   <p>Reported in <bibl><ptr target="bib:ARIE1897-1898"/></bibl> (ARIE/1897-1898/B/1898/31).</p>
    <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.314). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 216).</p>
    <p>This revised edition by Emmanuel Francis from autopsy and photos (2019).</p>
 

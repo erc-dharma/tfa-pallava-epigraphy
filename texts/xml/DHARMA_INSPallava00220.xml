@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kāvērippākkam, donation, time of Kampavarman, year 17</title>
+            <title>Kāvērippākkam, time of Kampavarman, year 17</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -92,7 +92,7 @@
             </ab>
             
             <p>
-               kō-vicaiya-kampa<unclear>va</unclear><hi rend="grantha">rmma</hi><unclear>k</unclear>ku yāṇṭu patiṉ ēḻ-<unclear>āvatu</unclear>
+               kō-vicaiya-kampa<unclear>va</unclear><hi rend="grantha">rmma</hi><reg>r</reg><unclear>k</unclear>ku yāṇṭu patiṉ ēḻ-<unclear>āvatu</unclear>
             </p>
             
             <p>
@@ -143,7 +143,7 @@
             </p>
             
             <p n="1">
-               Seventeenth year of the victorious king Kampavarman.
+               Seventeenth year of the victorious king Kampavarmar.<note>Sanskrit Kampavarman.</note>
             </p>
             
             <p n="1-3">
@@ -169,13 +169,13 @@
             
          </div>
          
-         <div type="commentary">
+<div type="commentary"/>
            
-         </div>
-         
-         <div type="bibliography">
+<div type="bibliography">
             
-            <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile (SII 12.104). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 220).</p><p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
+   <p>Reported in <bibl><ptr target="bib:ARIE1905-1906"/></bibl> (ARIE/1905-1906/B/1905/391).</p>
+   <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> with facsimile (SII 12.104). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 220).</p>
+   <p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
             
             <listBibl type="primary">
                
