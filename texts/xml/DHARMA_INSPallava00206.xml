@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Uttiramērūr, sale-deed, time of Kampavarman, year 8</title>
+            <title>Uttiramērūr, time of Kampavarman, year 8</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Sale-deed.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -198,7 +198,7 @@
          	
          	<p n="1">Prosperity! Fortune!</p>
          	
-         	<p n="1">Eighth year of the victorious king Kampavikramavarman.</p>
+         	<p n="1">Eighth year of the victorious king Kampavikkiramaparumar.<note>Sanskrit Kampavikramavarman.</note></p>
          	
          	<p n="1">Handwritten writ document for the sale of a land <supplied reason="explanation">i.e. sale-deed</supplied> <supplied reason="subaudible">by</supplied> We, the members of the assembly of Uttaramērucaturvedimaṅgala in Kāliyūrkkōṭṭam, in the division of the same name.</p>
          	
@@ -222,40 +222,39 @@
          	<p>IP considers only on land has been sold. There are two lands sold, we infer: one for the <foreign>maṭam</foreign>, one for the lake.</p>
          </div>
       	
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.370). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 206).</p>
-            <p>This revised edition by Emmanuel Francis, based on autopsy and photos (2019).
-            </p>
-
-         	<listBibl type="primary">
-         		
-         		<bibl n="SII">
-         			<ptr target="bib:SubrahmanyaAiyer1928_01"/>
-         			<citedRange unit="page">170</citedRange>
-         			<citedRange unit="item">370</citedRange>
-         		</bibl>
-         		<bibl n="IP">
-         			<ptr target="bib:Mahalingam1988_01"/>
-         			<citedRange unit="page">545-546</citedRange>
-         			<citedRange unit="item">206</citedRange>
-         		</bibl>
-         		
-         	</listBibl>
-         	
-         	<listBibl type="secondary">
-         		
-         		<bibl n="ARIE">
-         			<ptr target="bib:ARIE1897-1898"/>
-         			<citedRange unit="page">18</citedRange>
-         			<citedRange unit="appendix">B/1898</citedRange>
-         			<citedRange unit="item">85</citedRange>
-         		</bibl>
-         		
-         	</listBibl>
-
-         </div>
+   <p>Reported in <bibl><ptr target="bib:ARIE1897-1898"/></bibl> (ARIE/1897-1898/B/1898/85).</p>
+   <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.370). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 206).</p>
+   <p>This revised edition by Emmanuel Francis, based on autopsy and photos (2019).</p>
+   
+   <listBibl type="primary">
+      
+      <bibl n="SII">
+         <ptr target="bib:SubrahmanyaAiyer1928_01"/>
+         <citedRange unit="page">170</citedRange>
+         <citedRange unit="item">370</citedRange>
+      </bibl>
+      <bibl n="IP">
+         <ptr target="bib:Mahalingam1988_01"/>
+         <citedRange unit="page">545-546</citedRange>
+         <citedRange unit="item">206</citedRange>
+      </bibl>
+      
+   </listBibl>
+   
+   <listBibl type="secondary">
+      
+      <bibl n="ARIE">
+         <ptr target="bib:ARIE1897-1898"/>
+         <citedRange unit="page">18</citedRange>
+         <citedRange unit="appendix">B/1898</citedRange>
+         <citedRange unit="item">85</citedRange>
+      </bibl>
+      
+   </listBibl>
+   
+</div>
 
       </body>
   </text>

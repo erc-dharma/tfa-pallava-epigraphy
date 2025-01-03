@@ -8,8 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Uttiramērūr, Vaikuṇṭhaperumāḷ, larger platform, western base, time of
-					Kampavarman, year 8</title>
+            <title>Uttiramērūr, Vaikuṇṭhaperumāḷ, time of Kampavarman, year 8</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -48,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Larger platform, western base.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -97,7 +96,7 @@
          		<lb n="1"/><unclear>sva</unclear>sti śrī
          	</ab>
          	<p>
-         		kō-vicaiya-kampa-va<hi rend="grantha">rmma</hi><supplied reason="omitted">r</supplied>kku yāṇṭu Eṭṭāvatu
+         		kō-vicaiya-kampa-va<hi rend="grantha">rmma</hi><reg>r</reg>kku yāṇṭu Eṭṭāvatu
          	</p>
          	<p>
          		kaliyūṟ<unclear>k</unclear>‡kōṭṭattu taṉ kuṟṟ’ uttaramēru-c-ca<unclear>t‡u</unclear><hi rend="grantha">rvve</hi>ti-maṅ<supplied reason="omitted">ka</supplied>lattu <hi rend="grantha">sabhai</hi>yōm eḻuttu
@@ -150,7 +149,7 @@
       			Prosperity! Fortune!
       		</p>
       		<p n="1">
-      			Eighth year of the victorious king Kampavarman.
+      			Eighth year of the victorious king Kampavarmar.<note>Sanskrit Kampavarman.</note>
       		</p>      		
       		<p n="1">
       			Writ/Writings of Us, the members of the assembly of Uttaramerucaturvedimaṅgala in the Kāliyūrkkōṭṭam <supplied reason="subaudible">and</supplied> in the same division.
@@ -164,17 +163,17 @@
       		  		
       	</div>
       	      	
-      	<div type="commentary"><!--Update!-->   
+<div type="commentary"><!--Update!-->   
       		<p><foreign>kuravva-<hi rend="grantha">śa</hi>ri</foreign>, that is, <foreign>kurava-<hi rend="grantha">śrī</hi></foreign>. IP: Kuravaśrī = placename.</p>
       		
       	</div>      		      	      
       	
-      	<div type="bibliography">
-
- <p>
-Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.285). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 203).</p>
-      	   <p>This revised edition by Emmanuel Francis, from autopsy and photos (2019).
-</p>	
+<div type="bibliography">
+   
+   <p>Reported in <bibl><ptr target="bib:ARIE1897-1898"/></bibl> (ARIE/1897-1898/B/1898/3).</p>   
+   
+   <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.285). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 203).</p>
+   <p>This revised edition by Emmanuel Francis, from autopsy and photos (2019).</p>	
       		
       		<listBibl type="primary">
       			

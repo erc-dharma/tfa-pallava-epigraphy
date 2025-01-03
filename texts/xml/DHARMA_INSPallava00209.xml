@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Hero-stone commemorating the death of Perunakar koṇṭa Kāviti.</summary>
+						<summary>Hero-stone inscription commemorating the death of Perunakar koṇṭa Kāviti.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -119,7 +119,7 @@
 <div type="translation" resp="part:emfr">
 	
 	<p n="1-2">
-		Tenth year of the victorious king Kampavikramavarman.
+		Tenth year of the victorious king Kampavikkiramaparumaṉ.<note>Sanskrit Kampavikramavarman.</note>
 	</p>
 	
 	<p n="2-7">
@@ -128,12 +128,11 @@
 	
 </div>      	
 			
-			<div type="commentary">
-				
-			</div>
+<div type="commentary"/>
 			
 <div type="bibliography">
 				
+	<p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/171).</p>
 	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1935-1936_01"/></bibl> with facsimile and English translation (EI 23.22). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 209); revised here by Emmanuel Francis, based on previous edition(s) and published facsimile.          	
 	</p>
 	

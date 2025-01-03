@@ -8,8 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Uttiramērūr, Vaikuṇṭhaperumāḷ, larger platform, western base, time of
-					Kampavarman, year 9</title>
+            <title>Uttiramērūr, Vaikuṇṭhaperumāḷ, time of Kampavarman, year 9</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -48,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Larger platform, western base.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -128,7 +127,7 @@
          			
          </div>
       	
-      	<div type="apparatus">
+<div type="apparatus">
       		<!--Finalise apparatus: check other editions: letters unclear to me, but not to previous editors-->
       		<listApp>
       			      	
@@ -160,24 +159,24 @@
       		</listApp>
       	</div>
       	
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		<p n="1">
       			Prosperity! Fortune!
       		</p>
       		<p n="1">
-      			Ninth year of the victorious king Kampavarman.
+      			Ninth year of the victorious king Kampaparumaṉ.<note>Sanskrit Kampavarman.</note>
       		</p>      		
       		<p n="1-2">
       		Regulation <supplied reason="explanation"><foreign>vyavasthā</foreign></supplied> that We, the members of the assembly of Uttiramērucaturvedimaṅgala, in the Kāliyūrkkōṭṭam and the division of the same name, have made.
       		</p>
       		<p n="2-8">
-      			TO BE ADDED!
+      			...
       		</p>
       		<p n="8-9">
       			He who does whether the sale <supplied reason="subaudible">of</supplied> this or orders <supplied reason="subaudible">to sell it</supplied> will be <supplied reason="subaudible">considered</supplied> one who does harm the village management <supplied reason="explanation"><foreign>grāmakārya</foreign></supplied>. 
       		</p>
       		<p n="9-10">
-      			TO BE ADDED!
+      			...
       		</p>
       		<p n="10-11">
       			In this wise, have we ordered/declared, We, the members of the assembly.
@@ -189,17 +188,15 @@
       		
       	</div>
       	      	
-      	<div type="commentary"><!--Update!-->   
-      		
-      	</div>      		      	      
-      	
-      	<div type="bibliography">
+<div type="commentary"/>
+         
+<div type="bibliography">
 
- <p>
-Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.290). Text and summary in Mahalingam <bibl rend="omitname"><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 208). Edited here by Emmanuel Francis, from autopsy and photos (2019).
-</p>	
-      		
-<listBibl type="primary">
+   <p>Reported in <bibl><ptr target="bib:ARIE1897-1898"/></bibl> (ARIE/1897-1898/B/1898/7).</p>
+   <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.290). Text and summary in Mahalingam <bibl rend="omitname"><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 208).</p>
+   <p>Edited here by Emmanuel Francis, from autopsy and photos (2019).</p>	
+   
+   <listBibl type="primary">
             
 	<bibl n="SII">
          		<ptr target="bib:SubrahmanyaAiyer1928_01"/>

@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvoṟṟiyūr, donation, time of Kampavarman, year 9</title>
+				<title>Tiruvoṟṟiyūr, time of Kampavarman, year 9</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -166,7 +166,7 @@
 	</p>
 	
 	<p n="1-2">
-		Ninth year of the victorious king Kampavikramavarman.
+		Ninth year of the victorious king Kampavikkiramapaṟmaṉ.<note>Sanskrit Kampavikramavarman.</note>
 	</p>
 	
 	<p n="2-6">
@@ -208,7 +208,10 @@
 			
 <div type="bibliography">
 				
-	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.100). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 207). This digital edition by Emmanuel Francis, based on previous edition(s).</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1912-1913"/></bibl> (ARIE/1912-1913/B/1912/18).</p>
+	
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.100). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 207).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 	
 	<listBibl type="primary">
 		

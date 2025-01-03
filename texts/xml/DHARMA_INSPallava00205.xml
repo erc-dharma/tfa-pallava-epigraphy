@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Uttiramērūr, donation, time of Nṛpatuṅgavarman, year unknown</title>
+            <title>Uttiramērūr, time of Kampavikramavarman, year 8</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Donation.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -93,9 +93,9 @@
          	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
       			<lb n="1"/>svasti śrī
       		</ab>
-      		<p>	kō-vic<choice><unclear>ai</unclear><unclear>e</unclear></choice>ya-kampa-vikkirama-parumarkku yāṇṭu Eṭṭavātu</p>
+      		<p>	kō-vic<choice><unclear>ai</unclear><unclear>e</unclear></choice>ya-kampa-vikkirama-parumarkku yāṇṭu Eṭṭ-āvatu</p>
       		<p>
-      			Uttaramēru-<hi rend="grantha">catu<supplied reason="omitted">r</supplied>vve</hi>timaṅkalattu <hi rend="grantha">sabhai</hi>yōm Eḻuttu</p>
+      			Uttaramēru-<hi rend="grantha">catu<supplied reason="omitted">r</supplied>vve</hi>ti-maṅkalattu <hi rend="grantha">sabhai</hi>yōm Eḻuttu</p>
       		<p>
       			Emm-ūr <hi rend="grantha">śrī</hi>-kōva<hi rend="grantha"><supplied reason="omitted">r</supplied>ddha</hi>ṉattu ma<hi rend="grantha">hā</hi>vi<hi rend="grantha">ṣṇu</hi>
       			<lb n="2" break="no"/>kkaḷukku A<hi rend="grantha"><supplied reason="omitted">r</supplied>cca</hi>nā-<hi rend="grantha">bhoga</hi>m-āka kuṭutta <hi rend="grantha">bhūmi</hi>
@@ -173,11 +173,11 @@
          	
          </div>
 
-         <div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
          	
          	<p n="1">Prosperity! Fortune!</p>
          	
-         	<p n="1">Eighth year of the victorious king Kampavikramavarman.</p>
+         	<p n="1">Eighth year of the victorious king Kampavikkiramaparumar.<note>Sanskrit Kampavikramavarman.</note></p>
          	
          	<p n="1">Writ of We, the members of the assembly of Uttaramerucaturvedimaṅgala.</p>
          	
@@ -199,6 +199,7 @@
       	
 <div type="bibliography">
 
+   <p>Reported in <bibl><ptr target="bib:ARIE1897-1898"/></bibl> (ARIE/1897-1898/B/1898/6).</p>
    <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.288). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 205).</p>
    <p>This revised edition by Emmanuel Francis, based on autopsy and photos (2019).</p>
    
