@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kōraiyāṟu, hero-stone, time of Perumpāṇaraicar, no year</title>
+				<title>Kōraiyāṟu, time of Perumpāṇaraicar, no year</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -114,7 +114,7 @@
 	<p n="1-4">
 		<supplied reason="subaudible">This is the</supplied> stone <supplied reason="subaudible">erected when</supplied> Kākka Nīlaṉ,
 		the servant of Perumpāṇaraicaru<note>That is, Perumpāṇaraiyar.</note> Mēkkaṭaliṟaiyaru,
-		went <supplied reason="explanation"><foreign>ceṉṟu</foreign><note>Litteraly, "having gone."</note></supplied> in a fight <supplied reason="explanation"><foreign>pūcal</foreign></supplied> and died.		
+		went <supplied reason="explanation"><foreign>ceṉṟu</foreign><note>Literally: having gone.</note></supplied> in a fight <supplied reason="explanation"><foreign>pūcal</foreign></supplied> and died.		
 	</p>
 	
 </div>

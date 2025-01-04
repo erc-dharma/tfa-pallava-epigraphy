@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Mōttakal hero-stone, time of Mahendravarman, year 32 (1/2)</title>
+				<title>Mōttakal, time of Mahendravarman, year 32</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -117,7 +117,7 @@
 
       	<div type="translation" resp="part:emfr">
       		
-      		<p n="1-2">Tirthy-second <supplied reason="subaudible">year</supplied> of the victorious king Mahendravarman<note>Ma<supplied reason="undefined">yē</supplied>ntiraparumaṉ in the original Tamil.</note>.</p>
+      		<p n="1-2">Tirthy-second <supplied reason="subaudible">year</supplied> of the victorious king Ma<supplied reason="undefined">yē</supplied>ntiraparumaṉ.<note>Sanskrit Mahendravarman.</note></p>
       		<p n="2-6"><supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> Akkantai Kōṭaṉ, the servant of Poṟmōtaṉṉār<note>Cf. Poṟmōtaṉār in DHARMA_INSPallava00281, same findspot, king, and year.<!--Update cros-ref--></note>, he who fell recapturing <supplied reason="explanation"><foreign>viṭuvittu</foreign><note>Literally "liberating".</note></supplied> cattle when <gap reason="ellipsis"/> <supplied reason="explanation"><foreign><!--<gap reason="undefined" quantity="4" unit="character"/>--><!--Problem: <gap> not allowed within supplied-->yai</foreign></supplied> seized cattle.
       		</p>
       		
@@ -127,7 +127,9 @@
       	
 <div type="bibliography">
 
-            <p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/88). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 280). This digital edition by Emmanuel Francis, based on previous edition(s).</p>
+            <p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/88). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 280).</p>
+	
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
          	
             	<listBibl type="primary">
         		
@@ -146,7 +148,7 @@
         	
         	<!--<listBibl type="secondary">
         		
-        		Check if mentioned in IAR
+        		Check if mentioned in IAR.
         		        		
         	</listBibl>-->
 

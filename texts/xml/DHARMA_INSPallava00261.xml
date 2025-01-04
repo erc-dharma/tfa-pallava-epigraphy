@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Taṇṭalam, construction, time of Pallavamārāyaṉ, year 10</title>
+				<title>Taṇṭalam, time of Pallavamārāyaṉ, year 10</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -119,23 +119,8 @@
          	</listApp>
          	
          </div>-->
-         
-   		<div type="translation" resp="part:emfr">
-   			
-   			<p n="1">
-   				Prosperity! Fortune!
-   			</p>
-   			
-   			<p n="1" rend="stanza">
-   				...
-   			</p>
-   			   				
-   			<p n="2" rend="stanza">
-   				...
-   			</p>
-   		</div>
    		
-   		<div type="translation" source="bib:Hultzsch1902-1903_06">
+<div type="translation" source="bib:Hultzsch1902-1903_06">
    			
    			<p n="1">
    				Hail! Prosperity! 
@@ -150,13 +135,13 @@
    			</p>
    		</div>
          
-         <div type="commentary">         	
-                      
-         </div>
-         
+<div type="commentary"/>
+   		
 <div type="bibliography">
             
-            <p>Edited and translated in <bibl><ptr target="bib:Hultzsch1902-1903_06"/></bibl> (EI 7.5). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 261).</p>
+            <p>Reported in <bibl><ptr target="bib:ARIE1912-1913"/></bibl> (ARIE/1891-1892/B/1892/1).</p>
+	
+	<p>Edited and translated in <bibl><ptr target="bib:Hultzsch1902-1903_06"/></bibl> (EI 7.5). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 261).</p>
 	<p>This digital edition by Emmanuel Francis, based on the previous edition(s).</p>
             
             <listBibl type="primary">

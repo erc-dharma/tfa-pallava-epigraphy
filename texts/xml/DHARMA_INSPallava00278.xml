@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Karuṅkālippāṭipaṭṭi hero-stone, time of Mahendravarman, year 14</title>
+				<title>Karuṅkālippāṭipaṭṭi, time of Mahendravarman, year 14</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -130,7 +130,7 @@
 
       	<div type="translation" resp="part:emfr">
       		
-      		<p n="1-3">Fourteenth <supplied reason="subaudible">year</supplied> of the victorious king Mahendravarman<note>Macīntiraparumaṉ in the original Tamil.</note>.</p>
+      		<p n="1-3">Fourteenth <supplied reason="subaudible">year</supplied> of the victorious king Macīntiraparumaṉ.<note>Sanskrit Mahendravarman.</note></p>
       		<p n="3-18"><supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> Kaṭṭaṅkaṉṉār ― the son of Koṟṟavāciṟ<note>Probably a placename.</note> Karucāttaṉār, who rules over Karuṅkālipāṭi in Mīvēṇāṭu<note>That is, Mēlvēnāṭu according to <ptr target="bib:Mahalingam1988_01"/>.</note> ―, he who fell <supplied reason="explanation"><foreign>paṭṭār</foreign></supplied> fighting <supplied reason="explanation"><foreign>eṟintu</foreign></supplied> with Poṟpāṉaṉṉār, one of the people / the son <supplied reason="explanation"><foreign>makkaḷ</foreign></supplied> of Naripaḷḷi Vīravāṇṇaraiyar, the servant of Poṟkāṭāṉṉār<note>It is not clear who is the servant of Poṟkāṭāṉṉār: Poṟpāṉaṉṉār, following <ptr target="bib:Mahalingam1988_01"/> and according to the names similarity, or Naripaḷḷi Vīravāṇṇaraiyar, according to straightforward syntax?</note>.<note>Alternative translation: "Kaṭṭaṅkaṉṉār <gap reason="ellipsis"/> fell. <supplied reason="subaudible">This is his</supplied> stone.<!--Update encoding--></note>
       		</p>
       		

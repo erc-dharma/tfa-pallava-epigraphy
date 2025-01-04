@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tirunāmanallūr / Tirunāvalūr <foreign>biruda</foreign> on string wall</title>
+            <title>Tirunāmanallūr / Tirunāvalūr, <foreign>biruda</foreign></title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -91,20 +91,19 @@
 <body>
                   
 <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-         	<p>
-         		<lb n="1"/>śrī-kalinārai
-         
-            </p>
+   <p>
+      <lb n="1"/>śrī-kalinārai         
+   </p>
 </div>
                   
 <div type="apparatus"/>
       	
 <div type="translation" resp="part:emfr">
-	<p>The crane of the Kali age</p>
+	<p>The crane of the Kali age.</p>
 </div>
 	
 <div type="translation" xml:lang="fra" resp="part:emfr">
-	<p>La Grue de l’âge Kali</p>
+	<p>La Grue de l’âge Kali.</p>
 </div>
 
 	<div type="commentary">
@@ -120,6 +119,8 @@
 	
 <div type="bibliography">
             
+    <p>Reported in <bibl><ptr target="bib:ARIE1901-1902"/></bibl> (ARIE/1901-1902/B/1902/376).</p>
+	
    <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 7.1007). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 263).</p>
    <p>This revised edition by Emmanuel Francis, based on autopsy and photos (2008).</p>
             

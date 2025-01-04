@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Mōttakal hero-stone, time of Mahendravarman, year 32 (2/2)</title>
+				<title>Mōttakal, time of Mahendravarman, year 32</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero in a fight with a tiger.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero in a fight with a tiger.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -102,38 +102,31 @@
 	
          </div>
 
-         <div type="apparatus">
+         <!--<div type="apparatus">
 
-         	<!--<listApp>
+         	<listApp>
          		<app loc="1">
          			<lem></lem>
          			<rdg source="bib:Nakacami1972_01"></rdg>
          		</app>         		
-         	</listApp>-->
+         	</listApp>
 
-         </div>
+         </div>-->
 
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
-      		<p n="1-3">Tirthy-second <supplied reason="subaudible">year</supplied> of the victorious king Mahendravarman<note>Mayēntiraparumaṉ in the original Tamil.</note>.</p>
-      		<p n="3-6"><supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> Viṉṟaṇ <unclear>Va</unclear>ṭukaṉ, the servant of Poṟmōtaṉār<note>Cf. Poṟmōtaṉṉār in DHARMA_INSPallava00280, same findspot, king, and year.<!--Update cros-ref--></note>, he who fell fighting <supplied reason="explanation"><foreign>kutti</foreign><note>Literally “piercing, striking”.</note></supplied> with a tiger.
-      		</p>
+	<p n="1-3">Tirthy-second <supplied reason="subaudible">year</supplied> of the victorious king Mayēntiraparumaṉ.<note>Sanskrit Mahendravarman.</note></p>
+	<p n="3-6"><supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> Viṉṟaṇ <unclear>Va</unclear>ṭukaṉ, the servant of Poṟmōtaṉār<note>Cf. Poṟmōtaṉṉār in DHARMA_INSPallava00280, same findspot, king, and year.<!--Update cros-ref--></note>, he who fell fighting <supplied reason="explanation"><foreign>kutti</foreign><note>Literally: piercing, striking.</note></supplied> with a tiger.
+	</p>
       		
-      	</div>
-      	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
+</div>
+      
+<div type="commentary"/>
          	
-         </div>
+ <div type="bibliography">
 
-         <div type="commentary">
-         	
-         </div>
-
-         <div type="bibliography">
-
-            <p>
-            	Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/89). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 281). This digital edition by Emmanuel Francis, based on previous edition(s).           	
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/89). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 281).</p>
+ 	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
          	
             	<listBibl type="primary">
         		

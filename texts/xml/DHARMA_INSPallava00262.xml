@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kāñcipuram, donation, time of Pallava Abhimānasiddhi, no year</title>
+            <title>Kāñcipuram, time of Abhimānasiddhi, no year</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -156,12 +156,11 @@
          <note><ptr target="bib:KrishnaSastri1923_01"/> places these words, which are on another face of the base, at the end of line 1, but it makes sense to consider that these are in fact the end of the inscription as they are followed by a punctuation.</note>
       </app>
       
-      
    </listApp>
    
 </div>
          
-         <div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
             
             <p n="1">
                Long life <supplied reason="explanation"><foreign>āyuḷ</foreign><note>The word <foreign>āyuḷ</foreign>, "lifetime", a Tamil <foreign>tadbhava</foreign> of Sanskrit <foreign>āyus</foreign>, appears to be used here as an auspicious beginning.</note></supplied>! Fortune <supplied reason="explanation"><foreign>cīr</foreign><note>That is, a Tamil <foreign>tadbhava</foreign> of Sanskrit <foreign>śrī</foreign>.</note></supplied>!<note>This auspicious beginning contrasts with the usual <foreign><hi rend="grantha">svasti śrī</hi></foreign>.</note>
@@ -173,7 +172,7 @@
                         
          </div>
          
-         <div type="translation" xml:lang="fra" resp="part:emfr">
+<div type="translation" xml:lang="fra" resp="part:emfr">
          	
             <p n="1">
                Longue vie ! Fortune !
@@ -185,13 +184,15 @@
             
          </div>
 
-         <div type="commentary">
+<div type="commentary">
            
             <p>On the identity of the Pallava Abhimānasiddhi see <bibl><ptr target="bib:Mahalingam1963_01"/></bibl> and <bibl><ptr target="bib:Mani1968_01"/></bibl>.</p>
          </div>
 
 <div type="bibliography">
 
+    <p>Reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/33).</p>
+	
    <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.131). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 262).</p>
    <p>This revised edition by Emmanuel Francis, based on autopsy and photos.</p>
    

@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Toraippāṭi hero-stone, time of Mahendravarman, year unclear</title>
+				<title>Toraippāṭi, time of Mahendravarman, year unclear</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero during a fight.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -126,7 +126,7 @@
       	<div type="translation" resp="part:emfr">
       		
       		<p n="1-2">
-      			<seg cert="low">Twenty-<gap reason="ellipsis"/></seg> <supplied reason="explanation"><foreign>ṟaṇṇu</foreign></supplied> <supplied reason="subaudible">year</supplied> of the victorious king Mahendravarman<note>Mayēntiraparumaṉ in the original Tamil.</note>.
+      			<seg cert="low">Twenty-<gap reason="ellipsis"/></seg> <supplied reason="explanation"><foreign>ṟaṇṇu</foreign></supplied> <supplied reason="subaudible">year</supplied> of the victorious king Mayēntiraparumaṉ.<note>Sanskrit Mahendravarman.</note>
       		</p>
       		
       		<p n="2-10">
@@ -139,11 +139,10 @@
          	<p>Kaṅkaraicar: rather than a proper name, a generic title?</p>
          </div>
 
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-            	Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/33). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 277). This digital edition by Emmanuel Francis, based on previous edition.           	
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/33). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 277).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition.</p>
          	
             	<listBibl type="primary">
         		

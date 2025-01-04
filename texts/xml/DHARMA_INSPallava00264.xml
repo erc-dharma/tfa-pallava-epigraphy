@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Poyyaṉūr, donation, time of Vayiramēkavarman, year 2</title>
+				<title>Poyyaṉūr, time of Vajrameghavarman, year 2</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -92,7 +92,7 @@
 	</ab>
 	
 	<p>
-		śrī-vayira-<unclear>m</unclear>ēka-panma<supplied reason="omitted">r</supplied>kku
+		śrī-vayira-<unclear>m</unclear>ēka-panma<reg>r</reg>kku
 <lb n="2"/>yāṇṭu <unclear>2-Āvatu</unclear>
 	</p>
 	
@@ -109,7 +109,6 @@
 	</p>
 	
 	<p><gap reason="undefined" extent="unknown" unit="line"/></p>
-		
 	
 </div>
 			
@@ -138,7 +137,7 @@
 	</p>
 	
 	<p n="1-2">
-		<unclear>Second</unclear> year of the glorious Vayiramēkavarman.<note>Sanskrit Vajrameghavarman.</note>
+		<unclear>Second</unclear> year of the glorious Vayiramēkapanmar.<note>Sanskrit Vajrameghavarman.</note>
 	</p>
 	
 	<p n="2-3">
@@ -164,40 +163,43 @@ to a later period than Dantivarman, the king figuring in these two records was p
 </div>
 			
 <div type="bibliography">
-				<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.113), with a facsimile. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 264).</p>
-	<p>This digital edition by Emmanuel Francis, based on previous edition(s).
-				</p>
-				
-				<listBibl type="primary">
-					
-					<!--Add SII 39.150 = reedition-->
-					
-					<bibl n="SII">
-						<ptr target="bib:VenkatasubbaAyyar1943_01"/>
-						<citedRange unit="page">53</citedRange>
-						<citedRange unit="item">113</citedRange>
-					</bibl> 
-					
-					<bibl n="IP">
-						<ptr target="bib:Mahalingam1988_01"/>
-						<citedRange unit="page">644</citedRange>
-						<citedRange unit="item">264</citedRange>
-					</bibl>
-										
-				</listBibl>
-				
-				<listBibl type="secondary">
-					
-					<bibl>
-					<ptr target="bib:ARIE1915-1916"/>
-						<citedRange unit="page">78</citedRange>
-						<citedRange unit="appendix">C/1916</citedRange>
-						<citedRange unit="item">150</citedRange>
-					</bibl>
-					
-				</listBibl>
-				
-			</div>
+	
+	<p>Reported in <bibl><ptr target="bib:ARIE1915-1916"/></bibl> (ARIE/1915-1916/C/1916/150).</p>
+	
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.113), with a facsimile. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 264).</p>
+	
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
+	
+	<listBibl type="primary">
+		
+		<!--Add SII 39.150 = reedition-->
+		
+		<bibl n="SII">
+			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
+			<citedRange unit="page">53</citedRange>
+			<citedRange unit="item">113</citedRange>
+		</bibl> 
+		
+		<bibl n="IP">
+			<ptr target="bib:Mahalingam1988_01"/>
+			<citedRange unit="page">644</citedRange>
+			<citedRange unit="item">264</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+	<listBibl type="secondary">
+		
+		<bibl>
+			<ptr target="bib:ARIE1915-1916"/>
+			<citedRange unit="page">78</citedRange>
+			<citedRange unit="appendix">C/1916</citedRange>
+			<citedRange unit="item">150</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+</div>
 			
 		</body>
 	</text>
