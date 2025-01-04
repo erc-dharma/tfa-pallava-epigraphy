@@ -133,15 +133,12 @@
             
          </div>
       	
-         <div type="commentary">
-         	
-         </div>
+<div type="commentary"/>
+         
+<div type="bibliography">
 
-         <div type="bibliography">
-
-            <p>
-Edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 14.2). Edited here by Emmanuel Francis, based on previous edition(s).
-            </p>
+   <p>Edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 14.2).</p>
+   <p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 
             <listBibl type="primary">
             	

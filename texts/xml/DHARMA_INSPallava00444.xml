@@ -150,11 +150,10 @@
          	
          </div>
 
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-Edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 5.1). Text in <bibl n="DD"><ptr target="bib:Dayalan2005_01"/></bibl>. Edited here by Emmanuel Francis, based on photos (2009).
-            </p>
+   <p>Edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 5.1). Text in <bibl n="DD"><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+   <p>This revised edition by Emmanuel Francis, based on photos (2009).</p>
 
             <listBibl type="primary">
             	
@@ -170,9 +169,8 @@ Edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 5.1). Text in <bibl
             		<citedRange unit="appendix">I</citedRange>
             		<citedRange unit="page">1301</citedRange>
             		<citedRange unit="item">64</citedRange>            		
-            	</bibl>            	
-            		
-            	
+            	</bibl>
+               
             </listBibl>
 
             <listBibl type="secondary">

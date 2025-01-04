@@ -126,15 +126,12 @@
          	
          </div>
       	
-         <div type="commentary">
-         	
-         </div>
+<div type="commentary"/>
+         
+<div type="bibliography">
 
-         <div type="bibliography">
-
-            <p>
-Edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 11.2). Text in <bibl n="DD"><ptr target="bib:Dayalan2005_01"/></bibl>. Edited here by Emmanuel Francis, based on the estampage published in <bibl><ptr target="bib:ARIE2000-2001"/></bibl>.
-            </p>
+   <p>Edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 11.2). Text in <bibl n="DD"><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+   <p>This revised edition by Emmanuel Francis, based on the estampage published in <bibl><ptr target="bib:ARIE2000-2001"/></bibl>.</p>
 
             <listBibl type="primary">
             	

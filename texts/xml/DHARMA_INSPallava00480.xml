@@ -183,15 +183,12 @@
             
          </div>
       	
-         <div type="commentary">
+<div type="commentary"/>
          	
-         </div>
+<div type="bibliography">
 
-         <div type="bibliography">
-
-            <p>
-Edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 17.22.1). Edited here by Emmanuel Francis, based on previous edition(s).
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 17.22.1).</p>
+   <p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 
             <listBibl type="primary">
             	

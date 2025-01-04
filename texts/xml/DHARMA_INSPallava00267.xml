@@ -140,10 +140,10 @@
       		      		
       	</div>      		      	      
       	
-      	<div type="bibliography">
-
- <p>
-Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.354). Text and summary in Mahalingam <bibl rend="omitname"><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 267). Edited here by Emmanuel Francis, from autopsy and photos (****).</p><!--update in case the original is not found on the spot-->	
+         <div type="bibliography">
+            
+            <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.354). Text and summary in Mahalingam <bibl rend="omitname"><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 267).</p>
+            <p>This revised edition by Emmanuel Francis, from autopsy and photos (****).</p><!--update in case the original is not found on the spot-->	
       		
       		<listBibl type="primary">
       			

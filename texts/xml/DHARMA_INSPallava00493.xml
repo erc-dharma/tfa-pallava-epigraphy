@@ -134,15 +134,12 @@
             
          </div>
       	
-         <div type="commentary">
-         	
-         </div>
+<div type="commentary"/>
+         
+<div type="bibliography">
 
-         <div type="bibliography">
-
-            <p>
-Edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 22.1), with a photo. Edited here by Emmanuel Francis, based on previous edition(s) and published visual documentation.
-            </p>
+   <p>Edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 22.1), with a photo</p>
+   <p>This revised edition by Emmanuel Francis, based on previous edition(s) and published visual documentation.</p>
 
             <listBibl type="primary">
             	

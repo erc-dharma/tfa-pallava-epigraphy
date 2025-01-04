@@ -118,16 +118,13 @@
                        
          </div>
       	
-         <div type="commentary">
+<div type="commentary"/>
          	
-         </div>
+<div type="bibliography">
 
-         <div type="bibliography">
-
-            <p>
-Edited in <bibl><ptr target="bib:Jouveau-Dubreuil1916_01"/></bibl>, with a picture. Edited here by Emmanuel Francis, based on previous edition(s) and published visual documentation.
-            </p>
-
+   <p>Edited in <bibl><ptr target="bib:Jouveau-Dubreuil1916_01"/></bibl>, with a picture.</p>
+   <p>This revised edition by Emmanuel Francis, based on previous edition(s) and published visual documentation.</p>
+   
             <listBibl type="primary">
             	
             	<bibl n="JD">
@@ -146,10 +143,8 @@ Edited in <bibl><ptr target="bib:Jouveau-Dubreuil1916_01"/></bibl>, with a pictu
 
            <!-- <listBibl type="secondary">
             	
-            	
-            	
-           </listBibl>
--->
+           </listBibl>-->
+   
          </div>
 
       </body>

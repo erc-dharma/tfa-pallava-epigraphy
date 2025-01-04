@@ -93,73 +93,71 @@
          <change who="part:emfr" when="2020-06-28" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve">
-		<body>
+ 
+<text xml:space="preserve">
+<body>
 			
-			<div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+<div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 				
-				<p>
-					Text after <bibl>
-					<ptr target="bib:Lockwood+al2001_01"/>
-					<citedRange unit="page">288</citedRange>
-				</bibl>
-				</p><!--update/delete?-->
-				
-				<lg n="1" met="anuṣṭubh">
-					<l n="a" enjamb="yes">
-						sambhava-sthiti-saṁhāra</l>
-					<l n="b">
-						-kāraṇam vīta-kāraṇaḥ</l>
-				</lg><!--encode missing <l> of this half-verse?-->
-			</div>
+   <p>
+      Text after <bibl>
+         <ptr target="bib:Lockwood+al2001_01"/>
+         <citedRange unit="page">288</citedRange>
+      </bibl>
+   </p><!--update/delete?-->
+   
+   <lg n="1" met="anuṣṭubh">
+      <l n="a" enjamb="yes">
+         sambhava-sthiti-saṁhāra</l>
+      <l n="b">
+         -kāraṇam vīta-kāraṇaḥ</l>
+   </lg><!--encode missing <l> of this half-verse?-->
+</div>
+   
+   <div type="apparatus">
+   </div>
+   
+   <div type="translation" resp="part:emfr">
+      
+      <p>
+         The cause of ...
+      </p>
+   </div>
+   
+   <div type="translation" xml:lang="fra" resp="part:sybr">
+      
+      <p>
+         Lui qui est cause des naissances, des existences et de leur destruction, mais n’a lui-même nulle cause.
+      </p>
+   </div>
 			
-			<div type="apparatus">
-			</div>
-			
-			<div type="translation" resp="part:emfr">
+<div type="commentary"/>
 				
-				<p>
-					The cause of ...
-				</p>
-			</div>
-			
-			<div type="translation" xml:lang="fra" resp="part:sybr">
+<div type="bibliography">
 				
-				<p>
-					Lui qui est cause des naissances, des existences et de leur destruction, mais n’a lui-même nulle cause.
-				</p>
-			</div>
-			
-			<div type="commentary">
+   <p>Reported in the Indian Express (Madras edition) 28.07.1988<!--update!-->. Edited in <bibl>
+      <ptr target="bib:Lockwood+al2001_01"/>
+      <citedRange unit="page">288</citedRange>
+   </bibl>.</p>
+   <p>This digital edition by Emmanuel Francis, based on available edition(s).</p>
 				
-			</div>
-			
-			<div type="bibliography">
-				
-				<p>
-					Reported in the Indian Express (Madras edition) 28.07.1988<!--update!-->; edited in <bibl>
-						<ptr target="bib:Lockwood+al2001_01"/>
-						<citedRange unit="page">288</citedRange>
-					</bibl>. This digital edition by Emmanuel Francis.
-				</p>
-				
-				<listBibl type="primary">
-					
-					<bibl n="ML+al">
-						<ptr target="bib:Lockwood+al2001_01"/>
-						<citedRange unit="page">288</citedRange>
-					</bibl>	
-					
-				</listBibl>
-				
-				<listBibl type="secondary">
-					<bibl>
-						<ptr target="bib:Francis2013_01"/>
-					</bibl>			
-				</listBibl>
-				
-			</div>
-			
-		</body>
+   <listBibl type="primary">
+      
+      <bibl n="ML+al">
+         <ptr target="bib:Lockwood+al2001_01"/>
+         <citedRange unit="page">288</citedRange>
+      </bibl>	
+      
+   </listBibl>
+   
+   <listBibl type="secondary">
+      <bibl>
+         <ptr target="bib:Francis2013_01"/>
+      </bibl>			
+   </listBibl>
+   
+</div>
+   
+</body>
 	</text>
 </TEI>

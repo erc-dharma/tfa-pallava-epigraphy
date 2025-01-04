@@ -133,11 +133,11 @@
    
 </div>
 
-         <div type="bibliography">
+<div type="bibliography">
          	
-         	<p>Reported in <bibl><ptr target="bib:ARIE1959-1960"/></bibl>.</p>
-            <p>Text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 363).</p>
-            <p>Edited here by Emmanuel Francis, based on autopsy and photos (2017).</p>
+   <p>Reported in <bibl><ptr target="bib:ARIE1959-1960"/></bibl>.</p>
+   <p>Text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 363).</p>
+   <p>This revised edition by Emmanuel Francis, based on autopsy and photos (2017).</p>
          	         	
          	<listBibl type="primary">
          		
