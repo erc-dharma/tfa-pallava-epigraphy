@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruttaṇi, donation, time of Aparājitavikramavarman, year 18</title>
+				<title>Tiruttaṇi, time of Aparājitavikramavarman, year 18</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -92,7 +92,7 @@
 	</ab>
 	
 	<p>
-		kō-vicaiya-Aparā<hi rend="grantha">ji</hi>ta-vi<hi rend="grantha">krama</hi>-va<hi rend="grantha">rmma</hi>kku <unclear>yāṇṭu</unclear>
+		kō-vicaiya-Aparā<hi rend="grantha">ji</hi>ta-vi<hi rend="grantha">krama</hi>-va<hi rend="grantha">rmma</hi><reg>r</reg>kku <unclear>yāṇṭu</unclear>
 		<lb n="2"/>patiṉ eṭṭ-āvatu
 	</p>
 	
@@ -154,7 +154,7 @@
 	</p>
 	
 	<p n="1-2">
-		Eighteenth year of the victorious king.<note>Sanskrit Aparājitavikramavarman.</note>
+		Eighteenth year of the victorious king Aparājitavikramavarmar.<note>Sanskrit Aparājitavikramavarman.</note>
 	</p>
 	
 	<p n="2-8">
@@ -183,13 +183,11 @@
 						
 </div>      	
 			
-<div type="commentary">
-				
-	
-				
-</div>
+<div type="commentary"/>
 			
 <div type="bibliography">
+	
+	<p>Reported in <bibl><ptr target="bib:ARIE1905-1906"/></bibl> (ARIE/1905-1906/B/1905/435).</p>
 	
 	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.95), with a facsimile. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 246).</p>
 	<p>This revised edition by Emmanuel Francis, based on photos.</p>

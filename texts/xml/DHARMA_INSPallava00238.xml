@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvoṟṟiyūr, donation, time of Aparājitavarman, year 4</title>
+				<title>Tiruvoṟṟiyūr, time of Aparājitavarman, year 4</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -153,10 +153,7 @@
 			<lem>poli-y-<unclear>ū</unclear>ṭ<unclear>·</unclear>ṭ-āka-t· tiru-<unclear>v</unclear>-o<unclear>ṟ·ṟiyūr ā</unclear>ṇi<unclear>k·kī</unclear><supplied reason="lost">ḻē</supplied></lem>
 			<rdg source="bib:VenkatasubbaAyyar1943_01">poliyūṭṭākat tiruvoṟṟiyūr āṇi <unclear>ki</unclear></rdg>		
 			<note>The stone is currently partly covered with cement at this place.</note>
-		</app>		
-		
-		
-		
+		</app>	
 		 		
 	</listApp>
 	
@@ -169,7 +166,7 @@
 	</p>
 	
 	<p n="1-2">
-		Fourth year of the victorious king.<note>Sanskrit Aparājitavarman.</note>
+		Fourth year of the victorious king Aparājitavarmaṉ.<note>Sanskrit Aparājitavarman.</note>
 	</p>
 	
 	<p n="2-8">
@@ -183,7 +180,6 @@
 	<p n="11-17">
 		With this gold ...
 	</p>
-	
 	
 	<p><gap reason="lost" extent="unknown" unit="line"/></p>
 				
@@ -207,6 +203,7 @@
 			
 <div type="bibliography">
 				
+	<p>Reported in <bibl><ptr target="bib:ARIE1912-1913"/></bibl> (ARIE/1912-1913/B/1912/158).</p>
 	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.87), with a facsimile. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 238).</p>
 	<p>This revised edition by Emmanuel Francis, based on photos (2019, by Emmanuel Francis).</p>
 	

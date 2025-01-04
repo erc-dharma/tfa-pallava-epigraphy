@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvoṟṟiyūr, donation, time of Aparājitavikramapōttaraiyar, year 6</title>
+				<title>Tiruvoṟṟiyūr, time of Aparājitavikramapōttaraiyar, year 6</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -130,9 +130,9 @@
 	
 </div>
 			
-<div type="apparatus">
+<!--<div type="apparatus">
 	
-	<!--<listApp>
+	<listApp>
 		
 		<app loc="0">
 			<lem></lem>
@@ -140,9 +140,9 @@
 			<note></note>
 		</app>	
 		 		
-	</listApp>-->
+	</listApp>
 	
-</div>
+</div>-->
 			
 <div type="translation" resp="part:emfr">
 	
@@ -180,6 +180,7 @@
 			
 <div type="bibliography">
 	
+	<p>Reported in <bibl><ptr target="bib:ARIE1912-1913"/></bibl> (ARIE/1912-1913/B/1912/190).</p>
 	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.90), with a facsimile. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 241).</p>
 	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 				
@@ -196,7 +197,6 @@
 						<citedRange unit="page">606-607</citedRange>
 						<citedRange unit="item">241</citedRange>
 					</bibl>
-					
 					
 				</listBibl>
 				

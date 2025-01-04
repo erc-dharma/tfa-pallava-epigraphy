@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvoṟṟiyūr, donation, time of Aparājitavarman, year 4</title>
+				<title>Tiruvoṟṟiyūr, time of Aparājitavarman, year 4</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -166,7 +166,7 @@
 	</p>
 	
 	<p n="1-2">
-		Fourth year of the victorious king.<note>Sanskrit Aparājitavarman.</note>
+		Fourth year of the victorious king Aparājitavarmaṉ.<note>Sanskrit Aparājitavarman.</note>
 	</p>
 	
 	<p n="2-7">
@@ -216,10 +216,9 @@
 			
 <div type="bibliography">
 				
-	<p>
-		Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.88), with a facsimile. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 239).</p>
-	<p>This revised edition by Emmanuel Francis, based on photos (2019).          	
-	</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1912-1913"/></bibl> (ARIE/1912-1913/B/1912/161).</p>
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.88), with a facsimile. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 239).</p>
+	<p>This revised edition by Emmanuel Francis, based on photos (2019).</p>
 	
 	<listBibl type="primary">
 		
@@ -235,7 +234,6 @@
 			<citedRange unit="page">602-603</citedRange>
 			<citedRange unit="item">239</citedRange>
 		</bibl>
-		
 		
 	</listBibl>
 	

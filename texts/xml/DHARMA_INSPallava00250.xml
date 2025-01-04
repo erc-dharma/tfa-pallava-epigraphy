@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>List of <foreign>avatāra</foreign>s in Ādivarāha cave, Mahābalipuram</title>
+            <title>Mahābalipuram, list of <foreign>avatāra</foreign>s in the Ādivarāha cave, </title>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:sybr">
@@ -51,13 +51,11 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>A verse list of the ten <foreign>avatāra</foreign>s, which
-							interestingly includes Buddha, but not Kṛṣṇa.</summary>
+                  <summary>A verse list of the ten <foreign>avatāra</foreign>s, which interestingly includes Buddha, but not Kṛṣṇa.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>The Grantha script is not well mastered. See <foreign>p</foreign> and
-									<foreign>s</foreign> confusion.</p>
+                     <p>The Grantha script is not well mastered. See <foreign>p</foreign> and <foreign>s</foreign> confusion.</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -116,7 +114,7 @@
          	
          </div>
 
-         <div type="apparatus">
+<div type="apparatus">
             
             <listApp>
                
@@ -145,7 +143,7 @@
             
          </div>
 
-         <div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
             <p rend="stanza" n="1">
                <l><supplied reason="lost">The Fish, the Turtle</supplied>, and the Boar,</l>
                <l>The Man-Lion and the Dwarf,</l>
@@ -165,7 +163,7 @@
             
          </div>
          
-         <div type="commentary"><!--Update!-->
+<div type="commentary"><!--Update!-->
             <p>
                The three Rāmas are respectively Paraśurāma, Rāmacandra or Dāśaratha Rāma, and Balarāma.
             </p>
@@ -197,8 +195,10 @@
          
 <div type="bibliography">
             
+   <p>Reported in <bibl><ptr target="bib:ARIE1922-1923"/></bibl> (ARIE/1922-1923/B/1922/663).</p>
+   
    <p>Edited and translated in <bibl><ptr target="bib:KrishnaSastri1926_01"/></bibl>, with a facsimile (EI 17.5). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 53). Text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 69), <bibl><ptr target="bib:Francis2017_01"/></bibl> (IR 53).</p>
-   <p>This edition by Sylvain Brocquet &amp; Emmanuel Francis, based on the estampage published in <bibl><ptr target="bib:KrishnaSastri1926_01"/></bibl>.</p>
+   <p>This revised edition by Sylvain Brocquet &amp; Emmanuel Francis, based on the estampage published in <bibl><ptr target="bib:KrishnaSastri1926_01"/></bibl>.</p>
             
             <listBibl type="primary">
                
@@ -210,12 +210,14 @@
                   <ptr target="bib:Mahalingam1988_01"/>
                   <citedRange unit="page">624</citedRange>
                   <citedRange unit="item">250</citedRange>            		
-               </bibl>            	
+               </bibl>
+               
                <bibl n="B">
                   <ptr target="bib:Brocquet1997_01"/>
                   <citedRange unit="page">777</citedRange>
                   <citedRange unit="item">69</citedRange>            		
-               </bibl>            	
+               </bibl>
+               
                <bibl n="EF">
                   <ptr target="bib:Francis2017_01"/>
                   <citedRange unit="page">538</citedRange>

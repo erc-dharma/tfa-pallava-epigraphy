@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruttaṇi, foundation, time of [Aparājitavarman], no year</title>
+				<title>Tiruttaṇi, foundation of temple</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -82,9 +82,11 @@
 			<change who="part:emfr" when="2022-09-23" status="draft">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
-	<text xml:space="preserve">
-		<body>
-			
+	
+	
+<text xml:space="preserve">
+	
+<body>
 
 	<!--check encoding of verse-->
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
@@ -92,7 +94,6 @@
 	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<lb n="1"/>svasti śrī 
 	</ab>
-	
 	
 	<lg n="1" met="uncertain" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 		<l n="1"><lb n="2"/>tiruntu tiruttaṇiyil ceñ-caṭai Īcarkku</l> 
@@ -129,7 +130,7 @@
 	
 	<p rend="stanza" n="2-3">
 		<l>So that <supplied reason="subaudible">this temple</supplied> stands as a stone temple <supplied reason="subaudible">made</supplied> with black stones for the Lord <supplied reason="explanation"><foreign>īcar</foreign><note>Sanskrit <foreign>īśa</foreign>.</note></supplied> with red matted hairs<note>That is, Śiva.</note> in gracious/perfect/eminent Tiruttaṇi</l>
-		<l>Lovingly/with devotion <supplied reason="explanation"><foreign>virumpi-y-ē</foreign><note>Literally: “having desired”.</note></supplied>, the glorious Nampi Appi, who has learned all good arts, beautifully <supplied reason="explanation"><foreign>poṟpu amai-y-a</foreign><note>Infinitive, “so that it agrees with beauty”.</note></supplied> made it <supplied reason="explanation"><foreign>ceytāṉ purintu</foreign><note>Literally: “made it having made it”.</note></supplied>.</l>
+		<l>Lovingly/with devotion <supplied reason="explanation"><foreign>virumpi-y-ē</foreign><note>Literally: having desired.</note></supplied>, the glorious Nampi Appi, who has learned all good arts, beautifully <supplied reason="explanation"><foreign>poṟpu amai-y-a</foreign><note>Infinitive form, literally: so that it agrees with beauty.</note></supplied> made it <supplied reason="explanation"><foreign>ceytāṉ purintu</foreign><note>Literally: made it having made it.</note></supplied>.</l>
 	</p>
 	
 	<p n="3-4">
@@ -138,14 +139,13 @@
 						
 </div>      	
 			
-<div type="commentary">
-				
-	
-				
-</div>
+<div type="commentary"/>
 			
 <div type="bibliography">
 	
+	<p>Reported in <bibl><ptr target="bib:ARIE1905-1906"/></bibl> (ARIE/1905-1906/B/1905/433).</p>
+
+
 	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.94), with a facsimile. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 245).</p>
 	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 	
@@ -163,16 +163,15 @@
 			<citedRange unit="item">245</citedRange>
 		</bibl>
 		
-		
 	</listBibl>
 	
 	<listBibl type="secondary">
 		
 		<bibl>
-			<ptr target="bib:ARIE1912-1913"/>
-			<citedRange unit="page">25</citedRange>
-			<citedRange unit="appendix">B/1912</citedRange>
-			<citedRange unit="item">180</citedRange>
+			<ptr target="bib:ARIE1905-1906"/>
+			<citedRange unit="page">27</citedRange>
+			<citedRange unit="appendix">B/1905</citedRange>
+			<citedRange unit="item">433</citedRange>
 		</bibl>
 		
 	</listBibl>

@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvoṟṟiyūr, donation, time of Aparājitavarman, year 7</title>
+				<title>Tiruvoṟṟiyūr, time of Aparājitavarman, year 7</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -176,7 +176,7 @@
 	</p>
 	
 	<p n="1-2">
-		Seventh year of the victorious king.<note>Sanskrit Aparājitavarman.</note>
+		Seventh year of the victorious king Aparājitavarmaṉ.<note>Sanskrit Aparājitavarman.</note>
 	</p>
 	
 	<p n="3-7">
@@ -209,48 +209,43 @@
 						
 </div>      	
 			
-<div type="commentary">
-				
-	
-				
-</div>
+<div type="commentary"/>
 			
-			<div type="bibliography">
+<div type="bibliography">
 				
-				<p>
-					Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.91), with a facsimile. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 241).</p>
-				<p>This digital edition by Emmanuel Francis, based on previous edition(s).          	
-				</p>
-				
-				<listBibl type="primary">
-					
-					<bibl n="SII">
-						<ptr target="bib:VenkatasubbaAyyar1943_01"/>
-						<citedRange unit="page">40</citedRange>
-						<citedRange unit="item">91</citedRange>
-					</bibl> 
-					
-					<bibl n="IP">
-						<ptr target="bib:Mahalingam1988_01"/>
-						<citedRange unit="page">608-609</citedRange>
-						<citedRange unit="item">242</citedRange>
-					</bibl>
-					
-					
-				</listBibl>
-				
-				<listBibl type="secondary">
-					
-					<bibl>
-					<ptr target="bib:ARIE"/>
-						<citedRange unit="page">24</citedRange>
-						<citedRange unit="appendix">B/1912</citedRange>
-						<citedRange unit="item">163</citedRange>
-					</bibl>
-					
-				</listBibl>
-				
-			</div>
+	<p>Reported in <bibl><ptr target="bib:ARIE1912-1913"/></bibl> (ARIE/1912-1913/B/1912/163).</p>
+	
+	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.91), with a facsimile. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 241).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
+	
+	<listBibl type="primary">
+		
+		<bibl n="SII">
+			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
+			<citedRange unit="page">40</citedRange>
+			<citedRange unit="item">91</citedRange>
+		</bibl> 
+		
+		<bibl n="IP">
+			<ptr target="bib:Mahalingam1988_01"/>
+			<citedRange unit="page">608-609</citedRange>
+			<citedRange unit="item">242</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+	<listBibl type="secondary">
+		
+		<bibl>
+			<ptr target="bib:ARIE"/>
+			<citedRange unit="page">24</citedRange>
+			<citedRange unit="appendix">B/1912</citedRange>
+			<citedRange unit="item">163</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+</div>
 			
 		</body>
 	</text>

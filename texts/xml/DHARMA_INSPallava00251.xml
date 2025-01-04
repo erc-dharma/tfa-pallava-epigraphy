@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tirukkōkaraṇam, name</title>
+            <title>Tirukkōkaraṇam, name of an <foreign>ācārya</foreign></title>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:sybr">
@@ -100,21 +100,17 @@
    
 </div>         
         
-<div type="apparatus">
-      		
-</div>
+<!--<div type="apparatus"/>-->
       	
 <div type="translation" resp="part:emfr">
-      		
+      	<p>...</p>	
 </div>
          
 <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
    <p>Le maître architecte Bhāgatthācārya.</p>
 </div>
       	
-<!--<div type="commentary">
-      		
-</div>-->
+<div type="commentary"/>
       	
 <div type="bibliography">
    
