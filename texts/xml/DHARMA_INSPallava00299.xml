@@ -133,20 +133,16 @@
 
          </div>
 
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
       		<p n="1-2">
-      			Second <supplied reason="subaudible">year</supplied> of the victorious king Narasiṁhavarman<note>Naraciṅkaparumaṉ in the original Tamil.</note>.</p>
+      			Second <supplied reason="subaudible">year</supplied> of the victorious king Naraciṅkaparumaṉ.<note>Sanskrit Narasiṁhavarman.</note></p>
       		
       		<p n="2-4">
       			<choice><unclear>Paṟaiyamāḷiyār</unclear><unclear>Paṉaiyamāriyār</unclear></choice>, who rules Mēlvēḷūr in the Mīkoṉṟaināṭu, a servant of Vāṇakōṉ Ati<supplied reason="omitted">ya</supplied>raicar, fell at the time <supplied reason="subaudible">one</supplied> took the cattle <supplied reason="subaudible">of</supplied> this village.	
       		</p>
       		
       	</div>
-      	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
-         	
-         </div>
 
          <div type="commentary">
          	
@@ -160,15 +156,14 @@
          	
          </div>
 
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-            	Edited in <bibl><ptr target="bib:Swaminathan1957-1958_01"/></bibl> (EI 32.12), with a facsimile. Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/54). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 299). This digital edition by Emmanuel Francis, based on previous edition(s).           	
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Swaminathan1957-1958_01"/></bibl> (EI 32.12), with a facsimile. Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/54). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 299).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
          	
          	<listBibl type="primary">
          		
-         		<bibl n="KDS">
+         		<bibl n="EI">
          			<ptr target="bib:Swaminathan1957-1958_01"/>
          		</bibl>
          		

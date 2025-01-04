@@ -127,7 +127,7 @@
          <div type="translation" resp="part:emfr">
          	         	
          	<p n="1-2">
-         		Seventh year of the victorious king Mahendravarman<note>May<sic>a</sic>ntiraparumaṉ in the original Tamil text.</note>.
+         		Seventh year of the victorious king May<sic>a</sic>ntiraparumaṉ.<note>Sanskrit Mahendravarman.</note>
          	</p>
          	
          	<p n="2-13">
@@ -142,9 +142,8 @@
 
          <div type="bibliography">
 
-            <p>
-Edited in <bibl><ptr target="bib:Nakacami1975_01"/></bibl>. Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p><p>This digital edition by Emmanuel Francis, based on previous edition(s).
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Nakacami1975_01"/></bibl>. Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+         	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 
          	<listBibl type="primary">
          		         		

@@ -117,7 +117,7 @@
       	<div type="translation" resp="part:emfr">
       		
       		<p n="1-2">
-      			Nineteenth <supplied reason="subaudible">year</supplied> of Māndavarman<note>Māntaparumaṉ in the original Tamil.</note>.
+      			Nineteenth <supplied reason="subaudible">year</supplied> of Māntaparumaṉ.<note>Sanskrit Māntavarman.</note>
       		</p>
       		<p n="2-7">
       			<supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> Kaṉāyar<note>Alternatively <gap reason="undefined" quantity="1" unit="character" precision="low"/><!--Check: implement display of gap in note-->kaṉāyar, taking into account the missing character as part of the name of the decesed hero.</note>, who fell <supplied reason="explanation"><foreign>paṭṭa</foreign><note>Note the phrase <foreign>paṭṭa kal</foreign>, attested also in IP 291<!--Update cross-ref-->, instead of the usual <foreign>paṭṭāṉ</foreign>/<foreign>paṭṭār kal</foreign>.</note></supplied> fighting <supplied reason="explanation"><foreign>eṟintu</foreign></supplied> along with <supplied reason="explanation">-<foreign>ōṭu</foreign><note><ptr target="bib:Mahalingam1988_01"/><!--Check: implement display of siglum in note-->  takes -<foreign>ōṭu</foreign> as part of the name of the deceased hero, that is, Ōṭu-kaṉāyār.</note></supplied> the servants <supplied reason="explanation"><foreign>cēvakar</foreign></supplied> <supplied reason="subaudible">of</supplied> the glorious Gaṅga king, when the glorious Gaṅga king fought <supplied reason="explanation"><foreign>eṟinta</foreign></supplied> in Caṅkamaṅkalam with the army of the Koṅkaṇi king.
@@ -130,7 +130,7 @@
          </div>
 
          <div type="commentary">
-         	<p>The identity of the king Māndavarman (Māntaparumaṉ in the original Tamil) is unclear.</p>
+         	<p>The identity of the king Māntaparumaṉ is unclear.</p>
          </div>
 
 <div type="bibliography">
