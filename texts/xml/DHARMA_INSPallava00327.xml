@@ -95,17 +95,17 @@
 	
 </div>
 
-      	<div type="apparatus">
+      	<!--<div type="apparatus">
       		
       	</div>
       	
       	<div type="translation" resp="part:emfr">
       		
-      	</div>
+      	</div>-->
       	
       	<div type="commentary">
       	<p>
-		<bibl><ptr target="bib:ARIE1937-1938"/></bibl> (p. 87, §23) notes:<note>Quotation updated to DHARMA transliteration scheme.</note>
+		<bibl><ptr target="bib:ARIE1937-1938"/></bibl> (p. 87, §23) notes:<note>Text standardised according to DHARMA transliteration scheme..</note>
 		<quote>No. 468 dated in the 13th
 			year of an unspecified king, but which paleographically resembles the record of
 			Nandivarman noticed above [DHARMA_INSPallava00325<!--EF update-->], may be assigned to the same king. This inscription

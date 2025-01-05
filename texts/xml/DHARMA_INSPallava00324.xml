@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiṉṉaṉūr, lamp pillar, time of Dantivarman, year 9</title>
+				<title>Tiṉṉaṉūr, time of Dantivarman, year 9</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 			<idno/>
 		</msIdentifier>
 		<msContents>
-			<summary><bibl><ptr target="bib:ARIE1937-1938"/></bibl>: <quote>Highly damaged. Mentions the <foreign>sabhā</foreign> of Niṉṟavūr.</quote></summary>
+			<summary>Lamp pillar inscription. See <bibl><ptr target="bib:ARIE1937-1938"/></bibl>: <quote>Highly damaged. Mentions the <foreign>sabhā</foreign> of Niṉṟavūr.</quote></summary>
 		</msContents>
 		<physDesc>
 			<handDesc>
@@ -93,18 +93,18 @@
 	
 </div>
 
-      	<div type="apparatus">
+      	<!--<div type="apparatus">
       		
       	</div>
       	
       	<div type="translation" resp="part:emfr">
       		
-      	</div>
+      	</div>-->
       	
 <div type="commentary">
       		
 	<p>
-		<bibl><ptr target="bib:ARIE1937-1938"/></bibl> (p. 86, §22) notes:<note>Quotation updated to DHARMA transliteration scheme.</note>
+		<bibl><ptr target="bib:ARIE1937-1938"/></bibl> (p. 86, §22) notes:<note>Text standardised according to DHARMA transliteration scheme..</note>
 		<quote>It mentions
 			the <foreign>sabhā</foreign> of Niṉṟavūr which was evidently
 			the old name of the village (Tiruniṉṟavūr) which has become the modern

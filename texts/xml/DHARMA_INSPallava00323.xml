@@ -8,8 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīyamaṅkalam, pillar, construction of a sluice, time of
-					Dantivikramavarman, year 4</title>
+				<title>Cīyamaṅkalam, time of Dantivikramavarman, year 4</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -48,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Construction of a sluice by Aṭavi from Tiruppālaiyūr.</summary>
+						<summary>Pillar inscription recording the construction of a sluice by Aṭavi from Tiruppālaiyūr.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -112,13 +111,13 @@
       		
       	</div>
 
-         <div type="apparatus">
+<!--<div type="apparatus">
             
-         </div>
+</div>-->
 
 <div type="translation" resp="part:emfr">
 	<p n="1-4">
-		Fourth year of the victorious king Dantivarman <supplied reason="explanation"><foreign>kō-vicaiya-tanti-vikkiramaparumaṉ</foreign></supplied>.
+		Fourth year of the victorious king Tantivikkiramaparumaṉ.<note>Sanskrit Dantivikramavarman.</note>
 	</p>
 	<p n="4-14">
 		Aṭavi, the lord <supplied reason="explanation"><foreign>kiḻavaṉ</foreign></supplied> of Tiruppālaiyūr in Perumpālaiyūr in the district <supplied reason="explanation"><foreign>kōṭṭam</foreign></supplied> of Ūṟṟukkāṭu, after having made request to the glorious Gaṅga king, the lord <supplied reason="explanation"><foreign>perumāṉār</foreign></supplied> Nērkuṭṭi, the sluice <supplied reason="explanation"><foreign>tūmpu</foreign></supplied> <supplied reason="subaudible">named</supplied> Kumāṟavāy that he had made.

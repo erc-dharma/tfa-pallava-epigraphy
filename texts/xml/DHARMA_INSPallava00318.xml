@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Mahābalipuram Shore Temple birudas (2/2)</title>
+				<title>Mahābalipuram, Shore Temple, <damage>biruda</damage>s (2/2)</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -124,11 +124,8 @@
       	
 <div type="commentary">
          	
-	<p><bibl n="IP">
-		<ptr target="bib:Mahalingam1988_01"/>
-		<citedRange unit="page">715</citedRange>
-		<citedRange unit="item">316</citedRange>
-	</bibl> translates as "The bearer of prosperity" and "The wonderful archer".</p>
+	<p>
+		<ptr target="bib:Mahalingam1988_01"/> (IP 318)  translates as “The bearer of prosperity” and “The wonderful archer.” </p>
 	<p>These appear to be <foreign>biruda</foreign>s of Narasiṁhavarman II Pallava, also attested in <ref target="DHARMA_INSPallava00054.xml">Pallava 54</ref>, <ref target="DHARMA_INSPallava00060.xml">Pallava 60</ref>, and <ref target="DHARMA_INSPallava00063.xml">Pallava 63</ref>.</p>
 </div>
          	
@@ -136,7 +133,7 @@
       		
 	<p>Reported in <bibl><ptr target="bib:ARIE1959-1960"/></bibl> (ARIE/1959-1960/B/1959-1960/263).</p>
 	<p>Text and translation in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 318).</p>
-	<p>This edition by Emmanuel Francis, based on the ASI estampage, consulted in Mysore with the kind permission of the Director of Epigraphy.</p>
+	<p>This revised edition by Emmanuel Francis, based on the ASI estampage, consulted in Mysore with the kind permission of the Director of Epigraphy.</p>
       		
       		<listBibl type="primary">   
       			

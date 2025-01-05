@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Vēṭal, boulder, time of Nandin, year 14</title>
+				<title>Vēṭal, time of Nandin, year 14</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,9 +47,9 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary><bibl>
+						<summary>Boulder inscription. See <bibl>
 								<ptr target="bib:ARIE1908-1909"/>
-							</bibl>: <quote>Mentions <foreign>viṭāl</foreign> and <foreign>viṭārpaḷḷi</foreign> (probably), 'the Jaina temple at Viṭāl.' </quote></summary>
+						</bibl>: <quote>Mentions <foreign>viṭāl</foreign> and <foreign>viṭārpaḷḷi</foreign> (probably), “the Jaina temple at Viṭāl.” </quote></summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -100,14 +100,12 @@
       		
       	</div>-->
       	
-      	<!--<div type="translation" resp="part:emfr">
-      		
-      	</div>-->
+
       	
 <div type="commentary">
       		
 	<p>
-		<bibl><ptr target="bib:ARIE1908-1909"/></bibl> (p. 77, §18) notes:<note>Quotation updated to DHARMA transliteration scheme.</note>
+		<bibl><ptr target="bib:ARIE1908-1909"/></bibl> (p. 77, §18) notes:<note>Text standardised according to DHARMA transliteration scheme..</note>
 		<quote>No. 82 of 1908 which is engraved on a boulder near a natural cavern called
 			Āṇṭār-maṭam at Veṭāl in the North Arcot district, belongs to the fourteenth year of
 			a certain Nandi<!--EF: check/update spelling--> and mentions a <foreign>paḷḷi</foreign> or

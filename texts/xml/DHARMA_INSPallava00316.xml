@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mahābalipuram Shore Temple biruda (1/2)</title>
+            <title>Mahābalipuram, Shore Temple, <foreign>biruda</foreign> (1/2)</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -120,11 +120,8 @@
       	</div>
       	
          <div type="commentary">
-         	<p><bibl n="IP">
-            		<ptr target="bib:Mahalingam1988_01"/>
-            		<citedRange unit="page">715</citedRange>
-            		<citedRange unit="item">316</citedRange>
-            	</bibl> translates as "The unrivalled hero".</p>
+         	<p>
+            		<ptr target="bib:Mahalingam1988_01"/> (IP 316) translates as “The unrivalled hero”.</p>
          	<p>This appears to be a <foreign>biruda</foreign> of Narasiṁhavarman II Pallava, also attested in IP 54, 60 and 63.</p><!--Update!-->
          </div>
          	

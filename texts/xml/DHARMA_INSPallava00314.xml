@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kāñcipuram, Ekāmbaranātha, fragment (1of 2)</title>
+				<title>Kāñcipuram, Ekāmbaranātha, fragment (1/2)</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -100,7 +100,7 @@
       		<listApp>
       			
       			<app loc="1">
-      				<lem><gap reason="lost" extent="unknown" unit="character"/>lanaḥ <g type="ddandaOrnate">.</g></lem>
+      				<lem><gap reason="lost" extent="unknown" unit="character"/> lanaḥ <g type="ddandaOrnate">.</g></lem>
       				<rdg source="bib:ARIE1939-1943"/>
       			</app>
       			
