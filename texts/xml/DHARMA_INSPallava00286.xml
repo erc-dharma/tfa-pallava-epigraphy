@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero in a fight.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero in a fight.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -104,19 +104,19 @@
 		
 </div>
 
-         <div type="apparatus">
+<!--<div type="apparatus">
 
-         	<!--<listApp>
-         		<app loc="3">
-         			<lem></lem>         			
-         		</app>  	
-         	</listApp>-->
+	<listApp>
+		<app loc="0">
+			<lem></lem>         			
+		</app>  	
+	</listApp>
+	
+</div>-->
 
-         </div>
-
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
-      		<p n="1-2">Tirthy-ninth <supplied reason="subaudible">year</supplied> of the victorious king Mahendravarman<note>Ma<choice><orig>cī</orig><reg>yē</reg></choice>ntiraparumaṉ <!--Display issue: space unneeded: Ma ¡ci!--> the original Tamil.</note>.</p>
+      		<p n="1-2">Tirthy-ninth <supplied reason="subaudible">year</supplied> of the victorious king Macīntiraparumaṉ.<note>Sanskrit Mahendravarman.</note></p>
       		
       		<p n="3-9">
       			<supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> Nandin, the son of Vattāvaṉ <seg cert="low"><supplied reason="subaudible">and</supplied></seg> <seg cert="low">the younger son</seg> <supplied reason="explanation"><foreign>iḷa-makaṉ</foreign></supplied> of Nākkaiyār, he who fell fighting <supplied reason="explanation"><foreign>eṟintu</foreign></supplied> when Poṟṟokkaiyār <seg cert="low"><supplied reason="subaudible">and</supplied></seg> <seg cert="low">the people</seg> <supplied reason="explanation"><foreign>maru-makkaḷ</foreign></supplied> <supplied reason="subaudible">of</supplied> the royal Bāṇa king marched <supplied reason="explanation"><foreign>vanta</foreign><note>Literally “went”.</note></supplied> <seg cert="low"><supplied reason="subaudible">with</supplied></seg> the army <supplied reason="subaudible">of</supplied> Cakkaravar upon Pōntai <seg cert="low"><supplied reason="subaudible">in</supplied> carukk-irunta-Ūr</seg>.	
@@ -124,21 +124,16 @@
       		      		
       	</div>
       	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
-         	
-         </div>
-
-         <div type="commentary">
+<div type="commentary">
          	<p>
          		Poṟṟokkaiyār is mentioned in another inscription. <!--Check this other inscription to assess present translation.-->
          	</p>
          </div>
 
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-            	Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/35). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 286). This digital edition by Emmanuel Francis, based on previous edition(s).           	
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/35). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 286).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
          	
             	<listBibl type="primary">
         		

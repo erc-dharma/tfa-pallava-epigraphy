@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Mēl Paḷḷippaṭṭu hero-stone, time of Parameśvaravarman, year 2</title>
+				<title>Mēl Paḷḷippaṭṭu, time of Parameśvaravarman, year 2</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -124,14 +124,14 @@
       		
       	</div>
       	
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
       		<p n="1">
       			<supplied reason="undefined">Fortune!</supplied>
       		</p>
       		
       		<p n="1-2">
-      			Ninth year of the victorious king Para<supplied reason="undefined">me</supplied>śvaravarmaṉ.
+      			Ninth year of the victorious king Paramēccuvaraparumaṉ.<note>Sanskrit Parameśvaravarman.</note>
       		</p>
       		
       		<p n="3-8">
@@ -141,19 +141,12 @@
       		
       	</div>
       	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
+<div type="commentary"/>
          	
-         </div>
+<div type="bibliography">
 
-         <div type="commentary">
-         	
-         </div>
-
-         <div type="bibliography">
-
-            <p>
-            	Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/78). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 298). This digital edition by Emmanuel Francis, based on previous edition(s).           	
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/78). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 298).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
          	
             	<listBibl type="primary">
         		

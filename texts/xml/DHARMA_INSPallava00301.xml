@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Pōntai hero-stone (1/2), time of Narasiṁhavarman, year 12</title>
+				<title>Pōntai, time of Narasiṁhavarman, year 12</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -117,7 +117,7 @@
       	<div type="translation" resp="part:emfr">
       		
       		<p n="1-3">
-      			Twelfth year of the victorious king Narasiṁhavarman.
+      			Twelfth year of the victorious king Naraciṅkaparumaṉ.<note>Sanskrit Narasiṁhavarman.</note>
       		</p>
       		<p n="3-5">
       			Paṇaya Nāttaṉ, the servant <supplied reason="subaudible">of</supplied> Pakaimatar of Pācāṟu in Mīkoṉṟaināṭu, fell recapturing cattle.
@@ -125,15 +125,9 @@
       		
       	</div>
       	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
-         	
-         </div>
-
-         <div type="commentary">
-         	
-         </div>
-
-         <div type="bibliography">
+<div type="commentary"/>
+      	
+<div type="bibliography">
 
          	<p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/90). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 301).</p>
          	
@@ -141,7 +135,7 @@
          	
             	<listBibl type="primary">
         		
-        		<bibl n="RN">
+        		<bibl n="CN">
         			<ptr target="bib:Nakacami1972_01"/>
         			<citedRange unit="item">1971/90</citedRange>
         		</bibl>

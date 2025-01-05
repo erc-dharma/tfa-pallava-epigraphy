@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tāḻaiyūttu hero-stone, time of Narasiṁhavarman, year 10</title>
+				<title>Tāḻaiyūttu, time of Narasiṁhavarman, year 10</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -131,13 +131,7 @@
       		
       	</div>
       	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
-         	
-         </div>
-
-         <div type="commentary">
-         	
-         </div>
+<div type="commentary"/>
 
 <div type="bibliography">
 
@@ -146,7 +140,7 @@
 	
 	<listBibl type="primary">
 		
-		<bibl n="RN">
+		<bibl n="CN">
 			<ptr target="bib:Nakacami1972_01"/>
 			<citedRange unit="item">1971/73</citedRange>
 		</bibl>

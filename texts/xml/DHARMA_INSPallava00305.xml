@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Maṇikkal hero-stone, time of ...varman, year 6</title>
+				<title>Maṇikkal, time of <gap reason="lost"/>varman, year 6</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -104,40 +104,30 @@
 		
 	</p>
 	
-</div>
-      	
-         
-      	<div type="translation" resp="part:emfr">
+</div><div type="translation" resp="part:emfr">
       		
       		<p n="1">
       			<supplied reason="undefined">Prosperity!</supplied> Fortune!
       		</p>
       		<p n="1-2">
-      			Sixth year of the glorious king <gap reason="ellipsis"/>varman.
+      			Sixth year of the glorious king <gap reason="lost"/>parumaṉ.<note>Sanskrit <gap reason="lost"/>varman</note>
       		</p>
       		<p n="2-3">
       			<gap reason="ellipsis"/> Mēlvēṇāṭu <gap reason="ellipsis"/> Kantavāṇaraicar <gap reason="ellipsis"/>
       		</p>
       		
       	</div>
+
+<div type="commentary"/>
       	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
-         	
-         </div>
+<div type="bibliography">
 
-         <div type="commentary">
-         	
-         </div>
-
-         <div type="bibliography">
-
-            <p>
-            	Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/120). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 305). This digital edition by Emmanuel Francis, based on previous edition(s).           	
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/120). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 305).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
          	
             	<listBibl type="primary">
         		
-        		<bibl n="RN">
+        		<bibl n="CN">
         			<ptr target="bib:Nakacami1972_01"/>
         			<citedRange unit="item">1971/120</citedRange>
         		</bibl>

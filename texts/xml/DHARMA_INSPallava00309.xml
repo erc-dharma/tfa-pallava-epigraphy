@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Ciṉṉayyāṉ Pēṭṭai, hero-stone, time of Kampavarman, year 3</title>
+				<title>Ciṉṉayyāṉ Pēṭṭai, time of Kampavarman, year 3</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -92,7 +92,7 @@
 	</ab>
 	<p>		
 		kō-vicaiya-kampa
-		<lb n="2" break="no"/>parumarku yāṇṭu mūṉṟ-āvatu
+		<lb n="2" break="no"/>-parumarku yāṇṭu mūṉṟ-āvatu
 	</p>
 	<p>
 		<lb n="3"/>vayira-mēka-vāṇa-kō-v-araiyar cēvakaṉ
@@ -117,7 +117,7 @@
       		</p>
       		
       		<p n="1-2">
-      			Third year of the victorious Pallava king Kampavarman.
+      			Third year of the victorious Pallava king Kampaparumaṉ.<note>Sanskrit Kampavarman.</note>
       		</p>
       		
       		<p n="3-5">
@@ -131,29 +131,20 @@
       			<supplied reason="subaudible">and</supplied> having come <supplied reason="subaudible">for</supplied> battle, while making great noise <supplied reason="explanation"><foreign>pūcal-iṭa</foreign></supplied>, <supplied reason="subaudible">in</supplied> Pācaṟṟūr
       			<gap reason="ellipsis"/><!--Complete translation!-->
       			fell, having come againt <supplied reason="explanation"><foreign>etiṟē vantu</foreign></supplied> <gap reason="ellipsis"/><!--Complete translation!-->
-      			 
-      			 
-      		</p>
+      	</p>
       		
       	</div>
       	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
+<div type="commentary"/>
          	
-         </div>
+<div type="bibliography">
 
-         <div type="commentary">
-         	
-         </div>
-
-         <div type="bibliography">
-
-            <p>
-            	Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/56). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 309). This digital edition by Emmanuel Francis, based on previous edition(s).           	
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/56). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 309).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
          	
             	<listBibl type="primary">
         		
-        		<bibl n="RN">
+        		<bibl n="CN">
         			<ptr target="bib:Nakacami1972_01"/>
         			<citedRange unit="item">1971/56</citedRange>
         		</bibl>

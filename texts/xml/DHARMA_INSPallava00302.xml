@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Pōntai hero-stone (2/2), time of Narasiṁhavarman, year 12</title>
+				<title>Pōntai, time of Narasiṁhavarman, year 12</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -100,35 +100,27 @@
          	         	
          </div>
 
-         
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
       		<p n="1-2">
-      			Twelfth year of the victorious king Narasiṁhavarman.
+      			Twelfth year of the victorious king Naraciṅkaparumaṉ.<note>Sanskrit Narasiṁhavarman.</note>
       		</p>
       		<p n="3-5">
       			Vaṇṇakka Cāttaṉār, the servant <supplied reason="subaudible">of</supplied> Pakaimatar, the man <supplied reason="explanation"><foreign>āḷ</foreign></supplied> <supplied reason="subaudible">of</supplied> Pācāṟu in Mīkoṉṟaināṭu, fell recapturing cattle.
       		</p>
       		
       	</div>
-      	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
+
+<div type="commentary"/>
          	
-         </div>
+<div type="bibliography">
 
-         <div type="commentary">
-         	
-         </div>
-
-         <div type="bibliography">
-
-            <p>
-            	Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/91). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 302). This digital edition by Emmanuel Francis, based on previous edition(s).           	
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/91). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 302).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
          	
             	<listBibl type="primary">
         		
-        		<bibl n="RN">
+        		<bibl n="CN">
         			<ptr target="bib:Nakacami1972_01"/>
         			<citedRange unit="item">1971/91</citedRange>
         		</bibl>

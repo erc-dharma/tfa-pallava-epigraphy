@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Periya Kōḷāppāṭi, hero-stone, time of Īśvaravarman, year 2</title>
+				<title>Periya Kōḷāppāṭi, time of Īśvaravarman, year 2</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Fragment recording the death of a hero.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero. Lacunose.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -133,14 +133,8 @@
       		</p>      		
       		
       	</div>
-      	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
-         	
-         </div>
 
-<!--<div type="commentary">
-         	
-</div>-->
+<div type="commentary"/>
 
 <div type="bibliography">
 

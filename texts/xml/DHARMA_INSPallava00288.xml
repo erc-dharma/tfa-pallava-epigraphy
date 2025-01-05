@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -110,27 +110,23 @@
 
          </div>-->
 
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
       		<p n="1-5">
       			<gap reason="ellipsis"/> <supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> he who fell <supplied reason="explanation"><foreign>paṭṭāru</foreign><note>That is, probably Kuṉṟakkaṭṭi.</note></supplied> when Kuṉṟakkaṭṭi, a relative <supplied reason="explanation"><foreign>makkaḷ</foreign></supplied> <supplied reason="subaudible">of</supplied>  <gap reason="ellipsis"/>, seized cattle <gap reason="ellipsis"/> when being <supplied reason="explanation"><foreign>iruntu</foreign></supplied> <gap reason="ellipsis"/> in Mēṟkoṉṟaināṭu, on the northern bank of the Peṇṇai <supplied reason="subaudible">river</supplied>.
       		</p>
       		
       	</div>
-      	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
+
+<div type="commentary">
          	
+	<p>There are possibly further lines missing at the beginning.<!--check estampage, if available--></p>
          </div>
 
-         <div type="commentary">
-         	<p>There are possibly further lines missing at the beginning.<!--check estampage, if available--></p>
-         </div>
+<div type="bibliography">
 
-         <div type="bibliography">
-
-            <p>
-            	Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/66). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 288). This digital edition by Emmanuel Francis, based on previous edition(s).           	
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/66). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 288).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
          	
             	<listBibl type="primary">
         		

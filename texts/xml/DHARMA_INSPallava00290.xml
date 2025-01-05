@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -109,7 +109,7 @@
 
          </div>-->
 
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
       		<p n="1-4">
       			<supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> <gap reason="ellipsis"/>Narippaḷi, the servant <supplied reason="subaudible">of</supplied> <gap reason="ellipsis"/>, he who fell <gap reason="ellipsis"/>
@@ -117,19 +117,14 @@
       		
       	</div>
       	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
-         	
-         </div>
-
-         <div type="commentary">
+<div type="commentary">
          	<p>There are further lines missing at the beginning.<!--check estampage, if available + revise encoding of missing lines in edition--></p>
          </div>
 
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-            	Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/92). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 290). This digital edition by Emmanuel Francis, based on previous edition(s).           	
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/92). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 290).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
          	
             	<listBibl type="primary">
         		

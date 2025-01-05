@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Piñcūr hero-stone, time of Danti...vikramavarman, year 7</title>
+				<title>Piñcūr, time of Danti<gap reason="lost"/>vikramavarman, year 7</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -107,7 +107,7 @@
          	         	
          </div>
         
-        <div type="apparatus">
+<div type="apparatus">
 
         	<listApp>
         		
@@ -135,34 +135,27 @@
 
          </div>
 
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
       		<p n="1-3">
-      			Seventh year of the victorious Pallava king Nandi<gap reason="ellipsis"/>ṭukuvikramavarman.
+      			Seventh year of the victorious Pallava king Danti<gap reason="lost"/>ṭukuvikkiramaparumaṉ.<note>Sanskrit Danti <gap reason="ellipsis"/> vikramavarman.</note>
       		</p>
       		<p n="4-12">
       			Pātaṉār Kālimāṟaṉ <supplied reason="subaudible">of</supplied> Kūtaṉūr, lord <supplied reason="explanation"><foreign>uṭaiya</foreign><note><ptr target="bib:Mahalingam1988_01"/> <!--display of <ptr> to be implemented!--> simply translate as "of".</note></supplied> <supplied reason="subaudible">of</supplied> Nanperumāpuñciyūr <supplied reason="subaudible">in</supplied> the Palkuṉṟakkōṭṭam in Aṭaiyāṟu<note>The subdivision of district (Aṭaiyāṟu) is unusually stated before the district (Palkuṉṟakōṭṭam).</note>, fell.
       		</p>
       		
       	</div>
-      	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
+
+<div type="commentary"/>
          	
-         </div>
+<div type="bibliography">
 
-         <div type="commentary">
-         	
-         </div>
-
-         <div type="bibliography">
-
-            <p>
-            	Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/72). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 308). This digital edition by Emmanuel Francis, based on previous edition(s).           	
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/72). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 308).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
          	
             	<listBibl type="primary">
         		
-        		<bibl n="RN">
+        		<bibl n="CN">
         			<ptr target="bib:Nakacami1972_01"/>
         			<citedRange unit="item">1971/72</citedRange>
         		</bibl>

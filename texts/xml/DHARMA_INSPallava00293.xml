@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Taṇṭarāmpaṭṭu hero-stone, time of Narasiṁhavarman, year 7</title>
+				<title>Taṇṭarāmpaṭṭu, time of Narasiṁhavarman, year 7</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -121,7 +121,7 @@
 <div type="translation" resp="part:emfr">
       		
       		<p n="1-3">
-      			Seventh year of the victorious king Naraiciṅkaparumaṉ.<note>Sanskrit Narasiṁhavarman.</note>.
+      			Seventh year of the victorious king Naraiciṅkaparumaṉ.<note>Sanskrit Narasiṁhavarman.</note>
       		</p>
       		
       		<p n="3-11">
@@ -130,11 +130,7 @@
       		
       	</div>
       	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
-         	
-         </div>
-
-         <div type="commentary">
+<div type="commentary">
          	
          	<p>
          		See DHARMA_INSPallava00294, from the same place and of similar content.
@@ -156,8 +152,7 @@
 <div type="bibliography">
 
             <p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/69). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 293).</p>
-         	<p>This digital edition by Emmanuel Francis, based on previous edition(s).           	
-            </p>
+         	<p>This digital edition by Emmanuel Francis, based on previous edition(s)</p>
          	
             	<listBibl type="primary">
         		

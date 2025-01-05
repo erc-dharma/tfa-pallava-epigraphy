@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Periya Kōḷappāṭi, hero-stone, time of Mahendravarman, year 11</title>
+				<title>Periya Kōḷappāṭi, time of Mahendravarman, year 11</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -123,7 +123,7 @@
 	
 	<p n="2-8">
 		 Ēṟaṉ, the younger son <supplied reason="explanation"><foreign>iḷa-makaṉ</foreign></supplied> of Cākkai Paraiyaṉār, the servant of Amkōṭṭaiyār, the nephew <supplied reason="explanation"><foreign>maru-makkaḷ</foreign></supplied> of Perumpōttaraiyar,
-		attacked <supplied reason="explanation"><foreign>eṟintu</foreign><note>Litteraly, "having attacked."</note></supplied> and died,
+		attacked <supplied reason="explanation"><foreign>eṟintu</foreign><note>Litteraly: having attacked.</note></supplied> and died,
 		when Vilakkumiṟaiyar marched upon <supplied reason="subaudible">the village of</supplied> Tuṭari in Kīḻvēṇāṭu.
 	</p>
 	

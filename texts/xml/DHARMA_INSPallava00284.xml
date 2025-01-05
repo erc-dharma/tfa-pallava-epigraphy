@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Eṭuttaṉūr hero-stone, time of Mahendravarman, year 34</title>
+				<title>Eṭuttaṉūr, time of Mahendravarman, year 34</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero in a fight.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero in a fight.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -123,7 +123,7 @@
 
       	<div type="translation" resp="part:emfr">
       		
-      		<p n="1-3">Tirthy-fourth <supplied reason="subaudible">year</supplied> of the victorious king Mahendravarman<note>May<choice><orig>i</orig><reg>e</reg></choice>ntiraparumaṉ <!--Display issue: space unneeded: May ¡i!--> the original Tamil.</note>.</p>
+      		<p n="1-3">Tirthy-fourth <supplied reason="subaudible">year</supplied> of the victorious king Mayintiraparumaṉ.<note>Sanskrit Mahendravarman.</note></p>
       		
       		<p n="3-9"><supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> Karuntēvakkatti, the younger son <supplied reason="subaudible">of</supplied> Poṟṟokkaiyār, the nephew of the royal Bāṇa king, he who fell and died <supplied reason="explanation"><foreign>vāṭi</foreign></supplied> in the buffalo shed <supplied reason="explanation"><foreign>erumaippuṟam</foreign><note>See <ptr target="bib:IAR1971-1972"/> <!--Display issue: siglum is not displayed-->for this meaning.</note></supplied>    			
       		</p>

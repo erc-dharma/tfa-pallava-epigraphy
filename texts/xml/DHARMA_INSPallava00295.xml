@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cāttaṉūr hero-stone, time of Narasiṁhavarman, year 11</title>
+				<title>Cāttaṉūr, time of Narasiṁhavarman, year 11</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero in a fight.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero in a fight.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -115,7 +115,7 @@
 
          <!--</div>-->
 
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
       		<p n="1-3">
       			Eleventh <supplied reason="subaudible">year</supplied> of the victorious king Naraciṅkaparumaṉ.<note>Sanskrit Narasiṁhavarman.</note></p>
@@ -125,7 +125,6 @@
       		</p>
       		
       	</div>
-
 
 <div type="commentary">
          	

@@ -121,7 +121,7 @@
          <div type="translation" resp="part:emfr">
          	
          	<p n="1-2">
-         		        Twenty-fourth year of the victorious king Narasiṁhavarman<note>Naraiciṅkaparumaṉ in the the original Tamil text, that is, the Pallava king Narasiṁhavarman I according to <bibl><ptr target="bib:Rāmēṣ2008_01"/></bibl>.</note>.	
+         		        Twenty-fourth year of the victorious king Naraiciṅkaparumaṉ.<note>Sanskrit Narasiṁhavarman, that is, the Pallava king Narasiṁhavarman I according to <bibl><ptr target="bib:Rāmēṣ2008_01"/></bibl>.</note>	
          	</p>
 
          	<p n="3-4">
@@ -130,14 +130,12 @@
 
          </div>
       	
-         <div type="commentary">
-         </div>
+<div type="commentary"/>
 
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-Edited in <bibl><ptr target="bib:Rāmēṣ2008_01"/></bibl> (Āvaṇam 19.2), with a picture.</p><p>This digital edition by Emmanuel Francis, based on previous edition(s).
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Rāmēṣ2008_01"/></bibl> (Āvaṇam 19.2), with a picture.</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 
          	<listBibl type="primary">
          		

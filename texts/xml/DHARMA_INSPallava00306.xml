@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tāḻaiyūttu hero-stone, time of Nandivarman, year 2</title>
+				<title>Tāḻaiyūttu, time of Nandivarman, year 2</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -107,7 +107,7 @@
          	         	
          </div>
 
-         <div type="apparatus">
+<div type="apparatus">
 
          	<listApp>
          		
@@ -119,10 +119,10 @@
 
          </div>
 
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
       		<p n="1-3">
-      			Second year of the victorious king, the king Nandivarman.
+      			Second year of the victorious king, the king Nantipaṉṟaṟ.<note>Sanskrit Nandivarman?</note>
       		</p>
       		<p n="3-11">
       			Vaṇṇakka Kaṭaiyaṉār, lord <supplied reason="explanation"><foreign>uṭaiya</foreign><note><ptr target="bib:Mahalingam1988_01"/> <!--display of <ptr> to be implemented!--> simply translate as "of".</note></supplied> of Tāḻaiyūr, fell liberating <supplied reason="explanation"><foreign>mīṭṭu</foreign></supplied> cattle when Ūṇamiṟaiyār, a hunter <supplied reason="explanation"><foreign>vēṭṭuvar</foreign></supplied> <supplied reason="subaudible">of</supplied> Iḷavenmaṟukkōṭṭu <supplied reason="subaudible">in</supplied> Vēṇāṭu, seized cattle <supplied reason="subaudible">at</supplied> Tāḷaiyūr.
@@ -130,19 +130,12 @@
       		
       	</div>
       	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
+<div type="commentary"/>
          	
-         </div>
+<div type="bibliography">
 
-         <div type="commentary">
-         	
-         </div>
-
-         <div type="bibliography">
-
-            <p>
-            	Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/74). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 306). This digital edition by Emmanuel Francis, based on previous edition(s).           	
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/74). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 306).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
          	
             	<listBibl type="primary">
         		

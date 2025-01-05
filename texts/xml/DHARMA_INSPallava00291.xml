@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kaṭalāṭi, hero-stone, time of Māntaparumāṉ, year 11</title>
+				<title>Kaṭalāṭi, time of Māntaparumāṉ, year 11</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -41,13 +41,13 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<msDesc>
+			<msDesc>
 					<msIdentifier>
 						<repository>DHARMAbase</repository>
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -125,7 +125,7 @@
 	<p n="2-9">
 		<supplied reason="subaudible">This is the</supplied> stone <supplied reason="subaudible">erected when</supplied>
 		the victorious <supplied reason="explanation"><foreign>vicaiya</foreign></supplied> Koṟṟaṭaiyā<unclear>ru</unclear>, the servant of the glorious <supplied reason="explanation"><foreign>ciri</foreign><note>Sanskrit <foreign>śrī</foreign>.</note></supplied> Kaṅkaraicaru<note>That is, Kaṅkaraiyar.</note>
-		attacked <supplied reason="explanation"><foreign>eṟintu</foreign><note>Litteraly, "having attacked."</note></supplied> and died,
+		attacked <supplied reason="explanation"><foreign>eṟintu</foreign><note>Literally: having attacked.</note></supplied> and died,
 		when <supplied reason="explanation"><foreign>ñāṉṟu</foreign></supplied>
 		the glorious Kaṅkaraicaru
 		made an attack <supplied reason="explanation"><foreign>eṟinta</foreign></supplied>

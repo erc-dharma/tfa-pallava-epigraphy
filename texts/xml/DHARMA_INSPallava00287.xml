@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kaṇṇakantal hero-stone, time of Mahendravarman (?)</title>
+				<title>Kaṇṇakantal, time of Mahendravarman (?)</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero in a fight.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero in a fight.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -104,17 +104,17 @@
 		
 </div>
 
-         <div type="apparatus">
+         <!--<div type="apparatus">
 
-         	<!--<listApp>
+         	<listApp>
          		<app loc="3">
          			<lem></lem>         			
          		</app>  	
-         	</listApp>-->
+         	</listApp>
 
-         </div>
+         </div>-->
 
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
       		<p n="1-14">
       			<gap reason="lost" quantity="4" unit="line" precision="low"/>
@@ -122,23 +122,18 @@
       			<supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> Tāḷaccāmi, the son <supplied reason="subaudible">of</supplied> Vaḷiyappūṟār, the servant <supplied reason="subaudible">of</supplied> Poṉṉarampaṉār, <supplied reason="subaudible">he who fell</supplied> when Poṉṉarampaṉār, the nephew <supplied reason="undefined">of the royal Bāṇa king</supplied>, went <supplied reason="explanation"><foreign>ceṉṟu</foreign></supplied> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>*<!--Check! <gap/> not allowed within <supplied/>--><unclear>ṟa</unclear>la-p-puñci</foreign><note>This phrase designates either the place of the fight or a complement to the action expressed by <foreign>ceṉṟu</foreign> (<foreign>puñci</foreign>, "having gathered") or both.</note></supplied> <seg cert="low"><supplied reason="subaudible">against</supplied></seg> Kantaviṇṇaṉār, the nephew of the royal Bāṇa king.
       		</p>
       		      		
-      	</div>
+</div>
       	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
-         	
-         </div>
-
-         <div type="commentary">
+<div type="commentary">
          	<p>
          		Poṉṉarampaṉār and Kantaviṇṇaṉār are mentioned in several other inscriptions (IP 282, 283, 285<!--Update cross-ref-->), on the basis of which the present inscription is interpreted and its missing text supplied.
          	</p>
          </div>
 
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-            	Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/48). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 287). This digital edition by Emmanuel Francis, based on previous edition(s).           	
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/48). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 287).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
          	
             	<listBibl type="primary">
         		

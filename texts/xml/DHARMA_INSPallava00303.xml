@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Toraippāṭi hero-stone, time of Narasiṁhavarman, year 12</title>
+				<title>Toraippāṭi, time of Narasiṁhavarman, year 12</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -105,31 +105,25 @@
       	<div type="translation" resp="part:emfr">
       		
       		<p n="1-2">
-      			Twelfth year of the victorious king Narasiṁhavarman.
+      			Twelfth year of the victorious king Narasiṅkaparumaṉ.<note>Sanskrit Narasiṁhavarman.</note>
       		</p>
       		<p n="3-5">
       			<supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> Koṟṟaviṇaṟṟa Kuṉṟāṉaṟ, the servant <supplied reason="subaudible">of</supplied> the glorious Gaṅga king, he who fell when the glorious Gaṅga king attacked <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>ce<!--<gap reason="undefined" quantity="1" unit="character" precision="low"/>--><!--How to mark gap here?-->vōr</foreign></supplied> marching upon Vā<!--<gap reason="undefined" quantity="1" unit="character" precision="low"/>--><!--How to mark gap here?-->ccaṉ, the son <supplied reason="subaudible">of</supplied> the Koṅkaṇi king.
       		</p>
       		
       	</div>
-      	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
+
+<div type="commentary"/>
          	
-         </div>
+<div type="bibliography">
 
-         <div type="commentary">
-         	
-         </div>
-
-         <div type="bibliography">
-
-            <p>
-            	Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/34). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 303). This digital edition by Emmanuel Francis, based on previous edition(s).           	
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/34). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 303).</p>
+            	
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
          	
             	<listBibl type="primary">
         		
-        		<bibl n="RN">
+        		<bibl n="CN">
         			<ptr target="bib:Nakacami1972_01"/>
         			<citedRange unit="item">1971/34</citedRange>
         		</bibl>

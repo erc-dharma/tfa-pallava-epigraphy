@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -111,15 +111,13 @@
 
          </div>-->
 
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
       		<p n="1-6">
-      			<gap reason="ellipsis"/> <supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> Kutti, he who fell <supplied reason="explanation"><foreign>paṭṭāṉ</foreign></supplied>, <gap reason="ellipsis"/> a relative <supplied reason="explanation"><foreign>makkaḷ</foreign><note>Alternatively, "the nephew", if the lacuna is to be restored as <foreign>maru-makkaḷ</foreign>.</note></supplied> <gap reason="ellipsis"/> horse <supplied reason="explanation"><foreign>kutirai</foreign></supplied> <gap reason="ellipsis"/> 
+      			<gap reason="ellipsis"/> <supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> Kutti, he who fell <supplied reason="explanation"><foreign>paṭṭāṉ</foreign></supplied>, <gap reason="ellipsis"/> a relative <supplied reason="explanation"><foreign>makkaḷ</foreign><note>Alternatively, if the lacuna is to be restored as <foreign>maru-makkaḷ</foreign>: the nephew.</note></supplied> <gap reason="ellipsis"/> horse <supplied reason="explanation"><foreign>kutirai</foreign></supplied> <gap reason="ellipsis"/> 
       		</p>
       		
       	</div>
-      	
-<!--<div type="translation" xml:lang="fra" resp="part:emfr"/>-->        	
          
 <div type="commentary">
          	<p>There are further lines missing at the beginning.<!--check estampage, if available + revise encoding of missing line sin edition--></p>

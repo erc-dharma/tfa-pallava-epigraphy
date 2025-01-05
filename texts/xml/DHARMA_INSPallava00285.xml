@@ -9,7 +9,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cē. Kūṭalūr hero-stone, time of Mahendravarman, year 38</title>
+				<title>Cē. Kūṭalūr, time of Mahendravarman, year 38</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -48,7 +48,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero in a fight.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero in a fight.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -125,7 +125,7 @@
       	<div type="translation" resp="part:emfr">
       		
       		<p n="1-4">
-      			Tirthy-eight <supplied reason="subaudible">year</supplied> of the victorious king Mahendravarman<note>May<choice><orig>I</orig><reg>yi</reg></choice>ntiraparumaṉ the original Tamil.</note>.</p>
+      			Tirthy-eight <supplied reason="subaudible">year</supplied> of the victorious king Mayintiraparumaṉ.<note>Sanskrit Mahendravarman.</note></p>
       		
       		<p n="4-9">
       			<supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> Kākaṇṭi Aṇṇāvaṉ, the servant of Poṉṉarampaṉār, he who fell recapturing <supplied reason="explanation"><foreign>iṭuvittu</foreign><note>That is (?), <foreign>viṭuvittu</foreign>, literally "liberating".</note></supplied> cattle when Kantaviṇṇaṉār, the nephew of the royal Bāṇa king seized cattle <supplied reason="subaudible">in</supplied> kūṭal.	
@@ -136,23 +136,17 @@
       		</p>
       		
       	</div>
-      	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
-         	
-         </div>
 
-         <div type="commentary">
-         	
-         </div>
 
-         <div type="bibliography">
-
-            <p>
-            	Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/50). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 285); encoded an re-edited here by Emmanuel Francis, based on photos (2009).           	
-            </p>
+<div type="commentary"/>
          	
-            	<listBibl type="primary">
-        		
+<div type="bibliography">
+
+	<p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/50). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 285).</p>
+	<p>This revised edition by Emmanuel Francis, based on photos (2009).</p>
+	
+	<listBibl type="primary">
+		
         		<bibl n="RN">
         			<ptr target="bib:Nakacami1972_01"/>
         			<citedRange unit="item">1971/50</citedRange>
@@ -166,10 +160,8 @@
         		        		        		
         	</listBibl>
         	
-        	<!--<listBibl type="secondary">
-        		
-        		Check if mentioned in IAR
-        		
+        	<!--<listBibl type="secondary">        		
+        		Check if mentioned in IAR.
         	</listBibl>-->
 
          </div>
