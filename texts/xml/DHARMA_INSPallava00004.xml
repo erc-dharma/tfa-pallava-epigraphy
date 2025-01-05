@@ -169,29 +169,29 @@
 	
 </div>
 
-      	<div type="translation" xml:lang="fra" resp="part:emfr">
+<!--<div type="translation" xml:lang="fra" resp="part:emfr">
 
-      		<p>...</p>
-
-      		<p rend="stanza" n="1">
-      			<l>...</l>
-      			<l>...</l>
-      			<l>...</l>
-      			<l>...</l>
-      		</p>
-
-      		<p rend="stanza" n="2">
-      			<l>...</l>
-      			<l>...</l>
-      			<l>...</l>
-      			<l>...</l>
-      		</p>
-
-<p n="16">...</p>
-
-      	</div>
-
-      	<div type="commentary">
+	<p>...</p>
+	
+	<p rend="stanza" n="1">
+		<l>...</l>
+		<l>...</l>
+		<l>...</l>
+		<l>...</l>
+	</p>
+	
+	<p rend="stanza" n="2">
+		<l>...</l>
+		<l>...</l>
+		<l>...</l>
+		<l>...</l>
+	</p>
+	
+	<p n="16">...</p>
+	
+</div>
+-->
+<div type="commentary">
       		
       		<p>For a description of the Prakrit language of this grant, see <bibl><ptr target="bib:Hultzsch1905-1906_04"/></bibl> (EI 8.12, p. 144), <bibl><ptr target="bib:Mehendale1948_01"/></bibl>, <bibl><ptr target="bib:Pischel1965_01"/></bibl>.</p>
       		

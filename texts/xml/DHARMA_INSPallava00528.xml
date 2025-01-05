@@ -133,35 +133,24 @@
       			<gap reason="undefined" quantity="1" unit="line"/>
 	</p>
       	</div>
-      	
-         <!--<div type="translation" xml:lang="fra" resp="part:emfr">
+
+<div type="commentary"/>
          	
-         </div>-->
+<div type="bibliography">
 
-         <div type="commentary">
-         	
-         </div>
-
-         <div type="bibliography">
-
-            <p>
-            	Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/58); not included in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl>.</p><p>This digital edition by Emmanuel Francis, based on previous edition(s).           	
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/58); not included in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl>.</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
          	
             	<listBibl type="primary">
         		
-        		<bibl n="N">
+        		<bibl n="CN">
         			<ptr target="bib:Nakacami1972_01"/>
         			<citedRange unit="item">1971/58</citedRange>
         		</bibl>
-        		
-        		
-        		        		        		
+            		
         	</listBibl>
         	
         	<!--<listBibl type="secondary">
-        		
-        		
         		
         	</listBibl>-->
 
