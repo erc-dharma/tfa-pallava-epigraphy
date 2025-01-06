@@ -9,7 +9,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Aracalāpuram memorial stone for a cock</title>
+				<title>Aracalāpuram, memorial stone for a cock</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -152,7 +152,7 @@
 	<div resp="part:emfr part:vagi" type="translation">
       		
       		<p n="1-3">
-      			The cock, which was scarred<note><bibl><ptr target="bib:Mahadevan2003_01"/></bibl> translates as "was engraved" as he equates <foreign>karukiya</foreign> with <foreign>karukkiya</foreign>. We suggest that <foreign>karukiya</foreign> is the past form of <foreign>karuku-tal</foreign>, one of the meaning of which, according to the <foreign>Madras Tamil Lexicon</foreign>, is "to be scorched, scarred".</note> when fighting for Mēṟcēri<note>That is, the western quarter.</note> of Mukaiyūr.
+      			The cock, which was scarred<note><bibl><ptr target="bib:Mahadevan2003_01"/></bibl> translates as “was engraved” as he equates <foreign>karukiya</foreign> with <foreign>karukkiya</foreign>. We suggest that <foreign>karukiya</foreign> is the past form of <foreign>karuku-tal</foreign>, one of the meaning of which, according to the <foreign>Madras Tamil Lexicon</foreign>, is “to be scorched, scarred.”</note> when fighting for Mēṟcēri<note>That is, the western quarter.</note> of Mukaiyūr.
       		</p>
       		
       	</div>
@@ -163,7 +163,7 @@
       			This inscription is counted in the Pallava corpus, insofar as its date (5th century CE according to <bibl><ptr target="bib:Mahadevan2003_01"/></bibl>) and provenance correspond the period and the area of the Pallava rule in northern Tamil Nadu.
       		</p>
       		<p>
-      			A similar inscription, commemorating a victorious cock with a strikingly similar image of a cock, has been found at Intaḷūr (DHARMA_INSPallava00401). The two inscriptions appears to be closely related: the present Aracalāpuram inscription commemorates the fighting cock of the western quarters, whereas the Intaḷūr inscription commemorates the fighting cock of the eastern quarters.
+      			A similar inscription, commemorating a victorious cock with a strikingly similar image of a cock, has been found at Intaḷūr (<ref target="DHARMA_INSPallava00401.xml">Pallava 401</ref>). The two inscriptions appears to be closely related: the present Aracalāpuram inscription commemorates the fighting cock of the western quarters, whereas the Intaḷūr inscription commemorates the fighting cock of the eastern quarters.
       		</p>
       		
       		<p>

@@ -47,17 +47,13 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary> The first half of a verse also found twice in Mahābalipuram
-							(tfaPallava***, ***)<!--update cross-refs-->.</summary>
+                  <summary> The first half of a verse also found twice complete in Mahābalipuram in the inscriptions <ref target="DHARMA_INSPallava00000.xml">Pallava 0</ref> and <ref target="DHARMA_INSPallava00000.xml">Pallava 0</ref><!--update cross-refs-->.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
                      <p> The delineation in <bibl>
                            <ptr target="bib:Lockwood+al2001_01"/>
-                           <citedRange unit="page">288</citedRange>
-                        </bibl>
-                        <!--display <bibl>-->
-                        <!-- DONE --> shows a well executed and almost ornate Grantha.</p>
+                        </bibl> (p. 288) shows a well executed and almost ornate Grantha.</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -98,14 +94,7 @@
 <body>
 			
 <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-				
-   <p>
-      Text after <bibl>
-         <ptr target="bib:Lockwood+al2001_01"/>
-         <citedRange unit="page">288</citedRange>
-      </bibl>
-   </p><!--update/delete?-->
-   
+		
    <lg n="1" met="anuṣṭubh">
       <l n="a" enjamb="yes">
          sambhava-sthiti-saṁhāra</l>
@@ -114,8 +103,8 @@
    </lg><!--encode missing <l> of this half-verse?-->
 </div>
    
-   <div type="apparatus">
-   </div>
+   <!--<div type="apparatus">
+   </div>-->
    
    <div type="translation" resp="part:emfr">
       

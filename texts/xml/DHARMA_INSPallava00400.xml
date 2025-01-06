@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Katirampaṭṭi, hero-stone, time of Mahendravarman, year 7</title>
+				<title>Katirampaṭṭi, time of Mahendravarman, year 7</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>hero-stone commemorating the death of Ēṟaṉ.</summary>
+						<summary>Hero-stone inscription commemorating the death of Ēṟaṉ.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -127,32 +127,30 @@
          <div type="translation" resp="part:emfr">
          	         	
          	<p n="1-2">
-         		Seventh year of the victorious king May<sic>a</sic>ntiraparumaṉ.<note>Sanskrit Mahendravarman.</note>
+         		Seventh year of the victorious king May<corr>e</corr>ntiraparumaṉ.<note>Sanskrit Mahendravarman.</note>
          	</p>
          	
          	<p n="2-13">
          		<supplied reason="subaudible">This is</supplied> the stone of Ēṟaṉ, son of <gap reason="ellipsis"/>, he who died <gap reason="ellipsis"/> <supplied reason="subaudible">fighthing</supplied> with<note>That is, at the side of or against.</note> Kaṅkati Araicar <supplied reason="subaudible">at/of</supplied> Kārimaṅkalam in the Kōvūrnāṭu.</p>
-         	
-         	
+
          </div>
       	
-         <div type="commentary">
-         	
-         </div>
+<div type="commentary"/>
 
-         <div type="bibliography">
+<div type="bibliography">
 
             <p>Edited in <bibl><ptr target="bib:Nakacami1975_01"/></bibl>. Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+	
          	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 
          	<listBibl type="primary">
          		         		
-         		<bibl n="IN">
+         		<bibl n="N">
             		<ptr target="bib:Nakacami1975_01"/>
             		<citedRange unit="item">1974/82</citedRange>
             	</bibl>
          		
-         		<bibl n="DD">
+         		<bibl n="D">
          			<ptr target="bib:Dayalan2005_01"/>
          			<citedRange unit="volume">3</citedRange>
          			<citedRange unit="appendix">I</citedRange>

@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mahābalipuram Shore temple, capital inscription</title>
+            <title>Mahābalipuram, Shore temple, capital inscription</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -95,7 +95,7 @@
 
       	<div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">      		
       		<p>
-      			<lb n="1"/>śrī-rāja-siṁhaḥ <g type="ddanda">.</g> śrī-kṣatra-siṁhaḥ <g type="ddanda">.</g> śrī-na<space type="defect" quantity="3" unit="character"/>rendra-siṁhaḥ <g type="ddanda">.</g> śrī-maheśvara<space type="defect"/>-cūḷāmaṇiḥ
+      			<lb n="1"/>śrī-rāja-siṁhaḥ <g type="ddanda">.</g> śrī-kṣatra-siṁhaḥ <g type="ddanda">.</g> śrī-na<space type="defect" quantity="3" unit="character"/><!--@MM: not displayed-->rendra-siṁhaḥ <g type="ddanda">.</g> śrī-maheśvara<space type="defect"/>-cūḷāmaṇiḥ
       		</p>	
       	</div>
 
@@ -137,7 +137,7 @@
       	
       	<div type="commentary">
       		
-      		<p>Rājasiṁha is the favourite <foreign>biruda</foreign> of Narasiṁhavarman II Pallava. The three other <foreign>biruda</foreign>s are attested in other inscriptions: Kṣatrasiṁha in <ref target="INSPallava00068.xml">INSPallava00068</ref> and <ref target="INSPallava00380.xml">INSPallava00380</ref>; Narendrasiṁha in <ref target="INSPallava00060.xml">INSPallava00060</ref>, <ref target="INSPallava00068.xml">INSPallava00068</ref>, and <ref target="INSPallava00380.xml">INSPallava00380</ref>; Maheśvaracūḷāmaṇi in <ref target="INSPallava00064.xml">INSPallava00064</ref>.<!--check!--></p> 
+      		<p>Rājasiṁha is the favourite <foreign>biruda</foreign> of Narasiṁhavarman II Pallava. The three other <foreign>biruda</foreign>s are attested in other inscriptions: Kṣatrasiṁha in <ref target="INSPallava00068.xml">Pallava 68</ref> and <ref target="INSPallava00380.xml">Pallava 380</ref>; Narendrasiṁha in <ref target="INSPallava00060.xml">Pallava 60</ref>, <ref target="INSPallava00068.xml">Pallava 68</ref>, and <ref target="INSPallava00380.xml">Pallava 380</ref>; Maheśvaracūḷāmaṇi in <ref target="INSPallava00064.xml"> Pallava 64</ref>.<!--check!--></p> 
       		<p>Other <foreign>biruda</foreign>s of of Narasiṁhavarman II Pallava are synonymous with Maheśvaracūḷāmaṇi: Śivacūḷāmaṇi, Candrārdhaśekharaśikhāmaṇi, and Maheśvaraśikhāmaṇi.</p>
       	</div>
       	

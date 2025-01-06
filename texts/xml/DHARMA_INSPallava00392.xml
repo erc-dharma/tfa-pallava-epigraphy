@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kāñcipuram, Mātaṅgeśvara temple, <foreign>biruda</foreign>s</title>
+            <title>Kāñcipuram, Mātaṅgeśvara, <foreign>biruda</foreign>s</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -143,7 +143,7 @@
    <div type="textpart" subtype="item" n="A">
       <head xml:lang="eng">South Pillar</head>
       <p n="1">
-         He who is a hook for pain / He whose hook is painful.<note>See other <foreign>biruda</foreign>s of the Pallavas ending in <foreign>aṅkuśa</foreign>, e.g., in <ref target="DHARMA_INSPallava00055">Pallava00055</ref>.</note>
+         He who is a hook for pain / He whose hook is painful.<note>See other <foreign>biruda</foreign>s of the Pallavas ending in <foreign>aṅkuśa</foreign>, e.g., in inscription <ref target="DHARMA_INSPallava00055">Pallava 55</ref>.</note>
       </p>
    </div>
    
@@ -170,7 +170,7 @@
 </div>-->
       	
 <div type="commentary">
-   <p><bibl><ptr target="bib:Srinivasan1983_02"/></bibl>, who reads Aratyamakaṉ, suggests it is equivalent to Aratikalaḥ, a <foreign>biruda</foreign> of Narasiṃhavarman II Pallava.<note>See Arātikālaḥ, "he who is death to his enemies," (<ref target="DHARMA_INSPallava00055">Pallava00055</ref>).</note></p>
+   <p><bibl><ptr target="bib:Srinivasan1983_02"/></bibl>, who reads Aratyamakaṉ, suggests it is equivalent to Aratikalaḥ, a <foreign>biruda</foreign> of Narasiṃhavarman II Pallava.<note>See Arātikālaḥ, “he who is death to his enemies,” in inscription(<ref target="DHARMA_INSPallava00055">Pallava 55</ref>).</note></p>
 </div>
          	
 <div type="bibliography">

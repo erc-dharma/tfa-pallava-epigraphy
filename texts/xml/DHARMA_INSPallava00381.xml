@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mahābalipuram Shore Temple, Varāha's birudas</title>
+            <title>Mahābalipuram, Shore Temple, Varāha's <foreign>biruda</foreign>s</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>A series of <foreign>biruda</foreign>s.</summary>
+                  <summary>A series of <foreign>biruda</foreign>s inscribed on the pedestal of a sculpture of Varāha.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -121,8 +121,7 @@
          	<p>
          		According to <bibl>
          			<ptr target="bib:Willis2004_01"/>
-         			<citedRange unit="page">223</citedRange>
-         		</bibl>, these <foreign>biruda</foreign>s are descriptive labels.
+         		</bibl> (p. 223), these <foreign>biruda</foreign>s are descriptive labels.
          	</p>
          </div>
       	

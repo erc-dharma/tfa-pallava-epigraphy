@@ -89,10 +89,8 @@
       		
       		<p>
       			<lb n="1"/>kō <gap reason="undefined" extent="unknown" unit="character"/> koṟṟaṉ
-      			<lb n="2" break="no"/>makaṉ ūṟaṉ
-      			
+      			<lb n="2"/>makaṉ ūṟaṉ
       		</p>
-      		      		
       		
       	</div>
 
@@ -117,15 +115,13 @@
 
          </div>
       	
-         <div type="commentary">
-         	
-         </div>
+<div type="commentary"/>
 
-         <div type="bibliography">
+<div type="bibliography">
 
             <p>
-Edited in <bibl><ptr target="bib:Virarakavan1997_01"/></bibl> (Āvaṇam 8.2.2). Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p><p>This digital edition by Emmanuel Francis, based on previous edition(s).
-            </p>
+Edited in <bibl><ptr target="bib:Virarakavan1997_01"/></bibl> (Āvaṇam 8.2.2). Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 
          	<listBibl type="primary">
          		         		

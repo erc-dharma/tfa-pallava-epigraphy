@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mahābalipuram Shore Temple, Varāha tank verse</title>
+            <title>Mahābalipuram, Shore Temple, Varāha tank verse</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>A verse, also attested in the inscription <ref target="INSPallava00068.xml"> Pallava 68</ref> (verse 1).</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -130,10 +130,11 @@
       		
       	</div>
       	
-         <div type="commentary">
-         	<p>This verse is also attested in <ref target="INSPallava00068.xml">INSPallava00068</ref> (verse 1).</p>
+<div type="commentary">
+         	
          	<p>The first two blocks were in reverse order in situ at the time of our visits.</p>
-         </div>
+         
+</div>
       	
 <div type="bibliography">
 
