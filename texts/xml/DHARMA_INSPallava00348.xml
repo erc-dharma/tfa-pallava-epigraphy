@@ -47,7 +47,7 @@
 			<idno/>
 		</msIdentifier>
 		<msContents>
-			<summary><bibl><ptr target="bib:ARIE1943-1945"/></bibl> (p. 26): <quote>In characters of the 9th century A.D. Records gift of land to the <foreign>taḷi-utaiyār</foreign> of Kiḷāmpākkam for celebrating a festival, evidently in the local temple.</quote> <bibl><ptr target="bib:ARIE1943-1945"/></bibl> (p. 56): <quote>A record of the 8th year of the reign of Aparājita (No. 174 of 1943-44) was found in the Tirunāgeśvara temple in Kaḷāmpākkam village. The inscription registers a provision made by the <foreign>ūravar</foreign> of the village for the performance of worship in the local temple on the days of the full moon and the new moon (<foreign>uvā</foreign>). Adjacent to this inscription, on the same wall, is a record (No. 173 of 1943-44) incised in similar characters and dated in the year 16 without mentioning the king.  It registers a donation made to the temple by a private individual for conducting a festival. It is not unlikely that this inscription also belongs to the reign of Aparājita.</quote></summary>
+			<summary>See <bibl><ptr target="bib:ARIE1943-1945"/></bibl> (p. 26): <quote>In characters of the 9th century A.D. Records gift of land to the <foreign>taḷi-utaiyār</foreign> of Kiḷāmpākkam for celebrating a festival, evidently in the local temple.</quote></summary>
 		</msContents>
 		<physDesc>
 			<handDesc>
@@ -101,9 +101,9 @@
       		
 </div>-->
       	
-<!--<div type="commentary"> 		
-	
-</div>-->
+<div type="commentary"> 		
+	<p>See <bibl><ptr target="bib:ARIE1943-1945"/></bibl> (p. 56): <quote>A record of the 8th year of the reign of Aparājita (No. 174 of 1943-44) was found in the Tirunāgeśvara temple in Kaḷāmpākkam village. The inscription registers a provision made by the <foreign>ūravar</foreign> of the village for the performance of worship in the local temple on the days of the full moon and the new moon (<foreign>uvā</foreign>). Adjacent to this inscription, on the same wall, is a record (No. 173 of 1943-44) incised in similar characters and dated in the year 16 without mentioning the king.  It registers a donation made to the temple by a private individual for conducting a festival. It is not unlikely that this inscription also belongs to the reign of Aparājita.</quote></p>
+</div>
       	
 <div type="bibliography">
 	

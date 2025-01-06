@@ -47,7 +47,7 @@
 			<idno/>
 		</msIdentifier>
 		<msContents>
-			<summary><bibl><ptr target="bib:ARIE1943-1945"/></bibl> (p. 26): <quote>Incomplete. Records gift of sheep for a lamp in the temple of Kaḷantai Nakkar by Paṅkāri Nanti Kuppaṭikaḷ of Kiḷāmpākkam which was a Cālaipuṟam in Takkōlam. It is stated at the end that the shepherds to whom the sheep were entrusted had died and that these were given to other shepherds.</quote> <bibl><ptr target="bib:ARIE1943-1945"/></bibl> (p. 56): <quote>Vayirameghavarman, another later Pallava chief whose position in the genealogy is not known, is represented by a record (No. 178 of 1943-44), also from Kaḷāmpākkam, dated in his third year. Kaḷāmpākkam is shortened into Kaḷantai in this record which registers a donation made by a resident of the village who was called Paṅkāri Nantikuppaṭikaḷ for maintaining lamps before god Śiva.</quote></summary>
+			<summary>See <bibl><ptr target="bib:ARIE1943-1945"/></bibl> (p. 26): <quote>Incomplete. Records gift of sheep for a lamp in the temple of Kaḷantai Nakkar by Paṅkāri Nanti Kuppaṭikaḷ of Kiḷāmpākkam which was a Cālaipuṟam in Takkōlam. It is stated at the end that the shepherds to whom the sheep were entrusted had died and that these were given to other shepherds.</quote></summary>
 		</msContents>
 		<physDesc>
 			<handDesc>
@@ -101,9 +101,9 @@
       		
 </div>-->
       	
-<!--<div type="commentary"> 		
-	
-</div>-->
+<div type="commentary"> 		
+	<p>See <bibl><ptr target="bib:ARIE1943-1945"/></bibl> (p. 56): <quote>Vayirameghavarman, another later Pallava chief whose position in the genealogy is not known, is represented by a record (No. 178 of 1943-44), also from Kaḷāmpākkam, dated in his third year. Kaḷāmpākkam is shortened into Kaḷantai in this record which registers a donation made by a resident of the village who was called Paṅkāri Nantikuppaṭikaḷ for maintaining lamps before god Śiva.</quote></p>
+</div>
       	
 <div type="bibliography">
 	

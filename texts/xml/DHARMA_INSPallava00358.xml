@@ -8,8 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kāñcipuram, Ekāmbaranātha, outermost <foreign>prākāra</foreign>, slab built
-					in.</title>
+            <title>Kāñcipuram, Ekāmbaranātha.</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -48,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Outermost <foreign>prākāra</foreign>, slab built in.</summary>
                </msContents>
                <physDesc>
                   <handDesc>

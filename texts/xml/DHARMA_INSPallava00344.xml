@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvoṟṟiyūr, Valmīkanātha temple, time of Aparājitavarman, year 5</title>
+				<title>Tiruvoṟṟiyūr, Valmīkanātha, time of Aparājitavarman, year 5</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,12 +47,7 @@
 			<idno/>
 		</msIdentifier>
 		<msContents>
-			<summary><bibl><ptr target="bib:ARIE1937-1938"/></bibl> (p. 24): <quote>Damaged. Registers a gift of gold by a certain Kuṭṭiyāḷi Brahmādhirājaṉ for burning a lamp in the temple.</quote> <bibl><ptr target="bib:ARIE1937-1938"/></bibl> (p. 87): <quote>The last Pallava king Aparājita is represented by a single inscription
-				(No. 165) from Tiruvoṟṟiyūr. It is dated in his 5th year and registers a gift of 30
-				<foreign>kaḻañcu</foreign>s of gold by Kuṭṭiyāḷi Brahmādhirājaṉ 
-				of Tirukkaṭavūr-nāṭu in Muṭṭukkūr-nāṭu,
-				for a perpetual lamp to the god Mahādeva at Tiruvoṟṟiyūr. It is stated
-				that the endowed amount was deposited with the <foreign>sabhā</foreign> of Maṇali, bearing interest at the rate of 3 <foreign>mañcāṭi</foreign>s per <foreign>kaḻañcu</foreign> per month, which works out at 15 per cent per annum.</quote></summary>
+			<summary>See <bibl><ptr target="bib:ARIE1937-1938"/></bibl> (p. 24): <quote>Damaged. Registers a gift of gold by a certain Kuṭṭiyāḷi Brahmādhirājaṉ for burning a lamp in the temple.</quote></summary>
 		</msContents>
 		<physDesc>
 			<handDesc>
@@ -106,9 +101,14 @@
       		
 </div>-->
       	
-<!--<div type="commentary"> 		
-	
-</div>-->
+<div type="commentary"> 		
+	<p>See <bibl><ptr target="bib:ARIE1937-1938"/></bibl> (p. 87): <quote>The last Pallava king Aparājita is represented by a single inscription
+				(No. 165) from Tiruvoṟṟiyūr. It is dated in his 5th year and registers a gift of 30
+				<foreign>kaḻañcu</foreign>s of gold by Kuṭṭiyāḷi Brahmādhirājaṉ 
+				of Tirukkaṭavūr-nāṭu in Muṭṭukkūr-nāṭu,
+				for a perpetual lamp to the god Mahādeva at Tiruvoṟṟiyūr. It is stated
+				that the endowed amount was deposited with the <foreign>sabhā</foreign> of Maṇali, bearing interest at the rate of 3 <foreign>mañcāṭi</foreign>s per <foreign>kaḻañcu</foreign> per month, which works out at 15 per cent per annum.</quote></p>
+</div>
       	
 <div type="bibliography">
 	

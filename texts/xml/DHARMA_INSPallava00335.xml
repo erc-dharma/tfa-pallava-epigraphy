@@ -47,7 +47,7 @@
 			<idno/>
 		</msIdentifier>
 		<msContents>
-			<summary><bibl><ptr target="bib:ARIE1943-1945"/></bibl> (p. 23): <quote>Engraved above and by the side of a panel of sculptures depicting heroes. Gives the names of four persons who fell while rescuing the cattle at Āḻakam.</quote></summary>
+			<summary>See <bibl><ptr target="bib:ARIE1943-1945"/></bibl> (p. 23): <quote>Engraved above and by the side of a panel of sculptures depicting heroes. Gives the names of four persons who fell while rescuing the cattle at Āḻakam.</quote></summary>
 		</msContents>
 		<physDesc>
 			<handDesc>
@@ -93,13 +93,13 @@
 	
 </div>
 
-      	<div type="apparatus">
+      	<!--<div type="apparatus">
       		
       	</div>
       	
       	<div type="translation" resp="part:emfr">
       		
-      	</div>
+      	</div>-->
       	
 <div type="commentary">
       		

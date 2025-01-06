@@ -47,16 +47,7 @@
 			<idno/>
 		</msIdentifier>
 		<msContents>
-			<summary><bibl><ptr target="bib:ARIE1939-1943"/></bibl> (p. 174): <quote>Ends of lines built in. Records gift of 1000 <foreign>kuḻi</foreign>s of land in the village of Ciṅkapura to the temples of god Tiru<unclear>mēṟ-ṟaḷi</unclear>tēvar and another (name lost) at Neṉmali for sounding music during the <foreign>śrībali</foreign> service by Cāttantai Cuttamallaṉ alias Pallavaraiyaṉ.</quote> <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (p. 230): <quote>The Pallava king Aparājita is represented by a record dated in the l0th
-				regnal year from the Vaikuṇṭhavāsa-Perumāḷ temple at Nemmali in the Tiruttani
-				division of the Chittoor District (No. 154 of 1942-43). It records a gift of land for playing musical instruments during
-				the <foreign>śrībali</foreign> ceremonies in the four temples
-				(of the place), by Cāttantai Cuttamallaṉ <hi rend="italic">alias</hi> Aṇuttirappallavaraiyaṉ of
-				Ciṅkapuram. This temple is of the apsidal type like the Viīraṭṭāṇēśvara temple
-				at Tiruttani which is close by and is known to have been raised in the time of
-				this Pallava king (S.I.I., Vol. XII, Introd. p. vii). The Vaikuṇṭhavāsa-Perumāḷ
-				temple may be taken as a representative type of late Pallava architecture, as
-				the present inscription of Aparājita is the earliest in it.</quote></summary>
+			<summary>See <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (p. 174): <quote>Ends of lines built in. Records gift of 1000 <foreign>kuḻi</foreign>s of land in the village of Ciṅkapura to the temples of god Tiru<unclear>mēṟ-ṟaḷi</unclear>tēvar and another (name lost) at Neṉmali for sounding music during the <foreign>śrībali</foreign> service by Cāttantai Cuttamallaṉ alias Pallavaraiyaṉ.</quote></summary>
 		</msContents>
 		<physDesc>
 			<handDesc>
@@ -110,9 +101,18 @@
       		
 </div>-->
       	
-<!--<div type="commentary">      		
-	
-</div>-->
+<div type="commentary">      		
+	<p>See <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (p. 230): <quote>The Pallava king Aparājita is represented by a record dated in the l0th
+				regnal year from the Vaikuṇṭhavāsa-Perumāḷ temple at Nemmali in the Tiruttani
+				division of the Chittoor District (No. 154 of 1942-43). It records a gift of land for playing musical instruments during
+				the <foreign>śrībali</foreign> ceremonies in the four temples
+				(of the place), by Cāttantai Cuttamallaṉ <hi rend="italic">alias</hi> Aṇuttirappallavaraiyaṉ of
+				Ciṅkapuram. This temple is of the apsidal type like the Viīraṭṭāṇēśvara temple
+				at Tiruttani which is close by and is known to have been raised in the time of
+				this Pallava king (S.I.I., Vol. XII, Introd. p. vii). The Vaikuṇṭhavāsa-Perumāḷ
+				temple may be taken as a representative type of late Pallava architecture, as
+				the present inscription of Aparājita is the earliest in it.</quote></p>
+</div>
       	
 <div type="bibliography">
 	

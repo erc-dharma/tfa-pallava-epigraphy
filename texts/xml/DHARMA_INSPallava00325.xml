@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary><bibl>
+						<summary>See <bibl>
 								<ptr target="bib:ARIE1937-1938"/>
 							</bibl> (p. 53): <quote>Fragment. Registers gift of a village for offerings and lamp, by Mahādēvaṭikaḷ<!--EF check orginal spelling-->, the daughter of Vāṇakōvaraiyar Siddhavaṭavaṉār<!--EF check orginal spelling--> (with the permission of her elder brother) . . . . . . yar Vayirimēkaṉār. Another fragment in the same place dated in the 7th year, probably of the same king, registers gift of gold for offerings to the god by Pullāli Cāttaṉ.</quote></summary>
 					</msContents>
@@ -105,7 +105,7 @@
       	
 <div type="commentary">
       	<p>
-		<bibl><ptr target="bib:ARIE1937-1938"/></bibl> (p. 87, §23) notes:<note>Text standardised according to DHARMA transliteration scheme..</note>
+		See <bibl><ptr target="bib:ARIE1937-1938"/></bibl> (p. 87, §23) notes:<note>Text standardised according to DHARMA transliteration scheme.</note>
 		<quote>No. 469 which is an incomplete record dated in the 5th year of Nandivarman, consists of detached
 			stones, and from it it is inferred that a certam Vayiramēkaṉār was the son of
 			Vāṇakōvaraiyar Siddhavaṭaṉār<!--EF check orginal spelling--> and was ruling in the locality and that at the

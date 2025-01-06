@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary><bibl><ptr target="bib:ARIE1937-1938"/></bibl> (p. 25): <quote>Highly damaged and incomplete. Records the formation of a colony called Vaṭukavāṇiyaccēri in the name of Vākūr-Tiruvaṭi at Niṉṟavūr in Puḻar-kōṭṭam and the rates of taxes leviable thereon.</quote> <bibl><ptr target="bib:ARIE1937-1938"/></bibl> (p. 87, §24): <quote>There are two damaged records of Nṛpatuṅga (Nos. 172 &amp; 173) dated in the 21st year from Tiṉṉaṉūr which appear to be connected with each other. No. 172 refers to the formation of a colony, composed of merchants from the Telugu country (Vaṭukavāṇiyaccēri) in the name of Vākūr-Tiruvaṭi in the vicinity of Niṉṟavūr in Puḻaṟ-kōṭṭam, and to the fixing of the rates of assessment to be collected from the settlers by the assembly of the village. The imprecation attached to the inscription states that the members of the assembly who transgressed this resolution were to be considered as having wronged their <foreign>Tiruvaṭi</foreign>. The name <foreign>Vākūr-Tiruvaṭi</foreign> occurs in the inscription at Piḷḷaippākakam mentioned in para. 22 above which is dated in the 19th year of Parāntaka I, and records the regulations relating to the election of members for the village assembly by the wards of Niṉṟavūr, a village in Puḻaṟ-kōṭṭam. <foreign>Vākūr-Tiruvaṭi</foreign> mentioned here appears to denote the ‘President of the assembly of Vākūr (?)’ and not a personal name (cf. Ep. Ind., Vol. XXII, p. 231).</quote></summary>
+						<summary>See <bibl><ptr target="bib:ARIE1937-1938"/></bibl> (p. 25): <quote>Highly damaged and incomplete. Records the formation of a colony called Vaṭukavāṇiyaccēri in the name of Vākūr-Tiruvaṭi at Niṉṟavūr in Puḻar-kōṭṭam and the rates of taxes leviable thereon.</quote></summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -93,17 +93,17 @@
 	
 </div>
 
-      	<div type="apparatus">
+      	<!--<div type="apparatus">
       		
       	</div>
       	
       	<div type="translation" resp="part:emfr">
       		
-      	</div>
+      	</div>-->
       	
-<!--<div type="commentary">
-      	
-</div>-->
+<div type="commentary">
+      	<p>See <bibl><ptr target="bib:ARIE1937-1938"/></bibl> (p. 87, §24): <quote>There are two damaged records of Nṛpatuṅga (Nos. 172 &amp; 173) dated in the 21st year from Tiṉṉaṉūr which appear to be connected with each other. No. 172 refers to the formation of a colony, composed of merchants from the Telugu country (Vaṭukavāṇiyaccēri) in the name of Vākūr-Tiruvaṭi in the vicinity of Niṉṟavūr in Puḻaṟ-kōṭṭam, and to the fixing of the rates of assessment to be collected from the settlers by the assembly of the village. The imprecation attached to the inscription states that the members of the assembly who transgressed this resolution were to be considered as having wronged their <foreign>Tiruvaṭi</foreign>. The name <foreign>Vākūr-Tiruvaṭi</foreign> occurs in the inscription at Piḷḷaippākakam mentioned in para. 22 above which is dated in the 19th year of Parāntaka I, and records the regulations relating to the election of members for the village assembly by the wards of Niṉṟavūr, a village in Puḻaṟ-kōṭṭam. <foreign>Vākūr-Tiruvaṭi</foreign> mentioned here appears to denote the ‘President of the assembly of Vākūr (?)’ and not a personal name (cf. Ep. Ind., Vol. XXII, p. 231).</quote></p>
+</div>
       	
 <div type="bibliography">
 	

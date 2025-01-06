@@ -47,16 +47,7 @@
 			<idno/>
 		</msIdentifier>
 		<msContents>
-			<summary><bibl><ptr target="bib:ARIE1943-1945"/></bibl> (p. 23): <quote>Fragment. In characters of about the 9th century A.D.</quote> <bibl><ptr target="bib:ARIE1943-1945"/></bibl> (p. 56): <quote>At Chinnanāgapūṭi, Chittoor District, was found a record (No. 133 of 1943-44)
-				of Kō-Vijaya-Narasi[ṃhavarman] incised
-				in Tamil characters of the 9th century A.D.
-				He is apparently identical with the homonynous chief figuring in the Kīḻmuttukūr
-				and Baṅgavāḍi inscriptions of the same period. In the A.R. for 1933-34, Part II, para.
-				6, a chieftain of this name whose record is engraved in Vaṭṭeḻuttu characters has
-				been assigned to the Western Gaṅga dynasty. But the reasons given there for treating
-				him as a prince of this family are not satisfactory. Until more convincing evidence
-				is found it would be safe not to connect him with any known ruling family of this period and region.
-			</quote> </summary>
+			<summary>See <bibl><ptr target="bib:ARIE1943-1945"/></bibl> (p. 23): <quote>Fragment. In characters of about the 9th century A.D.</quote></summary>
 		</msContents>
 		<physDesc>
 			<handDesc>
@@ -110,9 +101,18 @@
       		
 </div>-->
       	
-<!--<div type="commentary"> 		
-	
-</div>-->
+<div type="commentary"> 		
+	<p>See <bibl><ptr target="bib:ARIE1943-1945"/></bibl> (p. 56): <quote>At Chinnanāgapūṭi, Chittoor District, was found a record (No. 133 of 1943-44)
+				of Kō-Vijaya-Narasi[ṃhavarman] incised
+				in Tamil characters of the 9th century A.D.
+				He is apparently identical with the homonynous chief figuring in the Kīḻmuttukūr
+				and Baṅgavāḍi inscriptions of the same period. In the A.R. for 1933-34, Part II, para.
+				6, a chieftain of this name whose record is engraved in Vaṭṭeḻuttu characters has
+				been assigned to the Western Gaṅga dynasty. But the reasons given there for treating
+				him as a prince of this family are not satisfactory. Until more convincing evidence
+				is found it would be safe not to connect him with any known ruling family of this period and region.
+			</quote> </p>
+</div>
       	
 <div type="bibliography">
 	

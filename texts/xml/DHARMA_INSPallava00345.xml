@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Takkōlam, Jalanātheśvara temple, time of Aparājita, year 6</title>
+				<title>Takkōlam, Jalanātheśvara, time of Aparājita, year 6</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 			<idno/>
 		</msIdentifier>
 		<msContents>
-			<summary><bibl><ptr target="bib:IAR1970-1971"/></bibl> (p. 54): <quote>This inscription
+			<summary>See <bibl><ptr target="bib:IAR1970-1971"/></bibl> (p. 54): <quote>This inscription
 				in Tamil language and script on the <foreign>kumuda</foreign> of the north wall of the Jalanātheśvara temple
 				is dated in the sixth year in the reign of Aparājita and seems to refer to a gift of land to the
 				temple.</quote> </summary>

@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>An isolated Sanskrit word in Grantha. Found near <ref target="DHARMA_INSPallava00537">INSPallava00537</ref><!--check number-->.</summary>
+                  <summary>An isolated Sanskrit word in Grantha. Found near <ref target="DHARMA_INSPallava00361.xml">Pallava 361</ref>.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -91,15 +91,15 @@
 
 <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
          	
-	<p>
-         		<lb n="1"/><hi rend="grantha">bhuvana</hi>
-         	</p>
-		
+   <p>
+      <lb n="1"/>bhuvana
+   </p>
+   
 </div>
 
-      	<div type="apparatus">
+      	<!--<div type="apparatus">
       		
-      	</div>
+      	</div>-->
       	
       	<div type="translation" resp="part:emfr">
       		<p>world</p>

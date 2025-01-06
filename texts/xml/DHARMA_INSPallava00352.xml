@@ -47,15 +47,7 @@
 			<idno/>
 		</msIdentifier>
 		<msContents>
-			<summary><bibl><ptr target="bib:ARIE1939-1943"/></bibl> (p. 47): <quote>In characters of about the 9th century A.D. States that Kaṭṭāyakaṉ, son of Ottūraṉ, the headman of Kommai, constructed the temple and that he presented lands for its upkeep.</quote> <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (p. 230): <quote>From Sumaṅgali in the North Arcot District comes a record (No. 127
-				of 1939-40) engraved in characters of about the 9th century A.D. It is dated
-				in the 7th year of a certain Kātuppaṭṭi and records the construction of the Śiva
-				temple at the place by a certain Kaṭṭāyakaṉ, son of Ottūraṉ, the headman of
-				Kommai, who also made an endowment of land for worship therein. The
-				ldentity of Kātuppaṭṭi is uncertain. It is possible that he was connected with
-				the family of Kātuveṭṭi Muttaraca and his son Arikaṇṭa who figure as feudatories
-				in the records of Dantivarman (No. 89 of 1921) and Nṛpatunga (No. 461
-				of 1905).</quote></summary>
+			<summary>See <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (p. 47): <quote>In characters of about the 9th century A.D. States that Kaṭṭāyakaṉ, son of Ottūraṉ, the headman of Kommai, constructed the temple and that he presented lands for its upkeep.</quote></summary>
 		</msContents>
 		<physDesc>
 			<handDesc>
@@ -109,9 +101,17 @@
       		
 </div>-->
       	
-<!--<div type="commentary">      		
-	
-</div>-->
+<div type="commentary">      		
+	<p>See <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (p. 230): <quote>From Sumaṅgali in the North Arcot District comes a record (No. 127
+				of 1939-40) engraved in characters of about the 9th century A.D. It is dated
+				in the 7th year of a certain Kātuppaṭṭi and records the construction of the Śiva
+				temple at the place by a certain Kaṭṭāyakaṉ, son of Ottūraṉ, the headman of
+				Kommai, who also made an endowment of land for worship therein. The
+				ldentity of Kātuppaṭṭi is uncertain. It is possible that he was connected with
+				the family of Kātuveṭṭi Muttaraca and his son Arikaṇṭa who figure as feudatories
+				in the records of Dantivarman (No. 89 of 1921) and Nṛpatunga (No. 461
+				of 1905).</quote></p>
+</div>
       	
 <div type="bibliography">
 	

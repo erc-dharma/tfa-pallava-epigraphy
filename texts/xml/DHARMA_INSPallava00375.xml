@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Viriñcipuram, Hero-stone, no king, no year</title>
+				<title>Viriñcipuram, hero-stone, no king, no year</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 			<idno/>
 		</msIdentifier>
 		<msContents>
-			<summary><bibl><ptr target="bib:ARIE1939-1943"/></bibl> (p. 55): <quote>Highly damaged. Seems to refer to the grant of a <foreign>kannāṭu</foreign> to the hero represented, by the side of the inscription, with a bow and a dagger in his hands. The characters are of about the 10th century A.D.</quote></summary>
+			<summary>See <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (p. 55): <quote>Highly damaged. Seems to refer to the grant of a <foreign>kannāṭu</foreign> to the hero represented, by the side of the inscription, with a bow and a dagger in his hands. The characters are of about the 10th century A.D.</quote></summary>
 		</msContents>
 		<physDesc>
 			<handDesc>

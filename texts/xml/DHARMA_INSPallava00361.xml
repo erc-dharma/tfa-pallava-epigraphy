@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Isolated word.</summary>
+                  <summary>An isolated Sanskrit word in Grantha. This inscription is found near inscription <ref target="DHARMA_INSPallava00362.xml">Pallava 362</ref>. It consists in two syllables in Grantha.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -92,28 +92,26 @@
 <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
          	
 	<p>
-         		<lb n="1"/><hi rend="grantha">vikrī</hi>
+         		<lb n="1"/>vikrī
          	</p>
 	
 </div>
 
-      	<div type="apparatus">
+      	<!--<div type="apparatus">
       		
       	</div>
       	
       	<div type="translation" resp="part:emfr">
       		
-      	</div>
+      	</div>-->
       	
-      	<div type="commentary">
-      		<p>This inscription is found near DHARMAINSPallava00536<!--update <ref>-->. It consists in two syllables in Grantha.</p>
-      	</div>
+<div type="commentary"/>
       	
-         <div type="bibliography">
+<div type="bibliography">
 
             <p>
-Reported in <bibl><ptr target="bib:ARIE1959-1960"/></bibl>. Text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 361). This digital edition by Emmanuel Francis.
-            </p>
+Reported in <bibl><ptr target="bib:ARIE1959-1960"/></bibl>. Text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 361).</p>
+   <p>This revised edition by Emmanuel Francis.</p>
 
          	<listBibl type="primary">
          		

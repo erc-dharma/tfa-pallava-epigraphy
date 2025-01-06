@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tūci, Vaikuṇṭha Perumāḷ temple, time of Kampavikramavarman</title>
+				<title>Tūci, Vaikuṇṭhaperumāḷ, time of Kampavikramavarman</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 			<idno/>
 		</msIdentifier>
 		<msContents>
-			<summary><bibl><ptr target="bib:IAR1969-1970"/></bibl> (no. 39, p. 50): <quote>This incomplete inscription in Tamil language and characters of the ninth century A.D., engraved on the <foreign>tripattakumuda</foreign> of the north and south walls of the Vaikuṇṭha Perumāḷ temple, is dated in the twenty-fifth year in the reign of Pallava Vijaya-Kampavarman. It mentions Cittiramēkataṭākam in Kaliyūr-kōttam and seems to record a gift of land endowed to a deity called Irunta-Perumāṉaṭikaḷ as <foreign>devadāna</foreign> and made tax-free for conducting a festival for seven days from Vicākam to Tiruvōṇam in the month of Vaikāci every year.</quote></summary>
+			<summary>See <bibl><ptr target="bib:IAR1969-1970"/></bibl> (no. 39, p. 50): <quote>This incomplete inscription in Tamil language and characters of the ninth century A.D., engraved on the <foreign>tripattakumuda</foreign> of the north and south walls of the Vaikuṇṭha Perumāḷ temple, is dated in the twenty-fifth year in the reign of Pallava Vijaya-Kampavarman. It mentions Cittiramēkataṭākam in Kaliyūr-kōttam and seems to record a gift of land endowed to a deity called Irunta-Perumāṉaṭikaḷ as <foreign>devadāna</foreign> and made tax-free for conducting a festival for seven days from Vicākam to Tiruvōṇam in the month of Vaikāci every year.</quote></summary>
 		</msContents>
 		<physDesc>
 			<handDesc>
