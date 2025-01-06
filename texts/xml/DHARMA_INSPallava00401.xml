@@ -9,7 +9,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Intaḷūr memorial stone for a cock</title>
+				<title>Intaḷūr, memorial stone for a cock</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -121,37 +121,19 @@
       			<lb n="2" break="no"/>ṟ</rdg>
                	</app>
                	               	
-               	<app loc="3">
-               		
+               	<app loc="3">               		
                		<lem>koṟṟi</lem>
-               		
                		<rdg source="bib:Kasinathan1978_01 bib:Thamaraikannan1979_01">kotta</rdg>
-               		
                		<rdg source="bib:Makatevan1997_01 bib:Mahadevan2003_01">koṟṟi</rdg>	
                	</app>
                	               	
-               	<app loc="1">
+               	<!--<app loc="1">
                		<lem></lem>
-               		<rdg source="bib:Kasinathan1978_01"></rdg>	
-               		
-               		<rdg source="bib:Thamaraikannan1979_01"></rdg>	
-               		
-               		<rdg source="bib:Makatevan1997_01"></rdg>	
-               		
+               		<rdg source="bib:Kasinathan1978_01"></rdg>
+               		<rdg source="bib:Thamaraikannan1979_01"></rdg>
+               		<rdg source="bib:Makatevan1997_01"></rdg>
                		<rdg source="bib:Mahadevan2003_01"></rdg>
-               	</app>
-               	               	
-               	<app loc="1">
-               		<lem></lem>
-               		<rdg source="bib:Kasinathan1978_01"></rdg>	
-               		
-               		<rdg source="bib:Thamaraikannan1979_01"></rdg>	
-               		
-               		<rdg source="bib:Makatevan1997_01"></rdg>	
-               		
-               		<rdg source="bib:Mahadevan2003_01"></rdg>
-               	</app>
-               	
+               	</app>-->
                	
                </listApp>         
       	</div>
@@ -167,7 +149,7 @@
       	<div resp="part:emfr part:vagi" type="translation">
       		
       		<p n="1-2">
-      			The beautiful <supplied reason="explanation"><foreign>poṉ</foreign><note>The original text might be emended from <foreign>poṟ</foreign>, that is, <foreign>poṉ</foreign> in sandhi, to <foreign>pōr</foreign>, "fight". The translation would thus be: "the victorious in fight cock".</note></supplied> winner <supplied reason="explanation"><foreign>koṟṟi</foreign></supplied> cock <supplied reason="subaudible">of</supplied> Kīḻccēri<note>That is, the eastern quarters.</note>.
+      			The beautiful <supplied reason="explanation"><foreign>poṉ</foreign>.<note>The original text might be emended from <foreign>poṟ</foreign>, that is, <foreign>poṉ</foreign> in sandhi, to <foreign>pōr</foreign>, "fight". The translation would thus be: "the victorious in fight cock".</note></supplied> winner <supplied reason="explanation"><foreign>koṟṟi</foreign></supplied> cock <supplied reason="subaudible">of</supplied> Kīḻccēri<note>That is, the eastern quarters.</note>
       			      			
       		</p>
       		
@@ -179,7 +161,7 @@
       			This inscription is counted in the Pallava corpus, insofar as its date (6th century CE according to <bibl><ptr target="bib:Mahadevan2003_01"/></bibl>) and provenance correspond the period and the area of the Pallava rule in northern Tamil Nadu.
       		</p>
       		<p>
-      			A similar inscription, commemorating a victorious cock with a strikingly similar image of a cock, has been found at Aracalāpuram (DHARMA_INSPallava00397). The two inscriptions appears to be closely related: the present Intaḷūr inscription commemorates the fighting cock of the eastern quarters, whereas the Aracalāpuram inscription commemorates the fighting cock of the western quarters.
+      			A similar inscription (<ref target="DHARMA_INSPallava00397.xml">Pallava 397</ref>), commemorating a victorious cock with a strikingly similar image of a cock, has been found at Aracalāpuram. The two inscriptions appears to be closely related: the present Intaḷūr inscription commemorates the fighting cock of the eastern quarters, whereas the Aracalāpuram inscription commemorates the fighting cock of the western quarters.
       		</p>
       		
       		<p>
@@ -198,7 +180,7 @@ Edited in <bibl><ptr target="bib:Kasinathan1978_01"/></bibl>. Edited in <bibl><p
       		<listBibl type="primary">
       			
       			
-      			<bibl n="NK">
+      			<bibl n="K">
       				<ptr target="bib:Kasinathan1978_01"/>
       				<citedRange unit="page">86-87</citedRange>
       			</bibl>
@@ -207,13 +189,13 @@ Edited in <bibl><ptr target="bib:Kasinathan1978_01"/></bibl>. Edited in <bibl><p
       				<ptr target="bib:Thamaraikannan1979_01"/>
       			</bibl>
       			
-      			<bibl n="IM1997">
+      			<bibl n="M1997">
       				<ptr target="bib:Makatevan1997_01"/>
       				<citedRange unit="page">10-14</citedRange>
       			</bibl>
       			    
       			      			    			
-      			<bibl n="IM2003">
+      			<bibl n="M2003">
       				<ptr target="bib:Mahadevan2003_01"/>
       				<citedRange unit="item">113</citedRange>
       				<citedRange unit="page">466, 468, 530, 626-627</citedRange>
@@ -224,7 +206,7 @@ Edited in <bibl><ptr target="bib:Kasinathan1978_01"/></bibl>. Edited in <bibl><p
       		
       		<listBibl type="secondary">
       			
-      			<bibl n="KR2000">
+      			<bibl>
       				<ptr target="bib:Rajan2000_01"/>      				
       				<citedRange unit="page">65</citedRange>
       			</bibl>	      			

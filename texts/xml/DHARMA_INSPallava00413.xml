@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Toṇṭamanūr, hero-stone, time of Ciṅkaviṇṇaparumaṉ, year 30</title>
+				<title>Toṇṭamanūr, time of Ciṅkaviṇṇaparumaṉ, year 30</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Hero-stone commemorating the death of Poṉṉirevar.</summary>
+						<summary>Hero-stone inscription commemorating the death of Poṉṉirevar.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>

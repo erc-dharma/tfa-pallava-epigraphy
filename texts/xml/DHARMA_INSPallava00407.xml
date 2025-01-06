@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Hero-stone commemorating the death of Pila[yācata]ṅkaḷ during a cattle-raid.</summary>
+						<summary>Hero-stone inscription commemorating the death of Pila[yācata]ṅkaḷ during a cattle-raid.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -103,7 +103,6 @@
       		</p>
       		
       	</div>
-
       	      	
       	<div type="apparatus">
       		
@@ -152,7 +151,7 @@
          <div type="translation" resp="part:emfr">
          	
          	<p n="1-2">
-         		Nineteenth year of the victorious king Ciṅkaviṇṇaparumaṉ..<note>Sanskrit Siṁhaviṣṇuvarman.</note>
+         		Nineteenth year of the victorious king Ciṅkaviṇṇaparumaṉ.<note>Sanskrit Siṁhaviṣṇuvarman.</note>
          	</p>
          	
          	<p n="3-8">
@@ -163,7 +162,7 @@
       	
          <div type="commentary">         	
          	<p>
-         		Pālāyiriyar, ruler of Ciṟuppāl = Pālācirikar, ruler of Ciṟuppāl (INSPallava406) = Pālāciriru, the ruler of Ciṟuppāḻ (INSPallava409).
+         		Pālāyiriyar, ruler of Ciṟuppāl = Pālācirikar, ruler of Ciṟuppāl (see inscription <ref target="DHARMA_INSPallava00406.xml">Pallava 406</ref>) = Pālāciriru, the ruler of Ciṟuppāḻ (see inscription <ref target="DHARMA_INSPallava00409.xml">Pallava 409</ref>).
          		<!--Add <persName>-->
          	</p>
          </div>
@@ -182,24 +181,24 @@
 
          	<listBibl type="primary">
          		         		
-         		<bibl n="SH">
+         		<bibl n="H">
          			<ptr target="bib:Hariharan1974_01"/>
             		<citedRange unit="page">69</citedRange>
             	</bibl>
          		
-         		<bibl n="NMK">
+         		<bibl n="MK">
             		<ptr target="bib:Markciyakanti1974_01"/>         			
             		<citedRange unit="page">12</citedRange>
             		<citedRange unit="item">1972/2</citedRange>
             	</bibl>
          		
-         		<bibl n="RN">
+         		<bibl n="N">
             		<ptr target="bib:Nakacami1975_01"/>
          			<citedRange unit="item">87</citedRange>
          			<citedRange unit="item">1972/2</citedRange>
             	</bibl>         	
          		
-         		<bibl n="DD">
+         		<bibl n="D">
          			<ptr target="bib:Dayalan2005_01"/>
          			<citedRange unit="volume">3</citedRange>
          			<citedRange unit="appendix">I</citedRange>

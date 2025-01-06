@@ -102,7 +102,7 @@
       		
       	</div>
 
-         <div type="apparatus">
+<div type="apparatus">
 
          	<listApp>
          		
@@ -128,7 +128,7 @@
 
          </div>
 
-         <div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
          	
          	<p n="1">
          		Fortune!         	
@@ -144,12 +144,12 @@
 
          </div>
       	
-         <div type="commentary">
-         </div>
+<div type="commentary"/>
+         
+<div type="bibliography">
 
-         <div type="bibliography">
-
-            <p>Edited in <bibl><ptr target="bib:Cuppiramaniyan1996_01"/></bibl> (Āvaṇam 7.35), with a picture and a delineation. Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; This digital edition by Emmanuel Francis, based on previous edition(s) and published visual documentation.</p>
+            <p>Edited in <bibl><ptr target="bib:Cuppiramaniyan1996_01"/></bibl> (Āvaṇam 7.35), with a picture and a delineation. Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s) and published visual documentation.</p>
 
          	<listBibl type="primary">
          		         		

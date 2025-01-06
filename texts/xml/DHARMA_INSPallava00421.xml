@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Āṉattūr, sluice <foreign>biruda</foreign></title>
+				<title>Āṉattūr, sluice, <foreign>biruda</foreign></title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -114,14 +114,12 @@
          	        
          </div>
       	
-         <div type="commentary">
-         </div>
+<div type="commentary"/>
+         
+<div type="bibliography">
 
-         <div type="bibliography">
-
-            <p>
-Edited in <bibl><ptr target="bib:Irācavēlu1993_01"/></bibl> (Āvaṇam 3.3), with a delineation. Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p><p>This digital edition by Emmanuel Francis, based on previous edition(s) and published visual documentation.
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Irācavēlu1993_01"/></bibl> (Āvaṇam 3.3), with a delineation. Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s) and published visual documentation.</p>
 
          	<listBibl type="primary">
          		         		

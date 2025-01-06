@@ -9,7 +9,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Paṉaikkuḷam, hero-stone, time of Varman, year 12</title>
+				<title>Paṉaikkuḷam, time of Varman, year 12</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -50,7 +50,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Hero-stone set up in honour of a hero whose name is lost.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero whose name is lost.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -106,7 +106,6 @@
 		<lb n="9" break="no"/>tu pa<unclear>ṭṭā</unclear>r <unclear>pe</unclear>ṟu<unclear>ma</unclear>
 		<lb n="10" break="no"/>kkū <gap reason="lost" quantity="5" unit="character"/>
 		<lb n="11"/>ṟak<unclear>ki</unclear>
-		      			      			
 	</p>
 	
 </div>
@@ -127,11 +126,11 @@
 <div resp="part:emfr" type="translation">
       		
 	<p n="1-6">
-		Twelfth year of the victorious king Parumaṉ<note>Sanskrit Varman.</note>.
+		Twelfth year of the victorious king Parumaṉ.<note>Sanskrit Varman.</note>
 	</p>
 	
 	<p n="7-10">
-		<supplied reason="lost">This is the stone of</supplied> <gap reason="lost"/> <supplied reason="subaudible">of</supplied> Peṟumakkū<supplied reason="lost">r</supplied><note>See <bibl><ptr target="bib:ARIE1984-1985"/></bibl>: <quote>Refers to a place called Peṟu[ma]kkū[r]</quote></note>, he who died seizing <supplied reason="explanation"><foreign>eṟintu</foreign></supplied> wealth <supplied reason="explanation"><foreign>poruḷ</foreign></supplied> ...
+		<supplied reason="lost">This is the stone of</supplied> <gap reason="lost"/> <supplied reason="subaudible">of</supplied> Peṟumakkū<supplied reason="lost">r</supplied>,<note>See <bibl><ptr target="bib:ARIE1984-1985"/></bibl>: <quote>Refers to a place called Peṟu[ma]kkū[r]</quote></note> he who died seizing <supplied reason="explanation"><foreign>eṟintu</foreign></supplied> wealth <supplied reason="explanation"><foreign>poruḷ</foreign></supplied> ...
 	</p>
       		
 </div>

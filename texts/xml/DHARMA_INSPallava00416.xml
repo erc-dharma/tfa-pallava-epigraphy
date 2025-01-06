@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kalciṟunākalūr hero-stone</title>
+				<title>Kalciṟunākalūr, hero-stone</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Hero-stone commemorating the death of Kumarar <gap reason="undefined"/></summary>
+						<summary>Hero-stone inscription commemorating the death of Kumarar <gap reason="undefined"/>.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -111,7 +111,7 @@
 
          </div>-->
 
-         <div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
          	
          	<p n="1-6">
          		<supplied reason="subaudible">This is</supplied> the stone of Kumarar <gap reason="undefined"/>, he who died <gap reason="ellipsis"/>
@@ -120,23 +120,22 @@
 
          </div>
       	
-         <div type="commentary">
-         </div>
+<div type="commentary"/>
+         
 
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-Edited in <bibl><ptr target="bib:Virarakavan1999_01"/></bibl> (Āvaṇam 10.3.2). Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p><p>This digital edition by Emmanuel Francis, based on previous edition(s).
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Virarakavan1999_01"/></bibl> (Āvaṇam 10.3.2). Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 
          	<listBibl type="primary">
          		
-         		<bibl n="CV">
+         		<bibl n="V">
          			<ptr target="bib:Virarakavan1999_01"/>
          			<citedRange unit="item">3.2</citedRange>
          		</bibl>
          		          		
-         		<bibl n="DD">
+         		<bibl n="D">
          			<ptr target="bib:Dayalan2005_01"/>
          			<citedRange unit="volume">3</citedRange>
          			<citedRange unit="appendix">I</citedRange>

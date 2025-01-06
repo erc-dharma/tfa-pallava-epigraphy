@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Veppūrcekkaṭi Hero-Stone no. 2</title>
+				<title>Veppūrcekkaṭi, time of Narasiṃhavarman, year 10</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Hero-stone commemorating the death of Tācamāriyār.</summary>
+						<summary>Hero-stone inscription commemorating the death of Tācamāriyār.</summary>
 						
 					</msContents>
 					<physDesc>
@@ -89,7 +89,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:vaṭṭeḻuttu maturity:83215"><!--confirm script-->
       		
       		<p>
-      			<lb n="1"/>kō-vicaiya-naraciṅkaparumaṟk<choice><orig>i</orig><reg>u</reg></choice> yāṇṭu pattāvatu      			
+      			<lb n="1"/>kō-vicaiya-naraciṅka-parumaṟk<choice><orig>i</orig><reg>u</reg></choice> yāṇṭu patt-āvatu      			
       		</p>
       		
       		<p>      			
@@ -113,10 +113,10 @@
       		
       	</div>-->
 
-         <div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
          	
          	<p n="1">
-         		Tenth year of the victorious king Narasiṁhavarman<note>That is, Narasiṁhavarman II Pallava, according to <bibl><ptr target="bib:Kasinathan1974_01"/></bibl></note>.
+         		Tenth year of the victorious king Naraciṅkaparumaṉ.<note>Sanskrit Narasiṁhavarman, that is, Narasiṁhavarman II Pallava, according to <bibl><ptr target="bib:Kasinathan1974_01"/></bibl>.</note>
          	</p>
          	
          	<p n="2-4">
@@ -137,13 +137,13 @@ Edited in <bibl><ptr target="bib:Kasinathan1974_01"/></bibl>. Text in <bibl><ptr
 
          	<listBibl type="primary">
          		         		
-         		<bibl n="NK">
+         		<bibl n="K">
             		<ptr target="bib:Kasinathan1974_01"/>
             		<citedRange unit="page">36</citedRange>
             		<citedRange unit="item">2</citedRange>
             	</bibl>
          		
-         		<bibl n="DD">
+         		<bibl n="D">
          			<ptr target="bib:Dayalan2005_01"/>
          			<citedRange unit="volume">3</citedRange>
          			<citedRange unit="appendix">I</citedRange>

@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Lacunose inscription; undoubtedly probably a hero-stone, like others inscriptions (INSPallava406, INSPallava407 and INSPallava409) found at Puḷiyaṉūr.</summary>
+						<summary>Lacunose inscription; most probably a hero-stone, like the others inscriptions (<ref target="DHARMA_INSPallava00406.xml">Pallava 406</ref>, <ref target="DHARMA_INSPallava00407.xml">Pallava 407</ref>, <ref target="DHARMA_INSPallava004091.xml">Pallava 409</ref>) found at Puḷiyaṉūr.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -138,18 +138,18 @@
 
          	<listBibl type="primary">
          		         		
-         		<bibl n="SH">
+         		<bibl n="H">
             		<ptr target="bib:Hariharan1974_01"/>
             		<citedRange unit="page">69</citedRange>
             	</bibl>
          		
-         		<bibl n="RN">
+         		<bibl n="N">
             		<ptr target="bib:Nakacami1975_01"/>
          			<citedRange unit="item">86</citedRange>
          			<citedRange unit="item">1972/1</citedRange>
             	</bibl>
          		         		
-         		<bibl n="DD">
+         		<bibl n="D">
          			<ptr target="bib:Dayalan2005_01"/>
          			<citedRange unit="volume">3</citedRange>
          			<citedRange unit="appendix">I</citedRange>
