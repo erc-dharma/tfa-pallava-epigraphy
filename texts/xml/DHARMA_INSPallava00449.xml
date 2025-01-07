@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Ciṉṉapāḷampākkam cavern</title>
+            <title>Ciṉṉapāḷampākkam, time of Nṛpatuṅga, year 19</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,8 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary> Foundation of a temple for Siṁhanandi Bhaṭṭāra by Ciṟiyanaṅkaiyār
-							in the name of Vīrattoḻilar. </summary>
+                  <summary>Cave inscription recording the foundation of a temple for Siṁhanandi Bhaṭṭāra by Ciṟiyanaṅkaiyār in the name of Vīrattoḻilar.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -145,17 +144,18 @@
 <div type="translation" resp="part:emfr">
          	
          	<p n="1">Prosperity! Fortune!</p>
-         	<p n="1-2">Nineteenth year of the victorious king Nṛpatuṅga.</p>
+         	<p n="1-2">Nineteenth year of the victorious king Nṛpatuṅka.<note>Sanskrit Nṛpatuṅga.</note></p>
          	<p n="2-6">The glorious temple that Ciṟiya-naṅkaiyār, courtesan <supplied reason="explanation"><foreign>cūḷai-kaḷ</foreign></supplied> of the lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied> of Paṇkala-nāṭu has caused to be made for Siṁhanandi Bhaṭṭāra of the great Peṇṇākaṭam in the name of <supplied reason="explanation"><foreign>pēr-āl</foreign></supplied> of Vīra-t-toḻilar <supplied reason="explanation">"the doer of heroic deeds"</supplied>, son <supplied reason="explanation"><foreign>koṭukkar</foreign></supplied> of the lord of Paṇkala-nāṭu.</p>
 
          </div>
       	
          <div type="commentary">
-         	<p>ARIE on cūḷaikaḷ.</p><!--Update!-->
+         	<p>See ARIE on cūḷaikaḷ.</p><!--Update!-->
          </div>
 
 <div type="bibliography">
 
+   <p>Reported in <bibl><ptr target="bib:ARIE1996-1997"/></bibl> (ARIE/1996-1997/B/1996-1997/79).</p>
    <p>Edited in <bibl><ptr target="bib:Avanam"/></bibl> with facsimile (Āvaṇam 7.5). Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
    <p>This revised edition by Emmanuel Francis, based on the estampage published in <bibl><ptr target="bib:ARIE1996-1997"/></bibl>.</p>
 

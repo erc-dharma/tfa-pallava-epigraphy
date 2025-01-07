@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Eṇṇāyiram, cave, time of Nṛpatuṅga, year 2</title>
+				<title>Eṇṇāyiram, time of Nṛpatuṅga, year 2</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Donation of goats for maintaining a perpetual lamp.</summary>
+						<summary>Cave inscription recording the donation of goats for maintaining a perpetual lamp.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -139,7 +139,7 @@
          	
          </div>-->
 
-         <div type="bibliography">
+<div type="bibliography">
 
             <p>Reported in <bibl><ptr target="bib:ARIE1990-1991"/></bibl> (ARIE/1990-1991/B/1990-1991/265).</p>
          	<p>Edited in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>

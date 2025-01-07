@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kumāravāṭi, donation, time of Nṛpatuṅkavikramavarman, year 9</title>
+				<title>Kumāravāṭi, time of Nṛpatuṅkavikramavarman, year 9</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -135,7 +135,7 @@
          <div type="translation" resp="part:emfr">
          	
          	<p n="1">
-         		Ninth year of the victorious king Nṛpatuṅkavikramavarman.
+         		Ninth year of the victorious king Nirupat<orig>o</orig>ṅkavikkiramaparumaṉ.<note>Sanskrit Nṛpatuṅkavikramavarman.</note>
          	</p>
          	
          	<p n="1-2">
@@ -167,12 +167,12 @@
          	
          </div>
       	
-         <div type="commentary">
-         </div>
+<div type="commentary"/>
+         
+<div type="bibliography">
 
-         <div type="bibliography">
-
-            <p>Edited in <bibl><ptr target="bib:Tirumurtti1994_01"/></bibl> (Āvaṇam 5.2). Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+            <p>Reported in <bibl><ptr target="bib:ARIE2000-2001"/></bibl> (ARIE/2000-2001/B/2000-2001/196).</p>
+	<p>Edited in <bibl><ptr target="bib:Tirumurtti1994_01"/></bibl> (Āvaṇam 5.2). Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
          	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 
          	<listBibl type="primary">
