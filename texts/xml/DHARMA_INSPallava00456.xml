@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kāṇai Oil-Press</title>
+				<title>Kāṇai, oil-press</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -110,13 +110,11 @@
          <div type="translation" resp="part:emfr">
          	
          	<p n="1-2">
-         		The great stone oil-press <supplied reason="subaudible">of</supplied> Kāṇaiyam<gap reason="ellipsis"/> <supplied reason="subaudible">made by</supplied> the Ēḻticaiyāyiram<note>That is, "the one thousand of the seven directions", that is, a merchant guild.</note> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>yakka naṉṟeṭu<unclear>ceya</unclear></foreign></supplied></p>
+         		The great stone oil-press <supplied reason="subaudible">of</supplied> Kāṇaiyam<gap reason="ellipsis"/> <supplied reason="subaudible">made by</supplied> the Ēḻticaiyāyiram<note>That is, the one thousand of the seven directions, that is, the  name of a merchant guild.</note> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>yakka naṉṟeṭu<unclear>ceya</unclear></foreign></supplied></p>
          	
          </div>
       	
-         <div type="commentary">
-         	
-         </div>
+<div type="commentary"/>
 
 <div type="bibliography">
 

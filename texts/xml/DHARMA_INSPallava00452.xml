@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Aracampaṭṭu, foundation, time of Nandīśvaravarman</title>
+				<title>Aracampaṭṭu, time of Nandīśvaravarman, year 4</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -127,28 +127,25 @@
          	</p>
          	
          	<p n="1-2">
-         		Fourth year of the victorious king Nandīśvaravarman.
+         		Fourth year of the victorious king Nantīccuvaraparumaṉ.<note>Sanskrit Nandīśvaravarman.</note>
          	</p>
          	
          	<p n="2">
-         		The <foreign>pāḻi</foreign><note>The term <foreign>pāḻi</foreign> has several meanings according to the <hi rend="italic">Madras Tamil Lexicon</hi>, such as "temple", "hermitage", "cave, mountain cavern", "sleeping place for human beings", "small tank, pond", "flight of steps leading into a tank". This is a stone-bed according to <bibl><ptr target="bib:ARIE1996-1997"/></bibl>. In <bibl><ptr target="bib:Avanam"/></bibl> it is suggested that it is a <foreign>toṭṭi</foreign>. There are three different entries for this word in the <hi rend="italic">Madras Tamil Lexicon</hi>, with the following meanings, among others: "water-trough, tub, cistern, reservoir", "climbing nettle", "fence, yard, pound." As the inscription was found according to <bibl><ptr target="bib:ARIE1996-1997"/></bibl> <quote>on the surface of a sloping rock</quote>, it is difficult to assess which is the more appropriate referent of <foreign>pāḻi</foreign> in the present insription.</note> that the Glorious Kalikkuṟi Aracar had made.
+         		The <foreign>pāḻi</foreign><note>The term <foreign>pāḻi</foreign> has several meanings according to the <hi rend="italic">Madras Tamil Lexicon</hi>, such as: temple, hermitage, cave, mountain cavern, sleeping place for human beings, small tank, pond, flight of steps leading into a tank. This is a stone-bed according to <bibl><ptr target="bib:ARIE1996-1997"/></bibl>. In <bibl><ptr target="bib:Avanam"/></bibl> it is suggested that it is a <foreign>toṭṭi</foreign>. There are three different entries for this word in the <hi rend="italic">Madras Tamil Lexicon</hi>, with the following meanings, among others: water-trough, tub, cistern, reservoir; climbing nettle; fence, yard, pound. As the inscription was found according to <bibl><ptr target="bib:ARIE1996-1997"/></bibl> <quote>on the surface of a sloping rock</quote>, it is difficult to assess which is the more appropriate referent of <foreign>pāḻi</foreign> in the present insription.</note> that the Glorious Kalikkuṟi Aracar had made.
          	</p>
          	
          	<p n="3">
-         		The glorious Mallaṉ Tukkili<note>This is the name of the stone-bed according to <bibl><ptr target="bib:ARIE1996-1997"/></bibl>.</note>
+         		The glorious Mallaṉ Tukkili.<note>This is the name of the stone-bed according to <bibl><ptr target="bib:ARIE1996-1997"/></bibl>.</note>
          	</p>
          	
          </div>
       	
-         <div type="commentary">
-         	
-         </div>
+<div type="commentary"/>
+      	
+<div type="bibliography">
 
-         <div type="bibliography">
-
-            <p>
-Edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 7.4). Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p><p>This digital edition by Emmanuel Francis, based on previous edition(s).
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 7.4). Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 
          	<listBibl type="primary">
          		         		

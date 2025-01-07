@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Cāram, donation, time of Nṛpatuṅka, year 25</title>
+            <title>Cāram, time of Nṛpatuṅka, year 25</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -125,7 +125,7 @@
                Prosperity! Fortune!</p>
             
             <p n="1">
-               Year twenty-five of the victorious king Nṛpatuṅka.</p>
+               Year twenty-five of the victorious king Nṛpatuṅkaṉ<name>Sanskrit Nṛpatuṅka.</name></p>
             
             <p n="1-3">
                The rice, <supplied reason="subaudible">that is</supplied>, four <foreign>uri</foreign>s<note>That is, a measure of capacity.</note> in vessels <supplied reason="explanation"><foreign>caruvappānai</foreign><note>That is, a specific type of vessel, a shallow wide-mouthed vessel, according to the <hi rend="italic">Madras Tamil Lexicon</hi>.</note></supplied> that Perunampi Nākarāyaṉ, one among the Nampimārs of Cāram, has given in the hand of the temple chief-priest <supplied reason="explanation"><foreign>taḷiyuṭaiyār</foreign></supplied> is protected without failure <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>aṭum</foreign></supplied> by the ūr <supplied reason="explanation"><foreign>ūrum</foreign><note>That is, the assembly of village delegates. Here, grammatically, subject of <foreign>ra<hi rend="grantha">kṣi</hi>ppatu</foreign>, whereas <foreign>arici</foreign> is the object of  <foreign>ra<hi rend="grantha">kṣi</hi>ppatu</foreign>.</note></supplied>.

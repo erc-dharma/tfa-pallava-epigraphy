@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Vallam, donation, time of unknown king, unknown year</title>
+				<title>Vallam, time of [name lost], year [lost]</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -126,8 +126,7 @@
 	
 </div>
 			
-<div type="translation" resp="part:emfr">
-	
+<div type="translation" resp="part:emfr">	
 		
 	<p><gap reason="lost" extent="unknown" unit="line"/></p>
 	
@@ -141,19 +140,14 @@
 				
 </div>      	
 			
-<div type="commentary">
-				
-	
-				
-</div>
+<div type="commentary"/>
 			
 <div type="bibliography">
 				
 	<p>Summary and facsimile in <bibl><ptr target="bib:IAR2003-2004"/></bibl>.</p>
-	<p>This revised edition by Emmanuel Francis, based on the published facsimile.</p>
+	<p>This edition by Emmanuel Francis, based on the published facsimile.</p>
 	
-	<!--<listBibl type="primary">			
-		
+	<!--<listBibl type="primary">
 		
 		</listBibl>-->
 	
