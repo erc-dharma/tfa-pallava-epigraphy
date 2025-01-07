@@ -173,12 +173,12 @@ Edited in <bibl><ptr target="bib:Patmavati1980_03"/></bibl>. Text in <bibl><ptr 
 
          	<listBibl type="primary">
          		         		
-         		<bibl n="IN">
+         		<bibl n="P">
             		<ptr target="bib:Patmavati1980_02"/>
             		<citedRange unit="item">398/1978</citedRange>
             	</bibl>
          		
-         		<bibl n="DD">
+         		<bibl n="D">
          			<ptr target="bib:Dayalan2005_01"/>
          			<citedRange unit="volume">3</citedRange>
          			<citedRange unit="appendix">I</citedRange>

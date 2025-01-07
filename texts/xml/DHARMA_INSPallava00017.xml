@@ -53,7 +53,7 @@
 						<handDesc>
 							<p>Sanskrit: ...</p>
 							<p>Tamil: ...</p>
-							<p>See <bibl n="S"><ptr target="bib:Subramaniam1959_01"/><citedRange unit="page">45ff.</citedRange></bibl>
+							<p>See <bibl><ptr target="bib:Subramaniam1959_01"/><citedRange unit="page">45ff.</citedRange></bibl>
 							</p>
 						</handDesc>
 					</physDesc>

@@ -467,19 +467,19 @@
 
             <listBibl type="primary">
             	           	
-            	<bibl n="GB1892">
+            	<bibl n="EI">
             		<ptr target="bib:Buehler1892_01"/>
             	</bibl>            	
             	
-            	<bibl n="EL">
+            	<bibl n="L">
             		<ptr target="bib:Leumann1894_01"/>
             	</bibl> 
             	
-            	<bibl n="GB1894">
+            	<bibl n="B">
             		<ptr target="bib:Buehler1894_05"/>
             	</bibl> 
             	
-            	<bibl n="DCS">
+            	<bibl n="S">
             		<ptr target="bib:Sircar1965_02"/>
             		<citedRange unit="page">457-461</citedRange>
             	</bibl>

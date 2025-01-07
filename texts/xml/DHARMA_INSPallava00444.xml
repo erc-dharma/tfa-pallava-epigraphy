@@ -152,7 +152,7 @@
 
 <div type="bibliography">
 
-   <p>Edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 5.1). Text in <bibl n="DD"><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+   <p>Edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 5.1). Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
    <p>This revised edition by Emmanuel Francis, based on photos (2009).</p>
 
             <listBibl type="primary">
@@ -163,7 +163,7 @@
             		<citedRange unit="item">1</citedRange>
             	</bibl>
             	
-            	<bibl n="DD">
+            	<bibl n="D">
             		<ptr target="bib:Dayalan2005_01"/>
             		<citedRange unit="volume">3</citedRange>
             		<citedRange unit="appendix">I</citedRange>

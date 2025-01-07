@@ -262,8 +262,7 @@
 
       				<app loc="11">
       					<lem>°satra°</lem>
-      					<note>Editors generally correct the text to °satya°. This appears unnecessary as both readings are attested in other inscriptions and both are meaningful. See <bibl n="EF">
-            		<ptr target="bib:Francis2013_03"/><citedRange unit="page">138-139</citedRange></bibl></note>
+      					<note>Editors generally correct the text to °satya°. This appears unnecessary as both readings are attested in other inscriptions and both are meaningful. See <bibl><ptr target="bib:Francis2013_03"/><citedRange unit="page">138-139</citedRange></bibl></note>
 
       				</app>
 
@@ -421,7 +420,7 @@ Note the recurrent unstandard forms with <foreign>diśi</foreign>.
 
             <listBibl type="primary">
 
-            	<bibl n="JFF">
+            	<bibl n="F">
             		<ptr target="bib:Fleet1876_02"/>
             	</bibl>
 
@@ -441,11 +440,11 @@ Note the recurrent unstandard forms with <foreign>diśi</foreign>.
 
             <listBibl type="secondary">
 
-            	<bibl n="GB">
+            	<bibl>
             		<ptr target="bib:Buehler1892_01"/>
             	</bibl>
 
-            	<bibl n="EF">
+            	<bibl>
             		<ptr target="bib:Francis2013_01"/>
             		<citedRange unit="item">IR 7</citedRange>
             	</bibl>

@@ -160,7 +160,7 @@
 
             	<listBibl type="primary">
         		
-            		<bibl n="MDS">
+            		<bibl n="S">
             			<ptr target="bib:Sampath1968_01"/>
             			<citedRange unit="page">162</citedRange>
             		</bibl>
@@ -171,7 +171,7 @@
             			<citedRange unit="note">1</citedRange>
             		</bibl>
             		
-            		<bibl n="DD">
+            		<bibl n="D">
             			<ptr target="bib:Dayalan2005_01"/>
             			<citedRange unit="page">1280</citedRange>
             			<citedRange unit="item">45</citedRange>

@@ -179,10 +179,10 @@
    
    <listBibl type="primary">
 
-            	<bibl n="EH">
+            	<bibl n="EI">
             		<ptr target="bib:Hultzsch1896-1897_06"/>            		
             	</bibl>
-            	<bibl n="PSF">
+            	<bibl n="F">
             		<ptr target="bib:Filliozat1984_01"/>
             		<citedRange unit="page">104-105</citedRange>
             	</bibl>
