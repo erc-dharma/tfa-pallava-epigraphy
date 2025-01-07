@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Iḷaiyanallūr, donation, time of Nandivikramavarman</title>
+            <title>Iḷaiyanallūr, time of Nandivikramavarman, year 22</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -117,24 +117,24 @@
             
          </div>
       	
-         <div type="apparatus">
+         <!--<div type="apparatus">
 
-         	<!--<listApp>
+         	<listApp>
          		
          		<app loc="0">
          			<lem></lem>
          			<rdg source="bib:"></rdg>
          		</app>         		
          		
-         	</listApp>-->
+         	</listApp>
 
-         </div>
+         </div>-->
 
          <div type="translation" resp="part:emfr">
             
             
             <p n="1-4">
-               Twenty-second year of the victorious king Nandivikramavarman.</p>
+               Twenty-second year of the victorious king Nantivikkiramaparumaṉ.<note>Sanskrit Nandivikramavarman.</note></p>
             
             <p n="4-12">
                The <supplied reason="subaudible">land named</supplied> Mumūlaippaṭi <supplied reason="subaudible">in</supplied> Iḷayaṉūr, <supplied reason="subaudible">made</supplied> tax-free, <gap reason="ellipsis"/> is that which <gap reason="ellipsis"/> Viṇṇikkiṭiyar <gap reason="ellipsis"/> has given for water and fire.
@@ -146,12 +146,11 @@
          	
          </div>
       	
-         <div type="commentary">
-         	
-         </div>
+<div type="commentary"/>
 
 <div type="bibliography">
 
+   <p>Reported in <bibl><ptr target="bib:ARIE1992-1993"/></bibl> (ARIE/1992-1993/B/1992-1993/324).</p>
    <p>Edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 5.1). Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
    <p>This revised edition by Emmanuel Francis, based on photos (2009).</p>
 

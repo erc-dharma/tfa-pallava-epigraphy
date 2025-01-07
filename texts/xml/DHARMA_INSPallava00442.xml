@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Ōṅkūr, sluice, time of Nandivikramavarman, year 14</title>
+				<title>Ōṅkūr, time of Nandivikramavarman, year 14</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -141,11 +141,9 @@
 
          </div>
       	
-         <div type="commentary">
-         	
-         </div>
-
-         <div type="bibliography">
+<div type="commentary"/>
+      	
+<div type="bibliography">
 
             <p>Reported in <bibl><ptr target="bib:ARIE1990-1991"/></bibl> (ARIE/1990-1991/B/1990-1991/257).</p>
          	<p>Edited in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>

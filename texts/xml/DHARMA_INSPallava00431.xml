@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kāṇāṅkāṭu, hero-stone, time of Indravarman, year 15</title>
+				<title>Kāṇāṅkāṭu, time of Indravarman, year 15</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Hero-stone commemorating the death of Ātaṉ.</summary>
+						<summary>Hero-stone inscription commemorating the death of Ātaṉ.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -124,7 +124,7 @@
          <div type="translation" resp="part:emfr">
          
          	<p n="1-3">
-         		Fifteenth <supplied reason="subaudible">year</supplied> of the victorious king Indravarman.
+         		Fifteenth <supplied reason="subaudible">year</supplied> of the victorious king Intiraparumaṉ.<note>Sanskrit Indravarman.</note>
          	</p>
          	
          	<p n="4-10">

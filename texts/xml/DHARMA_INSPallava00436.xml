@@ -9,7 +9,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Aṇaikkaṭṭu, foundation, time of Tantippōttaraiyar, year 14</title>
+				<title>Aṇaikkaṭṭu, time of Tantippōttaraiyar, year 14</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -141,7 +141,7 @@
 	</p>
 	
 	<p n="1-2">
-		Fourteenth <supplied reason="subaudible">year</supplied> of Tantippōttaraiyar<note>Sanskrit Dantin + Tamil Pōttaraiyar.</note>.
+		Fourteenth <supplied reason="subaudible">year</supplied> of Tantippōttaraiyar.<note>Sanskrit Dantin + Tamil Pōttaraiyar. That is, the Pallava king Dantin.</note>
 	</p>
 	
 	<p n="3-4">
@@ -157,11 +157,7 @@
 	</p>
 </div>
       	
-<!--<div type="commentary">
-      		
-	<p/>
-	
-</div>-->
+<div type="commentary"/>
 	
 <div type="bibliography">
       		

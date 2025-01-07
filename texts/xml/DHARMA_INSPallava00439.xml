@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kalciṟunākalūr, donation, time of Nantippōttaraiyar, year 6</title>
+				<title>Kalciṟunākalūr, time of Nantippōttaraiyar, year 6</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -105,7 +105,7 @@
       		
       	</div>
 
-         <div type="apparatus">
+<div type="apparatus">
 
          	<listApp>
          		
@@ -120,14 +120,14 @@
 
          </div>
 
-         <div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
          	
          	<p n="1">
          		Fortune!       	
          	</p>
          	
          	<p n="1-3">
-         		Sixth year of Nantippōttaraiyar.
+         		Sixth year of Nantippōttaraicar.<note>Sanskrit Nandin + Tamil Pōttaraicar. That is, the Pallava king Dantin.</note>
          	</p>
          	
          	<p n="3-6">
@@ -136,14 +136,14 @@
 
          </div>
       	
-         <div type="commentary">
-         </div>
+<div type="commentary"/>
+         
+<div type="bibliography">
 
-         <div type="bibliography">
-
-            <p>
-Edited in <bibl><ptr target="bib:Virarakavan1999_02"/></bibl> (Āvaṇam 10.8), with a picture. Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>; encoded and translated hereby Emmanuel Francis, based on previous edition(s).
-            </p>
+            <p>Reported in <bibl><ptr target="bib:ARIE2000-2001"/></bibl> (ARIE/2000-2001/B/2000-2001/5187).</p>
+   
+	<p>Edited in <bibl><ptr target="bib:Virarakavan1999_02"/></bibl> (Āvaṇam 10.8), with a picture. Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 
          	<listBibl type="primary">
          		         		

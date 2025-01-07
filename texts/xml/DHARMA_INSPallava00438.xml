@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cēṅkālipuram, donation, time of Nandivikramavarman, year 3</title>
+				<title>Cēṅkālipuram, time of Nandivikramavarman, year 3</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -140,7 +140,7 @@
          	</p>
          	
          	<p n="1-4">
-         		Third year of the victorious king Nandivikramavarman.
+         		Third year of the victorious king Nantivikramapanmaṉ.<note>Sanskrit Nandivikramavarman.</note>
          	</p>
          	
          	<p n="4-6">
@@ -156,7 +156,7 @@
          	</p>  
          	
          	<p n="9">
-         		This<note>It is not clear if the inscription is lacunose or if this word has been engraved by mistake.</note>.
+         		This.<note>It is not clear if the inscription is lacunose or if this word has been engraved by mistake.</note>
          	</p>  
 
          </div>

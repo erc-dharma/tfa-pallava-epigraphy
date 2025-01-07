@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Teṉmaṅkalam dedication of sculpture</title>
+				<title>Teṉmaṅkalam, dedication of sculpture</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -113,15 +113,13 @@
          	</p>
          </div>
       	
-         <div type="commentary">
+<div type="commentary"/>
          	
-         </div>
+<div type="bibliography">
 
-         <div type="bibliography">
-
-            <p>
-Edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 10.5). Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p><p>This digital edition by Emmanuel Francis, based on previous edition(s).
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 10.5). Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+	
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 
          	<listBibl type="primary">
          		         		

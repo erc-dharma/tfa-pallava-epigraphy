@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cāṇaṅkuppam Hero-Stone no. 1</title>
+				<title>Cāṇaṅkuppam, time of Nandivikramavarman, year 12</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Hero-stone commemorating the death of Viṉaiyittaṉ and donation in honour of the deceased hero.</summary>
+						<summary>Hero-stone inscription commemorating the death of Viṉaiyittaṉ and donation in honour of the deceased hero.</summary>
 
 					</msContents>
 					<physDesc>
@@ -159,21 +159,20 @@
       				<rdg source="bib:Rajavelu1994_01">miṇa
       			<lb n="8" break="no"/>l</rdg>
       				<note><ptr target="bib:Rajavelu1994_01"/> however comments on <foreign>miṇṭal</foreign> in his introduction to his edition.</note>
-      			</app> 	
-      			
+      			</app> 
       			
       		</listApp>
       		
       	</div>
 
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
       		<p n="1">
       			<supplied reason="lost">Prosperity!</supplied> Fortune!
       		</p>
       		
       		<p n="1-2">
-      			Twelfth year of the victorious king Nandivikramavarman.
+      			Twelfth year of the victorious king Nantivikkiramaparumaṉ.<note>Sanskrit Nandivikramavarman.</note>
       		</p>
       		
       		<p n="2-7">
@@ -189,19 +188,19 @@
       		</p>
       		
       		<p n="14">
-      			He who destroys<note>That is, “harms”.</note> this <supplied reason="subaudible">donation</supplied> <supplied reason="lost">he will go to</supplied> <unclear>hell ?</unclear> <supplied reason="explanation"><foreign>nara</foreign><note>That is, a lacunose form of <foreign>narakam</foreign>.</note></supplied>.
+      			He who destroys<note>That is, harms.</note> this <supplied reason="subaudible">donation</supplied> <supplied reason="lost">he will go to</supplied> <unclear>hell ?</unclear> <supplied reason="explanation"><foreign>nara</foreign><note>That is, a lacunose form of <foreign>narakam</foreign>.</note></supplied>.
       		</p>
       		
       	</div>
       	
-         <div type="commentary">
-         	
-         	         	
-         </div>
+<div type="commentary"/>
+         
 
 <div type="bibliography">
 
-	<p>Edited in <bibl><ptr target="bib:Rajavelu1994_01"/></bibl> (JESI no. 20.16). Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1992-1993"/></bibl> (ARIE/1992-1993/B/1992-1993/315).</p>
+   
+	<p>Edited in <bibl><ptr target="bib:Rajavelu1994_01"/></bibl> (JESI 20.16). Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
 	<p>This revised edition by Emmanuel Francis, based on photos (2009).</p>
 	
 	<listBibl type="primary">

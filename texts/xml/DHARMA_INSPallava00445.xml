@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvaiyāṟu, donation, time of Nantippōttaraiyar, no year</title>
+				<title>Tiruvaiyāṟu, time of Nantippōttaraiyar, no year</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -245,7 +245,7 @@
          	</p>
          	
          	<p n="2-6">
-         		The gold that Nantippōttaraiyar, who vanquished at Teḷḷāṟu, has given for the Mahādeva of Tiruvaiyāṟu.
+         		The gold that Nantippōttaraiyar,<note>Sanskrit Nandin + Tamil Pōttaraiyar. That is, the Pallava king Nandin.</note>. who vanquished at Teḷḷāṟu, has given for the Mahādeva of Tiruvaiyāṟu.
          	</p>
          	
          	<p n="6-12">
@@ -258,18 +258,19 @@
 
          </div>
       	
-         <div type="commentary">
+<div type="commentary">
          	<p>Note on the identification of Nantippōttaraiyar, who vanquished at Teḷḷāṟu, contra 
          		<bibl n="S">
             		<ptr target="bib:Swaminathan1995_01"/>
             	</bibl>.</p>
          </div>
 
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-Edited in <bibl><ptr target="bib:Tiyakaracan1994_01"/></bibl> (Āvaṇam 4.1). Edited, in transliteration, without diacritics for alveolar consonants, with substantial variant readings, in <bibl><ptr target="bib:Swaminathan1995_01"/></bibl>. Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p><p>This digital edition by Emmanuel Francis, based on previous edition(s).
-            </p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1995-1996"/></bibl> (ARIE/1995-1996/B/1995-1996/107).</p>
+	
+	<p>Edited in <bibl><ptr target="bib:Tiyakaracan1994_01"/></bibl> (Āvaṇam 4.1). Edited, in transliteration, without diacritics for alveolar consonants, with substantial variant readings, in <bibl><ptr target="bib:Swaminathan1995_01"/></bibl>. Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 
          	<listBibl type="primary">
          		         		

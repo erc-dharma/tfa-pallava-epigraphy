@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Akaḷūr Hero-Stone</title>
+				<title>Akaḷūr, time of Vijayāditya</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Hero-stone commemorating the death of Kampaiyaṉār.</summary>
+						<summary>Hero-stone inscription commemorating the death of Kampaiyaṉār.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -145,7 +145,7 @@
       		</p><!--Update-->
       		
       		<p>
-      			See DHARMA_INSPallava00084<!--update!-->.
+      			See also inscription <ref target="DHARMA_INSPallava00084.xml">Pallava 84</ref>.
       		</p>
       		<p>
       			It is not clear which edition is to be taken as reference. Sampath or Dayalan? It is not clear if Dayalan had a fresh reading of the inscription or simply edited the previous editions.
@@ -155,7 +155,9 @@
 
 <div type="bibliography">
 
-            <p>Edited in <bibl><ptr target="bib:Sampath1968_01"/></bibl>. Text and translation in <bibl><ptr target="bib:Mahalingam1988_01"/><citedRange unit="page" >282</citedRange><citedRange unit="note">1</citedRange></bibl> (footnote at IP 84). Edited in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+            <p>Reported in <bibl><ptr target="bib:ARIE1968-1969"/></bibl> (ARIE/1968-1969/B/1968-1969/258).</p>
+   
+	<p>Edited in <bibl><ptr target="bib:Sampath1968_01"/></bibl>. Text and translation in <bibl><ptr target="bib:Mahalingam1988_01"/><citedRange unit="page" >282</citedRange><citedRange unit="note">1</citedRange></bibl> (footnote at IP 84). Edited in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
 	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 
             	<listBibl type="primary">
