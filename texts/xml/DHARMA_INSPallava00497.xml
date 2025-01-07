@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruneṭuṅkalam, donation, time of Tantippōttaraiyaṉ, year 2</title>
+				<title>Tiruneṭuṅkalam, time of Tantippōttaraiyaṉ, year 2</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -151,7 +151,7 @@
          	</p>
          	
          	<p n="1-2">
-         		Second year of Tantippōttaraiyaṉ<note>That is, the Pallava king Dantivarman.</note>.	
+         		Second year of Tantippōttaraiyaṉ.<note>Sanskrit Dantin + Tamil Pōttaraiyaṉ. That is, the Pallava king Dantivarman.</note>.	
          	</p>
          	
          	<p n="2-6">

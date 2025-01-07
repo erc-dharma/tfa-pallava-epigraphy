@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Māraṉēri, donation, time of Nṛpatuṅkavikramavarman, year 24</title>
+				<title>Māraṉēri, time of Nṛpatuṅkavikramavarman, year 24</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -93,7 +93,7 @@
       		<p>
       			kō-vicaiya
       			<lb n="2" break="no"/><supplied reason="lost">ya-ni</supplied>rupatuṅka-vi
-      			<lb n="3" break="no"/><supplied reason="lost">kkira</supplied>ma-paṉ·makk<choice><orig>i</orig><reg>u</reg></choice>
+      			<lb n="3" break="no"/><supplied reason="lost">kkira</supplied>ma-paṉ·ma<reg>r</reg>kk<choice><orig>i</orig><reg>u</reg></choice>
       			<lb n="4"/><supplied reason="lost">yā</supplied>ṇṭu <num value="24"><unclear>2 <g type="numeral">10</g> 4</unclear></num> Irupa	
       			<lb n="5" break="no"/><supplied reason="lost">ttu</supplied> nāṉ·k-āvatu
       		</p>
@@ -122,7 +122,6 @@
       		</p>
       		
       		<p>
-      			
       			Itu kā
       			<lb n="21" break="no"/><supplied reason="lost">ttāṉ a</supplied>ti Eṉ· ṟalai mē
       			<lb n="22" break="no"/><supplied reason="lost">laṉa</supplied>
@@ -182,7 +181,7 @@
          	</p>
          	
          	<p n="2-55">
-         		Twenty-fourth (24) year of the victorious king Nṛpatuṅkavikramavarman.
+         		Twenty-fourth (24) year of the victorious king Nirupatuṅkavikkiramapaṉmar.<note>Sanskrit Nṛpatuṅkavikramavarman.</note>
          	</p>
          	
          	<p n="6-15">
@@ -199,14 +198,13 @@
          	         	         	
          </div>
       	
-         <div type="commentary">
-         </div>
+<div type="commentary"/>
+         
+<div type="bibliography">
 
-         <div type="bibliography">
-
-            <p>
-Edited in <bibl><ptr target="bib:Cankar2012_01"/></bibl> (Āvaṇam 23.4), with a photo of estampage.</p><p>This digital edition by Emmanuel Francis, based on previous edition(s) and published visual documentation.
-            </p>
+            <p>Reported in <bibl><ptr target="bib:ARIE2018-2019"/></bibl> (ARIE/2018-2019/B/2018-2019/356).</p>
+	<p>Edited in <bibl><ptr target="bib:Cankar2012_01"/></bibl> (Āvaṇam 23.4), with a photo of estampage.</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s) and published visual documentation.</p>
 
          	<listBibl type="primary">
          		         		

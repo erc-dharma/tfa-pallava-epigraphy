@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Hero-stone erected in honour of Ceruvaliyār, son of Nāyakar Ataṭṭiyār.</summary>
+                  <summary>Hero-stone inscription commemorating the death of a hero (Nāyakar Ataṭṭiyār) and recording a land donation to his son Ceruvaliyār.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -97,19 +97,19 @@
 </ab>
 <p>
 	<lb n="2" style="text-align: left"/>kōvicaiya-nanti-vikkira<unclear>m</unclear>
-	<lb n="3" break="no"/>ma-parumark<choice><orig>i</orig><reg>u</reg></choice> yāṇṭu patiṉēḻava
+	<lb n="3" break="no"/>ma-parumaṟk<choice><orig>i</orig><reg>u</reg></choice> yāṇṭu patiṉēḻ-āva
 	<lb n="4" break="no"/>tu
 </p>
 <p>
 	pal-kuṉrā-k-kōṭṭattu maṇṭaikuḷa-nā
-	<lb n="5" break="no"/>ṭṭu-c curaikkuḷattu-t toṟu-k-kōḷil
+	<lb n="5" break="no"/>ṭṭu-c curai-k-kuḷattu-t toṟu-k-kōḷil
 	<lb n="6"/>ppaṭṭ<unclear>ā</unclear>r nilam peṟṟ<choice><unclear>u</unclear><unclear>a</unclear></choice> nāyakar Ataṭ
 	<lb n="7" break="no"/>ṭiyār makaṉār ceruvaliyār
 </p> 
 
 </div>
 
-         <div type="apparatus">
+<div type="apparatus">
 
          	<listApp>
          		<app loc="5">
@@ -120,10 +120,10 @@
 
          </div>
 
-         <div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
          	
 <p n="1">Prosperity! Fortune!</p>
-<p n="2-4">Year twenty-seven of the victorious king Nandivikramavarman.</p>
+<p n="2-4">Year twenty-seven of the victorious king Nantivikkiramaparumaṉ.<note>Sanskrit Nandivikramavarman.</note></p>
 <p n="4-7">Ceruvaliyār, son of Nāyakar Ataṭṭiyār, who fell in a cattle-raid at Curaikkuḷam in the Palkuṉrākkōṭṭam <supplied reason="explanation">and</supplied> in the Maṇṭaikuḷanāṭu, obtained a land.</p>
 
          </div>
@@ -133,7 +133,7 @@
 
 <div type="bibliography">
 
-            <p>Reported in <bibl><ptr target="bib:ARIE2018-2019"/></bibl> with facsimile.</p>
+            <p>Reported in <bibl><ptr target="bib:ARIE2018-2019"/></bibl> (ARIE/2018-2019/B/2018-2019/371), with facsimile.</p>
             <p>This digital edition by Emmanuel Francis, based on the facsimile published in <bibl><ptr target="bib:ARIE2018-2019"/></bibl>.</p>
                         	            	
             <listBibl type="secondary">

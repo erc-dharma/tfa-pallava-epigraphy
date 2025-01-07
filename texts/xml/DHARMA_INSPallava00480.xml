@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Koḷappākkam, donation, time of Vijaya-Mahārāja, year (8)</title>
+            <title>Koḷappākkam, time of the <foreign>mahārāja</foreign>, year <unclear>8</unclear></title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -102,7 +102,7 @@
             <p> puliyūr-k-kōṭṭattu-p pērūr-nāṭṭu
                <lb n="3"/>kuḷappākka-kiḻāṉ nātaṉ <unclear>tēva</unclear>
                <lb n="4" break="no"/><unclear>ṉ Iv</unclear>-vūr-t tiru-va<hi rend="grantha">ha</hi>sti<hi rend="grantha">sva</hi>rattu ma<hi rend="grantha">hā</hi>tēvaṟkku Ā
-               <lb n="5"/>cantira-kālamum nicamum matyāṉatt’ oru tiru-v-amirtuk
+               <lb n="5" break="no"/>-cantira-kālamum nicamum matyāṉatt’ oru tiru-v-amirtuk
                <lb n="6" break="no"/>ku vaitta pūmi tūmpeṉappaṭṭikku mērki
                <lb n="7" break="no"/>ṟ kāṭṭu kuḷakkollai Iru-nūṟṟ’ aimpatu ku
                <lb n="8" break="no"/>ḻi

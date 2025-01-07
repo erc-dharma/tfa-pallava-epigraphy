@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Hero-stone commemorating the death of Cāmi.</summary>
+						<summary>Hero-stone inscription commemorating the death of Cāmi.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -114,20 +114,18 @@
          <div type="translation" resp="part:emfr">
          	
          	<p n="1-6">
-         		<supplied reason="subaudible">This is</supplied> the stone of Cāmi, the son of Kampāṭaru <gap reason="undefined"/>, he who died seizing cattle<gap reason="ellipsis"/>
+         		<supplied reason="subaudible">This is</supplied> the stone of Cāmi, the son of Kampāṭaru <gap reason="undefined"/>, he who died seizing cattle <gap reason="ellipsis"/>
          	
          	</p>
 
          </div>
       	
-         <div type="commentary">
-         </div>
+<div type="commentary"/>
+         
+<div type="bibliography">
 
-         <div type="bibliography">
-
-            <p>
-Edited in <bibl><ptr target="bib:Virarakavan1999_01"/></bibl> (Āvaṇam 10.3.1).</p><p>This digital edition by Emmanuel Francis, based on previous edition(s).
-            </p>
+            <p>Edited in <bibl><ptr target="bib:Virarakavan1999_01"/></bibl> (Āvaṇam 10.3.1).</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 
          	<listBibl type="primary">
          		

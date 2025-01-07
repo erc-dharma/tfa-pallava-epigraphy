@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Vallam, foundation</title>
+				<title>Vallam, foundation by the daughter of Lakka Cōmāciyār</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -94,7 +94,7 @@
       		
       	</div>
 
-         <div type="apparatus">
+<div type="apparatus">
 
          	<listApp>
          		
@@ -112,8 +112,7 @@
          			<lem>tē<unclear>va</unclear>kulam</lem>
          			<rdg source="bib:Iracavel+Cesattiri2000_01">tēvakulam</rdg>
          			<note/>
-         		</app>  
-         			
+         		</app>
          		
          	</listApp>
 
@@ -122,19 +121,18 @@
          <div type="translation" resp="part:emfr">
          	
          	<p n="1-2">
-         		The temple <supplied reason="explanation"><foreign>tēvakulam</foreign></supplied> <choice><unclear>of</unclear><unclear>founded by</unclear></choice> the daughter of Lakka Cōmāciyār.
+         		The temple <supplied reason="explanation"><foreign>tēvakulam</foreign></supplied> <supplied reason="subaudible">of/founded</supplied> by the daughter of Lakka Cōmāciyār.
          	</p> 
          	
-         </div>
+</div>
       	
-         <div type="commentary">
-         </div>
+<div type="commentary"/>
+         
+<div type="bibliography">
 
-         <div type="bibliography">
-
-            <p>
-Edited in <bibl><ptr target="bib:Iracavel+Cesattiri2000_01"/></bibl>.</p><p>This digital edition by Emmanuel Francis, based on previous edition(s).
-            </p>
+            <p>Reported in <bibl><ptr target="bib:ARIE2000-2001"/></bibl> (ARIE/2000-2001/B/2000-2001/429).</p>
+	<p>Edited in <bibl><ptr target="bib:Iracavel+Cesattiri2000_01"/></bibl>.</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 
          	<listBibl type="primary">
          		         		

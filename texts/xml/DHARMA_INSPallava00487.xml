@@ -115,8 +115,7 @@
 
          </div>
 
-         <div type="translation" resp="part:emfr">
-            
+<div type="translation" resp="part:emfr">
             
             <p n="1">
                Prosperity! Fortune!</p>
@@ -140,16 +139,11 @@
             		<ptr target="bib:Avanam"/>
             		<citedRange unit="volume">20 (2009)</citedRange>
             		<citedRange unit="item">2</citedRange>
-            	</bibl>
-            	
-            	    	            		
+            	</bibl>		
             	
             </listBibl>
 
-            <!--<listBibl type="secondary">
-            	
-            	
-            	
+            <!--<listBibl type="secondary">            	
            </listBibl>-->
 
          </div>

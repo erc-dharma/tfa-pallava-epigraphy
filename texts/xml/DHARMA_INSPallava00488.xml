@@ -8,8 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kāñcīpuram, Kailāsanātha, Mahendravameśvaragṛha, temple-name on southern
-					string wall, time of Mahendravarman (1/2)</title>
+            <title>Kāñcīpuram, temple-name, time of Mahendravarman</title>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:sybr">
@@ -52,7 +51,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Name of a temple.</summary>
+                  <summary>Kailāsanātha, Mahendravameśvaragṛha, on southern string wall. Name of a temple.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -91,6 +90,7 @@
          <change who="part:emfr" when="2020-06-28" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
+   
    <text xml:space="preserve">
       <body>
 
@@ -102,12 +102,9 @@
       		
       	</div>
 
-      	<div type="apparatus">
+<div type="apparatus"/>
       		   		
-      		
-         </div>
-
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
       		<p n="1">The temple of the Lord of Mahendravarman.</p>
       		      		

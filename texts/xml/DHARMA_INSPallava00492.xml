@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kāṭṭumalaiyaṉūr, time of Nandīśvara, year 6[?]</title>
+				<title>Kāṭṭumalaiyaṉūr, time of Nandīśvara, year 6[.]</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -55,7 +55,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Hero-stone. Records the death of a hero.</summary>
+						<summary>HHero-stone inscription commemorating the death of a hero.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -110,7 +110,7 @@
 	
          </div>
 
-      	<div type="apparatus">
+<div type="apparatus">
       		
       		<listApp><app loc="1">
       			<lem><choice><unclear>o</unclear><unclear>e</unclear></choice>	
@@ -130,10 +130,10 @@
       		
       	</div>
 
-      	<div type="translation" resp="part:emfr part:vagi">
+<div type="translation" resp="part:emfr part:vagi">
       		
       		<p n="1-2">
-      			Sixty-<gap reason="ellipsis"/> year of the victorious king Nandīśvara.
+      			Sixty-<gap reason="ellipsis"/> year of the victorious king Nanticcuvara.<note>Sanskrit Nandīśvara.</note>
       		</p>
       		
       		<p n="2-5">
@@ -141,30 +141,27 @@
       		</p>
       		
       	</div>
-      	
-         <div type="translation" xml:lang="fra" resp="part:emfr part:vagi">
-         	
-         </div>
 
 <div type="commentary"/>      		      		
       	
 <div type="bibliography">
 
-            <p>Reported in <ptr target="bib:ARIE2018-2019"/> (ARIE/2018-2019/B/2018-2019/363).</p>
-	<p>This edition by Emmanuel Francis &amp; Valérie Gillet , based on photos.           	
-            </p>         	
+            <p>Reported in <bibl><ptr target="bib:ARIE2018-2019"/></bibl> (ARIE/2018-2019/B/2018-2019/363).</p>
+	<p>Reported in <ptr target="bib:ARIE2018-2019"/> (ARIE/2018-2019/B/2018-2019/363).</p>
+	<p>This edition by Emmanuel Francis &amp; Valérie Gillet , based on photos.</p>         	
             	        	
-        	<listBibl type="secondary">
-      			
-      			<bibl n="ARIE">
-      				<ptr target="bib:ARIE2018-2019"/>
-      				<citedRange unit="page">83</citedRange>
-      				<citedRange unit="appendix">B/2018-2019</citedRange>
-      				<citedRange unit="item">363</citedRange>
-      			</bibl>
-      		</listBibl>
-
-         </div>
+	<listBibl type="secondary">
+		
+		<bibl n="ARIE">
+			<ptr target="bib:ARIE2018-2019"/>
+			<citedRange unit="page">83</citedRange>
+			<citedRange unit="appendix">B/2018-2019</citedRange>
+			<citedRange unit="item">363</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+</div>
 
       </body>
   </text>
