@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Taccūr, foundation inscription by the Bāṇa queen Satī</title>
+				<title>Taccūr, time of the Bāṇa queen Satī</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>...</summary>
+						<summary>Foundation inscription by the Bāṇa queen Satī.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>

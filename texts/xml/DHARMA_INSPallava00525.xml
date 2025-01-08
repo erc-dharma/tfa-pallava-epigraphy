@@ -83,24 +83,25 @@
 			<change who="part:emfr" when="2021-02-08" status="draft">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
-	<text xml:space="preserve">
+	
+<text xml:space="preserve">
       
-      <body>
+<body>
          
-      	<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       		
-      		<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-      			<lb n="1"/><hi rend="grantha">śrī</hi>
-      			
-      		</ab>
-      		<lg n="1" met="āciriyaviruttam">
-      			<l n="1">kaṇ·ṭār kāṇā-v ulakattiṟ· kātal-a cey<supplied reason="omitted">·</supplied>tu nillātē<surplus>y</surplus></l> 
-      			<l n="2">paṇ·ṭē<surplus>y</surplus> paramaṉ paṭait·ta nāḷ pārttu niṉ·ṟu naiyyātē<surplus>y·</surplus></l>
-      			<l n="3"><lb n="2"/>taṇ·ṭ’ ār· mūp<unclear>·</unclear>pu van·t’ uṉ·ṉai-t· taḷara-c· cey·tu nillā muṉ·<surplus>ṉ</surplus></l>
-      			<l n="4">uṇ·ṭ’ ēl<surplus>l</surplus> uṇ<unclear>·</unclear>ṭu mik<unclear>·</unclear>katu Ulakam·<surplus>m</surplus> aṟiya vaim<unclear>·</unclear>miṉ<surplus>·</surplus>ē<surplus>y</surplus></l>
-      		</lg>
-      		
-      	</div>
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<lb n="1"/><hi rend="grantha">śrī</hi>
+		
+	</ab>
+	<lg n="1" met="āciriyaviruttam">
+		<l n="1">kaṇ·ṭār kāṇā-v ulakattiṟ· kātal-a cey<supplied reason="omitted">·</supplied>tu nillātē<surplus>y</surplus></l> 
+		<l n="2">paṇ·ṭē<surplus>y</surplus> paramaṉ paṭait·ta nāḷ pārttu niṉ·ṟu naiyyātē<surplus>y·</surplus></l>
+		<l n="3"><lb n="2"/>taṇ·ṭ’ ār· mūp<unclear>·</unclear>pu van·t’ uṉ·ṉai-t· taḷara-c· cey·tu nillā muṉ·<surplus>ṉ</surplus></l>
+		<l n="4">uṇ·ṭ’ ēl<surplus>l</surplus> uṇ<unclear>·</unclear>ṭu mik<unclear>·</unclear>katu Ulakam·<surplus>m</surplus> aṟiya vaim<unclear>·</unclear>miṉ<surplus>·</surplus>ē<surplus>y</surplus></l>
+	</lg>
+	
+</div>
          
          <div type="apparatus">
 

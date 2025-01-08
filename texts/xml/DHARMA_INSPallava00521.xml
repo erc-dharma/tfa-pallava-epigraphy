@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cāḷuvaṉ Kuppam, pillar, time of Nṛpatuṅga, year 13</title>
+				<title>Cāḷuvaṉ Kuppam, time of Nṛpatuṅga, year 13</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Fragment. Regnal year only.</summary>
+						<summary>Pillar inscription. Fragment. Regnal year only.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -138,7 +138,7 @@
 	
 	<p n="1">Prosperity! Fortune!</p>
 	
-	<p n="1-4">Thirteenth year of Nṛpatuṅga.</p>
+	<p n="1-4">Thirteenth year of Nṛpatuṅkaṉ<note>Sanskrit Nṛpatuṅga.</note></p>
 	
 	<p n="4"><gap reason="lost"/></p>
 			

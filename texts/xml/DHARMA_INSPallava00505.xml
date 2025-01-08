@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cāḷuvaṉ Kuppam, pillar, time of Nantippōttaraiyaṉ, year 12</title>
+				<title>Cāḷuvaṉ Kuppam, time of Nantippōttaraiyaṉ, year 12</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Donation of gold for providing food a the time of the Karttikai
+						<summary>Pillar inscription recording a donation of gold for providing food a the time of the Karttikai
 							festival in Tiruviḻicil.</summary>
 					</msContents>
 					<physDesc>
@@ -190,7 +190,7 @@
 	
 	<p n="1">Prosperity! Fortune!</p>
 	
-	<p n="1-4">Twelfth year of Nantippōttaraiyaṉ.</p>
+	<p n="1-4">Twelfth year of Nantippōttaraiyaṉ.<note>Sanskrit Nandin + Tamil Pōttaraiyar. That is, the Pallava king Nandin.</note></p>
 	
 	<p n="5-13">
 		Kīraippiriyaṉ of the <unclear>glorious</unclear> Māmallapuram		
@@ -207,9 +207,7 @@
 	
       	</div>
       	
-<!--<div type="commentary">
-      		
-      	</div>-->
+<div type="commentary"/>
       	
 <div type="bibliography">
 
@@ -218,13 +216,13 @@
 	
 	<listBibl type="primary">
 		
-		<bibl n="R1">
+		<bibl n="I">
 			<ptr target="bib:Irajavel2006_01"/>
 			<citedRange unit="page">127-128</citedRange>			
 			<citedRange unit="item">1</citedRange>	
 		</bibl>	
 		
-		<bibl n="R2">
+		<bibl n="R">
 			<ptr target="bib:Rajavelu2008_01"/>
 			<citedRange unit="page">181-182</citedRange>			
 			<citedRange unit="item">1</citedRange>

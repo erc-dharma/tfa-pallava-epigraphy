@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Eṭuttaṉūr label on hero-stone, time of Mahendravarman, year 34</title>
+				<title>Eṭuttaṉūr, time of Mahendravarman, year 34</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the fight of a dog during a cattle-raid.</summary>
+						<summary>Label to a figure represented on a hero-stone. See inscription<ref target="DHARMA_INSPallava00284.xml">Pallava 284</ref> for the hero-stone inscription on the same slab, after which the date of this label is conjectured.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -112,16 +112,13 @@
 
          </div>
 
-      	<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
       		<p n="1-7"><supplied reason="subaudible">This is</supplied> the way that the dog named Kōvivaṉ has bitten two thieves and kept guard <supplied reason="subaudible">against them</supplied>.</p>
       		      		   		
       	</div>
 
-
-<div type="commentary">
-         	<p>See DHARMA_INSPallava00284 <!--update cross-ref--> for the hero-stone inscription on the same slab, after which the date of this label is conjectured.</p>
-         </div>
+<div type="commentary"/>
 
 <div type="bibliography">
 
@@ -151,7 +148,7 @@
         			<citedRange unit="item">40</citedRange>
         		</bibl>
         		
-        		<bibl n="RN">
+        		<bibl n="N">
         			<ptr target="bib:Nagaswamy1980_02"/><!--Check ZST-->
         			<citedRange unit="plate">23</citedRange>
         		</bibl>

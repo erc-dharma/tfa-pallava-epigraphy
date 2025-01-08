@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cāḷuvaṉ Kuppam, pillar, no king, no year</title>
+				<title>Cāḷuvaṉ Kuppam, no king, no year</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Donation of gold for offering food during a festival.</summary>
+						<summary>Pillar inscription recording a donation of gold for offering food during a festival.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>

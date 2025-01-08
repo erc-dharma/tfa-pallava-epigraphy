@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cāḷuvaṉ Kuppam, pillar, time of Kampavarman, year 18</title>
+				<title>Cāḷuvaṉ Kuppam, time of Kampavarman, year 18</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Donation of gold for upkeeping a perpetual lamp.</summary>
+						<summary>Pillar inscription recording a donation of gold for maintaining a perpetual lamp.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -145,7 +145,6 @@
 			<rdg source="bib:Badhreenath2015_01">cuprama<lb n="11" break="no"/>ṇya paṭārarkku</rdg>
 		</app>
 		
-		
 	</listApp>
 	
 </div>
@@ -154,7 +153,7 @@
 	
 	<p n="1">Prosperity! Fortune!</p>
 	
-	<p n="2-3">Eighteenth year of Kampavarman.</p>
+	<p n="2-3">Eighteenth year of Kampavarmaṉ.<note>Sanskrit Kampavarman.</note></p>
 	
 	<p n="4-12">
 		<supplied reason="subaudible">There are</supplied> ten <foreign>kaḻañcu</foreign>s of gold that
@@ -167,7 +166,6 @@
 	<p n="12-16">
 		We, the members of the assembly, have become those who will ...
 	</p>
-	
 			
       	</div>
       	
@@ -178,17 +176,17 @@
 <div type="bibliography">
 
 	<p>Edited in <bibl><ptr target="bib:Irajavel2006_01"/></bibl> (Āvaṇam 17.23.3), in <bibl><ptr target="bib:Rajavelu2008_01"/></bibl>, in <ptr target="bib:Badhreenath2015_01"/>. Both editions count 17 lines of text, but the photo published in <bibl><ptr target="bib:Rajavelu2008_01"/></bibl> (fig. 4, p. 180) shows that there is no missing line 8.</p>
-	<p>This digital edition by Emmanuel Francis, based on a photo published in <bibl><ptr target="bib:Rajavelu2008_01"/></bibl> (fig. 4, p. 180) and, otherwise, on the previous editions, none sufficiently reliable. The distinction between vowel <foreign>akṣara</foreign>s and markers, and between Grantha and Tamil letters, cannot be implemented with full confidence. The present digital edition is thus provisional and should be revised with proper visual documentation.<!--quantity of gap to be assessed--></p>
+	<p>This revised edition by Emmanuel Francis, based on a photo published in <bibl><ptr target="bib:Rajavelu2008_01"/></bibl> (fig. 4, p. 180) and, otherwise, on the previous editions, none sufficiently reliable. The distinction between vowel <foreign>akṣara</foreign>s and markers, and between Grantha and Tamil letters, cannot be implemented with full confidence. The present digital edition is thus provisional and should be revised with proper visual documentation.<!--quantity of gap to be assessed--></p>
 	
 	<listBibl type="primary">
 		
-		<bibl n="R1">
+		<bibl n="I">
 			<ptr target="bib:Irajavel2006_01"/>
 			<citedRange unit="page">129</citedRange>			
 			<citedRange unit="item">3</citedRange>	
 		</bibl>	
 		
-		<bibl n="R2">
+		<bibl n="R">
 			<ptr target="bib:Rajavelu2008_01"/>
 			<citedRange unit="page">183</citedRange>			
 			<citedRange unit="item">3</citedRange>
@@ -199,8 +197,6 @@
 			<citedRange unit="page">152-153</citedRange>
 			<citedRange unit="item">4</citedRange>
 		</bibl>
-		
-		
 		
 	</listBibl>
 	

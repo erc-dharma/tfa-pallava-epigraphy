@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Pāppampāṭi, hero-stone no. 2</title>
+				<title>Pāppampāṭi, time of Viṇṇappērēṉati</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Hero-stone commemorating the death of Koṟṟantai Kōṭaṉ.</summary>
+						<summary>Hero-stone inscription commemorating the death of Koṟṟantai Kōṭaṉ.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -94,7 +94,6 @@
       			<lb n="4"/>ṉ kal	
       		</p>
       		
-      		
       	</div>
 
          <!--<div type="apparatus">
@@ -110,24 +109,24 @@
 
          </div>-->
 
-         <div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
          	
          	<p n="1-4">
          		<supplied reason="subaudible">This is</supplied> the stone of Koṟṟantai Kōṭaṉ, the servant of Viṇṇappērēṉati.
          	</p>
          	
-         </div>
+</div>
       	
-         <div type="commentary">
-         	         	<p>On the same slab, two heroes (Viṇṇapērēṉāti and Koṟṟantai Kōṭaṉ, servant of Viṇṇapērēṉāti), each with his own representation and with his own inscription. See DHARMA_INSPallava00529.</p>
+<div type="commentary">
+         	         	<p>On the same slab, two heroes (Viṇṇapērēṉāti and Koṟṟantai Kōṭaṉ, servant of Viṇṇapērēṉāti), each with his own representation and with his own inscription. See inscription <ref target="DHARMA_INSPallava00529.xml">Pallava 529</ref>.</p>
 
          </div>
 
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-Edited in <bibl><ptr target="bib:Nagaswamy1971_02"/></bibl>, with photo of the estampage. Edited in <bibl><ptr target="bib:Krishnan1985_01"/></bibl> (EI 39.33A.II). Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p><p>This digital edition by Emmanuel Francis, based on previous edition(s) and published visual documentation.
-            </p>
+            <p>Reported in <bibl><ptr target="bib:ARIE1967-1968"/></bibl> (ARIE/1967-1968/B/1967-1968/243).</p>
+	<p>Edited in <bibl><ptr target="bib:Nagaswamy1971_02"/></bibl>, with photo of the estampage. Edited in <bibl><ptr target="bib:Krishnan1985_01"/></bibl> (EI 39.33A.II). Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s) and published visual documentation.</p>
 
          	<listBibl type="primary">
          		         		

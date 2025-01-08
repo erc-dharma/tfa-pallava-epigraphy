@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Ciṉṉayyāṉ Pēṭṭai, hero-stone, time of Kampavarman (?), year 6</title>
+				<title>Ciṉṉayyāṉ Pēṭṭai, time of Kampavarman (?), year 6</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Hero-stone commemorating the death of hero.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -124,9 +124,9 @@
       	<div type="translation" resp="part:emfr">
       		
       		<p n="1-2">
-      			Sixth year of Kampavarman<note><foreign>kampōtaArki</foreign> in the original text, that is, Kampavarman according to <bibl><ptr target="bib:Nakacami1972_01"/></bibl>.</note></p>
+      			Sixth year of Kampavarman.<note><foreign>kampōtaArki</foreign> in the original text, that is, Kampavarman according to <bibl><ptr target="bib:Nakacami1972_01"/></bibl>.</note></p>
       		<p n="2-6">
-      			Cākāṭacciṟṟaṉ, who lives <supplied reason="explanation"><foreign>vāḻum</foreign><note>Or rather, "who you used to live", if Cākāṭacciṟṟaṉ is indeed the commemorated dead hero.</note></supplied> in <supplied reason="explanation"><foreign>iruntu</foreign><note>Literally: being.</note></supplied> Puḷiyūr in Mīkoṉṟaināṭu, having run battle at the time <supplied reason="subaudible">enemies<note>Cākāṭacciṟṟaṉ could also grammaticaly be the subject of <foreign>koṇṭa</foreign>, but it does make much sense that he seized buffaloes from his village of residence. Alternatively, on could consider that Cākāṭacciṟṟaṉ is the one who attacked Puḷiyūr and that a hero, whose name is lost in the lacuna, living in Puḷiyūr, died on this occasion. In that cas <foreign>vāḻum</foreign> would not qualify Cākāṭacciṟṟaṉ.</note></supplied> seized buffaloes <supplied reason="subaudible">of/in</supplied> Puḷiyūr <gap reason="ellipsis"/> <supplied reason="explanation">mē maṇikkala</supplied> <gap reason="undefined"/> <supplied reason="undefined">died</supplied>.
+      			Cākāṭacciṟṟaṉ, who lives <supplied reason="explanation"><foreign>vāḻum</foreign><note>Or rather, “who you used to live,” if Cākāṭacciṟṟaṉ is indeed the commemorated dead hero.</note></supplied> in <supplied reason="explanation"><foreign>iruntu</foreign><note>Literally: being.</note></supplied> Puḷiyūr in Mīkoṉṟaināṭu, having run battle at the time <supplied reason="subaudible">enemies<note>Cākāṭacciṟṟaṉ could also grammaticaly be the subject of <foreign>koṇṭa</foreign>, but it does make much sense that he seized buffaloes from his village of residence. Alternatively, on could consider that Cākāṭacciṟṟaṉ is the one who attacked Puḷiyūr and that a hero, whose name is lost in the lacuna, living in Puḷiyūr, died on this occasion. In that cas <foreign>vāḻum</foreign> would not qualify Cākāṭacciṟṟaṉ.</note></supplied> seized buffaloes <supplied reason="subaudible">of/in</supplied> Puḷiyūr <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>mē maṇikkala</foreign></supplied> <gap reason="undefined"/> <supplied reason="undefined">died</supplied>.
       		</p>
       		
       		<p n="7">
@@ -138,7 +138,7 @@
          	
 <div type="bibliography">
 
-            <p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/58); not included in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl>.</p>
+            <p>Edited in <bibl><ptr target="bib:Nakacami1972_01"/></bibl> (CN 1971/58). Not included in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl>.</p>
 	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
          	
             	<listBibl type="primary">

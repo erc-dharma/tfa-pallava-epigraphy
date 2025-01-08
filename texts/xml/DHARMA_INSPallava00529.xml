@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Pāppampāṭi, hero-stone no. 1</title>
+				<title>Pāppampāṭi, time of Bāṇavarman</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Hero-stone commemorating the death of Viṇṇappērēṉati.</summary>
+						<summary>Hero-stone inscription commemorating the death of Viṇṇappērēṉati.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -98,10 +98,9 @@
       			<lb n="8" break="no"/>r-ēṉāti kal      			
       		</p>
       		
-      		
       	</div>
 
-         <div type="apparatus">
+<div type="apparatus">
 
          	<listApp>
          		
@@ -151,23 +150,23 @@
 
          </div>
 
-         <div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
          	
          	<p n="1-8">
-         		<supplied reason="subaudible">This is</supplied> the stone of Viṇṇappērēṉati who ruled Vicaiyamaṅkalam, son of Uḷamuṇukaṉ, servant of Vāṇaparumayaraicar.
+         		<supplied reason="subaudible">This is</supplied> the stone of Viṇṇappērēṉati who ruled Vicaiyamaṅkalam, son of Uḷamuṇukaṉ, servant of the king Vāṇaparumaṉ <supplied reason="explanation"><foreign>vāṇaparumayaraicaru</foreign><note>Sanskrit Bāṇavarman.</note></supplied>.
          	</p>
          	
          </div>
       	
-         <div type="commentary">
-         	<p>On the same slab, two heroes (Viṇṇapērēṉāti and Koṟṟantai Kōṭaṉ, servant of Viṇṇapērēṉāti), each with his own representation and with his own inscription. See DHARMA_INSPallava00530.</p>
+<div type="commentary">
+         	<p>On the same slab, two heroes (Viṇṇapērēṉāti and Koṟṟantai Kōṭaṉ, servant of Viṇṇapērēṉāti), each with his own representation and with his own inscription. See inscription <ref target="DHARMA_INSPallava00530.xml">Pallava 530</ref>.</p>
          </div>
 
          <div type="bibliography">
 
-            <p>
-Edited in <bibl><ptr target="bib:Nagaswamy1971_02"/></bibl>, with photo of the estampage. Edited in <bibl><ptr target="bib:Krishnan1985_01"/></bibl> (EI 39.33A.I), with photo of the estampage. Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p><p>This digital edition by Emmanuel Francis, based on previous edition(s) and published visual documentation.
-            </p>
+            <p>Reported in <bibl><ptr target="bib:ARIE1967-1968"/></bibl> (ARIE/1967-1968/B/1967-1968/243).</p>
+         	<p>Edited in <bibl><ptr target="bib:Nagaswamy1971_02"/></bibl>, with photo of the estampage. Edited in <bibl><ptr target="bib:Krishnan1985_01"/></bibl> (EI 39.33A.I), with photo of the estampage. Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+         	<p>This digital edition by Emmanuel Francis, based on previous edition(s) and published visual documentation.</p>
 
          	<listBibl type="primary">
          		         		

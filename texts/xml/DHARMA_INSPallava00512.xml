@@ -96,24 +96,25 @@
 	
 </div>
 
-      	<div type="apparatus">
+      	<!--<div type="apparatus">
       		
-      	</div>
+      	</div>-->
       	
-      	<div type="translation" resp="part:emfr">
-      		
-      	</div>
+<div type="translation" resp="part:emfr">
+      	<p>...</p>	
+</div>
+         
+<div type="commentary">
+   <p>This inscription is found near the inscription <ref target="INSPallava00362.xml">Pallava 362</ref>. It consists in three Grantha syllables.</p>
+   <p>See <bibl><ptr target="bib:ARIE1959-1960"/></bibl>: <quote>...</quote></p>
+</div>
       	
-      	<div type="commentary">
-      		<p>This inscription is found near <ref target="INSPallava00362.xml">INSPallava00362</ref>. It consists in three Grantha syllables.</p>
-      	</div>
-      	
-         <div type="bibliography">
+<div type="bibliography">
            
-            <p>
-Reported in <bibl><ptr target="bib:ARIE1959-1960"/></bibl>; reported by <bibl><ptr target="bib:Mahalingam1988_01"/><citedRange unit="page">761</citedRange><citedRange unit="note">1</citedRange></bibl>. This digital edition by Emmanuel Francis.
-            </p>
-         	<listBibl type="primary">
+   <p>Reported in <bibl><ptr target="bib:ARIE1959-1960"/></bibl> (ARIE/1959-1960/B/1959-1960/265), in <bibl><ptr target="bib:Mahalingam1988_01"/><citedRange unit="page">761</citedRange><citedRange unit="note">1</citedRange></bibl>.</p>
+   <p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
+         	
+   <listBibl type="primary">
          		
          		<bibl n="IP">
          			<ptr target="bib:Mahalingam1988_01"/>
