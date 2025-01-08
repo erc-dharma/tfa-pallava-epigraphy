@@ -446,7 +446,7 @@
 
             <listBibl type="primary">
 
-            	<bibl n="TNS1959">
+            	<bibl n="TNS">
             		<ptr target="bib:Subramaniam1959_01"/>
             	</bibl>
 
@@ -454,7 +454,7 @@
             		<ptr target="bib:Zvelebil1964_01"/>
             	</bibl>
             	
-            	<bibl n="TNS">
+            	<bibl n="TPC">
             		<ptr target="bib:Subrahmanian1966_01"/>
             	</bibl>
 

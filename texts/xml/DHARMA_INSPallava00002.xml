@@ -92,7 +92,7 @@
 		<head xml:lang="eng">Seal</head>
 		
 		<p>
-			<lb n="1"/>śivaska<supplied reason="lost">davarmmaṇaḥ</supplied> 
+			<lb n="1"/>śivaska<supplied reason="lost">ndavarmmaṇaḥ</supplied> 
 		</p>
 		
 	</div>
@@ -219,8 +219,8 @@
 		<listApp>
 			
 			<app loc="1">
-				<lem>śivaska<supplied reason="lost">davarmmaṇaḥ</supplied></lem>
-				<rdg source="bib:Hultzsch1900-1901_01">śivaska<unclear>davarmmaṇaḥ</unclear></rdg>
+				<lem>śivaska<supplied reason="lost">ndavarmmaṇaḥ</supplied></lem>
+				<rdg source="bib:Hultzsch1900-1901_01">śivaska<unclear>ndavarmmaṇaḥ</unclear></rdg>
 				<note><ptr target="bib:Hultzsch1900-1901_01"/> quotes the description of the seal by Venkayya: <quote>The seal bears in relief an animal couchant and facing the proper right—apparently a bull, as it has a hump on its back—and below it, the legend <foreign>śivaska[ndavarmmaṇaḥ?]</foreign> in an alphabet which appears to be slightly different from that of the inscription. The bull and the legend are enclosed in a circle which is partially preserved.</quote></note>
 			</app>
 			
@@ -342,7 +342,7 @@ translation (Ep. Ind. Vol. I, p. 8).</note> and for increasing <supplied reason=
 
 	<div type="textpart" xml:lang="pra-Latn" n="B">
 		<head xml:lang="eng">Seal</head>
-		<p n="1">De Śivaska<supplied reason="lost">ndavarman</supplied></p>
+		<p n="1">De Śivaska<supplied reason="lost">ndavarman</supplied>.</p>
 	</div>
 	
 	
