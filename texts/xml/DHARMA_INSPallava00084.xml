@@ -124,8 +124,7 @@
                
                <app loc="1">
                   <lem>-vicaya-</lem>
-                  <rdg source="bib:Sampath1968_01">°vijaya°</rdg>
-                  <rdg source="bib:Mahalingam1988_01"/>
+                  <rdg source="bib:Sampath1968_01 bib:Mahalingam1988_01">°vijaya°</rdg>
                   <rdg source="bib:Dayalan2005_01">°vicaiya°</rdg>      				
                </app>
                
@@ -219,7 +218,7 @@
             
             <listBibl type="primary">
                
-               <bibl n="MDS">
+               <bibl n="S">
                   <ptr target="bib:Sampath1968_01"/>
                   <citedRange unit="page">161</citedRange>
                </bibl>

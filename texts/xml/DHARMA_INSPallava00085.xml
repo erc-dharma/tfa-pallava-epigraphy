@@ -120,7 +120,7 @@ In the fiftieth <supplied reason="subaudible">year</supplied> of Nandippōttarac
          
 <div type="translation" resp="part:emfr">
       
-<p>Fiftieth <supplied reason="subaudible">year</supplied> of Nantippōttaracar.<note>That is, the Pallava king Nandivarman.</note></p>
+<p>Fiftieth <supplied reason="subaudible">year</supplied> of Nantippōttaracar.<note>Sanskrit Nandin + Tamil Pōttaraicar. That is, the Pallava king Nandivarman.</note></p>
 <p>Nāraṇaṉ,<note>Sanskrit Nārāyaṇa.</note> son of Maruttuvar of Pukaḻālaimaṅkalam, caused to be engraved <supplied reason="subaudible">this</supplied> image of Poṉṉiyakkiyār accompanied with <supplied reason="explanation">irukka</supplied> the Preceptor Nākaṇandi.</p>
 
 </div>
@@ -137,12 +137,11 @@ In the fiftieth <supplied reason="subaudible">year</supplied> of Nandippōttarac
          
 <div type="bibliography">
             
-   <p>
-      Edited in <bibl><ptr target="bib:Venkayya1896-1897_01"/></bibl> (EI 4.14), with facsimile and English translation. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 85).
-   </p>
-   <p>
-      This revised edition by Emmanuel Francis, based on the facsimile published in <bibl><ptr target="bib:Venkayya1896-1897_01"/></bibl>.
-   </p>
+   <p>Reported in <bibl><ptr target="bib:ARIE1894-1895"/></bibl> (ARIE/1894-1895/B/1895/10).</p>
+    
+   <p>Edited in <bibl><ptr target="bib:Venkayya1896-1897_01"/></bibl> (EI 4.14), with facsimile and English translation. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 85).</p>
+   
+   <p>This revised edition by Emmanuel Francis, based on the facsimile published in <bibl><ptr target="bib:Venkayya1896-1897_01"/></bibl>.</p>
             
 	<listBibl type="primary">
 		
@@ -151,7 +150,7 @@ In the fiftieth <supplied reason="subaudible">year</supplied> of Nandippōttarac
 			<citedRange unit="item">85</citedRange>
 			<citedRange unit="page"/>
 		</bibl>
-		<bibl n="VV">
+		<bibl n="EI">
 			<ptr target="bib:Venkayya1896-1897_01"/>
 			<citedRange unit="item">A</citedRange>
 			<citedRange unit="page">136-137</citedRange>

@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Paiyaṉūr, rock inscription, time of Nandivikramavarman, year 37</title>
+            <title>Paiyaṉūr, time of Nandivikramavarman, year 37</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,8 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Decision of the Kaṇaṭṭārs of Payiṉūr concerning a donation by the
-							merchant Nākaṉ of Uḻakkuṇi, residing at Māmallapuram.</summary>
+                  <summary>Rock inscription recording the decision of the Kaṇaṭṭārs of Payiṉūr concerning a donation by the merchant Nākaṉ of Uḻakkuṇi, residing at Māmallapuram.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -139,14 +138,14 @@
       		      		
       	</div>
 
-      	<div type="apparatus">
-      	</div>
+      	<!--<div type="apparatus">
+      	</div>-->
       	
       	<div type="translation" resp="part:emfr">
       		<p n="1">
       			Fortune!</p>
       		<p n="1-2">
-      			Thirty-seventh year of the victorious Nandivikramavarman.<note>That is, the Pallava king Nandivarman II.</note></p>
+      			Thirty-seventh year of the victorious king Nantivikkiramaparumaṉ.<note>Sanskrit Nandivikramavarman.That is, the Pallava king Nandivarman II.</note></p>
       		<p n="2">
       			Decision of We, the Kaṇattārs of Payiṉūṟ.</p>
       		<p n="2">
@@ -173,9 +172,10 @@
       	
 <div type="bibliography">
 
-            <p>
-Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 83)<!--parentheses unduly fused in display--><!-- Resolved -->. This digital edition by Emmanuel Francis.
-            </p>
+   <p>Reported in <bibl><ptr target="bib:ARIE1932-1933"/></bibl> (ARIE/1932-1933/B/1932-1933/1094).</p>
+    
+   <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 83).</p>
+   <p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
 
 	<listBibl type="primary">
 		
