@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Rācaḷippaṭṭi stone, time of Nantippōttaraiyar, year 25</title>
+            <title>Rācaḷippaṭṭi, time of Nantippōttaraiyar, year 25</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -119,7 +119,7 @@
       			Fortune!
       		</p>
       		<p n="1-3">
-      			Twenty-fifth year of Nantippōttaraiyar.<note>That is, the Pallava king Nandin.</note>
+      			Twenty-fifth year of Nantippōttaraiyar.<note>Sanskrit Nandin + Tamil Pōttaraiyar. That is, the Pallava king Nandin.</note>
       		</p>
       		<p n="3-5">
       			Stone-sluice that Pullayakaṭampaṉ, son of Āritam Pullaṉ had built.
@@ -127,14 +127,13 @@
       		      		
       	</div>
       	      	
-<div type="commentary">
-	
-</div>
+<div type="commentary"/>
+
       	
 <div type="bibliography">
 
    <p>Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> and translated in <bibl><ptr target="bib:SrinivasaAiyar1941_01"/></bibl> (IPS 16). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 79).</p>
-   <p>This digital edition by Emmanuel Francis.</p>
+   <p>This digital edition by Emmanuel Francis, based on the previous edition(s).</p>
    
 	<listBibl type="primary">
 		

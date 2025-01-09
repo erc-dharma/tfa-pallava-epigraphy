@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cāttamaṅkalam, rock, time of Nantippōttaraicar, year 14</title>
+				<title>Cāttamaṅkalam, time of Nantippōttaraicar, year 14</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary/>
+						<summary>Rock inscription recording ...</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -180,7 +180,7 @@
       		<!--Check/Update translation + if necessary encode properly "..."-->
       		<!--add @n to p-->
       		<p n="1">Fortune!</p>
-      		<p n="1-2">Fourteenth year of Nantippōttaraicar.</p>
+      		<p n="1-2">Fourteenth year of Nantippōttaraicar.<note>Sanskrit Nandin + Tamil Pōttaraicar. That is, the Pallava king Nandin.</note></p>
       		<p n="2-6">The pious donation <supplied reason="explanation"><foreign>aṟam</foreign></supplied> that Antai Iḷaiyār Appananti, <supplied reason="subaudible">of this</supplied> village, gave for the ascetics who reside <supplied reason="subaudible">here</supplied>, excluding those belonging <supplied reason="explanation"><foreign>uṭai</foreign></supplied> to this <foreign>paḷḷi</foreign>: seven <foreign>kaḻañcu</foreign>s of gold, <supplied reason="subaudible">as</supplied> alms <supplied reason="explanation"><foreign>piccai</foreign></supplied>.</p>
       		<p n="7-8">With one/per <foreign>kaḻañcu</foreign>, one <foreign>uḻakku</foreign> of rice … <foreign>muṉ kuṟaṭṭi</foreign> is to be given/provided <supplied reason="explanation"><foreign>vaittatu</foreign></supplied>.</p> 
       		<p n="9-">This pious donation, We, the members of the ūr, shall protect, … <supplied reason="explanation"><foreign>oṭṭiṉōṅ</foreign></supplied>.</p>

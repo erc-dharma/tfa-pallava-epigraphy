@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Slab inscription recording the donation of paddy and gold by Maṇiyaṉ, a devotee of the Mahādeva of the Akatti<hi rend="grantha">śvara</hi>m temple in Aviṉūr.</summary>
+                  <summary>Slab inscription recording the donation of paddy and gold by Maṇiyaṉ, a devotee of the Mahādeva of the Akattiśvaram temple in Aviṉūr.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -321,9 +321,9 @@
       		<p n="1">
       			Prosperity! Fortune!</p>
       		<p n="1-3">
-      			Third year of Paramēccurappōttaraiyar.<note>That is, the Pallava king Parameśvara.</note></p>
+      			Third year of Paramēccurappōttaraiyar.<note>Sanskrit Parameśvara + Tamil Pōttaraiyar. That is, the Pallava king Parameśvara.</note></p>
       		<p n="3-7">
-      			<supplied reason="subaudible">This is</supplied> the way that Maṇiyaṉ, the devotee <supplied reason="explanation"><foreign>atiyāṉ</foreign></supplied> of the Mahādeva of the glorious Akattiśvaram at Aviṉūr, gave interests so as provide <supplied reason="explanation"><foreign>oṭṭi</foreign></supplied> for the food-offerings <supplied reason="explanation"><foreign>amutu</foreign></supplied> and for what is adequate <supplied reason="explanation"><foreign>pōtavataṟku</foreign></supplied> <supplied reason="subaudible">for</supplied> the glorious offerings <supplied reason="explanation"><foreign>pali</foreign>:<note>Sanskrit <foreign>bali</foreign>.</note></supplied></p>
+      			<supplied reason="subaudible">This is</supplied> the way that Maṇiyaṉ, the devotee <supplied reason="explanation"><foreign>atiyāṉ</foreign></supplied> of the Mahādeva of the glorious Akattiśvaram at Aviṉūr, gave interests so as provide <supplied reason="explanation"><foreign>oṭṭi</foreign></supplied> for the food-offerings <supplied reason="explanation"><foreign>amutu</foreign></supplied> and for what is adequate <supplied reason="explanation"><foreign>pōtavataṟku</foreign></supplied> <supplied reason="subaudible">for</supplied> the glorious offerings <supplied reason="explanation"><foreign>pali</foreign><note>Sanskrit <foreign>bali</foreign>.</note></supplied></p>
       		<p n="7-10"/>
       		<p n="10-14"/>
       		<p n="14-20"/>
@@ -353,6 +353,7 @@
 
 <div type="bibliography">
 
+    <p>Reported in <bibl><ptr target="bib:ARIE1902-1903"/></bibl> (ARIE/1902-1903/B/1903/56).</p>
    <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.331). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 71).</p>
    <p>This revised edition by Emmanuel Francis, based on photos (2007).</p>
 
