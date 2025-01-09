@@ -91,21 +91,21 @@
 <div type="edition">
          	
    <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-      <head>...</head>
+      <!--<head>...</head>-->
       <p>
       <lb n="1"/>parivādinidā
    </p>
    </div>
    
    <div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-      <head>...</head>
+      <!--<head>...</head>-->
       <p>
       <lb n="1"/>...
    </p>
    </div>
    
    <div type="textpart" n="C" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-      <head>...</head>
+      <!--<head>...</head>-->
       <p>
       <lb n="1"/>...
    </p>
@@ -113,17 +113,17 @@
 	
 </div>
 
-<div type="apparatus">
+<!--<div type="apparatus">
       		
-      	</div>
+</div>-->
       	
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
       		
-      	</div>
+</div>-->
       	
  <div type="commentary">
     
-    <p>Copies of the same inscription, likewise with a rectangular frame (single-lined or two-lined), are found in Kuṭumiyāmalai (<ref target="DHARMA_INSPallava00023">INSPallava00023</ref> = IP 23) and, twice in Tirumayyam (<ref target="DHARMA_INSPallava00031">INSPallava00031</ref> = IP 31; <ref target="DHARMA_INSPallava00514">INSPallava00514</ref>).</p>
+    <p>Copies of the same inscription, likewise with a rectangular frame (single-lined or two-lined), are found in Kuṭumiyāmalai (<ref target="DHARMA_INSPallava00023">Pallava 23</ref> = IP 23) and, twice in Tirumayyam (<ref target="DHARMA_INSPallava00031">Pallava 31</ref> = IP 31; <ref target="DHARMA_INSPallava00514">Pallava 514</ref>).</p>
       		
  </div>
          

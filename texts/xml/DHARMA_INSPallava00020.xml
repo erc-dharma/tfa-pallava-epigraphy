@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Talavāṉūr, foundation, time of Narēntirappōttaraiyaṉ</title>
+            <title>Talavāṉūr, time of Narēntirappōttaraiyaṉ</title>
          	<respStmt>
          		<resp>intellectual authorship of edition</resp>
          		<persName ref="part:emfr">
@@ -227,7 +227,7 @@ Ce qu’a composé <supplied reason="explanation"><foreign>colliyatu</foreign><n
 </div>
       	
 <div type="commentary">
-	<p>See also <ref target="DHARMA_INSPallava00019.xml">Pallava 19</ref>, a probably earlier Sanskrit foundation inscription of the same cave-temple.</p>
+	<p>See also the inscription <ref target="DHARMA_INSPallava00019.xml">Pallava 19</ref>, a probably earlier Sanskrit foundation inscription of the same cave-temple.</p>
 	<p>Identification of Narēntirappōttaraiyaṉ to be discussed.</p> <!--update!-->
 	<p><lb n="10"/><foreign>āṅku</foreign>: either "there," that is, "here," that is in Veṇpēṭu, or "thus," concluding the verse, that is, "so was it done"</p><!--update!-->
 </div>
@@ -240,7 +240,7 @@ Ce qu’a composé <supplied reason="explanation"><foreign>colliyatu</foreign><n
 	
 	<listBibl type="primary">
 		
-		<bibl n="EG">
+		<bibl n="EI">
 			<ptr target="bib:Hultzsch1913-1914_02"/>
 			<citedRange unit="page">225-226</citedRange>
 			<citedRange unit="item">B</citedRange>

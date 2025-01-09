@@ -96,23 +96,22 @@
    
 </div>         
         
-<div type="apparatus">
+<!--<div type="apparatus">
       		
-      	</div>
+</div>-->
       	
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
       		
-      	</div>
+</div>-->
       	
- <div type="commentary">
-      		
-      	</div>
+ <div type="commentary"/>
       	
 <div type="bibliography">
 
    <p>Reported in <bibl><ptr target="bib:ARIE1906-1907"/></bibl> (ARIE/1906-1907/B/1906/386).</p>
    
    <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.7-A). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 30).</p>
+   
    <p>This revised edition by Emmanuel Francis, based on photos (2009, kindly supplied by Valérie Gillet).</p>
    
    <listBibl type="primary">      

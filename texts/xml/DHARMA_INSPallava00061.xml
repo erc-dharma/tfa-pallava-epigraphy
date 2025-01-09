@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mahābalipuram, Kōṭikal Maṇḍapa, <foreign>Biruda</foreign></title>
+            <title>Mahābalipuram, Kōṭikal Maṇḍapa, <foreign>biruda</foreign></title>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:sybr">
@@ -132,7 +132,7 @@
       		</p>
       	</div>
       	
-<div type="translation" xml:lang="fra" resp="part:sybr part:emfr">
+<div type="translation" xml:lang="fra" resp="part:emfr">
       		<p>
       			Le glorieux croc de Vāma <supplied reason="explanation">Śiva</supplied>.
       		</p>
@@ -149,7 +149,7 @@
 <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
       	   
       	   <p>
-      	      Ô Śrī-Vāmāṅkuṣa<note>En l’absence d'autre désinence, on peut interpréter cette forme comme un vocatif</note> <supplied reason="explanation">le croc de Vāma</supplied>.
+      	      Ô Śrī-Vāmāṅkuṣa<note>En l’absence d'autre désinence, on peut interpréter cette forme comme un vocatif.</note> <supplied reason="explanation">le croc de Vāma</supplied>.
       	   </p>
       	   
 </div>
@@ -162,23 +162,26 @@
       	
       	<div type="commentary">
 <p>
-	The inscription -- the only one on the monument bearing it -- consists in what appears to be a <foreign>biruda</foreign>, "gloryfying soubriquet". Although Pallava kings have had hundreds of their <foreign>biruda</foreign>s engraved on their monuments, this one does not appear among these and is found only on this pillar of the Kōṭikal Maṇḍapa. Note that the <foreign>biruda</foreign> Vāma is engraved twice on the Dharmarājaratha at Mahābalipuram. Vāmāṅkuṣa might be the <foreign>biruda</foreign> of one among the Pallava <foreign>biruda</foreign>-bearers of Mahābalipuram or of an obscure Pallava prince or, as suggested by <bibl><ptr target="bib:Srinivasan1964_01"/><citedRange unit="page">110</citedRange></bibl>, of a chief, subordinated to the Pallavas. 
+	The inscription―the only one on the monument bearing it―consists in what appears to be a <foreign>biruda</foreign>, “gloryfying soubriquet.” Although Pallava kings have had hundreds of their <foreign>biruda</foreign>s engraved on their monuments, this one does not appear among these and is found only on this pillar of the Kōṭikal Maṇḍapa. Note that the <foreign>biruda</foreign> Vāma is engraved twice on the Dharmarājaratha at Mahābalipuram. Vāmāṅkuṣa might be the <foreign>biruda</foreign> of one among the Pallava <foreign>biruda</foreign>-bearers of Mahābalipuram or of an obscure Pallava prince or, as suggested by <bibl><ptr target="bib:Srinivasan1964_01"/><citedRange unit="page">110</citedRange></bibl>, of a chief, subordinated to the Pallavas. 
 </p>      		
          </div>
       	
-      	<div type="bibliography">
-
-            <p>Edited in <bibl><ptr target="bib:Hultzsch1909-1910_01"/></bibl> (EI 10.1.18), with a facsimile. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 61). Text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl>.</p>
-      	   <p>This edition by Sylvain Brocquet &amp; Emmanuel Francis, based on autopsy, photos (2009), and facsimile published in <bibl n="EH"><ptr target="bib:Hultzsch1909-1910_01"/></bibl>.</p>
+<div type="bibliography">
+   
+   <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/B/1907/530).</p>
+   
+   <p>Edited in <bibl><ptr target="bib:Hultzsch1909-1910_01"/></bibl> (EI 10.1.18), with a facsimile. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 61). Text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl>.</p>
+   
+   <p>This edition by Emmanuel Francis, based on autopsy, photos (2009), and facsimile published in <bibl n="EH"><ptr target="bib:Hultzsch1909-1910_01"/></bibl>.</p>
 
       		<listBibl type="primary">
       			
-      			<bibl n="EH">
+      			<bibl n="EI">
       				<ptr target="bib:Hultzsch1909-1910_01"/>
       				<citedRange unit="page">8</citedRange>
       				<citedRange unit="item">19</citedRange>
       			</bibl>
-      			<bibl n="VVS">
+      			<bibl n="SII">
       				<ptr target="bib:VenkatasubbaAyyar1943_01"/>
       				<citedRange unit="page">11</citedRange>
       				<citedRange unit="item">23</citedRange>

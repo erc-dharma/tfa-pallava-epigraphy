@@ -91,14 +91,14 @@
 <div type="edition">
          	
    <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-      <head>...</head>
+      <!--<head>...</head>-->
       <p>
       <lb n="1"/>parivādinidā
    </p>
    </div>
    
    <div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-      <head>...</head>
+      <!--<head>...</head>-->
       <p>
       <lb n="1"/>...
    </p>
@@ -106,23 +106,24 @@
 	
 </div>
 
-      	<div type="apparatus">
+      	<!--<div type="apparatus">
       		
-      	</div>
+      	</div>-->
       	
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
       		
-      	</div>
+      	</div>-->
       	
  <div type="commentary">
     
-    <p>Copies of the same inscription, likewise with a rectangular frame (single-lined or two-lined), are found in Kuṭumiyāmalai (<ref target="DHARMA_INSPallava00023">INSPallava00023</ref> = IP 23), Malayakkōvil (<ref target="DHARMA_INSPallava00025">INSPallava00025</ref> = IP 25) and, again, in Tirumayyam (<ref target="DHARMA_INSPallava00514">INSPallava00514</ref>).</p>
+    <p>Copies of the same inscription, likewise with a rectangular frame (single-lined or two-lined), are found in Kuṭumiyāmalai (<ref target="DHARMA_INSPallava00023">Pallava 23</ref> = IP 23), Malayakkōvil (<ref target="DHARMA_INSPallava00025">Pallava 25</ref> = IP 25) and, again, in Tirumayyam (<ref target="DHARMA_INSPallava00514">Pallava 514</ref>).</p>
       		
       	</div>
       	
 <div type="bibliography">
 
    <p>Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS 5). Text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 31).</p>
+   
    <p>This revised edition by Emmanuel Francis, based on photos (2009, kindly supplied by Valérie Gillet).</p>
    
    <listBibl type="primary">

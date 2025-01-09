@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Maṇṭakapaṭṭu, time of Mahendravarman I</title>
+            <title>Maṇṭakapaṭṭu, time of Vicitracitta</title>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:sybr">
@@ -132,9 +132,9 @@
 
 </div>
 
-      	<div type="translation" resp="part:emfr">
+      	<!--<div type="translation" resp="part:emfr">
       	   
-      	</div>
+      	</div>-->
       	
 <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
       		
@@ -147,22 +147,22 @@
       		
       	</div>
       	
-      	<div type="commentary">
-      		
-      	</div>
-      	
+<div type="commentary"/>
+         
 <div type="bibliography">
       		
-            <p>Edited and translated in <bibl><ptr target="bib:GopinathaRao1923-1924_01"/></bibl>, with a poor facsimile (EI 17.5). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 27). Text and translation in <bibl><ptr target="bib:Filliozat1984_01"/></bibl> and in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 22).</p>
-      	   
-      	   <p>This revised edition by Sylvain Brocquet &amp; Emmanuel Francis, based on autopsy and photos (2008, 2009).</p>
+   <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/B/1905/56).</p>
+   
+   <p>Edited and translated in <bibl><ptr target="bib:GopinathaRao1923-1924_01"/></bibl>, with a poor facsimile (EI 17.5). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 27). Text and translation in <bibl><ptr target="bib:Filliozat1984_01"/></bibl> and in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 22).</p>
+   
+   <p>This revised edition by Sylvain Brocquet &amp; Emmanuel Francis, based on autopsy and photos (2008, 2009).</p>
 
       		<listBibl type="primary">
       			
-      			<bibl n="TVGR">
+      			<bibl n="EI">
       				<ptr target="bib:GopinathaRao1923-1924_01"/>            		
       			</bibl>
-      			<bibl n="PSF">
+      			<bibl n="F">
       				<ptr target="bib:Filliozat1984_01"/>
       				<citedRange unit="page">102-104</citedRange>
       			</bibl>

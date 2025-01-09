@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Cīyamaṅkalam, time of Mahendravarman I </title>
+            <title>Cīyamaṅkalam, time of Lalitāṅkura</title>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:sybr">
@@ -132,9 +132,9 @@
 
 </div>
 
-      	<div type="translation" resp="part:emfr">
-      		<!--TO BE ADDED-->
-      	</div>
+      	<!--<div type="translation" resp="part:emfr">
+      		
+      	</div>-->
       	
 <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
       		<p rend="stanza" n="1">
@@ -149,20 +149,22 @@
       		<p n="2">Avanibhājanapallaveśvara means "<supplied reason="subaudible">the temple of</supplied> the Lord <supplied reason="explanation">that is, Śiva</supplied> of the Pallava Avanibhājana <supplied reason="explanation">that is, Mahendravarman I Pallava</supplied>", that is, alternatively "<supplied reason="subaudible">the temple of</supplied> Śiva <supplied reason="subaudible">founded by</supplied> the Pallava Avanibhājana".</p>
       	</div>
       	
-      	<div type="bibliography">
+<div type="bibliography">
       		
-            <p>
-Edited in <bibl><ptr target="bib:Hultzsch1900-1901_05"/></bibl> (EI 6.32A). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 29). Text and translation in <bibl><ptr target="bib:Filliozat1984_01"/></bibl> and in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 24).</p>
-      	   <p>This edition by Sylvain Brocquet &amp; Emmanuel Francis, based on autopsy and photos (2019).</p>
-
+   <p>Reported in <bibl><ptr target="bib:ARIE1899-1900"/></bibl> (ARIE/1899-1900/B/1900/67).</p>
+   
+   <p>Edited in <bibl><ptr target="bib:Hultzsch1900-1901_05"/></bibl> (EI 6.32A). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 29). Text and translation in <bibl><ptr target="bib:Filliozat1984_01"/></bibl> and in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 24).</p>
+   
+   <p>This edition by Sylvain Brocquet &amp; Emmanuel Francis, based on autopsy and photos (2019).</p>
+   
       		<listBibl type="primary">
       			
-      			<bibl n="EH">
+      			<bibl n="EI">
       				<ptr target="bib:Hultzsch1900-1901_05"/>
       				<citedRange unit="page">320</citedRange>
       				<citedRange unit="item">A</citedRange>
       			</bibl>
-      			<bibl n="PSF">
+      			<bibl n="F">
       				<ptr target="bib:Filliozat1984_01"/>
       				<citedRange unit="page">106</citedRange>
       			</bibl>

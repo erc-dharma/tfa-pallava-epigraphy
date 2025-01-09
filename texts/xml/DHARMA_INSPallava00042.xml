@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tirukkaḻukkuṉṟam, Orukal Maṇḍapa pillar, time of Narasiṁhavarman I</title>
+            <title>Tirukkaḻukkuṉṟam, time of Naraciṅkapōttaracar</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Donation of land by Naraciṅkapōttaracar, the conqueror of Vātāpi,
+                  <summary>Orukal Maṇḍapa pillar. Donation of land by Naraciṅkapōttaracar, the conqueror of Vātāpi,
 							to the Perumāṉaṭikaḷ of the <foreign>mūlasthāna</foreign> at
 							Tirukkaḵukkuṉṟam.</summary>
                </msContents>
@@ -122,25 +122,15 @@
       		<app loc="5">
       			<lem>mūla-tāṉattu</lem>
       			<rdg source="bib:ARIE1932-1933"><unclear>mū</unclear>la-tāṉattu</rdg>
-      			<note>
-      				<bibl>
-			<ptr target="bib:ARIE1932-1933"/>
-			<citedRange unit="page">55</citedRange>
-			<citedRange unit="note">2</citedRange>
-      				</bibl>
-      				notes that the character <foreign>mū</foreign> seems to be corrected from <foreign>śrī</foreign>.
+      			<note>      				
+			<ptr target="bib:ARIE1932-1933"/> (p. 55, n. 2) notes that the character <foreign>mū</foreign> seems to be corrected from <foreign>śrī</foreign>.
       			</note>
       		</app>
       		
       		<app loc="8">
       			<lem>pōtta<supplied reason="omitted">ra</supplied><unclear>car</unclear></lem>      			
       			<note>
-      				<bibl>
-			<ptr target="bib:ARIE1932-1933"/>
-			<citedRange unit="page">55</citedRange>
-			<citedRange unit="note">3</citedRange>
-      				</bibl>
-      				notes that the final character <foreign>r</foreign> looks like the character <foreign>ḻ</foreign>.
+      				<ptr target="bib:ARIE1932-1933"/> (p. 55, n. 3) notes that the final character <foreign>r</foreign> looks like the character <foreign>ḻ</foreign>.
       			</note>
       		</app>
       		</listApp>
@@ -150,20 +140,17 @@
       	<div type="translation" resp="part:emfr">
       		<p n="1">Fortune!</p>
       		<p n="1-2">To the glorious Perumāṉaṭikaḷ of Tirukkaḻukkuṉṟam.</p>
-      		<p n="2-8">That which Naraciṅkapōttaracar, the conqueror of Vātāpi, gave, as tax-free land <supplied reason="explanation"><foreign>puṟam</foreign></supplied> for the purpose of worship <supplied reason="explanation"><foreign>vaḻipāṭu</foreign></supplied>, to the Perumāṉaṭikaḷ of the <foreign>mūlasthāna</foreign> at Tirukkaḵukkuṉṟam on the glorious hill of Tirukkaḻukkuṉṟam <gap reason="illegible"/> in the Kaḷattūrkōṭṭam.</p> 
+      		<p n="2-8">That which Naraciṅkapōttaracar,<note>Sanskrit Narasiṁha + Tamil Pōttaraicar. That is, the Pallava king Narasiṁha, that is, Narasiṁhavarman I Pallava.</note> the conqueror of Vātāpi, gave, as tax-free land <supplied reason="explanation"><foreign>puṟam</foreign></supplied> for the purpose of worship <supplied reason="explanation"><foreign>vaḻipāṭu</foreign></supplied>, to the Perumāṉaṭikaḷ of the <foreign>mūlasthāna</foreign> at Tirukkaḵukkuṉṟam on the glorious hill of Tirukkaḻukkuṉṟam <gap reason="illegible"/> in the Kaḷattūrkōṭṭam.</p> 
       	</div>
       	
-<div type="commentary">	
-	
-</div>
+<div type="commentary"/>	
+
       	
 <div type="bibliography">
 
-   <p>
-      Edited in <bibl><ptr target="bib:ARIE1932-1933"/></bibl>. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 42).
-   </p>
-   <p>This revised edition by Emmanuel Francis, based on the facsimile published in <bibl><ptr target="bib:ARIE1932-1933"/></bibl>.
-   </p>
+   <p>Edited in <bibl><ptr target="bib:ARIE1932-1933"/></bibl>. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 42).</p>
+   
+   <p>This revised edition by Emmanuel Francis, based on the facsimile published in <bibl><ptr target="bib:ARIE1932-1933"/></bibl>.</p>
 
 	<listBibl type="primary">
 		
