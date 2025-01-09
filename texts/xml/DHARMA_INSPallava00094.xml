@@ -109,16 +109,16 @@
             </p>
          </div>
 
-         <div type="apparatus">
+         <!--<div type="apparatus">
 
-         	<!--<listApp>
+         	<listApp>
          		<app loc="10">
          			<lem>ciṅkaḷamey<surplus>ar</surplus>°</lem>
          			<rdg source="bib:AuthorYear_01">ciṅkaḷameyā/ciṅkaḷameyā?<!-\-Update!-\-></rdg> UPDATE bib:
          		</app>
-         	</listApp>-->
+         	</listApp>
 
-         </div>
+         </div>-->
 
          <div type="translation" resp="part:emfr">
          	<p>Prosperity! Fortune!</p>
@@ -132,14 +132,16 @@
       	
          <div type="commentary"><!--Update!-->
          	<p n="2, 6"><foreign>koṭukkappiḷḷaikaḷ</foreign>: ...</p>
-         	<p n="3"><foreign>makaḷmai</foreign>: i.e. makaṇmai or makaṉmai, a tax? I.e. what is given is a tax? according to sonship? Cf. piḷḷai = "son" of NP?</p>
+         	<p n="3"><foreign>makaḷmai</foreign>: i.e. makaṇmai or makaṉmai, a tax? I.e. what is given is a tax? According to sonship? Cf. piḷḷai = "son" of NP?</p>
          	<p n="10"><foreign>ciṅkaḷamey<surplus>ar</surplus>-kāppaṉ</foreign>: ...</p>
          </div>
       	
 <div type="bibliography">
 
-            <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.453). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 94).</p>
-            <p>This edition by Emmanuel Francis, based on photos (2008<note>Partial coverage.</note>).</p>
+   <p>Reported in <bibl><ptr target="bib:ARIE1898-1899"/></bibl> (ARIE/1898-1899/B/1899/17).</p>
+   
+   <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.453). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 94).</p>
+   <p>This edition by Emmanuel Francis, based on photos (2008<note>Partial coverage.</note>).</p>
 
          	<listBibl type="primary">
          		

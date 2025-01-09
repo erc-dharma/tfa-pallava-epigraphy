@@ -91,7 +91,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">            
             
          	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-         		<lb n="1" style="text-align: left"/><hi rend="grantha">Om· namaś śivāya<surplus>m·</surplus> <unclear>sva</unclear>sti śrī</hi>
+         		<lb n="1" style="text-align: left"/>Om· namaś śivāya<surplus>m·</surplus> <unclear>sva</unclear>sti śrī
          	</ab>
          	
          	<p>
@@ -130,20 +130,24 @@
          		<lb n="14"/><unclear>Aṉ</unclear> <gap reason="lost" quantity="2" unit="character"/> kōyilu<supplied reason="omitted">k</supplied>ku Āyiram kā<unclear>ṇam ta</unclear>ṇṭappaṭuvōm vāṇapurattō<unclear>m</unclear>
          	</p>         	
          	
-         	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-         		<l n="a">
-         			<lb n="15"/><hi rend="grantha"><choice><sic>va</sic><corr>ba</corr></choice><unclear>hu</unclear>bhir<unclear>·</unclear> vasudhā dattā</hi>
-         		</l>
-         		<l n="b">
-         			<hi rend="grantha">rāja<unclear>bh</unclear>i<supplied reason="omitted">ḥ</supplied> sakaradibhi<supplied reason="omitted">ḥ</supplied></hi>
-         		</l>
-         		<l n="c">
-         			<hi rend="grantha">yasya yasya yadā bhū<lb n="16" break="no"/>mi<supplied reason="omitted">s</supplied></hi>
-         		</l>	
-         		<l n="d">
-         			<hi rend="grantha">tasya tasya tadā phalam·</hi>
-         		</l>
-         	</lg>
+	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		
+		<l n="a">
+			<lb n="15"/><choice><sic>va</sic><corr>ba</corr></choice><unclear>hu</unclear>bhir<unclear>·</unclear> vasudhā dattā
+		</l>
+		
+		<l n="b">
+			rāja<unclear>bh</unclear>i<supplied reason="omitted">ḥ</supplied> sakaradibhi<supplied reason="omitted">ḥ</supplied>
+		</l>
+		
+		<l n="c">
+			yasya yasya yadā bhū<lb n="16" break="no"/>mi<supplied reason="omitted">s</supplied>
+		</l>	
+		
+		<l n="d">
+			tasya tasya tadā phalam·
+		</l>
+	</lg>
          	
          </div>
          
@@ -225,9 +229,9 @@
 <div type="translation" resp="part:emfr">
       		
 	<p n="1">Om. Homage to Śiva. Prosperity! Fortune!</p>
-	<p n="2-3">Sixty-second year of the victorious king Nandivikramavarman.</p>
+	<p n="2-3">Sixty-second year of the victorious king Nantivikkiramaparumaṉ.<note>Sanskrit Nandivikramavarman.</note></p>
 	<p n="3-9">I have given ...</p>
-	<p n="9-11">The king Mahābalibāṇa has given ...</p>
+	<p n="9-11">The king Mahāvalivāṇa<note>Sanskrit Mahābalibāṇa</note> has given ...</p>
 	<p n="11-12">...</p>
 	<p n="12-13">...</p>
 	<p n="13-14">...</p>
@@ -250,16 +254,15 @@
       	      	
 <div type="bibliography">
 
-	<p>
-		Edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with facsimile and English translation (SII 3.42). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 91).
-	</p>
-	<p>
-		This revised edition by Emmanuel Francis, based on the facsimile published in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>.
-	</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1889-1890_01"/></bibl> (ARIE/1889-1890/A/1889/76).</p>
+	
+	<p>Edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with facsimile and English translation (SII 3.42). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 91).</p>
+	
+	<p>This revised edition by Emmanuel Francis, based on the facsimile published in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>.	</p>
 
          	<listBibl type="primary">
          		
-         		<bibl n="EH">
+         		<bibl n="SII">
          			<ptr target="bib:Hultzsch1899_01"/>
          			<citedRange unit="item">42</citedRange>
          			<citedRange unit="page">90-92</citedRange>
@@ -277,7 +280,7 @@
          	<listBibl type="secondary">
          		
          		<bibl n="ARIE">
-         			<ptr target="bib:ARIE1889-1890_01"/> <!--CHECK "_01"-->
+         			<ptr target="bib:ARIE1889-1890_01"/>
          			<citedRange unit="page">5</citedRange>
          			<citedRange unit="appendix">A/1899</citedRange>
          			<citedRange unit="item">76</citedRange>
