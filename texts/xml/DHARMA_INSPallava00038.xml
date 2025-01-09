@@ -92,7 +92,7 @@
       		          			
       		<p>
       			<lb n="1"/><milestone unit="face" n="A"/><hi rend="grantha">śrī</hi>-pallava
-      			<lb n="2" break="no"/><milestone unit="face" n="B"/>mā-rācaṉ
+      			<lb n="2" break="no"/><milestone unit="face" n="B" break="no"/>mā-rācaṉ
       			<lb n="3"/><gap reason="undefined" quantity="3" unit="character"/> māmalla<unclear>ṉ</unclear>
       		</p>      		
       		
@@ -122,7 +122,8 @@
 	<p>Reported in <bibl><ptr target="bib:ARIE1899-1900"/></bibl> (ARIE/1899-1900/B/1900/39A).<note>That is, renamed 39-A, when <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> edited the inscription and realized that more than one inscription was registered under number 39.</note></p>
    
 	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.42). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 38).</p>
-	<p>This digital edition by Emmanuel Francis.</p>
+	
+	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
    
    <listBibl type="primary">
       

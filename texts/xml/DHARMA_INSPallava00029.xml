@@ -10,23 +10,12 @@
          <titleStmt>
             <title>Cīyamaṅkalam, time of Lalitāṅkura</title>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:sybr">
-                  <forename>Sylvain</forename>
-                  <surname>Brocquet</surname>
-               </persName>
+               <resp>author of digital edition</resp>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>
                </persName>
-            </respStmt>
-            <respStmt>
-               <resp>EpiDoc encoding</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
-                  <surname>Francis</surname>
-               </persName>
-            </respStmt>            
+            </respStmt>        
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
@@ -155,7 +144,7 @@
    
    <p>Edited in <bibl><ptr target="bib:Hultzsch1900-1901_05"/></bibl> (EI 6.32A). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 29). Text and translation in <bibl><ptr target="bib:Filliozat1984_01"/></bibl> and in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 24).</p>
    
-   <p>This edition by Sylvain Brocquet &amp; Emmanuel Francis, based on autopsy and photos (2019).</p>
+   <p>This revised edition by Emmanuel Francis, based on autopsy and photos (2019).</p>
    
       		<listBibl type="primary">
       			

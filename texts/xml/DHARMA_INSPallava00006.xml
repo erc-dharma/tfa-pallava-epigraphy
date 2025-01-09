@@ -10,23 +10,12 @@
 			<titleStmt>
 				<title>Uruvupalli grant, time of Siṁhavarman, year 11</title>
 				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:sybr">
-						<forename>Sylvain</forename>
-						<surname>Brocquet</surname>
-					</persName>
+					<resp>author of digital edition</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
 					</persName>
 				</respStmt>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>     
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
@@ -39,7 +28,7 @@
 							https://creativecommons.org/licenses/by/4.0/ or send a letter to
 							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Sylvain Brocquet &amp; Emmanuel Francis.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
 					</licence>
 				</availability>
 				<date from="2019" to="2025">2019-2025</date>
@@ -415,8 +404,8 @@ Note the recurrent unstandard forms with <foreign>diśi</foreign>.
       	</div>
 
 <div type="bibliography">
-<p>Edited in <bibl><ptr target="bib:Fleet1876_02"/></bibl> (SOCI no. 12) with facsimile and English translation. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 6). Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 3).</p>
-	<p>This edition by Sylvain Brocquet &amp; Emmanuel Francis, based on autopsy and photos of the original plates in Edinburgh University Library (2017).</p>
+	<p>Edited in <bibl><ptr target="bib:Fleet1876_02"/></bibl> (SOCI no. 12) with facsimile and English translation. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 6). Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 3).</p>
+	<p>This revised edition by Emmanuel Francis, based on autopsy and photos of the original plates in Edinburgh University Library (2017).</p>
 
             <listBibl type="primary">
 

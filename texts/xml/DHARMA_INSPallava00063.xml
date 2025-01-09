@@ -8,25 +8,14 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Paṉaimalai, cave, eulogy, time of Narasiṁhavarman II </title>
+				<title>Paṉaimalai, foundation, time of Rājasiṁha</title>
 				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:sybr">
-						<forename>Sylvain</forename>
-						<surname>Brocquet</surname>
-					</persName>
+					<resp>author of digital edition</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
 					</persName>
 				</respStmt>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>            
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
@@ -145,15 +134,18 @@
       		
       	</div>
       	
-      	<div type="commentary">
-      		<p>The same verse is found in two other inscriptions of Narasiṁhavarman II. See <ref target="INSPallava00054.xml">INSPallava00054</ref> (stanza 12) and <ref target="INSPallava00060.xml">INSPallava00060</ref> (stanza 3).</p>
-      	</div>
+<div type="commentary">
+	
+	<p>The same verse is found in two other inscriptions of Narasiṁhavarman II. See <ref target="INSPallava00054.xml">Pallava 54</ref> (stanza 12) and <ref target="INSPallava00060.xml">Pallava 60</ref> (stanza 3).</p>
+</div>
       	
 <div type="bibliography">
       		
-	<p>
-		Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.31). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 63). Text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 47). Edited in <bibl><ptr target="bib:MarxiaGandhi+al2011_01"/></bibl> (SII 30.266).</p>
-	<p>This edition by Sylvain Brocquet &amp; Emmanuel Francis, based on autopsy and photos (2011).</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1915-1916"/></bibl> (ARIE/1915-1916/B/1915/618).</p>
+   
+	<p>Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.31). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 63). Text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 47). Edited in <bibl><ptr target="bib:MarxiaGandhi+al2011_01"/></bibl> (SII 30.266).</p>
+	
+	<p>This revised edition by Emmanuel Francis, based on autopsy and photos (2011).</p>
 
       		<listBibl type="primary">
       			
@@ -175,7 +167,7 @@
       				<citedRange unit="item">47</citedRange>            		
       			</bibl>
       			
-      			<bibl n="NMG">
+      			<bibl n="MG">
       				<ptr target="bib:MarxiaGandhi+al2011_01"/>
       				<citedRange unit="page">247</citedRange>
       				<citedRange unit="item">266</citedRange>            		

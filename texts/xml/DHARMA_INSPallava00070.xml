@@ -10,23 +10,12 @@
          <titleStmt>
             <title>Kāñcīpuram, temple-name on slab, time of Mahendravarman</title>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:sybr">
-                  <forename>Sylvain</forename>
-                  <surname>Brocquet</surname>
-               </persName>
+               <resp>author of digital edition</resp>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>
                </persName>
-            </respStmt>
-            <respStmt>
-               <resp>EpiDoc encoding</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
-                  <surname>Francis</surname>
-               </persName>
-            </respStmt>            
+            </respStmt>         
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
@@ -138,7 +127,7 @@
 
          	<p>
 Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.31). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 70). Text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 53c).</p>
-            <p>This edition by Sylvain Brocquet &amp; Emmanuel Francis, based on the facsimile published in <bibl><ptr target="bib:ARIE1932-1933"/><citedRange unit="plate">I</citedRange></bibl>.</p>
+            <p>This revised edition by Emmanuel Francis, based on the facsimile published in <bibl><ptr target="bib:ARIE1932-1933"/><citedRange unit="plate">I</citedRange></bibl>.</p>
          	         	
          	<listBibl type="primary">
          		

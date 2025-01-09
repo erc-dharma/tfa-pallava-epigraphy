@@ -10,23 +10,12 @@
          <titleStmt>
             <title>Mahābalipuram, Kōṭikal Maṇḍapa, <foreign>biruda</foreign></title>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:sybr">
-                  <forename>Sylvain</forename>
-                  <surname>Brocquet</surname>
-               </persName>
+               <resp>author of digital edition</resp>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>
                </persName>
-            </respStmt>
-            <respStmt>
-               <resp>EpiDoc encoding</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
-                  <surname>Francis</surname>
-               </persName>
-            </respStmt>            
+            </respStmt>          
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
@@ -172,7 +161,7 @@
    
    <p>Edited in <bibl><ptr target="bib:Hultzsch1909-1910_01"/></bibl> (EI 10.1.18), with a facsimile. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 61). Text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl>.</p>
    
-   <p>This edition by Emmanuel Francis, based on autopsy, photos (2009), and facsimile published in <bibl n="EH"><ptr target="bib:Hultzsch1909-1910_01"/></bibl>.</p>
+   <p>This revised edition by Emmanuel Francis, based on autopsy, photos (2009), and facsimile published in <bibl n="EH"><ptr target="bib:Hultzsch1909-1910_01"/></bibl>.</p>
 
       		<listBibl type="primary">
       			

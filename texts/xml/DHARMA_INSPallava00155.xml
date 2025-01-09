@@ -10,23 +10,12 @@
 			<titleStmt>
 				<title>Vākūr (Pākūr) plates, time of Nṛpatuṅgavarman, year 8</title>
 				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:sybr">
-						<forename>Sylvain</forename>
-						<surname>Brocquet</surname>
-					</persName>
+					<resp>author of digital edition</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
 					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>            
+				</respStmt>    
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
@@ -39,7 +28,7 @@
 							https://creativecommons.org/licenses/by/4.0/ or send a letter to
 							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Sylvain Brocquet &amp; Emmanuel Francis.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
 					</licence>
 				</availability>
 				<date from="2019" to="2025">2019-2025</date>
@@ -1132,7 +1121,7 @@ Puis Droṇa, le grand archer qui montre au combat le courage de Śakra. </l>
 
 <div type="bibliography">
 	<p>Tamil portion edited in Tamil script in <bibl><ptr target="bib:Vinson1903_01"/></bibl>. Fully edited (in Nāgarī, Tamil script, and transliteration) and translated into French in <bibl><ptr target="bib:Vinson1905_01"/></bibl>. Edited in <bibl><ptr target="bib:KrishnaSastri1916_01"/></bibl> (postscript to SII 2.98). Corrections and translation in <bibl><ptr target="bib:Jouveau-Dubreuil1917_01"/></bibl>. Edited in transliteration and translated into English in <bibl><ptr target="bib:Hultzsch1925-1926_01"/></bibl> (EI 18.2), with facsimiles. Edited and translated into Tamil in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 155). Sanskrit text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 62). See <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR no. 91).</p>
-         	<p>This edition by Sylvain Brocquet &amp; Emmanuel Francis, based on previous edition(s), mostly that by <bibl><ptr target="bib:Hultzsch1925-1926_01"/></bibl>, photos, and autopsy of the original plates in the BnF.
+         	<p>This revised edition by Emmanuel Francis, based on previous edition(s), mostly that by <bibl><ptr target="bib:Hultzsch1925-1926_01"/></bibl>, photos, and autopsy of the original plates in the BnF.
 	
             </p>
 

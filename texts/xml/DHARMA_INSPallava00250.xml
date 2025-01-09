@@ -10,23 +10,12 @@
          <titleStmt>
             <title>Mahābalipuram, list of <foreign>avatāra</foreign>s in the Ādivarāha cave, </title>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:sybr">
-                  <forename>Sylvain</forename>
-                  <surname>Brocquet</surname>
-               </persName>
+               <resp>author of digital edition</resp>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>
                </persName>
-            </respStmt>
-            <respStmt>
-               <resp>EpiDoc encoding</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
-                  <surname>Francis</surname>
-               </persName>
-            </respStmt>            
+            </respStmt>    
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
@@ -39,7 +28,7 @@
 							https://creativecommons.org/licenses/by/4.0/ or send a letter to
 							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 							California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Sylvain Brocquet &amp; Emmanuel Francis.</p>
+                  <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -198,7 +187,7 @@
    <p>Reported in <bibl><ptr target="bib:ARIE1922-1923"/></bibl> (ARIE/1922-1923/B/1922/663).</p>
    
    <p>Edited and translated in <bibl><ptr target="bib:KrishnaSastri1926_01"/></bibl>, with a facsimile (EI 17.5). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 53). Text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 69), <bibl><ptr target="bib:Francis2017_01"/></bibl> (IR 53).</p>
-   <p>This revised edition by Sylvain Brocquet &amp; Emmanuel Francis, based on the estampage published in <bibl><ptr target="bib:KrishnaSastri1926_01"/></bibl>.</p>
+   <p>This revised edition by Emmanuel Francis, based on the estampage published in <bibl><ptr target="bib:KrishnaSastri1926_01"/></bibl>.</p>
             
             <listBibl type="primary">
                
