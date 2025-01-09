@@ -91,8 +91,8 @@
       	<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       		          			
       		<p>
-      			<lb n="1"/><milestone unit="face" n="A"/><hi rend="grantha">śrī</hi>-pallava
-      			<lb n="2" break="no"/><milestone unit="face" n="B" break="no"/>mā-rācaṉ
+      			<lb n="1"/><milestone unit="face" n="A" type="gridlike"/><hi rend="grantha">śrī</hi>-pallava
+      			<lb n="2" break="no"/><milestone unit="face" n="B" type="gridlike" break="no"/>-mā-rācaṉ
       			<lb n="3"/><gap reason="undefined" quantity="3" unit="character"/> māmalla<unclear>ṉ</unclear>
       		</p>      		
       		

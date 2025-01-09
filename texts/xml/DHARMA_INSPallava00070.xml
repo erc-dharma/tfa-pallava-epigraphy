@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kāñcīpuram, temple-name on slab, time of Mahendravarman</title>
+            <title>Kāñcīpuram, temple-name, time of Mahendravarman</title>
             <respStmt>
                <resp>author of digital edition</resp>
                <persName ref="part:emfr">
@@ -40,7 +40,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>The name of a temple: Mahendravarmeśvaragṛha.</summary>
+                  <summary>Slab inscription recording the name of a temple: Mahendravarmeśvaragṛha.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -120,14 +120,16 @@
       	</div>
       	
          <div type="commentary">
-         	<p>The lack of context hinders the identification of the Pallava Mahendravarman. But paleography could help when comparing with similar labels (see INSPallava00488-00489)<!--update cros-ref!-->. Observe and compare the shape of the characters <foreign>śa</foreign> and <foreign>ga</foreign>. See ARIE argument (p. 54) and others (IP, SRB).</p><!--Update!-->
+         	<p>The lack of context hinders the proper identification of the Pallava Mahendravarman. But paleography could help when comparing with similar labels (see inscriptions <ref target="DHARMA_INSPallava00488.xml">Pallava 488</ref> abd <ref target="DHARMA_INSPallava00489.xml">Pallava 489</ref>). Observe and compare the shape of the characters <foreign>śa</foreign> and <foreign>ga</foreign>. See ARIE argument (p. 54) and others (IP, SRB).</p><!--Update!-->
          </div>
          	
-         <div type="bibliography">
+<div type="bibliography">
 
-         	<p>
-Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.31). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 70). Text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 53c).</p>
-            <p>This revised edition by Emmanuel Francis, based on the facsimile published in <bibl><ptr target="bib:ARIE1932-1933"/><citedRange unit="plate">I</citedRange></bibl>.</p>
+   <p>Reported in <bibl><ptr target="bib:ARIE1932-1933"/></bibl> (ARIE/1932-1933/B/1932-1933/1).</p>
+   
+   <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.31). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 70). Text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 53c).</p>
+   
+   <p>This revised edition by Emmanuel Francis, based on the facsimile published in <bibl><ptr target="bib:ARIE1932-1933"/><citedRange unit="plate">I</citedRange></bibl>.</p>
          	         	
          	<listBibl type="primary">
          		
