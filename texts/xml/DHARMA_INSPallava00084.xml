@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Rock inscription recording the construction of a sluice (<foreign>tūmpu</foreign>), the provision for its maintenance and a donation to the <foreign>bhaṭarar</foreign>.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -112,7 +112,7 @@
                <lb n="6" break="no"/><surplus><choice><unclear>ka</unclear><unclear>k</unclear></choice></surplus>ku-p paṭṭi-k kāṭi pērūr
                <lb n="7"/><unclear>Unaruma</unclear> paṭṭiyil <unclear>tuna</unclear>
                <lb n="8" break="no"/>nāḻi vaittu-k kuṭuttār paṭā
-               <lb n="9" break="no"/>rakku kampai
+               <lb n="9" break="no"/>ra<reg>r</reg>kku kampai
                <lb n="10" break="no"/>yara<supplied reason="omitted">iya</supplied>ṉ
             </p>
             
@@ -199,7 +199,7 @@
       	
          <div type="translation" resp="part:emfr">
             <p n="1">Fortune!</p>
-            <p n="1-3">Fiftieth year of the victorious king Nandivikramavarman.</p>
+            <p n="1-3">Fiftieth year of the victorious king Nantivikkiramapaṉmar.<note>Sanskrit Nandivikramavarman.</note></p>
             <p n="3-5"/>
             <p n="5-10"/>            
          </div>

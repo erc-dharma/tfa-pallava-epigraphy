@@ -10,23 +10,12 @@
 			<titleStmt>
 				<title>Pullūr plates, time of Nandivarman, year 33</title>
 				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:sybr">
-						<forename>Sylvain</forename>
-						<surname>Brocquet</surname>
-					</persName>
+					<resp>author of digital edition</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
 					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>            
+				</respStmt>    
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
@@ -39,7 +28,7 @@
 							https://creativecommons.org/licenses/by/4.0/ or send a letter to
 							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Sylvain Brocquet &amp; Emmanuel Francis.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
 					</licence>
 				</availability>
 				<date from="2019" to="2025">2019-2025</date>
@@ -648,20 +637,20 @@ mēlpāṟk’ ellai paḻaṅkōḷūr Ellaiyin kiḻakkum <space/>
 
          <div type="bibliography">
 <p>
-	Edited in Tamil script by <bibl><ptr target="bib:Mahalingam1965-1966_01"/></bibl> (EI 36.20);
-	text (with many typos) and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 81);
-	Sanskrit text (based on the very imperfect edition in<bibl><ptr target="bib:Mahalingam1988_01"/></bibl>) and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 56);
-	<bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 83).</p>
-         	<p>This edition by Sylvain Brocquet &amp; Emmanuel Francis, based on previous edition(s), published facsimiles and online photos.
+	Edited in Tamil script by <bibl><ptr target="bib:Mahalingam1965-1966_01"/></bibl> (EI 36.20).
+	Text (with many typos) and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 81).
+	Sanskrit text (based on the very imperfect edition in<bibl><ptr target="bib:Mahalingam1988_01"/></bibl>) and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 56).
+	See <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 83).</p>
+         	<p>This revised edition by Emmanuel Francis, based on previous edition(s), published facsimiles and online photos.
 </p>
          	
             <listBibl type="primary">
 
-            	<bibl n="TVM1966">
+            	<bibl n="EI">
             		<ptr target="bib:Mahalingam1965-1966_01"/>
             	</bibl>         
 
-            	<bibl n="TVM1988">
+            	<bibl n="IP">
             		<ptr target="bib:Mahalingam1988_01"/>
             		<citedRange unit="page">261-279</citedRange>
             		<citedRange unit="item">81</citedRange>
@@ -691,7 +680,6 @@ mēlpāṟk’ ellai paḻaṅkōḷūr Ellaiyin kiḻakkum <space/>
       				<citedRange unit="item">IR 83</citedRange>
       				
       			</bibl>
-      			
           
       		</listBibl>
 
