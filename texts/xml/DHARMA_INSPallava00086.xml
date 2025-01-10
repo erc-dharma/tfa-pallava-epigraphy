@@ -144,7 +144,7 @@
       <lem>Eṉa-t<lb n="9"/>ti<unclear>ri</unclear>ntu</lem>
       <rdg source="bib:VenkatasubbaAyyar1933-1934_01">Ena-t<lb n="9"/>ti<unclear>ri</unclear>ntu</rdg>       
       <rdg source="bib:Mahalingam1959_01 bib:Mahalingam1988_01">Eṉa-t<lb n="9"/>ti<unclear>ri</unclear>ntu</rdg>
-      <note><bibl n="EI_22.18">
+      <note><bibl>
          <ptr target="bib:VenkatasubbaAyyar1933-1934_01"/></bibl> = probably a typo.</note><!--Update! + display siglum in note also-->
    </app>
 		   
@@ -153,7 +153,7 @@
          <lb n="10" break="no"/>ṭūr-</lem>
       <rdg source="bib:VenkatasubbaAyyar1933-1934_01">kaṟkāt<lb n="10" break="no"/>ṭūr-</rdg>      
       <rdg source="bib:Mahalingam1959_01 bib:Mahalingam1988_01">kaṟkāṭ<lb n="10" break="no"/>ṭūr-</rdg>
-      <note><bibl n="EI_22.18">
+      <note><bibl>
          <ptr target="bib:VenkatasubbaAyyar1933-1934_01"/></bibl> = probably a typo.</note><!--Update! + display siglum in note also-->
    </app>
 		   
@@ -161,7 +161,7 @@
       <lem>kaṅkatiyarai<lb n="11" break="no"/>yar</lem>
       <rdg source="bib:VenkatasubbaAyyar1933-1934_01 bib:Mahalingam1959_01">kaṅkatiyarai<lb n="11" break="no"/>yar</rdg>
       <rdg source="bib:Mahalingam1988_01">kaṅkatiyaṟai<lb n="11" break="no"/>yar</rdg>
-      <note><bibl n="EI_22.18">
+      <note><bibl>
          <ptr target="bib:Mahalingam1988_01"/></bibl> = probably a typo.</note><!--Update! + display siglum in note also-->
    </app></listApp>
 				
