@@ -171,9 +171,8 @@
 <p n="13-14"><gap reason="lost"/> we shall feed.</p>
 <p n="15-16"><gap reason="lost"/> we have become <supplied reason="explanation"><foreign>āṉōm</foreign></supplied></p>
 <p n="16-18"><supplied reason="subaudible">Of</supplied> He, who, protecting this <supplied reason="subaudible">donation</supplied>, feeds <supplied reason="explanation">the <hi rend="grantha">Bha</hi>ṭā<hi rend="grantha">ra</hi>r</supplied>, the feet are on our heads.</p>
-
-      		      		
-      	</div>
+         
+         </div>
       	
 <!--<div type="commentary">	
 	
@@ -181,6 +180,7 @@
       	
 <div type="bibliography">
 
+	<p>Reported in <bibl><ptr target="bib:ARIE1921-1922"/></bibl> (ARIE/1921-1922/B/1921/256).</p>
 	<p>
 		Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.39). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 97).</p>
 	<p>This digital edition by Emmanuel Francis, based on previous edition(s).
@@ -204,8 +204,8 @@
 	
 	<listBibl type="secondary">
 		
-		<bibl>
-			<ptr target="bib:ARIE"/>
+		<bibl n="ARIE">
+			<ptr target="bib:ARIE1921-1922"/>
 			<citedRange unit="page">78</citedRange>
 			<citedRange unit="appendix">C/1922</citedRange>
 			<citedRange unit="item">256</citedRange>

@@ -94,7 +94,7 @@
          			<l n="a">Evaṁ vāstv abhavat· mahat· pravigatan nāmnā ca jāty-ādi‡nā</l> 
          			<l n="b">yenāsmin· bahubhir yyathāgama-vidhair ggrāme prayo‡‡gānvitai<orig>ś</orig></l>
          			<l n="c">śrīmat·-pāṭaka-vāsinā kṛta-dhiyā takṣṇā sadā vāgminā</l> 
-         			<l n="d">tenedam· ‡‡ parameśva‡reṇa mahatā yo v<choice><sic>a</sic><corr>ā</corr></choice>stuno bhāskaraḥ <g type="gomutra">.</g><!--check markup--><!--punctuation inside <l> or not?--></l>
+         			<l n="d">tenedam· ‡‡ parameśva‡reṇa mahatā yo v<choice><sic>a</sic><corr>ā</corr></choice>stuno bhāskaraḥ <g type="gomutraFinal">.</g></l>
          		</lg>
          		
          	</div>
@@ -236,11 +236,13 @@
       		
       	</div>      		      	      
       	
-      	<div type="bibliography">
-
- <p>
- 	Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.333). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 95). Text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 59).</p>
-      	   <p>This revised edition by Emmanuel Francis, based on autopsy and photos (2004, 2013).</p>	
+<div type="bibliography">
+   
+   <p>Reported in <bibl><ptr target="bib:ARIE1897-1898"/></bibl> (ARIE/1897-1898/B/1898/50).</p>
+   
+   <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.333). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 95). Text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 59).</p>
+      	   
+   <p>This revised edition by Emmanuel Francis, based on autopsy and photos (2004, 2013).</p>	
       		
 <listBibl type="primary">
             

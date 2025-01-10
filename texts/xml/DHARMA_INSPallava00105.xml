@@ -136,7 +136,7 @@
             
             <p>
                Itaṉai <hi rend="grantha">ra
-<lb n="19" break="no"/><choice><orig>ṭ</orig><reg>ṣ</reg></choice>ṣi</hi>ttār aṭi Iraṇṭum en muṭi mēliṉa
+<lb n="19" break="no"/><choice><orig>ṭ</orig><reg>k</reg></choice>ṣi</hi>ttār aṭi Iraṇṭum en muṭi mēliṉa
 
             </p>
          </div>
@@ -189,12 +189,14 @@
             <p n="17"><foreign>īḻa-viḷakku</foreign>. <bibl><ptr target="bib:Venkayya1905-1906_01"/></bibl> refers to EI 7, p. 134<!--Update-->, for the explanation of this word.</p>
          </div>
 
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-               Edited in <bibl><ptr target="bib:Venkayya1905-1906_01"/></bibl> (EI 8.29). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 105).</p>
-            <p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
-
+   <p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/A/1903/234).</p>
+   
+   <p>Edited in <bibl><ptr target="bib:Venkayya1905-1906_01"/></bibl> (EI 8.29). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 105).</p>
+   
+   <p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
+   
             <listBibl type="primary">
                
                <bibl n="EI">
@@ -210,13 +212,12 @@
                   <citedRange unit="item">105</citedRange>
                </bibl>
                
-               
             </listBibl>
             
             <listBibl type="secondary">
                
-               <bibl>
-                  <ptr target="bib:ARIE"/>
+               <bibl n="ARIE">
+                  <ptr target="bib:ARIE1903-1904"/>
                   <citedRange unit="page">22</citedRange>
                   <citedRange unit="appendix">A/1903</citedRange>
                   <citedRange unit="item">234</citedRange>
