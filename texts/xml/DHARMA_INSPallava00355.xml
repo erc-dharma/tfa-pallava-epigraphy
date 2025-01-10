@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Mutūr, time of <gap reason="lost"/><supplied reason="lost">vi</supplied>kramavarman, year lost</title>
+				<title>Mutūr, time of <gap reason="lost"/><supplied reason="lost">vi</supplied>kramavarman, year [figure lost]</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">

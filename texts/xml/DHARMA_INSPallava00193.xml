@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Piḷḷaippākkam, time of Nṛpatuṅga, year lost</title>
+				<title>Piḷḷaippākkam, time of Nṛpatuṅga, year [figure lost]</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -87,7 +87,7 @@
 			
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       		
-      		<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<lb n="1"/>svasti śrī
 	</ab>
 	
