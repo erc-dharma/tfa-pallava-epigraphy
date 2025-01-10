@@ -95,7 +95,7 @@
 
 		<app loc="1">
 			<lem><hi rend="grantha">śrī-vāmā<unclear>ṁ</unclear>kuśaḥ</hi></lem>
-			<note><bibl><ptr target="bib:Hultzsch1909-1910_01"/><citedRange unit="page">8</citedRange><citedRange unit="note">1</citedRange></bibl> notes that the <foreign>anusvāra</foreign> is doubtful. It does not indeed appear clearly on the facsimile published in <bibl n="EH">
+			<note><bibl><ptr target="bib:Hultzsch1909-1910_01"/><citedRange unit="page">8</citedRange><citedRange unit="note">1</citedRange></bibl> notes that the <foreign>anusvāra</foreign> is doubtful. It does not indeed appear clearly on the visual documentation published in <bibl n="EH">
       				<ptr target="bib:Hultzsch1909-1910_01"/>
       				<citedRange unit="page">8</citedRange>
       				<citedRange unit="item">19</citedRange>
@@ -159,9 +159,9 @@
    
    <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/B/1907/530).</p>
    
-   <p>Edited in <bibl><ptr target="bib:Hultzsch1909-1910_01"/></bibl> (EI 10.1.18), with a facsimile. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 61). Text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl>.</p>
+   <p>Edited in <bibl><ptr target="bib:Hultzsch1909-1910_01"/></bibl> (EI 10.1.18), with visual documentation. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 61). Text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl>.</p>
    
-   <p>This revised edition by Emmanuel Francis, based on autopsy, photos (2009), and facsimile published in <bibl n="EH"><ptr target="bib:Hultzsch1909-1910_01"/></bibl>.</p>
+   <p>This revised edition by Emmanuel Francis, based on autopsy, photos (2009), and visual documentation published in <bibl n="EH"><ptr target="bib:Hultzsch1909-1910_01"/></bibl>.</p>
 
       		<listBibl type="primary">
       			
