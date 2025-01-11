@@ -10,14 +10,7 @@
          <titleStmt>
             <title>Ālaṅkuppam, time of Dantivikramavarman, year 14</title>
             <respStmt>
-               <resp>EpiDoc encoding</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
-                  <surname>Francis</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp>author of digital edition</resp>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>
@@ -47,7 +40,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Hero-stone erected in honour of Cattima Vakilavaṉ Vīraiyar.</summary>
+                  <summary>Hero-stone inscription commemorating the death of Cattima Vakilavaṉ Vīraiyar.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -124,7 +117,7 @@
             
          	<p n="1-3">Fourteenth <supplied reason="subaudible">year</supplied> of the victorious king Dantivikkiramaparumar.<note>Sanskrit Dantivikramavarman.</note></p>
             
-         	<p n="4-8">Stone <supplied reason="explanation"><foreign>kal</foreign></supplied> <supplied reason="subaudible">for</supplied> Cattima Vakilavaṉ Vīraiyar, who fell protecting the village without arm <supplied reason="explanation"><foreign>aḻiyāmai</foreign></supplied> <supplied reason="explanation">for it, that is, the village</supplied>, while Malaiyaṉ <supplied reason="explanation"><foreign>malaiyaṉṉār</foreign></supplied> was ruling over the Aṭaiyāṟunāṭu <supplied reason="subaudible">and</supplied> while an army was coming at once <supplied reason="explanation"><foreign>orukil</foreign> = <foreign>orukāl</foreign>?</supplied> on Maṇarccuṉai <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>peṉṉai</foreign></supplied></p>
+         	<p n="4-8">Stone <supplied reason="explanation"><foreign>kal</foreign></supplied> <supplied reason="subaudible">for</supplied> Cattima Vakilavaṉ Vīraiyar, who fell protecting the village without arm <supplied reason="explanation"><foreign>aḻiyāmai</foreign></supplied> <supplied reason="explanation">for it, that is, the village</supplied>, while Malaiyaṉ <supplied reason="explanation"><foreign>malaiyaṉṉār</foreign></supplied> was ruling over the Aṭaiyāṟunāṭu <supplied reason="subaudible">and</supplied> while an army was coming at once <supplied reason="explanation"><foreign>orukil</foreign> = <foreign>orukāl</foreign>?</supplied> on Maṇarccuṉai <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>peṉṉai</foreign></supplied>.</p>
          	
          </div>
       	

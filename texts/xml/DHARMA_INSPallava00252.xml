@@ -10,14 +10,7 @@
 			<titleStmt>
 				<title>Hebbiṇi, time of Īśvaravarman, year 12</title>
 				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
+					<resp>author of digital edition</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
@@ -47,7 +40,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Hero-stone set up in honour of Aṭiyār who fell at Ciṟiyūr in a
+						<summary>Hero-stone inscription commemorating the death of Aṭiyār who fell at Ciṟiyūr in a
 							battle with Kārōniri Bāṇarāja.</summary>
 					</msContents>
 					<physDesc>

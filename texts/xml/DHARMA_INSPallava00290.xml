@@ -8,16 +8,9 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Pōntai hero-stone</title>
+				<title>Pōntai, hero-stone, time of [name lost], year [figure lost]</title>
 				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
+					<resp>author of digital edition</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
@@ -47,7 +40,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Hero-stone inscription commemorating the death of a hero</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>

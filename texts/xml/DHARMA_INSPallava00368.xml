@@ -8,16 +8,9 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Malayaṉūr, Hero-Stone</title>
+				<title>Malayaṉūr, hero-stone, time of [name lost], year [figure lost]</title>
 				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
+					<resp>author of digital edition</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
@@ -47,7 +40,7 @@
 			<idno/>
 		</msIdentifier>
 		<msContents>
-			<summary>See <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (p. 88): <quote>In similar characters.<note resp="part:emfr">That is, like those of ARIE/1939-1943/B/1940-1941/105, that is, characters of about the 9th century A.D.</note> Fragment. Mentions a certain Nantikuṭṭi, son of Mīnakarkāḷi, and Malaiyaṉūr in Mīkoṉṟai-nāṭu, which he was probably administering.</quote></summary>
+			<summary>Hero-stone inscription commemorating the death of a hero. See <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (p. 88): <quote>In similar characters.<note resp="part:emfr">That is, like those of ARIE/1939-1943/B/1940-1941/105, that is, characters of about the 9th century A.D.</note> Fragment. Mentions a certain Nantikuṭṭi, son of Mīnakarkāḷi, and Malaiyaṉūr in Mīkoṉṟai-nāṭu, which he was probably administering.</quote></summary>
 		</msContents>
 		<physDesc>
 			<handDesc>

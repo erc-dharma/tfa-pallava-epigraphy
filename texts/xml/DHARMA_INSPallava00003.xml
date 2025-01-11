@@ -10,19 +10,13 @@
 			<titleStmt>
 				<title>Hīrahaḍagaḷḷi copper plates, time of Śiva-Skandavarman, year 8 </title>
 				<respStmt>
-					<resp>EpiDoc encoding</resp>
+					<resp>author of digital edition</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
 					</persName>
 				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
+				
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>

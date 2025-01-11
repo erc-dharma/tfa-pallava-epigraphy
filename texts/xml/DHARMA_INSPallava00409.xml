@@ -10,14 +10,7 @@
 			<titleStmt>
 				<title>Puḷiyaṉūr, time of Siṃhavarman or Mahendravarman, year 20</title>
 				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
+					<resp>author of digital edition</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
@@ -117,7 +110,7 @@
       				<lem>°ceyaviru<lb n="2" break="no"/>parkē</lem>
       				<rdg source="bib:Nakacami1975_01"/>
       				<rdg source="bib:Markciyakanti1974_01">ma<choice><sic>Ī</sic><corr>ē</corr></choice>ntira-paruku</rdg>
-      				<note><ptr target="bib:Nakacami1975_01"/> notes that, since another hero-stone (INSPallava407) found nearby, dated to the reign of Siṃhaviṣṇu, mentions also the relatives of Pālāciriyar, the corrupted form <foreign>ciyavirumar</foreign> (that is, <foreign>ceyavirupar</foreign>, as he reads it) might be emended to <foreign>cimmavarmaṉ</foreign>.</note>
+      				<note><ptr target="bib:Nakacami1975_01"/> notes that, since another hero-stone inscription (<ref target="DHARMA_INSPallava00407.xml">Pallava 407</ref>) found nearby, dated to the reign of Siṃhaviṣṇu, mentions also the relatives of Pālāciriyar, the corrupted form <foreign>ciyavirumar</foreign> (that is, <foreign>ceyavirupar</foreign>, as he reads it) might be emended to <foreign>cimmavarmaṉ</foreign>.</note>
       			</app>        			
       			
       			<app loc="3">

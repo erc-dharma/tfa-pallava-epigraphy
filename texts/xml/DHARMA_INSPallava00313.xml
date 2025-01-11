@@ -8,16 +8,9 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Iḷaṅkuṇṇi hero-stone</title>
+				<title>Iḷaṅkuṇṇi, hero-stone, no king, no year</title>
 				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
+					<resp>author of digital edition</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>

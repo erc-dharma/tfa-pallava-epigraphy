@@ -10,16 +10,9 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Vīraṇam, hero-stone, time of Kampapōttaraiyar, year 14</title>
+				<title>Vīraṇam, time of Kampapōttaraiyar, year 14</title>
 				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
+					<resp>author of digital edition</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
@@ -49,7 +42,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the death of a hero in battle. See <ref target="DHARMA_INSPallava00311">INSPallava00311</ref>, same date, of very similar content.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero in battle. See <ref target="DHARMA_INSPallava00311">INSPallava00311</ref>, same date, of very similar content.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>

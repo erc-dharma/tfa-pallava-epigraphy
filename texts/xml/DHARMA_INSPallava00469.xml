@@ -8,16 +8,9 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kāyampaṭṭu, hero-stone</title>
+				<title>Kāyampaṭṭu, hero-stone, no king, no year</title>
 				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
+					<resp>author of digital edition</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
@@ -120,9 +113,8 @@
       	 	</p>
       	 	
       	 	<p n="2-4">
-      	 		Kattaiyaṉ, son of Iṟaiyamaṉ of Tōkkaipāṭi, became weak <supplied reason="explanation"><foreign>īṭṭupaṭṭān</foreign><note>That is, died.</note></supplied> <supplied reason="subaudible">during</supplied> a cattle-raid in Tōkkaipāṭi
+      	 		Kattaiyaṉ, son of Iṟaiyamaṉ of Tōkkaipāṭi, became weak <supplied reason="explanation"><foreign>īṭṭupaṭṭān</foreign><note>That is, died.</note></supplied> <supplied reason="subaudible">during</supplied> a cattle-raid in Tōkkaipāṭi.
       	 	</p>
-      	 	
       	 	
       	</div>
       	
