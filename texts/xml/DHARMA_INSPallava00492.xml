@@ -10,25 +10,10 @@
 			<titleStmt>
 				<title>Kāṭṭumalaiyaṉūr, time of Nandīśvara, year 6[.]</title>
 				<respStmt>
-					<resp>EpiDoc encoding</resp>
+					<resp>author of digital edition</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
-					</persName>
-					<persName ref="part:vagi">
-						<forename>Valérie</forename>
-						<surname>Gillet</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-					<persName ref="part:vagi">
-						<forename>Valérie</forename>
-						<surname>Gillet</surname>
 					</persName>
 				</respStmt>
 			</titleStmt>
@@ -55,7 +40,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>HHero-stone inscription commemorating the death of a hero.</summary>
+						<summary>Hero-stone inscription commemorating the death of a hero.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -148,7 +133,7 @@
 
             <p>Reported in <bibl><ptr target="bib:ARIE2018-2019"/></bibl> (ARIE/2018-2019/B/2018-2019/363).</p>
 	<p>Reported in <ptr target="bib:ARIE2018-2019"/> (ARIE/2018-2019/B/2018-2019/363).</p>
-	<p>This edition by Emmanuel Francis &amp; Valérie Gillet , based on photos.</p>         	
+	<p>This edition by Emmanuel Francis, based on photos (kindly supplied by Valérie Gillet).</p>         	
             	        	
 	<listBibl type="secondary">
 		
