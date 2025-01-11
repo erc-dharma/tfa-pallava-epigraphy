@@ -97,7 +97,7 @@
       			<lb n="3" break="no"/>ṭṭu-c ciṟuppāḻ āḷum pālāyiriyaru makkaḷ
       			<lb n="4"/>ciṟuppaṭuvāṉāru karuṅkālippāṭi-t
       			<lb n="5"/>toṟu-k koḷa-p pūcal ceṉṟu puya
-      			<lb n="6" break="no"/>nāṭṭu-p pila<supplied reason="undefined">yācata</supplied>ṅkaḷ
+      			<lb n="6" break="no"/>nāṭṭu-p pila<supplied reason="lost">yācata</supplied>ṅkaḷ
       			<lb n="7"/>Eṟintu paṭṭāṉ
       			<lb n="8"/>kal
       		</p>
@@ -111,7 +111,7 @@
       			<app loc="1">
       				<lem>parumaṟ<lb n="2" break="no"/>kup</lem>
       				<rdg source="bib:Markciyakanti1974_01 bib:Nakacami1975_01"/>
-      				<rdg source="bib:Hariharan1974_01"><supplied reason="undefined">pa</supplied>rumaṟ<lb n="2" break="no"/>kup</rdg>
+      				<rdg source="bib:Hariharan1974_01"><supplied reason="lost">pa</supplied>rumaṟ<lb n="2" break="no"/>kup</rdg>
       			</app>
       			
       			<app loc="3">
@@ -129,17 +129,17 @@
       			<app loc="4">
       				<lem>ciṟuppaṭuvāṉāru</lem>
       				<rdg source="bib:Markciyakanti1974_01 bib:Nakacami1975_01"/>
-      				<rdg source="bib:Hariharan1974_01">ci<supplied reason="undefined">ṟuppaṭu</supplied>vā<supplied reason="undefined">ṉ</supplied>ṉāru</rdg>
+      				<rdg source="bib:Hariharan1974_01">ci<supplied reason="lost">ṟuppaṭu</supplied>vā<supplied reason="lost">ṉ</supplied>ṉāru</rdg>
       			</app>  
       			
       			<app loc="5">
       				<lem>koḷap</lem>
       				<rdg source="bib:Markciyakanti1974_01 bib:Nakacami1975_01"/>
-      				<rdg source="bib:Hariharan1974_01"><supplied reason="undefined">koḷap</supplied></rdg>
+      				<rdg source="bib:Hariharan1974_01"><supplied reason="lost">koḷap</supplied></rdg>
       			</app>      			
       			
       			<app loc="6">
-      				<lem>pila<supplied reason="undefined">yācata</supplied>ṅkaḷ</lem>
+      				<lem>pila<supplied reason="lost">yācata</supplied>ṅkaḷ</lem>
       				<rdg source="bib:Markciyakanti1974_01 bib:Nakacami1975_01"/>
       				<rdg source="bib:Hariharan1974_01">pilayā cataṅkaḷ</rdg>
       			</app>
@@ -155,7 +155,7 @@
          	</p>
          	
          	<p n="3-8">
-         		<supplied reason="subaudible">This is the</supplied> stone of Pila<supplied reason="undefined">yācata</supplied>ṅkaḷ of the Puyanāṭu who went <supplied reason="subaudible">in</supplied> battle <supplied reason="explanation"><foreign>pūcal</foreign></supplied> <supplied reason="subaudible">and</supplied> fell fighting, while Ciṟuppaṭuvāṉār, a relative <supplied reason="explanation"><foreign>makkaḷ</foreign></supplied> <supplied reason="subaudible">of</supplied> Pālāyiriyar, who rules <supplied reason="explanation"><foreign>āḷum</foreign></supplied> <supplied reason="subaudible">in</supplied> Ciṟuppāl, seized cattle <supplied reason="subaudible">at</supplied> Karuṅkālippāṭi.
+         		<supplied reason="subaudible">This is the</supplied> stone of Pila<supplied reason="lost">yācata</supplied>ṅkaḷ of the Puyanāṭu who went <supplied reason="subaudible">in</supplied> battle <supplied reason="explanation"><foreign>pūcal</foreign></supplied> <supplied reason="subaudible">and</supplied> fell fighting, while Ciṟuppaṭuvāṉār, a relative <supplied reason="explanation"><foreign>makkaḷ</foreign></supplied> <supplied reason="subaudible">of</supplied> Pālāyiriyar, who rules <supplied reason="explanation"><foreign>āḷum</foreign></supplied> <supplied reason="subaudible">in</supplied> Ciṟuppāl, seized cattle <supplied reason="subaudible">at</supplied> Karuṅkālippāṭi.
          	</p>
 
          </div>

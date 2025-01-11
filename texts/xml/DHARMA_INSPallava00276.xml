@@ -95,7 +95,7 @@
 	<p>
 		kaṅkati-Araicaru makka<choice><sic>r</sic><corr>ḷ</corr></choice> mē<choice><sic>ṉ</sic><corr>l</corr></choice> viṇṇaṉṉā
 		<lb n="3" break="no"/>r cēvaka<choice><orig>n</orig><reg>ṉ</reg></choice> toppuravaru-p-pāṭi Ā<unclear>ḷki</unclear>ṉṟa pacirap
-		<lb n="4" break="no"/>paṇṇaṉ kuṟaṭṭātaṉ <gap reason="undefined" quantity="2" unit="character"/> varamu koṇṭa ñāṉ
+		<lb n="4" break="no"/>paṇṇaṉ kuṟaṭṭātaṉ <gap reason="lost" quantity="2" unit="character"/> varamu koṇṭa ñāṉ
 		<lb n="5" break="no"/>ṟ’ eṟin
 		<lb n="6" break="no"/>tu paṭṭā
 		<lb n="7" break="no"/>ṉ kanta
@@ -121,7 +121,7 @@
       	<div type="translation" resp="part:emfr">
       		
       		<p n="1-2">Tirthy-third <supplied reason="subaudible">year</supplied> of the victorious king Ciṅkaviṇṇaparumaṉ.<note>Sanskrit Siṁhaviṣṇuvarman.</note></p>
-      		<p n="2-11"><supplied reason="subaudible">This is</supplied> the stone of the son of the general <supplied reason="explanation"><foreign>ēṉāti</foreign></supplied> Kantaparupu / of Kantaparupu<note>That is, Kantaparumaṉ, according to <ptr target="bib:Mahalingam1988_01"/>.</note>, he who fell <supplied reason="explanation"><foreign>paṭṭāṉ</foreign></supplied> fighting <supplied reason="explanation"><foreign>eṟintu</foreign></supplied> when Pacirappaṇṇaṉ Kuṟaṭṭātaṉ, who was ruling over Toppuravaru-p-pāṭi <supplied reason="subaudible">and who was</supplied> a servant of Viṇṇaṉṉār, took <gap reason="undefined"/> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>varamu</foreign></supplied> against <supplied reason="explanation"><foreign>mēl</foreign><note>Literally: upon.</note></supplied> the people <supplied reason="explanation"><foreign>makkaḷ</foreign></supplied> of Kaṅkati-Araicaru.<note>That is, the Gaṅga king.</note>
+      		<p n="2-11"><supplied reason="subaudible">This is</supplied> the stone of the son of the general <supplied reason="explanation"><foreign>ēṉāti</foreign></supplied> Kantaparupu / of Kantaparupu<note>That is, Kantaparumaṉ, according to <ptr target="bib:Mahalingam1988_01"/>.</note>, he who fell <supplied reason="explanation"><foreign>paṭṭāṉ</foreign></supplied> fighting <supplied reason="explanation"><foreign>eṟintu</foreign></supplied> when Pacirappaṇṇaṉ Kuṟaṭṭātaṉ, who was ruling over Toppuravaru-p-pāṭi <supplied reason="subaudible">and who was</supplied> a servant of Viṇṇaṉṉār, took <gap reason="lost"/> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>varamu</foreign></supplied> against <supplied reason="explanation"><foreign>mēl</foreign><note>Literally: upon.</note></supplied> the people <supplied reason="explanation"><foreign>makkaḷ</foreign></supplied> of Kaṅkati-Araicaru.<note>That is, the Gaṅga king.</note>
       		</p>
       		
       	</div>

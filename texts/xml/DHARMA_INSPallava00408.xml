@@ -89,7 +89,7 @@
       		
       		<p>
       			<lb n="1"/>kō-vicaiya-ciṅka-viṇṇa-parumaṟk<choice><orig>i</orig><reg>u</reg></choice> Iru
-      			<lb n="2" break="no"/><gap reason="undefined" extent="unknown" unit="character"/> <unclear>vē</unclear>ṇāṭṭu <gap reason="undefined" extent="unknown" unit="character"/>   			
+      			<lb n="2" break="no"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>vē</unclear>ṇāṭṭu <gap reason="lost" extent="unknown" unit="character"/>   			
       		</p>
       		
       	</div>      	
@@ -105,7 +105,7 @@
       			</app>   
       			
       			<app loc="1">
-      				<lem>Iru<lb n="2" break="no"/><gap reason="undefined" extent="unknown" unit="character"/> <unclear>vē</unclear>ṇāṭṭu <gap reason="undefined" extent="unknown" unit="character"/></lem>
+      				<lem>Iru<lb n="2" break="no"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>vē</unclear>ṇāṭṭu <gap reason="lost" extent="unknown" unit="character"/></lem>
       				<rdg source="bib:Hariharan1974_01"/>      				 
       				<rdg source="bib:Nakacami1975_01">I<lb n="2" break="no"/><gap reason="lost" quantity="15" unit="character"/>ṭṭu <gap reason="lost" quantity="7" unit="character"/></rdg>
       			</app> 
@@ -117,7 +117,7 @@
          <div type="translation" resp="part:emfr">
          	
          	<p n="1-2">
-         		Twenty-<gap reason="undefined"/> <supplied reason="undefined">year</supplied> of the victorious king Ciṅkaviṇṇaparumaṉ<note>Sanskrit Siṁhaviṣṇuvarman.</note> <gap reason="undefined"/> in the Vēṇāṭu <gap reason="undefined"/>
+         		Twenty-<gap reason="lost"/> <supplied reason="lost">year</supplied> of the victorious king Ciṅkaviṇṇaparumaṉ<note>Sanskrit Siṁhaviṣṇuvarman.</note> <gap reason="lost"/> in the Vēṇāṭu <gap reason="lost"/>
          	</p>         	         	
 
          </div>
@@ -175,4 +175,4 @@
 </TEI>
 <!--Text as edited in Hariharan:
       		<lb n="1"/>kō-vicaiya-ciṅkaviṇṇaparumaṟk<choice><orig>i</orig><reg>u</reg></choice> Iru
-      		<lb n="2" break="no"/><gap reason="undefined" extent="unknown" unit="character"/> <unclear>vē</unclear>ṇāṭṭu <gap reason="undefined" extent="unknown" unit="character"/>-->
+      		<lb n="2" break="no"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>vē</unclear>ṇāṭṭu <gap reason="lost" extent="unknown" unit="character"/>-->

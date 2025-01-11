@@ -100,7 +100,7 @@
       		</p>
       		<p>
       			‡ kāli‡yūr-kōṭṭa‡ttu taṉ kūṟṟu Ut=taramēru-c-ca
-      			<lb n="2" break="no"/><unclear>tu</unclear><hi rend="grantha"><supplied reason="omitted">r</supplied>vveti</hi>-<unclear>maṅkala</unclear>m Ālum ‡ kaṇatt<unclear>ā</unclear>‡r-u‡ḷ kumuḻūr caṉa<supplied reason="omitted">ṟ</supplied>‡kumāra-c-catu<hi rend="grantha"><supplied reason="omitted">r</supplied>vve</hi>ti ‡ <hi rend="grantha">Ā<unclear>gni</unclear>‡ci</hi>t=ta-<hi rend="grantha">sa<supplied reason="omitted">r</supplied>vva‡-kra</hi>tuk=kaḷ <hi rend="grantha">br<choice><sic>a</sic><corr>ā</corr></choice>hma</hi>ṇi Iḷaiyā<unclear>ḷ</unclear>
+      			<lb n="2" break="no"/><unclear>tu</unclear><hi rend="grantha"><reg>r</reg>vveti</hi>-<unclear>maṅkala</unclear>m Ālum ‡ kaṇatt<unclear>ā</unclear>‡r-u‡ḷ kumuḻūr caṉa<supplied reason="omitted">ṟ</supplied>‡kumāra-c-catu<hi rend="grantha"><reg>r</reg>vve</hi>ti ‡ <hi rend="grantha">Ā<unclear>gni</unclear>‡ci</hi>t=ta-<hi rend="grantha">sa<reg>r</reg>vva‡-kra</hi>tuk=kaḷ <hi rend="grantha">br<choice><sic>a</sic><corr>ā</corr></choice>hma</hi>ṇi Iḷaiyā<unclear>ḷ</unclear>
       			<lb n="3"/><unclear>tāḻi</unclear>ccāniyēṉ Eḻuttu
       		</p>
       		
@@ -111,7 +111,7 @@
       			<lb n="7" break="no"/><unclear>tu kā</unclear>ṭṭuvippār Ā<choice><orig>n</orig><reg>ṉ</reg></choice>ār
       		</p>
       		<p> 
-      			‡ nilamu‡<unclear>m</unclear><surplus>ṉ</surplus> nā<unclear>ya</unclear>ṟum Uḷḷa tuṇai‡yum U‡<supplied reason="lost">ttara</supplied>m<unclear>ē</unclear>rūr-c-ca<unclear>tu</unclear><hi rend="grantha"><supplied reason="omitted">r</supplied>vve</hi>
+      			‡ nilamu‡<unclear>m</unclear><surplus>ṉ</surplus> nā<unclear>ya</unclear>ṟum Uḷḷa tuṇai‡yum U‡<supplied reason="lost">ttara</supplied>m<unclear>ē</unclear>rūr-c-ca<unclear>tu</unclear><hi rend="grantha"><reg>r</reg>vve</hi>
       			<lb n="8" break="no"/>ti-maṅkalattu ma<hi rend="grantha">hāsa‡bhai</hi>‡yōmē-y <unclear>kaṭai-k</unclear> kaṇṭu tiru-<unclear>A</unclear>m<unclear>i</unclear>tu ‡ kuṭuppi‡<unclear>ppō</unclear>m ā<choice><orig>n</orig><reg>ṉ</reg></choice>ōm
       		</p>
       		<p>
@@ -125,7 +125,7 @@
          	<listApp>    
          		
          		<app loc="1">
-         			<lem>°va‡<hi rend="grantha"><supplied reason="omitted">r</supplied>mma</hi>‡<supplied reason="omitted">r</supplied>k=ku</lem>
+         			<lem>°va‡<hi rend="grantha"><reg>r</reg>mma</hi>‡<reg>r</reg>k=ku</lem>
          			<rdg source="bib:SubrahmanyaAiyer1928_01">°va<hi rend="grantha">rmma</hi><supplied reason="omitted">r</supplied>k=ku</rdg>
          		</app>
          		
@@ -135,17 +135,17 @@
          		</app>    
          		
          		<app loc="1">
-         			<lem>Ut=taramēru-c-ca<lb n="2" break="no"/> <unclear>tu</unclear><hi rend="grantha"><supplied reason="omitted">r</supplied>vveti</hi>-<unclear>maṅkala</unclear>m</lem>
+         			<lem>Ut=taramēru-c-ca<lb n="2" break="no"/> <unclear>tu</unclear><hi rend="grantha"><reg>r</reg>vveti</hi>-<unclear>maṅkala</unclear>m</lem>
          			<rdg source="bib:SubrahmanyaAiyer1928_01">Uttara<unclear>mēru-c-ca</unclear><lb n="2" break="no"/><unclear>tu</unclear><hi rend="grantha">rvveti</hi>-maṅka<unclear>la</unclear>m</rdg>
          		</app>    
          		
          		<app loc="2">
-         			<lem>°catu<hi rend="grantha"><supplied reason="omitted">r</supplied>vve</hi>ti</lem>
+         			<lem>°catu<hi rend="grantha"><reg>r</reg>vve</hi>ti</lem>
          			<rdg source="bib:SubrahmanyaAiyer1928_01">°catu<hi rend="grantha">rvve</hi>ti</rdg>
          		</app>    
          		
          		<app loc="2">
-         			<lem>°<hi rend="grantha">sa<supplied reason="omitted">r</supplied>vva‡-kra</hi>tuk=kaḷ</lem>
+         			<lem>°<hi rend="grantha">sa<reg>r</reg>vva‡-kra</hi>tuk=kaḷ</lem>
          			<rdg source="bib:SubrahmanyaAiyer1928_01">°<hi rend="grantha">sarvva‡-kra</hi>tuk=kaḷ</rdg>
          		</app>    
          		
@@ -215,7 +215,7 @@
          		</app>    
          		
          		<app loc="7">
-         			<lem>U‡<supplied reason="lost">ttara</supplied>m<unclear>ē</unclear>rūr-c-ca<unclear>tu</unclear><hi rend="grantha"><supplied reason="omitted">r</supplied>vve</hi><lb n="8" break="no"/>ti°</lem>
+         			<lem>U‡<supplied reason="lost">ttara</supplied>m<unclear>ē</unclear>rūr-c-ca<unclear>tu</unclear><hi rend="grantha"><reg>r</reg>ve</hi><lb n="8" break="no"/>ti°</lem>
          			<rdg source="bib:SubrahmanyaAiyer1928_01">Uttaramērūr-c-catu<hi rend="grantha"><unclear>rvve</unclear></hi><lb n="8" break="no"/>ti°</rdg>
          		</app>  
          		

@@ -88,7 +88,7 @@
       	<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215"><!--Check if it is not Vaṭṭeḻuttu-->
       		
       		<p>
-      			<lb n="1"/>na <gap reason="undefined" extent="unknown" unit="character"/> k koṟṟi koṭṭivittatu
+      			<lb n="1"/>na <gap reason="lost" extent="unknown" unit="character"/> k koṟṟi koṭṭivittatu
       		</p>
       		
       	</div>
@@ -109,7 +109,7 @@
 <div type="translation" resp="part:emfr">
          	
          	<p n="1">
-         		That which <gap reason="undefined"/> Koṟṟi had made carved.
+         		That which <gap reason="lost"/> Koṟṟi had made carved.
          	</p>
          	
          </div>

@@ -117,8 +117,8 @@
 		<lb n="12" break="no"/><unclear>ṉ vāy</unclear> m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟu mañcāṭi-p poṉ pali
 		<lb n="13" break="no"/><unclear>cai-y-ā</unclear>ka Ivv-āṭṭai-t tai-t tiṅka<unclear>ḷ muta</unclear>
 		<lb n="14" break="no"/><unclear>l āṟu</unclear> tiṅkaḷil iru-kaḻañcē kāṟ <unclear>ce</unclear>
-		<lb n="15" break="no"/><unclear>ytu po</unclear>ṉṉun tiru-viḷakku ney <supplied reason="undefined"><hi rend="grantha">āca</hi></supplied>
-		<lb n="16" break="no"/><supplied reason="undefined"><hi rend="grantha">ndrakāla</hi>m</supplied> nilai-p poli-y-ūṭṭ-āka <unclear>tiru</unclear>
+		<lb n="15" break="no"/><unclear>ytu po</unclear>ṉṉun tiru-viḷakku ney <supplied reason="lost"><hi rend="grantha">āca</hi></supplied>
+		<lb n="16" break="no"/><supplied reason="lost"><hi rend="grantha">ndrakāla</hi>m</supplied> nilai-p poli-y-ūṭṭ-āka <unclear>tiru</unclear>
 		<lb n="17" break="no"/>-v-oṟṟiyūr āṇi-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻē koṇṭu <unclear>ceṉṟu</unclear>
 		<lb n="18" break="no"/><unclear>Iṭṭu</unclear> kuṭuppōm āṉōm	
 	</p>
@@ -158,10 +158,10 @@
 	<listApp>
 		
 		<app loc="15">
-			<lem>ney <supplied reason="undefined"><hi rend="grantha">āca</hi></supplied>
-		<lb n="16" break="no"/><supplied reason="undefined"><hi rend="grantha">ndrakāla</hi>m</supplied></lem>
-			<rdg source="bib:VenkatasubbaAyyar1943_01">ney <gap reason="undefined" quantity="2" unit="character"/>
-		<lb n="16" break="no"/><gap reason="undefined" quantity="3" unit="character"/></rdg>
+			<lem>ney <supplied reason="lost"><hi rend="grantha">āca</hi></supplied>
+		<lb n="16" break="no"/><supplied reason="lost"><hi rend="grantha">ndrakāla</hi>m</supplied></lem>
+			<rdg source="bib:VenkatasubbaAyyar1943_01">ney <gap reason="lost" quantity="2" unit="character"/>
+		<lb n="16" break="no"/><gap reason="lost" quantity="3" unit="character"/></rdg>
 			<note>See parallel in DHARMA_INSPallava00239<!--update-->, line 14.</note>
 		</app>	
 		 		

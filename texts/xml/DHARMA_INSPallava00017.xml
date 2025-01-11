@@ -113,7 +113,7 @@
 	
 	<lg n="2" met="śārdūlavikrīḍita">
 		<l n="a">Āsīd ambuja-nābha-nābhi-jala-jād abjāsano<lb n="1v4=4" break="no"/>to <supplied reason="subaudible">’</supplied>ṃgirā</l>
-		<l n="b">gī<supplied reason="omitted">r</supplied>-vvāṇeśa-gurus tatas tata-matiś śa<lb n="1v5=5" break="no"/>ṃyur bharadvājakaḥ</l>
+		<l n="b">gī<reg>r</reg>-vvāṇeśa-gurus tatas tata-matiś śa<lb n="1v5=5" break="no"/>ṃyur bharadvājakaḥ</l>
 		<l n="c">droṇo drauṇir ato ’bha-va-t pu<lb n="1v6=6" break="no"/>ra-ripor aṃśas tataḥ pallavaḥ</l>
 		<l n="d">śrīmān-nīradhi-nīra-nīlavasa<lb n="1v7=7" break="no"/>nā-kṣmā-vallabhā-vallabhaḥ <g type="ddanda">.</g></l>
 	</lg>	
@@ -283,7 +283,7 @@
 		</app>     
 		
 		<app loc="4">
-			<lem>gī<supplied reason="omitted">r</supplied>°</lem>
+			<lem>gī<reg>r</reg>°</lem>
 			<rdg source="bib:Subramaniam1959_01">gī<unclear>r</unclear>°</rdg>
 		</app>   
 		

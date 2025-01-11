@@ -136,7 +136,7 @@
    			<listApp>
    				
    				<app loc="2">
-   					<lem>°va<hi rend="grantha"><supplied reason="omitted">r</supplied>mma</hi>k=ku</lem>
+   					<lem>°va<hi rend="grantha"><reg>r</reg>mma</hi>k=ku</lem>
    					<rdg source="bib:VenkatasubbaAyyar1943_01">°va<hi rend="grantha">rmma</hi>k=ku</rdg>
    					<note></note>
    				</app>

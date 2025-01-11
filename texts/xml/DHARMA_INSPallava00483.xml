@@ -103,13 +103,13 @@
             <p>
                tāmaṟ-kōṭṭattu
                <lb n="3"/>poykai-nallūr <hi rend="grantha">sabhai</hi>yōm
-               <lb n="4"/>tiru-vakattī<hi rend="grantha">śva</hi> <gap reason="undefined" extent="unknown" unit="character"/>
-               <lb n="5"/><gap reason="undefined" extent="unknown" unit="character"/> tiruvamirtu paṇṇa <gap reason="undefined" extent="unknown" unit="character"/>
-               <lb n="6"/><gap reason="undefined" extent="unknown" unit="character"/> tiruvamirtukkum āka <gap reason="undefined" extent="unknown" unit="character"/>
+               <lb n="4"/>tiru-vakattī<hi rend="grantha">śva</hi> <gap reason="lost" extent="unknown" unit="character"/>
+               <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> tiruvamirtu paṇṇa <gap reason="lost" extent="unknown" unit="character"/>
+               <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> tiruvamirtukkum āka <gap reason="lost" extent="unknown" unit="character"/>
             </p>   
             
             <p>
-               <gap reason="undefined" extent="unknown" unit="line"/><certainty match=".." locus="name"/>
+               <gap reason="lost" extent="unknown" unit="line"/><certainty match=".." locus="name"/>
             </p>
             
          </div>
@@ -158,11 +158,11 @@
             </p>
             
             <p n="2-6">
-               We, the members of the assembly of Poykainallūr in the Tāmaṟkōṭṭam <gap reason="undefined"/> <supplied reason="undefined">to the Mahādeva of</supplied> the Tiruvakattiśvara <gap reason="undefined"/> glorious food offering  <gap reason="undefined"/> so as to be for glorious food offering <gap reason="undefined"/>
+               We, the members of the assembly of Poykainallūr in the Tāmaṟkōṭṭam <gap reason="lost"/> <supplied reason="lost">to the Mahādeva of</supplied> the Tiruvakattiśvara <gap reason="lost"/> glorious food offering  <gap reason="lost"/> so as to be for glorious food offering <gap reason="lost"/>
             </p>
             
             <p>
-               <gap reason="undefined" extent="unknown" unit="line"/><certainty match=".." locus="name"/>
+               <gap reason="lost" extent="unknown" unit="line"/><certainty match=".." locus="name"/>
             </p>
             
          </div>

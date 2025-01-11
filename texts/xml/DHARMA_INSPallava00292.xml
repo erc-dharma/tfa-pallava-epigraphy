@@ -96,7 +96,7 @@
 		<lb n="3" break="no"/>ṇi Araicaru paṭai-Ōṭu ciri
 		<lb n="4" break="no"/>-kaṅkaraicaru caṅka-maṅkalat
 		<lb n="5" break="no"/>t’ eṟinta ñāṉṟu ciri-kaṅkaraicaru
-		<lb n="6"/>cēvakar-Ōṭu <gap reason="undefined" quantity="1" unit="character" precision="low"/> kaṉāya		
+		<lb n="6"/>cēvakar-Ōṭu <gap reason="lost" quantity="1" unit="character" precision="low"/> kaṉāya		
 		<lb n="7" break="no"/>r Eṟintu paṭṭa kal
 	</p>
          	         	
@@ -120,7 +120,7 @@
       			Nineteenth <supplied reason="subaudible">year</supplied> of Māntaparumaṉ.<note>Sanskrit Māntavarman.</note>
       		</p>
       		<p n="2-7">
-      			<supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> Kaṉāyar,<note>Alternatively <gap reason="undefined" quantity="1" unit="character" precision="low"/><!--Check: implement display of gap in note-->kaṉāyar, taking into account the missing character as part of the name of the deceased hero.</note>,who fell <supplied reason="explanation"><foreign>paṭṭa</foreign><note>Note the phrase <foreign>paṭṭa kal</foreign>, attested also in IP 291<!--Update cross-ref-->, instead of the usual <foreign>paṭṭāṉ</foreign>/<foreign>paṭṭār kal</foreign>.</note></supplied> fighting <supplied reason="explanation"><foreign>eṟintu</foreign></supplied> along with <supplied reason="explanation">-<foreign>ōṭu</foreign><note><ptr target="bib:Mahalingam1988_01"/><!--Check: implement display of siglum in note-->  takes -<foreign>ōṭu</foreign> as part of the name of the deceased hero, that is, Ōṭu-kaṉāyār.</note></supplied> the servants <supplied reason="explanation"><foreign>cēvakar</foreign></supplied> <supplied reason="subaudible">of</supplied> the glorious Gaṅga king, when the glorious Gaṅga king fought <supplied reason="explanation"><foreign>eṟinta</foreign></supplied> in Caṅkamaṅkalam with the army of the Koṅkaṇi king.
+      			<supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> Kaṉāyar,<note>Alternatively <gap reason="lost" quantity="1" unit="character" precision="low"/><!--Check: implement display of gap in note-->kaṉāyar, taking into account the missing character as part of the name of the deceased hero.</note>,who fell <supplied reason="explanation"><foreign>paṭṭa</foreign><note>Note the phrase <foreign>paṭṭa kal</foreign>, attested also in IP 291<!--Update cross-ref-->, instead of the usual <foreign>paṭṭāṉ</foreign>/<foreign>paṭṭār kal</foreign>.</note></supplied> fighting <supplied reason="explanation"><foreign>eṟintu</foreign></supplied> along with <supplied reason="explanation">-<foreign>ōṭu</foreign><note><ptr target="bib:Mahalingam1988_01"/><!--Check: implement display of siglum in note-->  takes -<foreign>ōṭu</foreign> as part of the name of the deceased hero, that is, Ōṭu-kaṉāyār.</note></supplied> the servants <supplied reason="explanation"><foreign>cēvakar</foreign></supplied> <supplied reason="subaudible">of</supplied> the glorious Gaṅga king, when the glorious Gaṅga king fought <supplied reason="explanation"><foreign>eṟinta</foreign></supplied> in Caṅkamaṅkalam with the army of the Koṅkaṇi king.
       		</p>
       		
       	</div>

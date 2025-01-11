@@ -106,11 +106,11 @@
       			<lb n="5" break="no"/>ṭ’ aka-p-paṭṭa paṉai-y nilam it-taṉaiyum ērikkum peyta Aṟam it-ta
       			<lb n="6" break="no"/>ṉaiyumaṉṟāṭuvār nāyakarallā Iḷa-makkaḷ nāyakar itaṉ ṟalai vir
       			<lb n="7" break="no"/>ppaṉ uḷaṉāyilum koḷḷaluṟuvāṉ uḷaṉāyilum nūṟu kaḻañcu
-      			<lb n="8"/>poṉ kōyiṟkku ture <gap reason="undefined" quantity="1" unit="character"/> koḷḷa ōṭṭiṉōm ūrōmum iḷa-makkaḷum
+      			<lb n="8"/>poṉ kōyiṟkku ture <gap reason="lost" quantity="1" unit="character"/> koḷḷa ōṭṭiṉōm ūrōmum iḷa-makkaḷum
       		</p>
       		<p>
       			<lb n="9"/>ivv-aṟattu mēl aṉṟi-p pēciṉāṉ kaṅkai-y iṭai-k kumari Aṭai-c ceytā
-      			<lb n="10" break="no"/>ṉ ceyta pāvam-āka ōṭṭiṉōm <unclear>kaṭava</unclear> <gap reason="undefined" quantity="2" unit="character"/> tum Itta <gap reason="undefined" quantity="2" unit="character"/> ṭamai Ākum     			
+      			<lb n="10" break="no"/>ṉ ceyta pāvam-āka ōṭṭiṉōm <unclear>kaṭava</unclear> <gap reason="lost" quantity="2" unit="character"/> tum Itta <gap reason="lost" quantity="2" unit="character"/> ṭamai Ākum     			
       		</p>
       		
       	</div>
@@ -146,9 +146,9 @@
       			</app>
       			
       		   <app loc="8">
-      		      <lem>ture <gap reason="undefined" quantity="1" unit="character"/></lem>
-      		      <rdg source="bib:Nagaswamy1970_03">ture <gap reason="undefined" quantity="1" unit="character"/></rdg>
-      		      <rdg source="bib:Mahalingam1988_01"><unclear>ture</unclear> <gap reason="undefined" quantity="1" unit="character"/></rdg>
+      		      <lem>ture <gap reason="lost" quantity="1" unit="character"/></lem>
+      		      <rdg source="bib:Nagaswamy1970_03">ture <gap reason="lost" quantity="1" unit="character"/></rdg>
+      		      <rdg source="bib:Mahalingam1988_01"><unclear>ture</unclear> <gap reason="lost" quantity="1" unit="character"/></rdg>
       		      <note><ptr target="bib:Mahalingam1988_01"/> also considers the gap of one character as unclear.</note>
       		   </app>     
       			

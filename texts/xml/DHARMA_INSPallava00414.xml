@@ -88,7 +88,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:vaṭṭeḻuttu maturity:83215">
       		
       		<p>
-      			<lb n="1-3"/><gap reason="undefined" quantity="3" unit="line"/>
+      			<lb n="1-3"/><gap reason="lost" quantity="3" unit="line"/>
       		</p>
       		
       		<p>
@@ -115,7 +115,7 @@
          <div type="translation" resp="part:emfr">
          	
          	<p n="1-3">
-         		<gap reason="undefined" quantity="3" unit="line"/></p>
+         		<gap reason="lost" quantity="3" unit="line"/></p>
          	<p n="4-6">
          		The sluice that <gap reason="ellipsis"/></p>
 

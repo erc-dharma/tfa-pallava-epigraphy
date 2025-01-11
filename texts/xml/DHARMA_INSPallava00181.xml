@@ -272,7 +272,7 @@
                 		<lem>Ippar<choice><orig>u</orig><reg>i</reg></choice>
                 			<lb n="35" break="no"/><unclear>cu</unclear></lem>
                 		<rdg source="bib:Venkayya1911-1912_01">Ippa<unclear>ru</unclear>
-                			<lb n="35" break="no"/><gap reason="undefined" quantity="1" unit="character"/></rdg>
+                			<lb n="35" break="no"/><gap reason="lost" quantity="1" unit="character"/></rdg>
                 	</app>      
                     
                     <app loc="35">

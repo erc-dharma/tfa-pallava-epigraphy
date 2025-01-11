@@ -99,7 +99,7 @@
 		<lb n="5"/>poṟ-cēntiyāñ cēvakaru toṟu
 		<lb n="6" break="no"/>-k-koṇṭa ñāṉṟu mīṭṭu paṭṭā
 		<lb n="7" break="no"/>ṉ <unclear>vē</unclear>ṇāṭ<unclear>ṭu</unclear> nanti
-		<lb n="8" break="no"/><unclear>yār</unclear> kal ka<gap reason="undefined" quantity="2" unit="character"/>
+		<lb n="8" break="no"/><unclear>yār</unclear> kal ka<gap reason="lost" quantity="2" unit="character"/>
 	</p>
 	
          </div>
@@ -108,7 +108,7 @@
 
          	<listApp>
          		<app loc="8">
-         			<lem>ka<gap reason="undefined" quantity="2" unit="character"/></lem>
+         			<lem>ka<gap reason="lost" quantity="2" unit="character"/></lem>
          			<note><ptr target="bib:Mahalingam1988_01"/> suggests these are to be read in continuation with line 7.</note>
          		</app>
          		

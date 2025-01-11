@@ -100,7 +100,7 @@
       			maṟpiṭuku vi<unclear>ḻ</unclear>u		
       			<lb n="3" break="no"/>p-pē<supplied reason="omitted">ra</supplied>raiya<supplied reason="omitted">ṉ</supplied>-āyiṉa cattaṉ utai	
       			<lb n="4" break="no"/>yāṅkuraṉ tiru-neṭuṅkaḷattu		
-      			<lb n="5" break="no"/>-p paṭāra<supplied reason="omitted">r</supplied>kku Oḻukkavi vaitta		
+      			<lb n="5" break="no"/>-p paṭāra<reg>r</reg>kku Oḻukkavi vaitta		
       			<lb n="6"/>poṉ patiṉ aiṅ-kaḻañcu
       		</p>
       		<p>
@@ -124,8 +124,8 @@
          		</app>  
          		         		
          		<app loc="5">
-         			<lem>-p paṭāra<supplied reason="omitted">r</supplied>kku</lem>
-         			<rdg source="bib:Cankita+al_1998"><gap reason="undefined" quantity="2" unit="character"/>paṭāra<supplied reason="omitted">r</supplied>kku</rdg>
+         			<lem>-p paṭāra<reg>r</reg>kku</lem>
+         			<rdg source="bib:Cankita+al_1998"><gap reason="lost" quantity="2" unit="character"/>paṭāra<supplied reason="omitted">r</supplied>kku</rdg>
          		</app>  
          		         		
          		<app loc="6">

@@ -93,12 +93,12 @@
       		</p>
       		
       		<p>      			
-      			<lb n="3"/><supplied reason="undefined">Āḷu</supplied> mīvēṇ<choice><orig>n</orig><reg>ṇ</reg></choice>āṭu
+      			<lb n="3"/><supplied reason="lost">Āḷu</supplied> mīvēṇ<choice><orig>n</orig><reg>ṇ</reg></choice>āṭu
       			<lb n="4"/>ci<choice><orig>r</orig><reg>ṟ</reg></choice>u<choice><orig>p</orig><reg>pp</reg></choice>pāḻ Āḷ
       			<lb n="5" break="no"/>vār pālāciriru mak
-      			<lb n="6" break="no"/>kaḷ māṟaṉ ka<supplied reason="undefined">pe</supplied>
+      			<lb n="6" break="no"/>kaḷ māṟaṉ ka<supplied reason="lost">pe</supplied>
       			<lb n="7" break="no"/>ūru toṟu koṇ
-      			<lb n="8" break="no"/><supplied reason="undefined">ṭa</supplied> ñāṉṟu paṭṭā
+      			<lb n="8" break="no"/><supplied reason="lost">ṭa</supplied> ñāṉṟu paṭṭā
       			<lb n="9" break="no"/>ṉ kal
       		</p>
       		
@@ -121,7 +121,7 @@
       			</app>        			
       			
       			<app loc="3">
-      				<lem><supplied reason="undefined">Āḷu</supplied></lem>
+      				<lem><supplied reason="lost">Āḷu</supplied></lem>
       				<rdg source="bib:Nakacami1975_01"/>
       				<rdg source="bib:Markciyakanti1974_01">Aṇṭa</rdg>
       				<note>Read <foreign>yāṇṭu</foreign>?</note>
@@ -134,14 +134,14 @@
       			</app>  
       			
       			<app loc="6">
-      				<lem>ka<supplied reason="undefined">pe</supplied>
+      				<lem>ka<supplied reason="lost">pe</supplied>
       			<lb n="7" break="no"/>ūru</lem>
       				<rdg source="bib:Nakacami1975_01"/>
       				<rdg source="bib:Markciyakanti1974_01">kaṅkalūru</rdg>
       			</app>  
       			
       			<app loc="7">
-      				<lem>koṇ<lb n="8" break="no"/><supplied reason="undefined">ṭa</supplied></lem>
+      				<lem>koṇ<lb n="8" break="no"/><supplied reason="lost">ṭa</supplied></lem>
       				<rdg source="bib:Nakacami1975_01"/>
       				<rdg source="bib:Markciyakanti1974_01">koḷ</rdg>
       			</app>      			
@@ -157,7 +157,7 @@
          	</p>
          	
          	<p n="2-3">
-         		<supplied reason="subaudible">This is the</supplied> stone <supplied reason="subaudible">of/for</supplied> Mārāṉ, a relative <supplied reason="explanation"><foreign>makkaḷ</foreign></supplied> <supplied reason="subaudible">of</supplied> Pālācirir, the ruler <supplied reason="explanation"><foreign>āḷvār</foreign></supplied> of Ciṟuppāḻ in the Mīvēṇṇāṭu, he who fell at the time of seizing cattle <supplied reason="subaudible">at</supplied> <gap reason="ellipsis"/><note>The name of this place is unclear: Kaṅkalūr for <bibl><ptr target="bib:Markciyakanti1974_01"/></bibl>, Ka<supplied reason="undefined">pe</supplied>yūr for <bibl><ptr target="bib:Nakacami1975_01"/></bibl>.</note>.
+         		<supplied reason="subaudible">This is the</supplied> stone <supplied reason="subaudible">of/for</supplied> Mārāṉ, a relative <supplied reason="explanation"><foreign>makkaḷ</foreign></supplied> <supplied reason="subaudible">of</supplied> Pālācirir, the ruler <supplied reason="explanation"><foreign>āḷvār</foreign></supplied> of Ciṟuppāḻ in the Mīvēṇṇāṭu, he who fell at the time of seizing cattle <supplied reason="subaudible">at</supplied> <gap reason="ellipsis"/><note>The name of this place is unclear: Kaṅkalūr for <bibl><ptr target="bib:Markciyakanti1974_01"/></bibl>, Ka<supplied reason="lost">pe</supplied>yūr for <bibl><ptr target="bib:Nakacami1975_01"/></bibl>.</note>.
          	</p>         	         	
 
          </div>

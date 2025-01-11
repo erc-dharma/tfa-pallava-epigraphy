@@ -99,7 +99,7 @@
 	</p>
 	
 	<p>
-		kat <gap reason="undefined" extent="unknown" unit="character"/>
+		kat <gap reason="lost" extent="unknown" unit="character"/>
 	</p>
 		
 </div>
@@ -125,7 +125,7 @@
 		</app>	
 		
 		<app loc="3">
-			<lem>kat <gap reason="undefined" extent="unknown" unit="character"/></lem>					
+			<lem>kat <gap reason="lost" extent="unknown" unit="character"/></lem>					
 			<rdg source="bib:Rajavelu2008_01"><unclear>tanku</unclear></rdg>
 			<rdg source="bib:Badhreenath2015_01">kat</rdg>
 		</app>	

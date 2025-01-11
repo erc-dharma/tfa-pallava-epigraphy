@@ -99,11 +99,11 @@
       			<lb n="4" break="no"/>ṭṭai-<choice><orig>Ū</orig><reg>y-ū</reg></choice>
       			<lb n="5" break="no"/>ṟ ṟoṟu
       			<lb n="6"/>koṇṭa ñā
-      			<lb n="7"/><supplied reason="undefined">ṉ</supplied>ṟu ciṟu<choice><orig>p</orig><reg>pp</reg></choice>āḻ ā
+      			<lb n="7"/><supplied reason="lost">ṉ</supplied>ṟu ciṟu<choice><orig>p</orig><reg>pp</reg></choice>āḻ ā
       			<lb n="8" break="no"/>ḷum pālā
       			<lb n="9" break="no"/>cirika
       			<lb n="10" break="no"/>ru makaṉ
-      			<lb n="11"/>vīrava<supplied reason="undefined">ru</supplied>
+      			<lb n="11"/>vīrava<supplied reason="lost">ru</supplied>
       			<lb n="12"/>kal
       		</p>
       		
@@ -133,14 +133,14 @@
       			</app>   
       			
       			<app loc="6">
-      				<lem>ñā<lb n="7"/><supplied reason="undefined">ṉ</supplied>ṟu</lem>
+      				<lem>ñā<lb n="7"/><supplied reason="lost">ṉ</supplied>ṟu</lem>
       				<rdg source="bib:Nakacami1975_01"/>
       				<rdg source="bib:Markciyakanti1974_01">ñāṉṟu</rdg>      				
       				<note/>
       			</app>   
       			
       			<app loc="11">
-      				<lem>vīrava<supplied reason="undefined">ru</supplied></lem>
+      				<lem>vīrava<supplied reason="lost">ru</supplied></lem>
       				<rdg source="bib:Nakacami1975_01"/>
       				<rdg source="bib:Markciyakanti1974_01">vīravaru</rdg>      				
       				<note/>

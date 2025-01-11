@@ -103,13 +103,13 @@
       			<lb n="4" break="no"/>ruvīraṭṭāṉattu mātēvarku nantā viḷa
       			<lb n="5" break="no"/>kk’ i<unclear>ravu</unclear>m pakalu<choice><orig>mm</orig><reg>m</reg></choice> iraṇṭu viḷakk’ erippata
       			<lb n="6" break="no"/>ṟ<unclear>ku viṭēlvi</unclear>ṭuku I<unclear>ḷaṅkō</unclear> Ati-Araiyaṉ āyi
-      			<lb n="7" break="no"/><supplied reason="undefined">ṉa</supplied> <gap reason="undefined" quantity="9" unit="character"/> vi<hi rend="grantha">kra</hi>mapūti makaḷ viṭē
-      			<lb n="8" break="no"/><supplied reason="undefined">l-viṭuku</supplied> <gap reason="undefined" quantity="6" unit="character"/> <supplied reason="undefined">ā</supplied>yiṉa cāttaṉ maṟavaṉ ṟēvi pūti
-      			<lb n="9"/><gap reason="undefined" quantity="10" unit="character"/> viṭēlviṭuku kallā<supplied reason="omitted">l</supplied> ni
-      			<lb n="10" break="no"/><gap reason="undefined" quantity="10" unit="character"/> ṉ ṉiṟai nārpatt’ eṇ ka
-      			<lb n="11" break="no"/><supplied reason="undefined">ḻañcu</supplied> <gap reason="undefined" quantity="5" unit="character"/> <supplied reason="undefined">pali</supplied>cai kaḻañciṉ vāy-t tiṅ
-      			<lb n="12" break="no"/><gap reason="undefined" quantity="8" unit="character"/> <supplied reason="undefined">a</supplied>ṭṭuvat’ āka tiru-k-kōvalūr
-      			<lb n="13"/><supplied reason="undefined">nakara</supplied>ttār <supplied reason="undefined">kai</supplied>y v<choice><sic>ai</sic><corr>a</corr></choice>ḻi <supplied reason="omitted">vai</supplied>ttatu       			
+      			<lb n="7" break="no"/><supplied reason="lost">ṉa</supplied> <gap reason="lost" quantity="9" unit="character"/> vi<hi rend="grantha">kra</hi>mapūti makaḷ viṭē
+      			<lb n="8" break="no"/><supplied reason="lost">l-viṭuku</supplied> <gap reason="lost" quantity="6" unit="character"/> <supplied reason="lost">ā</supplied>yiṉa cāttaṉ maṟavaṉ ṟēvi pūti
+      			<lb n="9"/><gap reason="lost" quantity="10" unit="character"/> viṭēlviṭuku kallā<supplied reason="omitted">l</supplied> ni
+      			<lb n="10" break="no"/><gap reason="lost" quantity="10" unit="character"/> ṉ ṉiṟai nārpatt’ eṇ ka
+      			<lb n="11" break="no"/><supplied reason="lost">ḻañcu</supplied> <gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">pali</supplied>cai kaḻañciṉ vāy-t tiṅ
+      			<lb n="12" break="no"/><gap reason="lost" quantity="8" unit="character"/> <supplied reason="lost">a</supplied>ṭṭuvat’ āka tiru-k-kōvalūr
+      			<lb n="13"/><supplied reason="lost">nakara</supplied>ttār <supplied reason="lost">kai</supplied>y v<choice><sic>ai</sic><corr>a</corr></choice>ḻi <supplied reason="omitted">vai</supplied>ttatu       			
       		</p>      		
       		
       	</div>
@@ -118,29 +118,29 @@
       		
       		<listApp><app loc="6">
       			<lem>āyi
-      			<lb n="7" break="no"/><supplied reason="undefined">ṉa</supplied></lem>
+      			<lb n="7" break="no"/><supplied reason="lost">ṉa</supplied></lem>
       			<rdg source="bib:SubrahmanyaAiyer1932_01">āyi
-      			<lb n="7" break="no"/><gap reason="undefined" quantity="1" unit="character"/></rdg>
+      			<lb n="7" break="no"/><gap reason="lost" quantity="1" unit="character"/></rdg>
       		</app>
       		
       		<app loc="7">
       			<lem>viṭē
-      			<lb n="8" break="no"/><supplied reason="undefined">l-viṭuku</supplied></lem>
+      			<lb n="8" break="no"/><supplied reason="lost">l-viṭuku</supplied></lem>
       			<rdg source="bib:SubrahmanyaAiyer1932_01">viṭē
-      			<lb n="8" break="no"/><gap reason="undefined" quantity="4" unit="character"/></rdg>
+      			<lb n="8" break="no"/><gap reason="lost" quantity="4" unit="character"/></rdg>
       		</app>
       		
       		<app loc="10">
       			<lem>ka
-      			<lb n="11" break="no"/><supplied reason="undefined">ḻañcu</supplied></lem>
+      			<lb n="11" break="no"/><supplied reason="lost">ḻañcu</supplied></lem>
       			<rdg source="bib:SubrahmanyaAiyer1932_01">ka
-      			<lb n="11" break="no"/><gap reason="undefined" quantity="3" unit="character"/></rdg>
+      			<lb n="11" break="no"/><gap reason="lost" quantity="3" unit="character"/></rdg>
       		</app>
       		
       		<app loc="13">
-      			<lem><supplied reason="undefined">nakara</supplied>ttār</lem>
+      			<lem><supplied reason="lost">nakara</supplied>ttār</lem>
       			<rdg source="bib:SubrahmanyaAiyer1932_01">
-      			<gap reason="undefined" quantity="3" unit="character"/>ttār</rdg>
+      			<gap reason="lost" quantity="3" unit="character"/>ttār</rdg>
       		</app>	</listApp>
       		
       	</div>

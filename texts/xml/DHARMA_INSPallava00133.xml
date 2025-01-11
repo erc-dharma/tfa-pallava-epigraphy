@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tiruvallam, time of Nandi<supplied reason="undefined">vikra</supplied>mava<supplied reason="undefined">r</supplied>man, year 17</title>
+            <title>Tiruvallam, time of Nandi<supplied reason="lost">vikra</supplied>mava<supplied reason="lost">r</supplied>man, year 17</title>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:emfr">
@@ -85,13 +85,13 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       		
       		<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-             <lb n="1"/><hi rend="grantha"><unclear>sva</unclear><supplied reason="undefined">sti śrī</supplied></hi>
+             <lb n="1"/><hi rend="grantha"><unclear>sva</unclear><supplied reason="lost">sti śrī</supplied></hi>
           </ab> 
           
           <p>
              kō-vicaiya nan
-             <lb n="2" break="no"/>ti-<supplied reason="undefined">vikkira</supplied>
-             <lb n="3" break="no"/>ma-<supplied reason="undefined">pa</supplied>rumarkku yā
+             <lb n="2" break="no"/>ti-<supplied reason="lost">vikkira</supplied>
+             <lb n="3" break="no"/>ma-<supplied reason="lost">pa</supplied>rumarkku yā
              <lb n="4" break="no"/>ṇṭu patiṉ eḻ-āva
              <lb n="5" break="no"/>tu
           </p>
@@ -99,15 +99,15 @@
              Iḷaiyanūr-nāṭṭu I<unclear>ḷaiya</unclear>nū
              <lb n="6" break="no"/>r iruntu vāḻu<supplied reason="omitted">m</supplied> mōṉaiyār ma
              <lb n="7" break="no"/><unclear>kaṉ</unclear> viṉaiyā<hi rend="grantha">ditya</hi>n tikkāḷi
-             <lb n="8" break="no"/><unclear>ya</unclear>ṭikaḷukku Oḻuk<unclear>k-a</unclear>vi naṉ <gap reason="undefined" quantity="3" unit="character"/>
-             <lb n="9" break="no"/><gap reason="undefined" quantity="1" unit="character"/> ri Ariciyum āḻākku ne<choice><orig>y</orig><reg>yy</reg></choice>um
-             <lb n="10" break="no"/><gap reason="undefined" quantity="1" unit="character"/> kku toṇṭai-pūvun niyati <gap reason="undefined" quantity="1" unit="character"/>
+             <lb n="8" break="no"/><unclear>ya</unclear>ṭikaḷukku Oḻuk<unclear>k-a</unclear>vi naṉ <gap reason="lost" quantity="3" unit="character"/>
+             <lb n="9" break="no"/><gap reason="lost" quantity="1" unit="character"/> ri Ariciyum āḻākku ne<choice><orig>y</orig><reg>yy</reg></choice>um
+             <lb n="10" break="no"/><gap reason="lost" quantity="1" unit="character"/> kku toṇṭai-pūvun niyati <gap reason="lost" quantity="1" unit="character"/>
              <lb n="11" /><unclear>ti</unclear>kkāli Aṭikaḷukku vaḻi
-             <lb n="12" break="no"/>pāṭu cey<unclear>vatāka</unclear> kuṭuttān <gap reason="undefined" quantity="2" unit="character"/>
-             <lb n="13" break="no"/><gap reason="undefined" quantity="1" unit="character"/> lu paṭṭi <gap reason="undefined" quantity="4" unit="character"/> lvarkku <unclear>pūca</unclear>
-             <lb n="14" break="no"/><gap reason="undefined" quantity="1" unit="character"/> kai-ceyya-k koṭut<unclear>tān</unclear>
-             <lb n="15" break="no"/><gap reason="undefined" quantity="1" unit="character"/> taṉaiyu<choice><orig>mm</orig><reg>m</reg></choice> orunāḷ muṭ
-             <lb n="16" break="no"/><gap reason="undefined" quantity="2" unit="character"/> māyiṟa kaṅkai Iṭai<unclear>k kumari</unclear>
+             <lb n="12" break="no"/>pāṭu cey<unclear>vatāka</unclear> kuṭuttān <gap reason="lost" quantity="2" unit="character"/>
+             <lb n="13" break="no"/><gap reason="lost" quantity="1" unit="character"/> lu paṭṭi <gap reason="lost" quantity="4" unit="character"/> lvarkku <unclear>pūca</unclear>
+             <lb n="14" break="no"/><gap reason="lost" quantity="1" unit="character"/> kai-ceyya-k koṭut<unclear>tān</unclear>
+             <lb n="15" break="no"/><gap reason="lost" quantity="1" unit="character"/> taṉaiyu<choice><orig>mm</orig><reg>m</reg></choice> orunāḷ muṭ
+             <lb n="16" break="no"/><gap reason="lost" quantity="2" unit="character"/> māyiṟa kaṅkai Iṭai<unclear>k kumari</unclear>
           </p>          
                     
        </div>

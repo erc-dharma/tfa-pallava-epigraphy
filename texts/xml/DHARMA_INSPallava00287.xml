@@ -89,12 +89,12 @@
 	
 	<p>
 		<gap reason="lost" quantity="4" unit="line" precision="low"/>
-		<lb n="5"/><gap reason="undefined" quantity="3" unit="character" precision="low"/> maru-mak
+		<lb n="5"/><gap reason="lost" quantity="3" unit="character" precision="low"/> maru-mak
 		<!-- Check! Line numbering from 1 or from 5?-->
-		<lb n="6" break="no"/><supplied reason="undefined">kaḷ poṉ</supplied>ṉarampaṉā
-		<lb n="7" break="no"/><supplied reason="undefined">ṉār vā</supplied>ṇa-kō-Araicaru
-		<lb n="8"/><supplied reason="undefined">maru-mak</supplied>kaḷ kantaviṇṇa
-		<lb n="9" break="no"/><supplied reason="undefined">ṉār</supplied> <gap reason="undefined" quantity="1" unit="character" precision="low"/><unclear>ṟa</unclear>la-p-puñci-c ceṉṟa
+		<lb n="6" break="no"/><supplied reason="lost">kaḷ poṉ</supplied>ṉarampaṉā
+		<lb n="7" break="no"/><supplied reason="lost">ṉār vā</supplied>ṇa-kō-Araicaru
+		<lb n="8"/><supplied reason="lost">maru-mak</supplied>kaḷ kantaviṇṇa
+		<lb n="9" break="no"/><supplied reason="lost">ṉār</supplied> <gap reason="lost" quantity="1" unit="character" precision="low"/><unclear>ṟa</unclear>la-p-puñci-c ceṉṟa
 		<lb n="10"/><unclear>ñā</unclear>ṉṟu poṉṉarampaṉār cē
 		<lb n="11" break="no"/>vakaṉ vaḷiya-p-pūṟār maka
 		<lb n="12" break="no"/>ṉ tā
@@ -119,7 +119,7 @@
       		<p n="1-14">
       			<gap reason="lost" quantity="4" unit="line" precision="low"/>
       			<!--Display or encoding issue? Fusion of parentheses of perentheses undesirable here-->
-      			<supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> Tāḷaccāmi, the son <supplied reason="subaudible">of</supplied> Vaḷiyappūṟār, the servant <supplied reason="subaudible">of</supplied> Poṉṉarampaṉār, <supplied reason="subaudible">he who fell</supplied> when Poṉṉarampaṉār, the nephew <supplied reason="undefined">of the royal Bāṇa king</supplied>, went <supplied reason="explanation"><foreign>ceṉṟu</foreign></supplied> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>*<!--Check! <gap/> not allowed within <supplied/>--><unclear>ṟa</unclear>la-p-puñci</foreign><note>This phrase designates either the place of the fight or a complement to the action expressed by <foreign>ceṉṟu</foreign> (<foreign>puñci</foreign>, "having gathered") or both.</note></supplied> <seg cert="low"><supplied reason="subaudible">against</supplied></seg> Kantaviṇṇaṉār, the nephew of the royal Bāṇa king.
+      			<supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> Tāḷaccāmi, the son <supplied reason="subaudible">of</supplied> Vaḷiyappūṟār, the servant <supplied reason="subaudible">of</supplied> Poṉṉarampaṉār, <supplied reason="subaudible">he who fell</supplied> when Poṉṉarampaṉār, the nephew <supplied reason="lost">of the royal Bāṇa king</supplied>, went <supplied reason="explanation"><foreign>ceṉṟu</foreign></supplied> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>*<!--Check! <gap/> not allowed within <supplied/>--><unclear>ṟa</unclear>la-p-puñci</foreign><note>This phrase designates either the place of the fight or a complement to the action expressed by <foreign>ceṉṟu</foreign> (<foreign>puñci</foreign>, "having gathered") or both.</note></supplied> <seg cert="low"><supplied reason="subaudible">against</supplied></seg> Kantaviṇṇaṉār, the nephew of the royal Bāṇa king.
       		</p>
       		      		
 </div>

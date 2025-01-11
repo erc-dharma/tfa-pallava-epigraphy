@@ -88,12 +88,12 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:vaṭṭeḻuttu maturity:83215">
 	
 	<p>
-		<lb n="1"/>kō-vicaiya ma<supplied reason="undefined">yē</supplied>ntira-paruma<unclear>ṟku mu</unclear>
+		<lb n="1"/>kō-vicaiya ma<supplied reason="lost">yē</supplied>ntira-paruma<unclear>ṟku mu</unclear>
 		<lb n="2" break="no"/>-p-patt’ iraṇṭ-āvatu		
 	</p>
 	
 	<p>
-		<gap reason="undefined" quantity="4" unit="character"/>yai to
+		<gap reason="lost" quantity="4" unit="character"/>yai to
 		<lb n="3" break="no"/>ṟu-k koṇṭa ñāṉṟu po<choice><orig>ṉ</orig><reg>ṟ</reg></choice>-mōtaṉṉā
 		<lb n="4" break="no"/>r cēvakaṉ Akkantai kōṭaṉ
 		<lb n="5" />toṟu viṭuvittu-p paṭṭā
@@ -106,8 +106,8 @@
 
          	<listApp>
          		<app loc="1">
-         			<lem>ma<supplied reason="undefined">yē</supplied>ntira°</lem>
-         			<rdg source="bib:Nakacami1972_01">ma<gap reason="undefined" quantity="2" unit="character"></gap>ntira°</rdg>
+         			<lem>ma<supplied reason="lost">yē</supplied>ntira°</lem>
+         			<rdg source="bib:Nakacami1972_01">ma<gap reason="lost" quantity="2" unit="character"></gap>ntira°</rdg>
          			<note>Cf. DHARMA_INSPallava00280, same findspot, king, and year.<!--Update cros-ref--></note>
          		</app>
          		
@@ -117,8 +117,8 @@
 
       	<div type="translation" resp="part:emfr">
       		
-      		<p n="1-2">Tirthy-second <supplied reason="subaudible">year</supplied> of the victorious king Ma<supplied reason="undefined">yē</supplied>ntiraparumaṉ.<note>Sanskrit Mahendravarman.</note></p>
-      		<p n="2-6"><supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> Akkantai Kōṭaṉ, the servant of Poṟmōtaṉṉār<note>Cf. Poṟmōtaṉār in DHARMA_INSPallava00281, same findspot, king, and year.<!--Update cros-ref--></note>, he who fell recapturing <supplied reason="explanation"><foreign>viṭuvittu</foreign><note>Literally "liberating".</note></supplied> cattle when <gap reason="ellipsis"/> <supplied reason="explanation"><foreign><!--<gap reason="undefined" quantity="4" unit="character"/>--><!--Problem: <gap> not allowed within supplied-->yai</foreign></supplied> seized cattle.
+      		<p n="1-2">Tirthy-second <supplied reason="subaudible">year</supplied> of the victorious king Ma<supplied reason="lost">yē</supplied>ntiraparumaṉ.<note>Sanskrit Mahendravarman.</note></p>
+      		<p n="2-6"><supplied reason="subaudible">This is</supplied> the stone <supplied reason="subaudible">of</supplied> Akkantai Kōṭaṉ, the servant of Poṟmōtaṉṉār<note>Cf. Poṟmōtaṉār in DHARMA_INSPallava00281, same findspot, king, and year.<!--Update cros-ref--></note>, he who fell recapturing <supplied reason="explanation"><foreign>viṭuvittu</foreign><note>Literally "liberating".</note></supplied> cattle when <gap reason="ellipsis"/> <supplied reason="explanation"><foreign><!--<gap reason="lost" quantity="4" unit="character"/>--><!--Problem: <gap> not allowed within supplied-->yai</foreign></supplied> seized cattle.
       		</p>
       		
       	</div>

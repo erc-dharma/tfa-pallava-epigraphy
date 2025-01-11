@@ -104,7 +104,7 @@
 		<lb n="5" break="no"/>ṭaiya pāra
 		<lb n="6" break="no"/>tāyar maka
 		<lb n="7" break="no"/>ṉ toṟu mī
-		<lb n="8" break="no"/>ṭṭu-p <supplied reason="undefined">paṭṭā</supplied>
+		<lb n="8" break="no"/>ṭṭu-p <supplied reason="lost">paṭṭā</supplied>
 		<lb n="9" break="no"/>ṉ mukaṉ	
 	</p>
 		
@@ -114,9 +114,9 @@
       		
       		<listApp>
       			<app loc="8">
-      				<lem><supplied reason="undefined">paṭṭā</supplied>
+      				<lem><supplied reason="lost">paṭṭā</supplied>
       					<lb n="9" break="no"/>ṉ</lem>
-      				<rdg source="bib:Nakacami1972_01"><gap reason="undefined" quantity="2" unit="character" precision="low"/>
+      				<rdg source="bib:Nakacami1972_01"><gap reason="lost" quantity="2" unit="character" precision="low"/>
       					<lb n="9" break="no"/>ṉ</rdg>         			
       			</app>      		
       			
@@ -127,7 +127,7 @@
 <div type="translation" resp="part:emfr">
       		
       		<p n="1">
-      			<supplied reason="undefined">Fortune!</supplied>
+      			<supplied reason="lost">Fortune!</supplied>
       		</p>
       		
       		<p n="1-2">
@@ -135,7 +135,7 @@
       		</p>
       		
       		<p n="3-8">
-      			Mukaṉ<!--Update:add markup for translation unclear, tentative-->, the son <supplied reason="subaudible">of</supplied> Pāratāyar, the lord of Mēṟceṅkai<note>Alternatively, simply "Pāratāyar of Mēṟceṅkai".</note><!--Update: translate: māmm. Part of the placename-->, fell recovering cattle, when <supplied reason="undefined">Va</supplied>miṟaiyār<!--Update:add markup for translation unclear, tentative-->, a temple dignitary <supplied reason="explanation"><foreign>kōyil paṭṭar</foreign></supplied> in Iḷakkōvūrnāṭu in Vēṇāṭu, came and seized cattle.
+      			Mukaṉ<!--Update:add markup for translation unclear, tentative-->, the son <supplied reason="subaudible">of</supplied> Pāratāyar, the lord of Mēṟceṅkai<note>Alternatively, simply "Pāratāyar of Mēṟceṅkai".</note><!--Update: translate: māmm. Part of the placename-->, fell recovering cattle, when <supplied reason="lost">Va</supplied>miṟaiyār<!--Update:add markup for translation unclear, tentative-->, a temple dignitary <supplied reason="explanation"><foreign>kōyil paṭṭar</foreign></supplied> in Iḷakkōvūrnāṭu in Vēṇāṭu, came and seized cattle.
       			 
       		</p>      		
       		

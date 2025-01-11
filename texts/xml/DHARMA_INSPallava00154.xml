@@ -289,7 +289,7 @@
 		
 		<app loc="19">
 			<lem>ceyvi<supplied reason="omitted">t</supplied>tatu</lem>
-			<rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02">ceyvitta<gap reason="undefined" quantity="4" unit="character"/></rdg>
+			<rdg source="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02">ceyvitta<gap reason="lost" quantity="4" unit="character"/></rdg>
 			<rdg source="bib:Balasubrahmanyan+VenkatarangaRaju1934_01">ceyvitta</rdg>
 			<rdg source="bib:VenkatasubbaAyyar1943_01">ceyvi<supplied reason="omitted">t</supplied>tatu</rdg>
 			<rdg source="bib:Mahalingam1988_01">ceyvi<unclear>t</unclear>tatu</rdg>

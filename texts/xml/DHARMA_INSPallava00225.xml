@@ -98,7 +98,7 @@
 	
 	<p>
 		<unclear>paṭuvūr-k-kōṭṭat</unclear>tu-k kāvati
-		<lb n="2" break="no"/>ppākkam yāḷum kaṇattā<unclear>ru</unclear><supplied reason="undefined">ḷ</supplied> <gap reason="undefined" quantity="1" unit="character"/> ñcān <gap reason="undefined" quantity="3" unit="character"/> paṭṭaṉ rā<hi rend="grantha">ja</hi>
+		<lb n="2" break="no"/>ppākkam yāḷum kaṇattā<unclear>ru</unclear><supplied reason="lost">ḷ</supplied> <gap reason="lost" quantity="1" unit="character"/> ñcān <gap reason="lost" quantity="3" unit="character"/> paṭṭaṉ rā<hi rend="grantha">ja</hi>
 		<lb n="3" break="no"/>malla-c-cat<choice><sic>i</sic><corr>u</corr></choice><hi rend="grantha"><unclear>rvv</unclear>e</hi><unclear>ti-maṅ</unclear>kalattu-t tiru-p-pontai
 		<lb n="4" break="no"/><unclear>p</unclear>-p<unclear>e</unclear>rumā<choice><orig>n</orig><reg>ṉ</reg></choice>aṭikaḷ <hi rend="grantha">śrī</hi>-kōyilil-t taṇṇīr Aṭṭuva<unclear>tāka</unclear> v<unclear>ai</unclear>tta poṉ pati<choice><orig>n</orig><reg>ṉ</reg></choice> oru kaḻa
 		<lb n="5" break="no"/>ñcu
@@ -127,22 +127,22 @@
 		</app>		
 	
 		<app loc="2">
-			<lem>kaṇattā<unclear>ru</unclear><supplied reason="undefined">ḷ</supplied> </lem>
-			<rdg source="bib:VenkatasubbaAyyar1943_01">kaṇattā<unclear>ru</unclear><gap reason="undefined" quantity="1" unit="character"/></rdg>
-			<rdg source="bib:MarxiaGandhi+al2011_01">kaṇattā<gap reason="undefined" quantity="2" unit="character"/></rdg>
+			<lem>kaṇattā<unclear>ru</unclear><supplied reason="lost">ḷ</supplied> </lem>
+			<rdg source="bib:VenkatasubbaAyyar1943_01">kaṇattā<unclear>ru</unclear><gap reason="lost" quantity="1" unit="character"/></rdg>
+			<rdg source="bib:MarxiaGandhi+al2011_01">kaṇattā<gap reason="lost" quantity="2" unit="character"/></rdg>
 
 		</app>		
 		
 		<app loc="2">
-			<lem><gap reason="undefined" quantity="1" unit="character"/> ñcān <gap reason="undefined" quantity="3" unit="character"/> paṭṭaṉ</lem>
-			<rdg source="bib:VenkatasubbaAyyar1943_01"><gap reason="undefined" quantity="1" unit="character"/> ñcān <gap reason="undefined" quantity="3" unit="character"/> paṭṭaṉ</rdg>
-			<rdg source="bib:MarxiaGandhi+al2011_01"><gap reason="undefined" quantity="4" unit="character"/> paṭṭaṉ</rdg>
+			<lem><gap reason="lost" quantity="1" unit="character"/> ñcān <gap reason="lost" quantity="3" unit="character"/> paṭṭaṉ</lem>
+			<rdg source="bib:VenkatasubbaAyyar1943_01"><gap reason="lost" quantity="1" unit="character"/> ñcān <gap reason="lost" quantity="3" unit="character"/> paṭṭaṉ</rdg>
+			<rdg source="bib:MarxiaGandhi+al2011_01"><gap reason="lost" quantity="4" unit="character"/> paṭṭaṉ</rdg>
 
 		</app>
 		<app loc="3">
 			<lem>malla-c-</lem>
 			<rdg source="bib:VenkatasubbaAyyar1943_01">malla-c-</rdg>
-			<rdg source="bib:MarxiaGandhi+al2011_01"><gap reason="undefined" quantity="2" unit="character"/> Eṉ muṭi mēlana <gap reason="undefined" quantity="2" unit="character"/> malla-c-</rdg>
+			<rdg source="bib:MarxiaGandhi+al2011_01"><gap reason="lost" quantity="2" unit="character"/> Eṉ muṭi mēlana <gap reason="lost" quantity="2" unit="character"/> malla-c-</rdg>
 			<note>The reading by <ptr target="bib:MarxiaGandhi+al2011_01"/> appears to be a typo.</note>
 
 		</app>
@@ -157,7 +157,7 @@
 		<app loc="4">
 			<lem>Aṭṭuva<unclear>tāka</unclear> v<unclear>ai</unclear>tta poṉ</lem>
 			<rdg source="bib:VenkatasubbaAyyar1943_01">Aṭṭuva<unclear>tāka</unclear> v<unclear>ai</unclear>tta poṉ</rdg>
-			<rdg source="bib:MarxiaGandhi+al2011_01">Aṭṭuva <gap reason="undefined" quantity="4" unit="character"/> <unclear>vatāka poṉ</unclear></rdg>
+			<rdg source="bib:MarxiaGandhi+al2011_01">Aṭṭuva <gap reason="lost" quantity="4" unit="character"/> <unclear>vatāka poṉ</unclear></rdg>
 
 		</app>
 		
@@ -176,7 +176,7 @@
 	</p>
 	
 	<p n="1-5">
-		The gold that <gap reason="undefined" extent="unknown" unit="character"/> Paṭṭāṉ, <supplied reason="subaudible">one</supplied> among the governing delegates <supplied reason="explanation"><foreign>āluṅ kaṇattār</foreign></supplied> of Kāvatippākkam in the Paṭuvūrkkōṭṭam, has given so as to provide water in the glorious temple of Perumāṉaṭikaḷ <supplied reason="subaudible">in</supplied> Tiruppontai in Rājamallaccaturvecimaṅgala: eleven <foreign>kaḻañcu</foreign>s.
+		The gold that <gap reason="lost" extent="unknown" unit="character"/> Paṭṭāṉ, <supplied reason="subaudible">one</supplied> among the governing delegates <supplied reason="explanation"><foreign>āluṅ kaṇattār</foreign></supplied> of Kāvatippākkam in the Paṭuvūrkkōṭṭam, has given so as to provide water in the glorious temple of Perumāṉaṭikaḷ <supplied reason="subaudible">in</supplied> Tiruppontai in Rājamallaccaturvecimaṅgala: eleven <foreign>kaḻañcu</foreign>s.
 	</p>
 		
 	<p n="5">

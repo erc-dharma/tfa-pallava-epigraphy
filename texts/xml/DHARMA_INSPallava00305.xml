@@ -88,26 +88,26 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:vaṭṭeḻuttu maturity:83215">
 	
 	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/><supplied reason="undefined"><hi rend="grantha">svasti</hi></supplied> <hi rend="grantha">śrī</hi>	
+		<lb n="1"/><supplied reason="lost"><hi rend="grantha">svasti</hi></supplied> <hi rend="grantha">śrī</hi>	
 	</ab>
 	
 	<p>
-		kō-vicaiya-<gap reason="undefined" quantity="3" unit="character" precision="low"/>-<supplied reason="undefined">pa</supplied>
+		kō-vicaiya-<gap reason="lost" quantity="3" unit="character" precision="low"/>-<supplied reason="lost">pa</supplied>
 		<lb n="2" break="no"/>rumaṟku yāṇṭ’ āṟ-āvatu	
 	</p>
 	
 	<p>
-		<gap reason="undefined" quantity="4" unit="character" precision="low"/>
-		<lb n="3" break="no"/>ṟṟu mēl-vēṇāṭu ṇamī<gap reason="undefined" quantity="4" unit="character" precision="low"/>
-		<lb n="4" break="no"/>-k <unclear>koṟṟōṟuri</unclear> kantavāṇaraica<supplied reason="undefined">r</supplied> <gap reason="undefined" quantity="2" unit="character" precision="low"/>
-		<lb n="5" break="no"/><gap reason="undefined" quantity="7" unit="character" precision="low"/> to <gap reason="undefined" quantity="4" unit="character" precision="low"/>
+		<gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="3" break="no"/>ṟṟu mēl-vēṇāṭu ṇamī<gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="4" break="no"/>-k <unclear>koṟṟōṟuri</unclear> kantavāṇaraica<supplied reason="lost">r</supplied> <gap reason="lost" quantity="2" unit="character" precision="low"/>
+		<lb n="5" break="no"/><gap reason="lost" quantity="7" unit="character" precision="low"/> to <gap reason="lost" quantity="4" unit="character" precision="low"/>
 		
 	</p>
 	
 </div><div type="translation" resp="part:emfr">
       		
       		<p n="1">
-      			<supplied reason="undefined">Prosperity!</supplied> Fortune!
+      			<supplied reason="lost">Prosperity!</supplied> Fortune!
       		</p>
       		<p n="1-2">
       			Sixth year of the glorious king <gap reason="lost"/>parumaṉ.<note>Sanskrit <gap reason="lost"/>varman</note>

@@ -109,21 +109,21 @@
 		
 		<app loc="1">
 			<lem><gap reason="lost" extent="unknown" unit="character"/> <unclear>ya</unclear>varmanku <gap reason="lost" extent="unknown" unit="character"/></lem>
-			<rdg source="bib:Hultzsch1913_02"><gap reason="undefined" extent="unknown" unit="character"/> <hi rend="grantha">ra</hi>varma<choice><sic><unclear>t</unclear></sic><corr>ṟ</corr></choice>ku <gap reason="undefined" extent="unknown" unit="character"/></rdg>
-			<rdg source="bib:Hultzsch1914_01"><gap reason="undefined" extent="unknown" unit="character"/> ravarman ku<unclear>ṇa</unclear> <gap reason="undefined" extent="unknown" unit="character"/></rdg>
-			<rdg source="bib:GopinathaRao1925-1926_01"><gap reason="undefined" quantity="7" unit="character"/> <unclear>ya</unclear>varmatku <unclear>y</unclear> <gap reason="undefined" quantity="5" unit="character"/></rdg>
-			<rdg source="bib:NilakantaSastri1932_02"><gap reason="undefined" quantity="2" unit="character"/> <unclear>ra</unclear>varman ku<supplied reason="undefined">ṇā</supplied></rdg>
-			<rdg source="bib:NilakantaSastri1949_01"><gap reason="undefined" quantity="8" unit="character"/> <unclear>ya</unclear> varmakku <gap reason="undefined" quantity="1" unit="character"/></rdg>
-			<rdg source="bib:Karashima2002_02 bib:Karashima+Subbarayalu2009_01"><gap reason="undefined" extent="unknown" unit="character"/> <unclear>ya</unclear>ravarmakku</rdg>
+			<rdg source="bib:Hultzsch1913_02"><gap reason="lost" extent="unknown" unit="character"/> <hi rend="grantha">ra</hi>varma<choice><sic><unclear>t</unclear></sic><corr>ṟ</corr></choice>ku <gap reason="lost" extent="unknown" unit="character"/></rdg>
+			<rdg source="bib:Hultzsch1914_01"><gap reason="lost" extent="unknown" unit="character"/> ravarman ku<unclear>ṇa</unclear> <gap reason="lost" extent="unknown" unit="character"/></rdg>
+			<rdg source="bib:GopinathaRao1925-1926_01"><gap reason="lost" quantity="7" unit="character"/> <unclear>ya</unclear>varmatku <unclear>y</unclear> <gap reason="lost" quantity="5" unit="character"/></rdg>
+			<rdg source="bib:NilakantaSastri1932_02"><gap reason="lost" quantity="2" unit="character"/> <unclear>ra</unclear>varman ku<supplied reason="lost">ṇā</supplied></rdg>
+			<rdg source="bib:NilakantaSastri1949_01"><gap reason="lost" quantity="8" unit="character"/> <unclear>ya</unclear> varmakku <gap reason="lost" quantity="1" unit="character"/></rdg>
+			<rdg source="bib:Karashima2002_02 bib:Karashima+Subbarayalu2009_01"><gap reason="lost" extent="unknown" unit="character"/> <unclear>ya</unclear>ravarmakku</rdg>
 		</app>
 		
 		<app loc="2">
 			<lem><gap reason="lost" extent="unknown" unit="character"/> <unclear>m</unclear>ān tān</lem>
 			<rdg source="bib:Hultzsch1913_02"><unclear>m</unclear>ān tān</rdg>
 			<rdg source="bib:Hultzsch1914_01"><unclear>m</unclear>ān tān</rdg>
-			<rdg source="bib:GopinathaRao1925-1926_01"><gap reason="undefined" quantity="3" unit="character"/> <unclear>m</unclear>ān tān</rdg>
-			<rdg source="bib:NilakantaSastri1932_02 bib:NilakantaSastri1949_01"><gap reason="undefined" quantity="2" unit="character"/> mān tān</rdg>
-			<rdg source="bib:Karashima2002_02"><gap reason="undefined" quantity="2" unit="character"/> <unclear>m</unclear>āṉ tāṉ</rdg>
+			<rdg source="bib:GopinathaRao1925-1926_01"><gap reason="lost" quantity="3" unit="character"/> <unclear>m</unclear>ān tān</rdg>
+			<rdg source="bib:NilakantaSastri1932_02 bib:NilakantaSastri1949_01"><gap reason="lost" quantity="2" unit="character"/> mān tān</rdg>
+			<rdg source="bib:Karashima2002_02"><gap reason="lost" quantity="2" unit="character"/> <unclear>m</unclear>āṉ tāṉ</rdg>
 			<rdg source="bib:Karashima+Subbarayalu2009_01"><gap reason="lost" extent="unknown" unit="character"/> māṉ tāṉ</rdg>
 		</app>
 		
@@ -131,7 +131,7 @@
 			<lem>naṅkū<unclear>r A</unclear>ṭai <gap reason="lost" extent="unknown" unit="character"/><lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <choice><unclear>t</unclear><unclear>n</unclear></choice></lem>
 			<rdg source="bib:Hultzsch1913_02">naṅkar<unclear>aiy</unclear>ai<lb n="3" break="no"/>t</rdg>
 			<rdg source="bib:Hultzsch1914_01">naṅkūr a<unclear>ṭ</unclear>ai <gap reason="lost" extent="unknown" unit="character"/><lb n="3"/><unclear>t</unclear></rdg>
-			<rdg source="bib:GopinathaRao1925-1926_01">naṅ<unclear>ku</unclear> rayai <gap reason="undefined" quantity="5" unit="character"/><lb n="3"/><gap reason="undefined" quantity="2" unit="character"/> t</rdg>
+			<rdg source="bib:GopinathaRao1925-1926_01">naṅ<unclear>ku</unclear> rayai <gap reason="lost" quantity="5" unit="character"/><lb n="3"/><gap reason="lost" quantity="2" unit="character"/> t</rdg>
 			<rdg source="bib:NilakantaSastri1932_02 bib:NilakantaSastri1949_01">naṅk<unclear>ū</unclear>r<unclear>u</unclear>ṭai<unclear>yā</unclear><lb n="3" break="no"/>n</rdg>
 			<rdg source="bib:Karashima2002_02">naṅk<unclear>u</unclear>r<unclear>u</unclear>ṭaiy<unclear>a</unclear><lb n="3" break="no"/><unclear>n</unclear></rdg>
 			<rdg source="bib:Karashima+Subbarayalu2009_01">naṅ<unclear>kurutaiya</unclear><lb n="3" break="no"/><unclear>ṉ</unclear></rdg>
@@ -141,7 +141,7 @@
 		<app loc="3">
 			<lem> toṭṭa</lem>
 			<rdg source="bib:Hultzsch1913_02 bib:Hultzsch1914_01"/>
-			<rdg source="bib:GopinathaRao1925-1926_01"><gap reason="undefined" quantity="2" unit="character"/> <unclear>t</unclear>toṭṭa</rdg>
+			<rdg source="bib:GopinathaRao1925-1926_01"><gap reason="lost" quantity="2" unit="character"/> <unclear>t</unclear>toṭṭa</rdg>
 			<rdg source="bib:NilakantaSastri1932_02 bib:NilakantaSastri1949_01">n toṭṭa</rdg>
 			<rdg source="bib:Karashima2002_02"><unclear>n</unclear> toṭṭa</rdg>
 			<rdg source="bib:Karashima+Subbarayalu2009_01"><unclear>ṉ</unclear> toṭṭa</rdg>
@@ -156,7 +156,7 @@
 		<app loc="3">
 			<lem><hi rend="grantha">śrī</hi>-<unclear>A</unclear><supplied reason="lost">va</supplied><lb n="4" break="no"/><supplied reason="lost">ni</supplied>-nāraṇam<unclear>·</unclear></lem>
 			<rdg source="bib:Hultzsch1913_02"><hi rend="grantha">śrī</hi><lb n="4"/>nāraṇam</rdg>
-			<rdg source="bib:Hultzsch1914_01"><hi rend="grantha">śrī</hi><unclear>Ava</unclear><supplied reason="undefined">ni</supplied><lb n="4" break="no"/>nāraṇam</rdg>
+			<rdg source="bib:Hultzsch1914_01"><hi rend="grantha">śrī</hi><unclear>Ava</unclear><supplied reason="lost">ni</supplied><lb n="4" break="no"/>nāraṇam</rdg>
 			<rdg source="bib:GopinathaRao1925-1926_01"><hi rend="grantha">śrī</hi><lb n="4" break="no"/>nāraṇam</rdg>
 			<rdg source="bib:NilakantaSastri1932_02"><hi rend="grantha">śrī</hi> <unclear>Avani</unclear><lb n="4" break="no"/>nāraṇam</rdg>
 			<rdg source="bib:NilakantaSastri1949_01 bib:Karashima2002_02 bib:Karashima+Subbarayalu2009_01"><hi rend="grantha">śrī</hi> A<unclear>vani</unclear><lb n="4" break="no"/>nāraṇam</rdg>
@@ -166,7 +166,7 @@
 		<app loc="4">
 			<lem>maṇikkirāmat<unclear>·</unclear>tār<lb n="5" break="no"/><supplied reason="lost">k</supplied><unclear>k</unclear>um</lem>
 			<rdg source="bib:Hultzsch1913_02 bib:Karashima2002_02">maṇikkirāmattār<unclear>k</unclear><lb n="5" break="no"/><unclear>k</unclear>um</rdg>
-			<rdg source="bib:Hultzsch1914_01">maṇikkirāmattār<supplied reason="undefined">k</supplied><lb n="5" break="no"/><unclear>k</unclear>um</rdg>
+			<rdg source="bib:Hultzsch1914_01">maṇikkirāmattār<supplied reason="lost">k</supplied><lb n="5" break="no"/><unclear>k</unclear>um</rdg>
 			<rdg source="bib:GopinathaRao1925-1926_01">maṇikkirāmattār<lb n="5" break="no"/><supplied reason="lost">k</supplied>kum</rdg>
 			<rdg source="bib:NilakantaSastri1932_02 bib:NilakantaSastri1949_01">maṇikkirāmattār<unclear>k</unclear><lb n="5" break="no"/>kum</rdg>      				
 			<rdg source="bib:Karashima+Subbarayalu2009_01">maṇikkirāmattārk<lb n="5" break="no"/>kum</rdg>
@@ -179,7 +179,7 @@
 			<rdg source="bib:Hultzsch1913_02"><hi rend="grantha"><unclear>cā</unclear></hi><unclear>pa</unclear><supplied reason="omitted">t</supplied>tārkkum</rdg>
 			<rdg source="bib:Hultzsch1914_01"><unclear>m uḻu</unclear>tārkkum</rdg>
 			<rdg source="bib:GopinathaRao1925-1926_01"><unclear>ku</unclear>la<supplied reason="omitted">t</supplied>tārkkum</rdg>
-			<rdg source="bib:NilakantaSastri1932_02"><gap reason="undefined" quantity="1" unit="character"/> patārkkum</rdg>
+			<rdg source="bib:NilakantaSastri1932_02"><gap reason="lost" quantity="1" unit="character"/> patārkkum</rdg>
 			<rdg source="bib:NilakantaSastri1949_01"><gap reason="lost" extent="unknown" unit="character"/> pātarkkum</rdg>
 			<rdg source="bib:Karashima2002_02 bib:Karashima+Subbarayalu2009_01"><gap reason="lost" extent="unknown" unit="character"/> apatārkkum</rdg>
 			<note><bibl><ptr target="bib:Hultzsch1914_01"/></bibl> suggests that <foreign>uḻutār</foreign> is used here in the sense of <foreign>uḻavar</foreign> or <foreign>uḻunar</foreign>, "cultivators".</note>
@@ -202,7 +202,7 @@
       	<div type="translation" source="bib:Hultzsch1913_02">
       		
       		<p n="1-3">
-      			<gap reason="undefined"/> of <gap reason="undefined"/> ravarman <gap reason="undefined"/> the hoofs of the team of oxen touching our boundary (?) Prosperity !
+      			<gap reason="lost"/> of <gap reason="lost"/> ravarman <gap reason="lost"/> the hoofs of the team of oxen touching our boundary (?) Prosperity !
       		</p>
       		<p n="4-6">
       			Nāraṇam (is) the refuge of the members of Manikkirāmam and of the members of the detachment and of the bowmen (?).
@@ -213,7 +213,7 @@
 <div type="translation" source="bib:Hultzsch1914_01">
       		
       		<p n="1-6">      			
-      			The tank, (by) name Śrī-[Avani]-Nāraṇam, which was dug near Naṅkūr by <gap reason="undefined"/> ravarman Gu[ṇa] <gap reason="undefined"/> [m]āṉ himself, (is placed under) the protection of the members of Manikkirāmam and of the men of the vanguard and of the cultivators<note resp="part:emfr"><foreign>uḻutār</foreign></note>.     		
+      			The tank, (by) name Śrī-[Avani]-Nāraṇam, which was dug near Naṅkūr by <gap reason="lost"/> ravarman Gu[ṇa] <gap reason="lost"/> [m]āṉ himself, (is placed under) the protection of the members of Manikkirāmam and of the men of the vanguard and of the cultivators<note resp="part:emfr"><foreign>uḻutār</foreign></note>.     		
       		</p>
       		
       	</div>
@@ -221,7 +221,7 @@
 <div type="translation" source="bib:GopinathaRao1925-1926_01">
       		
 	<p n="1-6">      			
-		(The year) <gap reason="undefined"/> of (the reign of the king) <gap reason="undefined"/> yavarman <gap reason="undefined"/>; <gap reason="undefined"/> man <gap reason="undefined"/> dug a tank in our <gap reason="undefined"/>.
+		(The year) <gap reason="lost"/> of (the reign of the king) <gap reason="lost"/> yavarman <gap reason="lost"/>; <gap reason="lost"/> man <gap reason="lost"/> dug a tank in our <gap reason="lost"/>.
 		Its name is Śrī-Nāraṇam. This is placed under the protection of the Maṇikkirāmattār, the Cēṉamukattār and (his own) descendents<note resp="part:emfr"><foreign>kulattār</foreign></note>.
       			
       		</p>
@@ -231,7 +231,7 @@
       	<div type="translation" source="bib:NilakantaSastri1932_02">
       		
       		<p n="3-6">      			
-      			The tank called Avani-nāraṇam dug by the lord of Naṅkūr (is placed under) the protection of the members of Manigrāmam, the residents of the military camp and <gap reason="undefined"/>.     		
+      			The tank called Avani-nāraṇam dug by the lord of Naṅkūr (is placed under) the protection of the members of Manigrāmam, the residents of the military camp and <gap reason="lost"/>.     		
       		</p>
       	</div>
       	

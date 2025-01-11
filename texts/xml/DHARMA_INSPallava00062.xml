@@ -192,7 +192,7 @@
 		
 		<app loc="1s4">
 			<lem><seg met="++-+--"><gap reason="lost" quantity="6" unit="character"/></seg> bhuja-ddraviṇāvabhāsī</lem>
-			<rdg source="bib:Rangacharya1927-1928_01"><seg met="++-+--"><gap reason="undefined" quantity="6" unit="character"/></seg></rdg>
+			<rdg source="bib:Rangacharya1927-1928_01"><seg met="++-+--"><gap reason="lost" quantity="6" unit="character"/></seg></rdg>
 			<note><ptr target="bib:Rangacharya1927-1928_01"/> suggests to restore ...</note>		
 		</app>
 		
@@ -215,14 +215,14 @@
 						
 		<app loc="1s6">
 			<lem>°mūla-smṛti-vacana°</lem>
-			<rdg source="bib:Rangacharya1927-1928_01"><seg met="++-----"><gap reason="undefined" quantity="7" unit="character"/></seg></rdg>
+			<rdg source="bib:Rangacharya1927-1928_01"><seg met="++-----"><gap reason="lost" quantity="7" unit="character"/></seg></rdg>
 			<note>This part of the inscription is not entirely covered by the estampage published in ARIE and a portion covered by this estampage has since suffered damage. See new estampage (2011).</note>		
 		</app>
 		
 		
 		<app loc="1">
 			<lem>śīṣṭāc<choice><sic>a</sic><corr>ā</corr></choice>rai<supplied reason="lost">r</supplied> vv<seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg><seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg>t<choice><unclear>e</unclear><unclear>ai</unclear></choice>ḥ</lem>
-			<rdg source="bib:Rangacharya1927-1928_01"><unclear>śrī</unclear><seg met="+++-+"><gap reason="undefined" quantity="4" unit="character"/></seg>teḥ</rdg>
+			<rdg source="bib:Rangacharya1927-1928_01"><unclear>śrī</unclear><seg met="+++-+"><gap reason="lost" quantity="4" unit="character"/></seg>teḥ</rdg>
 			<note>This part of the inscription is not entirely covered by the estampage published in ARIE and a portion covered by this estampage has since suffered damage. See new estampage (2011). S.L.P. Anjaneya Sarma suggests to read, with a correction, <foreign>variṣṭhaiḥ</foreign>.</note>
 		</app>
 		
@@ -293,7 +293,7 @@
 
       		<p rend="stanza" n="2">
       			<l>Puis, issu de cet Aśvatthāman, purifié par les sévères ascèses qu’il avait multipliées, apparut,</l>
-      			<l>Comme de la doctrine sacrée<note>C’est-à-dire le <foreign>Veda</foreign>.</note> s’écoule le flot des sciences annexes, le favori de la terre, nommé Pallava <supplied reason="explanation"><foreign>mahī-valla<supplied reason="undefined">bhaḥ palla</supplied>vākhyaḥ</foreign></supplied>.</l>
+      			<l>Comme de la doctrine sacrée<note>C’est-à-dire le <foreign>Veda</foreign>.</note> s’écoule le flot des sciences annexes, le favori de la terre, nommé Pallava <supplied reason="explanation"><foreign>mahī-valla<supplied reason="lost">bhaḥ palla</supplied>vākhyaḥ</foreign></supplied>.</l>
       			<l>De ce dernier, qui avait posé le pied sur le chemin qui purifie, <supplied reason="lost">descend</supplied>,</l>
       			<l>Comme le cours de la Mandākinī descend de la lune<note>Rencontrée lors de son passage sur la chevelure de Śiva.</note>, cette estimable et grande lignée des Pallava.</l>
       		</p>

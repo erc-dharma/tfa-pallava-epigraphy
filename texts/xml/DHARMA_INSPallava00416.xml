@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Hero-stone inscription commemorating the death of Kumarar <gap reason="undefined"/>.</summary>
+						<summary>Hero-stone inscription commemorating the death of Kumarar <gap reason="lost"/>.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -92,7 +92,7 @@
       			<lb n="2"/>Ūraṉ Irukkai Ēṟi <unclear>va</unclear>ṇakō caruku
       			<lb n="3"/>Utti<unclear>p</unclear> paṭṭār kōvalūr-k
       			<lb n="4"/>kumara<unclear>r</unclear>
-      			<lb n="5"/><gap reason="undefined" extent="unknown" unit="character"/> kal
+      			<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> kal
       			
       		</p>
       		
@@ -114,7 +114,7 @@
 <div type="translation" resp="part:emfr">
          	
          	<p n="1-6">
-         		<supplied reason="subaudible">This is</supplied> the stone of Kumarar <gap reason="undefined"/>, he who died <gap reason="ellipsis"/>
+         		<supplied reason="subaudible">This is</supplied> the stone of Kumarar <gap reason="lost"/>, he who died <gap reason="ellipsis"/>
          	
          	</p>
 

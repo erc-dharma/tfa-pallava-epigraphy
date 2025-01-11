@@ -153,7 +153,7 @@
 	<listApp>
 		
 		<app loc="2">
-			<lem>°kam<choice><sic><hi rend="grantha">ppanma</hi></sic><corr><hi rend="grantha">papanma</hi></corr></choice><supplied reason="omitted">r</supplied>supplied>kku</lem>
+			<lem>°kam<choice><sic><hi rend="grantha">ppanma</hi></sic><corr><hi rend="grantha">papanma</hi></corr></choice><reg>r</reg>kku</lem>
 			<rdg source="bib:VenkatasubbaAyyar1943_01">°kam<hi rend="grantha">ppanma</hi>kku</rdg>
 			<rdg source="bib:Mahalingam1988_01">°kam<hi rend="grantha">papanma</hi>rkku</rdg>			
 		</app>			

@@ -101,13 +101,13 @@
       		</p>   
       		
       		<p>
-      			<gap reason="undefined" quantity="3" unit="character"/> <supplied reason="lost">peru</supplied>
+      			<gap reason="lost" quantity="3" unit="character"/> <supplied reason="lost">peru</supplied>
       			<lb n="3" break="no"/>māṉaṭikaṉ cerut=talai-maṅ<supplied reason="lost">kalat</supplied>
-      			<lb n="4" break="no"/>tu nakarattārkku Uḷḷūr <gap reason="undefined" quantity="4" unit="character"/>
-      			<lb n="5"/>v-iṭṭu <hi rend="grantha">sarvva</hi>-paricālam koṭu <gap reason="undefined" quantity="4" unit="character"/>
-      			<lb n="6"/>viṭēlviṭuku mammaḷi na <gap reason="undefined" quantity="5" unit="character"/>
-      			<lb n="7" break="no"/>ṇamum pi <gap reason="undefined" quantity="6" unit="character"/>
-      			<lb n="8" break="no"/>m maḻit <gap reason="undefined" quantity="5" unit="character"/>    	      				
+      			<lb n="4" break="no"/>tu nakarattārkku Uḷḷūr <gap reason="lost" quantity="4" unit="character"/>
+      			<lb n="5"/>v-iṭṭu <hi rend="grantha">sarvva</hi>-paricālam koṭu <gap reason="lost" quantity="4" unit="character"/>
+      			<lb n="6"/>viṭēlviṭuku mammaḷi na <gap reason="lost" quantity="5" unit="character"/>
+      			<lb n="7" break="no"/>ṇamum pi <gap reason="lost" quantity="6" unit="character"/>
+      			<lb n="8" break="no"/>m maḻit <gap reason="lost" quantity="5" unit="character"/>    	      				
       		</p>
       		
       	</div>
@@ -137,9 +137,9 @@
         Ninth year of the victorious king Nantivikkiramaparumaṉ.<note>Sanskrit Nandivikramavarman.</note>
     </p>
     <p n="2-8">
-        <gap reason="undefined"/> <foreign><supplied reason="lost">peru</supplied>māṉaṭikaṉ</foreign>, for the <foreign>nakarattār</foreign>s of Ceruttalaimaṅgala, Uḷḷūr <gap reason="undefined"/> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>viṭṭu sarvvaparicālam koṭu</foreign><note>The term <foreign>paricālam</foreign> seems to be a variant of <foreign>parikāram</foreign> (Sanskrit <foreign>parihāra</foreign>).</note></supplied> <gap reason="undefined"/> Viṭēlviṭuku <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>mammaḷi na</foreign></supplied> <gap reason="undefined"/>
-        <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>ṇamum pi</foreign></supplied> <gap reason="undefined"/>
-        <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>m maḻit</foreign></supplied> <gap reason="undefined"/>
+        <gap reason="lost"/> <foreign><supplied reason="lost">peru</supplied>māṉaṭikaṉ</foreign>, for the <foreign>nakarattār</foreign>s of Ceruttalaimaṅgala, Uḷḷūr <gap reason="lost"/> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>viṭṭu sarvvaparicālam koṭu</foreign><note>The term <foreign>paricālam</foreign> seems to be a variant of <foreign>parikāram</foreign> (Sanskrit <foreign>parihāra</foreign>).</note></supplied> <gap reason="lost"/> Viṭēlviṭuku <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>mammaḷi na</foreign></supplied> <gap reason="lost"/>
+        <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>ṇamum pi</foreign></supplied> <gap reason="lost"/>
+        <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>m maḻit</foreign></supplied> <gap reason="lost"/>
     </p>
     
 </div>

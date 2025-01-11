@@ -106,7 +106,7 @@
       		<p>      			
       			Ip-paḷḷikku
       			<lb n="6"/>kaḻañciṉāl uḻakk’ arici vaikal
-      			<lb n="7"/><gap reason="undefined" quantity="2" unit="character"/>kaṟ ūṭṭuvār
+      			<lb n="7"/><gap reason="lost" quantity="2" unit="character"/>kaṟ ūṭṭuvār
       		</p>
       		<p>  
       			ivv-aṟam pavaṇa
@@ -151,10 +151,10 @@
       			</app>      			
       			
       			<app loc="7">
-      				<lem><gap reason="undefined" quantity="2" unit="character"/>kaṟ ūṭṭuvār</lem>
+      				<lem><gap reason="lost" quantity="2" unit="character"/>kaṟ ūṭṭuvār</lem>
       				<rdg source="bib:Sampath1968_01">koṟaṭṭuvar</rdg>
-      				<rdg source="bib:Nagaswamy1970_03"><gap reason="undefined" quantity="2" unit="character"/>kaṟ ūṭṭuvār</rdg>
-      				<rdg source="bib:Mahalingam1988_01"><gap reason="undefined" quantity="3" unit="character"/><unclear>ka</unclear>ṟ ūṭṭuvār</rdg>
+      				<rdg source="bib:Nagaswamy1970_03"><gap reason="lost" quantity="2" unit="character"/>kaṟ ūṭṭuvār</rdg>
+      				<rdg source="bib:Mahalingam1988_01"><gap reason="lost" quantity="3" unit="character"/><unclear>ka</unclear>ṟ ūṭṭuvār</rdg>
       			</app>  
       			
       			<app loc="7">

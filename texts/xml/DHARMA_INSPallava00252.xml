@@ -105,7 +105,7 @@
 </div>
 
          <div type="apparatus">
-<!--change <gap reason="illegible"  to <gap reason="undefined".  As "undefined" is not validated, it causes display problem (i.e. italicisation)--><!-- Undefined is taken into account in the transformation -->
+<!--change <gap reason="illegible"  to <gap reason="lost".  As "undefined" is not validated, it causes display problem (i.e. italicisation)--><!-- Undefined is taken into account in the transformation -->
          	<listApp>
          		
          		<app loc="3">

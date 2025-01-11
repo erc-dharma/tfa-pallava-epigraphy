@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Hero-stone inscription commemorating the death of Pe<gap reason="undefined"
+						<summary>Hero-stone inscription commemorating the death of Pe<gap reason="lost"
 							/>r.</summary>
 					</msContents>
 					<physDesc>
@@ -91,7 +91,7 @@
       		<p>
       			<lb n="1"/>nanti-pōttaraicaru malai<unclear>ku</unclear>rukil ceṅkōṭu
       			<lb n="2"/>taikkāla kaikūr cuṭṭu Eṟintu paṭṭār kōvalūr
-      			<lb n="3"/>pe<gap reason="undefined" quantity="4" unit="character"/>r
+      			<lb n="3"/>pe<gap reason="lost" quantity="4" unit="character"/>r
       		</p>
       		
       	</div>
@@ -111,7 +111,7 @@
 <div type="translation" resp="part:emfr">
          	
          	<p n="1-3">
-         		Pe<gap reason="undefined"/>r<note>That is, Perummanar, according to <bibl n="ARIE"><ptr target="bib:ARIE2000-2001"/><citedRange unit="page">4</citedRange></bibl>.</note> <supplied reason="subaudible">of</supplied> kōvalūr died <supplied reason="subaudible">when</supplied> fighting <gap reason="ellipsis"/>         	
+         		Pe<gap reason="lost"/>r<note>That is, Perummanar, according to <bibl n="ARIE"><ptr target="bib:ARIE2000-2001"/><citedRange unit="page">4</citedRange></bibl>.</note> <supplied reason="subaudible">of</supplied> kōvalūr died <supplied reason="subaudible">when</supplied> fighting <gap reason="ellipsis"/>         	
          	</p>
 
          </div>

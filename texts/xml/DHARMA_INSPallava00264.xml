@@ -103,12 +103,12 @@
 	
 	<p>
 		<unclear>iv</unclear>-vūr
-<lb n="4"/>tiru-v-akatt<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">śvara</hi><supplied reason="undefined">m-uṭaiya ma<hi rend="grantha">hāde</hi>varkku</supplied>
-<lb n="5"/>nitta tiru-v-amirtu paṇ <gap reason="undefined" quantity="4" unit="character"/> mayil <gap reason="undefined" quantity="7" unit="character"/>
-<lb n="6"/><gap reason="undefined" quantity="2" unit="character"/> tiru-v-amirtukkum-āka <choice><orig>v<unclear>ai</unclear>yt<supplied reason="undefined">ta</supplied></orig><reg>vait<supplied reason="undefined">ta</supplied></reg></choice> <gap reason="undefined" quantity="4" unit="character"/>
+<lb n="4"/>tiru-v-akatt<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">śvara</hi><supplied reason="lost">m-uṭaiya ma<hi rend="grantha">hāde</hi>varkku</supplied>
+<lb n="5"/>nitta tiru-v-amirtu paṇ <gap reason="lost" quantity="4" unit="character"/> mayil <gap reason="lost" quantity="7" unit="character"/>
+<lb n="6"/><gap reason="lost" quantity="2" unit="character"/> tiru-v-amirtukkum-āka <choice><orig>v<unclear>ai</unclear>yt<supplied reason="lost">ta</supplied></orig><reg>vait<supplied reason="lost">ta</supplied></reg></choice> <gap reason="lost" quantity="4" unit="character"/>
 	</p>
 	
-	<p><gap reason="undefined" extent="unknown" unit="line"/></p>
+	<p><gap reason="lost" extent="unknown" unit="line"/></p>
 	
 </div>
 			
@@ -117,13 +117,13 @@
 	<listApp>
 		
 		<app loc="4">
-			<lem>tiru-v-akatt<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">śvara</hi><supplied reason="undefined">m-uṭaiya ma<hi rend="grantha">hāde</hi>varkku</supplied></lem>
-			<rdg source="bib:VenkatasubbaAyyar1943_01">tiru-v-akatti<hi rend="grantha">śvara</hi><gap reason="undefined" quantity="9" unit="character"/></rdg>
+			<lem>tiru-v-akatt<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">śvara</hi><supplied reason="lost">m-uṭaiya ma<hi rend="grantha">hāde</hi>varkku</supplied></lem>
+			<rdg source="bib:VenkatasubbaAyyar1943_01">tiru-v-akatti<hi rend="grantha">śvara</hi><gap reason="lost" quantity="9" unit="character"/></rdg>
 		</app>	
 				
 		<app loc="6">
-			<lem><choice><orig>v<unclear>ai</unclear>yt<supplied reason="undefined">ta</supplied></orig><reg>vait<supplied reason="undefined">ta</supplied></reg></choice> <gap reason="undefined" quantity="4" unit="character"/></lem>
-			<rdg source="bib:VenkatasubbaAyyar1943_01">v<unclear>ai</unclear>yta <gap reason="undefined" quantity="5" unit="character"/></rdg>
+			<lem><choice><orig>v<unclear>ai</unclear>yt<supplied reason="lost">ta</supplied></orig><reg>vait<supplied reason="lost">ta</supplied></reg></choice> <gap reason="lost" quantity="4" unit="character"/></lem>
+			<rdg source="bib:VenkatasubbaAyyar1943_01">v<unclear>ai</unclear>yta <gap reason="lost" quantity="5" unit="character"/></rdg>
 		</app>	
 		
 	</listApp>
@@ -145,11 +145,11 @@
 	</p>
 	
 	<p n="4-6">
-		For the Mahādeva, Lord of the glorious Tiruvakaṭtīśvaram <supplied reason="subaudible">of</supplied> this village <gap reason="undefined"/> permanent food offerings <gap reason="undefined"/> that <gap reason="undefined"/> has given as glorious food offerings <gap reason="undefined"/>
+		For the Mahādeva, Lord of the glorious Tiruvakaṭtīśvaram <supplied reason="subaudible">of</supplied> this village <gap reason="lost"/> permanent food offerings <gap reason="lost"/> that <gap reason="lost"/> has given as glorious food offerings <gap reason="lost"/>
 	</p>
 		
 	
-	<p><gap reason="undefined" extent="unknown" unit="line"/></p>
+	<p><gap reason="lost" extent="unknown" unit="line"/></p>
 						
 </div>      	
 			

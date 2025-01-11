@@ -88,9 +88,9 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:vaṭṭeḻuttu maturity:83215">
 	
 	<p>
-		<lb n="1"/><gap reason="undefined" quantity="1" unit="character" precision="low"/> ṉu <gap reason="undefined" quantity="7" unit="character" precision="low"/> yār
-		<lb n="2"/>kuti<unclear>rai</unclear> <gap reason="undefined" quantity="3" unit="character" precision="low"/> makka
-		<lb n="3" break="no"/>ṇṇamaṭ <gap reason="undefined" quantity="2" unit="character" precision="low"/>
+		<lb n="1"/><gap reason="lost" quantity="1" unit="character" precision="low"/> ṉu <gap reason="lost" quantity="7" unit="character" precision="low"/> yār
+		<lb n="2"/>kuti<unclear>rai</unclear> <gap reason="lost" quantity="3" unit="character" precision="low"/> makka
+		<lb n="3" break="no"/>ṇṇamaṭ <gap reason="lost" quantity="2" unit="character" precision="low"/>
 		<lb n="4"/>kutti
 		<lb n="5"/>paṭṭāṉ
 		<lb n="6"/>kal

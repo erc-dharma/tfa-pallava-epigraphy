@@ -180,7 +180,7 @@
                <app loc="8">
                   <lem>paṭā<lb n="9" break="no"/>rakku</lem>
                   <rdg source="bib:Sampath1968_01 bib:Mahalingam1988_01">paṭā<lb n="9" break="no"/>rakku</rdg>
-                  <rdg source="bib:Dayalan2005_01">pa<lb n="9" break="no"/><gap reason="undefined" quantity="9" unit="character"/>
+                  <rdg source="bib:Dayalan2005_01">pa<lb n="9" break="no"/><gap reason="lost" quantity="9" unit="character"/>
                      tārarkku</rdg>
                   <note><ptr target="bib:Dayalan2005_01"/>'s reading stops here. His edition has thus 9 lines, instead of 10.</note>  				
                </app>     

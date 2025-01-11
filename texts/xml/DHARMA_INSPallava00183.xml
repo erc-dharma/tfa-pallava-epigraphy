@@ -88,12 +88,12 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       		
    			<p>
-   				<lb n="1"/><gap reason="undefined" quantity="10" unit="character"/>p-pōttaraiya<supplied reason="omitted">r</supplied>kku yāṇṭ’ iru-pattu nā
-   				<lb n="2" break="no"/><supplied reason="lost">ṇkāvatu</supplied><gap reason="undefined" quantity="6" unit="character"/><unclear>yi</unclear>ṟ-kōṭṭattu mēṟpaḷukūr-nāṭṭu nal
-   				<lb n="3" break="no"/><gap reason="undefined" quantity="10" unit="character"/><unclear>y ā</unclear>ḷum kaṇattāruḷ <unclear>cū</unclear><choice><orig>n</orig><reg>ṉ</reg></choice>ṟūr civa-nanti
-   				<lb n="4" break="no"/><gap reason="undefined" quantity="10" unit="character"/>vūrkku <hi rend="grantha">bha</hi>ṭṭa-<hi rend="grantha">v<choice><sic>ir</sic><corr>ṛ</corr></choice>tti</hi>-y-āka iru-nūṟṟu-k kaḻañ
-   				<lb n="5" break="no"/><supplied reason="lost">cu</supplied> <gap reason="undefined" quantity="9" unit="character"/>po<choice><orig>nn</orig><reg>ṉṉ</reg></choice>āl vanta nilam Epp<choice><sic>o</sic><corr>ē</corr></choice>rppaṭṭa Iṟai
-   				<lb n="6" break="no"/><gap reason="undefined" quantity="10" unit="character"/>m ā<choice><orig>n</orig><reg>ṉ</reg></choice>ōm
+   				<lb n="1"/><gap reason="lost" quantity="10" unit="character"/>p-pōttaraiya<reg>r</reg>kku yāṇṭ’ iru-pattu nā
+   				<lb n="2" break="no"/><supplied reason="lost">ṇkāvatu</supplied><gap reason="lost" quantity="6" unit="character"/><unclear>yi</unclear>ṟ-kōṭṭattu mēṟpaḷukūr-nāṭṭu nal
+   				<lb n="3" break="no"/><gap reason="lost" quantity="10" unit="character"/><unclear>y ā</unclear>ḷum kaṇattāruḷ <unclear>cū</unclear><choice><orig>n</orig><reg>ṉ</reg></choice>ṟūr civa-nanti
+   				<lb n="4" break="no"/><gap reason="lost" quantity="10" unit="character"/>vūrkku <hi rend="grantha">bha</hi>ṭṭa-<hi rend="grantha">v<choice><sic>ir</sic><corr>ṛ</corr></choice>tti</hi>-y-āka iru-nūṟṟu-k kaḻañ
+   				<lb n="5" break="no"/><supplied reason="lost">cu</supplied> <gap reason="lost" quantity="9" unit="character"/>po<choice><orig>nn</orig><reg>ṉṉ</reg></choice>āl vanta nilam Epp<choice><sic>o</sic><corr>ē</corr></choice>rppaṭṭa Iṟai
+   				<lb n="6" break="no"/><gap reason="lost" quantity="10" unit="character"/>m ā<choice><orig>n</orig><reg>ṉ</reg></choice>ōm
    				
    			</p>
    			
@@ -107,7 +107,7 @@
 			<lem>nā
 				<lb n="2" break="no"/><supplied reason="lost">ṇkāvatu</supplied></lem>
 			<rdg source="bib:VenkatasubbaAyyar1943_01">nā
-				<lb n="2" break="no"/><gap reason="undefined" quantity="6" unit="character"/></rdg>
+				<lb n="2" break="no"/><gap reason="lost" quantity="6" unit="character"/></rdg>
 		</app>
 		
 		
@@ -115,7 +115,7 @@
 			<lem>kaḻañ
 				<lb n="5" break="no"/><supplied reason="lost">cu</supplied></lem>
 			<rdg source="bib:VenkatasubbaAyyar1943_01">kaḻañ
-				<lb n="5" break="no"/><gap reason="undefined" quantity="1" unit="character"/></rdg>
+				<lb n="5" break="no"/><gap reason="lost" quantity="1" unit="character"/></rdg>
 		</app>		   				
 		
 	</listApp>

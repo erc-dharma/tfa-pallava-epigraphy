@@ -91,12 +91,12 @@
 		<lb n="1"/>vēṇāṭṭ’ iḷaṅ-kuṉ
 		<lb n="2" break="no"/>ṟi-y-āṉa vēṇāṭṭu maṇikka
 		<lb n="3" break="no"/>lla kai koṇṭu van<unclear>ta</unclear>
-		<lb n="4"/><gap reason="undefined" quantity="2" unit="character" precision="low"/> ṭaikka kōtaṉ mēṭṭiṇa
-		<lb n="5" break="no"/><supplied reason="undefined">ṉ ē</supplied>ṉāti makaṉ vāṇaṉ paṭṭā
+		<lb n="4"/><gap reason="lost" quantity="2" unit="character" precision="low"/> ṭaikka kōtaṉ mēṭṭiṇa
+		<lb n="5" break="no"/><supplied reason="lost">ṉ ē</supplied>ṉāti makaṉ vāṇaṉ paṭṭā
 		<lb n="6" break="no"/>ṉ
 	</p>
 	<p>
-		<supplied reason="undefined">Akka</supplied>ḻimallaṉ naṭu-vitta kal
+		<supplied reason="lost">Akka</supplied>ḻimallaṉ naṭu-vitta kal
 	</p>
 	
          </div>
@@ -111,14 +111,14 @@
         		</app>
         		
         		<app loc="4">
-        			<lem>mēṭṭiṇa<lb n="5" break="no"/><supplied reason="undefined">ṉ ē</supplied>ṉāti</lem>
-        			<rdg source="bib:Nakacami1972_01">mēṭṭiṇa<lb n="5" break="no"/><gap reason="undefined" quantity="2" unit="character"/>ṉāti</rdg> 
+        			<lem>mēṭṭiṇa<lb n="5" break="no"/><supplied reason="lost">ṉ ē</supplied>ṉāti</lem>
+        			<rdg source="bib:Nakacami1972_01">mēṭṭiṇa<lb n="5" break="no"/><gap reason="lost" quantity="2" unit="character"/>ṉāti</rdg> 
         			<note><foreign>mēṭṭiṇaṉ ēṉāti</foreign> is restored following the summary in <ptr target="bib:Nakacami1972_01"/>.</note>        			
         		</app>
         		
         		<app loc="6">
-        			<lem><supplied reason="undefined">Akka</supplied>ḻimallaṉ</lem>
-        			<rdg source="bib:Nakacami1972_01"><gap reason="undefined" quantity="2" unit="character"/>ḻimallaṉ</rdg>         	
+        			<lem><supplied reason="lost">Akka</supplied>ḻimallaṉ</lem>
+        			<rdg source="bib:Nakacami1972_01"><gap reason="lost" quantity="2" unit="character"/>ḻimallaṉ</rdg>         	
         			<note><foreign>Akkaḻimallaṉ</foreign> is restored following the summary in <ptr target="bib:Mahalingam1988_01"/>.</note>
         		</app>
          		

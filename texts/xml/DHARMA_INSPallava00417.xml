@@ -115,7 +115,7 @@
          			<lem><hi rend="grantha">ma</hi>ka<unclear>p</unclear>
 <lb n="2" break="no"/><unclear>pakaṭ</unclear>ṭi<unclear>ya</unclear>r</lem>
          			<rdg source="bib:Cuppiramaniyan1996_01"><hi rend="grantha">ma</hi>ka<unclear>pa</unclear>
-<lb n="2" break="no"/><unclear>paka</unclear><gap reason="undefined" quantity="1" unit="character"/>ṭiyar</rdg>
+<lb n="2" break="no"/><unclear>paka</unclear><gap reason="lost" quantity="1" unit="character"/>ṭiyar</rdg>
          		</app>    
          		
          		<app loc="2">
@@ -135,7 +135,7 @@
          	</p>
          	
          	<p n="2-3">
-         		<gap reason="undefined"/> the glorious temple of <gap reason="ellipsis"/>
+         		<gap reason="lost"/> the glorious temple of <gap reason="ellipsis"/>
          	</p>
          	
          	<p>
