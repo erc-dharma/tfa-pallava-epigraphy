@@ -105,7 +105,7 @@
       		</p>
       		<p>
       			O<unclear reason="eccentric_ductus">lō</unclear>c		
-      			<lb n="7" break="no"/>ca<supplied reason="omitted">ṉ</supplied> vaitta {symbol} cēntaṉ vaitta		
+      			<lb n="7" break="no"/>ca<supplied reason="omitted">ṉ</supplied> vaitta <gap reason="illegible" quantity="1" unit="character"/> cēntaṉ vaitta		
       			<lb n="8"/>poṉ 6-ṅ kaḻañcu <unclear>cāṉantami</unclear>
       			<lb n="9" break="no"/>cānti vaitta poṉ <num value="6">6</num>ṅ kaḻañcu
       		</p>
@@ -136,7 +136,7 @@
          		</app>  
          		         		
          		<app loc="7">
-         			<lem>{symbol}</lem>
+         			<lem><gap reason="illegible" quantity="1" unit="character"/></lem>
          			<rdg source="bib:Cankita+al_1998"><num value="0.5"><unclear>½</unclear></num></rdg>
          		</app>  
          		
@@ -151,7 +151,7 @@
          	</p>
          	
          	<p n="1-2">
-         		Second year of Tantippōttaraiyaṉ.<note>Sanskrit Dantin + Tamil Pōttaraiyaṉ. That is, the Pallava king Dantivarman.</note>.	
+         		Second year of Tantippōttaraiyaṉ.<note>Sanskrit Dantin + Tamil Pōttaraiyaṉ. That is, the Pallava king Dantivarman.</note>	
          	</p>
          	
          	<p n="2-6">

@@ -104,7 +104,7 @@
       			Ivv-ūr-c cēri vicaiya-nal<unclear>lu</unclear>
       			<lb n="5" break="no"/>ḻāṉ māṟaṅkāḷiyiṭai koṇṭa t<choice><orig>i</orig><reg>ī</reg></choice>pam oṉṟu
       			<lb n="6" break="no"/>kku-c cempoṉ campirāṇi'p paḻaṅ-kā<unclear>ci</unclear>
-      			<lb n="7" break="no"/>ṉōṭ’ urai-y oppatu Ūrāṭukallāl <num value="110"><g type="numeral">100</g> <g type="numeral">10</g></num> {symbol}
+      			<lb n="7" break="no"/>ṉōṭ’ urai-y oppatu Ūrāṭukallāl <num value="110"><g type="numeral">100</g> <g type="numeral">10</g></num>
       			<lb n="8"/>ṉūṟ<unclear>ṟ' o</unclear>ru<unclear>pa</unclear>tiṉ kaḻañcu
       		</p>
       		<p>
@@ -183,10 +183,8 @@
 	<listApp>  
 		
 		<app loc="7">
-			<lem><num value="110"><g type="numeral">100</g> <g type="numeral">10</g></num> {symbol}</lem>
-			 <rdg source="bib:KrishnaSastri1925_01"><num value="110"><g type="numeral">100</g> <g type="numeral">10</g></num> {symbol}</rdg>
-			<rdg source="bib:Mahalingam1988_01">{symbol}</rdg>
-			<note><ptr target="bib:Mahalingam1988_01"/> reads only the symbol and notes: <quote>Here there is a symbol representing 110.</quote></note>
+			<lem><num value="110"><g type="numeral">100</g> <g type="numeral">10</g></num> <unclear>{symbol}</unclear></lem>
+			 <rdg source="bib:KrishnaSastri1925_01"><num value="110"><g type="numeral">100</g> <g type="numeral">10</g></num> <unclear>{symbol}</unclear></rdg>			
 		</app>
 		
 		<app loc="45">
@@ -195,7 +193,6 @@
 		</app>
 		
 	</listApp>
-
    
 </div>
 

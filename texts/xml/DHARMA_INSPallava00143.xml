@@ -89,18 +89,18 @@
     			nanti<hi rend="grantha">pa<unclear>nma</unclear>-rāja</hi>ṟku yāṇṭu Iru-patt' iraṇṭ-āvatu
     		</p>
     		<p>
-    			tiruvaiykā-v-u
-    			<lb n="2" break="no"/>ṭaiya <hi rend="grantha">mahāde</hi>vaṟku tiru non=tā viḷakkum Amutu paṭikkum U<unclear>paiya</unclear>m vai
+    			tiru-vaiykā-v-u
+    			<lb n="2" break="no"/>ṭaiya <hi rend="grantha">mahā-de</hi>vaṟku tiru-non=tā-viḷakkum Amutu paṭikkum U<unclear>paiya</unclear>m vai
     			<lb n="3" break="no"/>ykka ca<unclear>n</unclear>tippeliyār tiri-puvaṉa-mātēvi-c-caruppēti-maṅkalat
     			<lb n="4" break="no"/>tu <hi rend="grantha">sabhai</hi>yār pakkal poṉ kuṭuttu-p poli-k kūlikku-c cela
-    			<lb n="5" break="no"/>vāka kācu koḷḷā Ūṟkiḻ Iṟaiyili-y-āka maṇaliṭil vēli
-    			<lb n="6" break="no"/>-y-āka-k koṇṭu-viṭṭa vaṇṇakka-viḷākam nilam {symbol} <!--update--> kaṟā I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam Oṉṟ’ a
-    			<lb n="7" break="no"/>raiyu<supplied reason="omitted">m</supplied>
-    			
+    			<lb n="5" break="no"/>v-āka kācu koḷḷā Ūṟkiḻ Iṟaiyili-y-āka maṇaliṭil vēli
+    			<lb n="6" break="no"/>-y-āka-k koṇṭu-viṭṭa vaṇṇakka-viḷākam nilam <num value="1.5">1 1/2</num>
     		</p>
-    		<p>
-    			Iṟakkātā<choice><orig>n</orig><reg>ṉ</reg></choice> tiru-v-aṭi Iraṇṭum en talai mēliṉa
-    		</p>
+    <p>
+        I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam Oṉṟ’ a
+        <lb n="7" break="no"/>raiyu<supplied reason="omitted">m</supplied>
+        Iṟakkātā<choice><orig>n</orig><reg>ṉ</reg></choice> tiru-v-aṭi Iraṇṭum en talai mēliṉa
+    </p>
     		<p>    			
     			Itu Iṟakkuvā<choice><orig>n</orig><reg>ṉ</reg></choice> taṅka
     			<lb n="8" break="no"/>ḷ ammaikku-t tānē-y miṉāḷaṉ <g type="gomutraFinal">.</g>
@@ -144,14 +144,7 @@
     				<rdg source="bib:VenkatasubbaAyyar1943_01">maṇaliṭil</rdg>
     				<rdg source="bib:Subbarayalu2015_01">maṇalīṭil</rdg>
     			</app>   	
-    			
-    			<app loc="6">
-    				<lem>{symbol} <!--update--></lem>
-    				<rdg source="bib:VenkatasubbaAyyar1943_01">kaṟā</rdg>
-    				<rdg source="bib:Subbarayalu2015_01">kaṟā</rdg>
-    				<note>According to <ptr target="bib:Subbarayalu2015_01"/>, these are symbols for 1 and 1/2.</note>
-    			</app>
-    			
+    			    			
     			<app loc="7">
     				<lem>mēliṉa</lem>
     				<rdg source="bib:VenkatasubbaAyyar1943_01">mēliṉa</rdg>
