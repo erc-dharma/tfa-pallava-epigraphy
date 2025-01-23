@@ -101,28 +101,40 @@
     
     <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
          	<head>Face B = south</head>
-         	<p>
-         	    <lb n="B1"/>
-         	    <lb n="B2"/>
-         	    <lb n="B3"/>
-         	</p>
+        <p>
+            <lb n="B1"/>Abhimukhaḥ
+        </p>
+        <p>
+            <lb n="B2"/>citrakārapuli
+        </p>
+        <p xml:lang="tel-Latn">
+            <lb n="B3"/>kuṟṟambu
+        </p>
     </div>
     
-    <div type="textpart" n="C" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+    <div type="textpart" n="C" xml:lang="tel-Latn" rendition="class:grantha maturity:83215">
          	<head>Face C = east</head>
          	<p>
-         	    <lb n="C1"/>
-         	    <lb n="C2"/>
-         	    <lb n="C3"/>
+         	    <lb n="C1"/>curmbu
+         	</p>
+        <p>
+         	    <lb n="C2"/>vaṃkaṃbu
+        </p>
+        <p>
+         	    <lb n="C3"/>vnāṟa 
          	</p>
     </div>    
     
-    <div type="textpart" n="D" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+    <div type="textpart" n="D" xml:lang="tel-Latn" rendition="class:grantha maturity:83215">
          	<head>Face D = north</head>
          	<p>
-         	    <lb n="D1"/>
-         	    <lb n="D2"/>
-         	    <lb n="D3"/>
+         	    <lb n="D1"/>pisugu
+         	</p>
+        <p>
+         	    <lb n="D2"/>vambara
+        </p>
+        <p>                
+         	    <lb n="D3"/>bhrānta Akari
          	</p>
     </div>
          	
