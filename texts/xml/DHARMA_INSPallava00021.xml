@@ -81,11 +81,52 @@
    <text xml:space="preserve">
       <body>
 
-         <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+<div type="edition">
+    
+    <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+        <head>Face A = west</head>
+        <p xml:lang="tel-Latn">
+            <lb n="A1"/>Eṟi
+        </p>
+        <p xml:lang="tam-Latn">            
+            <lb n="A2"/><seg rendition="class:tamil maturity:vernacular">kucañāṇa</seg>
+        </p>
+        <p>
+            <lb n="A3"/>mahāmeghaḥ
+        </p>
+        <p>
+            <lb n="A4"/>dṛdhabhaktiḥ
+        </p>
+    </div>
+    
+    <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+         	<head>Face B = south</head>
+         	<p>
+         	    <lb n="B1"/>
+         	    <lb n="B2"/>
+         	    <lb n="B3"/>
+         	</p>
+    </div>
+    
+    <div type="textpart" n="C" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+         	<head>Face C = east</head>
+         	<p>
+         	    <lb n="C1"/>
+         	    <lb n="C2"/>
+         	    <lb n="C3"/>
+         	</p>
+    </div>    
+    
+    <div type="textpart" n="D" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+         	<head>Face D = north</head>
+         	<p>
+         	    <lb n="D1"/>
+         	    <lb n="D2"/>
+         	    <lb n="D3"/>
+         	</p>
+    </div>
          	
-         	<p><lb n="1"/></p>
-         	
-         </div>
+</div>
 
 <!--<div type="apparatus">
 
@@ -141,7 +182,7 @@
       			</bibl>            	
       			<bibl n="B">
       				<ptr target="bib:Brocquet1997_01"/>
-      				<citedRange unit="page">TBC</citedRange>
+      				<citedRange unit="page">100-101</citedRange>
       				<citedRange unit="item">17</citedRange>            		
       			</bibl>            	           	
       			

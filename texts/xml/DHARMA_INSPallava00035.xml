@@ -81,9 +81,14 @@
    <text xml:space="preserve">
       <body>
 
-         <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+         <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
                       	
-         	<p><lb n="1"/></p>
+         	<lg n="1" met="āryāgīti">
+         	    
+         	    <l n="ab"><lb n="1"/>Iti jagati vidita-nām<unclear>n</unclear>ā laḷitaṃ laḷitāṃkureṇa pal<unclear>la</unclear>vapa-tin<unclear>ā</unclear></l>
+         	    <l n="cd"><lb n="2"/>kṛtinā kāritam etal laḷ<unclear>i</unclear>tāṃkura-pallaveśvara-gṛham <unclear>ma</unclear>hi<unclear>tam</unclear></l>
+         	    
+         	</lg>
          	
          </div>
 
@@ -135,7 +140,7 @@
       			
       			<bibl n="IP">
       				<ptr target="bib:Mahalingam1988_01"/>
-      				<citedRange unit="page">TBC</citedRange>
+      				<citedRange unit="page">133</citedRange>
       				<citedRange unit="item">35</citedRange>            		
       			</bibl>            	
       			<bibl n="B">
