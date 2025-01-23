@@ -85,24 +85,27 @@
    <text xml:space="preserve">
       <body>
 
-         <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+<div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
          	
-         	<lg n="1" met="nardaṭaka">
-         		
-         		<l n="a" real="----+-+---+--+---">
-         			<lb n="1"/>mahitatamaṁ satām upa mahendra-<unclear>ta</unclear>ṭākam ida<orig><unclear>M</unclear></orig>
-         		</l>
-         		<l n="b" real="----+-+---+--+---">
-         			<lb n="2"/>sthiram uru kāritaṁ guṇabhareṇa vidāryya śil<unclear>āM</unclear>
-         		</l>
-         		<l n="c" real="----+-+---+--+---">
-         			<lb n="3"/>ja<unclear>na</unclear>-nayanābhir<unclear>ā</unclear>ma-guṇa-dhāma mahendrapure
-         		</l>
-         		<l n="d" real="----+-+---+--+---">
-         			<lb n="4"/>maha<unclear>t</unclear>i mahendra-viṣṇu-gṛha-nāma murār<unclear>i</unclear>-gṛha<unclear>ṁ</unclear>
-         		</l>
-            	            	
-            </lg>
+    <lg n="1" met="nardaṭaka">
+        
+        <l n="a" real="----+-+---+--+---">
+            <lb n="1"/>mahitatamaṁ satām upa mahendra-<unclear>ta</unclear>ṭākam ida<orig><unclear>M</unclear></orig>
+        </l>
+        
+        <l n="b" real="----+-+---+--+---">
+            <lb n="2"/>sthiram uru kāritaṁ guṇabhareṇa vidāryya śil<unclear>āM</unclear>
+        </l>
+        
+        <l n="c" real="----+-+---+--+---">
+            <lb n="3"/>ja<unclear>na</unclear>-nayanābhir<unclear>ā</unclear>ma-guṇa-dhāma mahendrapure
+        </l>
+        
+        <l n="d" real="----+-+---+--+---">
+            <lb n="4"/>maha<unclear>t</unclear>i mahendra-viṣṇu-gṛha-nāma murār<unclear>i</unclear>-gṛha<unclear>ṁ</unclear>
+        </l>
+        
+    </lg>
          	
          	         	
          </div>
