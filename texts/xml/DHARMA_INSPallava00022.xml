@@ -83,7 +83,7 @@
          
 <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">         	
    
-   <div type="textpart" n="A"><head>Blessings</head>
+   <div type="textpart" n="A"><head>Initial blessings</head>
       <p>      
       <lb n="1"/>siddhaM namaḥ <surplus><g type="danda">.</g></surplus> śivāya<surname>ḥ</surname> <g type="ddanda">.</g>
    </p>
@@ -144,12 +144,16 @@
 <div type="bibliography">
 
    <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/354).</p>
-   <p>Edited in ... (EI 12.28)<!--ADD in bibl-->. Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS 2). Text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 22). Text portion in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 18).</p>
+   <p>Edited in <bibl><ptr target="bib:Bhandarkar1913-1914_02"/></bibl> (EI 12.28). Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS 2). Text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 22). Text portion in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 18).</p>
    <p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
    
    <listBibl type="primary">
       
-      <bibl n="IPS">
+      <bibl n="EI">
+         <ptr target="bib:Bhandarkar1913-1914_02"/>
+      </bibl>
+       
+       <bibl n="IPS">
          <ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/>
          <citedRange unit="item">2</citedRange>
          <citedRange unit="page">1-7</citedRange>

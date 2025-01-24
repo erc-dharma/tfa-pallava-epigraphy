@@ -140,18 +140,63 @@
          	
 </div>
 
-<!--<div type="apparatus">
+<div type="apparatus">
 
-    <listApp>
+    <div type="textpart" n="A">
+        <head>Face A = west</head>
         
-        <app loc="0">
-            <lem></lem>
-            <rdg source="bib:..."></rdg>
-        </app>	
+        <listApp>
+            
+            <app loc="0">
+                <lem></lem>
+                <rdg source="bib:VenkatasubbaAyyar1943_01"></rdg>
+            </app>	
+            
+        </listApp>
         
-    </listApp>
+    </div>
+    
+        <div type="textpart" n="B">
+        <head>Face B = south </head>
+        
+        <listApp>
+            
+            <app loc="0">
+                <lem></lem>
+                <rdg source="bib:VenkatasubbaAyyar1943_01"></rdg>
+            </app>	
+            
+        </listApp>
+        
+    </div>
+        <div type="textpart" n="C">
+        <head>Face C = east</head>
+        
+        <listApp>
+            
+            <app loc="0">
+                <lem></lem>
+                <rdg source="bib:VenkatasubbaAyyar1943_01"></rdg>
+            </app>	
+            
+        </listApp>
+        
+    </div>
+        <div type="textpart" n="D">
+        <head>Face D = north</head>
+        
+        <listApp>
+            
+            <app loc="0">
+                <lem></lem>
+                <rdg source="bib:VenkatasubbaAyyar1943_01"></rdg>
+            </app>	
+            
+        </listApp>
+        
+    </div>
 
-</div>-->
+</div>
           
 <!--<div type="translation" source="bib:...">
             
