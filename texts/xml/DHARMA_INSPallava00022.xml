@@ -83,37 +83,86 @@
          
 <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">         	
    
-   <div type="textpart" n="A"><head>Initial blessings</head>
-      <p>      
-      <lb n="1"/>siddhaM namaḥ <surplus><g type="danda">.</g></surplus> śivāya<surname>ḥ</surname> <g type="ddanda">.</g>
-   </p>
-   </div>
+    <div type="textpart" n="A"><head>Initial blessings</head>
+        <p>      
+            <lb n="A1"/>siddhaM namaḥ <surplus><g type="danda">.</g></surplus> śivāya<surname>ḥ</surname> <g type="ddanda">.</g>
+        </p>
+    </div>
    
-   <div type="textpart" n="B"><head>Section 1</head>
-   </div>
-   
+    <div type="textpart" n="B"><head>Section 1</head>
+        <p>      
+            <lb n="B1"/>madhyamagrāme catuṣprahāra-svarāgamāḥ
+        </p>
+         <p>      
+            <lb n="B2ff."/>...
+        </p>
+    </div>
+    
    <div type="textpart" n="C"><head>Section 2</head>
+       <p>      
+            <lb n="C1"/>saḍjagrāme catuṣprahāra-svarāgamāḥ
+        </p>
+         <p>      
+            <lb n="C2ff."/>...
+        </p>
    </div>
    
    <div type="textpart" n="D"><head>Section 3</head>
+       <p>      
+           <lb n="D1"/>ṣaḍave catuṣprahāra-sva<supplied reason="omitted">rā</supplied>gamāḥ
+       </p>
+       <p>      
+           <lb n="D2ff."/>...
+       </p>
    </div>
    
    <div type="textpart" n="E"><head>Section 4</head>
+       <p>      
+           <lb n="E1"/>sādhārite catuṣprahāra-svarāgamāḥ
+       </p>
+       <p>      
+           <lb n="E2ff."/>...
+       </p>
    </div>
    
    <div type="textpart" n="F"><head>Section 5</head>
+    <p>      
+           <lb n="F1"/>pañcame catuṣprahāra-svarāgamāḥ
+       </p>
+       <p>      
+           <lb n="F2ff."/>...
+       </p>
    </div>
    
    <div type="textpart" n="G"><head>Section 6</head>
+    <p>      
+           <lb n="G1"/>kaiśikamadhyame catuṣprahāra-svarāgamāḥ
+       </p>
+       <p>      
+           <lb n="G2ff."/>...
+       </p>
    </div>
    
    <div type="textpart" n="H"><head>Section 7</head>
-   </div>
+    <p>      
+           <lb n="H1"/>kaiśike catuṣprahāra-<unclear>sva</unclear>rāgamāḥ
+       </p>
+       <p>      
+           <lb n="H2ff."/>...
+       </p></div>
    
    <div type="textpart" n="I"><head>Coda 1</head>
+       <p>
+           <lb n="I1"/>śrī-rudrācaryya-śiṣyeṇa parama
+           <lb n="I2" break="no"/>-māheśva<unclear>re</unclear>ṇa ra<unclear>jñā</unclear> śiṣya
+           <lb n="I3" break="no"/>-hitārttha<supplied reason="omitted">ṃ</supplied> kṛtāḥ svarāgamāḥ<g type="ddanda">.</g>
+       </p>
    </div>
          
    <div type="textpart" n="J" xml:lang="tam-Latn" rendition="class:tamil maturity:83215"><head>Coda 2</head>
+       <p>
+           <lb n="J1"/>Eṭṭiṟkum Ēḻiṟkum Ivai Uriya <hi rend="grantha">ḥ</hi> <g type="ddanda">.</g><!--check vowel markers-->
+       </p>
    </div>
    
 </div>         
@@ -127,15 +176,27 @@
    
 </div>-->
       	
-<!--<div type="translation" resp="part:emfr">
-      		
-      	</div>-->
+<div type="translation" resp="part:emfr">
+      	
+    <div type="textpart" n="A"><head>Initial blessings</head>
+        <p>Perfection. Homage to Śiva.</p>        
+    </div>
+    
+    <div type="textpart" n="I"><head>Coda 1</head>
+        <p>...</p>        
+    </div>
+    
+    <div type="textpart" n="J"><head>Coda 2</head>
+        <p>These<note>That is, the <foreign>svara</foreign>s just described.</note> are appropriate for eight and for seven.</p>        
+    </div>
+    
+</div>
          
 <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
 	
-   <div type="textpart" n="I"><head>Coda 1</head>
-      <p>Disciple de Śrī-Rudrācārya, sectateur passionné de Maheśvara, le roi a composé ce traité sur les notes de musique, pour être utile à ses disciples.</p>
-   </div>   
+    <div type="textpart" n="I"><head>Coda 1</head>
+        <p>Disciple de Śrī-Rudrācārya, sectateur passionné de Maheśvara, le roi a composé ce traité sur les notes de musique, pour être utile à ses disciples.</p>        
+    </div>   
    
 </div>
       	
@@ -145,7 +206,7 @@
 
    <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/354).</p>
    <p>Edited in <bibl><ptr target="bib:Bhandarkar1913-1914_02"/></bibl> (EI 12.28). Edited in <bibl><ptr target="bib:VaidyanathaAiyar+SwaminathaAiyar1929_02"/></bibl> (IPS 2). Text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 22). Text portion in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 18).</p>
-   <p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
+   <p>This partial digital edition by Emmanuel Francis, based on previous edition(s).</p>
    
    <listBibl type="primary">
       
