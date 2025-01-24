@@ -86,22 +86,25 @@
    <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
       <!--<head>...</head>-->
       <p>
-      <lb n="1"/>parivādinidā
+      <lb n="A1"/>parivādinidā
    </p>
    </div>
    
    <div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <!--<head>...</head>-->
-      <p>
-      <lb n="1"/>...
+       <p>
+           <lb n="B1"/>kaṟ·kap· paṭuvatu kāṇ<unclear>·</unclear>
+           <lb n="B2"/>ñ colliya pukiṟ·paruk·kum· nimi
+           <lb n="B3"/>muk·kan niruvattukkum· Urittu
    </p>
    </div>
    
    <div type="textpart" n="C" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-      <!--<head>...</head>-->
-      <p>
-      <lb n="1"/>...
-   </p>
+       <!--<head>...</head>-->
+       <p>
+           <lb n="C1"/><hi rend="grantha">gu</hi>ṇa<hi rend="grantha">se</hi>ṇa-<hi rend="grantha">pramā</hi>ṇañ
+           <lb n="C2"/>ceyta vi<hi rend="grantha">dyā</hi> parivātini kaṟ
+       </p>
    </div>
 	
 </div>
