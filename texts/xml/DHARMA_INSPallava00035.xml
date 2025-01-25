@@ -128,7 +128,7 @@
 <div type="bibliography">
       		
    <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/411A).</p> 
-   <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.9). Text and summary<!--check--> in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 35). Text and translation<!--check--> in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 27).</p>
+   <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.9). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 35). Text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 27).</p>
    <p>This revised edition by Emmanuel Francis, based on autopsy and photos (TBC).</p>
 
     <listBibl type="primary">
@@ -146,7 +146,7 @@
       			</bibl>            	
       			<bibl n="B">
       				<ptr target="bib:Brocquet1997_01"/>
-      				<citedRange unit="page">TBC</citedRange>
+      				<citedRange unit="page">491-492</citedRange>
       				<citedRange unit="item">27</citedRange>            		
       			</bibl>            	           	
       			

@@ -122,16 +122,16 @@
 <div type="bibliography">
       		
    <p>Reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/38).</p> 
-   <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.136). Text and summary<!--check--> in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 26). Text and translation<!--check--> in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 21).</p>
-   <p>This revised edition by Emmanuel Francis, based on autopsy and photos (TBC).</p>
+   <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.136). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 26). Text in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 21).</p>
+   <p>This revised edition by Emmanuel Francis, based on autopsy and photos (2004, by Emmanuel Francis).</p>
 
     <listBibl type="primary">
         
         <bibl n="SII">
             <ptr target="bib:KrishnaSastri1923_01"/>
-            <citedRange unit="page">TBC</citedRange>
+            <citedRange unit="page">12</citedRange>
             <citedRange unit="item">136</citedRange>
-            <citedRange unit="plate">TBC</citedRange>
+            <citedRange unit="plate">III</citedRange>
         </bibl>
       			
       			<bibl n="IP">
@@ -141,7 +141,7 @@
       			</bibl>            	
       			<bibl n="B">
       				<ptr target="bib:Brocquet1997_01"/>
-      				<citedRange unit="page">TBC</citedRange>
+      				<citedRange unit="page">474-475</citedRange>
       				<citedRange unit="item">21</citedRange>            		
       			</bibl>            	           	
       			

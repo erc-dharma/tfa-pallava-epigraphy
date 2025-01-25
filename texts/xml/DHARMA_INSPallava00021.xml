@@ -86,10 +86,10 @@
     <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
         <head>Face A = west</head>
         <p xml:lang="tel-Latn">
-            <lb n="A1"/>Eṟi
+            <lb n="A1"/>E<seg rendition="class:telugu maturity:83215">ṟi</seg>
         </p>
-        <p xml:lang="tam-Latn">            
-            <lb n="A2"/><seg rendition="class:tamil maturity:vernacular">kucañāṇa</seg>
+        <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">            
+            <lb n="A2"/>kucañāṇa
         </p>
         <p>
             <lb n="A3"/>mahāmeghaḥ
@@ -108,7 +108,7 @@
             <lb n="B2"/>citrakārapuli
         </p>
         <p xml:lang="tel-Latn">
-            <lb n="B3"/>kuṟṟambu
+            <lb n="B3"/>ku<seg rendition="class:telugu maturity:83215">ṟṟa</seg>mbu
         </p>
     </div>
     
@@ -121,7 +121,7 @@
          	    <lb n="C2"/>vaṃkaṃbu
         </p>
         <p>
-         	    <lb n="C3"/>vnāṟa 
+         	    <lb n="C3"/>vnā<seg rendition="class:telugu maturity:83215">ṟa</seg> 
          	</p>
     </div>    
     
@@ -147,10 +147,23 @@
         
         <listApp>
             
-            <app loc="0">
-                <lem></lem>
-                <rdg source="bib:VenkatasubbaAyyar1943_01"></rdg>
-            </app>	
+            <app loc="A1">
+                <lem>E<seg rendition="class:telugu maturity:83215">ṟi</seg></lem>
+                <rdg source="bib:VenkatasubbaAyyar1943_01"/>
+                <rdg source="bib:Lockwood+al2001_01">Ēthi</rdg>
+            </app>
+            
+            <app loc="A2">
+                <lem>kucañāṇa</lem>
+                <rdg source="bib:VenkatasubbaAyyar1943_01">ku<hi rend="grantha">cagrā</hi>ṇa</rdg>
+                <rdg source="bib:Lockwood+al2001_01">kucañāṉa</rdg>
+            </app>
+            
+            <app loc="A3">
+                <lem>mahāmeghaḥ</lem>                
+                <rdg source="bib:Lockwood+al2001_01"/>
+                <rdg source="bib:VenkatasubbaAyyar1943_01">mahāmegha</rdg>
+            </app>
             
         </listApp>
         
@@ -161,10 +174,11 @@
         
         <listApp>
             
-            <app loc="0">
-                <lem></lem>
-                <rdg source="bib:VenkatasubbaAyyar1943_01"></rdg>
-            </app>	
+            <app loc="B1">
+                <lem>Abhimukhaḥ</lem>                
+                <rdg source="bib:Lockwood+al2001_01"/>
+                <rdg source="bib:VenkatasubbaAyyar1943_01">Abhimukha</rdg>
+            </app>
             
         </listApp>
         
@@ -174,9 +188,10 @@
         
         <listApp>
             
-            <app loc="0">
-                <lem></lem>
-                <rdg source="bib:VenkatasubbaAyyar1943_01"></rdg>
+            <app loc="C3">
+                <lem>vnā<seg rendition="class:telugu maturity:83215">ṟa</seg></lem>
+                <rdg source="bib:VenkatasubbaAyyar1943_01">vnā<seg rendition="class:telugu maturity:83215">ṟa</seg><unclear>pegu</unclear></rdg>
+                <rdg source="bib:Lockwood+al2001_01">vnātha</rdg>
             </app>	
             
         </listApp>
@@ -220,52 +235,56 @@
 <div type="bibliography">
       		
    <p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/82).</p> 
-   <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.14). Text and translation<!--check--> in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 21), in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 17).</p>
-   <p>This revised edition by Emmanuel Francis, based on autopsy and photos (TBC).</p>
+   <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.14). Text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 21), in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 17). Edited and translated in <bibl><ptr target="bib:Lockwood+al2001_01"/></bibl> (p. 198; pp. 215ff.)</p>
+   <p>This revised edition by Emmanuel Francis, based on autopsy and photos (2007, by Emmanuel Francis).</p>
 
     <listBibl type="primary">
         
         <bibl n="SII">
             <ptr target="bib:VenkatasubbaAyyar1943_01"/>
-            <citedRange unit="page">TBC</citedRange>
+            <citedRange unit="page">8</citedRange>
             <citedRange unit="item">14</citedRange>
-            <citedRange unit="plate">TBC</citedRange>
+            <citedRange unit="plate">IV</citedRange>
         </bibl>
         
-      			<bibl n="IP">
-      				<ptr target="bib:Mahalingam1988_01"/>
-      				<citedRange unit="page">TBC</citedRange>
-      				<citedRange unit="item">21</citedRange>            		
-      			</bibl>            	
-      			<bibl n="B">
-      				<ptr target="bib:Brocquet1997_01"/>
-      				<citedRange unit="page">100-101</citedRange>
-      				<citedRange unit="item">17</citedRange>            		
-      			</bibl>            	           	
-      			
-      		</listBibl>
-      		
-      		<listBibl type="secondary">
-      			
-      			<bibl n="ARIE">
-      				<ptr target="bib:ARIE1920-1921"/>
-      				<citedRange unit="page">65</citedRange>
-      				<citedRange unit="appendix">C/1921</citedRange>
-      				<citedRange unit="item">51</citedRange>
-      			</bibl>
-      			<!--<bibl>
-      				<ptr target="bib:Srinivasan1964_01"/>
-      				<citedRange unit="page">...</citedRange>
-      			</bibl>
-      			<bibl>
-      				<ptr target="bib:Francis2013_01"/>
-      				<citedRange unit="page">...</citedRange>
-      			</bibl>
-      			<bibl>
-      				<ptr target="bib:Francis2017_01"/>
-      				<citedRange unit="page">...</citedRange>
-      			</bibl>-->
-      		</listBibl>
+        <bibl n="IP">
+            <ptr target="bib:Mahalingam1988_01"/>
+            <citedRange unit="page">100-101</citedRange>
+            <citedRange unit="item">21</citedRange>            		
+        </bibl>            	
+        <bibl n="B">
+            <ptr target="bib:Brocquet1997_01"/>
+            <citedRange unit="page">100-101</citedRange>
+            <citedRange unit="item">17</citedRange>            		
+        </bibl>
+        
+        <bibl n="L">
+            <ptr target="bib:Lockwood+al2001_01"/>   		
+        </bibl>
+        
+    </listBibl>
+    
+    <listBibl type="secondary">
+        
+        <bibl n="ARIE">
+            <ptr target="bib:ARIE1920-1921"/>
+            <citedRange unit="page">65</citedRange>
+            <citedRange unit="appendix">C/1921</citedRange>
+            <citedRange unit="item">51</citedRange>
+        </bibl>
+        <!--<bibl>
+            <ptr target="bib:Srinivasan1964_01"/>
+            <citedRange unit="page">...</citedRange>
+            </bibl>
+            <bibl>
+            <ptr target="bib:Francis2013_01"/>
+            <citedRange unit="page">...</citedRange>
+            </bibl>
+            <bibl>
+            <ptr target="bib:Francis2017_01"/>
+            <citedRange unit="page">...</citedRange>
+            </bibl>-->
+    </listBibl>
       		
       	</div>
       	
