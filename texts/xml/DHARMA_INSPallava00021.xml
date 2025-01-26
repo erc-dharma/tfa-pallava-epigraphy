@@ -84,7 +84,7 @@
 <div type="edition">
     
     <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <head>Face A = west</head>
+        <head>Face A = West</head>
         <p xml:lang="tel-Latn">
             <lb n="A1"/>E<seg rendition="class:telugu maturity:83215">ṟi</seg>
         </p>
@@ -100,7 +100,7 @@
     </div>
     
     <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-         	<head>Face B = south</head>
+         	<head>Face B = South</head>
         <p>
             <lb n="B1"/>Abhimukhaḥ
         </p>
@@ -113,7 +113,7 @@
     </div>
     
     <div type="textpart" n="C" xml:lang="tel-Latn" rendition="class:grantha maturity:83215">
-         	<head>Face C = east</head>
+         	<head>Face C = East</head>
          	<p>
          	    <lb n="C1"/>curmbu
          	</p>
@@ -126,16 +126,19 @@
     </div>    
     
     <div type="textpart" n="D" xml:lang="tel-Latn" rendition="class:grantha maturity:83215">
-         	<head>Face D = north</head>
+         	<head>Face D = North</head>
          	<p>
          	    <lb n="D1"/>pisugu
          	</p>
         <p>
          	    <lb n="D2"/>vambara
         </p>
-        <p>                
-         	    <lb n="D3"/>bhrānta Akari
-         	</p>
+        <p xml:lang="san-Latn">                
+         	    <lb n="D3"/>bhrāntaḥ
+        </p>
+        <p>
+            Akari
+        </p>
     </div>
          	
 </div>
@@ -143,26 +146,28 @@
 <div type="apparatus">
 
     <div type="textpart" n="A">
-        <head>Face A = west</head>
+        <head>Face A = West</head>
         
         <listApp>
             
             <app loc="A1">
                 <lem>E<seg rendition="class:telugu maturity:83215">ṟi</seg></lem>
                 <rdg source="bib:VenkatasubbaAyyar1943_01"/>
+                <rdg source="bib:Brocquet1997_01">Eṟ</rdg>
                 <rdg source="bib:Lockwood+al2001_01">Ēthi</rdg>
             </app>
             
             <app loc="A2">
                 <lem>kucañāṇa</lem>
-                <rdg source="bib:VenkatasubbaAyyar1943_01">ku<hi rend="grantha">cagrā</hi>ṇa</rdg>
+                <rdg source="bib:VenkatasubbaAyyar1943_01 bib:Brocquet1997_01">ku<hi rend="grantha">cagrā</hi>ṇa</rdg>
                 <rdg source="bib:Lockwood+al2001_01">kucañāṉa</rdg>
             </app>
             
             <app loc="A3">
                 <lem>mahāmeghaḥ</lem>                
                 <rdg source="bib:Lockwood+al2001_01"/>
-                <rdg source="bib:VenkatasubbaAyyar1943_01">mahāmegha</rdg>
+                <rdg source="bib:VenkatasubbaAyyar1943_01">mahāmegha</rdg>                
+                <rdg source="bib:Brocquet1997_01">mahāmedha</rdg>
             </app>
             
         </listApp>
@@ -170,7 +175,7 @@
     </div>
     
         <div type="textpart" n="B">
-        <head>Face B = south </head>
+        <head>Face B = South </head>
         
         <listApp>
             
@@ -184,13 +189,13 @@
         
     </div>
         <div type="textpart" n="C">
-        <head>Face C = east</head>
+        <head>Face C = East</head>
         
         <listApp>
             
             <app loc="C3">
                 <lem>vnā<seg rendition="class:telugu maturity:83215">ṟa</seg></lem>
-                <rdg source="bib:VenkatasubbaAyyar1943_01">vnā<seg rendition="class:telugu maturity:83215">ṟa</seg><unclear>pegu</unclear></rdg>
+                <rdg source="bib:VenkatasubbaAyyar1943_01 bib:Brocquet1997_01">vnā<seg rendition="class:telugu maturity:83215">ṟ</seg><unclear>pegu</unclear></rdg>
                 <rdg source="bib:Lockwood+al2001_01">vnātha</rdg>
             </app>	
             
@@ -198,7 +203,7 @@
         
     </div>
         <div type="textpart" n="D">
-        <head>Face D = north</head>
+        <head>Face D = North</head>
         
         <listApp>
             
@@ -213,29 +218,57 @@
 
 </div>
           
-<!--<div type="translation" source="bib:...">
+<div type="translation" resp="part:emfr">
             
-   <p>
-      
-   </p>
-      		
-</div>-->
-         
-<!--<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
-            
-   <p>
-      
-   </p>
-      		
-</div>-->
+    <div type="textpart" n="A">
+        <head>Face A = West</head>       
+        
+        <p n="A1">...</p>
+        <p n="A2">He whose knowledge is sharp.</p>       
+        <p n="A3">The great cloud.</p>
+        <p n="A4">He whose devotion is firm.</p>
+        
+    </div>
+    
+    <div type="textpart" n="B">
+        <head>Face B = South </head>        
+        
+        <p n="B1">...</p>
+        <p n="B2">The tiger among artists.</p>       
+        <p n="B3">...</p>
+        
+    </div>
+    
+    <div type="textpart" n="C">
+        <head>Face C = East</head>
+        
+        <p n="C1">...</p>
+        <p n="C2">...</p>       
+        <p n="C3">...</p> 
+        
+    </div>
+    <div type="textpart" n="D">
+        <head>Face D = North</head>
+        
+        <p n="D1">The thunderbolt.</p>
+        <p n="D2">...</p>       
+        <p n="D3">...</p>     
+        <p n="D3">...</p> 
+    </div>    
+    
+</div>
       	
-<div type="commentary"/>
+<div type="commentary">
+    
+    <p>The orientation (west to north) of the pillar’s face is given in <bibl><ptr target="bib:Jouveau-Dubreuil1919_01"/></bibl> and <ptr target="bib:VenkatasubbaAyyar1943_01"/> and is presumably that of the pillar at the time it was found in situ in the Ekāmbaranātha temple. The pillar is currently (2025) displayed at the entrance of the main sculpture gallery in the Chennai Government Museum.</p>
+    
+</div>
 
       	
 <div type="bibliography">
       		
-   <p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/82).</p> 
-   <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.14). Text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 21), in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 17). Edited and translated in <bibl><ptr target="bib:Lockwood+al2001_01"/></bibl> (p. 198; pp. 215ff.)</p>
+   <p>Reported and discussed in <bibl><ptr target="bib:Jouveau-Dubreuil1919_01"/></bibl>, with visual documentation. Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/82).</p> 
+   <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.14), with visual documentation. Text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 21). Text and French translation of the Sanskrit <foreign>biruda</foreign>s in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 17). Edited and translated in <bibl><ptr target="bib:Lockwood+al2001_01"/></bibl>, with delineations of the original inscriptions. See <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 29).</p>
    <p>This revised edition by Emmanuel Francis, based on autopsy and photos (2007, by Emmanuel Francis).</p>
 
     <listBibl type="primary">
@@ -259,12 +292,17 @@
         </bibl>
         
         <bibl n="L">
-            <ptr target="bib:Lockwood+al2001_01"/>   		
+            <ptr target="bib:Lockwood+al2001_01"/>
+            <citedRange unit="page">193-222</citedRange>            
         </bibl>
         
     </listBibl>
     
     <listBibl type="secondary">
+        
+        <bibl>
+            <ptr target="bib:Jouveau-Dubreuil1919_01"/>
+        </bibl>
         
         <bibl n="ARIE">
             <ptr target="bib:ARIE1920-1921"/>
@@ -272,18 +310,11 @@
             <citedRange unit="appendix">C/1921</citedRange>
             <citedRange unit="item">51</citedRange>
         </bibl>
-        <!--<bibl>
-            <ptr target="bib:Srinivasan1964_01"/>
-            <citedRange unit="page">...</citedRange>
-            </bibl>
-            <bibl>
+        
+        <bibl>            
             <ptr target="bib:Francis2013_01"/>
-            <citedRange unit="page">...</citedRange>
-            </bibl>
-            <bibl>
-            <ptr target="bib:Francis2017_01"/>
-            <citedRange unit="page">...</citedRange>
-            </bibl>-->
+        </bibl>
+        
     </listBibl>
       		
       	</div>

@@ -122,7 +122,7 @@
 <div type="bibliography">
       		
    <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/411).</p> 
-   <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.8). Text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 34), in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 28).</p>
+   <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.8). Text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 34), in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 28). Edited and translated in <bibl><ptr target="bib:Lockwood+al2001_01"/></bibl>, with delineations of the original inscriptions. See <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 29). See <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 28).</p>
    <p>This revised edition by Emmanuel Francis, based on autopsy and photos (TBC).</p>
 
     <listBibl type="primary">
@@ -133,41 +133,45 @@
             <citedRange unit="item">8</citedRange>
         </bibl>
       			
-      			<bibl n="IP">
-      				<ptr target="bib:Mahalingam1988_01"/>
-      				<citedRange unit="page">128-132</citedRange>
-      				<citedRange unit="item">34</citedRange>            		
-      			</bibl>            	
-      			<bibl n="B">
-      				<ptr target="bib:Brocquet1997_01"/>
-      				<citedRange unit="page">493-495</citedRange>
-      				<citedRange unit="item">28</citedRange>            		
-      			</bibl>            	           	
-      			
-      		</listBibl>
-      		
-      		<listBibl type="secondary">
-      			
-      			<bibl n="ARIE">
-      				<ptr target="bib:ARIE1904-1905"/>
-      				<citedRange unit="page">15</citedRange>
-      				<citedRange unit="appendix">A/1904</citedRange>
-      				<citedRange unit="item">411</citedRange>
-      			</bibl>
-      			<!--<bibl>
-      				<ptr target="bib:Srinivasan1964_01"/>
-      				<citedRange unit="page">...</citedRange>
-      			</bibl>
-      			<bibl>
-      				<ptr target="bib:Francis2013_01"/>
-      				<citedRange unit="page">...</citedRange>
-      			</bibl>
-      			<bibl>
-      				<ptr target="bib:Francis2017_01"/>
-      				<citedRange unit="page">...</citedRange>
-      			</bibl>-->
-      		</listBibl>
-      		
+       <bibl n="IP">
+          <ptr target="bib:Mahalingam1988_01"/>
+          <citedRange unit="page">128-132</citedRange>
+          <citedRange unit="item">34</citedRange>            		
+       </bibl>            	
+       <bibl n="B">
+          <ptr target="bib:Brocquet1997_01"/>
+          <citedRange unit="page">493-495</citedRange>
+          <citedRange unit="item">28</citedRange>            		
+       </bibl>            	           	
+       <bibl n="L">
+          <ptr target="bib:Lockwood+al2001_01"/>
+          <citedRange unit="page">193-222</citedRange>            
+       </bibl>
+    </listBibl>
+   
+   <listBibl type="secondary">
+      
+      <bibl n="ARIE">
+         <ptr target="bib:ARIE1904-1905"/>
+         <citedRange unit="page">15</citedRange>
+         <citedRange unit="appendix">A/1904</citedRange>
+         <citedRange unit="item">411</citedRange>
+      </bibl>
+      <!--<bibl>
+         <ptr target="bib:Srinivasan1964_01"/>
+         <citedRange unit="page">...</citedRange>
+         </bibl>
+         <bibl>
+         <ptr target="bib:Francis2013_01"/>
+         <citedRange unit="page">TBC</citedRange>
+         </bibl>
+         <bibl>
+         <ptr target="bib:Francis2017_01"/>
+         <citedRange unit="page">TBC</citedRange>
+         </bibl>-->
+      
+   </listBibl>
+   
       	</div>
       	
       </body>

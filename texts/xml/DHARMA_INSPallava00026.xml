@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-             <title>Māmaṇṭūr, foundation poem</title>
+             <title>Māmaṇṭūr, eulogy of Śatrumalla</title>
             <respStmt>
                <resp>author of digital edition</resp>
                <persName ref="part:emfr">
@@ -40,7 +40,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                   <summary>Cave wall inscription recording the foundation of ... by ... (Mahendravarman I Pallava).</summary>
+                  <summary>Lacunose cave-temple wall inscription recording a eulogy of Śatrumalla, Nityavinīta, Sātyasandha, that is Mahendravarman I Pallava, and probably his foundation of the cave-temple.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -78,15 +78,17 @@
          <change who="part:emfr" when="2025-01-23" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve">
-      <body>
-
-         <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+   
+   
+<text xml:space="preserve">
+<body>
+   
+   <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
          	
-         	<p><lb n="1"/></p>
-         	
-         </div>
-
+      <p><lb n="1"/>...</p>
+      
+   </div>
+   
 <!--<div type="apparatus">
 
     <listApp>
@@ -122,7 +124,7 @@
 <div type="bibliography">
       		
    <p>Reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/38).</p> 
-   <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.136). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 26). Text in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 21).</p>
+   <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.136). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 26). Text in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 21). See <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 32).</p>
    <p>This revised edition by Emmanuel Francis, based on autopsy and photos (2004, by Emmanuel Francis).</p>
 
     <listBibl type="primary">
@@ -158,15 +160,15 @@
       			<!--<bibl>
       				<ptr target="bib:Srinivasan1964_01"/>
       				<citedRange unit="page">...</citedRange>
-      			</bibl>
+      			</bibl>-->
       			<bibl>
       				<ptr target="bib:Francis2013_01"/>
-      				<citedRange unit="page">...</citedRange>
+      				<citedRange unit="page">TBC</citedRange>
       			</bibl>
       			<bibl>
       				<ptr target="bib:Francis2017_01"/>
-      				<citedRange unit="page">...</citedRange>
-      			</bibl>-->
+      				<citedRange unit="page">TBC</citedRange>
+      			</bibl>
       		</listBibl>
       		
       	</div>
