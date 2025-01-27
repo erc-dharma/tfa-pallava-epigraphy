@@ -44,7 +44,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p/>
+                      <p>Letter <foreign>ṟa</foreign> with horizontal stroke only in its inside (against horizontal stroke crossed by vertical stroke, for instance in the inscription  without cross inside <ref target="DHARMA_INSPallava00034.xml">Pallava 34</ref>).</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -152,21 +152,22 @@
             
             <app loc="A1">
                 <lem>E<seg rendition="class:telugu maturity:83215">ṟi</seg></lem>
-                <rdg source="bib:VenkatasubbaAyyar1943_01"/>
+                <rdg source="bib:VenkatasubbaAyyar1943_01 bib:Mahalingam1988_01"/>
                 <rdg source="bib:Brocquet1997_01">Eṟ</rdg>
                 <rdg source="bib:Lockwood+al2001_01">Ēthi</rdg>
+                <note><ptr target="bib:Lockwood+al2001_01"/> (p. 198, 216) in fact hesitates between the readings <foreign>vnāṟa</foreign> and <foreign>vnātha</foreign>. The letter <foreign>ṟa</foreign> has only an horizontal stroke in its inside, which makes it close to the letter <foreign>tha</foreign>.</note>
             </app>
             
             <app loc="A2">
                 <lem>kucañāṇa</lem>
-                <rdg source="bib:VenkatasubbaAyyar1943_01 bib:Brocquet1997_01">ku<hi rend="grantha">cagrā</hi>ṇa</rdg>
+                <rdg source="bib:VenkatasubbaAyyar1943_01  bib:Mahalingam1988_01 bib:Brocquet1997_01">ku<hi rend="grantha">cagrā</hi>ṇa</rdg>
                 <rdg source="bib:Lockwood+al2001_01">kucañāṉa</rdg>
             </app>
             
             <app loc="A3">
                 <lem>mahāmeghaḥ</lem>                
                 <rdg source="bib:Lockwood+al2001_01"/>
-                <rdg source="bib:VenkatasubbaAyyar1943_01">mahāmegha</rdg>                
+                <rdg source="bib:VenkatasubbaAyyar1943_01 bib:Mahalingam1988_01">mahāmegha</rdg>                
                 <rdg source="bib:Brocquet1997_01">mahāmedha</rdg>
             </app>
             
@@ -182,7 +183,7 @@
             <app loc="B1">
                 <lem>Abhimukhaḥ</lem>                
                 <rdg source="bib:Lockwood+al2001_01"/>
-                <rdg source="bib:VenkatasubbaAyyar1943_01">Abhimukha</rdg>
+                <rdg source="bib:VenkatasubbaAyyar1943_01 bib:Mahalingam1988_01 bib:Brocquet1997_01">Abhimukha</rdg>
             </app>
             
         </listApp>
@@ -195,8 +196,9 @@
             
             <app loc="C3">
                 <lem>vnā<seg rendition="class:telugu maturity:83215">ṟa</seg></lem>
-                <rdg source="bib:VenkatasubbaAyyar1943_01 bib:Brocquet1997_01">vnā<seg rendition="class:telugu maturity:83215">ṟ</seg><unclear>pegu</unclear></rdg>
+                <rdg source="bib:VenkatasubbaAyyar1943_01 bib:Mahalingam1988_01 bib:Brocquet1997_01">vnā<seg rendition="class:telugu maturity:83215">ṟ</seg><unclear>pegu</unclear></rdg>
                 <rdg source="bib:Lockwood+al2001_01">vnātha</rdg>
+                <note> The letter <foreign>ṟa</foreign> has only an horizontal stroke in its inside, which makes it close to the letter <foreign>tha</foreign>.</note>                
             </app>	
             
         </listApp>
@@ -269,7 +271,7 @@
       		
    <p>Reported and discussed in <bibl><ptr target="bib:Jouveau-Dubreuil1919_01"/></bibl>, with visual documentation. Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/82).</p> 
    <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.14), with visual documentation. Text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 21). Text and French translation of the Sanskrit <foreign>biruda</foreign>s in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 17). Edited and translated in <bibl><ptr target="bib:Lockwood+al2001_01"/></bibl>, with delineations of the original inscriptions. See <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 29).</p>
-   <p>This revised edition by Emmanuel Francis, based on autopsy and photos (2007, by Emmanuel Francis).</p>
+   <p>This revised edition by Emmanuel Francis, based on autopsy and photos (<ref target="https://didomena.ehess.fr/concern/data_sets/k0698h80v">2017, by Emmanuel Francis</ref>; <ref target="https://didomena.ehess.fr/concern/data_sets/ks65hp10f">2024, by Emmanuel Francis</ref>).</p>
 
     <listBibl type="primary">
         
