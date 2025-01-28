@@ -135,44 +135,44 @@
             <citedRange unit="item">136</citedRange>
             <citedRange unit="plate">III</citedRange>
         </bibl>
-      			
-      			<bibl n="IP">
-      				<ptr target="bib:Mahalingam1988_01"/>
-      				<citedRange unit="page">114-116</citedRange>
-      				<citedRange unit="item">26</citedRange>            		
-      			</bibl>            	
-      			<bibl n="B">
-      				<ptr target="bib:Brocquet1997_01"/>
-      				<citedRange unit="page">474-475</citedRange>
-      				<citedRange unit="item">21</citedRange>            		
-      			</bibl>            	           	
-      			
-      		</listBibl>
+        
+        <bibl n="IP">
+            <ptr target="bib:Mahalingam1988_01"/>
+            <citedRange unit="page">114-116</citedRange>
+            <citedRange unit="item">26</citedRange>            		
+        </bibl>            	
+        <bibl n="B">
+            <ptr target="bib:Brocquet1997_01"/>
+            <citedRange unit="page">474-475</citedRange>
+            <citedRange unit="item">21</citedRange>            		
+        </bibl>            	           	
+        
+    </listBibl>
+    
+    <listBibl type="secondary">
+        
+        <bibl n="ARIE">
+            <ptr target="bib:ARIE1887-1888_01"/>
+            <citedRange unit="page">5</citedRange>
+            <citedRange unit="appendix">I/1887-1888</citedRange>
+            <citedRange unit="item">38</citedRange>
+        </bibl>
+        <bibl>
+            <ptr target="bib:Srinivasan1964_01"/>
+            <citedRange unit="page">67-71</citedRange>
+            </bibl>
+        <bibl>
+            <ptr target="bib:Francis2013_01"/>
+            <citedRange unit="page">276</citedRange>
+        </bibl>
+        <bibl>
+            <ptr target="bib:Francis2017_01"/>
+            <citedRange unit="page">530-532</citedRange>
+        </bibl>
+    </listBibl>
       		
-      		<listBibl type="secondary">
-      			
-      			<bibl n="ARIE">
-      				<ptr target="bib:ARIE1887-1888_01"/>
-      				<citedRange unit="page">5</citedRange>
-      				<citedRange unit="appendix">I/1887-1888</citedRange>
-      				<citedRange unit="item">38</citedRange>
-      			</bibl>
-      			<!--<bibl>
-      				<ptr target="bib:Srinivasan1964_01"/>
-      				<citedRange unit="page">...</citedRange>
-      			</bibl>-->
-      			<bibl>
-      				<ptr target="bib:Francis2013_01"/>
-      				<citedRange unit="page">TBC</citedRange>
-      			</bibl>
-      			<bibl>
-      				<ptr target="bib:Francis2017_01"/>
-      				<citedRange unit="page">TBC</citedRange>
-      			</bibl>
-      		</listBibl>
-      		
-      	</div>
-      	
+</div>
+    
       </body>
   </text>
 </TEI>
