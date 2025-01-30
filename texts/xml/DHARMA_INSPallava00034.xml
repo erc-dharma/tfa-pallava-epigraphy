@@ -40,7 +40,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                   <summary>List of <foreign>biruda</foreign>s of ... (Mahendravarman I Pallava).</summary>
+                   <summary>List of <foreign>biruda</foreign>s of Mahendravarman I Pallava.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -78,14 +78,32 @@
          <change who="part:emfr" when="2025-01-23" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve">
-      <body>
+    
+    
+<text xml:space="preserve">
+<body>
 
-         <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+<div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
          	
-         	<p><lb n="1"/></p>
-         	
-         </div>
+    <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+        <head>A. Outer row of pillars</head>
+        
+        <p><lb n="A1"/></p>
+    </div>
+    
+    <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+        <head>B. Inner row of pillars</head>
+        
+        <p><lb n="B1"/></p>
+    </div>
+    
+    <div type="textpart" n="C" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+        <head>C. Inner pilasters</head>
+        
+        <p><lb n="C1"/></p>
+    </div>
+    
+</div>
 
 <!--<div type="apparatus">
 

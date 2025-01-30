@@ -84,9 +84,32 @@
 <body>
 
 <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-         	
-    <p><lb n="1"/></p>
+         
+    <lg n="1" met="vasantatilakā">
+        <l n="a"><lb n="1"/>...</l>
+        <l n="b">...</l>
+        <l n="c">...</l>
+        <l n="d">...</l>
+    </lg>
     
+    <lg n="2" met="āryā">
+        <l n="ab">...</l>
+        <l n="cd">...</l>
+    </lg>
+    
+    <lg n="3" met="śikhariṇī">
+        <l n="a">...</l>
+        <l n="b">...</l>
+        <l n="c">...</l>
+        <l n="d">...</l>
+    </lg>
+    
+    <lg n="4" met="vasantatilakā">
+        <l n="a">...</l>
+        <l n="b">...</l>
+        <l n="c">...</l>
+        <l n="d">...</l>
+    </lg>
 </div>
     
 <!--<div type="apparatus">

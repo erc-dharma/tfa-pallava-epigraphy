@@ -83,21 +83,89 @@
 
 <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">         	
    
-   <p>      
-      <lb n="1"/>...
-   </p>
+    <div type="textpart" n="A"><head>Initial blessing</head>
+        <p>      
+            <lb n="A1"/>namaś śivā<unclear>ya</unclear>
+        </p>
+    </div>
    
+    <div type="textpart" n="B"><head>Section 1</head>
+        <p>      
+            <lb n="B1"/>ṛṣabhaM
+        </p>
+         <p>      
+             <lb n="B2ff."/><gap reason="lost"/> [list of <foreign>svara</foreign>s probably displayed in columns]
+        </p>
+    </div>
+    
+    <div type="textpart" n="C"><head>Section 2</head>
+       <p>      
+            <lb n="C1"/>gāndhāṛaM
+        </p>
+         <p>      
+            <lb n="C2ff."/><gap reason="lost"/> [list of <foreign>svara</foreign>s probably displayed in columns]
+        </p>
+   </div>
+   
+   <div type="textpart" n="D"><head>Section 3</head>
+       <p>      
+           <lb n="D1"/>pañcamaM
+       </p>
+       <p>      
+           <lb n="D2ff."/><gap reason="lost"/> [list of <foreign>svara</foreign>s probably displayed in columns]
+       </p>
+   </div>
+   
+   <div type="textpart" n="E"><head>Section 4</head>
+       <p>      
+           <lb n="E1"/>ghaivataM
+       </p>
+       <p>      
+           <lb n="E2ff."/><gap reason="lost"/> [list of <foreign>svara</foreign>s probably displayed in columns]
+       </p>
+   </div>
+   
+   <div type="textpart" n="F"><head>Section 5</head>
+    <p>      
+           <lb n="F1"/>niṣādaM
+       </p>
+       <p>      
+           <lb n="F2ff."/><gap reason="lost"/> [list of <foreign>svara</foreign>s probably displayed in columns]
+       </p>
+   </div>
+   
+   <div type="textpart" n="G"><head>Section 6</head>
+    <p>      
+           <lb n="G1"/>madhyamaM
+       </p>
+       <p>      
+           <lb n="G2ff."/><gap reason="lost"/> [list of <foreign>svara</foreign>s probably displayed in columns]
+       </p>
+   </div>    
+    
 </div>         
         
-<!--<div type="apparatus">
-      		
-</div>-->
+<div type="apparatus">
+    
+    <div type="textpart" n="F"><head>Section 5</head><listApp>
+        
+        <app loc="F1">
+            <lem><unclear>ni</unclear>ṣādaM</lem>
+            <rdg source="bib:VenkatasubbaAyyar1943_01"/>
+        </app>
+    </listApp>
+        
+    </div>    
+    
+</div>
       	
 <!--<div type="translation" resp="part:emfr">
       		
 </div>-->
       	
- <div type="commentary"/>
+ <div type="commentary">
+     <p>This inscription has been erased. What remains of it is its initial blesssing and the headers to series of <foreign>svara</foreign>s, which were probably displayed in columns, like in Kuṭumiyāmalai. See inscription <ref target="DHARMA_INSPallava00022">Pallava 22</ref>, which has comparable headers and the series of <foreign>svara</foreign>s.</p>
+ </div>
       	
 <div type="bibliography">
 

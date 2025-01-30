@@ -118,12 +118,12 @@
         
         <app loc="1">
             <lem><supplied reason="lost">saṃ</supplied>vatsare</lem>
-            <rdg source="bib:Krishnamacharlu1940_01"><unclear>saṃ</unclear>vatsare</rdg>
+            <rdg source="bib:Krishnamacharlu1940_01 bib:Fleet1880_01"><unclear>saṃ</unclear>vatsare</rdg>
         </app>
         
         <app loc="1">
             <lem>tra<unclear>yodaśe</unclear></lem>
-            <rdg source="bib:Krishnamacharlu1940_01"/>
+            <rdg source="bib:Krishnamacharlu1940_01 bib:Fleet1880_01"/>
             <note><ptr target="bib:Krishnamacharlu1940_01"/> notes: <quote>The letter <foreign>śe</foreign> has been read from the stone.</quote></note>
         </app>
         
@@ -153,10 +153,16 @@
 <div type="bibliography">
       		
    <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/E/1928-1929/100).</p> 
-   <p>Edited in .... (SOCI 73), in <bibl><ptr target="bib:Krishnamacharlu1940_01"/></bibl> (SII 11.1). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 37). Text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 29). See <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 33).</p>
+   <p>Edited in <bibl><ptr target="bib:Fleet1880_01"/></bibl> (SOCI 73), with visual documentation; in <bibl><ptr target="bib:Krishnamacharlu1940_01"/></bibl> (SII 11.1), with visual documentation. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 37). Text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 29). See <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 33).</p>
    <p>This edition by Emmanuel Francis, based on previous edition(s) and published visual documentation.</p>
 
     <listBibl type="primary">
+        
+        <bibl n="F">
+            <ptr target="bib:Fleet1880_01"/>
+            <citedRange unit="page">99-100</citedRange>
+            <citedRange unit="item">73</citedRange>
+        </bibl>
         
         <bibl n="SII">
             <ptr target="bib:Krishnamacharlu1940_01"/>

@@ -44,7 +44,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                      <p>Letter <foreign>ṟa</foreign> with horizontal stroke only in its inside (against horizontal stroke crossed by vertical stroke, for instance in the inscription  without cross inside <ref target="DHARMA_INSPallava00034.xml">Pallava 34</ref>).</p>
+                      <p>There is only one horizontal stroke in the letter <foreign>ṟa</foreign> (whereas the horizontal stroke is crossed by vertical a stroke, for instance in the inscription <ref target="DHARMA_INSPallava00034.xml">Pallava 34</ref>).</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -85,59 +85,47 @@
     
     <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
         <head>Face A = West</head>
-        <p xml:lang="tel-Latn">
-            <lb n="A1"/>E<seg rendition="class:telugu maturity:83215">ṟi</seg>
-        </p>
-        <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">            
-            <lb n="A2"/>kucañāṇa
-        </p>
         <p>
+            <lb n="A1"/><foreign xml:lang="tel-Latn">E<seg rendition="class:telugu maturity:83215">ṟi</seg></foreign>
+            
+            <lb n="A2"/><foreign xml:lang="tam-Latn"><seg rendition="class:tamil maturity:vernacular">kucañāṇa</seg></foreign>
+            
             <lb n="A3"/>mahāmeghaḥ
-        </p>
-        <p>
+            
             <lb n="A4"/>dṛdhabhaktiḥ
         </p>
     </div>
     
     <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-         	<head>Face B = South</head>
+        <head>Face B = South</head>
         <p>
             <lb n="B1"/>Abhimukhaḥ
-        </p>
-        <p>
-            <lb n="B2"/>citrakārapuli
-        </p>
-        <p xml:lang="tel-Latn">
-            <lb n="B3"/>ku<seg rendition="class:telugu maturity:83215">ṟṟa</seg>mbu
+            
+            <lb n="B2"/>citrakāra<foreign xml:lang="tam-Latn">puli</foreign>
+            
+            <lb n="B3"/><foreign xml:lang="tel-Latn">ku<seg rendition="class:telugu maturity:83215">ṟṟa</seg>mbu</foreign>
         </p>
     </div>
     
     <div type="textpart" n="C" xml:lang="tel-Latn" rendition="class:grantha maturity:83215">
-         	<head>Face C = East</head>
-         	<p>
-         	    <lb n="C1"/>curmbu
-         	</p>
+        <head>Face C = East</head>
         <p>
-         	    <lb n="C2"/>vaṃkaṃbu
+            <lb n="C1"/>curmbu
+            
+            <lb n="C2"/>vaṃkaṃbu
+            
+            <lb n="C3"/>vnā<seg rendition="class:telugu maturity:83215">ṟa</seg> 
         </p>
-        <p>
-         	    <lb n="C3"/>vnā<seg rendition="class:telugu maturity:83215">ṟa</seg> 
-         	</p>
     </div>    
     
     <div type="textpart" n="D" xml:lang="tel-Latn" rendition="class:grantha maturity:83215">
-         	<head>Face D = North</head>
-         	<p>
-         	    <lb n="D1"/>pisugu
-         	</p>
+        <head>Face D = North</head>
         <p>
-         	    <lb n="D2"/>vambara
-        </p>
-        <p xml:lang="san-Latn">                
-         	    <lb n="D3"/>bhrāntaḥ
-        </p>
-        <p>
-            Akari
+            <lb n="D1"/>pisugu
+            
+            <lb n="D2"/>vambara
+            
+            <lb n="D3"/><foreign xml:lang="tel-Latn">bhrāntaḥ Akari</foreign>
         </p>
     </div>
          	
@@ -155,7 +143,7 @@
                 <rdg source="bib:VenkatasubbaAyyar1943_01 bib:Mahalingam1988_01"/>
                 <rdg source="bib:Brocquet1997_01">Eṟ</rdg>
                 <rdg source="bib:Lockwood+al2001_01">Ēthi</rdg>
-                <note><ptr target="bib:Lockwood+al2001_01"/> (p. 198, 216) in fact hesitates between the readings <foreign>vnāṟa</foreign> and <foreign>vnātha</foreign>. The letter <foreign>ṟa</foreign> has only an horizontal stroke in its inside, which makes it close to the letter <foreign>tha</foreign>.</note>
+                <note><ptr target="bib:Lockwood+al2001_01"/> (p. 198, 216) in fact hesitates between the readings <foreign>vnāṟa</foreign> and <foreign>vnātha</foreign>. There is only one horizontal stroke in the letter <foreign>ṟa</foreign>, which makes it close to the letter <foreign>tha</foreign>.</note>
             </app>
             
             <app loc="A2">
@@ -198,7 +186,7 @@
                 <lem>vnā<seg rendition="class:telugu maturity:83215">ṟa</seg></lem>
                 <rdg source="bib:VenkatasubbaAyyar1943_01 bib:Mahalingam1988_01 bib:Brocquet1997_01">vnā<seg rendition="class:telugu maturity:83215">ṟ</seg><unclear>pegu</unclear></rdg>
                 <rdg source="bib:Lockwood+al2001_01">vnātha</rdg>
-                <note>The letter <foreign>ṟa</foreign> has only an horizontal stroke in its inside, which makes it close to the letter <foreign>tha</foreign>.</note>                
+                <note>There is only one horizontal stroke in the letter <foreign>ṟa</foreign>, which makes it close to the letter <foreign>tha</foreign>.</note>                
             </app>	
             
         </listApp>
@@ -262,7 +250,7 @@
       	
 <div type="commentary">
     
-    <p>The orientation (west to north) of the pillar’s face is given in <bibl><ptr target="bib:Jouveau-Dubreuil1919_01"/></bibl> and <ptr target="bib:VenkatasubbaAyyar1943_01"/> and is presumably that of the pillar at the time it was found in situ in the Ekāmbaranātha temple. The pillar is currently (2025) displayed at the entrance of the main sculpture gallery in the Chennai Government Museum.</p>
+    <p>The orientation (west to north) of the pillar’s faces is given in <bibl><ptr target="bib:Jouveau-Dubreuil1919_01"/></bibl> and <ptr target="bib:VenkatasubbaAyyar1943_01"/>. It is presumably that of the pillar at the time it was found in situ in the Ekāmbaranātha temple. The pillar is currently (2025) displayed at the entrance of the main sculpture gallery in the Chennai Government Museum.</p>
     
 </div>
 

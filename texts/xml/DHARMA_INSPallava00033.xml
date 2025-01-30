@@ -78,14 +78,38 @@
          <change who="part:emfr" when="2025-01-23" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve">
-      <body>
+    
+<text xml:space="preserve">
+<body>
 
-         <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+<div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
          	
-         	<p><lb n="1"/></p>
-         	
-         </div>
+    <lg n="1" met="śārdūlavikrīḍita">
+        <l n="a"><lb n="1"/>kāvīrīn nayanābhirāma-salilām ārā<lb n="2" break="no"/>ma-mālādharāM</l>
+        <l n="b">devo vīkṣya nadī-priyaḥ <lb n="3"/>priya-g<supplied reason="lost">u</supplied>ṇām apy eṣa rajyed iti</l>
+        <l n="c">sāśaṃ<lb n="4" break="no"/>kā giri-kanyakā pitṛkulaṃ hitveha manye gi<lb n="5" break="no"/>r<supplied reason="lost">au</supplied></l> 
+        <l n="d">n<supplied reason="lost">i</supplied>tyan tiṣṭhati pallavasya dayitām etāṃ bru<lb n="6" break="no"/>vāṇā nadīm <g type="ddanda">.</g></l> 
+    </lg>
+    
+    <lg n="2" met="āryā">
+        <l n="ab">...</l>
+        <l n="cd">...</l>
+    </lg>
+    
+    <lg n="3" met="āryā">
+        <l n="ab">...</l>
+        <l n="cd">...</l>
+    </lg>
+    
+    <lg n="4" met="anuṣṭubh">
+        <l n="a">...</l>
+        <l n="b">...</l>
+        <l n="c">...</l>
+        <l n="d">...</l>
+    </lg>
+    
+    <p>...</p>
+</div>
 
 <!--<div type="apparatus">
 

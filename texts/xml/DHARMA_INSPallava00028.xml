@@ -78,14 +78,19 @@
          <change who="part:emfr" when="2025-01-23" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:space="preserve">
-      <body>
+    
+<text xml:space="preserve">
+<body>
 
-         <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+ <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
          	
-         	<p><lb n="1"/></p>
-         	
-         </div>
+     <p>
+         <lb n="1"/>...
+         <lb n="2"/>...
+         <lb n="3"/>...
+     </p>
+     
+ </div>
 
 <!--<div type="apparatus">
 
