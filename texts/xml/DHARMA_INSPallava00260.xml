@@ -9,20 +9,13 @@
       <fileDesc>
          <titleStmt>
              <title>Tirumayyam, time of Cāttaṉ Māṟaṉ</title>
-            <respStmt>
-               <resp>EpiDoc encoding</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
-                  <surname>Francis</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
-                  <surname>Francis</surname>
-               </persName>
-            </respStmt>
+             <respStmt>
+                 <resp>author of digital edition</resp>
+                 <persName ref="part:emfr">
+                     <forename>Emmanuel</forename>
+                     <surname>Francis</surname>
+                 </persName>
+             </respStmt>   
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
