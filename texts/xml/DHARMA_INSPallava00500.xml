@@ -10,19 +10,12 @@
          <titleStmt>
             <title>Corakōlatūr, time of Nandivikramavarman, year 17</title>
             <respStmt>
-               <resp>EpiDoc encoding</resp>
+               <resp>author of digital edition</resp>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>
                </persName>
-            </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
-                  <surname>Francis</surname>
-               </persName>
-            </respStmt>
+            </respStmt>            
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
@@ -96,8 +89,8 @@
 	<lb n="1" style="text-align: left"/>svasti śrī
 </ab>
 <p>
-	<lb n="2" style="text-align: left"/>kōvicaiya-nanti-vikkira<unclear>m</unclear>
-	<lb n="3" break="no"/>ma-parumaṟk<choice><orig>i</orig><reg>u</reg></choice> yāṇṭu patiṉēḻ-āva
+	<lb n="2" style="text-align: left"/>kō-vicaiya-nanti-vikkira<unclear>m</unclear>
+	<lb n="3" break="no"/>ma-parumaṟk<choice><orig>i</orig><reg>u</reg></choice> yāṇṭu patiṉ ēḻ-āva
 	<lb n="4" break="no"/>tu
 </p>
 <p>
