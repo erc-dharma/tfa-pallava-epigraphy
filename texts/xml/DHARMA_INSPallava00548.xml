@@ -10,19 +10,12 @@
 			<titleStmt>
 				<title>Corakōlatūr, no king, no year</title>
 				<respStmt>
-					<resp>EpiDoc encoding</resp>
+					<resp>author of digital edition</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
 					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
+				</respStmt>				
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
@@ -48,7 +41,7 @@
 		</msIdentifier>
 		<msContents>
 			<summary>
-				See <bibl><ptr target="bib:ARIE2018-2019"/></bibl> (p. 85): <quote>Seems to record some gift made to Cōmāṇṭanāyanār, son of Pirutikaṅkar, by Cōḻakōṇār-Marumankuṭai-Aḻakiyaṉ. In characters of the 9th century A.D.</quote> [standardised quotation]</summary>
+				See <bibl><ptr target="bib:ARIE2018-2019"/></bibl> (p. 85): <quote>Seems to record some gift made to Cōmāṇṭanāyanār, son of Pirutikaṅkar, by Cōḻakōṇār-Marumankuṭai-Aḻakiyaṉ. In characters of the 9th century A.D.</quote><note type="credit">Text standardised according to DHARMA transliteration scheme.</note></summary>
 		</msContents>
 		<physDesc>
 			<handDesc>
@@ -102,9 +95,9 @@
       		
 </div>-->
       	
-<!--<div type="commentary">      		
-	
-</div>-->
+<div type="commentary">      		
+	<p>Ascription to the Pallava corpus based on findspot and paleography.</p>
+</div>
       	
 <div type="bibliography">
 	
