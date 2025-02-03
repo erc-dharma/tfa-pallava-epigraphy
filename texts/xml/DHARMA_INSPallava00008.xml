@@ -95,72 +95,125 @@
 
 <head xml:lang="eng">Plates</head>
 
-	<pb n="1r"/>
-
-<p>
-	<pb n="1v"/>
-	<fw place="left" n="1v">1</fw>
-	<lb n="1v1=1"/>jitaṁ bhagavatā
-</p>
-
-<p>
-	śrī-vijaya-kāñcīpurāT parama-brahmaṇyasya vidhi-vihita-sarvva-ma
-	<lb n="1v2=2" break="no"/>ryyādasya kṣiti-talāvatīrṇṇa-tridaśa-pati-tulya-prabhāvasya pratāpopanata
-	<lb n="1v3=3" break="no"/>-sarvva-rāja-maṇḍalāsya Abhyuccita-śakti-siddhi-sampannasya mahārāja
-	<lb n="1v4=4" break="no"/>sya śrī-vijaya-vīravarmmaṇaḥ pautraḥ Amṛta-viṣa-sama-prasāda-kopasya
-	<lb n="1v5=5" break="no"/>lokopacaya-pravṛtta-sarvvārambhasya vasanta-māsa Iva sarvva-jana-nayana
-
-	<pb n="2r" break="no"/>
-	
-	<lb n="2r1=6" break="no"/>-hṛdayānandasya kari-karodāra-pīna-bhujasya sva-bhuja-paripālanātimudita-
-	<lb n="2r2=7" break="no"/>-paura-jānapadasya sakala-dakṣiṇā-patha-vijaya-yaśas-samāsthāpita-tri-samu-
-	<lb n="2r3=8" break="no"/>dra-kūlasya rājādbhutasya śrī-vijaya-skandavarmmaṇaḥ putraḥ bhagava-
-	<lb n="2r4=9" break="no"/>d-bhakti-sad-bhāva-sambhāvita-sarvva-kalyāṇaḥ mano-vaśānuga-pañcendriya-viṣayaḥ
-	<lb n="2r5=10"/>vṛddha-darśanopāsana-ratiḥ pūrvva-rāja-rṣi-prabhāva-guṇa-samupagataḥ
-	
-	<pb n="2v"/>
-	<fw place="left" n="2v">2</fw>
-
-	<pb n="3r"/>
-	
-	<pb n="3v"/>
-	<fw place="left" n="3v">3</fw>
-	
-	<pb n="4r"/>
-
-	<pb n="4v"/>
-	<fw place="left" n="4v">4</fw>
-
-	<lb n="4v1=28"/>kūlippottena likhiteyan tāmbra-paṭṭiketi
-</p>
-	
-	<p>
-		Atra ślokā
-		<lb n="4v2=29"/>bhavanti
-	</p>
-
-	<lg n="1" met="anuṣṭubh">
-		<l n="a">bahubhir vvasudhā dattā</l>
-		<l n="b">bahubhiś cānupālitā</l>
-		<l n="c"><lb n="4v3=30"/>yasya yasya yadā bhūmiḥ</l>
-		<l n="d">tasya tasya tadā phalaM {floret}</l>
-	</lg>
-	
-	<lg n="2" met="anuṣṭubh">
-		<l n="a"><pb n="5r"/><lb n="5r1=31"/>sva-dattām para-dattāṃ vā</l>
-		<l n="b">yo hareta vasundharāM</l>
-		<l n="c">gavāṃ śata-saha<lb n="5r2=32" break="no"/>srasya</l>
-		<l n="d">hantuḥ pibati duṣkṛtaM</l>
-	</lg>
-	
-	<lg n="3" met="anuṣṭubh">
-		<l n="a">brahma-svan tu viṣaṃ ghoraM</l>
-		<l n="b"><lb n="5r3=33"/>na viṣaṃ viṣam ucyate</l>
-		<l n="c">viṣam ekākinaṃ hanti</l>
-		<l n="d">brahma-svaṃ putra-pautrikaM {floret}</l>
-	</lg>
-	
-	<pb n="5v"/>
+    <pb n="1r"/>
+    
+    <p>
+        <pb n="1v"/>
+        <fw place="left" n="1v">1</fw>
+        
+        <lb n="1v1=1"/>jitaṁ bhagavatā
+    </p>
+    
+    <p>
+        śrī-vijaya-kāñcīpurāT
+        
+        <list>
+            
+            <item>
+                parama-brahmaṇyasya vidhi-vihita-sarvva-ma
+                <lb n="1v2=2" break="no"/>ryyādasya kṣiti-talāvatīrṇṇa-tridaśa-pati-tulya-prabhāvasya pratāpopanata
+                <lb n="1v3=3" break="no"/>-sarvva-rāja-maṇḍalāsya Abhyuccita-śakti-siddhi-sampannasya mahārāja
+                <lb n="1v4=4" break="no"/>sya śrī-vijaya-vīravarmmaṇaḥ pautraḥ
+            </item>
+            
+            <item>
+                Amṛta-viṣa-sama-prasāda-kopasya
+                <lb n="1v5=5" break="no"/>lokopacaya-pravṛtta-sarvvārambhasya vasanta-māsa Iva sarvva-jana-nayana
+                
+                <pb n="2r" break="no"/>
+                
+                <lb n="2r1=6" break="no"/>-hṛdayānandasya kari-karodāra-pīna-bhujasya sva-bhuja-paripālanātimudita-
+                <lb n="2r2=7" break="no"/>-paura-jānapadasya sakala-dakṣiṇā-patha-vijaya-yaśas-samāsthāpita-tri-samu-
+                <lb n="2r3=8" break="no"/>dra-kūlasya rājādbhutasya śrī-vijaya-skandavarmmaṇaḥ putraḥ
+            </item>
+            <item>bhagava-
+                <lb n="2r4=9" break="no"/>d-bhakti-sad-bhāva-sambhāvita-sarvva-kalyāṇaḥ mano-vaśānuga-pañcendriya-viṣayaḥ
+                <lb n="2r5=10"/>vṛddha-darśanopāsana-ratiḥ pūrvva-rāja-rṣi-prabhāva-guṇa-samupagataḥ
+                
+                <pb n="2v"/>
+                <fw place="left" n="2v">2</fw>
+                
+                <lb n="2b1=11"/>śama-dama-niyama-dhṛta-dhṛtiḥ kṣitidhara-vara-sadṛśāvasthita-sthitiḥ prajāsu pu
+                <lb n="2v2=12" break="no"/>tra-nirantara-pravṛtta-sauhṛdaḥ kali-yuga-doṣāvasanna-dharmmoddharaṇa-nitya-sa
+                <lb n="2v3=13" break="no"/>nnaddhaḥ vīta-rāga-roṣa-lobha-moha-bhayaḥ Avasanna-rāja-vaṃ
+                <lb n="2v4=14" break="no"/>śoddharaṇa-savyāpāraḥ vāsa-vṛkṣo vidvaj-janasya Āśrayo dharmmasya Āvā
+                <lb n="2v5=15" break="no"/>so lakṣmyāḥ sarvvasvañ-jīva-lokasya bhagavat-pādānuddhyāto bappa-bhaṭṭāra
+                
+                <pb n="3r" break="no"/>
+                
+                <lb n="3r1=16" break="no"/>ka-pāda-bhaktaḥ parama-bhāgavato bhāradvājaḥ Anekāśvamedhāvabhṛ<choice><sic>dh</sic><corr>t</corr></choice>a 
+                <lb n="3r2=17" break="no"/>-snātānāM śrī-vallabhānām pallavānām mahārājaḥ śrī-vijaya-siṇhavarmmā
+            </item>
+        </list> 
+        
+        <lb n="3r3=18"/>nādattapāṭyāM vesanta-grāmeyakāN Ittham ājñāpayati
+    </p>
+    
+    <p>
+        yathā
+        <lb n="3r4=19"/>Eṣaḥ grāmaḥ Āvastamba-sūtrebhyaḥ gautama-sagotrebhyo jyeṣṭa-śa
+        <lb n="3r5=20" break="no"/>rmmabhyaḥ sapānīya-pātaM brahmadeyaṃ kṛtvā Aṣṭādaśa-jāti-parihā    
+        
+        <pb n="3v" break="no"/>
+        <fw place="left" n="3v">3</fw>
+        
+        <lb n="3v1=21" break="no"/>ropetaḥ Asmad-āyur-ddharmma-vijayābhivṛddhyārthaM deva-bhoga-hala
+        <lb n="3v2=22" break="no"/>-varjjam asmābhis samprattaḥ
+    </p>
+    
+    <p>
+        tad asmin rājye sarvva-mahāmātrāddhyakṣa-rāja
+        <lb n="3v3=23" break="no"/>-puruṣāḥ sañcarantaś cainaṃ grāmaM sarva-parihāraiḥ pariha
+        <lb n="3v4=24" break="no"/>rantu parihārayantu ca
+    </p>
+    
+    <p>        
+        yo <orig>v</orig>āsmad-ājñām atilaṃghayet sa pāpaḥ
+        
+        <pb n="4r"/>
+        
+        <lb n="4r1=25"/>śārīra-daṇḍam arhati
+    </p>
+    
+    <p>
+        Asmad-vijaya-rājya-saṃvatsare Ekona
+        <lb n="4r2=26" break="no"/>viṃśatyāM māgha-māsa-śukla-pakṣa-daśamyāM parama-bha
+        <lb n="4r3=27" break="no"/>ṭṭāraka-pādaiḥ sva-mukhājñāptena rahasyādhikṛtena
+        
+        <pb n="4v"/>
+        <fw place="left" n="4v">4</fw>
+        
+        <lb n="4v1=28"/>kūlippottena likhiteyan tāmbra-paṭṭiketi
+    </p>
+    
+    <p>
+        Atra ślokā
+        <lb n="4v2=29"/>bhavanti
+    </p>
+    
+    <lg n="1" met="anuṣṭubh">
+        <l n="a">bahubhir vvasudhā dattā</l>
+        <l n="b">bahubhiś cānupālitā</l>
+        <l n="c"><lb n="4v3=30"/>yasya yasya yadā bhūmiḥ</l>
+        <l n="d">tasya tasya tadā phalaM {floret}</l>
+    </lg>
+    
+    <lg n="2" met="anuṣṭubh">
+        <l n="a"><pb n="5r"/><lb n="5r1=31"/>sva-dattām para-dattāṃ vā</l>
+        <l n="b">yo hareta vasundharāM</l>
+        <l n="c">gavāṃ śata-saha<lb n="5r2=32" break="no"/>srasya</l>
+        <l n="d">hantuḥ pibati duṣkṛtaM</l>
+    </lg>
+    
+    <lg n="3" met="anuṣṭubh">
+        <l n="a">brahma-svan tu viṣaṃ ghoraM</l>
+        <l n="b"><lb n="5r3=33"/>na viṣaṃ viṣam ucyate</l>
+        <l n="c">viṣam ekākinaṃ hanti</l>
+        <l n="d">brahma-svaṃ putra-pautrikaM {floret}</l>
+    </lg>
+    
+    <pb n="5v"/>
+    
 </div>
 </div>
 
@@ -169,15 +222,27 @@
 	<div type="textpart" xml:lang="san-Latn" n="B">
 	<head xml:lang="eng">Plates</head>
 		
-	<!--<listApp>
+	<listApp>
+	    <!--
 		<app loc="0">
 			<lem>...</lem>
-			<rdg source="bib:Ramesan1962_04">...</rdg>
-			
+			<rdg source="bib:Ramesan1962_04">...</rdg>			
 		</app>
+	    -->
+	    
+	    <app loc="13">
+	        <lem>°lobha-moha-bhayaḥ</lem>
+	        <rdg source="bib:Ramesan1962_04"/>
+	        <rdg source="bib:Mahalingam1988_01 bib:Brocquet1997_01">°lobhaḥ</rdg>			
+	    </app>
+	    
+	    <app loc="16">
+	        <lem>Anekāśvamedhāvabhṛ<choice><sic>dh</sic><corr>t</corr></choice>a°</lem>
+	        <rdg source="bib:Ramesan1962_04">nekāśvamedhāvabhṛtha°</rdg>			
+	    </app>
 		
-	</listApp>-->
-		
+	</listApp>
+	    
 	</div>
 	
 </div>
