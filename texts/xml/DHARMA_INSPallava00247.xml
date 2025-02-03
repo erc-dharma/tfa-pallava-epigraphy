@@ -41,11 +41,11 @@
 					<idno/>
 				</msIdentifier>
 				<msContents>
-					<summary>An orphan plate (first plate of a set).</summary>
+					<summary>An orphan plate, that is, the first and only available plate of a set made of an unknown number of plates. Contains the initial blessing and the beginning of the royal genealogy. The donor king, whose name is lost, is the great-grandson of the king Vīrakorcavarman, that is, Vīrakurcavarman.</summary>
 				</msContents>
 				<physDesc>
 					<handDesc>
-						<p>...</p>
+						<p/>
 					</handDesc>
 				</physDesc>
 			</msDesc>
@@ -86,34 +86,78 @@
 
 <p>
 	<pb n="1v"/>
-	<lb n="1v1=1"/><supplied reason="lost">sva</supplied><unclear>s</unclear>ti jitaṁ bhagavatā
+	<lb n="1v1=1"/><supplied reason="lost">sva</supplied><unclear>s</unclear>ti jitam bhagavatā
 </p>
 
 <p>
 	śrīmad-vijaya-daśanapurādhiṣ<choice><orig>ṭ</orig><reg>ṭh</reg></choice>ānāt pa
 	<lb n="1b2=2" break="no"/>rama-brahmaṇyasya sva-bāhu-balā<reg>r</reg>jjito<reg>r</reg>jjita-kṣātra-tapo-ni
 	<lb n="1b3=3" break="no"/>dhe<reg>r</reg> vvidh<unclear>i</unclear>-vihita-sarvva-maryyādasya sthiti-sthitasyāmitātma
-	<lb n="1b4=4" break="no"/>no mahārājasya śrī-vīrakorcca-varmmaṇaḥ prapautraḥ <supplied reason="omitted">A</supplied>bhyarcchi
+	<lb n="1b4=4" break="no"/>no mahārājasya śrī-vīrakorcca-varmmaṇaḥ prapautraḥ <supplied reason="omitted">A</supplied>bhyarc<choice><sic>ch</sic><corr>c</corr></choice>i
 </p>
 	
 </div>
 
 <div type="apparatus">
 		
-	<!--<listApp>
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Hultzsch1892_05">...</rdg>
-			
-		</app>
-		
-	</listApp>-->		
+    <listApp>
+        
+        <!--
+        <app loc="0">
+            <lem>...</lem>
+            <rdg source="bib:Hultzsch1892_05">...</rdg>            
+        </app>
+        -->
+        
+        <app loc="1">
+            <lem><supplied reason="lost">sva</supplied><unclear>s</unclear>ti</lem>
+            <rdg source="bib:Hultzsch1892_05">svasti</rdg>            
+        </app>
+        
+        <app loc="2">
+            <lem>°balā<reg>r</reg>jjito<reg>r</reg>jjita°</lem>
+            <rdg source="bib:Hultzsch1892_05">°balārjjitorjjita°</rdg>            
+        </app>
+        
+        <app loc="2">
+            <lem>°ni<lb n="1b3=3" break="no"/>dhe<reg>r</reg></lem>
+            <rdg source="bib:Hultzsch1892_05">°nidher</rdg>            
+        </app>
+        
+        <app loc="4">
+            <lem>°vīrakorcca°</lem>
+            <note>See °vīrakorcca° in ..., °vīrakurcca° in ...<!--update!--></note>            
+        </app>
+        <app loc="4">
+            <lem>prapautraḥ</lem>
+            <rdg source="bib:Hultzsch1892_05"/>
+            <rdg source="bib:Mahalingam1988_01">prapotraḥ</rdg>
+            <rdg source="bib:Brocquet1997_01">prap<choice><sic>o</sic><corr>au</corr></choice>traḥ</rdg>            
+        </app>
+        
+        <app loc="4">
+            <lem><supplied reason="omitted">A</supplied>bhyarc<choice><sic>ch</sic><corr>c</corr></choice>i</lem>
+            <note>This lacunose epithet of the grandfather of the donor is probably <foreign>abhyarccitaśaktisiddhisampanna</foreign>. See IP 10<!--update!-->.</note>
+        </app>
+        
+    </listApp>		
 	
 </div>
 
-<!--<div type="translation" resp="part:emfr">
+<div type="translation" source="bib:Hultzsch1892_05">
 	
-</div>-->
+    <p n="1">
+        Hail! Victorious is Bhagavat!
+    </p>
+    <p n="1-4">
+        From the prosperous and victorious residence of
+        Daśanapura. The great-grandson of the <foreign>mahārāja</foreign> Śrī-Vīra-Kōrcavarman, who
+        was very pious, who acquired by the power of his arm a mighty treasure of such penance
+        as becomes the warrior-caste, who ordained all laws according to the sacred scriptures,
+        who was constant in virtue, and whose mind was immeasurable <gap reason="lost"/>
+    </p>
+    
+</div>
       	
 <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
 
