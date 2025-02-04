@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Sakrepaṭna plates, time of Siṃhavarman, year 41</title>
+            <respStmt>
+                <resp>author of digital edition</resp>
+                <persName ref="part:emfr">
+                    <forename>Emmanuel</forename>
+                    <surname>Francis</surname>
+                </persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris, CEIAS</pubPlace>
+            <idno type="filename">DHARMA_INSPallava00009</idno>
+            <availability>
+                <licence target="https://creativecommons.org/licenses/by/4.0/">
+                    <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                        Licence. To view a copy of the licence, visit
+                        https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                        Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                        California, 94041, USA.</p>
+                    <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>DHARMAbase</repository>
+                    <idno/>
+                </msIdentifier>
+                <msContents>
+                    <summary>...</summary>
+                </msContents>
+                <physDesc>
+                    <handDesc>
+                        <p>...</p>
+                    </handDesc>
+                </physDesc>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+        <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC)
+                under the European Union's Horizon 2020 research and innovation programme (grant
+                agreement no 809994).</p>
+        </projectDesc>
+        <schemaRef type="guide" key="EGDv01"
+            url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+        <listPrefixDef>
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                    ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part" matchPattern="([a-z]+)"
+                replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <p>Internal URIs using the part prefix to point to person elements in the
+                    <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+        </listPrefixDef>
+    </encodingDesc>
+    <revisionDesc>
+        <change who="part:emfr" when="2025-02-04" status="draft">Creation of the file</change>
+    </revisionDesc>
+</teiHeader>
+	
+<text xml:space="preserve">
+<body>
+
+<div type="edition" xml:lang="san-Latn" rendition="class:brāhmī_southern maturity:regional">
+
+<div type="textpart" n="A">
+    
+<head xml:lang="eng">Seal</head>
+
+    <p/>	
+    
+</div>
+
+<div type="textpart" n="B">
+
+<head xml:lang="eng">Plates</head>
+
+    <pb n="1r"/>
+    
+    <p>
+        <pb n="1v"/>
+        <lb n="1v1=1"/><g type="spiral"/> jitaṁ bhagavatā <g type="dash"/> svasti 
+    </p>
+    
+    <p>
+        vijaya-skandhāvārān maudgalī-taṭā
+        <lb n="1v2=2" break="no"/>vāsakāT        
+        
+        <list>
+            
+            <item>
+                parama-brahmaṇyasysa sva-bāhu-balārjjitorjjita-kṣātra-tapo
+                <lb n="1v3=3" break="no"/>-nidher vvidhi-vihita-sarvva-maryyādasya sthiti-sthitasyāmitātma<unclear>no</unclear> 
+                <lb n="1v4=4" break="no"/>mahārāja-śrī-skandavarmmaṇaḥ prapautraḥ Abhyuccita
+                
+                <pb n="2r" break="no"/>
+                
+                <pb n="2r1=5" break="no"/>-śakti-siddhi-sampannasya pratāpopanata-rāja-maṇḍalasya vasudhā 
+                <pb n="2r2=6" break="no"/>talaika-vīrasya mahārāja-śrī-vīravarmmaṇaḥ pautraḥ
+            </item>
+            
+            <item>
+                deva-dvija 
+                (2r3=7) guru-vṛdh[ā>o]pacāyino vivṛddha-vinayasyāneka-go-hiraṇya-bhū-
+                (2r4=8) my-ādi-pradānaiḥ pravṛddha-dharmma-sañcayasya prajā-pālana-dakṣasya
+
+                <pb n="2v"/>
+                <fw place="left" n="2v">2</fw>
+                
+                (2v1=9) loka-pālānām pañcamasya loka-pālasya satyātmano mah(ā)-
+                (2v2=10) rāja-śrī-skandavarmmaṇaḥ putraḥ
+            </item>
+            
+            <item>
+                bhagavad-bhakti-sambhāvita-sarvva-
+                (2v3=11) kalyāṇaḥ prajā-saṃrañjana-paripālanodyoga-satata-
+                (2v4=12) satra-vrata<space/>-dīkṣitaḥ naika-samara-sāhasāvamardda-labdha-vija-
+                
+                <pb n="3r" break="no"/>
+                (3r1=13) ya-yaśaḥ-prakāśaḥ kali-yuga-doṣāvasanna-dharmmoddharaṇa-nitya 
+                (3r2=14) sannaddhaḥ rāja-rṣi-guṇa-sarvva-sandoha-vijigīṣur ddharmma-vijigīṣuḥ
+                (3r3=15) bhagavat-pādānuddhayāto bappa-bhaṭṭāraka-pāda-bhaktaḥ parama 
+                (3r4=16) bhāgavato bhāradvājaḥ sva-vikramākrāntānya-nṛpa-śrī-nilayānāM
+        
+                <pb n="3v" break="no"/>
+                <fw place="left" n="3v">3</fw>
+                
+                (3v1=17) yathāvad-āhṛtānekāśvamedhānāM pallavānān dharmma-mahārā-
+                (3v2=18) ja-śrī-siṃhavarmmā
+            </item>
+        </list>
+        
+                sendraka-rājye sarvva-naiyogika-vallabhā-
+                (3v3=19) (n) v(ai)ṣayikāṃś cājñāpayati
+    </p>
+    <p>               
+               Atrāsmābhis sendraka-rājye
+               (3v4=20) valvilly-agrahāre nairantaryyeṇa bhujyamān(e) Uparibhāgam [a>ā]diṅ kṛtvā
+               
+               (4r1=21) (ya)d yad rāja-bhogyan tat sarvvan tad-agrah(ā)rikebhya Eva brāhmaṇebhyo dattaM 
+               (4r2=22) sarvva-parihārāś cātrānujñātāḥ tad avagamya tathā sarvvair vvarttitavyaM
+               (4r3=23) pariharttavyañ ceti
+    </p>
+    
+    <lg n="1" met="anuṣṭubh">
+        <l n="a">bhūmi-dānāt paran dānan</l>
+        <l n="b">na bhūtan na bhaviṣyati</l>
+        <l n="c"><lb n="4r4=24"/>tasyaiva haraṇāt pāpan</l>
+        <l n="d">na bhūtan na bhaviṣyati || 1 ||</l>
+    </lg>
+    
+    <lg n="2" met="anuṣṭubh">
+        <l n="a">        
+                <pb n="4v"/>
+                <fw place="left" n="4v">4</fw>
+            (4v1=25) sva-dattā(m pa)ra-dattāṃ vā</l>
+        <l n="b">yo hareta vasundharāM</l>
+        <l n="c">gavāṃ śata(4v2=26)sahasrasya</l>
+        <l n="d">hantuḫ pibati kilbiṣaM || 2 ||</l>
+    </lg>
+    
+    <lg n="3" met="anuṣṭubh">
+        <l n="a">varṣa-koṭ[ī>i](4v3=27)-sa(ha)srāṇi</l>
+        <l n="b">svargge krīḍati bhūmi-daḥ</l>
+        <l n="c">Ākṣeptā cānu(4v4=28)mantā ca</l>
+        <l n="d">tāvanti narake vaset || 3 ||</l>
+    </lg>
+    
+    <lg n="4" met="anuṣṭubh">
+        <l n="a">bahubhir vvasudhā dattā</l>
+        <l n="b">(5r1=29) bahubhiś cānupālitā</l>
+        <l n="c">yasya yasya yadā bhūmis</l>
+        <l n="d">tasya tasya (5r2=30)tadā phalaM || 4 ||</l>
+    </lg>
+    
+    <p>
+        pravarddhamāna-vijaya-rājya-saṃvatsare 
+        (5r3=31) Ekacatvāriṣe prauṣṭhapada-māsa-bahula-pakṣa-daśamyā-
+        (5r4=32) n dattā paṭṭikā svayam ājñāptam iti go-brāhmaṇan nandatu ||―
+    </p>
+    
+    <pb n="5v"/>
+    
+</div>
+</div>
+
+<!--<div type="apparatus">
+
+	<div type="textpart" xml:lang="san-Latn" n="B">
+	<head xml:lang="eng">Plates</head>
+		
+	<listApp>
+	    
+		<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:...">...</rdg>			
+		</app>
+	    
+	    
+	</listApp>
+	    
+	</div>
+	
+</div>-->
+
+<!--<div type="translation" resp="part:emfr">
+	
+</div>-->
+      	
+<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
+
+	<p n="1">Succès ! Le Bienheureux est vainqueur ! Prospérité !</p>
+	<p n="1">Depuis le quartier général de la victoire, le séjour au bord de la Maudgalī :</p>
+	
+	<p>...</p>
+	
+	<p>Il y a, à ce propos, des stances :</p>
+	
+	<p rend="stanza" n="4">
+		<l>Beaucoup ont donné une terre,</l>
+		<l>Et beaucoup l’on préservée ;</l>
+		<l>A qui va la terre</l>
+		<l>Va aussi le fruit.</l>
+	</p>	
+
+</div>
+	
+<div type="commentary"/>
+
+<div type="bibliography">
+    <!--Update from here!-->
+	<p>Edited in <bibl><ptr target="bib:Ramesan1962_04"/></bibl>, with visual documentation. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 8). Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 5).</p>
+	<p>This revised edition by Emmanuel Francis, based on the published visual documentation.</p>
+
+            <listBibl type="primary">
+
+            	<bibl n="R">
+            		<ptr target="bib:Ramesan1962_04"/>
+            		<citedRange unit="page">211-238</citedRange>
+            	</bibl>
+
+            	<bibl n="IP">
+            		<ptr target="bib:Mahalingam1988_01"/>
+            		<citedRange unit="page">TBC</citedRange>
+            		<citedRange unit="item">8</citedRange>
+            	</bibl>
+
+            	<bibl n="B">
+            		<ptr target="bib:Brocquet1997_01"/>
+            		<citedRange unit="page">389-395</citedRange>
+            		<citedRange unit="item">5</citedRange>
+            	</bibl>
+
+            </listBibl>
+
+            <listBibl type="secondary">
+            	<bibl>
+            		<ptr target="bib:Francis2013_01"/>
+            		<citedRange unit="item">IR 9</citedRange>
+            	</bibl>
+
+           </listBibl>
+
+         </div>
+
+      </body>
+  </text>
+</TEI>
