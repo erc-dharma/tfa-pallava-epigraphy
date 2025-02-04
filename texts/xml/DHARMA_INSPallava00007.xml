@@ -180,7 +180,7 @@
 
         <pb n="5v" break="no"/>
         
-        <lb n="5v1=31" break="no"/>c-chāsanam ati<choice><sic>kk</sic><corr>k</corr></choice>r<unclear>a</unclear>met sa pāpaś <unclear reason="eccentric_ductus">ś</unclear>ārīraṃ daṇḍam arhati
+        <lb n="5v1=33" break="no"/>c-chāsanam ati<choice><sic>kk</sic><corr>k</corr></choice>r<choice><sic><unclear>ā</unclear></sic><corr>a</corr></choice>met sa pāpaś <unclear reason="eccentric_ductus">ś</unclear>ārīraṃ daṇḍam arhati
     </p>
     <p>
         <lb n="5v2=34"/>śrī-siṃhavarmma-mahārājasya vijaya-saṃvatsare 
@@ -228,8 +228,9 @@
         </app>
         
         <app loc="33">
-            <lem>ati<choice><sic>kk</sic><corr>k</corr></choice>r<unclear>a</unclear>met</lem>
-            <rdg source="bib:Venkataramanayya1969_03">atikkrāmet</rdg>			
+            <lem>ati<choice><sic>kk</sic><corr>k</corr></choice>r<choice><sic><unclear>ā</unclear></sic><corr>a</corr></choice>met</lem>
+            <rdg source="bib:Venkataramanayya1969_03">atikkrāmet</rdg>
+            <note>The longer horizontal stroke on top right of the letter might be a medial <foreign>ā</foreign>.</note>
         </app>
         
     </listApp>		
