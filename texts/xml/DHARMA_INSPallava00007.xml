@@ -107,25 +107,23 @@
                 
                 <lb n="2r1=5" break="no"/>siddhi-sampannasya pratāpopanata-rāja-maṇḍalasya mahā
                 <lb n="2r2=6" break="no"/>-rājasya vasudhā-talaika-vīrasya śrī-vīravarmmaṇaḥ
-                <lb n="2r3=7" break="no"/>pautrasya
+                
             </item>
             
             <item>
-                deva-dvija-guru-vṛ<unclear>d</unclear>dh<unclear>o</unclear>pacāyino vivṛddha
+                <lb n="2r3=7" break="no"/>pautrasya deva-dvija-guru-vṛ<unclear>d</unclear>dh<unclear>o</unclear>pacāyino vivṛddha
                 <lb n="2r4=8" break="no"/>vinaya<unclear>s</unclear>yāneka-<unclear>go</unclear>-hiraṇya-bhūmy-<unclear>ā</unclear>di-pradānaiḥ pravṛddha
-                
-                
+                                
                 <pb n="2v" break="no"/>
                 <fw place="left" n="2v">2</fw>
                 
                 <lb n="2v1=9" break="no"/>vinayasyāneka-go-hiraṇya-bhūmy-ādi-pr<choice><sic>ā</sic><corr>a</corr></choice>dānaiḥ pravṛddha
                 <lb n="2v2=10" break="no"/>-dharmma-sañcayasya prajā-pālana-dakṣasya loka-pālānā
                 <lb n="2v3=11" break="no"/>m pañcamasya loka-pālasya satyātmano mahātmano
-                <lb n="2v4=12"/>mahārājasya śrī-skandavarmmaṇaḥ putrasya
+                <lb n="2v4=12"/>mahārājasya śrī-skandavarmmaṇaḥ
             </item>
             <item>
-                bhagavat-bhakti
-                                
+                putrasya bhagavat-bhakti                                
                 <pb n="3r" break="no"/>
                 <lb n="3r1=13" break="no"/>sad-bhāva-sambhāvita-sarvva-kalyā<choice><sic>n</sic><corr>ṇ</corr></choice>asya prajā-saṃrañjana-pa
                 <lb n="3r2=14" break="no"/>ripālanodyoga-satata-satra-vrata-dīkṣitasya Aneka
@@ -180,7 +178,7 @@
 
         <pb n="5v" break="no"/>
         
-        <lb n="5v1=33" break="no"/>c-chāsanam ati<choice><sic>kk</sic><corr>k</corr></choice>r<choice><sic><unclear>ā</unclear></sic><corr>a</corr></choice>met sa pāpaś <unclear reason="eccentric_ductus">ś</unclear>ārīraṃ daṇḍam arhati
+        <lb n="5v1=33" break="no"/>c-chāsanam ati<choice><orig>kk</orig><reg>k</reg></choice>r<choice><sic><unclear>ā</unclear></sic><corr>a</corr></choice>met sa pāpaś <unclear reason="eccentric_ductus">ś</unclear>ārīraṃ daṇḍam arhati
     </p>
     <p>
         <lb n="5v2=34"/>śrī-siṃhavarmma-mahārājasya vijaya-saṃvatsare 

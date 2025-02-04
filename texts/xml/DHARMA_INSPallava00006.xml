@@ -102,47 +102,69 @@
 
 <head xml:lang="eng">Plates</head>
 
-	<pb n="1r"/>
+    <pb n="1r"/>
+    
+    <p>
+        <pb n="1v"/>
+        <fw place="left" n="1v">1</fw>
+        <lb n="1"/>jitaṁ bhagavatā
+    </p>
 
-<p>
-	<pb n="1v"/>
-	<fw place="left" n="1v">1</fw>
-	<lb n="1"/>jitaṁ bhagavatā
-</p>
+    <p>
+        śrī-vijaya-palakkaḍa-sthānāT
+        
+        <list>
+            
+            <item>
+                parama-brahmaṇyasya sva
+                <lb n="2" break="no"/>-bāhu-balārjitorjita-kṣātra-tapo-nidheḥ vihita-sarvva-maryyādasya
+                <lb n="3"/>sthiti-<space type="binding-hole"/>sthitasyāmitātmano mahārajasya śrī-skandavarmmaṇaḥ
+            </item>
+            
+            <item>
+                <lb n="4"/>prapautrasyā<reg>r</reg>ccita-śakti-siddhi-sampannasya pratāpopanata-rāja
+                
+                <pb n="2r" break="no"/>
+                
+                <lb n="5" break="no"/>-maṇḍalasya mahārājasya vasudhā-talaika-vīrasya śrī-vīravarmmaṇaḥ
+            </item>
+            
+            <item>
+                pau
+                <lb n="6" break="no"/>trasya <space type="binding-hole"/>deva-dvija-guru-vṛddhopacāyino vivṛddha-vinayasyāneka-go-hi
+                <lb n="7" break="no"/>raṇya-<space type="binding-hole"/>bhūmy-ādi-pradānaiḥ pravṛddha-dharmma-sañcayasya prajā-pālana
+                <lb n="8" break="no"/>-dakṣasya loka-pālānāṁ pañcamasya loka-pālasya satyātmano mahā
+                
+                <pb n="2v" break="no"/>
+                <fw place="left" n="2v">2</fw>
+                
+                <lb n="9" break="no"/>tmano mahārājasya śrī-skandavarmmaṇaḥ
+            </item>
+            
+            <item>                
+                putrasya bhagavad-bhakti-sadbhāva
+                <lb n="10" break="no"/>-saṁbhāvita-sarvva-kalyā<choice><sic>n</sic><corr>ṇ</corr></choice>asya prajā-saṁrañjana-paripālanodyoga-sata
+                <lb n="11" break="no"/>ta-sa<space type="binding-hole"/>tra-vrata-d<choice><sic>ita</sic><corr>ī</corr></choice>kṣitasya Aneka-samara-sāhasāvamardda-la
+                <lb n="12" break="no"/>bdha-vijaya-yaśa<supplied reason="omitted">ḥ</supplied>-prakāśasya kali-yuga-doṣāvasanna-dharmmoddharaṇa-nitya-sa
+                
+                <pb n="3r" break="no"/>
 
-<p>
-	śrī-vijaya-palakkaḍa-sthānāt parama-brahmaṇyasya sva
-	<lb n="2" break="no"/>bāhu-balārjitorjita-kṣātra-tapo-nidheḥ vihita-sarvva-maryyādasya
-	<lb n="3"/>sthiti-<space type="binding-hole"/>sthitasyāmitātmano mahārajasya śrī-skandavarmmaṇaḥ
-	<lb n="4"/>prapautrasyā<reg>r</reg>ccita-śakti-siddhi-sampannasya pratāpopanata-rāja
-
-	<pb n="2r"/>
-
-	<lb n="5" break="no"/>maṇḍalasya mahārājasya vasudhā-talaika-vīrasya śrī-vīravarmmaṇaḥ pau
-	<lb n="6" break="no"/>trasya <space type="binding-hole"/> deva-dvija-guru-vṛddhopacāyino vivṛddha-vinayasyāneka-go-hi
-	<lb n="7" break="no"/>raṇya-<space type="binding-hole"/>bhūmy-ādi-pradānaiḥ pravṛddha-dharmma-sañcayasya prajā-pālana
-	<lb n="8" break="no"/>dakṣasya loka-pālānāṁ pañcamasya loka-pālasya satyātmano mahā
-
-	<pb n="2v"/>
-	<fw place="left" n="2v">2</fw>
-
-	<lb n="9" break="no"/>tmano mahārājasya śrī-skandavarmmaṇaḥ putrasya bhagavad-bhakti-sadbhāva
-	<lb n="10" break="no"/>saṁbhāvita-sarvva-kalyā<choice><sic>n</sic><corr>ṇ</corr></choice>asya prajā-saṁrañjana-paripālanodyoga-sata
-	<lb n="11" break="no"/>ta-sa<space type="binding-hole"/>tra-vrata-d<choice><sic>ita</sic><corr>ī</corr></choice>kṣitasya Aneka-samar-sāhasāvamardda-la
-	<lb n="12" break="no"/>bdha-vijaya-yaśa<supplied reason="omitted">ḥ</supplied>-prakāśasya kali-yuga-doṣāvasanna-dharmmoddharaṇa-nitya-sa
-
-	<pb n="3r"/>
-
-	<lb n="13"/>nnaddhasya rāja-rṣi-guṇa-sarvva-sandoha-vijigīśor ddharmma-vijigīṣor bhagavat-pādā
+	<lb n="13" break="no"/>nnaddhasya rāja-rṣi-guṇa-sarvva-sandoha-vijigīśor ddharmma-vijigīṣor bhagavat-pādā
 	<lb n="14" break="no"/>nuddhyātasya bappa-bhaṭṭāraka-mahārāja-pāda-bhaktasya parama-bhāgavatasya
-	<lb n="15"/>bhāra<space type="binding-hole"/>dvāja-sagotrasya sva-vikkramākrāntānya-nṛpa-śrī-nilayānā<orig>m</orig> yath<choice><sic>a</sic><corr>ā</corr></choice>
-	<lb n="16" break="no"/>vad āhṛtāśvamedh<choice><sic>a</sic><corr>ā</corr></choice>nām pallavānā<orig>m</orig> dharmma-yuvamahārāja-śrī-viṣṇugopava
+	<lb n="15"/>bhāra<space type="binding-hole"/>dvāja-sagotrasya sva-vi<choice><orig>kk</orig><reg>k</reg></choice>ramākrāntānya-nṛpa-śrī-nilayānāM yath<choice><sic>a</sic><corr>ā</corr></choice>
+	<lb n="16" break="no"/>vad āhṛtāśvamedh<choice><sic>a</sic><corr>ā</corr></choice>nāM pallavānāM dharmma-yuvamahārāja-śrī-viṣṇugopava
 
-	<pb n="3v"/>
-	<fw place="left" n="3v">3</fw>
+                <pb n="3v" break="no"/>
+                <fw place="left" n="3v">3</fw>
+                
+                <lb n="17" break="no"/>rmmaṇo
+            </item>
+        </list>
+        
+        vacanena muṇḍarāṣṭre Uruvupalliye grāmeyakā<surplus>ḥ</surplus> vaktavyāḥ
+    </p>
 
-	<lb n="17" break="no"/>rmmaṇo vacanena muṇḍarāṣṭre Uruvupalliye grāmeyakā<surplus>ḥ</surplus> vaktavyāḥ
-</p>
+<!--Resume checking from here!-->
 
 <p>
 	Etasmin grāma
