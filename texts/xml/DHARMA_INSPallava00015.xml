@@ -135,32 +135,87 @@
                 <lb n="1r1=13" break="no"/>nekāśvamedhayājinām pallavānām mahārājaḥ śrī-siṃhavarmmā
             </item>
         </list>        
-                muṇḍarāṣṭre viḻavaṭṭi
+                muṇḍarāṣṭre vi<seg rendition="class:tamil maturity:vernacular">ḻa</seg>vaṭṭi
         <lb n="3r2=14" break="no"/>-grāme tasyaiva grāmasya kṣetrañ ca sarvvāddhyakṣāṃś ca tat-sañcāriṇaś cājñāpayati
     </p>
     
     <p>        
         A
-        <lb n="3r3=15" break="no"/>ya<supplied reason="omitted">ṃ</supplied>] gr<choice><sic>a</sic><corr>ā</corr></choice>maḥ ...
-        
+        <lb n="3r3=15" break="no"/>ya<supplied reason="omitted">ṃ</supplied> gr<choice><sic>a</sic><corr>ā</corr></choice>maḥ sagrā<supplied reason="omitted">ma</supplied>kas  sarvva-parihāropeto deva-bhoga-hala-varjjam asmad-āyur-bba
+        <lb n="3r4=16" break="no"/>la-vijayābhivṛddhaye samedhamāna-vijaya-rājye daśame saṃvatsare śrāvaṇyāṃ śukla-pa        
         <pb n="3v" break="no"/>
-        
+        <lb n="3v1=17" break="no"/>kṣe pañcamyāṃ gautama-gotrāya chandogāya viṣṇuśarmmaṇe data<choice><sic>M</sic><corr>ḥ</corr></choice>
+    </p>
+    <p>        
+        yad asmin grāme
+        <lb n="3v2=18"/>loha-carmmakārāpaṇa-paṭṭa-kāra-prāvārañcara-rajju-pratihārāpaṇājīvika-ka
+        <lb n="3v3=19" break="no"/>rāṇi nāhala-mukha-dharaka-kūpa-darśaka-tantravāya -dyūta-vivāha-nāpita-de
+        <lb n="3v4=20" break="no"/>yādīni ca sarvva-parihāra-kāru-deyāni ca yāny anyāni cāsmad-bhāgyāni tāny asmai
         <pb n="4r"/>
-        
+        <lb n="4r1=21"/>brahmadeyī-kṛtya dattāni
+    </p>
+    <p>
+        vaṭṭa-grāmeyakā<surplus>ḥ</surplus> <supplied reason="omitted">asmad-ājñāṃ</supplied> kurvvantv itare pariha<supplied reason="omitted">ra</supplied>ntu parihārayantu 
+        <lb n="4r2=22"/>ca
+    </p>
+    <p>
+        yaś caitad asmac chāsanam atikrāmet sa pāpaḥ śārīran daṇḍam arhati
     </p>
     
     <p>               
         Api cā
-        <lb n="4r3=23" break="no"/>trā<supplied reason="omitted">r</supplied>ṣāḥ ślokā bhavanti
+        <lb n="4r3=23" break="no"/>trā<supplied reason="omitted">r</supplied>ṣāḥ ślokā bhavanti <g type="ddanda">.</g><g type="circle">.</g><g type="circle">.</g><g type="ddanda">.</g><g type="dashLong">.</g>
     </p>
     
     <lg n="1" met="anuṣṭubh">
-        <l n="a">...</l>
-        <l n="b">...</l>
-        <l n="c">...</l>
-        <l n="d">...</l>
+        <l n="a">bhūmi-dānāt paran dānam</l>
+        <l n="b">iha loke na vidyate</l>
+        <l n="c">yaḥ praya<lb n="4r4=24" break="no"/>cchati bhūmi<supplied reason="omitted">ṃ</supplied> hi</l>
+        <l n="d">sarvva-kāmān dadāti saḥ</l>
     </lg>
     
+    <lg n="2" met="anuṣṭubh">
+        <l n="a">brahma-svaṃ <supplied reason="omitted">hi</supplied> viṣaṃ ghoran</l>
+        <l n="b">na viṣaṃ viṣam ucyate</l>
+        <l n="c">viṣam ekākina<unclear>ṃ</unclear> <pb n="4v"/><lb n="4v1=25"/>hanti</l>
+        <l n="d"><choice><sic>p</sic><corr>b</corr></choice>rahma-svaṃ putra-<choice><sic>b</sic><corr>p</corr></choice>autrikaM <g type="ddanda">.</g></l>
+    </lg>
+    
+    <lg n="3" met="anuṣṭubh">
+        <l n="a">sva-dattāṃ para-dattāṃ vā</l>
+        <l n="b">yo hareta vasundh[ā>a]rāM</l>
+        <l n="c">gavāṃ śata<lb n="4v2=26" break="no"/>sahasrasya</l>
+        <l n="d">hantuḥ <choice><sic>b</sic><corr>p</corr></choice>ibati kilbiṣaM</l>
+    </lg>
+    
+    <lg n="4" met="anuṣṭubh">
+        <l n="a">yathā nirohanty uptāni</l>
+        <l n="b">kīrṇṇāni ca mahī<lb n="4v3=27" break="no"/>tale</l>
+        <l n="c">Evaṃ kāmā virohanti</l>
+        <l n="d">bhūmi-dāna-samarjjitā<supplied reason="omitted">ḥ</supplied> <g type="ddanda">.</g></l>
+    </lg>
+    
+    <lg n="5" met="anuṣṭubh">
+        <l n="a">bahubhir vvasudhā dattā</l>
+        <l n="b">ba<lb n="4v4=28" break="no"/>hubhiś cānupālitā</l>
+        <l n="c">yasya yasya yadā bhūmis</l>
+        <l n="d">tasya tasya tadā phalaM <g type="ddanda">.</g></l>
+    </lg>
+    
+    <lg n="6" met="anuṣṭubh">
+        <l n="a"><pb n="5r"/><lb n="5r1=29"/>Asaṃkhyeyāni varṣāṇ<choice><sic>ī</sic><corr>i</corr></choice></l>
+        <l n="b">svargge modanti bhūmi-dāḥ</l>
+        <l n="c">Ākṣeptā cānumantā ca</l>
+        <l n="d">tāny eva <lb n="5r2=30"/>narake vaseT <g type="ddanda">.</g></l>
+    </lg>
+        
+    <p>
+        prabhoḥ s<choice><sic>u</sic><corr>va</corr></choice>-mukhājñāptyā rahasyādhikṛtenācyutena likhitaṃ śāsana<supplied reason="lost">M</supplied> <g type="ddanda">.</g>
+    </p>
+    <p>
+        <lb n="5r3=31"/>svast<choice><sic>a</sic><corr>i</corr></choice> 
+        <g type="ddanda">.</g><g type="circle">.</g><g type="circle">.</g><g type="ddanda">.</g><g type="dashLong">.</g>
+    </p>
 </div>
 </div>
 
@@ -195,23 +250,31 @@
     <p n="1-14">
         <list>
             <item>
-                Arrière-petit-fils du Grand Roi
+                Arrière-petit-fils du Grand Roi Śrī-Vīravarman, très pieux trésor d’austérité dont le titre royal fut une conquête de son bras, qui assura le respect de toutes les lois conformément aux prescriptions et qui respecta l’Ordre, qui se montra infiniment magnanime, héros unique sur la surface de la Terre ;
             </item>
             <item>
-                petit-fils du Grand Roi 
+                petit-fils du Grand Roi Śrī-Skandavarman, qui accrut beaucoup sa puissance et son succès, devant la majesté duquel s’inclina le cercle des rois, dont la réelle dévotion envers le Bienheureux engendra pour tous la prospérité, qui, par de multiples dons, notamment de vaches, d’or et de terres, se constitua un capital dharmique, qui se montra habile à protéger ses sujets, qui fut le cinquième des Gardiens du monde, qui se montra magnanime ; 
             </item>
             <item>
-                fils du Grand Roi 
+                fils du Prince Héritier Śrī-Viṣṇugopa, qui révéra les dieux, les prêtres, les maîtres et les anciens, qui pratiqua la plus sévère discipline, qu’illustra la gloire d’avoir, dans plus d’une bataille, remporté la victoire en écrasant la témérité, qui révéla un esprit incomparable ; 
             </item>
             <item>
-                Grand Roi des Pallava 
+                Grand Roi des Pallava, qui accomplirent selon les rites plus d’un sacrifice du cheval, Śrī-Siṃhavarman, qui se montre toujours prêt à soutenir le dharma que ruinent les péchés de l’âge Kali, dont le courage mérite l’envie, qui souhaite conquérir l’ensemble des vertus des rois ascètes, qui souhaite conquérir le dharma, qui jouit de la faveur des pieds du Bienheureux, qui offre sa dévotion à son père, l’illustre Seigneur, qui se montre un sectateur passionné du Bienheureux, qui descend de Bharadvāja, et qui est un réceptacle de prospérité dont la valeur subjugue les autres rois, 
             </item>
         </list>
-        
+        adresse cette ordonnance au <foreign>kṣetra</foreign><note>Employé ici au sens de comité de village (cf. D.C. Sircar, <hi rend="italic">Glossary</hi>, p. 163 et EI XXIV, p. 298).</note> du village de Viḻavaṭṭi<note>Le texte présente ici une redondance intraduisible : mot à mot, « au village de Viḻavaṭṭi..., au kṣetra de ce village ».</note>, dans le Muṇḍa-rāṣṭra, ainsi qu’à tous les <foreign>adhyakṣa</foreign> et aux <foreign>sañcārin</foreign> du lieu :
     </p>
         
-    <p n="14-">
-        
+    <p n="14-17">
+        ce village, ainsi que les hameaux qui l’entourent, nous en avons fait donation, avec toutes les exemptions et à l’exception des terrains cultivés dont le dieu a la jouissance, à Viṣṇuśarman, du gotra Gautama et du sūtra Chandoga - pour l’accroissement de la durée de notre vie, celui de notre puissance et de nos victoires, le cinquième jour de la quinzaine claire de Śrāvaṇī<note>Le mot <foreign>śrāvaṇī-</foreign>, f., qui apparaît ici au locatif, désigne le jour de la pleine lune du mois de juillet-août, dont le nom est en skt. <foreign>Śrāvaṇa-</foreign>. On a sans doute affaire à un emploi métonymique. </note>, en la dixième année de notre règne prospère et victorieux.
+    </p>
+    
+    <p n="17-21">
+        Toutes les taxes qui frappent, dans ce village, les artisans du métal et du cuir, les artisans du textile tenant boutique<note>C.R. Krishnamacharlu (EI), suivi par T.V. Mahalingam (IP), propose : « shop-keeping cloth dealers »; le second membre du composé <foreign>paṭṭa-kāra-</foreign> suggère plutôt un artisan. Mais ce même composé peut aussi signifier « faiseur de document », donc un personnage préposé à la rédaction des actes officiels ou des contrats, et exerçant son métier dans une échoppe (cf. EI XXIV, p. 298, note 5).</note>, les agents qui se déplacent incognito<note>Traduction la plus littérale possible : le sens du mot est obscur ; il peut désigner les « licensed spies going about in loose masks or garments » proposés par C.R. Krishnamacharlu et T.V. Mahalingam (<hi rend="italic">op. cit.</hi>), mais aussi être pris comme un équivalent de <foreign>sañcarantaka-</foreign> (cf. EI, <hi rend="italic">ibid.</hi>).</note>, les illusionnistes qui se produisent sur une corde<note>Peut-être faut-il séparer <foreign>rajju-</foreign> et <foreign>pratihāra-</foreign>; le second peut signifier « portier », et le premier pourrait être un équivalent de <foreign>rajjuka-</foreign>, mot qui désigne un fonctionnaire chargé de mesurer la terre (avec une corde, d’où son nom), afin de déterminer le montant de la part des récoltes revenant au roi (cf. EI <hi rend="italic">ibid.</hi>, et D.C. Sircar, <hi rend="italic">Glossary</hi>, p. 274).</note>, ceux qui tirent leur subsistance de leur échoppe<note>C’est-à-dire les commerçants proprement dits, par opposition aux « artisans tenant boutique ». On peut aussi séparer <foreign>āpaṇa-</foreign> et <foreign>ājīvika-</foreign>, auquel cas le premier signifie simplement « boutiques » (avec cet inconvénient qu’il serait alors le seul terme dans ce long composé <foreign>dvandva</foreign> désignant non pas une personne exerçant un métier, mais le lieu où il s’exerce) - et le second désignerait les membres de la communauté des mendiants Jaina portant ce nom (la présence d’importantes communautés Jaina est bien attestée, à diverses époques, dans le royaume Pallava).</note>; celles que doivent acquitter notamment les barbares et les hors-caste, les acteurs jouant masqués<note>A moins qu’il ne faille voir dans ce mot un équivalent de <foreign>mukhenādāyin-</foreign>, qui désigne certains dévôts (cf. EI XXIV, p. 298, note 4).</note>, les devins qui examinent les puits<note>Ou « les inspecteurs des puits » (cf. EI XXIV, p. 298, note 5).</note>, les tisserands, celles qui sont dues sur les jeux et les mariages, et celles que paient les barbiers; ainsi que celles auxquelles sont soumis tous les artisans bénéficiant d’exemptions<note>Il semble préférable de faire porter <foreign>sarva-</foreign> sur <foreign>kāru-</foreign> plutôt que sur <foreign>parihāra-</foreign>: quelle taxe resterait-il à acquitter à un artisan bénéficiant de « toutes les exemptions »?</note>, et toutes celles des autres qui nous appartiennent - nous en avons fait donation à cet homme, après conversion en <foreign>brahmadeya</foreign>.
+    </p>
+    
+    <p n="21-22">
+        Que les autres villageois du <foreign>vaṭṭa</foreign><note>Probablement une forme prâkrite de <foreign>vaṇṭa-</foreign>, « district » (cf EI XXIV, p. 298, note 6).</note> exécutent cet ordre, respectent et fassent respecter les exemptions.
     </p>
     
     <p n="22">
@@ -230,15 +293,27 @@
     </p>	
     
     <p rend="stanza" n="2">
-        <l>...</l>
+        <l>Car le bien d’un brahmane est un terrible poison</l>
+        <l>- Ce n’est pas le poison qu’on appelle poison :</l>
+        <l>Le poison tue un seul homme</l>
+        <l>- Le bien d’un brahmane tue le fils et le petit-fils.
+</l>
     </p>
         
     <p rend="stanza" n="3">
-        <l>...</l>
+        <l>Donnée par soi ou donnée par autrui,</l>
+        <l>Quiconque s’approprie une terre,</l>
+        <l>Du meurtrier de cent mille vaches</l>
+        <l>Prend sur lui le forfait.
+</l>
     </p>
         
     <p rend="stanza" n="4">
-        <l>...</l>
+        <l>De même que croît ce qu’on a semé</l>
+        <l>Et ce qu’on a répandu sur la surface de la terre,</l>
+        <l>De même s’accroissent les objets du désir</l>
+        <l>Qu’on acquiert par le don de terre.
+</l>
     </p>
     
     <p rend="stanza" n="5">
@@ -249,7 +324,11 @@
     </p>
     
     <p rend="stanza" n="6">
-        <l>...</l>
+        <l>Un nombre incalculable d’années</l>
+        <l>Se réjouissent au paradis ceux qui ont donné une terre ;</l>
+        <l>Celui qui l’enlève à son possesseur et celui qui l’approuve,</l>
+        <l>Pendant toutes ces années demeureront en enfer.
+</l>
     </p>
     
     <p n="30">
@@ -275,13 +354,13 @@
 
             	<bibl n="IP">
             		<ptr target="bib:Mahalingam1988_01"/>
-            		<citedRange unit="page">TBC</citedRange>
+            		<citedRange unit="page">78-81</citedRange>
             		<citedRange unit="item">15</citedRange>
             	</bibl>
 
             	<bibl n="B">
             		<ptr target="bib:Brocquet1997_01"/>
-            		<citedRange unit="page">TBC</citedRange>
+            		<citedRange unit="page">438-447</citedRange>
             		<citedRange unit="item">12</citedRange>
             	</bibl>
 
