@@ -21,7 +21,7 @@
         <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris, CEIAS</pubPlace>
-            <idno type="filename">DHARMA_INSPallava00016</idno>
+            <idno type="filename">DHARMA_INSPallava00015</idno>
             <availability>
                 <licence target="https://creativecommons.org/licenses/by/4.0/">
                     <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -184,62 +184,79 @@
       	
 <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
 
-    <p n="1">Le Bienheureux est vainqueur ! Prospérité !</p>
-    <p n="1">Depuis le camp victorieux de Śrī-Palātkaṭa :</p>
+    <p n="1">Prospérité ! Le Bienheureux est vainqueur ! </p>
+    <p n="1">Au camp victorieux de Śrī-Paddukara :</p>
     
-    <p n="1-18">
+    <p n="1-">
         <list>
             <item>
-                Arrière-petit-fils du Grand Roi Śrī-Kandavarman<note>Vraisemblablement Skandavarman.</note>, très pieux trésor d’austérité qui conquit et affermit son titre royal par la force de son bras, qui assura le respect de toutes les lois conformément aux prescriptions, qui respecta l’Ordre, qui révéla un esprit incomparable, devant la majesté duquel s’inclina le cercle des rois ;
+                Arrière-petit-fils du Grand Roi
             </item>
             <item>
-                petit-fils du Grand Roi Śrī-Viṣṇugopavarman, qui obtint le succès, héros unique sur la surface de la Terre ;
+                petit-fils du Grand Roi 
             </item>
             <item>
-                fils du Grand Roi śrī-Siṃghavarman<note>Siṃhavarman.</note>, qui honora les dieux, les prêtres, les maîtres et les anciens, qui pratiqua la plus sévère discipline, qui, par de multiples dons, notamment de vaches, d’or et de terre, augmenta son capital dharmique, qui se montra habile à protéger ses sujets, qui fut le cinquième des Gardiens du Monde, et qui montra un esprit vrai ;
+                fils du Grand Roi 
             </item>
             <item>
-                Grand Roi des Pallava selon le <foreign>dharma</foreign>, réceptacles de prospérité qui accomplirent plus d’un sacrifice du cheval, le victorieux śrī-Viṣṇugopavarman, dont la réelle dévotion envers le Bienheureux engendre pour tous un bonheur multiple, qui a été consacré pour toujours par un voeu sincère, qu’illustre la gloire d’avoir, dans plus d’un combat, remporté la victoire en écrasant la témérité, qui à chaque instant se tient prêt à soutenir le <foreign>dharma</foreign> que ruinent les péchés de l’âge Kali, qui possède les vertus des ascètes royaux, qui jouit de la faveur des pieds du Bienheureux, qui offre sa dévotion aux pieds de son père, l’illustre Seigneur, qui se révèle un sectateur passionné du Bienheureux, et qui descend de Bharadvāja,
+                Grand Roi des Pallava 
             </item>
         </list>
         
-        adresse aux villageois du village nommé Curā, dans le Karma-rāṣṭra, ainsi qu’à tous les <foreign>naiyāmika</foreign> <note>Comme aux Nos 8 &amp; 10 [B 8 and 10], il est impossible de préciser s’il faut donner au mot <foreign>adhikṛta-</foreign> son sens technique.</note> affectés à cette région, aux <foreign>sañcarantaka</foreign> et aux <foreign>rāja-vallabha</foreign>, l’ordonnance suivante :
     </p>
         
-    <p n="18-28">
-        à l’ouest de ce village se trouve le village nommé Ḻagubaṃṟu; à l’est de celui-ci, l’étang de l’Est<note>Ou : « l’étang de Pūrva ».</note>, qui jouxte la grand-route d’Irāḍi; au Sud, le meḻitāpa du lieu de réunion de trois villages renommés, à la frontière du village de Pāguhūru; à l’ouest, la frontière du village de Nāgoḷāmi; au Nord, l’étang qui se trouve au nord de la frontière septentrionale : le terrain de cent huit nivartana situé dans ce village entre ces quatre limites, auquel s’ajoutent celui qui se trouve au milieu du village, avec un banyan au centre, un terrain au sud destiné à l’habitation, et, au sud de l’étang de Mudiṭi, un terrain d’un nivartana où se dresse un enclos<note>C’est-à-dire un jardin.</note>, a été donné, à l’occasion d’Uttarāyaṇa et après aspersion d’eau<note>Rite accompagnant une donation.</note>, à Cesamiśarman, habitant de Kuṇḍūr, du gotra Kāśyapa, petit-fils de Viṣṇuśarman, fils de Dvedayavṛddhaśarman, et connaisseur des Quatre Veda.
-    </p>
-    <p n="28-29">
-        Il lui en a été fait donation à titre de <foreign>brahmadeya</foreign>, avec toutes les exemptions, pour l’accroissement de la durée de notre vie, celui de notre puissance et de nos victoires.
+    <p n="00">
+        
     </p>
     
-    <p n="29-30">
+    <p n="00">
+        
+    </p>
+    
+    <p n="00">
         Et quiconque transgressera ce commandement qui émane de nous sera un criminel encourant un châtiment corporel.
     </p>
     
-    <p n="30-31">
+    <p n="00">
         Et il y a encore, à ce propos, des stances composées par les sages :
     </p>
     
     <p rend="stanza" n="1">
-        <l>Hormis le don de terre, d’autre don</l>
-        <l>Il n’y eut point et n’y aura point ;</l>
-        <l>Hormis le fait de s’en emparer, de crime</l>
-        <l>Il n’y eut point et n’y aura point.</l>
-    </p>	
-    
-    <p rend="stanza" n="2">
         <l>Hormis le don de terre d’autre don</l>
         <l>En ce monde il n’existe point ;</l>
         <l>Car celui qui offre une terre</l>
         <l>Exauce tous les désirs.</l>
+    </p>	
+    
+    <p rend="stanza" n="2">
+        <l>...</l>
+    </p>
+        
+    <p rend="stanza" n="3">
+        <l>...</l>
+    </p>
+        
+    <p rend="stanza" n="4">
+        <l>...</l>
     </p>
     
-    <p rend="stanza" n="3">
+    <p rend="stanza" n="5">
         <l>Beaucoup ont donné une terre,</l>
         <l>Et beaucoup l’on préservée ;</l>
         <l>A qui va la terre</l>
         <l>Va aussi le fruit.</l>
+    </p>
+    
+    <p rend="stanza" n="6">
+        <l>...</l>
+    </p>
+    
+    <p n="00">
+        Commandement gravé par le <foreign>rahasyādhikṛta</foreign> Acyuta, sur ordre oral du souverain.
+    </p>
+    
+    <p n="00">
+        Prospérité !
     </p>
 
 </div>
@@ -247,25 +264,24 @@
 <div type="commentary"/>
 
 <div type="bibliography">
-    <!--Update from here!-->
-	<p>Edited in <bibl><ptr target="bib:Krishnamacharlu1937-1938_01"/></bibl> (EI 24.18), with visual documentation. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 16). Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 13).</p>
+	<p>Edited in <bibl><ptr target="bib:Krishnamacharlu1937-1938_02"/></bibl> (EI 24.43), with visual documentation. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 15). Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 12).</p>
 	<p>This revised edition by Emmanuel Francis, based on the published visual documentation.</p>
 
             <listBibl type="primary">
 
             	<bibl n="EI">
-            		<ptr target="bib:Krishnamacharlu1937-1938_01"/></bibl>
+            		<ptr target="bib:Krishnamacharlu1937-1938_02"/></bibl>
 
             	<bibl n="IP">
             		<ptr target="bib:Mahalingam1988_01"/>
-            		<citedRange unit="page">82-85</citedRange>
-            		<citedRange unit="item">16</citedRange>
+            		<citedRange unit="page">TBC</citedRange>
+            		<citedRange unit="item">15</citedRange>
             	</bibl>
 
             	<bibl n="B">
             		<ptr target="bib:Brocquet1997_01"/>
             		<citedRange unit="page">TBC</citedRange>
-            		<citedRange unit="item">13</citedRange>
+            		<citedRange unit="item">12</citedRange>
             	</bibl>
 
             </listBibl>
@@ -273,7 +289,7 @@
             <listBibl type="secondary">
             	<bibl>
             		<ptr target="bib:Francis2013_01"/>
-            		<citedRange unit="item">IR 19</citedRange>
+            		<citedRange unit="item">IR 18</citedRange>
             	</bibl>
 
            </listBibl>
