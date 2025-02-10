@@ -96,10 +96,10 @@
 
     <pb n="1r"/>
     
-    <ab>
+    <p>
         <pb n="1v"/>
         <lb n="1v1=1"/>svasti jitaṃ bhagavatā
-    </ab>
+    </p>
     
     <p>
         śrī-vijaya-paddukkarādhiṣṭhāne        
@@ -183,7 +183,7 @@
     
     <lg n="3" met="anuṣṭubh">
         <l n="a">sva-dattāṃ para-dattāṃ vā</l>
-        <l n="b">yo hareta vasundh[ā>a]rāM</l>
+        <l n="b">yo hareta vasundh<choice><sic>ā</sic><corr>a</corr></choice>rāM</l>
         <l n="c">gavāṃ śata<lb n="4v2=26" break="no"/>sahasrasya</l>
         <l n="d">hantuḥ <choice><sic>b</sic><corr>p</corr></choice>ibati kilbiṣaM</l>
     </lg>
@@ -244,7 +244,7 @@
       	
 <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
 
-    <p n="1">Prospérité ! Le Bienheureux est vainqueur ! </p>
+    <p n="1">Prospérité ! Le Bienheureux est vainqueur !</p>
     <p n="1">Au camp victorieux de Śrī-Paddukara :</p>
     
     <p n="1-14">
@@ -296,24 +296,21 @@
         <l>Car le bien d’un brahmane est un terrible poison</l>
         <l>- Ce n’est pas le poison qu’on appelle poison :</l>
         <l>Le poison tue un seul homme</l>
-        <l>- Le bien d’un brahmane tue le fils et le petit-fils.
-</l>
+        <l>- Le bien d’un brahmane tue le fils et le petit-fils.</l>
     </p>
         
     <p rend="stanza" n="3">
         <l>Donnée par soi ou donnée par autrui,</l>
         <l>Quiconque s’approprie une terre,</l>
         <l>Du meurtrier de cent mille vaches</l>
-        <l>Prend sur lui le forfait.
-</l>
+        <l>Prend sur lui le forfait.</l>
     </p>
         
     <p rend="stanza" n="4">
         <l>De même que croît ce qu’on a semé</l>
         <l>Et ce qu’on a répandu sur la surface de la terre,</l>
         <l>De même s’accroissent les objets du désir</l>
-        <l>Qu’on acquiert par le don de terre.
-</l>
+        <l>Qu’on acquiert par le don de terre.</l>
     </p>
     
     <p rend="stanza" n="5">
@@ -327,8 +324,7 @@
         <l>Un nombre incalculable d’années</l>
         <l>Se réjouissent au paradis ceux qui ont donné une terre ;</l>
         <l>Celui qui l’enlève à son possesseur et celui qui l’approuve,</l>
-        <l>Pendant toutes ces années demeureront en enfer.
-</l>
+        <l>Pendant toutes ces années demeureront en enfer.</l>
     </p>
     
     <p n="30">
