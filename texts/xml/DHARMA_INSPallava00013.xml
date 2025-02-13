@@ -45,7 +45,7 @@
                 </msContents>
                 <physDesc>
                     <handDesc>
-                        <p>Two varieties of character <foreign>ta</foreign>: one with loop; the other without loop, almost similar to <foreign>na</foreign>, but slightly larger at the bottom.</p>
+                        <p>Two varieties of character <foreign>ta</foreign>: one with loop, the other without loop, almost similar to <foreign>na</foreign>, but slightly larger at the bottom.</p>
                     </handDesc>
                 </physDesc>
             </msDesc>
@@ -108,51 +108,93 @@
         <list>
             
             <item>
-               
+                parama-brahmaṇya
+                <lb n="1v2=2" break="no"/>sya sva-bāhu-balārjjitorjita-kṣātra-tapo-nidh<choice><sic>a</sic><corr>e</corr></choice>r vvidhi-vihita-sarvva-maryyādasya 
+                <lb n="1v3=3"/>sthiti-sthitasyāmitātmano mahārājasya pṛ<choice><sic>dh</sic><corr>th</corr></choice>ivī-talaika-vīrasya śrī-vīravarmmaṇaḥ prapautro
+            </item>
+            
+            <item>
                 <pb n="2r"/>
+                <lb n="2r1=4"/>’bhyuccita-śakti-siddhi-sampannasya pratāpopanata-rāja-maṇḍalasya bhagavad-bhakti-sad-bhā
+                <lb n="2r2=5" break="no"/>va-sambhāvita-sarvva-kalyāṇasyāneka-go-hiraṇya-bhūmy-ādi-pradānaiḥ pravṛ
+                <lb n="2r3=6" break="no"/>ddha-dharmma-sañcayasya prajā-pālana-dakṣasya lokapālānāṃ pañcamasya 
                 
-            </item>
-            
-            <item>
-                
-                <pb n="2v" break="no"/>
+                <pb n="2v"/>
                 <fw place="left" n="2v">2</fw>
+                <lb n="2v1=7"/>lokapālasya mahātmano mahārāja-śrī-skan<unclear reason="eccentric_ductus">d</unclear>avarmmaṇaḥ pautro 
             </item>
             
             <item>
-                
-            </item>
-            
-            <item>
+                deva-dvija 
+                <lb n="2v2=8" break="no"/>-guru-vṛddh<choice><sic>ā</sic><corr>o</corr></choice>pacāyino vivṛddha-vinayasyāneka-saṃgrāma-sāhasāva
+                <lb n="2v3=9" break="no"/>mard<unclear reason="eccentric_ductus">d</unclear>opalabdha<space/>-vijaya-yaśaḥ-prakāśasya satyātmano yuva-mahārāja
                 
                 <pb n="3r" break="no"/>
-                          
-                <pb n="3v" break="no"/>
-                <fw place="left" n="3v">3</fw>
+                <lb n="3r1=10" break="no"/>-śr<unclear>ī</unclear>-v<unclear>i</unclear>ṣṇugopasya putraḥ                
+            </item>
+            
+            <item>
+                kali-yuga-doṣāvasanna-dharmmoddharaṇa-nitya-sannaddhasya
+                <lb n="3r2=11"/>spṛhaṇīya-parākramo rāja-rṣi-guṇa-sarvva-san<unclear reason="eccentric_ductus">d</unclear>oha-vijigīṣur ddharmma-vijigīṣuḥ 
+                <lb n="3r3=12"/>bhagavat-pādānuddhyāto bappa-bh<choice><sic>ā</sic><corr>a</corr></choice>ṭṭāraka-pāda-bhaktaḥ parama-bhāgavato bhāradvājaḥ
                 
-                <pb n="4r" break="no"/>
+                <pb n="3v"/>
+                <fw place="left" n="3v"><supplied reason="omitted">3</supplied></fw>
                 
+                <lb n="3v1=13"/>sva-vikramākrāntānya-nṛpa-śrī-nilayānāṃ yathāvad-āhṛtānekāśvamedhānāM 
+                <lb n="3v2=14"/>pallavānān dharmma-mahārāja-śrī-siṃhavarmmā 
             </item>
         </list>       
         
+        muṇḍarāṣṭre pīkire grāme grā
+        <lb n="3v3=15" break="no"/>meyakān atrādhikṛtān sarvvādhyakṣa-valla<choice><sic>v</sic><corr>bh</corr></choice>a-śāsana-sañcāriṇaś cājñāpayaty 
     </p>
     
     <p>        
-                
-        <pb n="4v" break="no"/>
+        ayaṃ grāmaḥ 
+        <pb n="4r"/>
+        <lb n="4r1=16"/>kāśyapāya taittirīyāya vilāsaśarmmaṇe sarvva-parihāropeto deva 
+        <lb n="4r2=17" break="no"/>-bhoga-hala-varjjam asmad-āyur-bala-vijayābhivṛddhaye samedhamāna
+        <lb n="4r3=18" break="no"/>-vijaya-r<choice><sic>a</sic><corr>ā</corr></choice>jya-pañcama-sa<supplied reason="omitted">ṃ</supplied>vatsarāśvayuja-śukla-pakṣa-tṛtīyāyāM <gap reason="ellipsis" quantity="1" unit="character"/>
+        
+        <pb n="4v"/>
         <fw place="left" n="4v">4</fw>
+        <lb n="4v1=19"/>brahmadeyī-kṛty<unclear>ā</unclear>smābhis samprattas 
         
     </p>    
     
+    <p>
+        tatas sarvva-parihārai<unclear reason="eccentric_ductus">r</unclear> a<unclear reason="eccentric_ductus">ya</unclear>ṃ grāmaḥ parihartta
+        <lb n="4v2=20" break="no"/>vya<supplied reason="omitted">ḥ</supplied> parihāray<choice><orig><unclear>ī</unclear></orig><reg>i</reg></choice>tavyaś ca 
+    </p>
+    
+    <p>
+        yaś c<choice><sic>o</sic><corr>e</corr></choice>dam asmac-chāsanam atikrāmet sa pāpaś śā
+        <lb n="4v3=21" break="no"/>rīran daṇḍam arhaty
+    </p>
     <p>               
         <choice><sic>i</sic><corr>a</corr></choice>pi c<unclear>ā</unclear>trārṣāḥ ślokāḥ <g type="ddanda">.</g>
     </p>
     
     <lg n="1" met="anuṣṭubh">
-        <l n="a"></l>
-        <l n="b"></l>
-        <l n="c"></l>
-        <l n="d"></l>
+        <l n="a">bhūmi-dāna-saman dānam</l>
+        <l n="b">iha loke na <pb n="5r"/><lb n="5r1=22"/>vidyate</l>
+        <l n="c">yaḥ prayacchati bhūmiṃ hi</l>
+        <l n="d">sarvva-kāmān dadāti saḥ</l>
+    </lg>    
+    
+    <lg n="2" met="anuṣṭubh">
+        <l n="a">bahubhir <unclear reason="eccentric_ductus">v</unclear>vasudhā dattā</l>
+        <l n="b"><lb n="5r2=23"/>bahubhiś c<unclear>ā</unclear>nupālitā</l>
+        <l n="c">yasya yasya yadā bhūmis</l>
+        <l n="d">tasya tasya <unclear reason="eccentric_ductus">tadā</unclear> phalaM</l>
+    </lg>    
+    
+    <lg n="3" met="anuṣṭubh">
+        <l n="a"><lb n="5r3=24"/>sva-dattāṃ para-dattā<supplied reason="omitted">ṃ</supplied> vā</l>
+        <l n="b">yo hare<unclear>ta</unclear> vasundharāM</l>
+        <l n="c">gav<unclear>ā</unclear><supplied reason="omitted">ṃ</supplied> <unclear>śata</unclear>-sahasrasya</l>
+        <l n="d">haṃtuḥ pibati kilbiṣaM </l>
     </lg>
     
     
@@ -160,24 +202,36 @@
 </div>
 </div>
 
-<!--<div type="apparatus">
+<div type="apparatus">
 
-	<div type="textpart" xml:lang="san-Latn" n="B">
-	<head xml:lang="eng">Plates</head>
-		
-	<listApp>
-	    
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Hultzsch1905-1906_05">...</rdg>			
-		</app>
-	    
-	    
-	</listApp>
-	    
-	</div>
+    <div type="textpart" xml:lang="san-Latn" n="B">
+        <head xml:lang="eng">Plates</head>
+        
+        <listApp>
+            
+            <!--<app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:Hultzsch1905-1906_05">...</rdg>
+                <note>...</note>
+            </app>-->
+            
+            <app loc="1v, top left margin">
+                <lem>@</lem>
+                <rdg source="bib:Hultzsch1905-1906_05">Oṃ</rdg>
+                <note><ptr target="bib:Hultzsch1905-1906_05"/>: <quote>Expressed by the same symbol as in the Māṅgaḷūr grant [IP 14].</quote></note>
+            </app>
+            
+            <app loc="18">
+                <lem><gap reason="ellipsis" quantity="1" unit="character"/></lem>
+                <note><ptr target="bib:Hultzsch1905-1906_05"/>: <quote>Here follows a symbol which I cannot make out. Perhaps it is a flourish which serves to fill up the vacant space at the end of the line.</quote></note>
+            </app>
+            
+            
+        </listApp>
+        
+    </div>
 	
-</div>-->
+</div>
 
 <!--<div type="translation" resp="part:emfr">
 	
@@ -188,7 +242,7 @@
     <p n="1">Oṃ ! Le Bienheureux est vainqueur ! Prospérité !</p>
     <p n="1">Depuis le quartier général de la victoire, depuis le séjour de Menmāturā :</p>
     
-    <p n="1-">
+    <p n="1-15">
         <list>
             <item>
                 arrière-petit-fils du Grand Roi Śrī-Vīravarman, ...
@@ -206,15 +260,19 @@
         adresse aux villageois du village de Pīkira, dans le Muṇḍa-rāṣṭra, ...
     </p>
         
-    <p>
+    <p n="15-19">
+        ...
+    </p>
+          
+    <p n="19-20">
         ...
     </p>
     
-    <p>
+    <p n="20-21">
         Et quiconque transgressera ce commandement qui émane de nous sera un criminel encourant un châtiment corporel.
     </p>
     
-    <p>
+    <p n="21">
         Et il y a encore, à ce sujet, des stances composées par les sages :
     </p>
     
@@ -239,14 +297,6 @@
         <l>Prend sur lui le forfait.</l>
     </p>
     
-    <p n="37">
-        Thus <supplied reason="subaudible">it is said</supplied>.
-    </p>
-    
-    <p n="36">
-        Gravé par Payanemin, sur ordre oral du souverain.
-    </p>
-
 </div>
 	
 <div type="commentary"/>
