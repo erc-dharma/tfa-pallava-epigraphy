@@ -45,7 +45,7 @@
                 </msContents>
                 <physDesc>
                     <handDesc>
-                        <p>Two varieties of character <foreign>ta</foreign>: one with loop; the other without loop, almost similar to <foreign>na</foreign>, but slightly larger at the bottom.</p>
+                        <p>Two varieties of character <foreign>ta</foreign>: one with loop, the other without loop, almost similar to <foreign>na</foreign>, but slightly larger at the bottom.</p>
                     </handDesc>
                 </physDesc>
             </msDesc>
@@ -312,11 +312,11 @@
     </p>
     
     <p n="37">
-        Thus <supplied reason="subaudible">it is said</supplied>.
+        Ainsi <supplied reason="subaudible">est-il dit</supplied>.
     </p>
     
     <p n="36">
-        Gravé par Payanemin, sur ordre oral du souverain.
+        Gravé par Payanemin<note resp="part:emfr">The original is <foreign>neminā</foreign>, not <foreign>payaneminā</foreign>.</note>, sur ordre oral du souverain.
     </p>
 
 </div>
