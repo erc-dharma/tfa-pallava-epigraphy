@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Pāndūra grant, time of Siṁhavarman, year 1</title>
+				<title>Pāṇḍūra grant, time of Siṁhavarman, year 1</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Donation (<foreign>brahmadeya</foreign>) of the village of Pāndūra (modern Pātūru).</summary>
+						<summary>Donation (<foreign>brahmadeya</foreign>) of the village of Pāṇḍūra (modern Pātūru).</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -123,7 +123,7 @@
 		
 		<pb n="3r"/>
 		<lb n="3r1=16"/>śrī-vallabhānām pallavānān dha<unclear>rm</unclear>ma-mahārāja-śrī-si<unclear>ṃha-va</unclear>rmmā muṇḍa
-		<lb n="3r2=17" break="no"/>rāṣṭre pā<unclear>ndūra</unclear>-grāme <unclear>grāme</unclear>yakā<unclear>n</unclear> ...
+		<lb n="3r2=17" break="no"/>rāṣṭre pā<unclear>ṇḍūra</unclear>-grāme <unclear>grāme</unclear>yakā<unclear>n</unclear> ...
 		<lb n="3r3=18" break="no"/>... cājñāpayati
 	</p>
 	<p>
@@ -158,7 +158,7 @@
 		<lb n="7r2=58"/>
 	</p>
     <p>
-        <lb n="7r4=59"/>Imam <unclear>p</unclear>āndūra-grāma<unclear>ṃ</unclear> sarvva-parih<unclear>āro</unclear>peta<unclear>n deva</unclear>-bhoga-hala-varjjyam asma
+        <lb n="7r4=59"/>Imam <unclear>p</unclear>āṇḍūra-grāma<unclear>ṃ</unclear> sarvva-parih<unclear>āro</unclear>peta<unclear>n deva</unclear>-bhoga-hala-varjjyam asma
         <lb n="7r5=60" break="no"/>d-āyur-bala-vijayābhivṛddhaye samedha<unclear>māna</unclear>-vijaya-rājya-prathama
         
         <pb n="7v" break="no"/>
@@ -246,13 +246,13 @@
 
 <div type="bibliography">
 	
-	<p>Edited in <ptr target="bib:Gopalareddi1982_01"/>, with visual documentation.</p>
-	<p>This edition Emmanuel Francis, based on the visual documentation in <ptr target="bib:Gopalareddi1982_01"/>.</p>
+	<p>Edited in <ptr target="bib:RamachandraMurthy+Gopalareddi1982_01"/>, with visual documentation.</p>
+	<p>This edition Emmanuel Francis, based on the visual documentation in <ptr target="bib:RamachandraMurthy+Gopalareddi1982_01"/>.</p>
 	
 	<listBibl type="primary">
 		
 		<bibl>
-			<ptr target="bib:Gopalareddi1982_01"/>			
+			<ptr target="bib:RamachandraMurthy+Gopalareddi1982_01"/>			
 		</bibl>	
 		
 	</listBibl>
