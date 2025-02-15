@@ -174,7 +174,7 @@
                 <lb n="5v1=25"/>gautamāya hairaṇyakeśāya ṣaṣṭhīkumārāya ca</item>
         </list> sarvva 
        <lb n="5v2=26" break="no"/>-parihāropetan deva-bhoga-hala-varjja<unclear reason="eccentric_ductus">M</unclear> samedha
-        <lb n="5v3=27"/>māna-vijaya-rājyāṣṭama-saṃvatsara-caitra-māsa-śukla 
+        <lb n="5v3=27" break="no"/>māna-vijaya-rājyāṣṭama-saṃvatsara-caitra-māsa-śukla 
         <pb n="6r" break="no"/>
         <lb n="6r1=28" break="no"/>-pakṣa-pañcamyām āyur-bala-vijayābhivṛddhaye brahmadeyī-kṛtya 
         <lb n="6r2=29"/>vasad-bhogya-maryyādayā samprādāma
@@ -184,7 +184,7 @@
         <lb n="6r3=30"/>sarvva-pariharaiḥ parihara<choice><sic>ta</sic><corr>ntu</corr></choice> parihāraya<choice><sic>ta</sic><corr>ntu</corr></choice> ca
     </p>
     <p>
-        ya<choice><sic><unclear>c</unclear> ch</sic><corr>ś c</corr></choice>edam asmac-ch<choice><sic>a</sic><corr>ā</corr></choice>sanam ati-
+        ya<choice><sic><unclear>c</unclear> ch</sic><corr>ś c</corr></choice>edam asmac-ch<choice><sic>a</sic><corr>ā</corr></choice>sanam ati
         <pb n="6v" break="no"/>
         <fw place="left" n="5v">6</fw>
         <lb n="6v1=31" break="no"/>krāmet sa pāpas sārīrat daṇḍam arhaty
@@ -259,23 +259,38 @@
     <p n="1-19">
         <list>
             <item>
-                arrière-petit-fils du Grand Roi Śrī-Vīravarman, ...
+                arrière-petit-fils du Grand Roi Śrī-Vīravarman, qui honora comme il convient les divinités, les brahmanes, les maîtres et les anciens, dont les Trois Pouvoirs<note>Il s’agit des trois śakti de l’AŚ : <foreign>prabhu-śakti</foreign>, <foreign>mantra-śakti</foreign> et <foreign>utsāha-śakti</foreign>; cf. inscr. N° 2 [B 2].</note> renforcèrent la puissance, qui se montra magnanime, qui jouit d’abondantes richesses conquises par la puissance de son bras, héros unique à la surface de la Terre ;
             </item>
             <item>
-                petit-fils du Grand Roi Śrī-Skandavarman qui, ...
+                petit-fils du Grand Roi Śrī-Skandavarman qui, dans les combats, se tailla par cent exploits une gloire prodigieuse, dont la science renforça la puissance, qui montra une infinie générosité, qui fut l’égal d’Ananta, et dont les vertus firent la grandeur ;
             </item>
             <item>
-                fils du Prince Héritier Śrī-Viṣṇugopa, ...
+                fils du Prince Héritier Śrī-Viṣṇugopa, dont la gloire, que n’entrava point la gloire des autres et qui égala la blancheur des rayons innombrables de la lune, se répandit dans l’Univers, dont une science experte emplit l’esprit, et qui posséda une grande dignité ;
             </item>
             <item>
-                Grand Roi des Pallava ...
+                Grand Roi des Pallava selon le dharma, qui eurent une descendance de la plus haute noblesse, qui, par la puissance de leur bras, conquirent, étendirent et affermirent une gloire prodigieuse, qui accomplirent selon les rites plus d’un sacrifice, qui furent les égaux de Śatakratu et les favoris de la Fortune - Śrī-Siṃhavarman, dont la puissance immense, détruisant le cercle des voisins et recevant chaque jour le renfort des voeux incomparablement ardents des hommes de bien, a conquis l’Univers, qui consacre tous ses efforts à assurer la prospérité de l’Univers, qui souhaite conquérir, à lui seul, la surface de la Terre jusqu’aux confins, qui jouit de la faveur des pieds du Bienheureux, qui offre sa dévotion aux pieds de son père, l’illustre Seigneur, qui se montre un sectateur passionné du Bienheureux, et qui descend de Bharadvāja - 
             </item>
         </list>
-        adresse l’ordonnance suivante aux villageois ...
+        du village de Māṅgaḍūr, dans le Veṅgo-rāṣṭra, ainsi qu’à tous les <foreign>adhyakṣa</foreign>, <foreign>vallabha</foreign> et <foreign>śāsana-sañcārin</foreign> :
     </p>
         
-    <p n="19-29">
-        ...
+    <p n="19-27">
+        ce village, nous en avons fait donation, avec toutes les exemptions, à l’exception des terrains cultivés dont le dieu a la jouissance, après conversion en brahmadeya et sous la condition que ses occupants en exercent la jouissance, à :
+
+        <list>
+            <item>Rudraśarman, du <foreign>gotra</foreign> Ātreya et du <foreign>sūtra</foreign> Āpastambha ;</item>
+            <item>Tūrkaśarman du <foreign>gotra</foreign> Vātsya et du <foreign>sūtra</foreign> Āpastambha ;</item>
+            <item>Dāmaśarman, du <foreign>gotra</foreign> Kauśika et du <foreign>sūtra</foreign> Āpastambha ;</item>
+            <item>Yajñaśarman, du <foreign>gotra</foreign> Bhāradvāja et du <foreign>sūtra</foreign> Āpastambha ;</item>
+            <item>Bhavakoṭigopa, du <foreign>gotra</foreign> Pārāśarya et du <foreign>sūtra</foreign> Āpastambha ;</item>
+            <item>Bhartṛśarman, du <foreign>gotra</foreign> Kāśyapa et du <foreign>sūtra</foreign> Vājasaneyin ;</item>
+            <item>Śivadatta, du <foreign>gotra</foreign> Audameghi et du <foreign>sūtra</foreign> Chandoga ;</item>
+            <item>et Ṣaṣṭhikumāra, du <foreign>gotra</foreign> Gautama et du <foreign>sūtra</foreign> Hairaṇyakeśa.</item>
+        </list>
+    </p>
+    
+    <p n="28-29">
+        Ceci, le cinquième jour de la quinzaine claire du mois de Caitra, en la huitième année de notre règne prospère et victorieux, pour l’accroissement de la durée de notre règne, celui de notre puissance et de nos victoires !
     </p>
     
     <p n="29-30">
@@ -311,12 +326,8 @@
         <l>Prend sur lui le forfait.</l>
     </p>
     
-    <p n="37">
-        Ainsi <supplied reason="subaudible">est-il dit</supplied>.
-    </p>
-    
     <p n="36">
-        Gravé par Payanemin<note resp="part:emfr">The original is <foreign>neminā</foreign>, not <foreign>payaneminā</foreign>.</note>, sur ordre oral du souverain.
+        Gravé par Payanemin<note resp="part:emfr">Traduction de <foreign>payaneminā</foreign> alors que le texte original est <foreign>neminā</foreign>.</note>, sur ordre oral du souverain.
     </p>
 
 </div>
@@ -334,13 +345,13 @@
 
             	<bibl n="IP">
             		<ptr target="bib:Mahalingam1988_01"/>
-            		<citedRange unit="page">TBC</citedRange>
+            		<citedRange unit="page">74-77</citedRange>
             		<citedRange unit="item">14</citedRange>
             	</bibl>
 
             	<bibl n="B">
             		<ptr target="bib:Brocquet1997_01"/>
-            		<citedRange unit="page">TBC</citedRange>
+            		<citedRange unit="page">431-437</citedRange>
             		<citedRange unit="item">11</citedRange>
             	</bibl>
 
