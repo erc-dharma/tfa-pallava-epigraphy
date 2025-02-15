@@ -179,7 +179,7 @@
 
         <pb n="5v" break="no"/>
         
-        <lb n="5v1=33" break="no"/>c-chāsanam ati<choice><orig>kk</orig><reg>k</reg></choice>r<choice><sic><unclear>ā</unclear></sic><corr>a</corr></choice>met sa pāpaś <unclear reason="eccentric_ductus">ś</unclear>ārīraṃ daṇḍam arhati
+        <lb n="5v1=33" break="no"/>c-chāsanam ati<choice><orig>kk</orig><reg>k</reg></choice>r<unclear>ā</unclear>met sa pāpaś <unclear reason="eccentric_ductus">ś</unclear>ārīraṃ daṇḍam arhati
     </p>
     <p>
         <lb n="5v2=34"/>śrī-siṃhavarmma-mahārājasya vijaya-saṃvatsare 
@@ -227,7 +227,7 @@
         </app>
         
         <app loc="33">
-            <lem>ati<choice><sic>kk</sic><corr>k</corr></choice>r<choice><sic><unclear>ā</unclear></sic><corr>a</corr></choice>met</lem>
+            <lem>ati<choice><sic>kk</sic><corr>k</corr></choice>rāmet</lem>
             <rdg source="bib:Venkataramanayya1969_03">atikkrāmet</rdg>
             <note>The longer horizontal stroke on top right of the letter might be a medial <foreign>ā</foreign>.</note>
         </app>
@@ -252,7 +252,7 @@
                 l’arrière-petit-fils du Grand Roi Śrī-Skandavarman, très pieux trésor d’austérité, qui conquit et affermit son titre royal par la force de son bras, qui assura le respect de toutes les lois, qui respecta l’Ordre, et qui se montra infiniment magnanime ;
             </item>
             <item>                
-le petit-fils du Grand Roi Śrī-Vīravarman, dont on respecta la puissance et le succès, dont la majesté fit plier le cercle des rois, héros unique sur la surface de la terre ;
+                le petit-fils du Grand Roi Śrī-Vīravarman, dont on respecta la puissance et le succès, dont la majesté fit plier le cercle des rois, héros unique sur la surface de la terre ;
             </item>
             <item>
                 le fils du Grand Roi Śrī-Skandavarman, qui honora les dieux, les prêtres, les maîtres et les anciens, qui pratiqua la plus sévère discipline, qui, par de multiples dons, notamment de vaches, d’or et de terres, pratiqua la plus sévère discipline, qui, par de multiples dons, notamment de vaches, d’or et de terres, augmenta son capital dharmique, qui se montra habile à protéger ses sujets, qui fut, parmi les Gardiens du monde, le cinquième Gardien du Monde, qui se montra vrai et magnanime ;
@@ -266,7 +266,7 @@ le petit-fils du Grand Roi Śrī-Vīravarman, dont on respecta la puissance et l
     </p>
     
     <p n="23-29">
-        Ce village, nous en faisons donation - pour l’accroissement de la durée de notre vie et celui de notre puissance -, à titre de village <foreign>śāraṇika</foreign>, avec les dix-huit types d’exemption, et à l’exception des terres cultivées dont le dieu a la jouissance<supplied reason="explanation"><foreign>devabhoga</foreign></supplied>, au <foreign>śāraṇika-nadippi-bhoja</foreign><note>Les <foreign>bhoja</foreign> ou <foreign>bhojaka</foreign> sont des des « vassaux » : cf. D.C. Sircar (<hi rend="italic">Glossary</hi>).</note> Doddisvāmin, à Kaṇṇasvāmin et à Nandisvāmin, après l’avoir ainsi partagé : trois parts en seront faites, parmi lesquelles deux iront au nadippi-bhojaka, et une à Kaṇṇasvāmin et Nandisvāmin; les deux tiers de cette part iront à Kaṇṇasvāmin, et un tiers à Nandisvāmin.
+        Ce village, nous en faisons donation - pour l’accroissement de la durée de notre vie et celui de notre puissance -, à titre de village <foreign>śāraṇika</foreign>, avec les dix-huit types d’exemption, et à l’exception des terres cultivées dont le dieu a la jouissance<supplied reason="explanation"><foreign>devabhoga</foreign></supplied>, au <foreign>śāraṇika-nadippi-bhoja</foreign><note>Les <foreign>bhoja</foreign> ou <foreign>bhojaka</foreign> sont des des « vassaux » : cf. D.C. Sircar (<hi rend="italic">Glossary</hi>).</note> Doddisvāmin, à Kaṇṇasvāmin et à Nandisvāmin, après l’avoir ainsi partagé : trois parts en seront faites, parmi lesquelles deux iront au <foreign>nadippi-bhojaka</foreign>, et une à Kaṇṇasvāmin et Nandisvāmin; les deux tiers de cette part iront à Kaṇṇasvāmin, et un tiers à Nandisvāmin.
     </p>
     <p n="30-32">
         Que par conséquent tous les <foreign>āyuktaka</foreign>, tous les <foreign>naiyogika</foreign>, les <foreign>rāja-vallabha</foreign> et les <foreign>sañcarantaka</foreign> se rendent dans cette province <supplied reason="explanation"><foreign>viṣaya</foreign><note>On peut aussi comprendre: Aussi, que tous les ... se rendent dans cette province, et ...</note></supplied>, et qu’ils respectent et fassent respecter ce village, avec ses exemptions.
