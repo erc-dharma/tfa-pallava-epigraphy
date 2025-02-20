@@ -322,13 +322,13 @@
 
             	<bibl n="IP">
             		<ptr target="bib:Mahalingam1988_01"/>
-            		<citedRange unit="page">TBC</citedRange>
+            		<citedRange unit="page">62-64</citedRange>
             		<citedRange unit="item">11</citedRange>
             	</bibl>
 
             	<bibl n="B">
             		<ptr target="bib:Brocquet1997_01"/>
-            		<citedRange unit="page">TBC</citedRange>
+            		<citedRange unit="page">411-417</citedRange>
             		<citedRange unit="item">8</citedRange>
             	</bibl>
 
