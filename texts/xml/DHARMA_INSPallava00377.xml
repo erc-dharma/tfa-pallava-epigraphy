@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Babbēpalli plates, time of Kumāraviṣṇuvarman, year 13</title>
+            <respStmt>
+                <resp>author of digital edition</resp>
+                <persName ref="part:emfr">
+                    <forename>Emmanuel</forename>
+                    <surname>Francis</surname>
+                </persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris, CEIAS</pubPlace>
+            <idno type="filename">DHARMA_INSPallava00377</idno>
+            <availability>
+                <licence target="https://creativecommons.org/licenses/by/4.0/">
+                    <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                        Licence. To view a copy of the licence, visit
+                        https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                        Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                        California, 94041, USA.</p>
+                    <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>DHARMAbase</repository>
+                    <idno/>
+                </msIdentifier>
+                <msContents>
+                    <summary>...</summary>
+                </msContents>
+                <physDesc>
+                    <handDesc>
+                        <p>...</p>
+                    </handDesc>
+                </physDesc>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+        <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC)
+                under the European Union's Horizon 2020 research and innovation programme (grant
+                agreement no 809994).</p>
+        </projectDesc>
+        <schemaRef type="guide" key="EGDv01"
+            url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+        <listPrefixDef>
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                    ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part" matchPattern="([a-z]+)"
+                replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <p>Internal URIs using the part prefix to point to person elements in the
+                    <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+        </listPrefixDef>
+    </encodingDesc>
+    <revisionDesc>
+        <change who="part:emfr" when="2025-02-24" status="draft">Creation of the file</change>
+    </revisionDesc>
+</teiHeader>
+	
+<text xml:space="preserve">
+<body>
+
+<div type="edition" xml:lang="san-Latn" rendition="class:brāhmī_southern maturity:regional">
+
+    <div type="textpart" n="A">
+        <head xml:lang="eng">Seal</head> 
+    </div>
+
+<div type="textpart" n="B">
+<head xml:lang="eng">Plates</head>
+    
+    <pb n="1r"/>
+    
+    <p>
+        <pb n="1v"/>
+        <lb n="1v1=1"/>svasti jita<unclear>ṃ</unclear> bhagavatā<surplus>t</surplus>
+    </p>
+    
+    <p>
+        kāñc<choice><orig>i</orig><reg>ī</reg></choice>purādhiṣṭh<unclear>ānāt</unclear>     
+        <list>
+            
+            <item>
+                para(ma-brahmaṇyasya) sva-bāhu-[balā]-
+                (1v2=2) (rjji)torjji[ta]-(kṣā)tra-taponidher vvidhi-vihita-sarvva-ma(r)yyādasya mahā(rājas)ya
+                (1v3=3) śrī-vī[ra]korccavarmmaṇaḥ prapautro
+            </item>
+            
+            <item>
+                ’bhyutthita-śakti-siddhi-saṃpan[n*]asya prat(ā)[t>p]o-
+                (1v4=4) panata-rājamaṇḍalasya vasudhā-talaika-vīrasya ma(hā)rājasya śrī-karā-
+                
+                
+                <pb n="2r"/>
+                (2r1=5) ḷavarmmaṇaḥ pautro
+            </item>
+            
+            <item>
+                deva-dvija-guru-vṛ[d*]dh[ā>o]pacāyina[ḥ*] pravṛ[d*]dha- [dha*]rmma-sañcaya-
+                (2r2=6) s(ya prajā-pāla[na*]-dakṣasya lokapāl[ā*]nāṃ pañcamasya lokapāla[nāṃ>sya] satyā-
+                (2r3=7) (tma)n[o] mahārājasya śrī-skanda-mūlavarmmaṇaḥ putro
+                
+            </item>
+            
+            <item>
+                bhagavat-pādānu-
+                (2r4=8) ddhyato bappa-bhaṭṭhāraka-pāda-bhakta[ḥ*] parama-bhāgavato bhāradvāja-[sa]go-
+                
+                <pb n="2v" break="no"/>
+                (2v1=9) tra[a>o] yathāvad-āhṛ[(d)>t]āne[kā*]śvamedhānāṃ pallav[ā*]n[ā*][m>ṃ] pallava-śrī-mahārāja[sya>ḥ]
+                (2v2=10) śrīmān kum[ā*]ra-vi(ṣṇ)u-[var]mmā
+            </item>
+            
+        </list>
+        
+        Imam arttham [ā*]jñāpayati
+    </p>
+    
+    <p>
+        
+        tad yathā karmmarāṣṭre ka-
+        (2v3=11) ligoṇḍa-nāmagrāma-vīrigrāma-pa[te>haḥ] pūrvvataḥ cuṇoprāḷu-grāma-sī[nm>mn]a
+        (2v4=12) [pu>U]uttarataḥ koṇḍamujunūru-grāma-pa[te>haḥ] paścimataḥ sarppāḷa(ya)-dakṣiṇata
+        
+        
+        <pb n="3r"/>
+        (3r1=13) Eta[c*] catur-avadhi-dakṣiṇa-sukṣetre doṇāvadi-grāma-sī[nm>mn]aḥ paścimataḥ cuṇoḷū-
+        (3r2=14) prāḷu-grāma-s[i>ī][nm>mn]aḥ Uttara[taḥ] sarppagṛh[e>a]-pūrvvataḥ vṛ[d*]dha-taṭāka-dakṣiṇata Eta-
+        (3r3=15) c [c*]atur-avadh[ī>i]-dakṣiṇa-pūrvve sukṣetre sarppagṛh[e>a]-pūrvvataḥ mahiṣaśira-grām[e>a]-
+        (3r4=16) s[i>ī][nm>mn]aḥ dakṣiṇata[ḥ*] pullaḷūru-grām[e>a]-s[i>ī][nm>mn]aḥ paścimata[*ḥ] kaṃsāri-taṭāka[sya*] Uttararataḥ
+        
+        <pb n="3v"/>
+        (3v1=17) Etac [c*]atur-avadhi-pūrv[v*]ottare sukṣetre trai-bhūmyā(ṃ) cauṣaṣṭi nivarttanāni kāśy[ā>a]-
+        (3v2=18) pa-gotrāya Isara-sarmmaṇ(e) dattavāN
+        
+    </p>
+    
+    <p>        
+        Āyur-bala-puṇyārogya-nimit[t*]a(ṃ/M) saṃ
+        (3v3=19) pra[tta*]s
+    </p>
+    
+    <p>
+        tad avagamya rā(java)lla[v>bh]a-naiyogika-gopāla-vatsapāla-sañcara-
+        (3v4=20) ntakā[ḥ*] parih[ā*]rai[ḥ*] pa[ri*]ha[ra*]ntu parihārayantu ca
+    </p>
+    
+    <p>
+        yo ['*]smac chā[ś>s]anam atikra-
+        <pb n="4r"/>
+        (4r1=21) me[t*] saḥ pāpaḥ śāriraṃ daṇḍam arhati
+    </p>
+    
+    <p>
+        Api cātrā(r)ṣā[ḥ*] [śu>ślo]kāḥ 
+    </p>    
+    
+    <lg n="1" met="anuṣṭubh">
+        <l n="a">bhūmi-dānā(4r2=22)t paraṃ dānaṃ</l>
+        <l n="b">na bhūtaṃ na bhaviṣyati</l>
+        <l n="c">tasyaiva haraṇ[ā*]t pāpaṃ</l>
+        <l n="d">na bhūtaṃ na bhaviṣya(4r3=23)ti <g type="ddanda">.</g></l>
+    </lg>    
+    
+    
+    <lg n="2" met="anuṣṭubh">
+        <l n="a">bahu((r))bhi[r v*]vasudhā datt[ā*]</l>
+        <l n="b">bahubhiś cānupālitā</l>
+        <l n="c">yasya yasya ya(4r4=24)dā bhūmi[s*]</l>
+        <l n="d">tasya tasya tadā p[h*]ala(ṃ) <g type="ddanda">.</g></l>
+    </lg> 
+    
+    
+    <lg n="3" met="anuṣṭubh">
+        <l n="a">svadatt[ā*][ṃ*] paradatt[ā*][ṅ>ṃ] v[ā*]</l>
+        <l n="b">yo hareta <pb n="4v"/>(4v1=25) vasundharā[ṃ*]</l>
+        <l n="c">g[ā>a]vāṃ śata-sahasrasya</l>
+        <l n="d">hantuḫ pibati kilbiṣa(M)</l>
+    </lg>    
+    
+    
+    <lg n="4" met="anuṣṭubh">
+        <l n="a">brahma(4v2=26)-svan tu viṣa[ṃ*] ghoraṃ</l>
+        <l n="b">na viṣaṃ viṣam ucyate</l>
+        <l n="c">viṣam ekākina[ṃ*] hant[u>i]</l>
+        <l n="d">(4v3=27) brahmasva[ṃ*] putra-pautrika[ṃ>m]</l>
+    </lg>    
+    
+    
+    <lg n="5" met="anuṣṭubh">
+        <l n="a">kāñcīpurādhip[o>ena] dattaṃ</l>
+        <l n="b">bhaktena brāhma-(4v4=28) ṇāya ca</l>
+        <l n="c">rakṣaṇārtthaṃ y[ā>a]dā bhūmi-</l>
+        <l n="d">vallabha-pallava sadā <unclear><g type="ddanda">.</g></unclear></l>
+    </lg>    
+    
+    <p>
+        <pb n="5r"/>
+        (5r1=29) pravarddhamāna-vijaya-rājya-saṃvatsare trayodaśe mahākā-
+        (5r2=30) rttik[ā>a]-māse śukla-pakṣa-pañcamy[ā*][ṃ*] viśāk[h*][ā*]-nakṣatre guruv[ā*]re
+        (5r3=31) lāḍarāj[ā*]jñ[ā>ā]ptyā rudraśarmm[ā>a]ṇ[ā*] (l)i(kh)i(tam i)daṃ [s>ś]ā[ś>s]anam ācandra-
+        (5r4=32) [d>t]ārakaṃ kṛtvā dattavān
+    </p>
+    
+    <p>
+        svasti go-brāhmaṇebhyaḥ <g type="spiral">.</g>
+    </p>
+    
+    <pb n="5v"/>
+</div>
+
+</div>
+
+<div type="apparatus">
+        
+    <div type="textpart" n="B">
+        
+        <head xml:lang="eng">Plates</head><listApp>
+            
+            <!--<app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01">...</rdg>
+                <note>...</note>
+            </app>-->
+            
+            <app loc="1">
+                <lem>jita<unclear>ṃ</unclear></lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01">jitam</rdg>
+            </app>
+            
+            <app loc="1">
+                <lem>kāñc<choice><orig>i</orig><reg>ī</reg></choice>purādhiṣṭh<unclear>ānāt</unclear></lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01">kāñcīpuradhiṣṭhā<choice><sic>na</sic><corr>na</corr></choice>t</rdg>
+                <note>It seems that <ptr target="bib:ParabrahmaSastry1977-1978_01"/> meant <choice><sic>na</sic><corr>nā</corr></choice>t.</note>
+            </app>            
+            
+        </listApp>
+        
+    </div>
+	
+</div>
+
+<div type="translation" resp="part:emfr">
+
+    <p n="1">Prospérity! The Lord is victorious</p>
+    <p n="1">From Kāñcīpura ...:</p>
+    
+    <p n="1-10">
+        <list>
+            <item>
+                great grand-son of ...
+            </item>
+            <item>
+                grand-son of ...
+            </item>
+            <item>
+                son of ...
+            </item>
+            <item>
+               the glorious Kumāraviṣṇuvarman ...
+            </item>
+        </list>
+        orders ...:
+    </p>
+        
+    <p n="10-18">
+       ...
+    </p>
+    
+    <p n="18-19">
+        It is given ...
+    </p>
+          
+    <p n="19-20">
+        ...
+    </p>
+    
+    <p n="20-21">
+        Who ...
+    </p>
+    
+    <p n="21">
+        ...
+    </p>
+        
+    <p rend="stanza" n="1">
+        <l>...</l>
+    </p>
+        
+    <p rend="stanza" n="2">
+        <l>...</l>
+    </p>
+        
+    <p rend="stanza" n="3">
+        <l>...</l>
+    </p>
+        
+    <p rend="stanza" n="4">
+        <l>...</l>
+    </p>
+        
+    <p rend="stanza" n="5">
+        <l>...</l>
+    </p>
+    
+    <p n="29-32">
+        ...
+    </p>
+    
+    <p n="32">
+        Prosperity for cows and Brahmins!
+    </p>
+      
+</div>
+	
+<div type="commentary"/>
+
+    <div type="bibliography">
+        
+        <p>Edited in <bibl><ptr target="bib:ParabrahmaSastry1977-1978_01"/></bibl> (EI 42.5), with visual documentation.</p>
+        <p>This revised edition by Emmanuel Francis, based on the published visual documentation.</p>
+        
+        <listBibl type="primary">
+            
+            <bibl n="EI">
+                <ptr target="bib:ParabrahmaSastry1977-1978_01"/></bibl>
+                                    
+        </listBibl>
+        
+        <listBibl type="secondary">
+            <bibl>
+                <ptr target="bib:Francis2013_01"/>
+                <citedRange unit="page">266-267</citedRange>
+                <citedRange unit="item">IR 13</citedRange>
+            </bibl>
+            
+        </listBibl>
+
+         </div>
+
+      </body>
+  </text>
+</TEI>
