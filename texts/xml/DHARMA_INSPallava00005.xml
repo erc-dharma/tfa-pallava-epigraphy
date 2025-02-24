@@ -98,7 +98,7 @@
     </p>
     
     <p>
-        vijaya-tāmbrāpa-sthānaT      
+        vijaya-tāṃbrāpa-sthānaT      
         <list>
             
             <item>
@@ -123,48 +123,55 @@
                 <lb n="2r3=6" break="no"/>lavato ’numatāc<unclear>ā</unclear>rālaṃkṛtasya satya-pratijñasya Aneka-go-hiraṇya-bhūmy-ādi
                 <pb n="2v" break="no"/>
                 <fw place="left" n="2v"><unclear>2</unclear></fw>
-                <lb n="2v1=7" break="no"/>-dānair ahar-ahar-abhivarddhamāna-dharmma-saṃcayasya deva-dvija-śuśrūṣābhirata-
+                <lb n="2v1=7" break="no"/>-dānair ahar-ahar-abhivarddhamāna-dharmma-saṃcayasya deva-dvija-śuśrūṣābhirata
                 <lb n="2v2=8" break="no"/>sya sarvva-śāstrārttha-nirṇṇaya-ta<choice><orig>t</orig><reg>tt</reg></choice>va-jñasya mahārājasya śrī-vijaya
                 <lb n="2v3=9" break="no"/>-skandavarmmaṇaḥ                
             </item>
             
         </list>
         
-        vacanena karmma-rāṣṭre Adhikṛtāḥ Āyuktakāḥ ...
-        <pb n="3r"/>        
+        vacanena karmma-rāṣṭre Adhikṛtāḥ Āyuktakāḥ
+        <pb n="3r"/>
+        <lb n="3r1=10"/>Oṃgoḍu-grāmaś ca vaktavyāḥ        
     </p>
     
     <p>
-        
-        <pb n="3v"/>
-        
+        Asmai kāśyapāya dvi-vedāya ṣaḍ-aṅga
+        <lb n="3r2=11" break="no"/>-pāragāya golaśarmmaṇe Eṣaḥ oṃgoḍu-grāmaḥ sā<choice><orig>t</orig><reg>tt</reg></choice>vikena
+        <lb n="3r3=12"/>dānena deva-bhoga-hala-varjjaḥ brahmadeyīkṛtya Aṣṭā-daśa-vidha-pari
+        <pb n="3v" break="no"/>
+        <lb n="3v1=13" break="no"/>hārais [sa]ha samprattaḥ
     </p>
     
     <p>        
-        
+        tasmāT sarvva-parihāraiḥ pariharttavyaḥ yo ’smac-chāsana
+        <lb n="3v2=14" break="no"/>m atikrāmeT tad-anurūpaṃ daṇḍam arhati        
     </p>
     
     <p>
+        vijaya-saṃvatsare traya
+        <lb n="3v3=15" break="no"/>striṃśe <num value="33"><g type="numeral">30</g> 3</num> hemanta-pakṣe tṛtīye 3 trayodaśyāṃ likhitam idaṃ śāsanaṃ <g type="ddanda">.</g>
         
     </p>
     
     <p>
         <pb n="4r"/>
+        <lb n="4r1=16"/>Atra ca dvau ślokāv udāharanti 
     </p>    
     
     <lg n="1" met="anuṣṭubh">
-        <l n="a"></l>
-        <l n="b"></l>
-        <l n="c"></l>
-        <l n="d"></l>
+        <l n="a">sva-dattāṃ para-dattāṃ vā</l>
+        <l n="b">yo hareta vasundharāṃ</l>
+        <l n="c"><lb n="4r2=17"/>gavāṃ śata-sahasrasya</l>
+        <l n="d">hantuḥ pibati duṣkṛita<choice><unclear>M</unclear><unclear>ṃ</unclear></choice></l>
     </lg>    
     
     
     <lg n="1" met="anuṣṭubh">
-        <l n="a"></l>
-        <l n="b"></l>
-        <l n="c"></l>
-        <l n="d"></l>
+        <l n="a">brahma-svaṃ tu viṣaṃ ghoraṃ</l>
+        <l n="b"><lb n="4r3=18"/>na viṣaṃ viṣam ucyate</l>
+        <l n="c">viṣan tv ekākinaṃ hanti</l>
+        <l n="d">brahma-svaṃ putra-pautrika<choice><unclear>M</unclear><unclear>ṃ</unclear></choice> <g type="gomutraFinal">.</g></l>
     </lg>    
     
     <pb n="4v"/>
@@ -172,23 +179,28 @@
 
 </div>
 
-<!--<div type="apparatus">
+<div type="apparatus">
         
     <div type="textpart" n="B">
         
         <head xml:lang="eng">Plates</head><listApp>
             
-            <app loc="0">
+            <!--<app loc="0">
                 <lem>...</lem>
                 <rdg source="bib:KrishnaSastri1919-1920_01">...</rdg>
                 <note>...</note>
+            </app>-->
+            
+            <app loc="1">
+                <lem>°tāṃbrāpa°</lem>
+                <rdg source="bib:KrishnaSastri1919-1920_01">°tāmbrāpa°</rdg>
             </app>
             
         </listApp>
         
     </div>
 	
-</div>-->
+</div>
 
 <!--<div type="translation" resp="part:emfr">
 	
