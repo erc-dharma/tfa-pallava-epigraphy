@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Duddukkūru plates, time of viṣṇugopavarman, year 17</title>
+            <respStmt>
+                <resp>author of digital edition</resp>
+                <persName ref="part:emfr">
+                    <forename>Emmanuel</forename>
+                    <surname>Francis</surname>
+                </persName>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris, CEIAS</pubPlace>
+            <idno type="filename">DHARMA_INSPallava00394</idno>
+            <availability>
+                <licence target="https://creativecommons.org/licenses/by/4.0/">
+                    <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                        Licence. To view a copy of the licence, visit
+                        https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                        Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                        California, 94041, USA.</p>
+                    <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>DHARMAbase</repository>
+                    <idno/>
+                </msIdentifier>
+                <msContents>
+                    <summary>...</summary>
+                </msContents>
+                <physDesc>
+                    <handDesc>
+                        <p>...</p>
+                    </handDesc>
+                </physDesc>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+        <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC)
+                under the European Union's Horizon 2020 research and innovation programme (grant
+                agreement no 809994).</p>
+        </projectDesc>
+        <schemaRef type="guide" key="EGDv01"
+            url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+        <listPrefixDef>
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                    ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part" matchPattern="([a-z]+)"
+                replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <p>Internal URIs using the part prefix to point to person elements in the
+                    <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+        </listPrefixDef>
+    </encodingDesc>
+    <revisionDesc>
+        <change who="part:emfr" when="2025-02-25" status="draft">Creation of the file</change>
+    </revisionDesc>
+</teiHeader>
+	
+<text xml:space="preserve">
+<body>
+
+<div type="edition" xml:lang="san-Latn" rendition="class:brāhmī_southern maturity:regional">
+
+    <div type="textpart" n="A">
+        <head xml:lang="eng">Seal</head> 
+    </div>
+
+<div type="textpart" n="B">
+<head xml:lang="eng">Plates</head>
+    
+    <pb n="1r"/>
+    
+    <p>
+        <pb n="1v"/>
+        <lb n="1v1=1"/><gap reason="lost"/>
+    </p>
+    
+    <p>
+        <gap reason="lost"/>
+        
+        <list>            
+            <item>
+                <lb n="1v2=2"/><gap reason="lost"/>
+                <lb n="1v3=3"/><gap reason="lost"/>
+            </item>
+            
+            <item>
+                <lb n="1v4=4"/><gap reason="lost"/>
+                <lb n="1v5=5"/><gap reason="lost"/>
+                <pb n="2r" break="no"/>
+                <lb n="2r6=6" break="no"/>-sampannasya pratāpopanata-rāja-maṇḍalasya śrī-vi
+                <lb n="2r7=7" break="no"/>ṣṇu-gopavarmmaṇa<supplied reason="omitted">ḥ</supplied> pautra<supplied reason="omitted">ḥ</supplied>
+            </item>
+            
+            <item>
+                ...
+                <lb n="2r8=8"/>...
+                <lb n="2r9=9"/>...
+                <lb n="2r10=10"/>...
+                siṃha-varmmaṇa<supplied reason="omitted">ḥ</supplied> putro                
+            </item>
+            
+            <item>
+                <pb n="2v"/>
+                <lb n="2v1=11"/>...
+                <lb n="2v2=12"/>...
+                <lb n="2v3=13"/>...
+                <lb n="2v4=14"/>...
+                <lb n="2v5=15"/>...
+                <pb n="3r"/>
+                <lb n="3r1=16"/>...
+                <lb n="3r2=17"/>...
+                <lb n="3r3=18"/>...
+                <lb n="3r4=19"/>... mahārāja-śrī-viṣṇugopa-varmm<choice><sic>a</sic><corr>ā</corr></choice>                
+            </item>
+            
+        </list>
+                
+    </p>
+    
+    <p>
+        <lb n="3r5=20"/>... 
+        <pb n="3v"/>
+        <lb n="3v1=21"/>...
+        
+        <pb n="4r"/>
+        <lb n="4r1=27"/>...       
+    </p>    
+    
+    <lg n="1" met="anuṣṭubh">
+        <l n="a"><pb n="4v"/><lb n="4v1=32"/>bhūmi-dān<choice><sic>a</sic><corr>ā</corr></choice>t saman d<choice><sic>a</sic><corr>ā</corr></choice>nam</l>
+        <l n="b">iha loke na vidyate</l>
+        <l n="c">...</l>
+        <l n="d">...</l>
+    </lg>   
+    
+    <lg n="2" met="anuṣṭubh">
+        <l n="a">...</l>
+        <l n="b">...</l>
+        <l n="c">...</l>
+        <l n="d">...</l>
+    </lg>    
+    
+    
+    
+    <p>
+        pravar<choice><sic>dh</sic><corr>ddh</corr></choice>amāna
+        <lb n="4v4=35" break="no"/>-vijaya-...        
+        
+    </p>
+    
+    <pb n="4v"/>
+</div>
+
+</div>
+
+<div type="apparatus">
+        
+    <div type="textpart" n="B">
+        
+        <head xml:lang="eng">Plates</head>
+        
+        <listApp>            
+            
+            <!--<app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:PadmanabhaSastry2013_01">...</rdg>
+                <rdg source="bib:Dayalan2005_01">...</rdg>
+                <note>...</note>
+            </app>-->
+            
+            <app loc="6">
+                <lem>°sampannasya</lem>
+                <rdg source="bib:Dayalan2005_01"/>
+                <rdg source="bib:PadmanabhaSastry2013_01">°saṃpannasya</rdg>
+            </app>
+            <app loc="6">
+                <lem>pratāpopanata°</lem>                
+                <rdg source="bib:Dayalan2005_01"/>
+                <rdg source="bib:PadmanabhaSastry2013_01">pratāpopanatā</rdg>
+            </app>
+            <app loc="7">
+                <lem>°gopavarmmaṇa<supplied reason="omitted">ḥ</supplied></lem>
+                <rdg source="bib:PadmanabhaSastry2013_01">°gopavarmaṇa</rdg>
+                <rdg source="bib:Dayalan2005_01">°gopavarmmaṇa</rdg>
+            </app>
+            
+            <app loc="15">
+                <lem>siṃhavarmmaṇa<supplied reason="omitted">ḥ</supplied></lem>
+                <rdg source="bib:PadmanabhaSastry2013_01">simhavarmaṇa</rdg>                
+                <rdg source="bib:Dayalan2005_01">simhavarmmaṇa</rdg>
+            </app>    
+            <app loc="15">
+                <lem>putro</lem>
+                <rdg source="bib:Dayalan2005_01"/>
+                <rdg source="bib:PadmanabhaSastry2013_01">poutro</rdg>
+            </app>
+            
+            <app loc="19">
+                <lem>viṣṇugopavarmm<choice><sic>a</sic><corr>ā</corr></choice></lem>
+                <rdg source="bib:PadmanabhaSastry2013_01 bib:Dayalan2005_01">viṣṇugopavarmma</rdg>
+            </app>
+            
+            <app loc="32">
+                <lem>°dān<choice><sic>a</sic><corr>ā</corr></choice>t saman d<choice><sic>a</sic><corr>ā</corr></choice>nam</lem>
+                <rdg source="bib:PadmanabhaSastry2013_01 bib:Dayalan2005_01">°dānat samandan m</rdg>
+            </app>    
+            
+            <app loc="34">
+                <lem>pravar<choice><sic>dh</sic><corr>ddh</corr></choice>amāna°</lem>
+                <rdg source="bib:PadmanabhaSastry2013_01">pravardhamāna°</rdg>
+                <rdg source="bib:Dayalan2005_01">pravarddhamāna°</rdg>
+            </app>   
+            
+        </listApp>
+        
+    </div>
+	
+</div>
+
+<div type="translation" resp="part:emfr">
+
+    <p n="1"><gap reason="lost"/></p>
+    <p n="1"><supplied reason="lost">From</supplied> <gap reason="lost"/>:</p>
+    
+    <p n="1-29">
+        <list>
+            <item>
+                <supplied reason="lost">great grand-son of</supplied> <gap reason="lost"/>
+            </item>
+            <item>
+                grand-son of ...
+            </item>
+            <item>
+                son of ...
+            </item>
+            <item>
+               the glorious Viṣṇugopavarman ...
+            </item>
+        </list>
+        ...
+    </p>
+        
+    <p n="29-30">
+       ...
+    </p>
+    
+    <p n="31">
+        ...
+    </p>   
+        
+    <p rend="stanza" n="1">
+        <l>...</l>
+    </p>
+        
+    <p rend="stanza" n="2">
+        <l>...</l>
+    </p>
+    
+    <p n="34-37">
+        ...
+    </p>
+    
+</div>
+	
+<div type="commentary"/>
+
+    <div type="bibliography">
+        
+        <p>Reported in <bibl><ptr target="bib:Gupta2008_01"/></bibl>, in <bibl><ptr target="bib:ARIE1990-1991"/></bibl> (ARIE/1990-1991/A/1990-1991/6).</p>
+        <p>Edited in <bibl><ptr target="bib:Dayalan2005_01"/></bibl> (text supplied to him by Padmanabha Sastry), in <bibl><ptr target="bib:PadmanabhaSastry2013_01"/></bibl>, without visual documentation.</p>
+        <p>This tentative<note>The two existing editions are sometimes difficult to reconcile.</note> online edition by Emmanuel Francis, based on the previous editions. Thanks to Arlo Griffiths and Tamiḻ Celvaṉ for pointing out relevant publications.</p>
+        
+        <listBibl type="primary">
+            
+            <bibl n="D">
+                <ptr target="bib:Dayalan2005_01"/>
+                <citedRange unit="volume">3</citedRange>
+                <citedRange unit="appendix">I</citedRange>
+                <citedRange unit="page">1235-1236</citedRange>
+                <citedRange unit="item">3</citedRange>            		
+            </bibl>
+            
+            <bibl n="PS">
+                <ptr target="bib:PadmanabhaSastry2013_01"/>
+            </bibl>
+                                    
+        </listBibl>
+        
+        <listBibl type="secondary">
+            
+            <bibl>
+                <ptr target="bib:ARIE1990-1991"/>
+                <citedRange unit="page">2<!--, 22--></citedRange>
+                <citedRange unit="appendix">A/1990-1991</citedRange>
+                <citedRange unit="item">6</citedRange>
+            </bibl>       
+            
+            <bibl>
+                <ptr target="bib:Gupta2008_01"/>
+                <citedRange unit="page">147</citedRange>
+                <citedRange unit="item">1062</citedRange>
+            </bibl>
+             
+            <bibl>
+                <ptr target="bib:IAR1987-1988"/>
+                <citedRange unit="page">117-118</citedRange>
+            </bibl> 
+                        
+            <bibl>
+                <ptr target="bib:PadmanabhaSastry2003_01"/>
+            </bibl>
+            
+            <bibl>
+                <ptr target="bib:PadmanabhaSastry2008_01"/>
+                <citedRange unit="page">TBC</citedRange>
+                <citedRange unit="item">169</citedRange>
+            </bibl>
+        </listBibl>
+
+         </div>
+
+      </body>
+  </text>
+</TEI>
