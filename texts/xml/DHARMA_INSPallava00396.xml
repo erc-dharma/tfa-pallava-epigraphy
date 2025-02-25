@@ -87,124 +87,132 @@
 
 <div type="edition" xml:lang="san-Latn" rendition="class:brāhmī_southern maturity:middle">
 	
-	<pb n="1r"/>
-	
-	<ab>
-		<pb n="1v"/>
-		<lb n="1v1=1"/>jitam bhagavatā svasti 		
-	</ab>
-	
-	<p>
-		vijaya-daśana-purād 
-		<list>
-		
-		<item>yathāvad abhy-arccita-devat<supplied reason="lost">ā</supplied>
-		<lb n="1v2=2" break="no"/>-brāhmaṇa-guru-vṛddhasya śakti-traya-vṛddhasya mahātmana<unclear>s s</unclear>va-bhuja
-		<lb n="1v3=3" break="no"/>-dravinārjjitodāra-bhoga-bhujaḥ pṛthivī-talaika-vīrasya
-		<lb n="1v4=4"/>mahārāja-śrī-vīra-varmmaṇaḥ prapautraḥ</item>
-		
-		<item>samara-ṣa<choice><sic>d</sic><corr>t</corr></choice>a-karaṇa
-		<lb n="1v5=5"/>samadhigatādbhuta-pratāpasya vidya-vṛddhasyānanta-kalpa-pradāyi
-		
-		<pb n="2r" break="no"/>
-		<lb n="2r1=6" break="no"/><supplied reason="lost">no</supplied> <supplied reason="subaudible">’</supplied>nanta-kalpasya guṇamāhato  mahārāja-śrī-skanda<unclear>va</unclear>rmma<supplied reason="lost">ṇaḥ</supplied>
-		<lb n="2r2=7"/>pautrasya</item> 
-		
-		<item>...
-		<lb n="2r3=8"/>...		
-		<lb n="2r4=9"/><supplied reason="lost">bh</supplied>āvasya yuvarāja-śrī-viṣnugopasya putraḥ</item>
-		</list>
-		
-		tapta-sā<supplied reason="lost">ma</supplied>nta
-		<lb n="2r5=10"/>maṇḍa<supplied reason="lost">le</supplied>nāpratimābhis ...
-		
-		<pb n="2v"/>
-		<lb n="2v1=11"/>
-		
-		<pb n="3r"/>
-		<lb n="3r1=16"/>śrī-vallabhānām pallavānān dha<unclear>rm</unclear>ma-mahārāja-śrī-si<unclear>ṃha-va</unclear>rmmā muṇḍa
-		<lb n="3r2=17" break="no"/>rāṣṭre pā<unclear>ṇḍūra</unclear>-grāme <unclear>grāme</unclear>yakā<unclear>n</unclear> ...
-		<lb n="3r3=18" break="no"/>... cājñāpayati
-	</p>
-	<p>
-		...
-		<lb n="3r4=19" break="no"/>...
-		
-		<pb n="3v"/>
-		<lb n="3v1=21"/>
-		
-		<pb n="4r"/>
-		<lb n="4r1=26"/>
-		
-		<pb n="4v"/>
-		
-		<lb n="4v1=31"/>
-		
-		<pb n="5r"/>		
-		<lb n="5r1=36"/>
-		
-		<pb n="5v"/>		
-		<lb n="5v1=41"/>
-		
-		<pb n="6r"/>
-		<lb n="6r1=46"/>
-		
-		<pb n="6v"/>		
-		<lb n="6v1=51"/>
-		
-		<pb n="7r"/>
-		<lb n="7r1=56"/>
-		<lb n="7r2=57"/>
-		<lb n="7r2=58"/>
-	</p>
+    <pb n="1r"/>
+    
+    <ab>
+        <pb n="1v"/>
+        <lb n="1v1=1"/>jitam bhagavatā svasti 		
+    </ab>
+    
+    <p>
+        vijaya-daśana-purād 
+        <list>
+            
+            <item>
+                yathāvad abhy-arccita-devat<supplied reason="lost">ā</supplied>
+                <lb n="1v2=2" break="no"/>-brāhmaṇa-guru-vṛddhasya śakti-traya-vṛddhasya mahātmana<unclear>s s</unclear>va-bhuja
+                <lb n="1v3=3" break="no"/>-dravinārjjitodāra-bhoga-bhujaḥ pṛthivī-talaika-vīrasya
+                <lb n="1v4=4"/>mahārāja-śrī-vīra-varmmaṇaḥ prapautraḥ
+            </item>
+            
+            <item>
+                samara-ṣa<choice><sic>d</sic><corr>t</corr></choice>a-karaṇa
+                <lb n="1v5=5"/>samadhigatādbhuta-pratāpasya vidya-vṛddhasyānanta-kalpa-pradāyi                
+                <pb n="2r" break="no"/>
+                <lb n="2r1=6" break="no"/><supplied reason="lost">no</supplied> <supplied reason="subaudible">’</supplied>nanta-kalpasya guṇamāhato  mahārāja-śrī-skanda<unclear>va</unclear>rmma<supplied reason="lost">ṇaḥ</supplied>
+                <lb n="2r2=7"/>pautrasya
+            </item> 
+            
+            <item>
+                ...
+                <lb n="2r3=8"/>...		
+                <lb n="2r4=9" break="no"/><supplied reason="lost">bh</supplied>āvasya yuvarāja-śrī-viṣnugopasya putraḥ
+            </item>
+            
+            <item>
+                tapta-sā<supplied reason="lost">ma</supplied>nta
+                <lb n="2r5=10"/>maṇḍa<supplied reason="lost">le</supplied>nāpratimābhis ...
+                
+                <pb n="2v"/>
+                <lb n="2v1=11"/>...                
+                <pb n="3r"/>
+                <lb n="3r1=16"/>śrī-vallabhānām pallavānān dha<unclear>rm</unclear>ma-mahārāja-śrī-si<unclear>ṃha-va</unclear>rmmā
+            </item>
+        </list>
+        
+        muṇḍa
+        <lb n="3r2=17" break="no"/>rāṣṭre pā<unclear>ṇḍūra</unclear>-grāme <unclear>grāme</unclear>yakā<unclear>n</unclear> ...
+        <lb n="3r3=18" break="no"/>... cājñāpayati
+    </p>
+    <p>
+        ...
+        <lb n="3r4=19" break="no"/>...
+        
+        <pb n="3v"/>
+        <lb n="3v1=21"/>
+        
+        <pb n="4r"/>
+        <lb n="4r1=26"/>
+        
+        <pb n="4v"/>
+        
+        <lb n="4v1=31"/>
+        
+        <pb n="5r"/>		
+        <lb n="5r1=36"/>
+        
+        <pb n="5v"/>		
+        <lb n="5v1=41"/>
+        
+        <pb n="6r"/>
+        <lb n="6r1=46"/>
+        
+        <pb n="6v"/>		
+        <lb n="6v1=51"/>
+        
+        <pb n="7r"/>
+        <lb n="7r1=56"/>
+        <lb n="7r2=57"/>
+        <lb n="7r2=58"/>
+    </p>
     <p>
         <lb n="7r4=59"/>Imam <unclear>p</unclear>āṇḍūra-grāma<unclear>ṃ</unclear> sarvva-parih<unclear>āro</unclear>peta<unclear>n deva</unclear>-bhoga-hala-varjjyam asma
         <lb n="7r5=60" break="no"/>d-āyur-bala-vijayābhivṛddhaye samedha<unclear>māna</unclear>-vijaya-rājya-prathama
         
         <pb n="7v" break="no"/>
-        <lb n="7v1=61" break="no"/>sa<unclear>ṃ</unclear>vvatsar-āṣāḍha-śukla-pakṣa-pañcamyām brahmadeyī-kṛtya samprādama
+        <lb n="7v1=61" break="no"/>-sa<unclear>ṃ</unclear>vvatsar-āṣāḍha-śukla-pakṣa-pañcamyām brahmadeyī-kṛtya samprādama
     </p>
-	<p>
-		tada
-		<lb n="7v2=62" break="no"/>yaṅ grāmas sarvva-parihārai<unclear>ḥ</unclear> pariharttavyaḥ parihārayitavyaś ca
-	</p>
-	<p>
-		yaś cedam asma 
-		<lb n="7v2=63" break="no"/><supplied reason="lost">c-chā</supplied>sanam atikramet sa pāpa<unclear>ś ś</unclear>ārīran daṇḍam arhaty
-	</p>
-	<p>
-		api cātrārṣā<unclear>ḥ</unclear>
-		<lb n="7v4=64"/><unclear>ś</unclear>l<unclear>o</unclear>kā bhavant<supplied reason="lost">i</supplied>
-	</p>
-	
-	<lg n="1" met="anuṣṭubh">
-		<l n="a">bhūm<unclear>i</unclear>-dānāt para<unclear>n dānan</unclear></l> 
-		<l n="b"><unclear>na</unclear> bhū<unclear>ta</unclear>n na bhaviṣyati</l> 
-		<l n="c">tasyaiva haraṇā[t] <lb n="7v5=65"/>pāpa<unclear>n</unclear></l>
-		<l n="d"><unclear>na</unclear> bhūtan na bhaviṣyati</l>
-	</lg>
-	
-	<lg n="2" met="anuṣṭubh">
-		<l n="a">bahubhi<unclear>r</unclear> vvasudhā dattā</l>
-		<l n="b">bahubhiś cānupālitā</l>
-		<l n="c"><pb n="8r"/><lb n="8r1=66"/><unclear>ya</unclear>sya yasya yadā bhūmis</l>
-		<l n="d">tasya tasya tadā phalaM</l>
-	</lg>
-	<lg n="3" met="anuṣṭubh">
-		<l n="a">svadattām paradattām vā</l>
-		<l n="b">yo ha<lb n="8r2=67" break="no"/>reta vasu<choice><orig>t</orig><reg>n</reg></choice>dhar<unclear>ā</unclear>M</l>
-		<l n="c">gāvā<unclear>ṃ</unclear> śata-sahasrasya</l>
-		<l n="d">hantuḥ pibati kilbiṣam</l>
-	</lg>
-	<p>
-		<lb n="8r3=68"/>
-		<lb n="8r4=69"/>
-		<lb n="8r5=70"/>
-	</p>	
-	
-		<pb n="8v"/>
-         	         	
-         </div>
+    <p>
+        tada
+        <lb n="7v2=62" break="no"/>yaṅ grāmas sarvva-parihārai<unclear>ḥ</unclear> pariharttavyaḥ parihārayitavyaś ca
+    </p>
+    <p>
+        yaś cedam asma 
+        <lb n="7v2=63" break="no"/><supplied reason="lost">c-chā</supplied>sanam atikrāmet sa pāpa<unclear>ś ś</unclear>ārīran daṇḍam arhaty
+    </p>
+    <p>
+        api cātrārṣā<unclear>ḥ</unclear>
+        <lb n="7v4=64"/><unclear>ś</unclear>l<unclear>o</unclear>kā bhavant<supplied reason="lost">i</supplied>
+    </p>
+    
+    <lg n="1" met="anuṣṭubh">
+        <l n="a">bhūm<unclear>i</unclear>-dānāt para<unclear>n dānan</unclear></l> 
+        <l n="b"><unclear>na</unclear> bhū<unclear>ta</unclear>n na bhaviṣyati</l> 
+        <l n="c">tasyaiva haraṇā[t] <lb n="7v5=65"/>pāpa<unclear>n</unclear></l>
+        <l n="d"><unclear>na</unclear> bhūtan na bhaviṣyati</l>
+    </lg>
+    
+    <lg n="2" met="anuṣṭubh">
+        <l n="a">bahubhi<unclear>r</unclear> vvasudhā dattā</l>
+        <l n="b">bahubhiś cānupālitā</l>
+        <l n="c"><pb n="8r"/><lb n="8r1=66"/><unclear>ya</unclear>sya yasya yadā bhūmis</l>
+        <l n="d">tasya tasya tadā phalaM</l>
+    </lg>
+    <lg n="3" met="anuṣṭubh">
+        <l n="a">svadattām paradattām vā</l>
+        <l n="b">yo ha<lb n="8r2=67" break="no"/>reta vasu<choice><orig>t</orig><reg>n</reg></choice>dhar<unclear>ā</unclear>M</l>
+        <l n="c">gāvā<unclear>ṃ</unclear> śata-sahasrasya</l>
+        <l n="d">hantuḥ pibati kilbiṣam</l>
+    </lg>
+    <p>
+        <lb n="8r3=68"/>
+        <lb n="8r4=69"/>
+        <lb n="8r5=70"/>
+    </p>	
+    
+    <pb n="8v"/>
+    
+</div>
 
 <!--<div type="apparatus">
 
