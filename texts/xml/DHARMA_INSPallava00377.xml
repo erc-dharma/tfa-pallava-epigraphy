@@ -143,7 +143,7 @@
         <lb n="3r1=13"/>Eta<supplied reason="omitted">c</supplied> catur-avadhi-dakṣiṇa-sukṣetre doṇāvadi-grāma-sī<choice><orig>nm</orig><reg>mn</reg></choice>aḥ paścimataḥ cuṇoḷū
         <lb n="3r2=14" break="no"/>prāḷu-grāma-s<choice><orig>i</orig><reg>ī</reg></choice><choice><orig>nm</orig><reg>mn</reg></choice>aḥ Uttara<supplied reason="lost">taḥ</supplied> sarppagṛh<choice><orig>e</orig><reg>a</reg></choice>-pūrvvataḥ vṛ<choice><orig>dh</orig><reg>ddh</reg></choice>a-taṭāka-dakṣiṇata Eta-
         <lb n="3r3=15" break="no"/><supplied reason="omitted">c</supplied> catur-avadh<choice><orig>ī</orig><reg>i</reg></choice>-dakṣiṇa-pūrvve sukṣetre sarppagṛh<choice><orig>e</orig><reg>a</reg></choice>-pūrvvataḥ mahiṣaśira-grām<choice><orig>e</orig><reg>a</reg></choice>
-        <lb n="3r4=16" break="no"/>s<choice><orig>i</orig><reg>ī</reg></choice><choice><orig>nm</orig><reg>mn</reg></choice>aḥ dakṣiṇata<supplied reason="omitted">ḥ</supplied> pullaḷūru-grām<choice><orig>e</orig><reg>a</reg></choice>-s<choice><orig>i</orig><reg>ī</reg></choice><choice><orig>nm</orig><reg>mn</reg></choice>aḥ paścimata<supplied reason="omitted">ḥ</supplied> kaṃ<seg rend="check">sā</seg>ri-taṭāka<supplied reason="omitted">sya</supplied> Uttararataḥ
+        <lb n="3r4=16" break="no"/>-s<choice><orig>i</orig><reg>ī</reg></choice><choice><orig>nm</orig><reg>mn</reg></choice>aḥ dakṣiṇata<supplied reason="omitted">ḥ</supplied> pullaḷūru-grām<choice><orig>e</orig><reg>a</reg></choice>-s<choice><orig>i</orig><reg>ī</reg></choice><choice><orig>nm</orig><reg>mn</reg></choice>aḥ paścimata<supplied reason="omitted">ḥ</supplied> kaṃ<seg rend="check">sā</seg>ri-taṭāka<supplied reason="omitted">sya</supplied> Uttararataḥ
         
         <pb n="3v"/>
         <lb n="3v1=17"/>Eta<supplied reason="omitted">c</supplied> catur-avadhi-pūr<choice><orig>v</orig><reg>vv</reg></choice>ottare sukṣetre trai-bhūmyā<unclear>ṃ</unclear> cauṣaṣṭi nivarttanāni kāśy<choice><sic>ā</sic><corr>a</corr></choice>
@@ -182,7 +182,7 @@
     <lg n="2" met="anuṣṭubh">
         <l n="a">bahu<surplus>r</surplus>bhi<supplied reason="omitted">r v</supplied>vasudhā datt<choice><sic>a</sic><corr>ā</corr></choice></l>
         <l n="b">bahubhiś cānupālitā</l>
-        <l n="c">yasya yasya ya<lb n="4r4=24"/>dā bhūmi<supplied reason="omitted">s</supplied></l>
+        <l n="c">yasya yasya ya<lb n="4r4=24" break="no"/>dā bhūmi<supplied reason="omitted">s</supplied></l>
         <l n="d">tasya tasya tadā <choice><sic>p</sic><corr>ph</corr></choice>ala<unclear>ṃ</unclear> <g type="ddanda">.</g></l>
     </lg> 
     
@@ -286,32 +286,32 @@
 <div type="translation" resp="part:emfr">
 
     <p n="1">Prosperity! The Lord is victorious</p>
-    <p n="1">From Kāñcīpura ...:</p>
+    <p n="1">From the residence of Kāñcīpura:</p>
     
     <p n="1-10">
         <list>
             <item>
-                great grand-son of ...
+                great grand-son of the glorious <foreign>mahārāja</foreign> Vīrakorcavarman ...
             </item>
             <item>
-                grand-son of ...
+                grand-son of the glorious <foreign>mahārāja</foreign> Karāḷavarman ...
             </item>
             <item>
-                son of ...
+                son of the glorious <foreign>mahārāja</foreign> Skandamūlavarman  ...
             </item>
             <item>
-               the glorious Kumāraviṣṇuvarman ...
+               the glorious Kumāraviṣṇuvarman, the glorious Pallava <foreign>mahārāja</foreign>, ...
             </item>
         </list>
         orders ...:
     </p>
         
     <p n="10-18">
-       ...
+       He gave to Īśvaraśarman of the <foreign>kāsyapagotra</foreign> sixty-four <foreign>nivartana</foreign>s...
     </p>
     
     <p n="18-19">
-        It is given ...
+        It was given for the purpose of ...
     </p>
           
     <p n="19-20">
@@ -327,11 +327,17 @@
     </p>
         
     <p rend="stanza" n="1">
-        <l>...</l>
+        <l>A gift superior to the gift of land</l>
+        <l>There has not been and there won’t be.</l>
+        <l>Therefore a sin <supplied reason="subaudible">superior</supplied> to seizing it</l>
+        <l>There has not been and there won’t be.</l>
     </p>
         
     <p rend="stanza" n="2">
+        <l>The earth has been given by many</l>
+        <l>and by many it has been protected.</l>
         <l>...</l>
+        <l>...</l>        
     </p>
         
     <p rend="stanza" n="3">
@@ -364,7 +370,7 @@
     <div type="bibliography">
         
         <p>Edited in <bibl><ptr target="bib:ParabrahmaSastry1977-1978_01"/></bibl> (EI 42.5), with visual documentation.</p>
-        <p>This revised edition by Emmanuel Francis, based on the published visual documentation.</p>
+        <p>This revised edition by Emmanuel Francis, based on the published visual documentation. At places where the plates are severely damaged and hardly legible, we have opted for marking as unclear characters that <bibl><ptr target="bib:ParabrahmaSastry1977-1978_01"/></bibl> edits as clear, as one can guess them because of the formulaic character of this charter; most of the time we have not recorded these cases in the apparatus.</p>
         
         <listBibl type="primary">
             
