@@ -9,20 +9,21 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Alavakoṇḍa copper plates, time of Viṣṇugopa, year 1</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
+			    <respStmt>
+			        <resp>author of digital edition</resp>
+			        <persName ref="part:emfr">
+			            <forename>Emmanuel</forename>
+			            <surname>Francis</surname>
+			        </persName>
+			        <persName ref="part:tilu">
+			            <forename>Timothy</forename>
+			            <surname>Lubin</surname>
+			        </persName>
+			        <persName ref="part:anol">
+			            <forename>Andrew</forename>
+			            <surname>Ollett</surname>
+			        </persName>
+			    </respStmt>	
 				<!--add Tim and Andrew-->
 			</titleStmt>
 			<publicationStmt>
