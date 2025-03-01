@@ -9,7 +9,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Duddukkūru plates, time of viṣṇugopavarman, year 17</title>
+            <title>Duddukkūru plates, time of Viṣṇugopavarman, year 17</title>
             <respStmt>
                 <resp>author of digital edition</resp>
                 <persName ref="part:emfr">
@@ -290,7 +290,7 @@
         
         <p>Reported in <bibl><ptr target="bib:Gupta2008_01"/></bibl>, in <bibl><ptr target="bib:ARIE1990-1991"/></bibl> (ARIE/1990-1991/A/1990-1991/6).</p>
         <p>Edited in <bibl><ptr target="bib:Dayalan2005_01"/></bibl> (text supplied to him by Padmanabha Sastry), in <bibl><ptr target="bib:PadmanabhaSastry2013_01"/></bibl>, without visual documentation.</p>
-        <p>Tentative<note>As no visual documentation is available and as the two existing editions are sometimes difficult to reconcile.</note> online edition by Emmanuel Francis, based on the previous editions. Thanks to Arlo Griffiths and Tamiḻ Celvaṉ for pointing out relevant publications.</p>
+        <p>This online edition by Emmanuel Francis, based on the previous editions.<note>Tentative edition since no visual documentation is available and since both existing editions are not carefully edited.</note> Thanks to Arlo Griffiths and Tamiḻ Celvaṉ for pointing out relevant publications.</p>
         
         <listBibl type="primary">
             
@@ -312,14 +312,14 @@
             
             <bibl>
                 <ptr target="bib:ARIE1990-1991"/>
-                <citedRange unit="page">2<!--, 22--></citedRange>
+                <citedRange unit="page"><!--2, -->22</citedRange>
                 <citedRange unit="appendix">A/1990-1991</citedRange>
                 <citedRange unit="item">6</citedRange>
             </bibl>       
             
             <bibl>
                 <ptr target="bib:Gupta2008_01"/>
-                <citedRange unit="page">147</citedRange>
+                <citedRange unit="page">146</citedRange>
                 <citedRange unit="item">1062</citedRange>
             </bibl>
              
