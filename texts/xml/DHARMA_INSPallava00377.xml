@@ -93,37 +93,36 @@
     
     <p>
         <pb n="1v"/>
-        <lb n="1v1=1"/>svasti jita<unclear>ṃ</unclear> bhagavatā<surplus>t</surplus>
+        <lb n="1v1=1"/>svasti jitaṃ bhagavatā<surplus>t</surplus>
     </p>
     
     <p>
-        kāñc<choice><orig>i</orig><reg>ī</reg></choice>purādhiṣṭh<unclear>ānāt</unclear>     
+        kāñc<choice><orig>i</orig><reg>ī</reg></choice>purādhiṣṭhān<choice><sic>a</sic><corr>ā</corr></choice>t     
         <list>
             
             <item>
-                para<unclear>ma-brahmaṇyasya</unclear> sva-bāhu-<supplied reason="lost">balā</supplied>
-                <lb n="1v2=2" break="no"/><unclear>rjji</unclear>torjji<supplied reason="lost">ta</supplied>-<unclear>kṣ</unclear>ātra-taponidher vvidhi-vihita-sarvva-ma<unclear>r</unclear>yyādasya mahā<unclear>rājas</unclear>ya
-                <lb n="1v3=3"/>śrī-vī<supplied reason="lost">ra</supplied>korccavarmmaṇaḥ prapautro
+                parama-brahmaṇyasya sva-bāhu-ba<supplied reason="lost">lā</supplied>
+                <lb n="1v2=2" break="no"/>rjjitorjjita-kṣātra-taponidhe<unclear>r</unclear> vvidhi-vihita-sarvva-maryyādasya mahārājasya
+                <lb n="1v3=3"/>śrī-vīrakorccavarmmaṇaḥ prapautro
             </item>
             
             <item>
                 ’bhyutthita-śakti-siddhi-saṃpa<supplied reason="omitted">n</supplied>nasya prat<unclear>ā</unclear><choice><sic>t</sic><corr>p</corr></choice>o
-                <lb n="1v4=4" break="no"/>panata-rājamaṇḍalasya vasudhā-talaika-vīrasya ma<unclear>hā</unclear>rājasya śrī-karā
+                <lb n="1v4=4" break="no"/>panata-rāja-maṇḍalasya vasudhā-talaika-vīrasya mahārājasya śrī-karā
                 <pb n="2r" break="no"/>
                 <lb n="2r1=5" break="no"/>ḷavarmmaṇaḥ pautro
             </item>
             
             <item>
                 deva-dvija-guru-vṛ<choice><sic>dh</sic><corr>ddh</corr></choice><choice><sic>ā</sic><corr>o</corr></choice>pacāyina<supplied reason="omitted">ḥ</supplied> pravṛ<choice><sic>dh</sic><corr>ddh</corr></choice>a-<supplied reason="omitted">dha</supplied>rmma-sañcaya
-                <lb n="2r2=6" break="no"/>s<unclear>ya</unclear> prajā-pāla<supplied reason="omitted">na</supplied>-dakṣasya lokapāl<choice><sic>a</sic><corr>ā</corr></choice>nāṃ pañcamasya lokapāla<choice><sic>nāṃ</sic><corr>sya</corr></choice> satyā
-                <lb n="2r3=7" break="no"/><unclear>tma</unclear>n<supplied reason="lost">o</supplied> mahārājasya śrī-skanda-mūlavarmmaṇaḥ putro
+                <lb n="2r2=6" break="no"/>sya prajā-pāla<supplied reason="omitted">na</supplied>-dakṣasya lokapāl<choice><sic>a</sic><corr>ā</corr></choice>nāṃ pañcamasya lokapāla<choice><sic>nāṃ</sic><corr>sya</corr></choice> satyā
+                <lb n="2r3=7" break="no"/>tmano mahārājasya śrī-skanda-mūlavarmmaṇaḥ putro
                 
             </item>
             
             <item>
                 bhagavat-pādānu
-                <lb n="2r4=8" break="no"/>ddhyato bappa-bhaṭ<seg rend="check"><choice><sic>ṭh</sic><corr>ṭ</corr></choice></seg>āraka-pāda-bhakta<supplied reason="omitted">ḥ</supplied> parama-bhāgavato bhāradvāja-<supplied reason="lost">sa</supplied>go-
-                
+                <lb n="2r4=8" break="no"/>ddhyāto bappa-bhaṭ<choice><sic>ṭh</sic><corr>ṭ</corr></choice>āraka-pāda-bhakta<supplied reason="omitted">ḥ</supplied> parama-bhāgavato bhāradvāja-sago                
                 <pb n="2v" break="no"/>
                 <lb n="2v1=9" break="no"/>tra<choice><sic>a</sic><corr>o</corr></choice> ya<unclear>thāvad-āhṛ</unclear><choice><sic><unclear>d</unclear></sic><corr>t</corr></choice>āne<supplied reason="omitted">kā</supplied>śvamedhānāṃ pallav<choice><sic>a</sic><corr>ā</corr></choice>n<choice><sic>a</sic><corr>ā</corr></choice><seg rend="check"><choice><sic>m</sic><corr>ṃ</corr></choice></seg> pallava-śrī-mahārāja<choice><sic>sya</sic><corr>ḥ</corr></choice>
                 <lb n="2v2=10"/>śrīmān kum<choice><sic>a</sic><corr>ā</corr></choice>ra-vi<unclear>ṣṇ</unclear>u-<supplied reason="lost">var</supplied>mmā
@@ -242,15 +241,34 @@
             -->
             
             <app loc="1">
-                <lem>jita<unclear>ṃ</unclear></lem>
+                <lem>jitaṃ</lem>
                 <rdg source="bib:ParabrahmaSastry1977-1978_01">jitam</rdg>
-            </app>
-            
-            <app loc="1">
-                <lem>kāñc<choice><orig>i</orig><reg>ī</reg></choice>purādhiṣṭh<unclear>ānāt</unclear></lem>
-                <rdg source="bib:ParabrahmaSastry1977-1978_01">kāñcīpuradhiṣṭhā<choice><sic>na</sic><corr>na</corr></choice>t</rdg>
-                <note>It seems that <ptr target="bib:ParabrahmaSastry1977-1978_01"/> meant <choice><sic>na</sic><corr>nā</corr></choice>t.</note>
             </app>            
+            <app loc="1">
+                <lem>kāñc<choice><orig>i</orig><reg>ī</reg></choice>°</lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01">kāñcī°</rdg>
+            </app>
+            <app loc="1">
+                <lem>°ba<supplied reason="lost">lā</supplied>°</lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01">°balā°</rdg>
+            </app>            
+            <app loc="2">
+                <lem>°taponidhe<unclear>r</unclear></lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01">°taponidher</rdg>
+            </app>
+            <app loc="3">
+                <lem>°prat<unclear>ā</unclear><choice><sic>t</sic><corr>p</corr></choice>o<lb n="1v4=4" break="no"/>panata°</lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01">pratā<unclear>p</unclear>o<lb n="1v4=4" break="no"/>panata°</rdg>
+            </app>
+            <app loc="5">
+                <lem>pravṛ<choice><sic>dh</sic><corr>ddh</corr></choice>a-<supplied reason="omitted">dha</supplied>rmma°</lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01">pravṛ<supplied reason="omitted">ddha</supplied>-dharmma°</rdg>
+            </app>
+            <app loc="8">
+                <lem>bhāradvāja°</lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01">bhāradvaja°</rdg>
+            </app>             
+            
             
             <app loc="10">
                 <lem>°vi<unclear>ṣṇ</unclear>u<supplied reason="lost">var</supplied>mmā</lem>
@@ -370,7 +388,7 @@
     <div type="bibliography">
         
         <p>Edited in <bibl><ptr target="bib:ParabrahmaSastry1977-1978_01"/></bibl> (EI 42.5), with visual documentation.</p>
-        <p>This revised edition by Emmanuel Francis, based on the published visual documentation. At places where the plates are severely damaged and hardly legible, we have opted for marking as unclear characters that <bibl><ptr target="bib:ParabrahmaSastry1977-1978_01"/></bibl> edits as clear, as one can guess them because of the formulaic character of this charter; most of the time we have not recorded these cases in the apparatus.</p>
+        <p>This revised edition by Emmanuel Francis, based on photos (2008, by Emmanuel Francis, by courtesy of Andhra Pradesh State Department of Archaeology and Museums; 2016, by Valérie Gillet).</p>
         
         <listBibl type="primary">
             
