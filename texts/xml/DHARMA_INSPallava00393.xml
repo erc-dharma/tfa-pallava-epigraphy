@@ -98,12 +98,13 @@
     </p>
     
     <p>
-        <gap reason="lost"/>
+        śrīma<choice><sic>te</sic><corr>t</corr></choice>-vijaya-kāñcī
+        <lb n="1v2=2" break="no"/>pur-ādhisṭhānā<choice><sic>ta</sic><corr>t</corr></choice>
         
         <list>            
             <item>
-                <lb n="1v2=2"/><gap reason="ellipsis"/>
-                <lb n="1v3=3"/><gap reason="ellipsis"/>
+                parama-brahmaṇyasya sva-bāhu-bal-ārjjit-orjjita-kṣatra
+                <lb n="1v3=3" break="no"/>-taponidh<choice><sic>ai</sic><corr>e</corr></choice>ḥ vidhi-vihita-sarvva-maryyādasya sthiti-sthitasya
                 <lb n="1v4=4"/>mahārājasya śrī-mahendravarmmaṇaḥ prapautro
             </item>
             
@@ -129,9 +130,8 @@
                 <lb n="3v2=13" break="no"/>hārāja-śrī-parameśvaravarmmā
             </item>
         </list>
-        
-        <gap reason="ellipsis"/>
-        <lb n="2v3=14"/>...
+        kṣīra-nadyā<supplied reason="omitted">ḥ</supplied> Uttara-taṭe bhūmi-rāṣṭre cuvviŪru-nāma-grāme
+        <lb n="2v3=14"/>yakān evam ājñāpayati<surplus>ḥ</surplus>
     </p>
     
     <p>
@@ -150,7 +150,11 @@
         <lb n="3r3=20"/>...
         <lb n="3r4=21"/>...
         <lb n="3r5=22"/>...
-        <lb n="3r6=23"/>... 
+        <lb n="3r6=23"/>...
+    </p>
+    
+    <p>
+        ...
         <pb n="3v" break="no"/>
         <lb n="3v1=24"/>...
         <lb n="3v2=25"/>...
@@ -166,34 +170,34 @@
     </p>        
                 
         <lg n="1" met="anuṣṭubh">
-        <l n="a">...</l>
+        <l n="a">... <lb n="3v4=27"/>...</l>
         <l n="b">...</l>
         <l n="c">...</l>
-        <l n="d">...</l>
+        <l n="d">... <lb n="3v5=28"/>...</l>
     </lg>   
     
     <lg n="2" met="anuṣṭubh">
         <l n="a">...</l>
         <l n="b">...</l>
-        <l n="c">...</l>
+        <l n="c">...<pb n="4r" break="no"/><lb n="4r1=29"/></l>
         <l n="d">...</l>
     </lg>    
     
     <lg n="3" met="anuṣṭubh">
-        <l n="a">...</l>
+        <l n="a">... <lb n="4r2=30"/>...</l>
         <l n="b">...</l>
-        <l n="c">... <pb n="4r" break="no"/>...</l>
-        <l n="d">...</l>
+        <l n="c">...</l>
+        <l n="d"><lb n="4r3=31"/>...</l>
     </lg>    
     
     <p>
-        ...
-        <lb n="4r3=31"/>...
-        <lb n="4r4=32"/>...
+        pravarddhamāna-vijaya-rājya-saṃ
+        <lb n="4r4=32" break="no"/>vatsare navame budha-divase ...
         <pb n="4v" break="no"/>
         <lb n="4v1=33" break="no"/>...
     </p>
     <p>
+        diśi diśi
         <lb n="4v2=34"/>...        
         <lb n="4v3=35"/>...
         <lb n="4v4=36"/>...
@@ -203,7 +207,15 @@
     </p>
     <p>
         <lb n="5r3=39"/>...
+    </p>
+    
+    <p>
+        ...
         <lb n="5r4=40"/>...        
+    </p>
+    
+    <p>
+        ...
     </p>
     
     <pb n="5v"/>
@@ -211,7 +223,7 @@
 
 </div>
 
-<!--<div type="apparatus">
+<div type="apparatus">
         
     <div type="textpart" n="B">
         
@@ -219,23 +231,29 @@
         
         <listApp>            
             
-            <!-\-<app loc="0">
+            <!--<app loc="0">
                 <lem>...</lem>
                 <rdg source="bib:Visweswara1987_01">...</rdg>
                 <rdg source="bib:Dayalan2005_01">...</rdg>
                 <note>...</note>
-            </app>-\->
+            </app>-->
+            
+            <app loc="3">
+                <lem>°maryyādasya</lem>
+                <rdg source="bib:Visweswara1987_01 bib:Dayalan2005_01">°maryādasya</rdg>
+            </app>
             
         </listApp>
         
     </div>
 	
-</div>-->
+</div>
 
 <div type="translation" resp="part:emfr">
 
-    <p n="1"><gap reason="lost"/></p>
-    <p n="1"><supplied reason="lost">From</supplied> <gap reason="lost"/>:</p>
+    <p n="1v, lm">Prosperity!</p>
+    <p n="1">Mahāviṣṇu, the lord of the triple world, is victorious</p>
+    <p n="1">From the glorious and victorious residence of Kāñcīpura:</p>
     
     <p n="1-14">
         <list>
@@ -249,10 +267,10 @@
                 son of ...
             </item>
             <item>
-               the glorious Viṣṇugopavarman ...
+               the glorious Parameśvaravarman
             </item>
         </list>
-        ...
+        orders so the residents of the village named Cuvviūru in the Bhūmirāṣṭra on the northern bank of the Kṣīra river:
     </p>
         
     <p n="14-19">
