@@ -122,11 +122,11 @@
         
     </p> 
     
-    <lg n="23" met="uncertain">
-        <l n="a">...</l>
-        <l n="b">...</l>
-        <l n="c">...</l>
-        <l n="d">...</l>
+    <lg n="23" met="indravajrā">
+        <l n="a">Asyā<supplied reason="omitted">ḥ</supplied> praśaster avat <seg met="-+-+="><gap reason="lost" unit="character" quantity="4"/></seg></l>
+        <l n="b"><seg met="++-++--+-+="><gap reason="lost" unit="character" quantity="11"/></seg></l>
+        <l n="c">somaś ca yasyās sahavāsa-bandhus </l>
+        <l n="d">tra<unclear>ya</unclear> <seg met="-++--+-+="><gap reason="lost" unit="character" quantity="9"/></seg></l>
     </lg>
     
     <lg n="24" met="anuṣṭubh">
@@ -180,9 +180,16 @@
             </app>
             -->
             
-             <app loc="91-92">
+            
+             <app loc="89">
+                <lem>avat</lem>
+                <rdg source="bib:Hultzsch1890_01">ava<unclear>tā</unclear></rdg>                
+                <rdg source="bib:Brocquet1997_01">va<unclear>tā</unclear></rdg>
+            </app>
+            
+            <app loc="91-92">
                 <lem><supplied reason="lost">brahma ... yathā</supplied></lem>
-                <note>Text restored after stanza 33 in Sircar’s list (<ptr target="bib:Sircar1965_01"/>, p. 181).</note>
+                <note>Text restored after stanza 33 in Sircar’s list (<bibl><ptr target="bib:Sircar1965_01"/></bibl>, p. 181).</note>
              </app>
                         
         </listApp>
@@ -202,13 +209,19 @@
         <l>...</l>
     </p>
     <p rend="stanza" n="25">
-        <l>O king, the mounts <supplied reason="omitted">accrued from the wealth of brahmins crumble</supplied> in time of war, <supplied reason="omitted">like dams made of  sand</supplied>.</l>
+        <l>O king, the mounts</l>
+        <l><supplied reason="lost">accrued from the wealth of brahmins</supplied></l>
+        <l><supplied reason="lost">crumble</supplied> in time of war</l>
+        <l><supplied reason="lost">like dams/bridges made of sand</supplied>.</l>
     </p>
     <p rend="stanza" n="26">
         <l>...</l>
     </p>
     <p rend="stanza" n="27">
-        <l>...</l>
+        <l>A gift superior to the gift of land</l>
+        <l>There has not been and there won’t be.</l>
+        <l><supplied reason="lost">Therefore a sin <supplied reason="subaudible">superior</supplied> to seizing it</supplied></l>
+        <l>There has not been and there won’t be.</l>
     </p>
       
 </div>
@@ -238,7 +251,7 @@
         
         <bibl n="B">
             <ptr target="bib:Brocquet1997_01"/>
-            <citedRange unit="page">TBC</citedRange>
+            <citedRange unit="page">512-531</citedRange>
             <citedRange unit="item">37</citedRange>
         </bibl>
         
