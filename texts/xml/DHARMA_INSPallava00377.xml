@@ -135,19 +135,63 @@
     
     <p>
         
-        tad yathā karmmarāṣṭre ka
-        <lb n="2v3=11" break="no"/>ligoṇḍa-nāma-grāma-vīri-grāma-pa<choice><orig>te</orig><reg>thaḥ</reg></choice> pūrvvataḥ cuṇoprāḷu-grāma-sī<choice><orig>nm</orig><reg>mn</reg></choice>a
-        <lb n="2v4=12"/><choice><sic>pu</sic><corr>U</corr></choice>ttarataḥ koṇḍamujunūru-grāma-pa<choice><orig>te</orig><reg>thaḥ</reg></choice> paścimataḥ sarppāḷa<unclear reason="eccentric_ductus">ya</unclear>-dakṣiṇata
-        <pb n="3r"/>
-        <lb n="3r1=13"/>Eta<supplied reason="omitted">c</supplied> catur-avadhi-dakṣiṇa-sukṣetre doṇāvadi-grāma-sī<choice><orig>nm</orig><reg>mn</reg></choice>aḥ paścimataḥ cuṇoḷū
-        <lb n="3r2=14" break="no"/>prāḷu-grāma-s<choice><orig>i</orig><reg>ī</reg></choice><choice><orig>nm</orig><reg>mn</reg></choice>aḥ Uttara<supplied reason="lost">taḥ</supplied> sarppagṛh<choice><orig>e</orig><reg>a</reg></choice>-pūrvvataḥ vṛ<choice><orig>dh</orig><reg>ddh</reg></choice>a-taṭāka-dakṣiṇata Eta<supplied reason="omitted">c</supplied>
-        <lb n="3r3=15" break="no"/>catur-avadh<choice><orig>ī</orig><reg>i</reg></choice>-dakṣiṇa-pūrvve sukṣetre sarppagṛh<choice><orig>e</orig><reg>a</reg></choice>-pūrvvataḥ mahiṣaśira-grām<choice><orig>e</orig><reg>a</reg></choice>
-        <lb n="3r4=16" break="no"/>-s<choice><orig>i</orig><reg>ī</reg></choice><choice><orig>nm</orig><reg>mn</reg></choice>a<unclear>ḥ</unclear> dakṣiṇata<supplied reason="omitted">ḥ</supplied> pullaḷūru-grām<choice><orig>e</orig><reg>a</reg></choice>-s<choice><orig>i</orig><reg>ī</reg></choice><choice><orig>nm</orig><reg>mn</reg></choice>aḥ paścimata<supplied reason="omitted">ḥ</supplied> kaṃsāri-taṭāka<supplied reason="omitted">sya</supplied> Uttararataḥ
+        tad yathā karmmarāṣṭre
+       <list>
+           <item>
+               ka
+               <lb n="2v3=11" break="no"/>ligoṇḍa-nāma-grāma-vīri-grāma-pa<choice><orig>te</orig><reg>thaḥ</reg></choice> pūrvvataḥ
+           </item>
+           <item>
+               cuṇoprāḷu-grāma-sī<choice><sic>nm</sic><corr>mn</corr></choice>a
+               <lb n="2v4=12"/><choice><sic>pu</sic><corr>U</corr></choice>ttarataḥ
+           </item>
+           <item>
+               koṇḍamujunūru-grāma-pa<choice><orig>te</orig><reg>thaḥ</reg></choice> paścimataḥ
+           </item>
+           <item>
+               sarppāḷa<unclear reason="eccentric_ductus">ya</unclear>-dakṣiṇata
+           </item>
+       </list>
+           <pb n="3r"/>
+           <lb n="3r1=13"/>Eta<supplied reason="omitted">c</supplied> catur-avadhi-dakṣiṇa-sukṣetre
+        
+        <list>
+            <item>
+                doṇāvadi-grāma-sī<choice><sic>nm</sic><corr>mn</corr></choice>aḥ paścimataḥ
+            </item>
+            <item>
+                cuṇoḷū
+                <lb n="3r2=14" break="no"/>prāḷu-grāma-s<choice><orig>i</orig><reg>ī</reg></choice><choice><sic>nm</sic><corr>mn</corr></choice>aḥ Uttara<supplied reason="lost">taḥ</supplied>
+            </item>
+            <item>
+                sarppagṛh<choice><orig>e</orig><reg>a</reg></choice>-pūrvvataḥ
+            </item>
+            <item>
+                vṛ<choice><orig>dh</orig><reg>ddh</reg></choice>a-taṭāka-dakṣiṇata</item>
+        </list>
+        
+        Eta<supplied reason="omitted">c</supplied>
+        <lb n="3r3=15" break="no"/>catur-avadh<choice><orig>ī</orig><reg>i</reg></choice>-dakṣiṇa-pūrvve sukṣetre
+        
+        <list>
+            <item>
+                sarppagṛh<choice><orig>e</orig><reg>a</reg></choice>-pūrvvataḥ
+            </item>
+            <item>
+                mahiṣaśira-grām<choice><orig>e</orig><reg>a</reg></choice>
+                <lb n="3r4=16" break="no"/>-s<choice><orig>i</orig><reg>ī</reg></choice><choice><sic>nm</sic><corr>mn</corr></choice>a<unclear>ḥ</unclear> dakṣiṇata<supplied reason="omitted">ḥ</supplied>
+            </item>
+            <item>
+                pullaḷūru-grām<choice><orig>e</orig><reg>a</reg></choice>-s<choice><orig>i</orig><reg>ī</reg></choice><choice><sic>nm</sic><corr>mn</corr></choice>aḥ paścimata<supplied reason="omitted">ḥ</supplied>
+            </item>
+            <item>
+                kaṃsāri-taṭāka<supplied reason="omitted">sya</supplied> Uttararataḥ
+            </item>
+        </list>
         
         <pb n="3v"/>
         <lb n="3v1=17"/>Eta<supplied reason="omitted">c</supplied> catur-avadh<choice><orig>ī</orig><reg>i</reg></choice>-pūrvvottare sukṣetre trai-bhūmyā<unclear>ṃ</unclear> cauṣaṣṭi nivarttanāni kāśy<choice><sic>ā</sic><corr>a</corr></choice>
-        <lb n="3v2=18" break="no"/>pa-gotrāya Isara-<choice><sic>s</sic><corr>ś</corr></choice>armmaṇ<unclear>e</unclear> dattavāN
-        
+        <lb n="3v2=18" break="no"/>pa-gotrāya Isara-<choice><sic>s</sic><corr>ś</corr></choice>armmaṇ<unclear>e</unclear> dattavāN        
     </p>
     
     <p>        
@@ -156,7 +200,7 @@
     </p>
     
     <p>
-        tad avagamya rājavalla<choice><sic>v</sic><corr>bh</corr></choice>a-naiyogika-gopāla-vatsapāla-sañcara
+        tad avagamya rāja-valla<choice><sic>v</sic><corr>bh</corr></choice>a-naiyogika-gopāla-vatsapāla-sañcara
         <lb n="3v4=20" break="no"/>ntakā<supplied reason="omitted">ḥ</supplied> parih<choice><sic>a</sic><corr>ā</corr></choice>rai<supplied reason="omitted">ḥ</supplied> pa<supplied reason="omitted">ri</supplied>ha<supplied reason="omitted">ra</supplied>ntu parihārayantu ca
     </p>
     
@@ -175,32 +219,28 @@
         <l n="b">na bhūtaṃ na bhaviṣyati</l>
         <l n="c">tasyaiva haraṇ<choice><sic>a</sic><corr>ā</corr></choice>t pāpaṃ</l>
         <l n="d">na bhūtaṃ na bhaviṣya<lb n="4r3=23" break="no"/>ti <g type="ddanda">.</g></l>
-    </lg>    
-    
+    </lg>
     
     <lg n="2" met="anuṣṭubh">
         <l n="a">bahu<surplus>r</surplus>bhi<supplied reason="omitted">r v</supplied>vasudhā datt<choice><sic>a</sic><corr>ā</corr></choice></l>
         <l n="b">bahubhiś cānupālitā</l>
         <l n="c">yasya yasya ya<lb n="4r4=24" break="no"/>dā bhūmi<supplied reason="omitted">s</supplied></l>
         <l n="d">tasya tasya tadā <choice><sic>p</sic><corr>ph</corr></choice>ala<supplied reason="omitted">ṃ</supplied> <g type="ddanda">.</g></l>
-    </lg> 
-    
+    </lg>
     
     <lg n="3" met="anuṣṭubh">
         <l n="a">svadatt<choice><sic>a</sic><corr>ā</corr></choice><supplied reason="omitted">ṃ</supplied> paradatt<choice><sic>a</sic><corr>ā</corr></choice><choice><sic>ṇ</sic><corr>ṃ</corr></choice> v<choice><sic>a</sic><corr>ā</corr></choice></l>
         <l n="b">yo hareta <pb n="4v"/><lb n="4v1=25"/>vasundharā<supplied reason="omitted">ṃ</supplied></l>
         <l n="c">g<choice><sic>ā</sic><corr>a</corr></choice>vāṃ śata-sahasrasya</l>
         <l n="d">hantuḫ pibati kil<choice><orig>v</orig><reg>b</reg></choice>iṣa<unclear>M</unclear></l>
-    </lg>    
-    
+    </lg>
     
     <lg n="4" met="anuṣṭubh">
         <l n="a">brahma<lb n="4v2=26" break="no"/>-svan tu viṣa<supplied reason="omitted">ṃ</supplied> ghoraṃ</l>
         <l n="b">na viṣaṃ viṣam ucyate</l>
         <l n="c">viṣam ekākinaṃ hant<choice><sic>u</sic><corr>i</corr></choice></l>
         <l n="d"><lb n="4v3=27"/>brahmasva<supplied reason="omitted">ṃ</supplied> putra-pautrika<choice><orig>ṃ</orig><reg>m</reg></choice></l>
-    </lg>    
-    
+    </lg>
     
     <lg n="5" met="anuṣṭubh">
         <l n="a">kāñcīpurādhip<choice><sic>o</sic><corr>ena</corr></choice> datta<unclear>M</unclear></l>
@@ -267,11 +307,20 @@
             <app loc="8">
                 <lem>bhāradvāja°</lem>
                 <rdg source="bib:ParabrahmaSastry1977-1978_01">bhāradvaja°</rdg>
-            </app>             
+            </app>
             
+            <app loc="9">
+                <lem>°<supplied reason="omitted">kā</supplied>śvame<choice><sic>th</sic><corr>dh</corr></choice>ānāṃ</lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01">°<supplied reason="omitted">kā</supplied>śvamedhānāṃ</rdg>
+            </app>
+             
+            <app loc="9">
+                <lem>pallav<choice><sic>a</sic><corr>ā</corr></choice>n<choice><sic>a</sic><corr>ā</corr></choice>ṃ</lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01">pallav<choice><sic>a</sic><corr>ā</corr></choice>n<choice><sic>am</sic><corr>ām</corr></choice></rdg>
+            </app>
             
             <app loc="10">
-                <lem>°vi<unclear>ṣṇ</unclear>u<supplied reason="lost">var</supplied>mmā</lem>
+                <lem>°viṣṇuvarmmā</lem>
                 <rdg source="bib:ParabrahmaSastry1977-1978_01">°viṣṇuvar<choice><sic>mma</sic><corr>mā</corr></choice></rdg>
             </app>
             
@@ -279,22 +328,97 @@
                 <lem><choice><sic>a</sic><corr>ā</corr></choice>jñāpayati</lem>
                 <rdg source="bib:ParabrahmaSastry1977-1978_01"><choice><sic>a</sic><corr>ā</corr></choice>jñapayati</rdg>
             </app>
-            
+             
+            <app loc="11">
+                <lem>cuṇoprāḷu°</lem>
+                <note>Emend to <foreign>cuṇolūprāḷu</foreign> (see line 13)?</note>
+            </app>
+             
+            <app loc="14">
+                <lem>s<choice><orig>i</orig><reg>ī</reg></choice><choice><sic>nm</sic><corr>mn</corr></choice>aḥ</lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01">sī<choice><sic>nm</sic><corr>mn</corr></choice>aḥ</rdg>
+            </app>
+             
+            <app loc="15">
+                <lem>°avadh<choice><orig>ī</orig><reg>i</reg></choice>°</lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01">°avadhi°</rdg>
+            </app>
+             
+            <app loc="16">
+                <lem>s<choice><orig>i</orig><reg>ī</reg></choice><choice><sic>nm</sic><corr>mn</corr></choice>a<unclear>ḥ</unclear></lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01">sī<choice><sic>nm</sic><corr>mn</corr></choice>a<unclear>ḥ</unclear></rdg>
+            </app>
+             
+            <app loc="17">
+                <lem>°avadh<choice><orig>ī</orig><reg>i</reg></choice>°</lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01">°avadhi°</rdg>
+            </app>
+             
+            <app loc="17">
+                <lem>°pūrvvottare</lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01">°pūr<choice><sic>v</sic><corr>vv</corr></choice>ottare</rdg>
+            </app>
+             
+            <app loc="19">
+                <lem>rāja-valla<choice><sic>v</sic><corr>bh</corr></choice>a°</lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01">rā<unclear>ja-va</unclear>lla<choice><sic>v</sic><corr>bh</corr></choice>a</rdg>
+            </app>
+             
+            <app loc="21">
+                <lem>śār<unclear>ī</unclear>raṃ</lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01">śārīraṃ</rdg>
+            </app>
+             
+            <app loc="21">
+                <lem><choice><sic>śu</sic><corr>ślo</corr></choice><choice><sic>kl</sic><corr>k</corr></choice>āḥ</lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01"><choice><sic>śu</sic><corr>ślo</corr></choice>kāḥ</rdg>
+            </app>
+             
             <app loc="24">
-                <lem><choice><sic>p</sic><corr>ph</corr></choice>ala<unclear>ṃ</unclear></lem>
+                <lem><choice><sic>p</sic><corr>ph</corr></choice>ala<supplied reason="omitted">ṃ</supplied></lem>
                 <rdg source="bib:ParabrahmaSastry1977-1978_01"><choice><sic>p</sic><corr>ph</corr></choice>ala<unclear>m</unclear></rdg>
-            </app>                        
+            </app>
+             
+            <app loc="25">
+                <lem>kil<choice><orig>v</orig><reg>b</reg></choice>iṣa<unclear>M</unclear></lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01">kilbiṣam</rdg>
+            </app>
+             
+            <app loc="26">
+                <lem>ekākinaṃ</lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01">ekākina<supplied reason="omitted">ṃ</supplied></rdg>
+            </app>
+             
+            <app loc="27">
+                <lem>datta<unclear>M</unclear></lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01">dattaṃ</rdg>
+            </app>
                   
             <app loc="28">
                 <lem>°pallava<supplied reason="omitted">ḥ</supplied></lem>
                 <rdg source="bib:ParabrahmaSastry1977-1978_01">°pallava</rdg>
+            </app>
+             
+            <app loc="29">
+                <lem>°da<unclear>śe</unclear></lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01">°daśe</rdg>
             </app>
             
             <app loc="31">
                 <lem>lāḍa°</lem>
                 <rdg source="bib:ParabrahmaSastry1977-1978_01">lā<unclear>ḍa</unclear></rdg>
             </app>
-       
+            
+            <app loc="31">
+                <lem>rudraśarmm<choice><sic>ā</sic><corr>a</corr></choice>ṇ<choice><sic>a</sic><corr>ā</corr></choice></lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01">rudraśarmm<choice><sic>e</sic><corr>a</corr></choice>ṇ<choice><sic>a</sic><corr>ā</corr></choice></rdg>
+            </app>
+             
+            <app loc="31">
+                <lem><choice><sic>s</sic><corr>ś</corr></choice>ā<choice><sic>ś</sic><corr>s</corr></choice>anaṃ Ācandra°</lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01"><choice><sic>s</sic><corr>ś</corr></choice>ā<choice><sic>ś</sic><corr>s</corr></choice>anam ācandra°</rdg>
+            </app>
+            
         </listApp>
         
     </div>
