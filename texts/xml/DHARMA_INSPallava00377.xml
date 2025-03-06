@@ -229,7 +229,7 @@
     </lg>
     
     <lg n="3" met="anuṣṭubh">
-        <l n="a">svadatt<choice><sic>a</sic><corr>ā</corr></choice><supplied reason="omitted">ṃ</supplied> paradatt<choice><sic>a</sic><corr>ā</corr></choice><choice><sic>ṇ</sic><corr>ṃ</corr></choice> v<choice><sic>a</sic><corr>ā</corr></choice></l>
+        <l n="a">sva-datt<choice><sic>a</sic><corr>ā</corr></choice><supplied reason="omitted">ṃ</supplied> para-datt<choice><sic>a</sic><corr>ā</corr></choice><choice><sic>ṇ</sic><corr>ṃ</corr></choice> v<choice><sic>a</sic><corr>ā</corr></choice></l>
         <l n="b">yo hareta <pb n="4v"/><lb n="4v1=25"/>vasundharā<supplied reason="omitted">ṃ</supplied></l>
         <l n="c">g<choice><sic>ā</sic><corr>a</corr></choice>vāṃ śata-sahasrasya</l>
         <l n="d">hantuḫ pibati kil<choice><orig>v</orig><reg>b</reg></choice>iṣa<unclear>M</unclear></l>
@@ -239,14 +239,14 @@
         <l n="a">brahma<lb n="4v2=26" break="no"/>-svan tu viṣa<supplied reason="omitted">ṃ</supplied> ghoraṃ</l>
         <l n="b">na viṣaṃ viṣam ucyate</l>
         <l n="c">viṣam ekākinaṃ hant<choice><sic>u</sic><corr>i</corr></choice></l>
-        <l n="d"><lb n="4v3=27"/>brahmasva<supplied reason="omitted">ṃ</supplied> putra-pautrika<choice><orig>ṃ</orig><reg>m</reg></choice></l>
+        <l n="d"><lb n="4v3=27"/>brahma-sva<supplied reason="omitted">ṃ</supplied> putra-pautrika<choice><orig>ṃ</orig><reg>m</reg></choice></l>
     </lg>
     
     <lg n="5" met="anuṣṭubh">
         <l n="a">kāñcīpurādhip<choice><sic>o</sic><corr>ena</corr></choice> datta<unclear>M</unclear></l>
         <l n="b">bhaktena brāhma<lb n="4v4=28" break="no"/>ṇāya ca</l>
-        <l n="c">rakṣaṇārtthaṃ y<choice><sic>ā</sic><corr>a</corr></choice>dā bhūmi-</l>
-        <l n="d">vallabha-pallava<supplied reason="omitted">ḥ</supplied> sadā <unclear><g type="ddanda">.</g></unclear></l>
+        <l n="c" enjamb="yes">rakṣaṇārtthaṃ y<choice><sic>ā</sic><corr>a</corr></choice>dā bhūmi</l>
+        <l n="d">-vallabha-pallava<supplied reason="omitted">ḥ</supplied> sadā <unclear><g type="ddanda">.</g></unclear></l>
     </lg>    
     
     <p>
@@ -403,6 +403,12 @@
             <app loc="28">
                 <lem>°pallava<supplied reason="omitted">ḥ</supplied></lem>
                 <rdg source="bib:ParabrahmaSastry1977-1978_01">°pallava</rdg>
+            </app>            
+            
+            <app loc="28">
+                <lem>sadā</lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01"/>
+                <note>Maybe emend to <foreign>tādā</foreign>.</note>
             </app>
              
             <app loc="29">
@@ -508,18 +514,24 @@
     </p>
         
     <p rend="stanza" n="2">
-        <l>The earth has been given by many</l>
-        <l>and by many it has been protected.</l>
-        <l>...</l>
-        <l>...</l>        
+        <l>Land has been given by many</l>
+        <l>And by many it has been protected.</l>
+        <l>Whoever owns a land at a given moment, </l>
+        <l>To him does the fruit then belong.</l>        
     </p>
         
     <p rend="stanza" n="3">
-        <l>...</l>
+        <l>Who seizes land</l>        
+        <l>Given by oneself or given by another,</l>
+        <l>Drinks the sin of killing</l>
+        <l>One hundred thousand cows.</l>
     </p>
         
     <p rend="stanza" n="4">
-        <l>...</l>
+        <l>The property of a Brahmin is indeed a terrible poison.</l>
+        <l>It is not poison ...</l>
+        <l>Poison kills a single person.</l>
+        <l>The property of a Brahmin <supplied reason="subaudible">also</supplied> kills the son and the grandson.</l>
     </p>
         
     <p rend="stanza" n="5">
