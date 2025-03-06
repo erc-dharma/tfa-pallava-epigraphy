@@ -153,7 +153,7 @@
            </item>
        </list>
            <pb n="3r"/>
-           <lb n="3r1=13"/>Eta<supplied reason="omitted">c</supplied> catur-avadhi-dakṣiṇa-sukṣetre
+           <lb n="3r1=13"/>Eta<supplied reason="omitted">c</supplied> catur-avadhi-dakṣiṇ<choice><sic>a </sic><corr>e</corr></choice> sukṣetre
         
         <list>
             <item>
@@ -279,7 +279,7 @@
                 <note>...</note>
             </app>
             -->
-            
+                        
             <app loc="1">
                 <lem>jitaṃ</lem>
                 <rdg source="bib:ParabrahmaSastry1977-1978_01">jitam</rdg>
@@ -333,12 +333,18 @@
                 <lem>cuṇoprāḷu°</lem>
                 <note>Emend to <foreign>cuṇolūprāḷu</foreign> (see line 13)?</note>
             </app>
+            
+            <app loc="13">
+                <lem>dakṣiṇ<choice><sic>a </sic><corr>e</corr></choice> sukṣetre</lem>
+                <rdg source="bib:ParabrahmaSastry1977-1978_01">dakṣiṇa-sukṣetre</rdg>
+                <note>...</note>
+            </app>
              
             <app loc="14">
                 <lem>s<choice><orig>i</orig><reg>ī</reg></choice><choice><sic>nm</sic><corr>mn</corr></choice>aḥ</lem>
                 <rdg source="bib:ParabrahmaSastry1977-1978_01">sī<choice><sic>nm</sic><corr>mn</corr></choice>aḥ</rdg>
             </app>
-             
+
             <app loc="15">
                 <lem>°avadh<choice><orig>ī</orig><reg>i</reg></choice>°</lem>
                 <rdg source="bib:ParabrahmaSastry1977-1978_01">°avadhi°</rdg>
@@ -449,7 +455,33 @@
     </p>
         
     <p n="10-18">
-       He gave to Īśvaraśarman of the <foreign>kāsyapagotra</foreign> sixty-four <foreign>nivartana</foreign>s...
+        This thus in the Karmmarāṣṭra,
+        
+        <list>
+            <item>east of ...</item>            
+            <item>north of ...</item>
+            <item>west of ...</item>
+            <item>south of ...</item>
+        </list>
+        in the good field south within these four boundaries
+        
+        <list>
+            <item>east of ...</item>            
+            <item>north of ...</item>
+            <item>west of ...</item>
+            <item>south of ...</item>
+        </list>
+        in the good field south(est within these four boundaries
+        
+        <list>
+            <item>east of ...</item>            
+            <item>north of ...</item>
+            <item>west of ...</item>
+            <item>south of ...</item>
+        </list>
+        in the good field north-east within these four boundaries,
+        from <supplied reason="subaudible">these</supplied> three land plots,
+        he gave to Īśvaraśarman of the <foreign>kāsyapagotra</foreign> sixty-four <foreign>nivartana</foreign>s.
     </p>
     
     <p n="18-19">
