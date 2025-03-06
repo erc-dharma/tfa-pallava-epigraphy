@@ -132,7 +132,7 @@
     <lg n="24" met="anuṣṭubh">
         <l n="a"><seg met="===="><gap reason="lost" unit="character" quantity="4"/></seg>hma-dattañ ca</l>
         <l n="b">dvidhā bhaktiñ ca pātu yaḥ</l>
-        <l n="c">mac-chiram ma<seg met="-++="><gap reason="lost" unit="character" quantity="4"/></seg></l>
+        <l n="c">mac-chiram ma <seg met="-++="><gap reason="lost" unit="character" quantity="4"/></seg></l>
         <l n="d"><seg met="====-+-="><gap reason="lost" unit="character" quantity="8"/></seg></l>
     </lg>
     
@@ -144,7 +144,7 @@
     </lg>
     
     <lg n="26" met="anuṣṭubh">
-        <l n="a"><lb n="7v5=93" break="no"/>deva-svam br<choice><sic>a</sic><corr>ā</corr></choice>hmaṇa-svañ ca</l>
+        <l n="a"><lb n="7v5=93"/>deva-svam br<choice><sic>a</sic><corr>ā</corr></choice>hmaṇa-svañ ca</l>
         <l n="b">lobhenopahin asti <unclear>ya</unclear><supplied reason="omitted">ḥ</supplied></l>
         <l n="c"><seg met="====-++="><gap reason="lost" unit="character" quantity="8"/></seg></l>
         <l n="d"><seg met="=="><gap reason="lost" unit="character" quantity="2"/></seg> <lb n="7v6=94" break="no"/>cchiṣṭena jīvati <g type="gomutraFinal">.</g></l>
