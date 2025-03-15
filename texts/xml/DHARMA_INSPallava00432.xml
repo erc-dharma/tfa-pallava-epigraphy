@@ -86,7 +86,7 @@
         <lb n="1"/><hi rend="grantha">śrī</hi>-kō-vicai<supplied reason="omitted">ya</supplied>-nanti-vi<supplied reason="omitted">k</supplied>kira
         <lb n="2" break="no"/>ma-paruma<choice><orig>r</orig><reg>ṟ</reg></choice>ku yāṇṭu Ēḻu
         <lb n="3" break="no"/>patt’ ē<choice><sic>ḻḻ</sic><corr>ḻ</corr></choice>-āvatiṉ pala
-        <lb n="4" break="no"/>n <seg rend="check">Imu</seg>ri ceykai
+        <lb n="4" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice> <seg rend="check"><choice><unclear>I</unclear><unclear>pi</unclear></choice>mu</seg>ri ceykai
     </p>
     
 </div>
@@ -95,9 +95,22 @@
         
     <listApp>
         
+        <app loc="1">
+            <lem>°vicai<supplied reason="omitted">ya</supplied>°</lem>
+            <rdg source="bib:MankaiRakavan2002_01">°vicai°</rdg>
+            <rdg source="bib:Pankaj2019_01">°vicaiya°</rdg>
+        </app>
+        
         <app loc="2">
             <lem>Ēḻu<lb n="3" break="no"/>patt’ ē<choice><sic>ḻḻ</sic><corr>ḻ</corr></choice>āvatiṉ</lem>
             <rdg source="bib:MankaiRakavan2002_01"><unclear>E</unclear>mu<lb n="3" break="no"/>pattēḻḻāvatiṉ</rdg>
+            <rdg source="bib:Pankaj2019_01">Eḻu<lb n="3" break="no"/>pattēḻḻāvatiṉ</rdg>
+        </app>
+        
+        <app loc="4">
+            <lem><choice><unclear>I</unclear><unclear>pi</unclear></choice>muri</lem>
+            <rdg source="bib:MankaiRakavan2002_01">Imuri</rdg>            
+            <rdg source="bib:Pankaj2019_01">pimūri</rdg>
         </app>
         
     </listApp>
@@ -120,14 +133,18 @@
     
 <div type="bibliography">
         
-    <p>Edited in <bibl><ptr target="bib:MankaiRakavan2002_01"/></bibl> (Āvaṇam 13.4.1).</p>
-    <p>This revised edition by Emmanuel Francis, based on a photo by Kaṇṇaṉ Veṅkaṭēcaṉ, kindly provided by Centamiḻ Celvaṉ. Thanks to Centamiḻ Celvaṉ for pointing out the existence of this inscription.</p>
+    <p>Edited in <bibl><ptr target="bib:MankaiRakavan2002_01"/></bibl> (Āvaṇam 13.4.1), in <ptr target="bib:Pankaj2019_01"/>.</p>
+    <p>This revised edition by Emmanuel Francis, based on online photos in <ptr target="bib:Pankaj2019_01"/>. Thanks to Centamiḻ Celvaṉ for pointing out the existence of this inscription and its online photos.</p>
     
         <listBibl type="primary">
             
             <bibl n="MR">
                 <ptr target="bib:MankaiRakavan2002_01"/>
                 <citedRange unit="item">4:1</citedRange>
+            </bibl>
+            
+            <bibl n="P">
+                <ptr target="bib:Pankaj2019_01"/>
             </bibl>
             
         </listBibl>
