@@ -228,19 +228,19 @@
 	    <!--
 		<app loc="0">
 			<lem>...</lem>
-			<rdg source="bib:Ramesan1962_04">...</rdg>			
+			<rdg source="bib:Ramesan1962_01">...</rdg>			
 		</app>
 	    -->
 	    
 	    <app loc="13">
 	        <lem>°lobha-moha-bhayaḥ</lem>
-	        <rdg source="bib:Ramesan1962_04"/>
+	        <rdg source="bib:Ramesan1962_01"/>
 	        <rdg source="bib:Mahalingam1988_01 bib:Brocquet1997_01">°lobhaḥ</rdg>			
 	    </app>
 	    
 	    <app loc="16">
 	        <lem>Anekāśvamedhāvabhṛ<choice><sic>dh</sic><corr>t</corr></choice>a°</lem>
-	        <rdg source="bib:Ramesan1962_04">nekāśvamedhāvabhṛtha°</rdg>			
+	        <rdg source="bib:Ramesan1962_01">nekāśvamedhāvabhṛtha°</rdg>			
 	    </app>
 		
 	</listApp>
@@ -318,14 +318,17 @@
 <div type="commentary"/>
 
 <div type="bibliography">
-	<p>Edited in <bibl><ptr target="bib:Ramesan1962_04"/></bibl>, with visual documentation. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 8). Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 5).</p>
+	<p>Edited in <bibl><ptr target="bib:Ramesan1962_01"/></bibl>, with visual documentation. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 8). Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 5).</p>
 	<p>This revised edition by Emmanuel Francis, based on the published visual documentation.</p>
 
             <listBibl type="primary">
 
-            	<bibl n="R">
-            		<ptr target="bib:Ramesan1962_04"/>
-            		<citedRange unit="page">211-238</citedRange>
+            	<bibl n="R1">
+            		<ptr target="bib:Ramesan1962_01"/>
+            	</bibl>
+                
+                <bibl n="R2">
+            		<ptr target="bib:Ramesan1962_03"/>
             	</bibl>
 
             	<bibl n="IP">
