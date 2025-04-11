@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nākapuram, village boundary stone</title>
+                <title>Nākapuram, rock inscription no. 1</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Rock inscription. <bibl><ptr target="bib:ARIE1924-1925"/></bibl>: <quote>On a rock in a field (survey No. 98) at Nagapuram, hamlet of the same village [Vadasiruvalur Tindivanam taluk, South Arcot district]. Written in characters of the 8th century A.D. States that this is the boundary of Nāgapuram as determined by Pagāppiḍugu.</quote></summary>
+                        <summary>Rock inscription. Village boundary mark. <bibl><ptr target="bib:ARIE1924-1925"/></bibl>: <quote>On a rock in a field (survey No. 98) at Nagapuram, hamlet of the same village [Vadasiruvalur Tindivanam taluk, South Arcot district]. Written in characters of the 8th century A.D. States that this is the boundary of Nāgapuram as determined by Pagāppiḍugu.</quote></summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
