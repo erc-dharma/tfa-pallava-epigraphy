@@ -45,7 +45,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>See <bibl><ptr target="bib:Buehler1892_01"
+							<p>See <bibl><ptr target="bib:Buhler1892_01"
 								/></bibl> (EI 1.1, p. 2).</p>
 						</handDesc>
 					</physDesc>
@@ -264,8 +264,8 @@
 			
 			<app loc="1">				
 				<lem><supplied reason="lost">śivaskandavarmmaṇaḥ</supplied></lem>
-				<rdg source="bib:Buehler1892_01">śivaskandavarmmaṇaḥ</rdg>
-				<note>This is <ptr target="bib:Buehler1892_01"/> reading (page 9), but nothing is legible on the seal now kept with the plates in the Chennai Government Museum (2008). The same legend is found on the seal of another Pallava plate (<ref target="DHARMA_INSPallava00002.xml">Pallava 2</ref>).</note>
+				<rdg source="bib:Buhler1892_01">śivaskandavarmmaṇaḥ</rdg>
+				<note>This is <ptr target="bib:Buhler1892_01"/> reading (page 9), but nothing is legible on the seal now kept with the plates in the Chennai Government Museum (2008). The same legend is found on the seal of another Pallava plate (<ref target="DHARMA_INSPallava00002.xml">Pallava 2</ref>).</note>
 			</app>
 			
 		</listApp>
@@ -277,73 +277,73 @@
 			
 			<!--<app loc="0">
 				<lem>...</lem>
-				<rdg source="bib:Buehler1892_01">...</rdg>
+				<rdg source="bib:Buhler1892_01">...</rdg>
 				<rdg source="bib:Leumann1894_01">...</rdg>
 				<rdg source="bib:Sircar1965_02">...</rdg>	
 			</app>-->
 			
 			<app loc="1">
 				<lem>k<choice><sic>o</sic><corr>ā</corr></choice>ṁcīpurā</lem>
-				<rdg source="bib:Buehler1892_01">kāṁcīpurā</rdg>				
+				<rdg source="bib:Buhler1892_01">kāṁcīpurā</rdg>				
 				<rdg source="bib:Sircar1965_02">koṁcīpurā</rdg>
-				<note>Alternatively, one can follow <ptr target="bib:Buehler1892_01"/>, considering that what is taken as the left component of medial <foreign>o</foreign> is just a defect on the plate.</note>
+				<note>Alternatively, one can follow <ptr target="bib:Buhler1892_01"/>, considering that what is taken as the left component of medial <foreign>o</foreign> is just a defect on the plate.</note>
 			</app>
 			
 			<app loc="1">
 				<lem>Aggiṭ<choice><sic>th</sic><corr>ṭh</corr></choice>oma°</lem>
-				<rdg source="bib:Buehler1892_01">Aggitthoma°</rdg>
+				<rdg source="bib:Buhler1892_01">Aggitthoma°</rdg>
 				<rdg source="bib:Leumann1894_01">Aggiṭthoma°</rdg>				
-				<rdg source="bib:Buehler1894_05">Aggiṭthoma°</rdg>
+				<rdg source="bib:Buhler1894_05">Aggiṭthoma°</rdg>
 				<rdg source="bib:Sircar1965_02">Aggiṭṭhoma°</rdg>				
 				<note>The original reading is <foreign>ṭtha</foreign>, as indicated by the dot inside the <foreign>tha</foreign> of this ligature.</note>
 			</app>
 			
 			<app loc="2">
 				<lem>pallavāṇ<choice><sic>a</sic><corr>ā</corr></choice><supplied reason="omitted">ṁ</supplied></lem>
-				<rdg source="bib:Buehler1892_01 bib:Sircar1965_02">pallavāṇa</rdg>
+				<rdg source="bib:Buhler1892_01 bib:Sircar1965_02">pallavāṇa</rdg>
 			</app>
 			
 			<app loc="4">
 				<lem>raṭṭh<unclear>i</unclear>ka°</lem>
-				<rdg source="bib:Buehler1892_01">raṭṭhika°</rdg>
+				<rdg source="bib:Buhler1892_01">raṭṭhika°</rdg>
 				<rdg source="bib:Sircar1965_02">raṭṭh<choice><sic>a</sic><corr>i</corr></choice>ka°</rdg>
-				<note><ptr target="bib:Buehler1892_01"/> notes that <quote>[t]he <foreign>i</foreign> of <foreign>raṭṭhika</foreign> is very faint</quote>. This medial <foreign>i</foreign> is not clear on the published estampage, but is more visible on the photos (2011).</note>
+				<note><ptr target="bib:Buhler1892_01"/> notes that <quote>[t]he <foreign>i</foreign> of <foreign>raṭṭhika</foreign> is very faint</quote>. This medial <foreign>i</foreign> is not clear on the published estampage, but is more visible on the photos (2011).</note>
 			</app>
 			
 			<app loc="4">
 				<lem>°māḍabi<unclear reason="eccentric_ductus">ka</unclear>°</lem>
-				<rdg source="bib:Buehler1892_01">°mā<supplied reason="omitted">ṁ</supplied>ḍabi<choice><sic>nu</sic><corr>ka</corr></choice>°</rdg>
+				<rdg source="bib:Buhler1892_01">°mā<supplied reason="omitted">ṁ</supplied>ḍabi<choice><sic>nu</sic><corr>ka</corr></choice>°</rdg>
 				<rdg source="bib:Leumann1894_01">°mā<supplied reason="omitted">ṁ</supplied>ḍabika°</rdg>
 								
-				<rdg source="bib:Buehler1894_05">°mā<supplied reason="omitted">ṁ</supplied>ḍabi<choice><sic>nu</sic><corr>ka</corr></choice>°</rdg>
+				<rdg source="bib:Buhler1894_05">°mā<supplied reason="omitted">ṁ</supplied>ḍabi<choice><sic>nu</sic><corr>ka</corr></choice>°</rdg>
 				<rdg source="bib:Sircar1965_02">°māḍabi<unclear reason="eccentric_ductus">ka</unclear>°</rdg>
-				<note>The letter <foreign>ka</foreign> looks indeed like <foreign>nu</foreign>, since the left part of its horizontal crossbar is missing. <ptr target="bib:Buehler1894_05"/> notes that the emendation <foreign>māḍambika</foreign> is possible, but doubtful, given that is attested attested only in Jainz literature.</note>
+				<note>The letter <foreign>ka</foreign> looks indeed like <foreign>nu</foreign>, since the left part of its horizontal crossbar is missing. <ptr target="bib:Buhler1894_05"/> notes that the emendation <foreign>māḍambika</foreign> is possible, but doubtful, given that is attested attested only in Jainz literature.</note>
 			</app>
 			
 			<app loc="5">
 				<lem>Ārakhādhikate</lem>
-				<rdg source="bib:Buehler1892_01"><choice><sic>Ā</sic><corr>a</corr></choice>raṇādhikate </rdg>
-				<rdg source="bib:Leumann1894_01 bib:Buehler1894_05">Āra<supplied reason="omitted">k</supplied>khādhikate </rdg>
+				<rdg source="bib:Buhler1892_01"><choice><sic>Ā</sic><corr>a</corr></choice>raṇādhikate </rdg>
+				<rdg source="bib:Leumann1894_01 bib:Buhler1894_05">Āra<supplied reason="omitted">k</supplied>khādhikate </rdg>
 				<rdg source="bib:Sircar1965_02">Ārakhādhikate</rdg>
 				<note>The initial <foreign>Ā</foreign> is clear on the photos (2011), where a little hook is visible on its right side of letter)</note>
 			</app>
 			
 			<app loc="7">
 				<lem>bhaḍamaṇusā ṇa<gap quantity="3" unit="character" reason="illegible"/></lem>
-				<rdg source="bib:Buehler1892_01">bhaḍamaṇusāṇa <unclear>kaḍh</unclear><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg><unclear>o</unclear></seg></rdg>
+				<rdg source="bib:Buhler1892_01">bhaḍamaṇusāṇa <unclear>kaḍh</unclear><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg><unclear>o</unclear></seg></rdg>
 				<rdg source="bib:Sircar1965_02">bhaḍamaṇusā ṇa<unclear>kaḍhaso</unclear></rdg>
-				<note><ptr target="bib:Buehler1892_01"/> notes that his suggested reading <foreign><unclear>kaḍh</unclear><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg><unclear>o</unclear></seg></foreign> is <quote>very doubtful, with the exception of the last vowel</quote>. <ptr target="bib:Sircar1965_02"/> suggets to read <foreign>bhaḍamanuṣe āṇaveti</foreign>. A verbal predicate is indeed expected here to complete this first sentence.</note>
+				<note><ptr target="bib:Buhler1892_01"/> notes that his suggested reading <foreign><unclear>kaḍh</unclear><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg><unclear>o</unclear></seg></foreign> is <quote>very doubtful, with the exception of the last vowel</quote>. <ptr target="bib:Sircar1965_02"/> suggets to read <foreign>bhaḍamanuṣe āṇaveti</foreign>. A verbal predicate is indeed expected here to complete this first sentence.</note>
 			</app>
 			
 			<app loc="7">
 				<lem>parihāraṁ</lem>
-				<rdg source="bib:Buehler1892_01">pārihāraṁ</rdg>				
+				<rdg source="bib:Buhler1892_01">pārihāraṁ</rdg>				
 				<rdg source="bib:Sircar1965_02">parihāraṁ</rdg>	
 			</app>
 						
 			<app loc="8">
 				<lem>Āpiṭṭ<choice><unclear>i</unclear><unclear>ī</unclear></choice>°</lem>
-				<rdg source="bib:Buehler1892_01">Āpiṭṭi°</rdg>
+				<rdg source="bib:Buhler1892_01">Āpiṭṭi°</rdg>
 				<rdg source="bib:Sircar1965_02"><unclear>Ā</unclear>piṭṭi°</rdg>	
 			</app>
 			
@@ -351,34 +351,34 @@
 			
 			<app loc="37">
 				<lem>Āpiṭṭīyaṁ</lem>
-				<rdg source="bib:Buehler1892_01 bib:Sircar1965_02">Āpiṭṭīyaṁ</rdg>
+				<rdg source="bib:Buhler1892_01 bib:Sircar1965_02">Āpiṭṭīyaṁ</rdg>
 				<note>The <foreign>ī</foreign> in <foreign>ṭṭi</foreign> is not clear on the published estampage, but well visible on the photos (2011).</note>
 			</app>
 			
 			<app loc="40">
 				<lem>bādhā</lem>
-				<rdg source="bib:Buehler1892_01 bib:Sircar1965_02">bādhā</rdg>
+				<rdg source="bib:Buhler1892_01 bib:Sircar1965_02">bādhā</rdg>
 				<note>The <foreign>ā</foreign> in <foreign>dhā</foreign> is not clear on the published estampage, but well visible on the photos (2011).</note>
 			</app>
 			
 			<!--<app loc="0">
 				<lem>...</lem>
-				<rdg source="bib:Buehler1892_01">...</rdg>
+				<rdg source="bib:Buhler1892_01">...</rdg>
 				<rdg source="bib:Leumann1894_01">...</rdg>
 				<rdg source="bib:Sircar1965_02">...</rdg>	
 			</app>-->
 						
 			<app loc="7">
 				<lem>Ettha</lem>
-				<rdg source="bib:Buehler1892_01">cattha</rdg>
-				<rdg source="bib:Leumann1894_01 bib:Buehler1894_05 bib:Sircar1965_02">Ettha</rdg>	
+				<rdg source="bib:Buhler1892_01">cattha</rdg>
+				<rdg source="bib:Leumann1894_01 bib:Buhler1894_05 bib:Sircar1965_02">Ettha</rdg>	
 			</app>
 						
 			<app loc="51">
 				<lem>kaḍa</lem>
-				<rdg source="bib:Buehler1892_01">kada</rdg>
+				<rdg source="bib:Buhler1892_01">kada</rdg>
 				<rdg source="bib:Sircar1965_02">kaḍa</rdg>
-				<note><ptr target="bib:Buehler1892_01"/> notes: <quote>Perhaps <foreign>kaḍa</foreign> is to be read.</quote></note>
+				<note><ptr target="bib:Buhler1892_01"/> notes: <quote>Perhaps <foreign>kaḍa</foreign> is to be read.</quote></note>
 				
 			</app>
 			
@@ -387,7 +387,7 @@
 	
 </div>      	
       				
-<div type="translation" source="bib:Buehler1892_01">
+<div type="translation" source="bib:Buhler1892_01">
 	
 	<p n="1-7">Success!<note resp="part:emfr">Errata and corrigenda (EI 1, p. 479) taken into account.</note> From Kāṁcīpura—the righteous<note>Compare Mr. Fleet's grant, Indian Antiquary, vol. V, p. 155, line 17 of the transcript.</note> supreme king of great kings of the Pallavas Sivakhaṁdavama <supplied reason="explanation">Śivaskandavarman</supplied>, a Bhāraddāya<note>Compare Mr. Fleet's grant, Indian Antiquary, vol. V, p. 51, line 15 of the transcript, and <foreign>ibidem</foreign>, page 155, line 14 of the transcript, as well as vol. IX, p. 101, line 2 of the transcript, where <foreign>bhāraddāyassa</foreign> has to be read for <foreign>bhāraṭṭāyaṇa</foreign>.</note> <supplied reason="explanation">Bhāradvāja</supplied> an offerer of Agniṣṭoma, Vājapeya and Aśvamedha <supplied reason="explanation">sacrifices</supplied> <supplied reason="subaudible">issues the following orders</supplied>:</p>
 	
@@ -450,19 +450,19 @@
       	
 <div type="commentary">
 
-      		<p>For a description of the Prakrit language of this grant, see <bibl><ptr target="bib:Buehler1892_01"/></bibl> (EI 1.1, p. 2-4), <bibl><ptr target="bib:Mehendale1948_01"/></bibl>, <bibl><ptr target="bib:Pischel1965_01"/></bibl>.</p>
-      		<p>About the seal, see <bibl><ptr target="bib:Buehler1892_01"/><citedRange unit="page">9</citedRange></bibl>: <quote>The plates are still held together by a single ring to which a nearly circular, somewhat battered, seal about an inch in diameter is attached. This seal shows as emblem an animal, facing the proper right, which may be intended for a deer or a horse. Below there stands the word Śivaskandavarmaṇaḥ, the last three <foreign>akṣara</foreign>s of which are much defaced and doubtful. The first four <foreign>akṣara</foreign> are perfectly plain and leave no doubt thut this part of the grant was in Sanskrit, just like the <foreign>maṅgala</foreign> at the end.</quote></p>
+      		<p>For a description of the Prakrit language of this grant, see <bibl><ptr target="bib:Buhler1892_01"/></bibl> (EI 1.1, p. 2-4), <bibl><ptr target="bib:Mehendale1948_01"/></bibl>, <bibl><ptr target="bib:Pischel1965_01"/></bibl>.</p>
+      		<p>About the seal, see <bibl><ptr target="bib:Buhler1892_01"/><citedRange unit="page">9</citedRange></bibl>: <quote>The plates are still held together by a single ring to which a nearly circular, somewhat battered, seal about an inch in diameter is attached. This seal shows as emblem an animal, facing the proper right, which may be intended for a deer or a horse. Below there stands the word Śivaskandavarmaṇaḥ, the last three <foreign>akṣara</foreign>s of which are much defaced and doubtful. The first four <foreign>akṣara</foreign> are perfectly plain and leave no doubt thut this part of the grant was in Sanskrit, just like the <foreign>maṅgala</foreign> at the end.</quote></p>
       	</div>
 
  <div type="bibliography">
  	
- 	<p>Edited in <bibl><ptr target="bib:Buehler1892_01"/></bibl> (EI 1.1) with visual documentation and English translation; corrections in <bibl><ptr target="bib:Leumann1894_01"/></bibl> (EI 2.40); corrections in <bibl><ptr target="bib:Buehler1894_05"/></bibl> (EI 2.40). Text and sanskritised text in <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">461-466</citedRange></bibl> with visual documentation. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 3).</p>
+ 	<p>Edited in <bibl><ptr target="bib:Buhler1892_01"/></bibl> (EI 1.1) with visual documentation and English translation; corrections in <bibl><ptr target="bib:Leumann1894_01"/></bibl> (EI 2.40); corrections in <bibl><ptr target="bib:Buhler1894_05"/></bibl> (EI 2.40). Text and sanskritised text in <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">461-466</citedRange></bibl> with visual documentation. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 3).</p>
  	<p>This revised edition by Emmanuel Francis, based on published estampages and photos of the original plates in the Chennai Government Museum (2008).</p>
 
             <listBibl type="primary">
             	           	
             	<bibl n="EI">
-            		<ptr target="bib:Buehler1892_01"/>
+            		<ptr target="bib:Buhler1892_01"/>
             	</bibl>            	
             	
             	<bibl n="L">
@@ -470,7 +470,7 @@
             	</bibl> 
             	
             	<bibl n="B">
-            		<ptr target="bib:Buehler1894_05"/>
+            		<ptr target="bib:Buhler1894_05"/>
             	</bibl> 
             	
             	<bibl n="S">

@@ -349,7 +349,7 @@
         <app loc="28">
             <lem>°naiyyokā<orig>ḥ</orig></lem>
             <rdg source="bib:Fleet1876_02"><choice><sic>naiyyokāḥ</sic><corr>niyuktā</corr></choice></rdg>
-            <note>See <ptr target="bib:Buehler1892_01"/> (p. 8, fn. 13)<!--quote Bühler (EI 1, 8n13) propose naiyika. Cf. neyika dans IP 3.--></note>
+            <note>See <ptr target="bib:Buhler1892_01"/> (p. 8, fn. 13)<!--quote Bühler (EI 1, 8n13) propose naiyika. Cf. neyika dans IP 3.--></note>
         </app>
         
         <app loc="30">
@@ -486,7 +486,7 @@
             <listBibl type="secondary">
 
             	<bibl>
-            		<ptr target="bib:Buehler1892_01"/>
+            		<ptr target="bib:Buhler1892_01"/>
             	</bibl>
 
             	<bibl n="EF1">
