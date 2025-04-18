@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rēyūru plates, time of Narasiṃhavarman, year 12</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSPallava00053</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>...</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>...</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2025-04-18" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="san-Latn" rendition="class:brāhmī_southern maturity:regional">
+                
+                <div type="textpart" n="A">
+                    
+                    <head xml:lang="eng">Seal</head>
+                    
+                    <p/>	
+                    
+                </div>
+                
+                <div type="textpart" n="B">
+                    
+                    <head xml:lang="eng">Plates</head>
+                    
+                    <pb n="1r"/>
+                    
+                    <ab>
+                        <pb n="1v"/>
+                        <lb n="1v1=1"/>svasti
+                    </ab>
+                    <p>
+                        śrīma<surplus>r</surplus>t jitaM bhagavatā<surplus>M</surplus> 
+                    </p>
+                    
+                    <p>
+                        ...
+                        
+                        
+                        <pb n="2r"/>
+                        <lb n="2r1=6" break="no"/>
+                        
+                        
+                        <pb n="2v" break="no"/>
+                        <lb n="2v1=11" break="no"/>
+                        
+                        
+                        <pb n="3r" break="no"/>
+                        <lb n="3r1=16"/>
+                        
+                        
+                    </p>
+                    
+                    <lg n="3" met="anuṣṭubh">
+                        <l n="a">somāditya<pb n="3v" break="no"/><lb n="3v1=21" break="no"/>suta<supplied reason="omitted">ḥ</supplied> śrīmān</l>
+                        <l n="b">nandaku<seg rendition="class:telugu maturity:vernacular">ṟṟa</seg>-nṛpeśvaraḥ</l>
+                        <l n="c">Ājñāptiś śāsanasyāsya</l>
+                        <l n="d">rājāditya-pra<choice><sic>th</sic><corr>t</corr></choice>āpavāM</l>
+                    </lg>
+                    <p>
+                        <choice><sic>yatrā</sic><corr>yad atra</corr></choice>
+                        <lb n="3v2=22"/><choice><sic><unclear reason="eccentric_ductus">bha</unclear> ṣataḥ</sic><corr>bhavanti</corr></choice> ślok<choice><sic>a</sic><corr>ā</corr></choice>ḥ
+                    </p>
+                    
+                    <lg n="2" met="anuṣṭubh">
+                        <l n="a">brahma-svaM <supplied reason="omitted">hi</supplied> viṣaṃ ghora<choice><sic>ḥ</sic><corr>ṃ</corr></choice></l>
+                        <l n="b">na viṣaṃ viṣam ucyate</l>
+                        <l n="c">viṣam ekākina<supplied reason="omitted">ṃ</supplied> hanti</l>
+                        <l n="d">brahma<lb n="3v3=23" break="no"/>svaM putra-paut<choice><sic>ṛ</sic><corr>ra</corr></choice>kaM</l>
+                    </lg>
+                    
+                    <lg n="3" met="anuṣṭubh">
+                        <l n="a">sva-dattāM para-dattāṃ vā <g type="danda"/></l>
+                        <l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vasundharāM</l>
+                        <l n="c">ṣaṣṭi-va<lb n="3v4=24" break="no"/>rṣa-sahasrāṇi <g type="danda"/></l>
+                        <l n="d">viṣ<choice><sic>t</sic><corr>ṭh</corr></choice>āy<choice><sic>a</sic><corr>ā</corr></choice>ṃ jāyate kṛmiḥ </l>
+                    </lg>
+                    
+                    <lg n="4" met="anuṣṭubh">
+                        <l n="a">bahubhir vvasudhā dattā <g type="danda"/></l>
+                        <l n="b">bahubhi<lb n="3v5=25" break="no"/>ś cānupālit<choice><sic>a</sic><corr>ā</corr></choice></l>
+                        <l n="c">yasya yasya yathā bhūmi<supplied reason="omitted">ḥ</supplied> <g type="danda"/></l>
+                        <l n="d">tasya tasya tathā phalaM <g type="spiral"/><g type="dashHooked"/></l>
+                    </lg>
+                    
+                </div>
+            </div>
+            
+<!--<div type="apparatus">
+                
+    <div type="textpart" xml:lang="san-Latn" n="B">
+        <head xml:lang="eng">Plates</head>
+        
+        <listApp>
+            
+            <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:Desai1951-1952_01">...</rdg>			
+            </app>
+            
+            
+        </listApp>
+        
+    </div>
+    
+</div>-->
+            
+            <!--<div type="translation" resp="part:emfr">
+                
+                </div>-->
+            
+            <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
+                
+                <p n="1">Prospérité ! L’illustre Bienheureux est vainqueur !</p>
+                <p n="1">Depuis le camp de Kāñcīpura :</p>
+                
+                <p n="1-">
+                    Grand Roi de la famille des Pallava, qui appartiennent au <foreign>gotra</foreign> de Bharadvāja,                    
+                    <list>
+                        <item>
+                            petit-fils du grand roi Śrī-Mahendravikramavarman, qui dut à son propre héroïsme la possession de son royaume, dont on honora la puissance et le succès, dont la majesté fit plier le cercle des rois, Gardien du Monde du Milieu, le cinquième Gardien du monde, qui montra une extrême piété ;
+                        </item>
+                        <item>
+                            Fils de Parameśvaravarman, qu’illustra la gloire d’avoir remporté la victoire dans de nombreux combats, qui assura le respect de toutes les lois conformément aux prescriptions, qui respecta l’Ordre, être infiniment magnanime qui accomplit selon les rites plus d’un sacrifice, notamment le sacrifice du cheval, qui se montra sincère dans ses vœux et révéla un esprit enclin au <foreign>dharma</foreign>, qui par sa grandeur fut comparable à Mahendra ;
+                        </item>
+                        <item>
+                            fils de Śrī-Mahendravikramavarman, qui honora les dieux, les brahmanes, les maîtres et les anciens, qui pratiqua la plus sévère discipline, qui, par de multiples dons, notamment de vaches, d’or et de terres, augmenta de jour en jour son capital dharmique;
+                        </item>
+                        <item>
+                            Śrī-Narasiṃhavarman, dont la réelle dévotion envers le Bienheureux procure à tous la prospérité, qu’un vœu sincère pour toujours consacre au bonheur et à la sécurité de ses sujets, qui, à chaque instant, est prêt à soutenir le <foreign>dharma</foreign> que ruinent les péchés de l’âge Kali, héros unique sur la surface de la Terre par l’héroïsme qu’il produit dans la mêlée, au cours de nombreux combats, qui souhaite conquérir l’ensemble des vertus des sages royaux, qui se montre un sectateur passionné du Bienheureux, un sectateur passionné de Maheśvara, qui fait preuve d’une extrême piété, qui offre sa dévotion aux pieds de son père, l’illustre seigneur,
+                        </item>
+                    </list>
+                    
+                    adresse aux villageois du village nommé Reyūru, au nord d’Asiddhapura, dans le Muṇḍa-rāṣṭra occidental, l’ordre suivant :
+                </p>
+                
+                <p>
+                    Ce village, nous en faisons donation, à titre de <foreign>brahmadeya</foreign>, au petit-fils de Kūḷaśarman, habitant de Kuravaśrī, appartenant au <foreign>gotra</foreign> Rāthitara et au <foreign>sūtra</foreign> Āpastamba, expert en deux Veda, connaissant les <foreign>Veda</foreign>, <foreign>Vedâṅga</foreign>, <foreign>Itihāsa</foreign> et <foreign>Purāṇa</foreign> dans leur vérité, au fils de Kumāraśarman, expert en deux <foreign>Veda</foreign> - à Kumāramaṇḍaśarman, un sacrificateur de <foreign>soma</foreign> expert en deux <foreign>Veda</foreign> qui se livre constamment à la récitation personnelle - pour l’accroissement de la durée de notre vie, celui de notre vigueur, de nos victoires et de notre empire, en la douzième année de notre règne de victoire grandissante, le jour de la pleine lune de Vaiśākha, à l’occasion d’une éclipse de la lune.
+                </p>
+                <p>
+                    Qu’en prennent connaissance tous les <foreign>amātya</foreign>, avec les <foreign>karaṇa</foreign>, ainsi que tous les <foreign>niyogaka</foreign> et <foreign>rāja-vallabha</foreign>, et qu’au cours de leurs tournées ils observent toutes les exemptions fiscales qui affectent ce terrain.
+                </p>
+                
+                <p>
+                    Quiconque transgresse ce commandement est un criminel qui encourt un châtiment corporel.
+                </p>
+                
+                <p n="30-31">
+                    Il y a, à ce propos, les stances suivantes :
+                </p>
+                
+                <p rend="stanza" n="1">
+                    <l>Le fils illustre de Somāditya,</l>
+                    <l>Le souverain de Nandakuṟṟa,</l>
+                    <l>Est l’exécuteur de ce commandement</l>
+                    <l>- Lui qui possède la majesté de Rājāditya,</l>
+                    <l>Comme la chaleur ardente du soleil<note>Il y a un jeu de mots intraduisible portant à la fois sur <foreign>pratāpavān</foreign> ("pourvu de majesté" ou "pourvu de chaleur brûlante") et sur le nom propre rājād<foreign></foreign>itya, qui signifie aussi "le soleil roi". Si on en juge par le nom de son père, Somāditya, ce Rājāditya doit être un membre illustre de la famille du souverain de Nandakuṟṟa - peut-être son grand-père, comme le suggère P.B. Desai 1957 (EI), p. 93, n. 6. P.B. Desai considère par ailleurs le composé <foreign>nandakuṟṟa-nṛpêśvara-</foreign> comme un <foreign>karmadhāraya</foreign> (litt. "Īśvara, qui est le souverain de Nandakuṟṟa"), interprétation qui fournit le nom de l’<foreign>ājñāpti</foreign>; mais dans la stance analogue des tablettes de Parameśvaravarman, à Gunna Guravapāḷem, le terme –<foreign>nṛpêśvara-</foreign>, en second élément de composé après le même toponyme, ne peut être qu’un titre, puisque celui qui le porte est nommé au <foreign>pāda</foreign> suivant (Kuḷavarman). Il est donc préférable de ne voir dans ce mot qu’un titre emphatique (litt. "seigneur des rois"), dont la mention, associée à celle de la région qu’il gouverne, peut suffire à désigner le porteur.</note>.</l>
+                </p>
+                
+                <p>Il y a des stances à ce propos :</p>
+                
+                <p rend="stanza" n="2">
+                    <l>Car<note>Ou bien: "Or...".</note> le bien d’un brahmane est un terrible poison</l>
+                    <l>- Ce n’est pas le poison qu’on appelle poison :</l>
+                    <l>Le poison tue un seul homme</l>
+                    <l>- Le bien d’un brahmane tue le fils et le petit-fils.</l>
+                </p>	
+                
+                <p rend="stanza" n="3">
+                    <l>Donnée par soi ou donnée par autrui,</l>
+                    <l>Quiconque s’approprie une terre,</l>
+                    <l>Pour soixante milliers d’années</l>
+                    <l>Dans la fiente naît vers de terre.</l>
+                </p>
+                
+                <p rend="stanza" n="4">
+                    <l>Beaucoup ont donné une terre,</l>
+                    <l>Et beaucoup l’ont préservée ;</l>
+                    <l>A qui va la terre</l>
+                    <l>De même va le fruit.</l>
+                </p>
+                
+            </div>
+            
+            <div type="commentary"/>
+            
+            <div type="bibliography">
+                <p>Edited in <bibl><ptr target="bib:Desai1951-1952_01"/></bibl> (EI 29.11), with visual documentation. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 53). Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 37).</p>
+                <p>This revised edition by Emmanuel Francis, based on the published visual documentation.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="EI">
+                        <ptr target="bib:Desai1951-1952_01"/></bibl>
+                    
+                    <bibl n="IP">
+                        <ptr target="bib:Mahalingam1988_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">53</citedRange>
+                    </bibl>
+                    
+                    <bibl n="B">
+                        <ptr target="bib:Brocquet1997_01"/>
+                        <citedRange unit="page">540-547</citedRange>
+                        <citedRange unit="item">37</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:Francis2013_01"/>
+                        <citedRange unit="item">IR 36</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>
