@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vunna Guruvapāḷem plates, time of Parameśvaravarman, year 19</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSPallava00045</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>...</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>...</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2025-04-18" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="san-Latn" rendition="class:brāhmī_southern maturity:regional">
+                
+                <div type="textpart" n="A">
+                    
+                    <head xml:lang="eng">Seal</head>
+                    
+                    <p/>	
+                    
+                </div>
+                
+                <div type="textpart" n="B">
+                    
+                    <head xml:lang="eng">Plates</head>
+                    
+                    <pb n="1r"/>
+                    
+                    <ab>
+                        <pb n="1v"/>
+                        <lb n="1v1=1"/><unclear>sva</unclear>sti
+                    </ab>
+                    <p>
+                        jitam bhagavatā 
+                    </p>
+                    
+                    <p>
+                        ...
+                        
+                        
+                        <pb n="2r" break="no"/>
+                        <lb n="2r1=7" break="no"/>
+                        
+                        
+                        <pb n="2v" break="no"/>
+                        <lb n="2v1=13" break="no"/>
+                        
+                        
+                        
+                        <pb n="3r" break="no"/>
+                        <lb n="3r1=19" break="no"/><unclear>ca</unclear>
+                    </p>
+                    <p>
+                        ...
+                    </p>
+                    
+                    <lg n="1" met="anuṣṭubh">
+                        <l n="a"><unclear>bahu</unclear><lb n="3r2=20" break="no"/><unclear>bhir vvasu</unclear>dhā dattā</l>
+                        <l n="b">bahubhiś cānu<choice><sic>h</sic><corr>p</corr></choice>ālitā</l>
+                        <l n="c">yasya yasya yadā bhūmis</l>
+                        <l n="d">tasya tasya tadā phalaṃ</l>
+                    </lg>        
+                    
+                    <lg n="2" met="anuṣṭubh">
+                        <l n="a"><unclear>bhūmi</unclear><lb n="3r3=21" break="no"/>-<unclear>dā</unclear>nā<unclear>t</unclear> pa<unclear>r</unclear>an dānan</l>
+                        <l n="b">na bhūtan na bhaviṣyati</l>
+                        <l n="c">tasyaiva haraṇāt pāpan</l>
+                        <l n="d">na bhūtan na <unclear>bhaviṣyati</unclear></l>
+                    </lg>
+                    
+                    <lg n="3" met="anuṣṭubh">
+                        <l n="a">...</l>
+                        <l n="b">...</l>
+                        <l n="c">...</l>
+                        <l n="d">...</l>
+                    </lg>
+                    
+                    <p>
+                        ...                        
+                    </p> 
+                    
+                </div>
+            </div>
+            
+            <!--<div type="apparatus">
+                
+                <div type="textpart" xml:lang="san-Latn" n="B">
+                <head xml:lang="eng">Plates</head>
+                
+                <listApp>
+                
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:Sircar+SeshadriShastri1957-1958_01">...</rdg>			
+                </app>
+                
+                
+                </listApp>
+                
+                </div>
+                
+                </div>-->
+            
+            <!--<div type="translation" resp="part:emfr">
+                
+                </div>-->
+            
+            <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
+                
+                <p n="1">Salut ! Le Bienheureux est vainqueur !</p>
+                <p n="1">Depuis l’illustre Kāñcīpura :</p>
+                
+                <p n="1-">
+                    membre de la famille des Pallava, qui appartiennent au gotra de Bharadvāja et accomplirent selon les rites plus d’un sacrifice, notamment le sacrifice du cheval,
+                    
+                    <list>
+                        <item>
+                            arrière-petit-fils de Śrī-Mahendravarman, qui dut à son propre héroïsme la possession de son royaume, dont la majesté fit plier le cercle des rois, le Gardien du Monde du Milieu, le cinquième Gardien du Monde ;
+                        </item>
+                        <item>
+                            petit-fils de Śrī-Narasiṃhavarman, qu’illustre la gloire acquise dans de nombreux combats, qui assura le respect de toutes les lois conformément aux prescriptions, héros unique sur la surface de la Terre ;
+                        </item>
+                        <item>
+                            fils de Śrī-Mahendravikramavarman, qui honora les dieux, les brahmanes, les maîtres et les anciens, qui pratiqua la plus sévère discipline, qui, par de multiples dons, notamment de vaches, d’or et de terres, augmenta de jour en jour son capital dharmique;
+                        </item>
+                        <item>
+                            Śrī-Parameśvaravarman, qu’un vœu sincère pour toujours consacre avec zèle au bonheur et à la sécurité de ses sujets, qui, à chaque instant, est prêt à soutenir le dharma que ruinent les péchés de l’âge Kali, qui se montre un sectateur passionné de Maheśvara, qui fait preuve d’une extrême piété, qui offre sa dévotion aux pieds de l’illustre seigneur son père,
+                        </item>
+                    </list>
+                    
+                    adresse aux villageois du village nommé Kubuṇūru, sur la rive sud du fleuve Musuṇa, sur la route<note>Le mot <foreign>mārga-</foreign>, ifc, peut aussi désigner une circonscription (cf D.C Sircar 1962, p. 94 - EI).</note> de Mulvuvaḍya, dans le Pūmi-rāṣṭra, l’ordre suivant :
+                </p>
+                
+                <p>
+                    Ce village, avec exemption de toutes les taxes, j’en fais donation, à titre de <foreign>brahmadeya</foreign>, à l’occasion d’Ayana, au petit-fils de Svāmiśarman, habitant du village d’Urppuṭūru, appartenant au <foreign>gotra</foreign> Mauḍgalyāyana et au caraṇa Āpastamba, connaisseur des Veda, Vedâṅga, Itihāsa et Purāṇa dans leur vérité, au fils de Droṇaśarman, expert en observances, abstinences et récitation personnelle, connaissant tous les traités dans leur vérité - à Devaśarman, qui possède la science des origines, que ses vœux sincères lient pour toujours, et qui se plaît aux six activités - pour l’accroissement de la durée de notre vie, et celui de notre bonne santé.</p>
+                <p>
+                    Qu’en prennent connaissance tous les <foreign>adhikaraṇa</foreign> et <foreign>niyukta</foreign>, ainsi que les <foreign>rāja-vallabha</foreign>, et qu’au cours de leurs tournées ils observent et fassent observer toutes les exemptions fiscales qui affectent ce terrain.
+                </p>
+                
+                <p>
+                    Quiconque transgresse cet ordre émanant de nous est un criminel qui encourt un châtiment corporel.
+                </p>
+                
+                <p n="30-31">
+                    Il y a, à ce propos, les stances suivantes :
+                </p>
+                
+                 <p rend="stanza" n="1">
+                    <l>Beaucoup ont donné une terre,</l>
+                    <l>Et beaucoup l’ont préservée ;</l>
+                    <l>A qui va la terre</l>
+                    <l>Va aussi le fruit.</l>
+                </p>
+                
+                <p rend="stanza" n="2">
+                    <l>Hormis le don de terre, d’autre don</l>
+                    <l>Il n’y eut point et n’y aura point ;</l>
+                    <l>Hormis le fait de s’en emparer, de crime</l>
+                    <l>Il n’y eut point et n’y aura point.</l>
+                </p>	
+                
+                <p rend="stanza" n="3">
+                    <l>Né dans la famille des Nagī-Pallava,</l>
+                    <l>Le souverain de Nandakuṟṟa,</l>
+                    <l>Kuḷavarman à la grande gloire</l>
+                    <l>Est l’exécuteur de ce commandement.</l>
+                </p>
+                
+               <p>Ceci a été gravé le jour d’Āditya, le treizième de la quinzaine claire du mois Pauṣya, en la dix-neuvième AR de victoire grandissante - par Viṣeṣavidita, qui est né dans la lignée de Ghanaskandha.</p>
+                
+                <p>Que la prospérité échoie aux vaches et aux brahmanes !</p>
+                
+            </div>
+            
+            <div type="commentary"/>
+            
+            <div type="bibliography">
+                <p>Edited in <bibl><ptr target="bib:Sircar+SeshadriShastri1957-1958_01"/></bibl> (EI 32.9), with visual documentation. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 45). Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 32).</p>
+                <p>This revised edition by Emmanuel Francis, based on the published visual documentation.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="EI">
+                        <ptr target="bib:Sircar+SeshadriShastri1957-1958_01"/></bibl>
+                    
+                    <bibl n="IP">
+                        <ptr target="bib:Mahalingam1988_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">45</citedRange>
+                    </bibl>
+                    
+                    <bibl n="B">
+                        <ptr target="bib:Brocquet1997_01"/>
+                        <citedRange unit="page">505-511</citedRange>
+                        <citedRange unit="item">32</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:Francis2013_01"/>
+                        <citedRange unit="item">IR 34</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>
