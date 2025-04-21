@@ -5,695 +5,695 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Pullūr plates, time of Nandivarman, year 33</title>
-				<respStmt>
-					<resp>author of digital edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>    
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">DHARMA_INSPallava00081</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary>Grant of four villages (Nelli, Pullūra, Takkāra and Kuḍiūra in the Kīḷveṇātaka in the Palkundakoṭṭaka according to the Sankrit portion; Nelli, Pullūr, and Kuṭiyūr in the Kīḻvēṇāṭu in the Palkuṉṟakkōṭṭam and Takkāṟu in the Maṇalaikuḷanāṭu in the Palkuṉṟakkōṭṭam according to Tamil portion), as a <foreign>brahmadeya</foreign> renamed as Nayadhīramaṁgala/Nayadhīramaṅkalam, to 108 Brahmins. In fact only 100 Brahmin donees are mentioned, including the 3 donees added, by afterthought, at the end of the grant, whereas there are 8 further donees, who appear to be officials involved in the transaction and religious dignitaries granted at the same time.</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>The <foreign>puḷḷi</foreign> is used in the Tamil text. For further paleaographical details, see <bibl><ptr target="bib:Mahalingam1965-1966_01"/><citedRange unit="page"
-										>144-145</citedRange></bibl>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union's Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2023-09-15" status="draft">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-
-		<body>
-	
-			
-<div type="edition">
-	
-	<div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-	<head xml:lang="eng">Seal</head>
-	</div>
-	
-	<div type="textpart" xml:lang="san-Latn" rendition="class:grantha maturity:83215" n="B">
-	<head xml:lang="eng">Sanskrit portion 1 of 2</head>		
-		
-		<pb n="1r"/>
-		
-		<ab>
-			<pb n="1v"/>
-			<lb n="1v1=1"/><supplied reason="lost">svastī śrī</supplied>
-		</ab>
-		
-		<lg n="1" met="anuṣṭubh">
-			<l n="a"><supplied reason="lost">pāyā</supplied><unclear>d va</unclear>ś śāṁkar<choice><sic>i</sic><corr>ī</corr></choice>-mūrttiś </l>
-			<l n="b">śaśā<surplus>ṁ</surplus>ṅkāṁkura-śekharā</l>
-			<l n="c">pratipad-dina-paryyante</l>
-			<l n="d">sandhyeva sakalānatā <g type="gomutra">.</g></l>
-		</lg>
-		
-		<lg n="2" met="sragdharā">
-			<l n="a">...</l>
-			<l n="b">...</l>
-			<l n="c">...</l>
-			<l n="d">...</l>
-		</lg>
-		
-		<lg n="3" met="anuṣṭubh">
-			<l n="a">...</l>
-			<l n="b">...</l>
-			<l n="c">...</l>
-			<l n="d">...</l>
-		</lg>
-		
-		<lg n="4" met="anuṣṭubh">
-			<l n="a">...</l>
-			<l n="b">...</l>
-			<l n="c">...</l>
-			<l n="d">...</l>
-		</lg>
-		
-		<lg n="5" met="śārdūlavikrīḍita">
-			<l n="a">...</l>
-			<l n="b">...</l>
-			<l n="c">...</l>
-			<l n="d">...</l>
-		</lg>
-		
-		<lg n="6" met="śārdūlavikrīḍita">
-			<l n="a">...</l>
-			<l n="b">... <pb n="2"/> ...</l>
-			<l n="c">...</l>
-			<l n="d">...</l>
-		</lg>
-		
-		<p>
-			sa tu kadācid rājā rāja-<supplied reason="lost">n</supplied>i<supplied reason="lost">tya-p</supplied>ādopajīvi-rāja
-			<lb n="2r3=11"/>ka-parivṛta<supplied reason="omitted">ḥ</supplied> kṛta-vyavasthā-sthāna-sthitis tatra sthitena parañ-cirantarānanta-sāmanta-mukhya-vikhyātena pallava-bha
-			<lb n="2r4=12" break="no"/>ktinā vilvalapureśvareṇ<choice><sic>ā</sic><corr>a</corr></choice> Avanicandra-yuvarāja-nām<unclear>n</unclear>ā dharmma-kṛtthārtthaṁ vijñ<choice><sic>ā</sic><corr>a</corr></choice>pto datta-<choice><sic>t</sic><corr>k</corr></choice>ṣaṇa
-			<lb n="2r5=13" break="no"/><choice><sic>t</sic><corr>k</corr></choice>ṣoṇīpatiḥ pratya<choice><sic>t</sic><corr>k</corr></choice>ṣa-b<choice><sic>ra</sic><corr>ṛ</corr></choice>haspatiṁ <choice><sic>t</sic><corr>k</corr></choice>ṣatra-vidyā-<unclear>vi</unclear>ca<choice><sic>t</sic><corr>k</corr></choice>ṣaṇam a<choice><sic>t</sic><corr>k</corr></choice>ṣī<choice><sic>s</sic><corr>ṇa</corr></choice>-svāmi-rāgan nāgaśarmmaṇa
-			<lb n="2r6=14" break="no"/>m· brahmādhirājāpara-nāmānan dvija-vara-mantri-varam ājñaptiṁ kṛtvā palkunda-koṭṭake kīḷ·veṁ-ṇā<unclear>ṭa</unclear>ke ceyāru-nadī
-			<lb n="2r7=15" break="no"/>da<choice><sic>t</sic><corr>k</corr></choice>ṣiṇa-kūle nelli-pullūra-takkāra-kuḍ<choice><orig>iŪ</orig><reg>iyū</reg></choice>ra catur-grām<choice><sic>ī</sic><corr>a</corr></choice>-saṁgraheṇaika-grāman nayadhīra-maṁgalaṁ sva-nā
-			<lb n="2r8=16" break="no"/>mnā kṛta-nāmānaṁ kṛtvā nija-vaṁśa-param·parāgatānāṁ śuddhābhijana-vṛtta-vidyānām· dvija-vara-bappa-bhaṭṭārakānā
-			
-			<pb n="2v" break="no"/>
-			
-			<lb n="2v1=17"/>m aṣṭ<supplied reason="omitted">ottar</supplied>aśatāya <surname>s</surname>salila-pūrvvan dattavān<unclear>·</unclear> <g type="gomutra">.</g> <space/>
-		</p>
-		
-		<ab>
-			svasti <space/>
-		</ab>
-		
-	</div>
-	
-	<div type="textpart" xml:lang="tam-Latn" rendition="class:tamil maturity:83215" n="C">
-	<head xml:lang="eng">Tamil portion 1 of 2</head>
-		
-		<p>
-			kō-vic<choice><orig>ai</orig><reg>ai</reg></choice>ya-nan·tiva<hi rend="grantha">rmma</hi>ku yā<unclear>ṇ</unclear>ṭu mu	
-			<lb n="2v2=18" break="no"/>p·pat·tu mūṉṟāvatu
-		</p>
-		
-		<p>			
-			Avani<hi rend="grantha">candra</hi>-Iḷavaracaṉ· viṇ·ṇap·pat·tāl· <hi rend="grantha">brahmādhirāja</hi>	n· Aṇat·ti
-			<lb n="2v3=19"/>Āka pal·kuṉ·ṟa-k·-kōṭṭat·tu k[<choice><sic>i</sic><corr>ī</corr></choice>ḻvēṇāṭṭu nel·liyum pul·lūruṅ· kuṭiyūru maṇa<unclear>lai</unclear>ku
-			<lb n="2v4=20" break="no"/>ḷa-nāṭṭu-t takkāṟum· In·-nāl·kūruṅ· kōvum· poṟiyun· tīr·t·tu muṉ· peṟṟārai māṟṟi ku
-			<lb n="2v5=21" break="no"/>ṭi nīk·ki <hi rend="grantha">brahmade</hi>yam-āka-p· peṟ·ṟa nal·kūṟ·-naṟ-pāppār·
-		
-			<hi rend="grantha">ṣaṇḍila-gotra</hi>tt’ āvat·tampa-cū<surplus>t·tira</surplus>
-			<lb n="2v6=22" break="no"/>t<unclear>·</unclear>tirat·t’ uḻappūr-vat·tavaṉ· kāṭaka-c·-cōmāci ti<choice><sic>ru</sic><corr>ri</corr></choice>vēti kūḷa-<hi rend="grantha">śarmma</hi>ṉ· paṅ·k’ iraṇ·ṭu <g type="hyphen">.</g> Ik·-kō
-			
-			<lb n="2v7=23" break="no"/>...
-			
-			<pb n="3r"/>
-						
-			<pb n="3v"/>
-						
-			<pb n="4r"/>
-						
-			<pb n="4v"/>
-						
-			<pb n="5r"/>
-						
-			<pb n="5v"/>			
-						
-			<pb n="6r"/>
-						
-			<pb n="6v"/>
-						
-			<pb n="7r"/>
-			
-			<lb n="7r1=98" break="no"/>ṉum <g type="hyphen">.</g> kā<hi rend="grantha">śyapa</hi>-kōtrattu paṟampur āḷuṅ kari<hi rend="grantha">śarma</hi>ṉ paṅk’ iraṇṭu <g type="hyphen">.</g> <hi rend="grantha">bra<unclear>h</unclear>mādh<supplied reason="lost">i</supplied>rāja</hi>ṉ paṅku nāl·ku <g type="hyphen">.</g> kaṭaṅ
-			<lb n="7r2=99" break="no"/>kāṭṭu-p perun tiṇai paṅk’ oṉṟu <g type="hyphen">.</g> cāttaṅkuṭi kiḻāṉ paṅk’ oṉṟu <g type="hyphen">.</g> nāṭṭiya-p perun tiṇai paṅk’ o<unclear>ṉṟu</unclear> 
-			
-			
-			<lb n="7r3=100"/>kalivicaiyaṉ paṅk’ oṉṟu <g type="hyphen">.</g> perumaṉaṭikaḷ paṅku <g type="hyphen">.</g> tiruvaṭikaḷ paṅku <g type="hyphen">.</g> <hi rend="grantha">bhaga</hi>vatiyār paṅku <g type="hyphen">.</g>
-		</p>
-		
-		<p>
-			Ivait
-			<lb n="7r4=101" break="no"/>tuḷ <hi rend="grantha">Aṣṭaśada</hi>ttiṉ mēl paṇiyāl ēṟiṉa paṅku patiṉ aintu <space/>
-			<lb n="7r5=102"/>
-			nūṟṟeṇ<unclear reason="eccentric_ductus">m</unclear>ar nāl<surplus>kū</surplus>kū<supplied reason="omitted">r</supplied> naṟ-pā<supplied reason="omitted">r</supplied>ppā<supplied reason="omitted">r</supplied>k=ku <hi rend="grantha">brahmade</hi>yam Aruḷic c<choice><orig>ē</orig><reg>ey</reg></choice>ta tiru
-			
-			<lb n="7r6=103" break="no"/>mukaṉ talaik=ku vaittu nāṭṭā<supplied reason="omitted">r</supplied> viṭunta Aṟaiyōlai-p paṭiyāl nā		
-			<lb n="7r7=104" break="no"/>ṭṭu viyavaṉ colliya
-		    
-		    <list>
-		        
-		        <item>kīḻ-pāṟk’ ellai pāṭi Ērik=kum cālai-nal <space/>
-		            <lb n="7r8=105" break="no"/>lūr nattattin mēlai kaḷāṅkēṇik=ku mēk=kum</item>		        
-		        
-		        <item>te<choice><orig>n</orig><reg>ṉ</reg></choice>-pār<unclear>ṟ</unclear>kk’ e		
-		            <lb n="7r9=106" break="no"/>llai necalar-p-pūṇṭi Ērik=kum nākaṭi-maṅkalattu <unclear>va</unclear>riccu-kāluk=kum cātā-maṅkalattu			    <lb n="7r10=107" break="no"/>k=ku nāraikuḻalaik=ku vaṭakku<supplied reason="subaudible">m</supplied></item>
-		        
-		        <item>mēl-pāṟk’ ellai paḻaṅkōḷūr Ellaiyin kiḻakkum <space/></item>
-		        
-		        <item><pb n="7v"/>
-		            <lb n="7v1=108"/>vaṭa-pāṟk’ ellai paḻaṅkōḷ<unclear>ū</unclear>r Ellaiyiluñ cēyāṟṟuḷ pākam peṟavun teṟku<choice><orig>mm</orig><reg>m</reg></choice></item>
-		    </list>
-		    
-		    in-nāl			
-			<lb n="7v2=109" break="no"/>k’ ellai-y akattu<choice><orig>mm</orig><reg>m</reg></choice> akapaṭṭa nīru-nilaṉu<supplied reason="omitted">m</supplied> pu<choice><sic>ṉ</sic><corr>ñ</corr></choice>ceyuṅ kāṭuṅ kaḷaru<choice><orig>mm</orig><reg>m</reg></choice> uṭump’ ōṭiy āmai tava
-			<lb n="7v3=110" break="no"/>ḻ·<unclear reason="eccentric_ductus">n</unclear>tat’ ellān nayadhīramangalam ennum pērā<choice><sic><hi rend="grantha">n</hi></sic><corr>l</corr></choice> <hi rend="grantha">sarvva</hi>-<add place="below">pa</add><hi rend="grantha">rihā</hi>ram uḷ·ḷaṭaṅka sāmānya
-			<lb n="7v4=111"/>Iraṇṭu paṭṭi-p paṭiyāl <hi rend="grantha">brahmade</hi>yam āyittu
-		</p>
-		<p>
-			Ip-paṭiyālē pāṟcāttum			
-			<lb n="7v5=112"/>paratattiyuñ celvat’ āka-v aruḷi-c c<choice><orig>ē</orig><reg>ey</reg></choice>tu paratatti ceytatu
-		</p>
-		
-		<p>			
-			Ivv-ūr peṟṟa
-			<lb n="7v6=113"/>pari<hi rend="grantha">hā</hi>raṅ kōyil-va<hi rend="grantha">stu</hi>-c cekkun taṟiyum Uḷḷiya-k kūliyum ētta-k-kā
-			<lb n="7v7=114" break="no"/>namuñ cāṭi-p-poṉṉuṅ kāruṅ teṅkam poṉṉum Upakaraṇa-t-taṇṭamu<choice><orig>mm</orig><reg>m</reg></choice> atikaraṇa-t
-			<lb n="7v8=115" break="no"/>-taṇṭamum pattūr-c-cāṟṟ’ uḻavai-paḷḷi-va<hi rend="grantha">stu</hi>vum Aṟap<unclear>puṟā</unclear>-t-taṇṭamuñ ceyivu pōka-c ciṟa
-			<lb n="7v9=116" break="no"/>nta poṉṉum Uṟi-k-kāṇamum paṟi-k-kāṇamum nīrtūkku-k-kāṇamum puṭṭaka-vilaiyum paṭṭikai			
-			
-			<pb n="8r" break="no"/>
-			<lb n="8r1=117"/>-k-kāṇamum pirāmaṇicca-k-kāṇamuṅ kaṇṇīttu-k-kaṇamuṅ kālkōṭṭu-k-kāṇamuñ ceṅk<unclear>o</unclear>
-			<lb n="8r2=118" break="no"/>ṭiy-k-kāṇamum Āṭṭu-k-kāṇamum nāvita-k-kāṇamuṅ kuvaḷai-k-kāṇamum vaṇṇā<supplied reason="omitted">ra</supplied>-k-kā<supplied reason="omitted">ṇa</supplied>mum veṇ
-			<lb n="8r3=119" break="no"/>ṇilattu-t teṅkuṅ kamukum iṭṭaṉa kālkōṭṭ’ iṟāmeyum paṉṉīr āṭṭai-k-karai-y iṟāmeyu-
-			<lb n="8r4=120"/>m
-		</p>
-		
-		<p>
-			paṇṭuṇṇun nīrkk’ uritt’ ākavum
-		</p>
-		
-		<p>
-			
-			nāṭu-kāppāṉum pukāpeyu
-			<lb n="8r5=121" break="no"/>m Ivarkaḷ ceyappālaṉa I<supplied reason="omitted">va</supplied>rum ivar-vaḻi-k kaṇṇārumē ceyivār ākavum
-		</p>
-		
-		<p>			
-			Ivar
-			<lb n="8r6=122" break="no"/>kaḷukku Āṟṟuḷ niṉṟum Ērikaḷuḷ niṉṟun nīr-īnta vaḻi tō<add place="below">ṇ</add>ṭi-k-koṇṭu-<unclear>p</unclear>
-			<lb n="8r7=123"/>pō<supplied reason="omitted">vā</supplied>r ākavum
-		</p>
-		
-		<p>			
-			Ik-kālkaḷ pōnta nilam pōṉa māṟṟi Ivarkaḷē tu<supplied reason="omitted">y</supplied>ppār ākavum
-		</p>
-		
-		<p>
-			Ivarkaḷu
-			<lb n="8r8=124" break="no"/>kk’ aṟaint’ āḻi pōki-kkaṉ-ṉāṭṭi k<unclear>ū</unclear>kai pukutti Ivai-Um ivai-y uḷḷiṭṭa pari<hi rend="grantha">hā</hi>raṅkaḷum uḷ
-			<lb n="8r9=125" break="no"/><supplied reason="lost">ḷaṭaṅka</supplied> <hi rend="grantha">sā</hi>mā<hi rend="grantha">nya</hi> Iraṇṭu paṭṭi-p paṭiyāl <hi rend="grantha"><unclear>bra</unclear>hmade</hi>yam āyiṟṟu
-		</p>
-		
-		<p>			
-			Ivv-ūrkaḷil nelli-Ēri Ivarkaḷ kiṟkum
-			<pb n="8v"/>			
-			<lb n="8v1=126"/>... v<unclear>i</unclear>riya-t tōṇṭiṉāl ceṉṟu nīr kōkku<choice><orig>mm</orig><reg>m</reg></choice> alavuṅ kōkka-p peruvat’ ākavum
-		</p>
-		<p>			
-			Ivv-ūr Ērikaluk
-			<lb n="8v2=127" break="no"/>ku Āṟṟu<supplied reason="omitted">k</supplied>kāl nīr īnta vaḻi tōṇṭi-k koṇṭ’ uṇṇa-p peṟuvār ākavum
-		</p>
-		
-		<p>			
-			Ik-kālkaḷ kōlkalamum
-			<lb n="8v3=128"/>puḻutipāṭum peṟuvat’ ākavum
-		</p>
-		
-		<p>			
-			Ik-kālkaḷ kūṭai-Eṟittuṅ kuṟṟēttam paṇṇiyuṅ kuṟaṅk’ aṟuttu
-			<lb n="8v4=129" break="no"/>ṅ koḷḷa-p peṟātār ākavum
-		</p>
-		
-		<p>			
-			koṇṭār kōviṉāṟ-ṟaṇṭika-p paṭuvār ākavum
-		</p>
-		
-		<p>			
-			<lb n="8v5=130"/>Ivaru<choice><orig>mm</orig><reg>m</reg></choice> ivar-vaḻikkaṇṇārum māṭamum māḷikaiyum Eṭuttu-<supplied reason="omitted">k</supplied> koṇṭ-irukka
-			<lb n="8v6=131" break="no"/>-p peṟuvār ākavum
-		</p>
-		
-		<p>			
-			ceṅkaḻunīrun tamaṉakamum Iṭa-p peṟuvār <choice><sic>a</sic><corr>ā</corr></choice>kavu<choice><orig>mm</orig><reg>m</reg></choice> 
-		</p>
-		
-		<p>
-			aruḷi-c ceyta
-			<lb n="8v6=132"/> tu yāṇṭu muppa<supplied reason="omitted">ttu</supplied> mūṉṟu nāḷ muṉṉūṟṟu muppatu
-		</p>
-		
-		<p>
-			<hi rend="grantha">svasti</hi> <g type="gomutra">.</g>
-		</p>
-		
-	</div>
-			
-			
-	<div type="textpart" xml:lang="san-Latn" rendition="class:grantha maturity:83215" n="D">
-	<head xml:lang="eng">Sanskrit portion 2 of 2</head>
-		
-		<lg n="7" met="anuṣṭubh">
-			<l n="a">bhūmi-dānā<choice><sic>n</sic><corr>t</corr></choice> paran dānam·</l>
-			<l n="b">na bhūtan na bha<lb n="8v7=133" break="no"/>viṣyati</l>
-			<l n="c">tasy<choice><sic>e</sic><corr>ai</corr></choice>va haraṇ<choice><sic>ā dūta</sic><corr>āt pāpa</corr></choice>m·</l>
-			<l n="d">na bhūtan na bhaviṣyati <g type="hyphen">.</g></l>
-		</lg>
-		
-		<lg n="8" met="anuṣṭubh">
-			<l n="a">sva-datt<choice><sic>a</sic><corr>ā</corr></choice>m para-datt<choice><sic>a</sic><corr>ā</corr></choice>ṁ vā</l>
-			<l n="b">yo hareta vasūndharā<supplied reason="omitted">m</supplied></l>
-			<l n="c">ṣaṣṭim<unclear>·</unclear> varṣa-<surplus>saha</surplus>sahasrāṇi</l>
-			<l n="d"><choice><sic>ṣ</sic><corr>v</corr></choice>iṣṭhāyām· jāyate kṛmi<supplied reason="omitted">ḥ</supplied> <g type="hyphen">.</g></l>
-		</lg>
-			
-		<p>
-			rakṣā ...			
-			<pb n="9r"/>
-			<lb n="9r1=135"/>...
-			
-		</p>
-			
-	</div>
-	
-	<div type="textpart" xml:lang="tam-Latn" rendition="class:tamil maturity:83215" n="E">
-	<head xml:lang="eng">Tamil portion 2 of 2</head>
-			
-		<p>
-			Ivai nayat<choice><sic>i</sic><corr>ī</corr></choice><unclear>ra</unclear>
-			<lb n="9r2=136"/>pe<hi rend="grantha">ru</hi>ṅk<unclear>ā</unclear>ṭṭukārā<choice><sic>n</sic><corr>ṉ</corr></choice><unclear>ē</unclear> Eḻuttu
-		</p>
-		
-		<p>
-			<hi rend="grantha">bhāradvāja</hi>-kō<hi rend="grantha">tra</hi>tt’ āvattampa-cū<hi rend="grantha">tra</hi>ttu
-			<lb n="9r3=137" break="no"/>-c cōlaiyūr-vatta<unclear reason="eccentric_ductus">va</unclear>ṉ tāmō<choice><sic>tila</sic><corr>tara</corr></choice><hi rend="grantha">śarma</hi>ṉum· <g type="hyphen">.</g> <hi rend="grantha">kāśya</hi>pa-kō<hi rend="grantha">tra</hi>tt’ āvattam
-			<lb n="9r4=138" break="no"/>pa-cū<hi rend="grantha">tra</hi>ttu kuṇ·ṭūr-vattavaṉ cōmāci viṉāyaka-<hi rend="grantha">śarma</hi>ṉum <g type="hyphen">.</g> va<hi rend="grantha"><choice><sic>s</sic><corr>t</corr></choice>sa</hi>-kō<hi rend="grantha">tra</hi>
-			<lb n="9r5=139" break="no"/>tt’ āvattampa-cū<hi rend="grantha">tra</hi>ttu pūṇiya-vattavaṉ· ceṭṭa<hi rend="grantha">śarma</hi>ṉum <g type="gomutra">.</g>			
-			
-		</p>	
-		
-		<p>
-						
-			<pb n="9v"/>
-			
-		</p>
-	</div>
-</div>
-			
-<div type="apparatus">
-				
-	<listApp>		
-		
-		<app loc="1v1=1">
-			<lem><supplied reason="lost">svastī śrī</supplied></lem>
-			<rdg source="bib:Mahalingam1965-1966_01"><supplied reason="lost">svastī śrī</supplied></rdg>
-			<note>The upper left corner of the plate is lost. This restoration is based on the occurrence of these blessings at the beginning of, for instance, IP 155.</note>
-		</app>			
-
-		</listApp>
-	
-</div>
-
-			
-<div type="translation" resp="part:emfr">
-      		
-	<div type="textpart" n="B">		
-		<head xml:lang="eng">Sanskrit portion 1 of 2</head>
-		
-		<p n="1">
-			<supplied reason="lost">Prosperity! Fortune!</supplied>
-		</p>
-						
-		<p rend="stanza" n="1">
-			<l>...</l>
-		</p>
-		
-						
-		<p rend="stanza" n="6">
-			<l>...</l>
-		</p>
-				
-		<p>...</p>
-	</div>
-	
-	<div type="textpart" n="C">
-		<head xml:lang="eng">Tamil portion 1 of 2</head>
-		
-		<p n="17-18">
-			Thirty-third year of the victorious king Nandivarman.
-		</p>
-		
-		<p n="18-100">
-			At the request of the prince Avanicandra<note><ptr target="bib:Mahalingam1965-1966_01"/> (p. 147) rightly identifies him as the heir and son of Udayacandra, a Pallava subordinate, petitioner of IP 76, and also lord of Vilvalapura.</note>, whereas Brahmādhirāja was executor, <supplied reason="subaudible">the villages of</supplied> Nelli, Pullūr, and Kuṭiyūr in the Kīḻvēṇāṭu of the Palkuṉṟakkōṭṭam, and <supplied reason="subaudible">the village of</supplied> Takkāṟu in the Maṇalaikuḷanāṭu <supplied reason="subaudible">of the Palkuṉṟakkōṭṭam</supplied>, these four villages, after removing kingship and seal,<note>...</note> after changing the earlier owners, after excluding the tillers, the destitute and good Brahmins who have obtained <supplied reason="subaudible">them</supplied> as <foreign>brahmadeya</foreign> are: 
-			<list>
-				<item>Kāṭakaccōmāci Trivedi Kūḷaśarman, of the <foreign>śaṇḍilagotra</foreign> and <foreign>āpasthambasūtra</foreign>, resident of Uḻappūr: two shares;</item>
-				<item>Cōmāci Trivedi Kallaśarman, of this <supplied reason="subaudible">same</supplied> <foreign>gotra</foreign> and this <supplied reason="subaudible">same</supplied> <foreign>sūtra</foreign>, resident of this <supplied reason="subaudible">same</supplied> village,</item>
-				<item>Kramavittaṉ Tāḻiśarman, of the <foreign>bhāradvājagotra</foreign> and <foreign>āpasthambasūtra</foreign>, resident of Kumāṇṭūr,</item>
-				<item>Yajña-Kāḷiśarman, of this <supplied reason="subaudible">same</supplied> <foreign>gotra</foreign> and this <supplied reason="subaudible">same</supplied> <foreign>sūtra</foreign>, resident of this <supplied reason="subaudible">same</supplied> village,</item>
-				<item>Trivedi Uḻutamaṇṭaiśarman, of the <foreign>gautamagotra</foreign> and <foreign>pravacanasūtra</foreign>, resident of Kāvaṉūr,</item>
-				<item>...: one share;</item>
-				<item>...</item>
-				<item>...</item>
-				
-				<item>Brahmādhirāja:<note>This is the executor of the grant.</note> four shares;</item>
-				<item>The <foreign>peruntiṇai</foreign><note>This appears to be the name of an admistrative charge.</note> of <placeName>Kaṭaṅkāṭu</placeName>: one share;</item>
-				<item>The <foreign>kiḻaṉ</foreign><note>A landowner, of some importance in connexion with the grant.</note> of <placeName>Cāttaṅkuṭi</placeName>: one share;</item>
-				<item>The <foreign>peruntiṇai</foreign> <supplied reason="subaudible">in charge</supplied> of the dance <foreign>nāṭṭiyam</foreign>: one share;</item>
-				<item>Kalivicaiyaṉ: one share;</item>
-				<item>Perumāṉaṭikaḷ:<note>This is possibly some religious dignitary, possibly the chief of a <foreign>maṭha</foreign>.</note> <supplied reason="subaudible">one</supplied> share;</item>
-				<item>Tiruvaṭikaḷ:<note>This is possibly some religious dignitary, possibly the chief of a <foreign>maṭha</foreign>.</note> <supplied reason="subaudible">one</supplied> share;</item>
-				<item>Bhagavatiyār:<note>This is possibly a woman (Sanskrit <foreign>bhagavatī</foreign>).</note> <supplied reason="subaudible">one</supplied> share.</item>				
-			</list>
-		</p>
-		
-		<p n="101-102">
-			<supplied reason="subaudible">Furthermore, there are</supplied> fifteen shares added <supplied reason="explanation"><foreign>ēṟiṉa</foreign>?</supplied> by order for <supplied reason="explanation"><foreign>mēl</foreign><note>Literally: upon.</note></supplied> the one hundred eight among these.<note>This appears to be a donation of 15 shares for the entire group of the 108 donees.</note>
-		</p>
-		<p n="102-108">
-			<supplied reason="subaudible">The boundaries of the newly created <foreign>brahmadeya</foreign></supplied> that the village headman <supplied reason="explanation"><foreign>viyavaṉ</foreign></supplied> proclaimed <supplied reason="explanation"><foreign>colliya</foreign><note>Literally: said.</note></supplied> according to the palm-leaf document <supplied reason="explanation"><foreign>aṟaiyōlai</foreign></supplied> that the delegates of the <foreign>nāṭu</foreign> <supplied reason="explanation"><foreign>nāṭṭār</foreign></supplied> sent after keeping on their heads the royal order which graciously made <supplied reason="subaudible">these villages</supplied> as a <foreign>brahmadeya</foreign> for one hundred and eight destitute and good Brahmins <supplied reason="subaudible">are</supplied>:
-			<list>
-				<item>the eastern boundary is to the west of ...;</item>
-				<item>the southern boundary is to the north of ...;</item>
-				<item>the western boundary is to the east of the boundary of <placeName>Paḻaṅkōḷūr</placeName>;</item>
-				<item>the northern boundary is to the south of the boundary of <placeName>Paḻaṅkōḷūr</placeName> and of ...;</item>
-			</list>
-			
-		</p>
-		
-		<p n="102-111">
-			The wet land, the dry land, the forests, and the saline lands that are included within these four boundaries, wherever the iguana runs and the turtle crawls, has become a <foreign>brahmadeya</foreign> under the name Nayadhīramaṅgala ...
-		</p>		
-				
-		<p n="111-112">
-			In this manner, so that ... a <foreign>paradatti</foreign> has been made.
-		</p>
-		
-				
-		<p n="112-120">
-			The <supplied reason="explanation">tax-</supplied>exemptions that this village obtains are: ...
-		</p>
-		
-				
-		<p n="120">
-			Let there be right <supplied reason="explanation"><foreign>urittu</foreign></supplied> to drinking <supplied reason="explanation"><foreign>uṇṇum</foreign></supplied> water <supplied reason="explanation"><foreign>nīr</foreign></supplied> as before.
-		</p>
-				
-		<p n="120-121">
-			...
-		</p>
-		
-				
-		<p n="121-123">
-			...
-		</p>
-		
-				
-		<p n="123">
-			...
-		</p>
-		
-				
-		<p n="123-125">
-			...
-		</p>
-		
-				
-		<p n="125-126">
-			...
-		</p>
-		
-				
-		<p n="126-127">
-			...
-		</p>
-		
-				
-		<p n="127-128">
-			...
-		</p>
-		
-				
-		<p n="128-129">
-			...
-		</p>
-		
-				
-		<p n="129">
-			...
-		</p>
-		
-				
-		<p n="130-131">
-			Let these and their descendants obtain to build ... and reside in ...
-		</p>
-		
-		<p n="131">
-			Let <supplied reason="subaudible">these</supplied> obtain to put<note>That is, to plant or to wear.</note> water-lilies <supplied reason="explanation"><foreign>ceṅkaḻunīr</foreign></supplied> and southernwood <supplied reason="explanation"><foreign>tamaṉakam</foreign></supplied>.
-		</p>
-		
-				
-		<p n="131-132">
-			<supplied reason="subaudible">Thus</supplied> has been graciously made, <supplied reason="subaudible">in</supplied> the year thirty three, day three hundred thirty.
-		</p>
-		
-				
-		<p n="132">
-			Prosperity!
-		</p>
-	</div>
-	
-	<div type="textpart" n="D">
-		<head xml:lang="eng">Sanskrit portion 2 of 2</head>
-		
-		<p rend="stanza" n="7">
-			<l>...</l>
-		</p>
-						
-		<p rend="stanza" n="8">
-			<l>...</l>
-		</p>
-	</div>
-	
-	<div type="textpart" n="E">
-		<head xml:lang="eng">Tamil portion 2 of 2</head>
-		
-		<p n="135-136">
-			These are the letters<note>That is, the "writing" or "handwriting".</note> of Nayadhīra Peruṅkāṭtukārāṉ.<note><ptr target="bib:Mahalingam1965-1966_01"/> (p. 146) suggests that the four names in lines 136-139 are <quote>the signatures of those responsible for the drafting and execution of the document on copper</quote>, but further notes that (p. 146, fn. 5) that: <quote>A few more names of Brāhmaṇas written by a different hand [that is, the three names in lines 136-139] follow the signature of Nayadhīra-Peraṅkāṭṭukāraṉ. These names were perhaps left out of the main list of donees and were inserted later.</quote> This makes good sense.</note>
-		</p>
-		<p n="136-139">
-			<list>
-				<item>Tāmōtaraśarman,<note>Sanskrit Dāmodaraśarman.</note> of the <foreign>bhāradvājagotra</foreign> and <foreign>āpasthambasūtra</foreign>, resident of <placeName>Cōlaiyūr</placeName>;</item>
-				<item>Cōmāci Vināyakaśarman, of the <foreign>kāśyapagotra</foreign> and <foreign>āpasthambasūtra</foreign>, resident of <placeName>Kuṇṭūr</placeName>;</item>
-				<item>Ceṭṭaśarman, of the <foreign>vatsagotra</foreign> and <foreign>āpasthambasūtra</foreign>, resident of <placeName>Pūṇiyam</placeName>;</item>
-			</list>
-		</p>
-	</div>
-	
-</div>
-
-<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
-
-	<div type="textpart" n="B">
-		
-		<head xml:lang="eng">Sanskrit portion 1 of 2</head>
-		
-				
-		<p rend="stanza" n="1">
-			<l>...</l>	
-			<l>...</l>
-		</p>
-		
-		<p rend="stanza" n="2">
-			<l>Bharadvāja, des prêtres le <gap reason="lost"/>; <supplied reason="lost">de lui</supplied> naquit l’auteur de <gap reason="lost"/>, Droṇa;</l>
-			<l>De Droṇa, naquit Drauṇi, qui, au combat, en l’espace d’un instant, de ses flèches soumit la puissance des guerriers;</l>
-			<l>De lui naquit noblement <gap reason="lost"/> le favori de la terre plus large <gap reason="lost"/>, nommé Pallava,</l>
-			<l>Un être fort jouissant d’une immense prospérité, dont la gloire resplendit au milieu des impuretés de l’âge Kali instable. </l>
-		</p>		
-		<p rend="stanza" n="3">
-			<l>Pallava donna naissance à la magnifique, l’illustre, la grande lignée des Pallava,</l>
-			<l>Qui noblement prit rang au-dessus des souverains éminents.</l>
-		</p>
-		
-		<p rend="stanza" n="4">
-			<l>Dans cette lignée, fermement installés dans une position que le grand mât de leur fierté rendait inébranlable,</l>
-			<l>Naquirent des souverains qui, donnant naissance à des torrents de générosité qui s’écoulaient, furent autant d’éléphants de l’Himalaya sécrétant l’écoulement de torrents de sérosité.</l>
-		</p>		
-		
-		<p rend="stanza" n="5">
-			<l>Le monarque prospère, qui ébranle la fortune de ses puissants ennemis, le bien-aimé</l>
-			<l>Seigneur qui détient la puissance et réalise ce qu’il y a de plus doux, le roi plein d’éclat qui resplendit,</l>
-			<l>Celui qui jusqu’aux confins protège la terre et ses nombreux trésors, celui qui possède un monceau de joyaux</l>
-			<l>Naquit dans cette lignée des Pallava : l’actuel souverain Nandivarman, au nom illustre. </l>
-		</p>	
-		
-		<p rend="stanza" n="6">
-			<l>Les Keraḷa, les Coḷa, les Pāṇḍya, les Maḷava, les rois des Kāḷabhra et des Bāṇa,</l>
-			<l>Les Sāndhra, les Saindhava et les Śāntavaṁkuravara, les Gaṁga, les souverains des Kadaṁba,</l>
-			<l>Tous les chefs puissants et éminents, préoccupés, ébranlés par la crainte d’un conflit,</l>
-			<l>Prennent les devants en révérant l’autorité de ce monarque magnifique à la gloire immense, qui gouverne la terre.</l>
-		</p>		
-								
-		<p n="10-20">
-			Un jour que ce roi, entouré de princes qui vivaient éternellement aux pieds du roi, était assis dans la salle des délibérations, il fit une donation, requis par le seigneur de Vilvalapura, nommé Avanicaṁdra-Yuvarāja, de longue date réputé comme son principal allié perpétuel et dévoué aux Pallava, qui se trouvait là et souhaitait accomplir un acte dharmique : en monarque qui saisit l’occasion qu’on lui offrait, il fit don, avec aspersion d’eau, à cent huit illustres seigneurs Bappa, brahmanes excellents issus de la succession de leurs lignées, et dont la naissance, la conduite et la science étaient irréprochables, d’un village qu’il constitua par la réunion des quatre villages de Nelli, Pullūra, Takkāra et Kuḍiyūra, situés sur le rivage sud de la rivière Veyārū, au Kīḷveṁ-nātaka, dans le Palkuṁda-koṭṭaka, et qu’il nomma Nayadhīra-maṁgalam, d’après son propre nom. Il désigna comme exécuteur le meilleur des prêtres et des ministres : Nāgaśarman, appelé encore Brahmādhirāja, Bṛhaspati en personne, habile à pratiquer la science du gouvernement, et objet de l’indéfectible affection du roi.
-		</p>
-
-	</div>
-	
-		
-	<div type="textpart" n="D">
-		<head xml:lang="eng">Sanskrit portion 2 of 2</head>
-		
-		<p rend="stanza" n="7">
-			<l>Hormis le don de terre, d’autre don</l>
-			<l>Il n’y eut point et n’y aura point;</l>
-			<l>Hormis celui de s’en emparer, de crime</l>
-			<l>Il n’y eut point et n’y aura point.</l>
-		</p>
-		
-		<p rend="stanza" n="8">
-			<l>Donnée par soi ou donnée par autrui,</l>
-			<l>Quiconque s’approprie une terre,</l>
-			<l>Pour soixante milliers d’années</l>
-			<l>Dans la fiente naît vers de terre.</l>
-		</p>
-		
-		<p n="134-135">
-			Préserver un acte dharmique ou y porter atteinte <gap reason="lost"/> de ces deux actions, puissent les rois accomplir la seule qui soit pure. Le succès soit avec vous !
-		</p>
-	</div>
-	      		
-</div>
-
-      	<div type="commentary">
-
-      		<p>Online images: https://www.museumsofindia.gov.in/repository/record/im_kol-13119-51. Plates in disorder.</p>
-      		<p><ptr target="bib:Mahalingam1988_01"/> and <ptr target="bib:Brocquet1997_01"/> date the plates to circa 877.</p>
-      		<p>The seal is entirely defaced.</p>
-      		
-      	</div>
-
-<div type="bibliography">
-	
-	<p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/A/1939-1940/9).</p>
-	<p>
-		Edited in Tamil script by <bibl><ptr target="bib:Mahalingam1965-1966_01"/></bibl> (EI 36.20).
-		Text (with many typos) and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 81).
-		Sanskrit text (based on the very imperfect edition in<bibl><ptr target="bib:Mahalingam1988_01"/></bibl>) and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 56).
-		See <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 83).</p>
-	<p>This revised edition by Emmanuel Francis, based on previous edition(s), published visual documentation and online photos.</p>
-         	
-            <listBibl type="primary">
-
-            	<bibl n="EI">
-            		<ptr target="bib:Mahalingam1965-1966_01"/>
-            	</bibl>         
-
-            	<bibl n="IP">
-            		<ptr target="bib:Mahalingam1988_01"/>
-            		<citedRange unit="page">261-279</citedRange>
-            		<citedRange unit="item">81</citedRange>
-            	</bibl>
-
-            	<bibl n="B">
-            		<ptr target="bib:Brocquet1997_01"/>
-            		<citedRange unit="page">669-677</citedRange>
-            		<citedRange unit="item">56</citedRange>
-            	</bibl>
-
-            </listBibl>
-
-           <listBibl type="secondary">
-      			      			
-      			<bibl>
-            			<ptr target="bib:ARIE1939-1943"/>
-            			<citedRange unit="page">21, 229-230</citedRange>
-            			<citedRange unit="appendix">A/1939-1940</citedRange>
-            			<citedRange unit="item">9</citedRange>  
-            		</bibl>      			      			
-      			
-      			
-      			<bibl>
-      				<ptr target="bib:Francis2013_01"/>
-      				<citedRange unit="page">302</citedRange>
-      				<citedRange unit="item">IR 83</citedRange>
-      				
-      			</bibl>
-          
-      		</listBibl>
-
-         </div>
-
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pullūr plates, time of Nandivarman, year 33</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>    
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSPallava00081</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Grant of four villages (Nelli, Pullūra, Takkāra and Kuḍiūra in the Kīḷveṇātaka in the Palkundakoṭṭaka according to the Sankrit portion; Nelli, Pullūr, and Kuṭiyūr in the Kīḻvēṇāṭu in the Palkuṉṟakkōṭṭam and Takkāṟu in the Maṇalaikuḷanāṭu in the Palkuṉṟakkōṭṭam according to Tamil portion), as a <foreign>brahmadeya</foreign> renamed as Nayadhīramaṁgala/Nayadhīramaṅkalam, to 108 Brahmins. In fact only 100 Brahmin donees are mentioned, including the 3 donees added, by afterthought, at the end of the grant, whereas there are 8 further donees, who appear to be officials involved in the transaction and religious dignitaries granted at the same time.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>The <foreign>puḷḷi</foreign> is used in the Tamil text. For further paleaographical details, see <bibl><ptr target="bib:Mahalingam1965-1966_01"/><citedRange unit="page"
+                                >144-145</citedRange></bibl>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2023-09-15" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            
+            <div type="edition">
+                
+                <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <head xml:lang="eng">Seal</head>
+                </div>
+                
+                <div type="textpart" xml:lang="san-Latn" rendition="class:grantha maturity:83215" n="B">
+                    <head xml:lang="eng">Sanskrit portion 1 of 2</head>		
+                    
+                    <pb n="1r"/>
+                    
+                    <ab>
+                        <pb n="1v"/>
+                        <lb n="1v1=1"/><supplied reason="lost">svastī śrī</supplied>
+                    </ab>
+                    
+                    <lg n="1" met="anuṣṭubh">
+                        <l n="a"><supplied reason="lost">pāyā</supplied><unclear>d va</unclear>ś śāṁkar<choice><sic>i</sic><corr>ī</corr></choice>-mūrttiś </l>
+                        <l n="b">śaśā<surplus>ṁ</surplus>ṅkāṁkura-śekharā</l>
+                        <l n="c">pratipad-dina-paryyante</l>
+                        <l n="d">sandhyeva sakalānatā <g type="gomutra">.</g></l>
+                    </lg>
+                    
+                    <lg n="2" met="sragdharā">
+                        <l n="a">...</l>
+                        <l n="b">...</l>
+                        <l n="c">...</l>
+                        <l n="d">...</l>
+                    </lg>
+                    
+                    <lg n="3" met="anuṣṭubh">
+                        <l n="a">...</l>
+                        <l n="b">...</l>
+                        <l n="c">...</l>
+                        <l n="d">...</l>
+                    </lg>
+                    
+                    <lg n="4" met="anuṣṭubh">
+                        <l n="a">...</l>
+                        <l n="b">...</l>
+                        <l n="c">...</l>
+                        <l n="d">...</l>
+                    </lg>
+                    
+                    <lg n="5" met="śārdūlavikrīḍita">
+                        <l n="a">...</l>
+                        <l n="b">...</l>
+                        <l n="c">...</l>
+                        <l n="d">...</l>
+                    </lg>
+                    
+                    <lg n="6" met="śārdūlavikrīḍita">
+                        <l n="a">...</l>
+                        <l n="b">... <pb n="2"/> ...</l>
+                        <l n="c">...</l>
+                        <l n="d">...</l>
+                    </lg>
+                    
+                    <p>
+                        sa tu kadācid rājā rāja-<supplied reason="lost">n</supplied>i<supplied reason="lost">tya-p</supplied>ādopajīvi-rāja
+                        <lb n="2r3=11"/>ka-parivṛta<supplied reason="omitted">ḥ</supplied> kṛta-vyavasthā-sthāna-sthitis tatra sthitena parañ-cirantarānanta-sāmanta-mukhya-vikhyātena pallava-bha
+                        <lb n="2r4=12" break="no"/>ktinā vilvalapureśvareṇ<choice><sic>ā</sic><corr>a</corr></choice> Avanicandra-yuvarāja-nām<unclear>n</unclear>ā dharmma-kṛtthārtthaṁ vijñ<choice><sic>ā</sic><corr>a</corr></choice>pto datta-<choice><sic>t</sic><corr>k</corr></choice>ṣaṇa
+                        <lb n="2r5=13" break="no"/><choice><sic>t</sic><corr>k</corr></choice>ṣoṇīpatiḥ pratya<choice><sic>t</sic><corr>k</corr></choice>ṣa-b<choice><sic>ra</sic><corr>ṛ</corr></choice>haspatiṁ <choice><sic>t</sic><corr>k</corr></choice>ṣatra-vidyā-<unclear>vi</unclear>ca<choice><sic>t</sic><corr>k</corr></choice>ṣaṇam a<choice><sic>t</sic><corr>k</corr></choice>ṣī<choice><sic>s</sic><corr>ṇa</corr></choice>-svāmi-rāgan nāgaśarmmaṇa
+                        <lb n="2r6=14" break="no"/>m· brahmādhirājāpara-nāmānan dvija-vara-mantri-varam ājñaptiṁ kṛtvā palkunda-koṭṭake kīḷ·veṁ-ṇā<unclear>ṭa</unclear>ke ceyāru-nadī
+                        <lb n="2r7=15" break="no"/>da<choice><sic>t</sic><corr>k</corr></choice>ṣiṇa-kūle nelli-pullūra-takkāra-kuḍ<choice><orig>iŪ</orig><reg>iyū</reg></choice>ra catur-grām<choice><sic>ī</sic><corr>a</corr></choice>-saṁgraheṇaika-grāman nayadhīra-maṁgalaṁ sva-nā
+                        <lb n="2r8=16" break="no"/>mnā kṛta-nāmānaṁ kṛtvā nija-vaṁśa-param·parāgatānāṁ śuddhābhijana-vṛtta-vidyānām· dvija-vara-bappa-bhaṭṭārakānā
+                        
+                        <pb n="2v" break="no"/>
+                        
+                        <lb n="2v1=17"/>m aṣṭ<supplied reason="omitted">ottar</supplied>aśatāya <surname>s</surname>salila-pūrvvan dattavān<unclear>·</unclear> <g type="gomutra">.</g> <space/>
+                    </p>
+                    
+                    <ab>
+                        svasti <space/>
+                    </ab>
+                    
+                </div>
+                
+                <div type="textpart" xml:lang="tam-Latn" rendition="class:tamil maturity:83215" n="C">
+                    <head xml:lang="eng">Tamil portion 1 of 2</head>
+                    
+                    <p>
+                        kō-vic<choice><orig>ai</orig><reg>ai</reg></choice>ya-nan·tiva<hi rend="grantha">rmma</hi>ku yā<unclear>ṇ</unclear>ṭu mu	
+                        <lb n="2v2=18" break="no"/>p·pat·tu mūṉṟāvatu
+                    </p>
+                    
+                    <p>			
+                        Avani<hi rend="grantha">candra</hi>-Iḷavaracaṉ· viṇ·ṇap·pat·tāl· <hi rend="grantha">brahmādhirāja</hi>	n· Aṇat·ti
+                        <lb n="2v3=19"/>Āka pal·kuṉ·ṟa-k·-kōṭṭat·tu k[<choice><sic>i</sic><corr>ī</corr></choice>ḻvēṇāṭṭu nel·liyum pul·lūruṅ· kuṭiyūru maṇa<unclear>lai</unclear>ku
+                        <lb n="2v4=20" break="no"/>ḷa-nāṭṭu-t takkāṟum· In·-nāl·kūruṅ· kōvum· poṟiyun· tīr·t·tu muṉ· peṟṟārai māṟṟi ku
+                        <lb n="2v5=21" break="no"/>ṭi nīk·ki <hi rend="grantha">brahmade</hi>yam-āka-p· peṟ·ṟa nal·kūṟ·-naṟ-pāppār·
+                        
+                        <hi rend="grantha">ṣaṇḍila-gotra</hi>tt’ āvat·tampa-cū<surplus>t·tira</surplus>
+                        <lb n="2v6=22" break="no"/>t<unclear>·</unclear>tirat·t’ uḻappūr-vat·tavaṉ· kāṭaka-c·-cōmāci ti<choice><sic>ru</sic><corr>ri</corr></choice>vēti kūḷa-<hi rend="grantha">śarmma</hi>ṉ· paṅ·k’ iraṇ·ṭu <g type="hyphen">.</g> Ik·-kō
+                        
+                        <lb n="2v7=23" break="no"/>...
+                        
+                        <pb n="3r"/>
+                        
+                        <pb n="3v"/>
+                        
+                        <pb n="4r"/>
+                        
+                        <pb n="4v"/>
+                        
+                        <pb n="5r"/>
+                        
+                        <pb n="5v"/>			
+                        
+                        <pb n="6r"/>
+                        
+                        <pb n="6v"/>
+                        
+                        <pb n="7r"/>
+                        
+                        <lb n="7r1=98" break="no"/>ṉum <g type="hyphen">.</g> kā<hi rend="grantha">śyapa</hi>-kōtrattu paṟampur āḷuṅ kari<hi rend="grantha">śarma</hi>ṉ paṅk’ iraṇṭu <g type="hyphen">.</g> <hi rend="grantha">bra<unclear>h</unclear>mādh<supplied reason="lost">i</supplied>rāja</hi>ṉ paṅku nāl·ku <g type="hyphen">.</g> kaṭaṅ
+                        <lb n="7r2=99" break="no"/>kāṭṭu-p perun tiṇai paṅk’ oṉṟu <g type="hyphen">.</g> cāttaṅkuṭi kiḻāṉ paṅk’ oṉṟu <g type="hyphen">.</g> nāṭṭiya-p perun tiṇai paṅk’ o<unclear>ṉṟu</unclear> 
+                        
+                        
+                        <lb n="7r3=100"/>kalivicaiyaṉ paṅk’ oṉṟu <g type="hyphen">.</g> perumaṉaṭikaḷ paṅku <g type="hyphen">.</g> tiruvaṭikaḷ paṅku <g type="hyphen">.</g> <hi rend="grantha">bhaga</hi>vatiyār paṅku <g type="hyphen">.</g>
+                    </p>
+                    
+                    <p>
+                        Ivait
+                        <lb n="7r4=101" break="no"/>tuḷ <hi rend="grantha">Aṣṭaśada</hi>ttiṉ mēl paṇiyāl ēṟiṉa paṅku patiṉ aintu <space/>
+                        <lb n="7r5=102"/>
+                        nūṟṟeṇ<unclear reason="eccentric_ductus">m</unclear>ar nāl<surplus>kū</surplus>kū<supplied reason="omitted">r</supplied> naṟ-pā<supplied reason="omitted">r</supplied>ppā<supplied reason="omitted">r</supplied>k=ku <hi rend="grantha">brahmade</hi>yam Aruḷic c<choice><orig>ē</orig><reg>ey</reg></choice>ta tiru
+                        
+                        <lb n="7r6=103" break="no"/>mukaṉ talaik=ku vaittu nāṭṭā<supplied reason="omitted">r</supplied> viṭunta Aṟaiyōlai-p paṭiyāl nā		
+                        <lb n="7r7=104" break="no"/>ṭṭu viyavaṉ colliya
+                        
+                        <list>
+                            
+                            <item>kīḻ-pāṟk’ ellai pāṭi Ērik=kum cālai-nal <space/>
+                                <lb n="7r8=105" break="no"/>lūr nattattin mēlai kaḷāṅkēṇik=ku mēk=kum</item>		        
+                            
+                            <item>te<choice><orig>n</orig><reg>ṉ</reg></choice>-pār<unclear>ṟ</unclear>kk’ e		
+                                <lb n="7r9=106" break="no"/>llai necalar-p-pūṇṭi Ērik=kum nākaṭi-maṅkalattu <unclear>va</unclear>riccu-kāluk=kum cātā-maṅkalattu			    <lb n="7r10=107" break="no"/>k=ku nāraikuḻalaik=ku vaṭakku<supplied reason="subaudible">m</supplied></item>
+                            
+                            <item>mēl-pāṟk’ ellai paḻaṅkōḷūr Ellaiyin kiḻakkum <space/></item>
+                            
+                            <item><pb n="7v"/>
+                                <lb n="7v1=108"/>vaṭa-pāṟk’ ellai paḻaṅkōḷ<unclear>ū</unclear>r Ellaiyiluñ cēyāṟṟuḷ pākam peṟavun teṟku<choice><orig>mm</orig><reg>m</reg></choice></item>
+                        </list>
+                        
+                        in-nāl			
+                        <lb n="7v2=109" break="no"/>k’ ellai-y akattu<choice><orig>mm</orig><reg>m</reg></choice> akapaṭṭa nīru-nilaṉu<supplied reason="omitted">m</supplied> pu<choice><sic>ṉ</sic><corr>ñ</corr></choice>ceyuṅ kāṭuṅ kaḷaru<choice><orig>mm</orig><reg>m</reg></choice> uṭump’ ōṭiy āmai tava
+                        <lb n="7v3=110" break="no"/>ḻ·<unclear reason="eccentric_ductus">n</unclear>tat’ ellān nayadhīramangalam ennum pērā<choice><sic><hi rend="grantha">n</hi></sic><corr>l</corr></choice> <hi rend="grantha">sarvva</hi>-<add place="below">pa</add><hi rend="grantha">rihā</hi>ram uḷ·ḷaṭaṅka sāmānya
+                        <lb n="7v4=111"/>Iraṇṭu paṭṭi-p paṭiyāl <hi rend="grantha">brahmade</hi>yam āyittu
+                    </p>
+                    <p>
+                        Ip-paṭiyālē pāṟcāttum			
+                        <lb n="7v5=112"/>paratattiyuñ celvat’ āka-v aruḷi-c c<choice><orig>ē</orig><reg>ey</reg></choice>tu paratatti ceytatu
+                    </p>
+                    
+                    <p>			
+                        Ivv-ūr peṟṟa
+                        <lb n="7v6=113"/>pari<hi rend="grantha">hā</hi>raṅ kōyil-va<hi rend="grantha">stu</hi>-c cekkun taṟiyum Uḷḷiya-k kūliyum ētta-k-kā
+                        <lb n="7v7=114" break="no"/>namuñ cāṭi-p-poṉṉuṅ kāruṅ teṅkam poṉṉum Upakaraṇa-t-taṇṭamu<choice><orig>mm</orig><reg>m</reg></choice> atikaraṇa-t
+                        <lb n="7v8=115" break="no"/>-taṇṭamum pattūr-c-cāṟṟ’ uḻavai-paḷḷi-va<hi rend="grantha">stu</hi>vum Aṟap<unclear>puṟā</unclear>-t-taṇṭamuñ ceyivu pōka-c ciṟa
+                        <lb n="7v9=116" break="no"/>nta poṉṉum Uṟi-k-kāṇamum paṟi-k-kāṇamum nīrtūkku-k-kāṇamum puṭṭaka-vilaiyum paṭṭikai			
+                        
+                        <pb n="8r" break="no"/>
+                        <lb n="8r1=117"/>-k-kāṇamum pirāmaṇicca-k-kāṇamuṅ kaṇṇīttu-k-kaṇamuṅ kālkōṭṭu-k-kāṇamuñ ceṅk<unclear>o</unclear>
+                        <lb n="8r2=118" break="no"/>ṭiy-k-kāṇamum Āṭṭu-k-kāṇamum nāvita-k-kāṇamuṅ kuvaḷai-k-kāṇamum vaṇṇā<supplied reason="omitted">ra</supplied>-k-kā<supplied reason="omitted">ṇa</supplied>mum veṇ
+                        <lb n="8r3=119" break="no"/>ṇilattu-t teṅkuṅ kamukum iṭṭaṉa kālkōṭṭ’ iṟāmeyum paṉṉīr āṭṭai-k-karai-y iṟāmeyu-
+                        <lb n="8r4=120"/>m
+                    </p>
+                    
+                    <p>
+                        paṇṭuṇṇun nīrkk’ uritt’ ākavum
+                    </p>
+                    
+                    <p>
+                        
+                        nāṭu-kāppāṉum pukāpeyu
+                        <lb n="8r5=121" break="no"/>m Ivarkaḷ ceyappālaṉa I<supplied reason="omitted">va</supplied>rum ivar-vaḻi-k kaṇṇārumē ceyivār ākavum
+                    </p>
+                    
+                    <p>			
+                        Ivar
+                        <lb n="8r6=122" break="no"/>kaḷukku Āṟṟuḷ niṉṟum Ērikaḷuḷ niṉṟun nīr-īnta vaḻi tō<add place="below">ṇ</add>ṭi-k-koṇṭu-<unclear>p</unclear>
+                        <lb n="8r7=123"/>pō<supplied reason="omitted">vā</supplied>r ākavum
+                    </p>
+                    
+                    <p>			
+                        Ik-kālkaḷ pōnta nilam pōṉa māṟṟi Ivarkaḷē tu<supplied reason="omitted">y</supplied>ppār ākavum
+                    </p>
+                    
+                    <p>
+                        Ivarkaḷu
+                        <lb n="8r8=124" break="no"/>kk’ aṟaint’ āḻi pōki-kkaṉ-ṉāṭṭi k<unclear>ū</unclear>kai pukutti Ivai-Um ivai-y uḷḷiṭṭa pari<hi rend="grantha">hā</hi>raṅkaḷum uḷ
+                        <lb n="8r9=125" break="no"/><supplied reason="lost">ḷaṭaṅka</supplied> <hi rend="grantha">sā</hi>mā<hi rend="grantha">nya</hi> Iraṇṭu paṭṭi-p paṭiyāl <hi rend="grantha"><unclear>bra</unclear>hmade</hi>yam āyiṟṟu
+                    </p>
+                    
+                    <p>			
+                        Ivv-ūrkaḷil nelli-Ēri Ivarkaḷ kiṟkum
+                        <pb n="8v"/>			
+                        <lb n="8v1=126"/>... v<unclear>i</unclear>riya-t tōṇṭiṉāl ceṉṟu nīr kōkku<choice><orig>mm</orig><reg>m</reg></choice> alavuṅ kōkka-p peruvat’ ākavum
+                    </p>
+                    <p>			
+                        Ivv-ūr Ērikaluk
+                        <lb n="8v2=127" break="no"/>ku Āṟṟu<supplied reason="omitted">k</supplied>kāl nīr īnta vaḻi tōṇṭi-k koṇṭ’ uṇṇa-p peṟuvār ākavum
+                    </p>
+                    
+                    <p>			
+                        Ik-kālkaḷ kōlkalamum
+                        <lb n="8v3=128"/>puḻutipāṭum peṟuvat’ ākavum
+                    </p>
+                    
+                    <p>			
+                        Ik-kālkaḷ kūṭai-Eṟittuṅ kuṟṟēttam paṇṇiyuṅ kuṟaṅk’ aṟuttu
+                        <lb n="8v4=129" break="no"/>ṅ koḷḷa-p peṟātār ākavum
+                    </p>
+                    
+                    <p>			
+                        koṇṭār kōviṉāṟ-ṟaṇṭika-p paṭuvār ākavum
+                    </p>
+                    
+                    <p>			
+                        <lb n="8v5=130"/>Ivaru<choice><orig>mm</orig><reg>m</reg></choice> ivar-vaḻikkaṇṇārum māṭamum māḷikaiyum Eṭuttu-<supplied reason="omitted">k</supplied> koṇṭ-irukka
+                        <lb n="8v6=131" break="no"/>-p peṟuvār ākavum
+                    </p>
+                    
+                    <p>			
+                        ceṅkaḻunīrun tamaṉakamum Iṭa-p peṟuvār <choice><sic>a</sic><corr>ā</corr></choice>kavu<choice><orig>mm</orig><reg>m</reg></choice> 
+                    </p>
+                    
+                    <p>
+                        aruḷi-c ceyta
+                        <lb n="8v6=132"/> tu yāṇṭu muppa<supplied reason="omitted">ttu</supplied> mūṉṟu nāḷ muṉṉūṟṟu muppatu
+                    </p>
+                    
+                    <p>
+                        <hi rend="grantha">svasti</hi> <g type="gomutra">.</g>
+                    </p>
+                    
+                </div>
+                
+                
+                <div type="textpart" xml:lang="san-Latn" rendition="class:grantha maturity:83215" n="D">
+                    <head xml:lang="eng">Sanskrit portion 2 of 2</head>
+                    
+                    <lg n="7" met="anuṣṭubh">
+                        <l n="a">bhūmi-dānā<choice><sic>n</sic><corr>t</corr></choice> paran dānam·</l>
+                        <l n="b">na bhūtan na bha<lb n="8v7=133" break="no"/>viṣyati</l>
+                        <l n="c">tasy<choice><sic>e</sic><corr>ai</corr></choice>va haraṇ<choice><sic>ā dūta</sic><corr>āt pāpa</corr></choice>m·</l>
+                        <l n="d">na bhūtan na bhaviṣyati <g type="hyphen">.</g></l>
+                    </lg>
+                    
+                    <lg n="8" met="anuṣṭubh">
+                        <l n="a">sva-datt<choice><sic>a</sic><corr>ā</corr></choice>m para-datt<choice><sic>a</sic><corr>ā</corr></choice>ṁ vā</l>
+                        <l n="b">yo hareta vasūndharā<supplied reason="omitted">m</supplied></l>
+                        <l n="c">ṣaṣṭim<unclear>·</unclear> varṣa-<surplus>saha</surplus>sahasrāṇi</l>
+                        <l n="d"><choice><sic>ṣ</sic><corr>v</corr></choice>iṣṭhāyām· jāyate kṛmi<supplied reason="omitted">ḥ</supplied> <g type="hyphen">.</g></l>
+                    </lg>
+                    
+                    <p>
+                        rakṣā ...			
+                        <pb n="9r"/>
+                        <lb n="9r1=135"/>...
+                        
+                    </p>
+                    
+                </div>
+                
+                <div type="textpart" xml:lang="tam-Latn" rendition="class:tamil maturity:83215" n="E">
+                    <head xml:lang="eng">Tamil portion 2 of 2</head>
+                    
+                    <p>
+                        Ivai nayat<choice><sic>i</sic><corr>ī</corr></choice><unclear>ra</unclear>
+                        <lb n="9r2=136"/>pe<hi rend="grantha">ru</hi>ṅk<unclear>ā</unclear>ṭṭukārā<choice><sic>n</sic><corr>ṉ</corr></choice><unclear>ē</unclear> Eḻuttu
+                    </p>
+                    
+                    <p>
+                        <hi rend="grantha">bhāradvāja</hi>-kō<hi rend="grantha">tra</hi>tt’ āvattampa-cū<hi rend="grantha">tra</hi>ttu
+                        <lb n="9r3=137" break="no"/>-c cōlaiyūr-vatta<unclear reason="eccentric_ductus">va</unclear>ṉ tāmō<choice><sic>tila</sic><corr>tara</corr></choice><hi rend="grantha">śarma</hi>ṉum· <g type="hyphen">.</g> <hi rend="grantha">kāśya</hi>pa-kō<hi rend="grantha">tra</hi>tt’ āvattam
+                        <lb n="9r4=138" break="no"/>pa-cū<hi rend="grantha">tra</hi>ttu kuṇ·ṭūr-vattavaṉ cōmāci viṉāyaka-<hi rend="grantha">śarma</hi>ṉum <g type="hyphen">.</g> va<hi rend="grantha"><choice><sic>s</sic><corr>t</corr></choice>sa</hi>-kō<hi rend="grantha">tra</hi>
+                        <lb n="9r5=139" break="no"/>tt’ āvattampa-cū<hi rend="grantha">tra</hi>ttu pūṇiya-vattavaṉ· ceṭṭa<hi rend="grantha">śarma</hi>ṉum <g type="gomutra">.</g>			
+                        
+                    </p>	
+                    
+                    <p>
+                        
+                        <pb n="9v"/>
+                        
+                    </p>
+                </div>
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>		
+                    
+                    <app loc="1v1=1">
+                        <lem><supplied reason="lost">svastī śrī</supplied></lem>
+                        <rdg source="bib:Mahalingam1965-1966_01"><supplied reason="lost">svastī śrī</supplied></rdg>
+                        <note>The upper left corner of the plate is lost. This restoration is based on the occurrence of these blessings at the beginning of, for instance, IP 155.</note>
+                    </app>			
+                    
+                </listApp>
+                
+            </div>
+            
+            
+            <div type="translation" resp="part:emfr">
+                
+                <div type="textpart" n="B">		
+                    <head xml:lang="eng">Sanskrit portion 1 of 2</head>
+                    
+                    <p n="1">
+                        <supplied reason="lost">Prosperity! Fortune!</supplied>
+                    </p>
+                    
+                    <p rend="stanza" n="1">
+                        <l>...</l>
+                    </p>
+                    
+                    
+                    <p rend="stanza" n="6">
+                        <l>...</l>
+                    </p>
+                    
+                    <p>...</p>
+                </div>
+                
+                <div type="textpart" n="C">
+                    <head xml:lang="eng">Tamil portion 1 of 2</head>
+                    
+                    <p n="17-18">
+                        Thirty-third year of the victorious king Nandivarman.
+                    </p>
+                    
+                    <p n="18-100">
+                        At the request of the prince Avanicandra<note><ptr target="bib:Mahalingam1965-1966_01"/> (p. 147) rightly identifies him as the heir and son of Udayacandra, a Pallava subordinate, petitioner of IP 76, and also lord of Vilvalapura.</note>, whereas Brahmādhirāja was executor, <supplied reason="subaudible">the villages of</supplied> Nelli, Pullūr, and Kuṭiyūr in the Kīḻvēṇāṭu of the Palkuṉṟakkōṭṭam, and <supplied reason="subaudible">the village of</supplied> Takkāṟu in the Maṇalaikuḷanāṭu <supplied reason="subaudible">of the Palkuṉṟakkōṭṭam</supplied>, these four villages, after removing kingship and seal,<note>...</note> after changing the earlier owners, after excluding the tillers, the destitute and good Brahmins who have obtained <supplied reason="subaudible">them</supplied> as <foreign>brahmadeya</foreign> are: 
+                        <list>
+                            <item>Kāṭakaccōmāci Trivedi Kūḷaśarman, of the <foreign>śaṇḍilagotra</foreign> and <foreign>āpasthambasūtra</foreign>, resident of Uḻappūr: two shares;</item>
+                            <item>Cōmāci Trivedi Kallaśarman, of this <supplied reason="subaudible">same</supplied> <foreign>gotra</foreign> and this <supplied reason="subaudible">same</supplied> <foreign>sūtra</foreign>, resident of this <supplied reason="subaudible">same</supplied> village,</item>
+                            <item>Kramavittaṉ Tāḻiśarman, of the <foreign>bhāradvājagotra</foreign> and <foreign>āpasthambasūtra</foreign>, resident of Kumāṇṭūr,</item>
+                            <item>Yajña-Kāḷiśarman, of this <supplied reason="subaudible">same</supplied> <foreign>gotra</foreign> and this <supplied reason="subaudible">same</supplied> <foreign>sūtra</foreign>, resident of this <supplied reason="subaudible">same</supplied> village,</item>
+                            <item>Trivedi Uḻutamaṇṭaiśarman, of the <foreign>gautamagotra</foreign> and <foreign>pravacanasūtra</foreign>, resident of Kāvaṉūr,</item>
+                            <item>...: one share;</item>
+                            <item>...</item>
+                            <item>...</item>
+                            
+                            <item>Brahmādhirāja:<note>This is the executor of the grant.</note> four shares;</item>
+                            <item>The <foreign>peruntiṇai</foreign><note>This appears to be the name of an admistrative charge.</note> of <placeName>Kaṭaṅkāṭu</placeName>: one share;</item>
+                            <item>The <foreign>kiḻaṉ</foreign><note>A landowner, of some importance in connexion with the grant.</note> of <placeName>Cāttaṅkuṭi</placeName>: one share;</item>
+                            <item>The <foreign>peruntiṇai</foreign> <supplied reason="subaudible">in charge</supplied> of the dance <foreign>nāṭṭiyam</foreign>: one share;</item>
+                            <item>Kalivicaiyaṉ: one share;</item>
+                            <item>Perumāṉaṭikaḷ:<note>This is possibly some religious dignitary, possibly the chief of a <foreign>maṭha</foreign>.</note> <supplied reason="subaudible">one</supplied> share;</item>
+                            <item>Tiruvaṭikaḷ:<note>This is possibly some religious dignitary, possibly the chief of a <foreign>maṭha</foreign>.</note> <supplied reason="subaudible">one</supplied> share;</item>
+                            <item>Bhagavatiyār:<note>This is possibly a woman (Sanskrit <foreign>bhagavatī</foreign>).</note> <supplied reason="subaudible">one</supplied> share.</item>				
+                        </list>
+                    </p>
+                    
+                    <p n="101-102">
+                        <supplied reason="subaudible">Furthermore, there are</supplied> fifteen shares added <supplied reason="explanation"><foreign>ēṟiṉa</foreign>?</supplied> by order for <supplied reason="explanation"><foreign>mēl</foreign><note>Literally: upon.</note></supplied> the one hundred eight among these.<note>This appears to be a donation of 15 shares for the entire group of the 108 donees.</note>
+                    </p>
+                    <p n="102-108">
+                        <supplied reason="subaudible">The boundaries of the newly created <foreign>brahmadeya</foreign></supplied> that the village headman <supplied reason="explanation"><foreign>viyavaṉ</foreign></supplied> proclaimed <supplied reason="explanation"><foreign>colliya</foreign><note>Literally: said.</note></supplied> according to the palm-leaf document <supplied reason="explanation"><foreign>aṟaiyōlai</foreign></supplied> that the delegates of the <foreign>nāṭu</foreign> <supplied reason="explanation"><foreign>nāṭṭār</foreign></supplied> sent after keeping on their heads the royal order which graciously made <supplied reason="subaudible">these villages</supplied> as a <foreign>brahmadeya</foreign> for one hundred and eight destitute and good Brahmins <supplied reason="subaudible">are</supplied>:
+                        <list>
+                            <item>the eastern boundary is to the west of ...;</item>
+                            <item>the southern boundary is to the north of ...;</item>
+                            <item>the western boundary is to the east of the boundary of <placeName>Paḻaṅkōḷūr</placeName>;</item>
+                            <item>the northern boundary is to the south of the boundary of <placeName>Paḻaṅkōḷūr</placeName> and of ...;</item>
+                        </list>
+                        
+                    </p>
+                    
+                    <p n="102-111">
+                        The wet land, the dry land, the forests, and the saline lands that are included within these four boundaries, wherever the iguana runs and the turtle crawls, has become a <foreign>brahmadeya</foreign> under the name Nayadhīramaṅgala ...
+                    </p>		
+                    
+                    <p n="111-112">
+                        In this manner, so that ... a <foreign>paradatti</foreign> has been made.
+                    </p>
+                    
+                    
+                    <p n="112-120">
+                        The <supplied reason="explanation">tax-</supplied>exemptions that this village obtains are: ...
+                    </p>
+                    
+                    
+                    <p n="120">
+                        Let there be right <supplied reason="explanation"><foreign>urittu</foreign></supplied> to drinking <supplied reason="explanation"><foreign>uṇṇum</foreign></supplied> water <supplied reason="explanation"><foreign>nīr</foreign></supplied> as before.
+                    </p>
+                    
+                    <p n="120-121">
+                        ...
+                    </p>
+                    
+                    
+                    <p n="121-123">
+                        ...
+                    </p>
+                    
+                    
+                    <p n="123">
+                        ...
+                    </p>
+                    
+                    
+                    <p n="123-125">
+                        ...
+                    </p>
+                    
+                    
+                    <p n="125-126">
+                        ...
+                    </p>
+                    
+                    
+                    <p n="126-127">
+                        ...
+                    </p>
+                    
+                    
+                    <p n="127-128">
+                        ...
+                    </p>
+                    
+                    
+                    <p n="128-129">
+                        ...
+                    </p>
+                    
+                    
+                    <p n="129">
+                        ...
+                    </p>
+                    
+                    
+                    <p n="130-131">
+                        Let these and their descendants obtain to build ... and reside in ...
+                    </p>
+                    
+                    <p n="131">
+                        Let <supplied reason="subaudible">these</supplied> obtain to put<note>That is, to plant or to wear.</note> water-lilies <supplied reason="explanation"><foreign>ceṅkaḻunīr</foreign></supplied> and southernwood <supplied reason="explanation"><foreign>tamaṉakam</foreign></supplied>.
+                    </p>
+                    
+                    
+                    <p n="131-132">
+                        <supplied reason="subaudible">Thus</supplied> has been graciously made, <supplied reason="subaudible">in</supplied> the year thirty three, day three hundred thirty.
+                    </p>
+                    
+                    
+                    <p n="132">
+                        Prosperity!
+                    </p>
+                </div>
+                
+                <div type="textpart" n="D">
+                    <head xml:lang="eng">Sanskrit portion 2 of 2</head>
+                    
+                    <p rend="stanza" n="7">
+                        <l>...</l>
+                    </p>
+                    
+                    <p rend="stanza" n="8">
+                        <l>...</l>
+                    </p>
+                </div>
+                
+                <div type="textpart" n="E">
+                    <head xml:lang="eng">Tamil portion 2 of 2</head>
+                    
+                    <p n="135-136">
+                        These are the letters<note>That is, the "writing" or "handwriting".</note> of Nayadhīra Peruṅkāṭtukārāṉ.<note><ptr target="bib:Mahalingam1965-1966_01"/> (p. 146) suggests that the four names in lines 136-139 are <quote>the signatures of those responsible for the drafting and execution of the document on copper</quote>, but further notes that (p. 146, fn. 5) that: <quote>A few more names of Brāhmaṇas written by a different hand [that is, the three names in lines 136-139] follow the signature of Nayadhīra-Peraṅkāṭṭukāraṉ. These names were perhaps left out of the main list of donees and were inserted later.</quote> This makes good sense.</note>
+                    </p>
+                    <p n="136-139">
+                        <list>
+                            <item>Tāmōtaraśarman,<note>Sanskrit Dāmodaraśarman.</note> of the <foreign>bhāradvājagotra</foreign> and <foreign>āpasthambasūtra</foreign>, resident of <placeName>Cōlaiyūr</placeName>;</item>
+                            <item>Cōmāci Vināyakaśarman, of the <foreign>kāśyapagotra</foreign> and <foreign>āpasthambasūtra</foreign>, resident of <placeName>Kuṇṭūr</placeName>;</item>
+                            <item>Ceṭṭaśarman, of the <foreign>vatsagotra</foreign> and <foreign>āpasthambasūtra</foreign>, resident of <placeName>Pūṇiyam</placeName>;</item>
+                        </list>
+                    </p>
+                </div>
+                
+            </div>
+            
+            <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
+                
+                <div type="textpart" n="B">
+                    
+                    <head xml:lang="eng">Sanskrit portion 1 of 2</head>
+                    
+                    
+                    <p rend="stanza" n="1">
+                        <l>...</l>	
+                        <l>...</l>
+                    </p>
+                    
+                    <p rend="stanza" n="2">
+                        <l>Bharadvāja, des prêtres le <gap reason="lost"/>; <supplied reason="lost">de lui</supplied> naquit l’auteur de <gap reason="lost"/>, Droṇa;</l>
+                        <l>De Droṇa, naquit Drauṇi, qui, au combat, en l’espace d’un instant, de ses flèches soumit la puissance des guerriers;</l>
+                        <l>De lui naquit noblement <gap reason="lost"/> le favori de la terre plus large <gap reason="lost"/>, nommé Pallava,</l>
+                        <l>Un être fort jouissant d’une immense prospérité, dont la gloire resplendit au milieu des impuretés de l’âge Kali instable. </l>
+                    </p>		
+                    <p rend="stanza" n="3">
+                        <l>Pallava donna naissance à la magnifique, l’illustre, la grande lignée des Pallava,</l>
+                        <l>Qui noblement prit rang au-dessus des souverains éminents.</l>
+                    </p>
+                    
+                    <p rend="stanza" n="4">
+                        <l>Dans cette lignée, fermement installés dans une position que le grand mât de leur fierté rendait inébranlable,</l>
+                        <l>Naquirent des souverains qui, donnant naissance à des torrents de générosité qui s’écoulaient, furent autant d’éléphants de l’Himalaya sécrétant l’écoulement de torrents de sérosité.</l>
+                    </p>		
+                    
+                    <p rend="stanza" n="5">
+                        <l>Le monarque prospère, qui ébranle la fortune de ses puissants ennemis, le bien-aimé</l>
+                        <l>Seigneur qui détient la puissance et réalise ce qu’il y a de plus doux, le roi plein d’éclat qui resplendit,</l>
+                        <l>Celui qui jusqu’aux confins protège la terre et ses nombreux trésors, celui qui possède un monceau de joyaux</l>
+                        <l>Naquit dans cette lignée des Pallava : l’actuel souverain Nandivarman, au nom illustre. </l>
+                    </p>	
+                    
+                    <p rend="stanza" n="6">
+                        <l>Les Keraḷa, les Coḷa, les Pāṇḍya, les Maḷava, les rois des Kāḷabhra et des Bāṇa,</l>
+                        <l>Les Sāndhra, les Saindhava et les Śāntavaṁkuravara, les Gaṁga, les souverains des Kadaṁba,</l>
+                        <l>Tous les chefs puissants et éminents, préoccupés, ébranlés par la crainte d’un conflit,</l>
+                        <l>Prennent les devants en révérant l’autorité de ce monarque magnifique à la gloire immense, qui gouverne la terre.</l>
+                    </p>		
+                    
+                    <p n="10-20">
+                        Un jour que ce roi, entouré de princes qui vivaient éternellement aux pieds du roi, était assis dans la salle des délibérations, il fit une donation, requis par le seigneur de Vilvalapura, nommé Avanicaṁdra-Yuvarāja, de longue date réputé comme son principal allié perpétuel et dévoué aux Pallava, qui se trouvait là et souhaitait accomplir un acte dharmique : en monarque qui saisit l’occasion qu’on lui offrait, il fit don, avec aspersion d’eau, à cent huit illustres seigneurs Bappa, brahmanes excellents issus de la succession de leurs lignées, et dont la naissance, la conduite et la science étaient irréprochables, d’un village qu’il constitua par la réunion des quatre villages de Nelli, Pullūra, Takkāra et Kuḍiyūra, situés sur le rivage sud de la rivière Veyārū, au Kīḷveṁ-nātaka, dans le Palkuṁda-koṭṭaka, et qu’il nomma Nayadhīra-maṁgalam, d’après son propre nom. Il désigna comme exécuteur le meilleur des prêtres et des ministres : Nāgaśarman, appelé encore Brahmādhirāja, Bṛhaspati en personne, habile à pratiquer la science du gouvernement, et objet de l’indéfectible affection du roi.
+                    </p>
+                    
+                </div>
+                
+                
+                <div type="textpart" n="D">
+                    <head xml:lang="eng">Sanskrit portion 2 of 2</head>
+                    
+                    <p rend="stanza" n="7">
+                        <l>Hormis le don de terre, d’autre don</l>
+                        <l>Il n’y eut point et n’y aura point;</l>
+                        <l>Hormis celui de s’en emparer, de crime</l>
+                        <l>Il n’y eut point et n’y aura point.</l>
+                    </p>
+                    
+                    <p rend="stanza" n="8">
+                        <l>Donnée par soi ou donnée par autrui,</l>
+                        <l>Quiconque s’approprie une terre,</l>
+                        <l>Pour soixante milliers d’années</l>
+                        <l>Dans la fiente naît vers de terre.</l>
+                    </p>
+                    
+                    <p n="134-135">
+                        Préserver un acte dharmique ou y porter atteinte <gap reason="lost"/> de ces deux actions, puissent les rois accomplir la seule qui soit pure. Le succès soit avec vous !
+                    </p>
+                </div>
+                
+            </div>
+            
+            <div type="commentary">
+                
+                <p>Online images: https://www.museumsofindia.gov.in/repository/record/im_kol-13119-51. Plates in disorder.</p>
+                <p><ptr target="bib:Mahalingam1988_01"/> and <ptr target="bib:Brocquet1997_01"/> date the plates to circa 877.</p>
+                <p>The seal is entirely defaced.</p>
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/A/1939-1940/9).</p>
+                <p>
+                    Edited in Tamil script by <bibl><ptr target="bib:Mahalingam1965-1966_01"/></bibl> (EI 36.20).
+                    Text (with many typos) and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 81).
+                    Sanskrit text (based on the very imperfect edition in<bibl><ptr target="bib:Mahalingam1988_01"/></bibl>) and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 56).
+                    See <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 83).</p>
+                <p>This revised edition by Emmanuel Francis, based on previous edition(s), published visual documentation and online photos.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="EI">
+                        <ptr target="bib:Mahalingam1965-1966_01"/>
+                    </bibl>         
+                    
+                    <bibl n="IP">
+                        <ptr target="bib:Mahalingam1988_01"/>
+                        <citedRange unit="page">261-279</citedRange>
+                        <citedRange unit="item">81</citedRange>
+                    </bibl>
+                    
+                    <bibl n="B">
+                        <ptr target="bib:Brocquet1997_01"/>
+                        <citedRange unit="page">669-677</citedRange>
+                        <citedRange unit="item">56</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1939-1943"/>
+                        <citedRange unit="page">21, 229-230</citedRange>
+                        <citedRange unit="appendix">A/1939-1940</citedRange>
+                        <citedRange unit="item">9</citedRange>  
+                    </bibl>      			      			
+                    
+                    
+                    <bibl>
+                        <ptr target="bib:Francis2013_01"/>
+                        <citedRange unit="page">297</citedRange>
+                        <citedRange unit="item">IR 83</citedRange>
+                        
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>
