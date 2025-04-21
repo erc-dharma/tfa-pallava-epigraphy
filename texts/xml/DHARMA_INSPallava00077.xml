@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kacākūṭi plates, time of Nandivarman, year 22</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>    
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSPallava00077</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2025-04-21" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>            
+            
+            <div type="edition">
+                
+                <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    <head xml:lang="eng">Seal</head>
+                </div>
+                
+                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    <head xml:lang="eng">Plates</head>
+                    
+                    <pb n="1r"/>
+                    
+                    <ab xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                        <pb n="1v"/>
+                        <lb n="1v1=1"/>svastī
+                    </ab>
+                    
+                    <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                        <pb n="2r"/>
+                        
+                        <pb n="2v"/>
+                        
+                        <pb n="3r"/>
+                        
+                        <pb n="3v"/>
+                        
+                        <pb n="4r"/>
+                        
+                        <pb n="4v"/>
+                        
+                        <pb n="5r"/>
+                        
+                        <pb n="5v"/>			
+                        
+                        <pb n="6r"/>
+                        
+                        <pb n="6v"/>
+                        
+                        <pb n="7r"/>
+                        
+                        <pb n="7v"/>
+                        
+                        <pb n="8r"/>
+                        
+                        <pb n="8v"/>
+                    </p>
+                    
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                        ...
+                        <lb n="8v7=105"/>
+                        
+                        <pb n="9r"/>
+                        
+                        <pb n="9v"/>
+                        <pb n="10r"/>
+                        
+                        <lb n="10r7=133"/>
+                    </p>
+                    
+                    <lg n="32" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                        <l n="a">bhūmi-dānāt paran dānan</l>
+                        <l n="b">na bhūtan na bhavi<unclear>ṣya</unclear>ti</l>
+                        <l n="c">tasyaiva haraṇāt p<unclear>ā</unclear>
+                            <pb n="11r" break="no"/>
+                            <lb n="11r1=134" break="no"/>pan</l>
+                        <l n="d">na bhūtan na bhaviṣyati <g type="ddanda">.</g></l></lg> 
+                    
+                    <lg n="33" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                        <l n="a">bahubhir vvasu<surplus>d</surplus>dhā dattā</l>
+                        <l n="b">bahubhiś cānupālitā</l>
+                        <l n="c">yasya yasya yathā
+                            <lb n="135"/>bhūmi<supplied reason="omitted">s</supplied></l>
+                        <l n="d">tasya tasya tathā phalaM <g type="ddanda">.</g></l>
+                    </lg>
+                    
+                    <lg n="34" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                        <l n="a">sva<choice><sic>t</sic><corr>d</corr></choice>attā<choice><orig>m</orig><reg>ṁ</reg></choice> paradattāṁ vā</l>
+                        <l n="b">yo haret<choice><sic>u</sic><corr>a</corr></choice> vasundharāM</l>
+                        <l n="c">ṣaṣ<choice><sic>ṭh</sic><corr>ṭ</corr></choice>iṁ varṣa
+                            <lb n="136" break="no"/>-sahasrāṇi</l>
+                        <l n="d">viṣṭhāyāñ jāyate krimi<supplied reason="omitted">ḥ</supplied> <g type="ddanda">.</g></l>
+                    </lg>
+                    
+                    <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                        svasti śrī-parameśvara-mahā-k<choice><sic>ā</sic><corr>o</corr></choice>ṣṭha<choice><orig>k</orig><reg>g</reg></choice>āriṇā likhita
+                        <lb n="137" break="no"/>M <supplied reason="undefined"><g type="ddanda">.</g></supplied>
+                    </p>
+                    
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                        I<unclear>va</unclear>ṉ peṟuma<unclear>ṉ</unclear><choice><sic>e</sic><corr>ai</corr></choice>yum maṉ<choice><sic>e</sic><corr>ai</corr></choice>ppaṭappum Iraṇṭu paṭṭi nilaṉum <supplied reason="undefined"><g type="ddanda">.</g></supplied>
+                    </p>
+                    
+                    <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">  
+                        svasti
+                        <lb n="138"/>siddhir astu namaḥ <g type="ddanda">.</g> <g type="circleLarge">.</g> <g type="ddanda">.</g><g type="dashWavy">.</g>
+                    </p>
+                    <pb n="11v"/>
+                    
+                </div>
+            </div>
+            
+            <!--<div type="apparatus">
+                
+                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                <head xml:lang="eng">Plates</head><listApp>		
+                
+                <app loc="1v1=1">
+                <lem>...</lem>
+                <rdg source="bib:Hultzsch1895_01">...</rdg>                            
+                </app>			
+                
+                </listApp>
+                </div>
+                </div>-->
+            
+            
+            <!--<div type="translation" resp="part:emfr">
+                
+                </div>-->
+            
+            <!--<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
+                
+                <div type="textpart" n="B">                    
+                <head xml:lang="eng">Plates</head>
+                
+                
+                <p rend="stanza" n="1">
+                <l>...</l>	
+                <l>...</l>
+                </p>
+                
+                
+                <p rend="stanza" n="32">
+                <l>Hormis le don de terre, d’autre don</l>
+                <l>Il n’y eut point et n’y aura point;</l>
+                <l>Hormis celui de s’en emparer, de crime</l>
+                <l>Il n’y eut point et n’y aura point.</l>
+                </p>
+                
+                <p rend="stanza" n="33">
+                </p>
+                
+                <p rend="stanza" n="34">
+                <l>Donnée par soi ou donnée par autrui,</l>
+                <l>Quiconque s’approprie une terre,</l>
+                <l>Pour soixante milliers d’années</l>
+                <l>Dans la fiente naît vers de terre.</l>
+                </p>
+                
+                </div>
+                
+                </div>-->
+            
+            <div type="commentary"/>
+            
+            
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1911-1912"/></bibl> (ARIE/1911-1912/A/1911-1912/10), in <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 82).</p>
+                
+                <p>
+                    Edited in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.73).
+                    Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 77).
+                    Sanskrit text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 55).
+                </p>
+                
+                <p>This revised edition by Emmanuel Francis, based on previous edition(s) and published visual documentation.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:Hultzsch1895_01"/>
+                        <citedRange unit="page">342-361</citedRange>
+                        <citedRange unit="item">73</citedRange>
+                    </bibl>
+                    
+                    <bibl n="IP">
+                        <ptr target="bib:Mahalingam1988_01"/>
+                        <citedRange unit="page">240-255</citedRange>
+                        <citedRange unit="item">77</citedRange>
+                    </bibl>
+                    
+                    <bibl n="B">
+                        <ptr target="bib:Brocquet1997_01"/>
+                        <citedRange unit="page">634-668</citedRange>
+                        <citedRange unit="item">55</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1911-1912"/>
+                        <citedRange unit="page">11</citedRange>
+                        <citedRange unit="appendix">A/1911-1912</citedRange>
+                        <citedRange unit="item">10</citedRange>  
+                    </bibl>     
+                    
+                    <bibl>
+                        <ptr target="bib:Francis2013_01"/>
+                        <citedRange unit="page">296-297</citedRange>
+                        <citedRange unit="item">IR 82</citedRange>                        
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>
