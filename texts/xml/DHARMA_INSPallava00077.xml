@@ -139,7 +139,7 @@
                     
                     <lg n="32" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                         <l n="a">bhūmi-dānāt paran dānan</l>
-                        <l n="b">na bhūtan na bhavi<unclear>ṣya</unclear>ti</l>
+                        <l n="b">na bhūtan na bhaviṣyati</l>
                         <l n="c">tasyaiva haraṇāt p<unclear>ā</unclear>
                             <pb n="11r" break="no"/>
                             <lb n="11r1=134" break="no"/>pan</l>
@@ -179,19 +179,24 @@
                 </div>
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
                 <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
-                <head xml:lang="eng">Plates</head><listApp>		
-                
-                <app loc="1v1=1">
-                <lem>...</lem>
-                <rdg source="bib:Hultzsch1895_01">...</rdg>                            
-                </app>			
-                
-                </listApp>
+                    <head xml:lang="eng">Plates</head><listApp>		
+                        
+                        <!--<app loc="1v1=1">
+                            <lem>...</lem>
+                            <rdg source="bib:Hultzsch1895_01">...</rdg>                            
+                        </app>	-->
+                        
+                        <app loc="133">
+                            <lem>bhaviṣyati</lem>
+                            <rdg source="bib:Hultzsch1895_01">bhavi<unclear>ṣya</unclear>ti</rdg>                            
+                        </app>	
+                        
+                    </listApp>
                 </div>
-                </div>-->
+            </div>
             
             
             <!--<div type="translation" resp="part:emfr">
