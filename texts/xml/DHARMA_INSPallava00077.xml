@@ -95,7 +95,20 @@
                         <lb n="1v1=1"/>svastī
                     </ab>
                     
-                    <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    <lg n="1" met="āryā" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                        <l n="ab">jayati ja<unclear>ga</unclear><supplied reason="omitted">t</supplied>-traya-janma-<unclear>sthi</unclear>ti-saṁh<supplied reason="omitted">ṛ</supplied>ti-kāraṇam para-brahma</l>
+                        <l n="cd">satyam anantam anādi jñānā<lb n="2" break="no"/>tmakam ekam amṛta-padaM <g type="ddanda">.</g></l>
+                    </lg>
+                    
+                    <lg n="2" met="	indravaṁśā " xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                        <l n="a">māyāvi<unclear>nā</unclear> yena pada-trayārtthinā</l>
+                        <l n="b">sadyaḥ pravṛddhena punar ba<lb n="3" break="no"/>ler mmakhe</l>
+                        <l n="c">vicakrame trir jjagatas svasātkṛt<choice><sic>o</sic><corr>au</corr></choice></l>
+                        <l n="d">sa vo 'stu bhūtyai bhagavā<choice><sic>N</sic><corr>ṁ</corr></choice>s trivikrama<supplied reason="omitted">ḥ</supplied> <g type="ddanda">.</g></l>
+                    </lg>
+                    
+                    <p>
+                        maulāvi
                         <pb n="2r"/>
                         
                         <pb n="2v"/>
@@ -123,7 +136,20 @@
                         <pb n="8r"/>
                         
                         <pb n="8v"/>
+                        
+                        Ājñapti<choice><sic>gg</sic><corr>r gh</corr></choice>oraśar<surplus>m</surplus>mā
                     </p>
+                    
+                    <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                        <lb n="8v6=104"/>siddhir astu<surplus>ḥ</surplus> <supplied reason="undefined"><g type="ddanda">.</g></supplied>
+                    </p>
+                    
+                    <lg n="31" met="anuṣṭubh">
+                        <l n="a" enjamb="yes">Akṛtrimas tray<choice><sic>i</sic><corr>ī</corr></choice>vidhi</l>
+                        <l n="b">-krama-kratu-pravartt<choice><sic>i</sic><corr>a</corr></choice>kaḥ</l>
+                        <l n="c">samasta-śāstra-tatva-vit</l>
+                        <l n="d">praśasti-<supplied reason="omitted">kṛt</supplied> trivikramaḥ <g type="ddanda">.</g></l>
+                    </lg>                    
                     
                     <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         kō
@@ -207,6 +233,11 @@
                             <lem>...</lem>
                             <rdg source="bib:Hultzsch1895_01">...</rdg>                            
                             </app>	-->
+                        
+                        <app loc="1">
+                            <lem source="bib:Hultzsch1895_01">saṁh<supplied reason="omitted">ṛ</supplied>ti</lem>
+                            <rdg source="bib:Brocquet1997_01">saṁh<choice><sic>ra</sic><corr>ṛ</corr></choice>ti</rdg>                            
+                        </app>	
                         
                         <app loc="133">
                             <lem>bhaviṣyati</lem>
