@@ -126,15 +126,34 @@
                     </p>
                     
                     <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
-                        ...
-                        <lb n="8v7=105"/>
+                        kō
+                        <lb n="8v7=" break="no"/>ṉ ōl<choice><sic>e</sic><corr>ai</corr></choice> yāṇṭ' iru-patt' iraṇṭ-āvatu
+                    </p>
+                    
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                        Ūṟṟu-k-kāṭṭu-k-kōṭṭattu nāṭṭāru<supplied reason="omitted">ṅ</supplied> kāṇka
+                    </p>
+                    
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         
-                        <pb n="9r"/>
+                        tan-nāṭṭu-k ko                        
+                        <pb n="9r" break="no"/>
+                        <lb n="106" break="no"/>ṭukoḷḷi muṉpeṟṟārai māṟṟi <hi rend="grantha">brahma</hi><choice><sic>t</sic><corr>y</corr></choice>uvarācaṉ viṇṇappattāl kora<hi rend="grantha">śarmma</hi>ṉṉ ā
+                        <lb n="107" break="no"/>ṇattiyāka tēvatāṉa-p-piramatē<supplied reason="omitted">ya</supplied>m nīkki-k kuṭi nīkki-c cāmāniya Iraṇṭu paṭṭi-p pa
+                        <lb n="108" break="no"/>ṭiyāl <hi rend="grantha">bhāradvāja-gotrā</hi>ya <hi rend="grantha">chandoga-sūtrā</hi>ya <hi rend="grantha">pū</hi>ni-vā<hi rend="grantha">stavyā</hi>ya ...
                         
                         <pb n="9v"/>
+                        
+                        <lb n="9v1=113" break="no"/>...
+                        
                         <pb n="10r"/>
                         
-                        <lb n="10r7=133"/>
+                        <lb n="10r1=120"/>
+                        
+                        <pb n="10v"/>                        
+                        <lb n="10v1=127"/>...
+                        
+                        <lb n="10v7=133" break="no"/>runtu paratatti <unclear>c</unclear>eṉṟatu
                     </p>
                     
                     <lg n="32" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
@@ -187,7 +206,7 @@
                         <!--<app loc="1v1=1">
                             <lem>...</lem>
                             <rdg source="bib:Hultzsch1895_01">...</rdg>                            
-                        </app>	-->
+                            </app>	-->
                         
                         <app loc="133">
                             <lem>bhaviṣyati</lem>
