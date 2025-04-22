@@ -118,7 +118,7 @@
                 <lb n="2r3=8"/>...
                 <lb n="2r4=9"/>...
                 <lb n="2r5=10"/>...
-                siṃha-varmmaṇa<supplied reason="omitted">ḥ</supplied> putro                
+                siṁha-varmmaṇa<supplied reason="omitted">ḥ</supplied> putro                
             </item>
             
             <item>
@@ -193,7 +193,7 @@
             <app loc="6">
                 <lem>°sampannasya</lem>
                 <rdg source="bib:Dayalan2005_01"/>
-                <rdg source="bib:PadmanabhaSastry2013_01">°saṃpannasya</rdg>
+                <rdg source="bib:PadmanabhaSastry2013_01">°saṁpannasya</rdg>
             </app>
             <app loc="6">
                 <lem>pratāpopanata°</lem>                
@@ -207,7 +207,7 @@
             </app>
             
             <app loc="10">
-                <lem>siṃhavarmmaṇa<supplied reason="omitted">ḥ</supplied></lem>
+                <lem>siṁhavarmmaṇa<supplied reason="omitted">ḥ</supplied></lem>
                 <rdg source="bib:PadmanabhaSastry2013_01">simhavarmaṇa</rdg>                
                 <rdg source="bib:Dayalan2005_01">simhavarmmaṇa</rdg>
             </app>    

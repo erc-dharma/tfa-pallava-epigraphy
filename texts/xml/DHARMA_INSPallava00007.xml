@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Neḍuṅgarāya grant, time of Siṃhavarman, year 12</title>
+                <title>Neḍuṅgarāya grant, time of Siṁhavarman, year 12</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -126,7 +126,7 @@
             <item>
                  bhagavat-bhakti                                
                 <pb n="3r" break="no"/>
-                <lb n="3r1=13" break="no"/>sad-bhāva-sambhāvita-sarvva-kalyā<choice><sic>n</sic><corr>ṇ</corr></choice>asya prajā-saṃrañjana-pa
+                <lb n="3r1=13" break="no"/>sad-bhāva-sambhāvita-sarvva-kalyā<choice><sic>n</sic><corr>ṇ</corr></choice>asya prajā-saṁrañjana-pa
                 <lb n="3r2=14" break="no"/>ripālanodyoga-satata-satra-vrata-dīkṣitasya Aneka
                 <lb n="3r3=15" break="no"/>-samara-sāhasāvamardda-labdha-vijaya-ya<unclear>śa</unclear>ḥ-prakāśa
                 <lb n="3r4=16" break="no"/><unclear>sya</unclear> kali-yuga-do<unclear>ṣā</unclear>vasanna-dharmm<unclear>o</unclear>ddharaṇa-nitya-sanna
@@ -147,7 +147,7 @@
     </p>
     <p>
         Eṣa grāmaḥ śāraṇika-nadippi-bhoja-
-        <lb n="4r3=23" break="no"/>doddisvāmi-kaṇ<unclear reason="eccentric_ductus">ṇ</unclear>asvāmi-nandisvāmibhyaḥ bhāga-trayaṃ
+        <lb n="4r3=23" break="no"/>doddisvāmi-kaṇ<unclear reason="eccentric_ductus">ṇ</unclear>asvāmi-nandisvāmibhyaḥ bhāga-trayaṁ
         <lb n="4r4=24"/>kṛtvā
         
         <list>
@@ -159,19 +159,19 @@
             </item>
             <item>
                 tatrā
-                <lb n="4v2=26" break="no"/>py <unclear>e</unclear>kasmin bhāge bhāga-dvaya<unclear>ṃ</unclear> kaṇṇasvāminaḥ Eko bhāgo
+                <lb n="4v2=26" break="no"/>py <unclear>e</unclear>kasmin bhāge bhāga-dvaya<unclear>ṁ</unclear> kaṇṇasvāminaḥ Eko bhāgo
                 <lb n="4v3=27"/>nandisvāminaḥ</item>
         </list>
         
-        Evaṃ vibhajya śāraṇika-grāma<unclear>ṃ</unclear> kṛtvā
+        Evaṁ vibhajya śāraṇika-grāma<unclear>ṁ</unclear> kṛtvā
         <lb n="4v4=28"/>Aṣṭāda<add place="below">śa</add>-jātibhiḫ parihārair upeto deva-bhoga-hala 
                 
         <pb n="5r" break="no"/>
-        <lb n="5r1=29" break="no"/>va<unclear>r</unclear>jya<unclear>ṃ</unclear> Asmad-āyur-bala-varddhanīyam asmābhis sampradatta<unclear>ḥ</unclear>
+        <lb n="5r1=29" break="no"/>va<unclear>r</unclear>jya<unclear>ṁ</unclear> Asmad-āyur-bala-varddhanīyam asmābhis sampradatta<unclear>ḥ</unclear>
     </p>
     <p>        
         <lb n="5r2=30"/>tad avagamya tasmin viṣaye sarvvāyuktakāḥ sarvva-naiyyo-
-        <lb n="5r3=31" break="no"/>gikāḥ rāja-vallabhāḥ <choice><sic>y</sic><corr>s</corr></choice>añcarantaś ca tad-grāmaṃ tathaiva 
+        <lb n="5r3=31" break="no"/>gikāḥ rāja-vallabhāḥ <choice><sic>y</sic><corr>s</corr></choice>añcarantaś ca tad-grāmaṁ tathaiva 
         <lb n="5r4=32"/>parihāraiḥ pariharantu parihārayantu ca
     </p>
     <p>
@@ -179,12 +179,12 @@
 
         <pb n="5v" break="no"/>
         
-        <lb n="5v1=33" break="no"/>c-chāsanam ati<choice><orig>kk</orig><reg>k</reg></choice>r<unclear>ā</unclear>met sa pāpaś <unclear reason="eccentric_ductus">ś</unclear>ārīraṃ daṇḍam arhati
+        <lb n="5v1=33" break="no"/>c-chāsanam ati<choice><orig>kk</orig><reg>k</reg></choice>r<unclear>ā</unclear>met sa pāpaś <unclear reason="eccentric_ductus">ś</unclear>ārīraṁ daṇḍam arhati
     </p>
     <p>
-        <lb n="5v2=34"/>śrī-siṃhavarmma-mahārājasya vijaya-saṃvatsare 
+        <lb n="5v2=34"/>śrī-siṁhavarmma-mahārājasya vijaya-saṁvatsare 
         <lb n="5v3=35"/>dvādaśame jyeṣṭha-māse kṛṣṇa-pakṣe trayo-
-        <lb n="5v4=36" break="no"/>daśy<unclear>āṃ</unclear> mayā dattā tā<choice><sic>bpr</sic><corr>m</corr></choice>ra-paṭṭikā
+        <lb n="5v4=36" break="no"/>daśy<unclear>āṁ</unclear> mayā dattā tā<choice><sic>bpr</sic><corr>m</corr></choice>ra-paṭṭikā
     </p>
     
 </div>
@@ -202,7 +202,7 @@
         
         <app loc="1">
             <lem><unclear>j</unclear>i<unclear>tam bha</unclear>gavatā</lem>
-            <rdg source="bib:Venkataramanayya1969_03">jitaṃ bhagavatā</rdg>			
+            <rdg source="bib:Venkataramanayya1969_03">jitaṁ bhagavatā</rdg>			
         </app>
         
         <app loc="9">
@@ -275,7 +275,7 @@
         Et quiconque transgressera ce commandement émanant de nous est un criminel qui encourt un châtiment corporel.
     </p>
     <p n="34-36">
-        J’ai émis cette tablette de cuivre le treizième jour de la quinzaine sombre du mois de Jyeṣṭha, la douzième AR victorieux du Grand Roi Śrī-Siṃhavarman.
+        J’ai émis cette tablette de cuivre le treizième jour de la quinzaine sombre du mois de Jyeṣṭha, la douzième AR victorieux du Grand Roi Śrī-Siṁhavarman.
     </p>
     
 </div>

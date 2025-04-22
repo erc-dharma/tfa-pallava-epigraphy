@@ -104,7 +104,7 @@
             <item>
                 <lb n="1v2=2"/><gap reason="ellipsis"/>
                 <lb n="1v3=3"/><gap reason="ellipsis"/>            
-                <lb n="1v4=4"/><gap reason="ellipsis"/> śrī-si<unclear>ṃ</unclear><lb n="1v5=5" break="no"/>h<choice><sic>i</sic><corr>a</corr></choice>varmmaṇa<supplied reason="omitted">ḥ</supplied> <surplus>pra</surplus>pautraḥ
+                <lb n="1v4=4"/><gap reason="ellipsis"/> śrī-si<unclear>ṁ</unclear><lb n="1v5=5" break="no"/>h<choice><sic>i</sic><corr>a</corr></choice>varmmaṇa<supplied reason="omitted">ḥ</supplied> <surplus>pra</surplus>pautraḥ
             </item>
             <item>
                 <gap reason="ellipsis"/>
@@ -200,7 +200,7 @@
             
             <app loc="1">
                 <lem>jitam</lem>
-                <rdg source="bib:PadmanabhaSastry2016_01">jitaṃ</rdg>
+                <rdg source="bib:PadmanabhaSastry2016_01">jitaṁ</rdg>
             </app>
             <app loc="1">
                 <lem>skandhāvārāt</lem>
@@ -208,13 +208,13 @@
             </app>
             
             <app loc="4">
-                <lem>si<unclear>ṃ</unclear><lb n="1v5=5" break="no"/>h<choice><sic>i</sic><corr>a</corr></choice>varmmaṇa<supplied reason="omitted">ḥ</supplied></lem>
+                <lem>si<unclear>ṁ</unclear><lb n="1v5=5" break="no"/>h<choice><sic>i</sic><corr>a</corr></choice>varmmaṇa<supplied reason="omitted">ḥ</supplied></lem>
                 <rdg source="bib:PadmanabhaSastry2016_01">°si<lb n="1v5=5" break="no"/>h<choice><sic>i</sic><corr>a</corr></choice>varmmaṇā</rdg>
             </app>
             
             <app loc="5">
                 <lem><surplus>pra</surplus>pautraḥ</lem>
-                <rdg source="bib:PadmanabhaSastry2016_01">prapautraṃ</rdg>
+                <rdg source="bib:PadmanabhaSastry2016_01">prapautraṁ</rdg>
                 <note>We expect here <foreign>pautraḥ</foreign> in this three-generation genealogy. The original <foreign>prapautraḥ</foreign> was probably inherited from a four-generation genealogy, but not updated.</note>
             </app>
             
@@ -249,7 +249,7 @@
                 son<note>The original text is <foreign>puautraḥ</foreign>, but <foreign>putraḥ</foreign> was probably intended.</note> of ...
             </item>
             <item>
-               the glorious Mahendravikramavarman<note>This genealogical sequence (Siṃhavarman V, Siṃhaviṣṇu, MahendravarmanI) is confirmed by other Pallava inscriptions.</note>...
+               the glorious Mahendravikramavarman<note>This genealogical sequence (Siṁhavarman V, Siṁhaviṣṇu, MahendravarmanI) is confirmed by other Pallava inscriptions.</note>...
             </item>
         </list>
         ordrers ...

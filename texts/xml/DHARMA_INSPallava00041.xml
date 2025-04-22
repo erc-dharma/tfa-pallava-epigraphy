@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Civaṉ Vāyal, eulogy of Siṃhavarman</title>
+            <title>Civaṉ Vāyal, eulogy of Siṁhavarman</title>
             <respStmt>
                <resp>author of digital edition</resp>
                <persName ref="part:emfr">
@@ -40,7 +40,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                   <summary>Lacunose eulogy of Siṃhavarman on the fragment of a pillar. Probably of Narasiṃhavarman I Pallava. Another lacunose portion of the same eulogy is probably found on another pillar fragment in the same place. See inscription <ref target="DHARMA_INSPallava00356.xml">Pallava 356</ref>.</summary>
+                   <summary>Lacunose eulogy of Siṁhavarman on the fragment of a pillar. Probably of Narasiṁhavarman I Pallava. Another lacunose portion of the same eulogy is probably found on another pillar fragment in the same place. See inscription <ref target="DHARMA_INSPallava00356.xml">Pallava 356</ref>.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -98,7 +98,7 @@
       <p>      
          <lb n="1"/><unclear>vi</unclear>jaya<unclear>s</unclear>y<unclear>ā</unclear>m e<unclear>va</unclear> mah<unclear>ā</unclear>-sainya
          <lb n="2" break="no"/>dvipo daśāśvamedha-bahusuvarṇṇa
-         <lb n="3" break="no"/>kratuyājī devah śrī-siṃha
+         <lb n="3" break="no"/>kratuyājī devah śrī-siṁha
          <lb n="4" break="no"/>varmmā pratāpa Iva mūrttim<unclear>ān</unclear>
          <lb n="5"/><gap reason="lost" quantity="1" unit="line"/>
          <lb n="6"/><gap reason="illegible" extent="unknown" unit="character"/> -<unclear>va</unclear>na-ma<unclear>ṇ</unclear>ḍa <gap reason="illegible" extent="unknown" unit="character"/>
@@ -135,7 +135,7 @@
          <app loc="4">
             <lem>i<unclear>ḍha</unclear></lem>
             <rdg source="bib:VenkataRamayya1947-1948_01">iḍha</rdg>
-            <note><ptr target="bib:VenkataRamayya1947-1948_01"/> suggests to read <foreign>iha</foreign> or <foreign>idaṃ</foreign>. <ptr target="bib:Brocquet1997_01"/> opts for <foreign>iha</foreign>.</note>
+            <note><ptr target="bib:VenkataRamayya1947-1948_01"/> suggests to read <foreign>iha</foreign> or <foreign>idaṁ</foreign>. <ptr target="bib:Brocquet1997_01"/> opts for <foreign>iha</foreign>.</note>
          </app>
       </listApp>
    </div>
@@ -155,10 +155,10 @@
      
       <p>
          (Né) dans la lignée des Pallava, qui détruisent toutes les calamités frappant leurs sujets<note>fn859 : Il est impossible de traduire le jeu de mots: <foreign>-vipal-lava-</foreign>, « qui détruit les calamités »; il forme une antanaclase avec le nom de la dynastie: <foreign>pallava-</foreign>; on trouve le même jeu dans les tablettes de Kūram (Parameśvaravarman I, N°33), celles d’Udayendiram et celles de Velūrpāḷaiyam (Nandivarman II, Nos 54 &amp; 60).</note>, comme Viṣvaksena<note>fn860 : Càd Kṛṣṇa.</note> dans celle des Vṛṣṇi, <gap reason="lost"/> de la victoire, qui possède une puissante armée et de puissants éléphants, qui accomplit dix sacrifices du cheval<note>fn861 : On ne peut déterminer si le mot <foreign>daśāśvamedha-</foreign> réfère à dix sacrifices du cheval, ou à une forme particulière de ce sacrifice, au cours duquel tel ou tel rite était probablement pratiqué dix fois de suite; on trouve de même les composés: <foreign>dvir-aśvamedha-</foreign>, <foreign>catur-aśvamedha-</foreign>, <foreign>ekādaśâśvamedha-</foreign>; cf. Venkataramayya 1956 (EI) pour une discussion concernant ce problème.</note> et celui du bahusuvarṇna<note>fn 862 : Cf. Venkataramayya 1956, p. 61, qui cite, après D.R. Bhandarkar (<hi rend="italic">Indian Culture</hi>, vol. I, pp. 116-117), un passage du Mbh (<foreign>Aśvamedhika-Parvan</foreign>, <foreign>Adhyāya</foreign> 94) où il est fait allusion à ce type de sacrifice :
-<foreign>ahīno nāma rajendra kratus te ’yaṃ vikalpavān</foreign> |
+<foreign>ahīno nāma rajendra kratus te ’yaṁ vikalpavān</foreign> |
 <foreign>bahutvāt kāñcanasyāsya khyāto bahusuvarṇakaḥ</foreign> ||15||, 
 « Ce tien sacrifice accompli, ô Roi des rois, porte le nom d’<foreign>ahīna</foreign>;
-parce qu’(on y donne) beaucoup d’or, il est appelé <foreign>bahusuvarṇaka</foreign>. »]</note>, ce Seigneur Śrī-Siṃhavarman, pareil à la majesté personnifiée, <gap reason="lost"/> au moyen d’une armée bien conduite <gap reason="lost"/> à nouveau en ce lieu, parmi les deux-fois-nés <gap reason="lost"/>
+parce qu’(on y donne) beaucoup d’or, il est appelé <foreign>bahusuvarṇaka</foreign>. »]</note>, ce Seigneur Śrī-Siṁhavarman, pareil à la majesté personnifiée, <gap reason="lost"/> au moyen d’une armée bien conduite <gap reason="lost"/> à nouveau en ce lieu, parmi les deux-fois-nés <gap reason="lost"/>
       </p>
       		
 </div>

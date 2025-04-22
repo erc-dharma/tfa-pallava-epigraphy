@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Puḷiyaṉūr, time of Siṃhavarman or Mahendravarman, year 20</title>
+				<title>Puḷiyaṉūr, time of Siṁhavarman or Mahendravarman, year 20</title>
 				<respStmt>
 					<resp>author of digital edition</resp>
 					<persName ref="part:emfr">
@@ -110,7 +110,7 @@
       				<lem>°ceyaviru<lb n="2" break="no"/>parkē</lem>
       				<rdg source="bib:Nakacami1975_01"/>
       				<rdg source="bib:Markciyakanti1974_01">ma<choice><sic>Ī</sic><corr>ē</corr></choice>ntira-paruku</rdg>
-      				<note><ptr target="bib:Nakacami1975_01"/> notes that, since another hero-stone inscription (<ref target="DHARMA_INSPallava00407.xml">Pallava 407</ref>) found nearby, dated to the reign of Siṃhaviṣṇu, mentions also the relatives of Pālāciriyar, the corrupted form <foreign>ciyavirumar</foreign> (that is, <foreign>ceyavirupar</foreign>, as he reads it) might be emended to <foreign>cimmavarmaṉ</foreign>.</note>
+      				<note><ptr target="bib:Nakacami1975_01"/> notes that, since another hero-stone inscription (<ref target="DHARMA_INSPallava00407.xml">Pallava 407</ref>) found nearby, dated to the reign of Siṁhaviṣṇu, mentions also the relatives of Pālāciriyar, the corrupted form <foreign>ciyavirumar</foreign> (that is, <foreign>ceyavirupar</foreign>, as he reads it) might be emended to <foreign>cimmavarmaṉ</foreign>.</note>
       			</app>        			
       			
       			<app loc="3">
@@ -146,7 +146,7 @@
          <div type="translation" resp="part:emfr">
          	
          	<p n="1-2">
-         		<unclear>Year ?</unclear> twenty of the victorious king <gap reason="ellipsis"/><note>The name of the king is unclear: Mahendravarman for <bibl><ptr target="bib:Markciyakanti1974_01"/></bibl>, Siṃhavarman for <bibl><ptr target="bib:Nakacami1975_01"/></bibl>.</note>.
+         		<unclear>Year ?</unclear> twenty of the victorious king <gap reason="ellipsis"/><note>The name of the king is unclear: Mahendravarman for <bibl><ptr target="bib:Markciyakanti1974_01"/></bibl>, Siṁhavarman for <bibl><ptr target="bib:Nakacami1975_01"/></bibl>.</note>.
          	</p>
          	
          	<p n="2-3">

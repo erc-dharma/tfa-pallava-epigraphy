@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cāttaṉūr, time of Narasiṃhavikramavarman, year 30</title>
+				<title>Cāttaṉūr, time of Narasiṁhavikramavarman, year 30</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -124,7 +124,7 @@
 <div type="translation" resp="part:emfr">
       		
 	<p n="1-3">
-		Thirtieth year of the victorious king Naraciṅkavikkiramaparumaṉ.<note>Sanskrit Narasiṃhavikramavarman.</note>	
+		Thirtieth year of the victorious king Naraciṅkavikkiramaparumaṉ.<note>Sanskrit Narasiṁhavikramavarman.</note>	
 	</p>
 	
 	<p n="3-14">

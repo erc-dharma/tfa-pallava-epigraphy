@@ -9,7 +9,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Oṃgoḍu grant, time of Skandavarman, year 33</title>
+            <title>Oṁgoḍu grant, time of Skandavarman, year 33</title>
             <respStmt>
                 <resp>author of digital edition</resp>
                 <persName ref="part:emfr">
@@ -98,7 +98,7 @@
     </p>
     
     <p>
-        vijaya-tāṃbrāpa-sthānaT      
+        vijaya-tāṁbrāpa-sthānaT      
         <list>
             
             <item>
@@ -120,10 +120,10 @@
             
             <item>
                 ś<choice><unclear>i</unclear><unclear>ī</unclear></choice>
-                <lb n="2r3=6" break="no"/><unclear>lava</unclear>to ’numatāc<unclear>ā</unclear>rālaṃkṛtasya satya-pratijñasya Aneka-go-<unclear>hiraṇya-bhū</unclear>my-ādi
+                <lb n="2r3=6" break="no"/><unclear>lava</unclear>to ’numatāc<unclear>ā</unclear>rālaṁkṛtasya satya-pratijñasya Aneka-go-<unclear>hiraṇya-bhū</unclear>my-ādi
                 <pb n="2v" break="no"/>
                 <fw place="left" n="2v"><unclear>2</unclear></fw>
-                <lb n="2v1=7" break="no"/>-dānair ahar-ahar-a<unclear>bhiva</unclear>rddhamāna-dharmma-saṃcayasya deva-dvija-śuśrūṣābhirata
+                <lb n="2v1=7" break="no"/>-dānair ahar-ahar-a<unclear>bhiva</unclear>rddhamāna-dharmma-saṁcayasya deva-dvija-śuśrūṣābhirata
                 <lb n="2v2=8" break="no"/>sya sarvva-<unclear>śāstrārttha</unclear>-ni<unclear>rṇṇaya-ta</unclear><choice><orig>t</orig><reg>tt</reg></choice>va-jñasya mahārājasya śrī-vijaya
                 <lb n="2v3=9" break="no"/>-skandavarmmaṇaḥ                
             </item>
@@ -132,12 +132,12 @@
         
         vacanena karmma-<unclear>rāṣṭre</unclear> A<unclear>dhi</unclear>kṛtāḥ Āyuktakāḥ
         <pb n="3r"/>
-        <lb n="3r1=10"/>Oṃgoḍu-grāmaś ca vaktavyāḥ        
+        <lb n="3r1=10"/>Oṁgoḍu-grāmaś ca vaktavyāḥ        
     </p>
     
     <p>
         Asmai kāśyapāya dvi-vedāya ṣaḍ-aṅga
-        <lb n="3r2=11" break="no"/>-pāragāya gola<unclear>śar</unclear>mmaṇe Eṣaḥ oṃgoḍu-grāmaḥ sā<choice><orig>t</orig><reg>tt</reg></choice>vikena
+        <lb n="3r2=11" break="no"/>-pāragāya gola<unclear>śar</unclear>mmaṇe Eṣaḥ oṁgoḍu-grāmaḥ sā<choice><orig>t</orig><reg>tt</reg></choice>vikena
         <lb n="3r3=12"/>dānena deva-bhoga-hala-varjjaḥ brahmadeyīkṛtya Aṣṭā-daśa-vidha-pari
         <pb n="3v" break="no"/>
         <lb n="3v1=13" break="no"/>hārais <unclear>sa</unclear>ha sampra<unclear>ttaḥ</unclear>
@@ -145,12 +145,12 @@
     
     <p>        
         tasmāT sarvva-parihāraiḥ pariharttavyaḥ yo ’smac-chāsana
-        <lb n="3v2=14" break="no"/>m atikrāmeT tad-anurūpaṃ daṇ<unclear>ḍa</unclear>m arhati        
+        <lb n="3v2=14" break="no"/>m atikrāmeT tad-anurūpaṁ daṇ<unclear>ḍa</unclear>m arhati        
     </p>
     
     <p>
-        vijaya-saṃvatsare traya
-        <lb n="3v3=15" break="no"/>str<unclear>i</unclear>ṃśe <num value="33"><g type="numeral">30</g> 3</num> hemanta-pakṣe t<unclear>ṛ</unclear>tīye 3 trayodaśy<unclear>āṃ</unclear> likhitam idaṃ śāsanaṃ <g type="ddanda">.</g>
+        vijaya-saṁvatsare traya
+        <lb n="3v3=15" break="no"/>str<unclear>i</unclear>ṁśe <num value="33"><g type="numeral">30</g> 3</num> hemanta-pakṣe t<unclear>ṛ</unclear>tīye 3 trayodaśy<unclear>āṁ</unclear> likhitam idaṁ śāsanaṁ <g type="ddanda">.</g>
         
     </p>
     
@@ -160,18 +160,18 @@
     </p>    
     
     <lg n="1" met="anuṣṭubh">
-        <l n="a">sva-dattāṃ para-dattāṃ vā</l>
-        <l n="b">yo hareta vasundharāṃ</l>
-        <l n="c"><lb n="4r2=17"/>gavāṃ śata-sahasrasya</l>
-        <l n="d">hantuḥ pibati duṣkṛita<choice><unclear>M</unclear><unclear>ṃ</unclear></choice></l>
+        <l n="a">sva-dattāṁ para-dattāṁ vā</l>
+        <l n="b">yo hareta vasundharāṁ</l>
+        <l n="c"><lb n="4r2=17"/>gavāṁ śata-sahasrasya</l>
+        <l n="d">hantuḥ pibati duṣkṛita<choice><unclear>M</unclear><unclear>ṁ</unclear></choice></l>
     </lg>    
     
     
     <lg n="2" met="anuṣṭubh">
-        <l n="a">b<unclear>ra</unclear>h<unclear>ma</unclear>-svaṃ tu viṣaṃ <unclear>gho</unclear>raṃ</l>
-        <l n="b"><lb n="4r3=18"/>na viṣaṃ viṣam ucyate</l>
-        <l n="c"><unclear>viṣan</unclear> t<unclear>v e</unclear>kākinaṃ hanti</l>
-        <l n="d">brahma-svaṃ putra-pautrika<choice><unclear>M</unclear><unclear>ṃ</unclear></choice> <g type="gomutraFinal">.</g></l>
+        <l n="a">b<unclear>ra</unclear>h<unclear>ma</unclear>-svaṁ tu viṣaṁ <unclear>gho</unclear>raṁ</l>
+        <l n="b"><lb n="4r3=18"/>na viṣaṁ viṣam ucyate</l>
+        <l n="c"><unclear>viṣan</unclear> t<unclear>v e</unclear>kākinaṁ hanti</l>
+        <l n="d">brahma-svaṁ putra-pautrika<choice><unclear>M</unclear><unclear>ṁ</unclear></choice> <g type="gomutraFinal">.</g></l>
     </lg>    
     
     <pb n="4v"/>
@@ -192,7 +192,7 @@
             </app>-->
             
             <app loc="1">
-                <lem>°tāṃbrāpa°</lem>
+                <lem>°tāṁbrāpa°</lem>
                 <rdg source="bib:KrishnaSastri1919-1920_01">°tāmbrāpa°</rdg>
             </app>
             
@@ -226,11 +226,11 @@
                 Śrī-Vijaya-Skandavarman, roi vertueux qu’illustre l’approbation que rencontre sa conduite, dont la parole est vraie, qui, par de multiples dons, en particulier de vaches, d’or et de terres, augmente de jour en jour son capital dharmique, qui se plaît à honorer les dieux et les brahmanes, qui connaît le sens de tous les traités et la réalité du gouvernement,
             </item>
         </list>
-        ordonne qu’on adresse aux <foreign>adhikṛta</foreign> et aux <foreign>āyuktaka</foreign><note>Ou : « aux <foreign>āyuktaka</foreign> affectés au Karma-Rāṣṭra », si l’on ne donne pas à <foreign>adhikṛta-</foreign> son sens technique.</note> du Karma-rāṣṭra, ainsi qu’aux villageois<note>Le pluriel <foreign>grāmāḥ</foreign> est visiblement employé ici dans le même sens que <foreign>grāmeyakāḥ</foreign>, « villageois ». Cf. tabl. de Siṃhavarman II à Viḻavaṭṭi, <foreign>kṣetram</foreign> au sens de « comité du village » (EI XXIV, p. 298).</note> d’Ōṃgōḍu, ce commandement de sa bouche :
+        ordonne qu’on adresse aux <foreign>adhikṛta</foreign> et aux <foreign>āyuktaka</foreign><note>Ou : « aux <foreign>āyuktaka</foreign> affectés au Karma-Rāṣṭra », si l’on ne donne pas à <foreign>adhikṛta-</foreign> son sens technique.</note> du Karma-rāṣṭra, ainsi qu’aux villageois<note>Le pluriel <foreign>grāmāḥ</foreign> est visiblement employé ici dans le même sens que <foreign>grāmeyakāḥ</foreign>, « villageois ». Cf. tabl. de Siṁhavarman II à Viḻavaṭṭi, <foreign>kṣetram</foreign> au sens de « comité du village » (EI XXIV, p. 298).</note> d’Ōṁgōḍu, ce commandement de sa bouche :
     </p>
         
     <p n="10-13">
-        A Golaśarman, descendant de Kaśyapa, expert en deux Veda et versé dans les <foreign>Saḍaṅga</foreign>, ce village d’Ōṃgōḍu est donné à titre de donation <foreign>sāttvika</foreign><note>Une donation <foreign>sāttvika</foreign>, selon Monier-Williams, suivi par H. Krishna Sastri (EI), D.C. Sircar (<title>Glossary</title>) et T.V. Mahalingam (IP), est une donation que n’accompagne pas le rite de l’aspersion d’eau, qui, en effet, n’est pas mentionné dans ce document. Il s’agit d’un don sans espoir de retour.</note> - à l’exception des terres cultivées dont le dieu a la jouissance <supplied reason="explanation"><foreign>devabhoga</foreign></supplied> -, après conversion en <foreign>brahmadeya</foreign>, et avec les dix-huit sortes d’exemption.
+        A Golaśarman, descendant de Kaśyapa, expert en deux Veda et versé dans les <foreign>Saḍaṅga</foreign>, ce village d’Ōṁgōḍu est donné à titre de donation <foreign>sāttvika</foreign><note>Une donation <foreign>sāttvika</foreign>, selon Monier-Williams, suivi par H. Krishna Sastri (EI), D.C. Sircar (<title>Glossary</title>) et T.V. Mahalingam (IP), est une donation que n’accompagne pas le rite de l’aspersion d’eau, qui, en effet, n’est pas mentionné dans ce document. Il s’agit d’un don sans espoir de retour.</note> - à l’exception des terres cultivées dont le dieu a la jouissance <supplied reason="explanation"><foreign>devabhoga</foreign></supplied> -, après conversion en <foreign>brahmadeya</foreign>, et avec les dix-huit sortes d’exemption.
     </p>
     
     <p n="13">

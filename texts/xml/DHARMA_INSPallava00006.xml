@@ -238,7 +238,7 @@
 </lg>
 
 <lg n="2" met="anuṣṭubh">
-	<l n="a"><lb n="5r3=32"/>sva-datt<unclear>ā</unclear><supplied reason="omitted">ṁ</supplied> <space type="binding-hole"/> para-dattā<supplied reason="omitted">ṁ</supplied> vā<surplus>ṃ</surplus></l>
+	<l n="a"><lb n="5r3=32"/>sva-datt<unclear>ā</unclear><supplied reason="omitted">ṁ</supplied> <space type="binding-hole"/> para-dattā<supplied reason="omitted">ṁ</supplied> vā<surplus>ṁ</surplus></l>
 	<l n="b">yo hareta vasundh<choice><sic>u</sic><corr>a</corr></choice>rāM</l>
 	<l n="c">gavāṁ śata-sahasrasya</l>
 	<l n="d">hantuḫ pibati du<lb n="5r4=33" break="no"/>ṣkṛtaM</l></lg>
@@ -282,7 +282,7 @@
         </app>
         
         <app loc="10">
-            <lem>sa<supplied reason="omitted">ṁ</supplied>bhā<surplus>ṃ</surplus>vita°</lem>
+            <lem>sa<supplied reason="omitted">ṁ</supplied>bhā<surplus>ṁ</surplus>vita°</lem>
             <note>The <foreign>anusvāra</foreign> expected for <foreign>saṁ</foreign> is above the next character <foreign>bhā</foreign>.</note>
         </app>
         
@@ -373,9 +373,9 @@
         </app>
         
         <app loc="32">
-            <lem>paradattā<supplied reason="omitted">ṁ</supplied> vā<surplus>ṃ</surplus></lem>
+            <lem>paradattā<supplied reason="omitted">ṁ</supplied> vā<surplus>ṁ</surplus></lem>
             <rdg source="bib:Fleet1876_02">para-dattā<supplied reason="omitted">ṁ</supplied> vā</rdg>
-            <note>The <foreign>anusvāra</foreign> expected for <foreign>ttāṃ</foreign> is above the next character <foreign>vā</foreign>.</note>
+            <note>The <foreign>anusvāra</foreign> expected for <foreign>ttāṁ</foreign> is above the next character <foreign>vā</foreign>.</note>
         </app>
         
         <app loc="34">

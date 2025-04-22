@@ -105,9 +105,9 @@
 	</lg>
 	
 	<lg n="2" met="śārdūlavikrīḍita">
-		<l n="a">Āsīd ambuja-nābha-nābhi-jala-jād abjāsano<lb n="1v4=4" break="no"/>to <supplied reason="subaudible">’</supplied>ṃgirā</l>
-		<l n="b">gī<reg>r</reg>-vvāṇeśa-gurus tatas tata-matiś śa<lb n="1v5=5" break="no"/>ṃyur bharadvājakaḥ</l>
-		<l n="c">droṇo drauṇir ato ’bha-va-t pu<lb n="1v6=6" break="no"/>ra-ripor aṃśas tataḥ pallavaḥ</l>
+		<l n="a">Āsīd ambuja-nābha-nābhi-jala-jād abjāsano<lb n="1v4=4" break="no"/>to <supplied reason="subaudible">’</supplied>ṁgirā</l>
+		<l n="b">gī<reg>r</reg>-vvāṇeśa-gurus tatas tata-matiś śa<lb n="1v5=5" break="no"/>ṁyur bharadvājakaḥ</l>
+		<l n="c">droṇo drauṇir ato ’bha-va-t pu<lb n="1v6=6" break="no"/>ra-ripor aṁśas tataḥ pallavaḥ</l>
 		<l n="d">śrīmān-nīradhi-nīra-nīlavasa<lb n="1v7=7" break="no"/>nā-kṣmā-vallabhā-vallabhaḥ <g type="ddanda">.</g></l>
 	</lg>	
 		
@@ -115,7 +115,7 @@
 		<l n="a">tataḥ pratata-kīrttiṣu prahata-lo<lb n="1v8=8" break="no"/>ka-śokeṣv iteṣv</l>
 		<l n="b">aśoka-harigupta-rāḍ·-pramukha<lb n="2r1=9" break="no"/>-pallaveṣu kramāt<unclear>·</unclear></l>
 		<l n="c" enjamb="yes">praṇamra-nṛpa-kamra-m<choice><orig>o</orig><reg>au</reg></choice>ly-aruṇa-ratna-ra<lb n="2r2=10" break="no"/>śmy-ātapat</l>
-		<l n="d">-prabuddha-pada-paṃkajeṣv ajani siṃhavarmmādhipāt <g type="gomutraFinal">.</g></l>
+		<l n="d">-prabuddha-pada-paṁkajeṣv ajani siṁhavarmmādhipāt <g type="gomutraFinal">.</g></l>
 	</lg>	
 		
 	<lg n="4" met="upajāti">
@@ -157,7 +157,7 @@
 		<l n="a" enjamb="yes">samasta-śāstra-niṣṇā<pb n="3r" break="no"/><lb n="3r1=25" break="no"/>ta</l>
 		<l n="b">dhiṣaṇo dhiṣaṇopamaḥ</l>
 		<l n="c">mānyo nāmnāpi <lb n="3r2=26"/> medhāvī</l>
-		<l n="d">praśastiṃ kṛtavān imām· <g type="gomutraFinal">§§§§§§</g></l>
+		<l n="d">praśastiṁ kṛtavān imām· <g type="gomutraFinal">§§§§§§</g></l>
 	</lg>
 	
 </div>
@@ -272,7 +272,7 @@
 		</app>   	
 		<app loc="3">
 			<lem>ambuja°</lem>
-			<rdg source="bib:Subramaniam1959_01">a<unclear>ṃ</unclear>buja°</rdg>
+			<rdg source="bib:Subramaniam1959_01">a<unclear>ṁ</unclear>buja°</rdg>
 		</app>     
 		
 		<app loc="4">
@@ -340,7 +340,7 @@
 	</p>
 	<p rend="stanza" n="2">
 		<l>From he who is born on the waters on the navel of he whose navel is a lotus<note>That is, Brahmā, arising form the navel of Viṣṇu.</note>, sitting in the lotus posture, was born Aṅgiras;</l>
-		<l>From him, the preceptor who is the master of those who have words as arrows<note>That is, Bṛhaspati, the preceptor of the gods and the <foreign>purohita</foreign> of Indra.</note>; <supplied reason="subaudible">from him</supplied>, Śaṃyu, whose thoughts are broad/concealed; <supplied reason="subaudible">from him</supplied>, Bharadvājaka;</l>
+		<l>From him, the preceptor who is the master of those who have words as arrows<note>That is, Bṛhaspati, the preceptor of the gods and the <foreign>purohita</foreign> of Indra.</note>; <supplied reason="subaudible">from him</supplied>, Śaṁyu, whose thoughts are broad/concealed; <supplied reason="subaudible">from him</supplied>, Bharadvājaka;</l>
 		<l><supplied reason="subaudible">from him</supplied>, Droṇa; <supplied reason="subaudible">from him</supplied>, Drauṇi<note>That is, Aśvatthāman.</note>, who was a partial incarnation of the enemy of Pura; from him was born Pallava,</l>
 		<l>Who is the glorious beloved of his beloved earth, who has the waters of the ocean for her garments.</l>
 	</p>
@@ -349,7 +349,7 @@
 		<l>Then, after Pallava <supplied reason="subaudible">kings</supplied>, such as Aśoka, Harigupta, and others, were gone one after the other,</l>
 		<l>Their fame having spread <supplied reason="subaudible">in the world</supplied> and their wordly pains having ceased <supplied reason="explanation"><foreign>prahatta</foreign><note>Literally: killed, defeated.</note></supplied>,</l>
 		<l>Their lotus-feet having been awakened by the hot rays of the red jewels on the beautiful crowns</l>
-		<l>of bowing kings, from the king Siṃhavarman was born:</l>
+		<l>of bowing kings, from the king Siṁhavarman was born:</l>
 	</p>
 	
 </div>
@@ -372,7 +372,7 @@
 	</p>
 	
 	<p rend="stanza" n="2">
-		<l><supplied reason="lost">Brahmā</supplied> naquit du dieu dont le nombril est un lotus ; de lui naquit Aṃgiras,</l>
+		<l><supplied reason="lost">Brahmā</supplied> naquit du dieu dont le nombril est un lotus ; de lui naquit Aṁgiras,</l>
 		<l>De ce dernier Gīrvāṇeśa<note>Litt. « le maître des êtres ayant la parole pour flèches », appellation de Bṛhaspati.</note> <gap reason="lost"/> <supplied reason="lost">qui eut pour fils</supplied> Śamyu; puis vint Bharadvājaka,</l>
 		<l><supplied reason="lost">Qui engendra</supplied> Droṇa; <supplied reason="lost">de ce dernier naquit</supplied> celui qui fut une incarnation partielle de l’Ennemi de Pura<note>Aśvatthāman, incarnation partielle de Śiva.</note> ; Pallava,</l>
 		<l><gap reason="lost"/> de la Fortune <gap reason="lost"/>, qui fut l’époux de son épouse la Terre.</l>
@@ -382,7 +382,7 @@
 		<l>Puis <gap reason="lost"/> disparues les causes de douleur,</l>
 		<l>Aśoka <gap reason="lost"/>; quand, les uns après les autres, les Pallava <gap reason="lost"/>,</l>
 		<l>Dont les rois, en s’inclinant, des rayons brûlants émanant des gemmes rougeoyants de leurs beaux diadèmes,</l>
-		<l>Eveillaient les pieds de lotus, Siṃhavarman naquit du souverain<note>Le dernier mot (<foreign>adhipāt</foreign>) oblige à supposer que le nom du père de Siṃhavarman est mentionné, à l’abl., dans l’une ou l’autre des parties illisibles.</note> <gap reason="lost"/></l>
+		<l>Eveillaient les pieds de lotus, Siṁhavarman naquit du souverain<note>Le dernier mot (<foreign>adhipāt</foreign>) oblige à supposer que le nom du père de Siṁhavarman est mentionné, à l’abl., dans l’une ou l’autre des parties illisibles.</note> <gap reason="lost"/></l>
 	</p>
 	
 	<p rend="stanza" n="4">

@@ -9,7 +9,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Māṅgaḍūr grant, time of Siṃhavarman, year 8</title>
+            <title>Māṅgaḍūr grant, time of Siṁhavarman, year 8</title>
             <respStmt>
                 <resp>author of digital edition</resp>
                 <persName ref="part:emfr">
@@ -124,7 +124,7 @@
             </item>
             
             <item>
-                ’nyeṣā<supplied reason="omitted">ṃ</supplied> yaśobhir agrathitair nniśākara 
+                ’nyeṣā<supplied reason="omitted">ṁ</supplied> yaśobhir agrathitair nniśākara 
                 <lb n="2v2=8"/>kara-nikara-gaurair yyaśobhir vyāpta-lokasya vidyā-vinītā
                 <lb n="2v3=9" break="no"/>tmano mahānubhāvasya yuva-rāja-śrī-viṣ(ṇu)gopasya putras
             </item>
@@ -139,10 +139,10 @@
                 <fw place="left" n="3v">3</fw>
                 <lb n="3v1=13" break="no"/>dhyāto bappa-bhaṭṭāraka-pāda-bhaktaḥ parama-bhāgavato 
                 <lb n="3v2=14"/>bh<choice><sic>a</sic><corr>ā</corr></choice>radvājaḥ paramodāttānvayānāM sva-bhuja-draviṇā
-                <lb n="3v3=15"/>rjjita-prathita-pratiṣṭhitādbhuta-yaśasāṃ yathāvad-āhṛtāneka
+                <lb n="3v3=15"/>rjjita-prathita-pratiṣṭhitādbhuta-yaśasāṁ yathāvad-āhṛtāneka
                 <pb n="4r" break="no"/>
-                <lb n="4r1=16" break="no"/>-kratūnāṃ śatakratu-kalpānāM śrī-vallabhānām pallavānān dha
-                <lb n="4r2=17" break="no"/>rmma-mahārāja-śrī-siṃhavarmmā
+                <lb n="4r1=16" break="no"/>-kratūnāṁ śatakratu-kalpānāM śrī-vallabhānām pallavānān dha
+                <lb n="4r2=17" break="no"/>rmma-mahārāja-śrī-siṁhavarmmā
             </item>
         </list>
         veṅgo-rāṣṭre māṅga
@@ -174,7 +174,7 @@
                 <lb n="5v1=25"/>gautamāya hairaṇyakeśāya ṣaṣṭhīkumārāya ca</item>
         </list> sarvva 
        <lb n="5v2=26" break="no"/>-parihāropetan deva-bhoga-hala-varjja<unclear reason="eccentric_ductus">M</unclear> samedha
-        <lb n="5v3=27" break="no"/>māna-vijaya-rājyāṣṭama-saṃvatsara-caitra-māsa-śukla 
+        <lb n="5v3=27" break="no"/>māna-vijaya-rājyāṣṭama-saṁvatsara-caitra-māsa-śukla 
         <pb n="6r" break="no"/>
         <lb n="6r1=28" break="no"/>-pakṣa-pañcamyām āyur-bala-vijayābhivṛddhaye brahmadeyī-kṛtya 
         <lb n="6r2=29"/>vasad-bhogya-maryyādayā samprādāma
@@ -209,9 +209,9 @@
     </lg>
     
     <lg n="3" met="anuṣṭubh">
-        <l n="a">sva-dattāṃ para-dattāṃ vā</l>
+        <l n="a">sva-dattāṁ para-dattāṁ vā</l>
         <l n="b">yo hareta vasu<lb n="7r2=35" break="no"/>ndharāM</l>
-        <l n="c">gavāṃ śata-sahasrasya</l>
+        <l n="c">gavāṁ śata-sahasrasya</l>
         <l n="d">hantuḥ pibati kil<choice><sic>v</sic><corr>b</corr></choice>iṣam</l>
     </lg> 
     
@@ -268,7 +268,7 @@
                 fils du Prince Héritier Śrī-Viṣṇugopa, dont la gloire, que n’entrava point la gloire des autres et qui égala la blancheur des rayons innombrables de la lune, se répandit dans l’Univers, dont une science experte emplit l’esprit, et qui posséda une grande dignité ;
             </item>
             <item>
-                Grand Roi des Pallava selon le dharma, qui eurent une descendance de la plus haute noblesse, qui, par la puissance de leur bras, conquirent, étendirent et affermirent une gloire prodigieuse, qui accomplirent selon les rites plus d’un sacrifice, qui furent les égaux de Śatakratu et les favoris de la Fortune - Śrī-Siṃhavarman, dont la puissance immense, détruisant le cercle des voisins et recevant chaque jour le renfort des voeux incomparablement ardents des hommes de bien, a conquis l’Univers, qui consacre tous ses efforts à assurer la prospérité de l’Univers, qui souhaite conquérir, à lui seul, la surface de la Terre jusqu’aux confins, qui jouit de la faveur des pieds du Bienheureux, qui offre sa dévotion aux pieds de son père, l’illustre Seigneur, qui se montre un sectateur passionné du Bienheureux, et qui descend de Bharadvāja - 
+                Grand Roi des Pallava selon le dharma, qui eurent une descendance de la plus haute noblesse, qui, par la puissance de leur bras, conquirent, étendirent et affermirent une gloire prodigieuse, qui accomplirent selon les rites plus d’un sacrifice, qui furent les égaux de Śatakratu et les favoris de la Fortune - Śrī-Siṁhavarman, dont la puissance immense, détruisant le cercle des voisins et recevant chaque jour le renfort des voeux incomparablement ardents des hommes de bien, a conquis l’Univers, qui consacre tous ses efforts à assurer la prospérité de l’Univers, qui souhaite conquérir, à lui seul, la surface de la Terre jusqu’aux confins, qui jouit de la faveur des pieds du Bienheureux, qui offre sa dévotion aux pieds de son père, l’illustre Seigneur, qui se montre un sectateur passionné du Bienheureux, et qui descend de Bharadvāja - 
             </item>
         </list>
         du village de Māṅgaḍūr, dans le Veṅgo-rāṣṭra, ainsi qu’à tous les <foreign>adhyakṣa</foreign>, <foreign>vallabha</foreign> et <foreign>śāsana-sañcārin</foreign> :

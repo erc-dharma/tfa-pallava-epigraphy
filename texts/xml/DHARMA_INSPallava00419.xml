@@ -9,7 +9,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Vēṭartaṭṭakkal, time of Narasiṃavarman, no year</title>
+				<title>Vēṭartaṭṭakkal, time of Narasiṁavarman, no year</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -123,7 +123,7 @@
 <div resp="part:emfr" type="translation">
       		
 	<p n="1">
-		<supplied reason="subaudible">Umpteenth year</supplied> of the victorious king <unclear>Na</unclear>raciṅkaparumaṉ.<note>Sanskrit Narasiṃhavarman.</note>
+		<supplied reason="subaudible">Umpteenth year</supplied> of the victorious king <unclear>Na</unclear>raciṅkaparumaṉ.<note>Sanskrit Narasiṁhavarman.</note>
 	</p>
 	
 	<p n="2">

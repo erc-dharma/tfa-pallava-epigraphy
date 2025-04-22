@@ -9,7 +9,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Viḻavaṭṭi plates, time of Siṃhavarman, year 10</title>
+            <title>Viḻavaṭṭi plates, time of Siṁhavarman, year 10</title>
             <respStmt>
                 <resp>author of digital edition</resp>
                 <persName ref="part:emfr">
@@ -98,7 +98,7 @@
     
     <p>
         <pb n="1v"/>
-        <lb n="1v1=1"/>svasti jitaṃ bhagavatā
+        <lb n="1v1=1"/>svasti jitaṁ bhagavatā
     </p>
     
     <p>
@@ -122,7 +122,7 @@
             
             <item>
                 deva-dvija-guru-vṛddhopasevino vi
-                <lb n="2r4=8"/>vṛddha-vinayasyāneka-saṃgrāma-sāhasāvamarddopalabdha-vijaya-yaśaḥ-prakāśasya
+                <lb n="2r4=8"/>vṛddha-vinayasyāneka-saṁgrāma-sāhasāvamarddopalabdha-vijaya-yaśaḥ-prakāśasya
                 <pb n="2v"/>
                 <lb n="2v1=9"/>nirupamātmano yuva-mahārājasya śrī-viṣṇugopasya putraḥ
             </item>
@@ -132,19 +132,19 @@
                 <lb n="2v3=11" break="no"/>rvva-sandoha-vijigīṣur ddharmma-vijigīṣur bhagavat-pādānuddhyāto bappa-bhaṭṭāraka-pāda 
                 <lb n="2v4=12"/>-bhaktaḥ paramabhāgavato bhāradvājaḥ sva-vikramākrāntā<choice><sic>gdya</sic><corr>nya-nṛpa</corr></choice>-śrī-n<choice><sic>ī</sic><corr>i</corr></choice>layo yathāvad-āhṛtā                
                 <pb n="3r" break="no"/>
-                <lb n="1r1=13" break="no"/>nekāśvamedhayājinām pallavānām mahārājaḥ śrī-siṃhavarmmā
+                <lb n="1r1=13" break="no"/>nekāśvamedhayājinām pallavānām mahārājaḥ śrī-siṁhavarmmā
             </item>
         </list>        
                 muṇḍarāṣṭre vi<seg rendition="class:tamil maturity:vernacular">ḻa</seg>vaṭṭi
-        <lb n="3r2=14" break="no"/>-grāme tasyaiva grāmasya kṣetrañ ca sarvvāddhyakṣāṃś ca tat-sañcāriṇaś cājñāpayati
+        <lb n="3r2=14" break="no"/>-grāme tasyaiva grāmasya kṣetrañ ca sarvvāddhyakṣāṁś ca tat-sañcāriṇaś cājñāpayati
     </p>
     
     <p>        
         A
-        <lb n="3r3=15" break="no"/>ya<supplied reason="omitted">ṃ</supplied> gr<choice><sic>a</sic><corr>ā</corr></choice>maḥ sagrā<supplied reason="omitted">ma</supplied>kas  sarvva-parihāropeto deva-bhoga-hala-varjjam asmad-āyur-bba
-        <lb n="3r4=16" break="no"/>la-vijayābhivṛddhaye samedhamāna-vijaya-rājye daśame saṃvatsare śrāvaṇyāṃ śukla-pa        
+        <lb n="3r3=15" break="no"/>ya<supplied reason="omitted">ṁ</supplied> gr<choice><sic>a</sic><corr>ā</corr></choice>maḥ sagrā<supplied reason="omitted">ma</supplied>kas  sarvva-parihāropeto deva-bhoga-hala-varjjam asmad-āyur-bba
+        <lb n="3r4=16" break="no"/>la-vijayābhivṛddhaye samedhamāna-vijaya-rājye daśame saṁvatsare śrāvaṇyāṁ śukla-pa        
         <pb n="3v" break="no"/>
-        <lb n="3v1=17" break="no"/>kṣe pañcamyāṃ gautama-gotrāya chandogāya viṣṇuśarmmaṇe data<choice><sic>M</sic><corr>ḥ</corr></choice>
+        <lb n="3v1=17" break="no"/>kṣe pañcamyāṁ gautama-gotrāya chandogāya viṣṇuśarmmaṇe data<choice><sic>M</sic><corr>ḥ</corr></choice>
     </p>
     <p>        
         yad asmin grāme
@@ -155,7 +155,7 @@
         <lb n="4r1=21"/>brahmadeyī-kṛtya dattāni
     </p>
     <p>
-        vaṭṭa-grāmeyakā<surplus>ḥ</surplus> <supplied reason="omitted">asmad-ājñāṃ</supplied> kurvvantv itare pariha<supplied reason="omitted">ra</supplied>ntu parihārayantu 
+        vaṭṭa-grāmeyakā<surplus>ḥ</surplus> <supplied reason="omitted">asmad-ājñāṁ</supplied> kurvvantv itare pariha<supplied reason="omitted">ra</supplied>ntu parihārayantu 
         <lb n="4r2=22"/>ca
     </p>
     <p>
@@ -170,28 +170,28 @@
     <lg n="1" met="anuṣṭubh">
         <l n="a">bhūmi-dānāt paran dānam</l>
         <l n="b">iha loke na vidyate</l>
-        <l n="c">yaḥ praya<lb n="4r4=24" break="no"/>cchati bhūmi<supplied reason="omitted">ṃ</supplied> hi</l>
+        <l n="c">yaḥ praya<lb n="4r4=24" break="no"/>cchati bhūmi<supplied reason="omitted">ṁ</supplied> hi</l>
         <l n="d">sarvva-kāmān dadāti saḥ</l>
     </lg>
     
     <lg n="2" met="anuṣṭubh">
-        <l n="a">brahma-svaṃ <supplied reason="omitted">hi</supplied> viṣaṃ ghoran</l>
-        <l n="b">na viṣaṃ viṣam ucyate</l>
-        <l n="c">viṣam ekākina<unclear>ṃ</unclear> <pb n="4v"/><lb n="4v1=25"/>hanti</l>
-        <l n="d"><choice><sic>p</sic><corr>b</corr></choice>rahma-svaṃ putra-<choice><sic>b</sic><corr>p</corr></choice>autrikaM <g type="ddanda">.</g></l>
+        <l n="a">brahma-svaṁ <supplied reason="omitted">hi</supplied> viṣaṁ ghoran</l>
+        <l n="b">na viṣaṁ viṣam ucyate</l>
+        <l n="c">viṣam ekākina<unclear>ṁ</unclear> <pb n="4v"/><lb n="4v1=25"/>hanti</l>
+        <l n="d"><choice><sic>p</sic><corr>b</corr></choice>rahma-svaṁ putra-<choice><sic>b</sic><corr>p</corr></choice>autrikaM <g type="ddanda">.</g></l>
     </lg>
     
     <lg n="3" met="anuṣṭubh">
-        <l n="a">sva-dattāṃ para-dattāṃ vā</l>
+        <l n="a">sva-dattāṁ para-dattāṁ vā</l>
         <l n="b">yo hareta vasundh<choice><sic>ā</sic><corr>a</corr></choice>rāM</l>
-        <l n="c">gavāṃ śata<lb n="4v2=26" break="no"/>sahasrasya</l>
+        <l n="c">gavāṁ śata<lb n="4v2=26" break="no"/>sahasrasya</l>
         <l n="d">hantuḥ <choice><sic>b</sic><corr>p</corr></choice>ibati kilbiṣaM</l>
     </lg>
     
     <lg n="4" met="anuṣṭubh">
         <l n="a">yathā nirohanty uptāni</l>
         <l n="b">kīrṇṇāni ca mahī<lb n="4v3=27" break="no"/>tale</l>
-        <l n="c">Evaṃ kāmā virohanti</l>
+        <l n="c">Evaṁ kāmā virohanti</l>
         <l n="d">bhūmi-dāna-samarjjitā<supplied reason="omitted">ḥ</supplied> <g type="ddanda">.</g></l>
     </lg>
     
@@ -203,14 +203,14 @@
     </lg>
     
     <lg n="6" met="anuṣṭubh">
-        <l n="a"><pb n="5r"/><lb n="5r1=29"/>Asaṃkhyeyāni varṣāṇ<choice><sic>ī</sic><corr>i</corr></choice></l>
+        <l n="a"><pb n="5r"/><lb n="5r1=29"/>Asaṁkhyeyāni varṣāṇ<choice><sic>ī</sic><corr>i</corr></choice></l>
         <l n="b">svargge modanti bhūmi-dāḥ</l>
         <l n="c">Ākṣeptā cānumantā ca</l>
         <l n="d">tāny eva <lb n="5r2=30"/>narake vaseT <g type="ddanda">.</g></l>
     </lg>
         
     <p>
-        prabhoḥ s<choice><sic>u</sic><corr>va</corr></choice>-mukhājñāptyā rahasyādhikṛtenācyutena likhitaṃ śāsana<supplied reason="lost">M</supplied> <g type="ddanda">.</g>
+        prabhoḥ s<choice><sic>u</sic><corr>va</corr></choice>-mukhājñāptyā rahasyādhikṛtenācyutena likhitaṁ śāsana<supplied reason="lost">M</supplied> <g type="ddanda">.</g>
     </p>
     <p>
         <lb n="5r3=31"/>svast<choice><sic>a</sic><corr>i</corr></choice> 
@@ -259,7 +259,7 @@
                 fils du Prince Héritier Śrī-Viṣṇugopa, qui révéra les dieux, les prêtres, les maîtres et les anciens, qui pratiqua la plus sévère discipline, qu’illustra la gloire d’avoir, dans plus d’une bataille, remporté la victoire en écrasant la témérité, qui révéla un esprit incomparable ; 
             </item>
             <item>
-                Grand Roi des Pallava, qui accomplirent selon les rites plus d’un sacrifice du cheval, Śrī-Siṃhavarman, qui se montre toujours prêt à soutenir le dharma que ruinent les péchés de l’âge Kali, dont le courage mérite l’envie, qui souhaite conquérir l’ensemble des vertus des rois ascètes, qui souhaite conquérir le dharma, qui jouit de la faveur des pieds du Bienheureux, qui offre sa dévotion à son père, l’illustre Seigneur, qui se montre un sectateur passionné du Bienheureux, qui descend de Bharadvāja, et qui est un réceptacle de prospérité dont la valeur subjugue les autres rois, 
+                Grand Roi des Pallava, qui accomplirent selon les rites plus d’un sacrifice du cheval, Śrī-Siṁhavarman, qui se montre toujours prêt à soutenir le dharma que ruinent les péchés de l’âge Kali, dont le courage mérite l’envie, qui souhaite conquérir l’ensemble des vertus des rois ascètes, qui souhaite conquérir le dharma, qui jouit de la faveur des pieds du Bienheureux, qui offre sa dévotion à son père, l’illustre Seigneur, qui se montre un sectateur passionné du Bienheureux, qui descend de Bharadvāja, et qui est un réceptacle de prospérité dont la valeur subjugue les autres rois, 
             </item>
         </list>
         adresse cette ordonnance au <foreign>kṣetra</foreign><note>Employé ici au sens de comité de village (cf. D.C. Sircar, <hi rend="italic">Glossary</hi>, p. 163 et EI XXIV, p. 298).</note> du village de Viḻavaṭṭi<note>Le texte présente ici une redondance intraduisible : mot à mot, « au village de Viḻavaṭṭi..., au kṣetra de ce village ».</note>, dans le Muṇḍa-rāṣṭra, ainsi qu’à tous les <foreign>adhyakṣa</foreign> et aux <foreign>sañcārin</foreign> du lieu :

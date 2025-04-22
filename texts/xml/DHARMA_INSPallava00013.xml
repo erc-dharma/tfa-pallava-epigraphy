@@ -9,7 +9,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Pīkira grant, time of Siṃhavarman, year 5</title>
+            <title>Pīkira grant, time of Siṁhavarman, year 5</title>
             <respStmt>
                 <resp>author of digital edition</resp>
                 <persName ref="part:emfr">
@@ -117,7 +117,7 @@
                 <pb n="2r"/>
                 <lb n="2r1=4"/>’bhyuccita-śakti-siddhi-sampannasya pratāpopanata-rāja-maṇḍalasya bhagavad-bhakti-sad-bhā
                 <lb n="2r2=5" break="no"/>va-sambhāvita-sarvva-kalyāṇasyāneka-go-hiraṇya-bhūmy-ādi-pradānaiḥ pravṛ
-                <lb n="2r3=6" break="no"/>ddha-dharmma-sañcayasya prajā-pālana-dakṣasya lokapālānāṃ pañcamasya 
+                <lb n="2r3=6" break="no"/>ddha-dharmma-sañcayasya prajā-pālana-dakṣasya lokapālānāṁ pañcamasya 
                 
                 <pb n="2v"/>
                 <fw place="left" n="2v">2</fw>
@@ -126,7 +126,7 @@
             
             <item>
                 deva-dvija 
-                <lb n="2v2=8" break="no"/>-guru-vṛddh<choice><sic>ā</sic><corr>o</corr></choice>pacāyino vivṛddha-vinayasyāneka-saṃgrāma-sāhasāva
+                <lb n="2v2=8" break="no"/>-guru-vṛddh<choice><sic>ā</sic><corr>o</corr></choice>pacāyino vivṛddha-vinayasyāneka-saṁgrāma-sāhasāva
                 <lb n="2v3=9" break="no"/>mard<unclear reason="eccentric_ductus">d</unclear>opalabdha-vijaya-yaśaḥ-prakāśasya satyātmano yuva-mahārāja
                 
                 <pb n="3r" break="no"/>
@@ -141,8 +141,8 @@
                 <pb n="3v"/>
                 <fw place="left" n="3v"><supplied reason="omitted">3</supplied></fw>
                 
-                <lb n="3v1=13"/>sva-vikramākrāntānya-nṛpa-śrī-nilayānāṃ yathāvad-āhṛtānekāśvamedhānāM 
-                <lb n="3v2=14"/>pallavānān dharmma-mahārāja-śrī-siṃhavarmmā 
+                <lb n="3v1=13"/>sva-vikramākrāntānya-nṛpa-śrī-nilayānāṁ yathāvad-āhṛtānekāśvamedhānāM 
+                <lb n="3v2=14"/>pallavānān dharmma-mahārāja-śrī-siṁhavarmmā 
             </item>
         </list>       
         
@@ -151,11 +151,11 @@
     </p>
     
     <p>        
-        ayaṃ grāmaḥ 
+        ayaṁ grāmaḥ 
         <pb n="4r"/>
         <lb n="4r1=16"/>kāśyapāya taittirīyāya vilāsaśarmmaṇe sarvva-parihāropeto deva 
         <lb n="4r2=17" break="no"/>-bhoga-hala-varjjam asmad-āyur-bala-vijayābhivṛddhaye samedhamāna
-        <lb n="4r3=18" break="no"/>-vijaya-r<choice><sic>a</sic><corr>ā</corr></choice>jya-pañcama-sa<supplied reason="omitted">ṃ</supplied>vatsarāśvayuja-śukla-pakṣa-tṛtīyāyāM <gap reason="illegible" quantity="1" unit="character"/>
+        <lb n="4r3=18" break="no"/>-vijaya-r<choice><sic>a</sic><corr>ā</corr></choice>jya-pañcama-sa<supplied reason="omitted">ṁ</supplied>vatsarāśvayuja-śukla-pakṣa-tṛtīyāyāM <gap reason="illegible" quantity="1" unit="character"/>
         
         <pb n="4v"/>
         <fw place="left" n="4v">4</fw>
@@ -164,7 +164,7 @@
     </p>    
     
     <p>
-        tatas sarvva-parihārai<unclear reason="eccentric_ductus">r</unclear> a<unclear reason="eccentric_ductus">ya</unclear>ṃ grāmaḥ parihartta
+        tatas sarvva-parihārai<unclear reason="eccentric_ductus">r</unclear> a<unclear reason="eccentric_ductus">ya</unclear>ṁ grāmaḥ parihartta
         <lb n="4v2=20" break="no"/>vya<supplied reason="omitted">ḥ</supplied> parihāray<choice><orig><unclear>ī</unclear></orig><reg>i</reg></choice>tavyaś ca 
     </p>
     
@@ -179,7 +179,7 @@
     <lg n="1" met="anuṣṭubh">
         <l n="a">bhūmi-dāna-saman dānam</l>
         <l n="b">iha loke na <pb n="5r"/><lb n="5r1=22"/>vidyate</l>
-        <l n="c">yaḥ prayacchati bhūmiṃ hi</l>
+        <l n="c">yaḥ prayacchati bhūmiṁ hi</l>
         <l n="d">sarvva-kāmān dadāti saḥ</l>
     </lg>    
     
@@ -191,10 +191,10 @@
     </lg>    
     
     <lg n="3" met="anuṣṭubh">
-        <l n="a"><lb n="5r3=24"/>sva-dattāṃ para-dattā<supplied reason="omitted">ṃ</supplied> vā</l>
+        <l n="a"><lb n="5r3=24"/>sva-dattāṁ para-dattā<supplied reason="omitted">ṁ</supplied> vā</l>
         <l n="b">yo hare<unclear>ta</unclear> vasundharāM</l>
-        <l n="c">gav<unclear>ā</unclear><supplied reason="omitted">ṃ</supplied> <unclear>śata</unclear>-sahasrasya</l>
-        <l n="d">haṃtuḥ pibati kilbiṣaM</l>
+        <l n="c">gav<unclear>ā</unclear><supplied reason="omitted">ṁ</supplied> <unclear>śata</unclear>-sahasrasya</l>
+        <l n="d">haṁtuḥ pibati kilbiṣaM</l>
     </lg>
     
     
@@ -217,7 +217,7 @@
             
             <app loc="1v, top left margin">
                 <lem>@</lem>
-                <rdg source="bib:Hultzsch1905-1906_05 bib:Brocquet1997_01">Oṃ</rdg>
+                <rdg source="bib:Hultzsch1905-1906_05 bib:Brocquet1997_01">Oṁ</rdg>
                 <note><ptr target="bib:Hultzsch1905-1906_05"/>: <quote>Expressed by the same symbol as in the Māṅgaḷūr grant [IP 14].</quote></note>
             </app>
             
@@ -250,7 +250,7 @@
       	
 <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
 
-    <p n="1">Oṃ<note resp="part:emfr">Selon une des interprétations anciennes de la signification du symbole (une spirale) dans la marge gauche supérieure.</note> ! Le Bienheureux est vainqueur ! Prospérité !</p>
+    <p n="1">Oṁ<note resp="part:emfr">Selon une des interprétations anciennes de la signification du symbole (une spirale) dans la marge gauche supérieure.</note> ! Le Bienheureux est vainqueur ! Prospérité !</p>
     <p n="1">Depuis le quartier général de la victoire, depuis le séjour de Menmāturā :</p>
     
     <p n="1-15">
@@ -265,7 +265,7 @@
                 fils du Prince Héritier Śrī-Viṣṇugopa, qui honora les dieux, les prêtres, les maîtres et les anciens, qui pratiqua la vertu la plus sévère, qu’illustra la gloire d’avoir, dans plus d’une bataille, remporté la victoire en écrasant la témérité, qui montra un esprit sincère, qui à chaque instant se tint prêt à soutenir le dharma que ruinent les péchés de l’âge Kali ;
             </item>
             <item>
-                Grand Roi des Pallava selon le <foreign>dharma</foreign>, réceptacles de prospérité dont la valeur subjuga les autres rois et qui accomplirent selon les rites plus d’un sacrifice du cheval, Śrī-Siṃhavarman, dont le courage mérite l’envie, qui souhaite conquérir l’ensemble des vertus des rois ascètes, qui souhaite conquérir le dharma, qui jouit de la faveur des pieds du Bienheureux, qui offre sa dévotion aux pieds de l’illustre seigneur son père, qui se montre un sectateur passionné du Bienheureux, qui decend de Bharadvāja, 
+                Grand Roi des Pallava selon le <foreign>dharma</foreign>, réceptacles de prospérité dont la valeur subjuga les autres rois et qui accomplirent selon les rites plus d’un sacrifice du cheval, Śrī-Siṁhavarman, dont le courage mérite l’envie, qui souhaite conquérir l’ensemble des vertus des rois ascètes, qui souhaite conquérir le dharma, qui jouit de la faveur des pieds du Bienheureux, qui offre sa dévotion aux pieds de l’illustre seigneur son père, qui se montre un sectateur passionné du Bienheureux, qui decend de Bharadvāja, 
             </item>
         </list>
         adresse aux villageois du village de Pīkira, dans le Muṇḍa-rāṣṭra, ainsi qu’à tous les <foreign>adhyakṣa</foreign>, <foreign>vallabha</foreign> et <foreign>śāsana-sañcarin</foreign><note>Ici encore, comme au N° 8 [B 8], on ne peut préciser si l’expression <foreign>(atr)ādhikṛtān</foreign> revêt son sens technique ou signifie simplement « affectés à cette région ».</note> affectés à cette région, l’ordonnance suivante :

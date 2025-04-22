@@ -9,7 +9,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Oṃgoḍu grant, time of Siṃhavarman, year 4</title>
+            <title>Oṁgoḍu grant, time of Siṁhavarman, year 4</title>
             <respStmt>
                 <resp>author of digital edition</resp>
                 <persName ref="part:emfr">
@@ -86,7 +86,7 @@
     
     <p>
         <pb n="1v"/>
-        <lb n="1v1=1"/>ji<add place="below">ta</add><supplied reason="omitted">ṃ</supplied> bhagavatā svasti
+        <lb n="1v1=1"/>ji<add place="below">ta</add><supplied reason="omitted">ṁ</supplied> bhagavatā svasti
     </p>
     
     <p>
@@ -106,7 +106,7 @@
                 <lb n="2r1=5" break="no"/><unclear>rcci</unclear>ta-śakti-siddhi-sampannasya prat<unclear>ā</unclear>popana<unclear>ta-rā</unclear>ja-maṇḍalasya <unclear>bha</unclear>gavad
                 <lb n="2r2=6" break="no"/>-bhakti-sambhāva-sambhāvita-sarvva-kalyāṇasy<choice><sic>a</sic><corr>ā</corr></choice>neka-go 
                 <lb n="2r3=7" break="no"/>-hiraṇya-bhūmy-ādi-pradānaiḥ pravṛ<unclear reason="eccentric_ductus">d</unclear>dha-dharmma-sañca
-                <lb n="2r4=8" break="no"/>yasya prajā-pālana-dakṣasya loka-pālānā<supplied reason="omitted">ṃ</supplied> pañca<supplied reason="omitted">ma</supplied>sya lo
+                <lb n="2r4=8" break="no"/>yasya prajā-pālana-dakṣasya loka-pālānā<supplied reason="omitted">ṁ</supplied> pañca<supplied reason="omitted">ma</supplied>sya lo
                 <pb n="2v" break="no"/>
                 <lb n="2v1=9" break="no"/>ka-pālasya mahātmano mahārāja-śrī-skandavarmmaṇaḥ pau
                 <lb n="2v2=10" break="no"/>tro
@@ -114,7 +114,7 @@
             
             <item>
                 deva-dvija-guru-vṛddhopasevino vivṛddha-vinayasy<choice><sic>a</sic><corr>ā</corr></choice>
-                <lb n="2v3=11" break="no"/>neka-saṃgrāma-s<choice><sic>a</sic><corr>ā</corr></choice>hasāvama<supplied reason="omitted">r</supplied>ddopalabdha-vijaya-yaśa<supplied reason="omitted">ḥ</supplied>-pr<choice><sic>ā</sic><corr>a</corr></choice>
+                <lb n="2v3=11" break="no"/>neka-saṁgrāma-s<choice><sic>a</sic><corr>ā</corr></choice>hasāvama<supplied reason="omitted">r</supplied>ddopalabdha-vijaya-yaśa<supplied reason="omitted">ḥ</supplied>-pr<choice><sic>ā</sic><corr>a</corr></choice>
                 <lb n="2v4=12" break="no"/>kāśasya satyātmano yuva-mahārāja-śrī-viṣṇugopasy<choice><sic>ā</sic><corr>a</corr></choice> putraḥ
             </item>
             
@@ -123,18 +123,18 @@
                 <lb n="3r1=13"/>ka<unclear>l</unclear>i-yuga-doṣāvasanna-dharmmod<choice><sic>dū</sic><corr>dha</corr></choice>]araṇa<surplus>ḥ</surplus>-nitya-<choice><sic>ś</sic><corr>s</corr></choice>a<unclear>nna</unclear>ddho rāja-gu
                 <lb n="3r2=14" break="no"/>ṇa-<choice><sic>ś</sic><corr>s</corr></choice>arvva-sandoha-vijigī<choice><sic>p</sic><corr>ṣ</corr></choice>u<unclear>r</unclear> dharmma-vijigī<choice><sic>p</sic><corr>ṣ</corr></choice>ur bhagavat-pādānu<choice><sic>v</sic><corr>dh</corr></choice>yāto
                 <lb n="3r3=15" break="no"/>bappa-bhaṭṭāraka-pāda-bhakta<supplied reason="omitted">ḥ</supplied> parama-bhāgavato bhārad<choice><sic>dh</sic><corr>v</corr></choice>āja-sa
-                <lb n="3r4=16" break="no"/><add place="above">gotr<choice><sic>a</sic><corr>o</corr></choice></add> vikramākrānt<choice><sic>a</sic><corr>ā</corr></choice>nya-nṛpat<choice><sic>a</sic><corr>i</corr></choice>-śr<choice><orig>i</orig><reg>ī</reg></choice>-nilayānāṃ yathāvad-āhṛtāneka-krat<choice><sic>u</sic><corr>ū</corr></choice><unclear>nāṃ</unclear>
+                <lb n="3r4=16" break="no"/><add place="above">gotr<choice><sic>a</sic><corr>o</corr></choice></add> vikramākrānt<choice><sic>a</sic><corr>ā</corr></choice>nya-nṛpat<choice><sic>a</sic><corr>i</corr></choice>-śr<choice><orig>i</orig><reg>ī</reg></choice>-nilayānāṁ yathāvad-āhṛtāneka-krat<choice><sic>u</sic><corr>ū</corr></choice><unclear>nāṁ</unclear>
                 <pb n="3v"/>
-                <lb n="3v1=17"/>śata-kratu<surplus>nāṃ</surplus>-kalp<choice><sic>a</sic><corr>ā</corr></choice>nāṃ <supplied reason="omitted">śrī</supplied>-vallabhānāṃ pallavānāṃ dharmma-mahārāja-śrī-siṃ
+                <lb n="3v1=17"/>śata-kratu<surplus>nāṁ</surplus>-kalp<choice><sic>a</sic><corr>ā</corr></choice>nāṁ <supplied reason="omitted">śrī</supplied>-vallabhānāṁ pallavānāṁ dharmma-mahārāja-śrī-siṁ
                 <lb n="3v2=18" break="no"/>havarmm<unclear>ā</unclear>
             </item>
         </list>     
     </p>
     <p>
-        karmma-<choice><orig>ṟ</orig><reg>r</reg></choice>ā<choice><sic>ṇ</sic><corr>ṣ</corr></choice>ṭ<choice><orig>ṟ</orig><reg>r</reg></choice>e O<supplied reason="omitted">ṃ</supplied>go<surplus>ṃ</surplus>ḍu-grāma<unclear>ḥ</unclear>
+        karmma-<choice><orig>ṟ</orig><reg>r</reg></choice>ā<choice><sic>ṇ</sic><corr>ṣ</corr></choice>ṭ<choice><orig>ṟ</orig><reg>r</reg></choice>e O<supplied reason="omitted">ṁ</supplied>go<surplus>ṁ</surplus>ḍu-grāma<unclear>ḥ</unclear>
          
         <list>
-            <item>k<unclear>o</unclear>ḍikiṃ-grām<choice><sic>o</sic><corr>aḥ</corr></choice> pūrvvat<choice><sic>aḥ</sic><corr>o</corr></choice></item>
+            <item>k<unclear>o</unclear>ḍikiṁ-grām<choice><sic>o</sic><corr>aḥ</corr></choice> pūrvvat<choice><sic>aḥ</sic><corr>o</corr></choice></item>
             <item>naṟācaḍu
                 <lb n="3v3=19" break="no"/>-gram<choice><sic>o</sic><corr>aḥ</corr></choice> daksiṇataḥ</item>
             <item>kaḍākuduru-grām<choice><sic>o</sic><corr>aḥ</corr></choice> pa<unclear>ś</unclear>cimataḥ</item>
@@ -142,20 +142,20 @@
         <lb n="3v4=20" break="no"/>-grāma Uttarataḥ</item></list>
     </p>
     <p>
-        Evaṃ catur-avadhi-ma<unclear>dh</unclear>ye pūrvva-bhoga-vivarjjita<choice><sic>ḥ</sic><corr>ṃ</corr></choice>        
+        Evaṁ catur-avadhi-ma<unclear>dh</unclear>ye pūrvva-bhoga-vivarjjita<choice><sic>ḥ</sic><corr>ṁ</corr></choice>        
         <pb n="4r"/>
         <lb n="4r1=21"/>kuṇḍūr-vv<choice><sic>a</sic><corr>ā</corr></choice>stavyāy<choice><sic>ā</sic><corr>a</corr></choice> kāśyapa-gotrāya chando-vide sarvva-śāstra-kuśa
-        <lb n="4r2=22" break="no"/>lā<unclear>ya</unclear> devaśarmma<choice><sic>n</sic><corr>ṇ</corr></choice>e grah<choice><sic>ā</sic><corr>a</corr></choice>ṇa-nimittaṃ Asmad-āyur-bbala-vi
+        <lb n="4r2=22" break="no"/>lā<unclear>ya</unclear> devaśarmma<choice><sic>n</sic><corr>ṇ</corr></choice>e grah<choice><sic>ā</sic><corr>a</corr></choice>ṇa-nimittaṁ Asmad-āyur-bbala-vi
         <lb n="4r3=23" break="no"/>jayābhivṛddhaye sampr<unclear>ā</unclear>dāma <g type="danda">.</g>        
     </p>
     
     <p>
-        tad i<choice><sic>m</sic><corr>d</corr></choice>aṃ sarvva-parihārai<supplied reason="omitted">ḥ</supplied> pa
+        tad i<choice><sic>m</sic><corr>d</corr></choice>aṁ sarvva-parihārai<supplied reason="omitted">ḥ</supplied> pa
         <lb n="4r4=24" break="no"/>riha<supplied reason="omitted">r</supplied><unclear>t</unclear>tavya<unclear>m</unclear> parihārayit<choice><sic>e</sic><corr>a</corr></choice>vyañ ca        
     </p>
     
     <p>
-        yaś ceda<choice><sic>ṃ</sic><corr>m</corr></choice> Asmac-chā
+        yaś ceda<choice><sic>ṁ</sic><corr>m</corr></choice> Asmac-chā
         <pb n="4v" break="no"/>
         <lb n="4v1=25" break="no"/><choice><sic>ś</sic><corr>s</corr></choice>anam atikrāme<supplied reason="omitted">t</supplied> sa pāpaḥ śārīra-daṇḍam arhati
     </p>    
@@ -166,16 +166,16 @@
     </p>
     
     <lg n="1" met="anuṣṭubh">
-        <l n="a">bhūmi-dāna<surplus>ṃ</surplus>-saman dān<choice><sic>ā</sic><corr>a</corr></choice>m</l>
-        <l n="b">na<surplus>ṃ</surplus> bhūt<choice><sic>o</sic><corr>aṃ</corr></choice> na bhavi<lb n="4v3=27" break="no"/><surplus>vi</surplus>ṣyati</l>
-        <l n="c">tasyaiva haraṇāt pāpa<supplied reason="omitted">ṃ</supplied></l>
-        <l n="d">na bhūt<choice><sic>o</sic><corr>aṃ</corr></choice> na bhaviṣyati</l>
+        <l n="a">bhūmi-dāna<surplus>ṁ</surplus>-saman dān<choice><sic>ā</sic><corr>a</corr></choice>m</l>
+        <l n="b">na<surplus>ṁ</surplus> bhūt<choice><sic>o</sic><corr>aṁ</corr></choice> na bhavi<lb n="4v3=27" break="no"/><surplus>vi</surplus>ṣyati</l>
+        <l n="c">tasyaiva haraṇāt pāpa<supplied reason="omitted">ṁ</supplied></l>
+        <l n="d">na bhūt<choice><sic>o</sic><corr>aṁ</corr></choice> na bhaviṣyati</l>
     </lg>    
     
     <lg n="2" met="anuṣṭubh">
-        <l n="a"><lb n="4v4=28"/>sva-datt<choice><sic>a</sic><corr>ā</corr></choice>ṃ para-dattāṃ <choice><sic>g</sic><corr>v</corr></choice>ā</l>
+        <l n="a"><lb n="4v4=28"/>sva-datt<choice><sic>a</sic><corr>ā</corr></choice>ṁ para-dattāṁ <choice><sic>g</sic><corr>v</corr></choice>ā</l>
         <l n="b">yo hareta vasundharāM</l>
-        <l n="c">gavāṃ śata<pb n="5r" break="no"/><lb n="5r1=29" break="no"/>-sahasrasya</l>
+        <l n="c">gavāṁ śata<pb n="5r" break="no"/><lb n="5r1=29" break="no"/>-sahasrasya</l>
         <l n="d">hantuḫ pibati kilbiṣaM</l>
     </lg>    
     
@@ -187,12 +187,12 @@
     </lg>
     
     <p>
-        sa<supplied reason="omitted">medhamāna</supplied>-vijaya-rājya-sa<supplied reason="omitted">ṃ</supplied>
+        sa<supplied reason="omitted">medhamāna</supplied>-vijaya-rājya-sa<supplied reason="omitted">ṁ</supplied>
             vatsare cat<choice><sic>ū</sic><corr>u</corr></choice>rtthe vaiśākha-śukla
-        <lb n="5r4=32" break="no"/>-pakṣa-pañ<unclear>c</unclear>amyā<unclear>ṃ</unclear> dattaṃ
+        <lb n="5r4=32" break="no"/>-pakṣa-pañ<unclear>c</unclear>amyā<unclear>ṁ</unclear> dattaṁ
     </p>
     
-    <p>bhaṭṭārakā<unclear>ṇāṃ</unclear> s<unclear>va</unclear>-mukhā<supplied reason="omitted">j</supplied>ñaptyā likhitam <choice><sic>a</sic><corr>i</corr></choice>da<unclear>ṃ</unclear> <g type="danda">.</g></p>
+    <p>bhaṭṭārakā<unclear>ṇāṁ</unclear> s<unclear>va</unclear>-mukhā<supplied reason="omitted">j</supplied>ñaptyā likhitam <choice><sic>a</sic><corr>i</corr></choice>da<unclear>ṁ</unclear> <g type="danda">.</g></p>
         
         <pb n="5v"/>
 
@@ -232,13 +232,13 @@
             <item>
                 fils du Prince Héritier Śrī-Viṣṇugopa, qui révéra les dieux, les prêtres, les maîtres et les anciens, qui pratiqua la vertu la plus sévère, qu’illustra la gloire d’avoir, dans plus d’une bataille, remporté la victoire en écrasant la témérité, qui montra un esprit sincère ;</item>
             <item>
-Grand Roi des Pallava selon le <foreign>dharma</foreign>, réceptacles de prospérité dont la valeur subjuga les autres rois, qui accomplirent selon les rites plus d’un sacrifice, qui furent les égaux de Śatakratu et les favoris de la Fortune - Śrī-Siṃhavarman, qui à chaque instant se tient prêt à soutenir le dharma que ruinent les péchés de l’âge Kali, qui souhaite conquérir l’ensemble des vertus royales, qui souhaite conquérir le <foreign>dharma</foreign>, qui jouit de la faveur des pieds du Bienheureux, qui offre sa dévotion aux pieds de son père, l’illustre seigneur, qui se montre un sectateur passionné du Bienheureux, qui est membre du <foreign>gotra</foreign> de Bharadvāja,</item>
+Grand Roi des Pallava selon le <foreign>dharma</foreign>, réceptacles de prospérité dont la valeur subjuga les autres rois, qui accomplirent selon les rites plus d’un sacrifice, qui furent les égaux de Śatakratu et les favoris de la Fortune - Śrī-Siṁhavarman, qui à chaque instant se tient prêt à soutenir le dharma que ruinent les péchés de l’âge Kali, qui souhaite conquérir l’ensemble des vertus royales, qui souhaite conquérir le <foreign>dharma</foreign>, qui jouit de la faveur des pieds du Bienheureux, qui offre sa dévotion aux pieds de son père, l’illustre seigneur, qui se montre un sectateur passionné du Bienheureux, qui est membre du <foreign>gotra</foreign> de Bharadvāja,</item>
         </list>
         <supplied reason="subaudible">déclare</supplied> :
     </p>
         
     <p n="18-23">
-        Nous avons fait donation du village d’Ōṃgōḍu, dans le Karma-rāṣṭra - situé entre les quatre limites suivantes : le village de Koḍikim à l’Est ; le village de Naṟācaḍu au Sud ; le village de Kaḍākuduru à l’ouest, et le village de Peṇakapaṟṟru au nord -, à l’exception des terrains dont la jouissance a été cédée antérieurement, à Devaśarman, qui habite Kuṇḍūr, appartient au <foreign>gotra</foreign> de Kāśyapa, connaît les hymnes chantés et se montre un expert dans tous les traités, à l’occasion d’une éclipse, et pour l’accroissement de la durée de notre vie, celui de notre puissance et de nos victoires.
+        Nous avons fait donation du village d’Ōṁgōḍu, dans le Karma-rāṣṭra - situé entre les quatre limites suivantes : le village de Koḍikim à l’Est ; le village de Naṟācaḍu au Sud ; le village de Kaḍākuduru à l’ouest, et le village de Peṇakapaṟṟru au nord -, à l’exception des terrains dont la jouissance a été cédée antérieurement, à Devaśarman, qui habite Kuṇḍūr, appartient au <foreign>gotra</foreign> de Kāśyapa, connaît les hymnes chantés et se montre un expert dans tous les traités, à l’occasion d’une éclipse, et pour l’accroissement de la durée de notre vie, celui de notre puissance et de nos victoires.
     </p>
     
     <p n="23-24">

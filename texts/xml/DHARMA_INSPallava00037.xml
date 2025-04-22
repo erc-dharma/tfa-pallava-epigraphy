@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-             <title>Bādāmi, time of Narasiṃha Mahāmalla</title>
+             <title>Bādāmi, time of Narasiṁha Mahāmalla</title>
             <respStmt>
                <resp>author of digital edition</resp>
                <persName ref="part:emfr">
@@ -40,7 +40,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                   <summary>Eulogy of Narasiṃha Mahāmalla (Narāsiṃhavarman I Pallava).</summary>
+                   <summary>Eulogy of Narasiṁha Mahāmalla (Narāsiṁhavarman I Pallava).</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -88,18 +88,18 @@
         
         <lb n="1"/>
         <gap reason="lost" quantity="10" unit="character" precision="low"/>
-        <supplied reason="lost">saṃ</supplied>vatsare Ātmano rājya-varṣe ca varddhamāne tra<unclear>yodaśe</unclear>
+        <supplied reason="lost">saṁ</supplied>vatsare Ātmano rājya-varṣe ca varddhamāne tra<unclear>yodaśe</unclear>
         
         <lb n="2"/><gap reason="lost" quantity="3" unit="character" precision="low"/>
-        <supplied reason="lost">narasiṃ</supplied>hena mahāmallena vidviṣāM vātāpir atimā<unclear>n</unclear>e<unclear>na</unclear> <gap reason="lost" quantity="6" unit="character" precision="low"/>
+        <supplied reason="lost">narasiṁ</supplied>hena mahāmallena vidviṣāM vātāpir atimā<unclear>n</unclear>e<unclear>na</unclear> <gap reason="lost" quantity="6" unit="character" precision="low"/>
         
-        <lb n="3"/><supplied reason="lost">bhāra</supplied><unclear>dvājam alaṃkar</unclear>iṣṇur atulaṃ gotraṃ guṇair ātma<unclear>n</unclear><choice><unclear>o</unclear><unclear>e</unclear></choice> <gap reason="lost" quantity="10" unit="character" precision="low"/>
+        <lb n="3"/><supplied reason="lost">bhāra</supplied><unclear>dvājam alaṁkar</unclear>iṣṇur atulaṁ gotraṁ guṇair ātma<unclear>n</unclear><choice><unclear>o</unclear><unclear>e</unclear></choice> <gap reason="lost" quantity="10" unit="character" precision="low"/>
         
         <lb n="4"/><gap reason="lost" quantity="3" unit="character" precision="low"/>
         <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>t<seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg></seg>        
         <gap reason="lost" quantity="2" unit="character" precision="low"/> tayaḥ kṣiti-bhujām agresaraḥ palla<supplied reason="lost">va</supplied> <gap reason="lost" quantity="10" unit="character" precision="low"/>
         
-        <lb n="5"/><gap reason="lost" quantity="6" unit="character" precision="low"/> <unclear>s</unclear>iṃha-viṣṇu<unclear>r ap</unclear>i <unclear>ya</unclear>ḥ stambhañ jaya <gap reason="lost" quantity="1" unit="character" precision="low"/>
+        <lb n="5"/><gap reason="lost" quantity="6" unit="character" precision="low"/> <unclear>s</unclear>iṁha-viṣṇu<unclear>r ap</unclear>i <unclear>ya</unclear>ḥ stambhañ jaya <gap reason="lost" quantity="1" unit="character" precision="low"/>
         <choice><unclear>i</unclear><unclear>ī</unclear></choice> <gap reason="lost" quantity="10" unit="character" precision="low"/>
         
         <lb n="6"/><gap reason="lost" quantity="5" unit="character" precision="low"/> <supplied reason="lost">maṇḍa</supplied><unclear>pai</unclear>r bbahu-mate prakhyāta <gap reason="lost" quantity="1" unit="character" precision="low"/> [CḍV] <gap reason="lost" quantity="10" unit="character" precision="low"/>
@@ -117,8 +117,8 @@
         </app>-->
         
         <app loc="1">
-            <lem><supplied reason="lost">saṃ</supplied>vatsare</lem>
-            <rdg source="bib:Krishnamacharlu1940_01 bib:Fleet1880_01"><unclear>saṃ</unclear>vatsare</rdg>
+            <lem><supplied reason="lost">saṁ</supplied>vatsare</lem>
+            <rdg source="bib:Krishnamacharlu1940_01 bib:Fleet1880_01"><unclear>saṁ</unclear>vatsare</rdg>
         </app>
         
         <app loc="1">
