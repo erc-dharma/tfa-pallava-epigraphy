@@ -97,18 +97,19 @@
                     
                     <lg n="1" met="āryā" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                         <l n="ab">jayati ja<unclear>ga</unclear><supplied reason="omitted">t</supplied>-traya-janma-<unclear>sthi</unclear>ti-saṁh<supplied reason="omitted">ṛ</supplied>ti-kāraṇam para-brahma</l>
-                        <l n="cd">satyam anantam anādi jñānā<lb n="2" break="no"/>tmakam ekam amṛta-padaM <g type="ddanda">.</g></l>
+                        <l n="cd">satyam anantam anādi jñānā<lb n="1v2=2" break="no"/>tmakam ekam amṛta-padaM <g type="ddanda">.</g></l>
                     </lg>
                     
-                    <lg n="2" met="	indravaṁśā " xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    <lg n="2" met="indravaṁśā " xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                         <l n="a">māyāvi<unclear>nā</unclear> yena pada-trayārtthinā</l>
-                        <l n="b">sadyaḥ pravṛddhena punar ba<lb n="3" break="no"/>ler mmakhe</l>
+                        <l n="b">sadyaḥ pravṛddhena punar ba<lb n="1v3=3" break="no"/>ler mmakhe</l>
                         <l n="c">vicakrame trir jjagatas svasātkṛt<choice><sic>o</sic><corr>au</corr></choice></l>
                         <l n="d">sa vo 'stu bhūtyai bhagavā<choice><sic>N</sic><corr>ṁ</corr></choice>s trivikrama<supplied reason="omitted">ḥ</supplied> <g type="ddanda">.</g></l>
                     </lg>
                     
                     <p>
                         maulāvi
+                        <lb n="1v4=4" break="no"/>...
                         <pb n="2r"/>
                         
                         <pb n="2v"/>
@@ -136,6 +137,7 @@
                         <pb n="8r"/>
                         
                         <pb n="8v"/>
+                        <lb n="8v1=99"/>...
                         
                         Ājñapti<choice><sic>gg</sic><corr>r gh</corr></choice>oraśar<surplus>m</surplus>mā
                     </p>
