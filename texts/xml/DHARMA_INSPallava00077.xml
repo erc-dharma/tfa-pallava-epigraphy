@@ -76,7 +76,7 @@
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
-        
+         <!--When SII original edition imported: update m· to M-->
         <body>            
             
             <div type="edition">
