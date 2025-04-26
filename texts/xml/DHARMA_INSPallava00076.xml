@@ -109,17 +109,21 @@
                     </lg>                                       
                     
                     <lg n="2" met="vasantatilakā">
-                        <l n="a">śrīmānanekaraṇabh<choice><sic>u</sic><corr>ū</corr></choice><choice><sic>v</sic><corr>m</corr></choice>iṣu pallavāya rājyapradaḥ para
+                        <l n="a">śrīmān aneka-raṇa-bh<choice><sic>u</sic><corr>ū</corr></choice><choice><sic>v</sic><corr>m</corr></choice>iṣu pallavāya</l>
+                        <l n="b">rājyapradaḥ para
                             <lb n="5" break="no"/>hita<supplied reason="omitted">ḥ</supplied> paracakradaṇḍī</l>
-                        <l n="c">pūcānkulasya tilakaḥ prathitaḥ p<choice><sic>ra</sic><corr>ṛ</corr></choice>thivyāṁ sye
-                            <lb n="6" break="no"/>yātsa vilvalapurādhipaniścirāya</l>
+                        <l n="c">pūcānkulasya tilakaḥ prathitaḥ p<choice><sic>ra</sic><corr>ṛ</corr></choice>thivyāṁ</l>
+                        <l n="d">sye
+                            <lb n="6" break="no"/>yātsa vilvala-purādhipaniścirāya</l>
                     </lg>
                     
                     <lg n="3" met="vasantatilakā">
-                        <l n="a">bhūpālavanditapadadvayapallavānā
-                            <lb n="7" break="no"/><unclear>nd</unclear>ānāmbubhāravinama<choice><sic>n</sic><corr>t</corr></choice>karapallavānām</l>
+                        <l n="a">bhūpāla-vandita-pada-dvaya-pallavānā
+                            <lb n="7" break="no"/><unclear>n</unclear></l>
+                        <l n="b"><unclear>d</unclear>ānāmbu-bhāra-vinama<choice><sic>n</sic><corr>t</corr></choice>-kara-pallavānām</l>
                         <l n="c">samyag-guṇ<choice><sic>ā</sic><corr>o</corr></choice>ccaya-n<choice><sic>ī</sic><corr>i</corr></choice>rasta-vipal-la
-                            <lb n="8" break="no"/>vānā<choice><sic>ma</sic><corr>ṁ </corr></choice><add place="below">va</add>ṁśaś cirañ jagati tiṣṭhatu pallavānām· <g type="danda"/></l>
+                            <lb n="8" break="no"/>vānā<choice><sic>ma</sic><corr>ṁ </corr></choice></l>
+                        <l n="d"><add place="below">va</add>ṁśaś cirañ jagati tiṣṭhatu pallavānām· <g type="danda"/></l>
                     </lg>
                     
                     <p> 
@@ -185,16 +189,20 @@
                     
                     <lg n="4" met="indravaṁśā">
                         <l n="a">kṛtānto ripūṇāmanaṁ
-                            <lb n="30" break="no"/>go vadhūnāmalaṁghyo balānāmanūno guṇānāṁ</l>
+                            <lb n="30" break="no"/>go vadhūnām</l>
+                        <l n="b">alaṁghyo balānāmanūno guṇānāṁ</l>
                         <l n="c">śaraṇyaḥ prajānāṁ
-                            <lb n="31"/>satāṁ kalpav<choice><sic>ra</sic><corr>ṛ</corr></choice>kṣaḥ kṛtī nandivarmmā patiḥ pallav<choice><sic>a</sic><corr>ā</corr></choice>n<choice><sic>a</sic><corr>ā</corr></choice>m· <g type="danda"/> <supplied reason="omitted">4</supplied></l>
+                            <lb n="31"/>satāṁ kalpav<choice><sic>ra</sic><corr>ṛ</corr></choice>kṣaḥ</l>
+                        <l n="d">kṛtī nandivarmmā patiḥ pallav<choice><sic>a</sic><corr>ā</corr></choice>n<choice><sic>a</sic><corr>ā</corr></choice>m· <g type="danda"/></l>
                     </lg>
                     
                     <lg n="5" met="bṛhatī">
-                        <l n="a">tīkṣṇairbāṇairyyo na
-                            <lb n="32" break="no"/>ranātha<supplied reason="omitted">ḥ</supplied> karisainyam· bhindannājau rājati rājā raṇaśūraḥ</l>
-                        <l n="c">mandam· bhindandhvā
-                            <lb n="33" break="no"/>ntasamūhaṁ karajālairudyannadrau paṁkajabandhussaviteva <supplied reason="subaudible"><g type="ddanda">.</g> 5</supplied></l>
+                        <l n="a">tīkṣṇair bāṇair yyo na
+                            <lb n="32" break="no"/>ranātha<supplied reason="omitted">ḥ</supplied> karisainyam·</l>
+                        <l n="b">bhindann ājau rājati rājā raṇa-śūraḥ</l>
+                        <l n="c">mandam· bhindan dhvā
+                            <lb n="33" break="no"/>nta-samūhaṁ karajālair</l>
+                        <l n="d">udyannadrau paṁkajabandhussaviteva</l>
                     </lg>
                     
                     <lg n="6" met="vasantatilakā">
@@ -292,11 +300,22 @@
                             <item>ta<choice><sic>t</sic><corr>d</corr></choice>gotrasūtrāya Agniśarmmaṇe</item>
                             <item>ta<choice><sic>t</sic><corr>d</corr></choice>gotrasūtrāya maṇṭaśarmmaṇe</item>
                             <item>ta<choice><sic>t</sic><corr>d</corr></choice>gotr<choice><sic>aĀva</sic><corr>āyāpa</corr></choice>
-                                <lb n="79" break="no"/>stambhasūtrāya mādhavaśa<choice><sic>mm</sic><corr>rm</corr></choice>aṇe ta<choice><sic>t</sic><corr>d</corr></choice>gotrasūtrāya ma<choice><sic>ṇa</sic><corr>ṇ</corr></choice>ṭaśarmmaṇe ta<choice><sic>t</sic><corr>d</corr></choice>gotrasūtrāya nārā
-                                <lb n="80" break="no"/>yaṇaśarmmaṇe pūrvvava<supplied reason="omitted">d</supplied>droṇaśa<choice><sic>mm</sic><corr>rm</corr></choice>aṇe pūrvva<unclear>va</unclear>t· Agniśa<choice><sic>mm</sic><corr>rm</corr></choice>aṇe <unclear>kā</unclear>śyapagotrāya Ā
-                                <lb n="81" break="no"/>pastam·basūtrāya bhavamātabhaṭṭāya bhāgatrayantadvanmaṇiśarmmaṇe bhāga<unclear>dva</unclear>yantadvatkāḷaśa<choice><sic>mm</sic><corr>rm</corr></choice>a
-                                <lb n="82" break="no"/>ṇe tadva<supplied reason="omitted">t·</supplied> tiṇṭaśa<choice><sic>mm</sic><corr>rm</corr></choice>aṇe tadvadv<choice><sic>i</sic><corr>ī</corr></choice>ramaṇṭāya tadvatkūḷāya bhāradvājagotr<choice><sic>a Āv</sic><corr>āyāp</corr></choice>astambhasūtr<supplied reason="omitted">āya</supplied> ru
-                                <lb n="83" break="no"/>drakumārāya tadvat<choice><sic>su</sic><corr>ska</corr></choice>ndāya tadvannārāyaṇāya tadvattā<seg xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">ḻi</seg>śarmmaṇe tadvacceṭṭaśarmmaṇe ta<choice><sic>t</sic><corr>d</corr></choice>go
+                                <lb n="79" break="no"/>stambhasūtrāya mādhavaśa<choice><sic>mm</sic><corr>rm</corr></choice>aṇe</item>
+                            <item>ta<choice><sic>t</sic><corr>d</corr></choice>gotrasūtrāya ma<choice><sic>ṇa</sic><corr>ṇ</corr></choice>ṭaśarmmaṇe</item>
+                            <item>ta<choice><sic>t</sic><corr>d</corr></choice>gotrasūtrāya nārā
+                                <lb n="80" break="no"/>yaṇaśarmmaṇe</item>
+                            <item>pūrvvava<supplied reason="omitted">d</supplied>droṇaśa<choice><sic>mm</sic><corr>rm</corr></choice>aṇe</item>
+                            <item>pūrvva<unclear>va</unclear>t· Agniśa<choice><sic>mm</sic><corr>rm</corr></choice>aṇe</item>
+                            <item><unclear>kā</unclear>śyapagotrāya Ā
+                                <lb n="81" break="no"/>pastam·basūtrāya bhavamātabhaṭṭāya bhāgatrayan</item>
+                            <item>tadvanmaṇiśarmmaṇe bhāga<unclear>dva</unclear>yan</item>
+                            <item>tadvatkāḷaśa<choice><sic>mm</sic><corr>rm</corr></choice>a
+                                <lb n="82" break="no"/>ṇe</item>
+                            <item>tadva<supplied reason="omitted">t·</supplied> tiṇṭaśa<choice><sic>mm</sic><corr>rm</corr></choice>aṇe</item>
+                            <item>tadvadv<choice><sic>i</sic><corr>ī</corr></choice>ramaṇṭāya tadvatkūḷāya bhāradvājagotr<choice><sic>a Āv</sic><corr>āyāp</corr></choice>astambhasūtr<supplied reason="omitted">āya</supplied> ru
+                                <lb n="83" break="no"/>drakumārāya</item>
+                            <item>tadvat<choice><sic>su</sic><corr>ska</corr></choice>ndāya</item>
+                            <item>tadvannārāyaṇāya tadvattā<seg xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">ḻi</seg>śarmmaṇe tadvacceṭṭaśarmmaṇe ta<choice><sic>t</sic><corr>d</corr></choice>go
                                 <lb n="84" break="no"/>tr<supplied reason="omitted">āya</supplied> pravacanasūtrā<unclear>ya śū</unclear>lamaṇṭāya tadvat<supplied reason="omitted">s</supplied>kan<choice><sic>t</sic><corr>d</corr></choice>āya tadvadd<supplied reason="omitted">r</supplied>oṇarudrāya jāt<choice><sic>uga</sic><corr>ūkar</corr></choice>ṇagotr<supplied reason="omitted">āya</supplied> prava<choice><sic>j</sic><corr>c</corr></choice>a
                                 <lb n="85" break="no"/>nasūtrāya po<seg xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">ṟ</seg>kūḷakeyāya vatsagotrāya Ā<choice><sic>v</sic><corr>p</corr></choice>astambhasū<unclear>tr</unclear><supplied reason="omitted">āya</supplied> <unclear>Abhu</unclear>ṇḍigovi<unclear>nda</unclear>
                                 <lb n="86" break="no"/>śarmmaṇe pūrvvava<choice><sic>ta <unclear>mā</unclear></sic><corr>vanmā</corr></choice>dhavaśarmmaṇe pūrvvava<choice><sic>t</sic><corr>d</corr></choice>bhadrakāḷāya <del>pū</del>
@@ -305,16 +324,23 @@
                                 <lb n="87"/>pūrvvavattā<seg xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">ḻi</seg>śarmmaṇe pūrvva<supplied reason="omitted">va</supplied>nnīlaka<choice><sic>ṇa</sic><corr>ṇ</corr></choice><choice><sic>ṭ</sic><corr>ṭh</corr></choice>a<unclear>śa</unclear>rmmaṇe pūrvvavat· rāmaśa<choice><sic>mm</sic><corr>rm</corr></choice>aṇe <choice><sic>A</sic><corr>Ā</corr></choice>gni
                                 <lb n="88" break="no"/>v<choice><sic>ai</sic><corr>e</corr></choice>śyagotr<choice><sic>e A</sic><corr>āyā</corr></choice>pastam·bhasūtrāya droṇaśarmmaṇe vādhūlagotr<supplied reason="omitted">āya</supplied> Āpastam·bha
                                 <lb n="89" break="no"/>sūtrāya nārāyaṇāya Ātreyagotrāya Āpastam·<surplus>pa</surplus>bhasūtrāya caṭṭipuranandi<supplied reason="omitted">ne</supplied>
-                                <lb n="90"/>viṣṇ<choice><sic>a</sic><corr>u</corr></choice><choice><sic>pra</sic><corr>vṛ</corr></choice>ddhagotrāya bahuv<choice><sic>ra</sic><corr>ṛ</corr></choice>c<choice><sic>a</sic><corr>āya</corr></choice> nimabadāsiśa<choice><sic>mm</sic><corr>rm</corr></choice>aṇe pūrvvavannīlaka
-                                <lb n="91" break="no"/>ṇṭhāya pūrvvavatpiṭṭaśarmmaṇe pūr<surplus>v</surplus>vavann<choice><sic>i</sic><corr>ī</corr></choice>lakaṇṭhāya l<choice><sic>e</sic><corr>o</corr></choice>hitagotrāya Āpa
+                                <lb n="90"/>viṣṇ<choice><sic>a</sic><corr>u</corr></choice><choice><sic>pra</sic><corr>vṛ</corr></choice>ddhagotrāya bahuv<choice><sic>ra</sic><corr>ṛ</corr></choice>c<choice><sic>a</sic><corr>āya</corr></choice> nimabadāsiśa<choice><sic>mm</sic><corr>rm</corr></choice>aṇe</item>
+                            <item>pūrvvavannīlaka
+                                <lb n="91" break="no"/>ṇṭhāya pūrvvavatpiṭṭaśarmmaṇe</item>
+                            <item>pūr<surplus>v</surplus>vavann<choice><sic>i</sic><corr>ī</corr></choice>lakaṇṭhāya l<choice><sic>e</sic><corr>o</corr></choice>hitagotrāya Āpa
                                 <lb n="92" break="no"/>stam·bhasūtrāya kārām·<choice><sic>p</sic><corr>b</corr></choice>inan<choice><sic>t</sic><corr>d</corr></choice>iśa<choice><sic>mm</sic><corr>rm</corr></choice>aṇe vasiṣṭhagotrāya pravacanasūtrāya kāva
                                 <lb n="93" break="no"/><seg xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">nū</seg>rma<choice><sic>ṇa</sic><corr>ṇ</corr></choice>ṭaśarmmaṇe pūrvvavat droṇaśarmmaṇe gotamagotr<supplied reason="omitted">āya</supplied> Āpastambhasūtrā
-                                <lb n="94" break="no"/>ya ni<choice><sic>ma</sic><corr>m</corr></choice>baśarmmaṇe pūrvvava<choice><sic>ta A</sic><corr>da</corr></choice>gniśa<choice><sic>mm</sic><corr>rm</corr></choice>aṇe ta<choice><sic>t</sic><corr>d</corr></choice>gotr<supplied reason="omitted">āya</supplied> pravacanasūtrāya rudramaṇṭāya bhā
+                                <lb n="94" break="no"/>ya ni<choice><sic>ma</sic><corr>m</corr></choice>baśarmmaṇe</item>
+                            <item>pūrvvava<choice><sic>ta A</sic><corr>da</corr></choice>gniśa<choice><sic>mm</sic><corr>rm</corr></choice>aṇe</item>
+                            <item>ta<choice><sic>t</sic><corr>d</corr></choice>gotr<supplied reason="omitted">āya</supplied> pravacanasūtrāya rudramaṇṭāya bhā
                                 <lb n="95" break="no"/>gadvayam·</item>
-                            <item>parāśara-gotr<supplied reason="omitted">āya</supplied> pravacanasūtrāya gaṇamātaśarmmaṇe pūrvvavanmādhavaśarmmaṇe
-                                <lb n="96"/>ta<choice><sic>t</sic><corr>d</corr></choice>gotr<supplied reason="omitted">āya</supplied> Āpastambhasūtrāya nā<choice><sic>k</sic><corr>g</corr></choice>aśarmmaṇe haritagotrā<unclear>y</unclear>āpastambhasūtrāya vinā
-                                <lb n="97" break="no"/>yakaśarmmaṇe tadva<supplied reason="omitted">t·</supplied> skandāya tadvatkoṇṭāya tadva<choice><sic>tt</sic><corr>dd</corr></choice>ā<unclear>ma</unclear>śarmmaṇe tadva<choice><sic>tt</sic><corr>dd</corr></choice>evaśa<choice><sic>mm</sic><corr>rm</corr></choice>aṇe mu
-                                <lb n="98" break="no"/><choice><sic>t</sic><corr>d</corr></choice>galagotrāyāpastambhasūtrāya cannakāḷine pūrvvava<supplied reason="omitted">d</supplied>droṇāya kauśikago
+                            <item>parāśara-gotr<supplied reason="omitted">āya</supplied> pravacanasūtrāya gaṇamātaśarmmaṇe pūrvvavanmādhavaśarmmaṇe</item>
+                            <item><lb n="96"/>ta<choice><sic>t</sic><corr>d</corr></choice>gotr<supplied reason="omitted">āya</supplied> Āpastambhasūtrāya nā<choice><sic>k</sic><corr>g</corr></choice>aśarmmaṇe</item>
+                            <item>haritagotrā<unclear>y</unclear>āpastambhasūtrāya vinā
+                                <lb n="97" break="no"/>yakaśarmmaṇe</item>
+                            <item>tadva<supplied reason="omitted">t·</supplied> skandāya tadvatkoṇṭāya tadva<choice><sic>tt</sic><corr>dd</corr></choice>ā<unclear>ma</unclear>śarmmaṇe tadva<choice><sic>tt</sic><corr>dd</corr></choice>evaśa<choice><sic>mm</sic><corr>rm</corr></choice>aṇe mu
+                                <lb n="98" break="no"/><choice><sic>t</sic><corr>d</corr></choice>galagotrāyāpastambhasūtrāya cannakāḷine</item>
+                            <item>pūrvvava<supplied reason="omitted">d</supplied>droṇāya kauśikago
                                 <lb n="99" break="no"/><unclear>tr</unclear>ā<supplied reason="omitted">yā</supplied>pastambhasūtrāya kumāramaṇṭāya ta<choice><sic>t</sic><corr>d</corr></choice>vacca<surplus>c</surplus>na<supplied reason="omitted">ku</supplied>mārāya <!--<note n="369-43">Read tadreº.</note>--><!--EF: it is unclear what is to be corrected-->tatgotr<supplied reason="omitted">āya</supplied> pravacanasūtrāya
                                 
                                 <pb n="5v"/>
@@ -365,78 +391,84 @@
             
             <div type="apparatus">
                 
-                <listApp>
-                    <!--<app loc="0">
-                        <lem>...</lem>
-                        </app>-->
-                    
-                    <app loc="2">
-                        <lem>°dvayamumā°</lem>
-                        <note>Separate <foreign>ºdvayam <g type="danda"/> umāº</foreign>.</note>
-                    </app>
-                    
-                    <app loc="8">
-                        <lem>°vānā<choice><sic>ma</sic><corr>ṁ </corr></choice><add place="below">va</add>ṁśa°</lem>
-                        <note>Read <foreign>ºvānāṁ vaṁśaº</foreign>; the missing <foreign>va</foreign> appears to be entered above the line by the engraver himself.</note>
-                    </app>
-                    
-                    <app loc="28">
-                        <lem>°rtthapraṇairttarakṣara°</lem>
-                        <note>Read <foreign>ºthaipādaprehīlakākṣaraº</foreign> ?</note>
-                    </app>
-                    
-                    <app loc="32">
-                        <lem>bhindannājau</lem>
-                        <note><foreign>jau</foreign> appears to be corrected from <foreign>jai</foreign>.</note>
-                    </app>
-                    
-                    <app loc="36">
-                        <lem>°vaketanasya</lem>
-                        <note><foreign>va</foreign> appears to be corrected from <foreign>vi</foreign>.</note>
-                    </app>
-                    
-                    <app loc="42">
-                        <lem>patirjjala<del>la</del>dāgama°</lem>
-                        <note>A second, obliterated <foreign>la</foreign> stands below the <foreign>la</foreign> of <foreign>jalada</foreign>.</note>
-                    </app>
-                    
-                    <app loc="42">
-                        <lem>°gamajalamerarasarasāsita°</lem>
-                        <note>Read <foreign>ºgamakālamelārasāsitaº</foreign> ?</note>
-                    </app>
-                    
-                    <app loc="46">
-                        <lem>°p<del>ū</del><add place="overstrike">u</add>re</lem>
-                        <note>Corrected from <foreign>pūre</foreign> by the engraver.</note>
-                    </app>
-                    
-                    <app loc="49">
-                        <lem>°nellū°</lem>
-                        <note>The <foreign>e</foreign> and the second <foreign>l</foreign> of <foreign>nellūr</foreign> are doubtful; on the facsimile published in the <hi rend="italic">Ind. Ant.</hi>, the <foreign>e</foreign> looks like <foreign>va</foreign>, which must be due to retouching.</note>
-                    </app>
-                    
-                    <app loc="51">
-                        <lem>bhaira<choice><sic>nena</sic><corr>ve</corr></choice></lem>
-                        <note>The bracketted words which follow, were entered by mistake and subsequently cancelled by the engraver himself; they occur in their proper place in line 54.</note>
-                    </app>
-                    
-                    <app loc="73">
-                        <lem>°s<choice><sic>i</sic><corr>ī</corr></choice>mād°</lem>
-                        <note >Read <foreign>sīmāº</foreign>. Here and in line 68 f. the incorrect masculine <foreign>sīma</foreign> is used instead of <foreign>sīmā</foreign> or <foreign>sīman</foreign>.</note>
-                    </app>
-                    
-                    <app loc="86">
-                        <lem><del>pū</del></lem>
-                        <note>This line appears to have originally ended with the letter <foreign>pū</foreign>, which was erased by the engraver, because he had repeated it at the beginning of line 87.</note>
-                    </app>
-                    
-                    <app loc="105">
-                        <lem><g type="ddanda">.</g></lem>
-                        <note>In the original, this sign of punctuation looks like a double <foreign xml:lang="tam-Latn">ṟa</foreign>.</note>
-                    </app>
-                    
-                </listApp>
+                <div type="textpart" n="A">
+                    <head xml:lang="eng">Seal</head>
+                </div>
                 
+                <div type="textpart" n="B">
+                    <head xml:lang="eng">Plates</head><listApp>
+                        <!--<app loc="0">
+                            <lem>...</lem>
+                            </app>-->
+                        
+                        <!--Apparatus from SII: sift it-->
+                        <app loc="2">
+                            <lem>°dvayamumā°</lem>
+                            <note>Separate <foreign>ºdvayam <g type="danda"/> umāº</foreign>.</note>
+                        </app>
+                        
+                        <app loc="8">
+                            <lem>°vānā<choice><sic>ma</sic><corr>ṁ </corr></choice><add place="below">va</add>ṁśa°</lem>
+                            <note>Read <foreign>ºvānāṁ vaṁśaº</foreign>; the missing <foreign>va</foreign> appears to be entered above the line by the engraver himself.</note>
+                        </app>
+                        
+                        <app loc="28">
+                            <lem>°rtthapraṇairttarakṣara°</lem>
+                            <note>Read <foreign>ºthaipādaprehīlakākṣaraº</foreign> ?</note>
+                        </app>
+                        
+                        <app loc="32">
+                            <lem>bhindannājau</lem>
+                            <note><foreign>jau</foreign> appears to be corrected from <foreign>jai</foreign>.</note>
+                        </app>
+                        
+                        <app loc="36">
+                            <lem>°vaketanasya</lem>
+                            <note><foreign>va</foreign> appears to be corrected from <foreign>vi</foreign>.</note>
+                        </app>
+                        
+                        <app loc="42">
+                            <lem>patirjjala<del>la</del>dāgama°</lem>
+                            <note>A second, obliterated <foreign>la</foreign> stands below the <foreign>la</foreign> of <foreign>jalada</foreign>.</note>
+                        </app>
+                        
+                        <app loc="42">
+                            <lem>°gamajalamerarasarasāsita°</lem>
+                            <note>Read <foreign>ºgamakālamelārasāsitaº</foreign> ?</note>
+                        </app>
+                        
+                        <app loc="46">
+                            <lem>°p<del>ū</del><add place="overstrike">u</add>re</lem>
+                            <note>Corrected from <foreign>pūre</foreign> by the engraver.</note>
+                        </app>
+                        
+                        <app loc="49">
+                            <lem>°nellū°</lem>
+                            <note>The <foreign>e</foreign> and the second <foreign>l</foreign> of <foreign>nellūr</foreign> are doubtful; on the facsimile published in the <hi rend="italic">Ind. Ant.</hi>, the <foreign>e</foreign> looks like <foreign>va</foreign>, which must be due to retouching.</note>
+                        </app>
+                        
+                        <app loc="51">
+                            <lem>bhaira<choice><sic>nena</sic><corr>ve</corr></choice></lem>
+                            <note>The bracketted words which follow, were entered by mistake and subsequently cancelled by the engraver himself; they occur in their proper place in line 54.</note>
+                        </app>
+                        
+                        <app loc="73">
+                            <lem>°s<choice><sic>i</sic><corr>ī</corr></choice>mād°</lem>
+                            <note >Read <foreign>sīmāº</foreign>. Here and in line 68 f. the incorrect masculine <foreign>sīma</foreign> is used instead of <foreign>sīmā</foreign> or <foreign>sīman</foreign>.</note>
+                        </app>
+                        
+                        <app loc="86">
+                            <lem><del>pū</del></lem>
+                            <note>This line appears to have originally ended with the letter <foreign>pū</foreign>, which was erased by the engraver, because he had repeated it at the beginning of line 87.</note>
+                        </app>
+                        
+                        <app loc="105">
+                            <lem><g type="ddanda">.</g></lem>
+                            <note>In the original, this sign of punctuation looks like a double <foreign xml:lang="tam-Latn">ṟa</foreign>.</note>
+                        </app>
+                        
+                    </listApp>
+                </div>
             </div>
             
             
