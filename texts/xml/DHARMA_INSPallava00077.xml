@@ -79,6 +79,7 @@
         
         <!--
             split words
+            add ē ō in Tamil portion
             update m· to M
             sift SII inherited apparatus
         -->
@@ -340,28 +341,36 @@
                         <l n="a">
                             Icchā                            
                             <pb n="5v" break="no"/>                            
-                            <lb n="57" break="no"/>-<supplied reason="omitted">vi</supplied>dheyasakalāvanipālaloka<supplied reason="omitted">ḥ</supplied> paścādbabhūva parameśvarapotavarmmā</l>
+                            <lb n="57" break="no"/>-<supplied reason="omitted">vi</supplied>dheya-sakalāvanipāla-loka<supplied reason="omitted">ḥ</supplied></l>
+                        <l n="b">paścād babhūva parameśvarapotavarmmā</l>
                         <l n="c">bhūti<supplied reason="omitted">ṁ</supplied> parāṁ vahati
-                            <lb n="58"/>bhūtapatirvvṛṣ<unclear>ā</unclear><choice><sic><unclear>ṃ</unclear></sic><corr>ṅ</corr></choice>k<choice><sic>o</sic><corr>aḥ </corr></choice>khaṭvā<supplied reason="omitted">ṅ</supplied>gaketuracalasthitiradbhuto yaḥ <g type="ddanda">.</g></l>
+                            <lb n="58"/>bhūtapatir vvṛṣ<unclear>ā</unclear><choice><sic><unclear>ṃ</unclear></sic><corr>ṅ</corr></choice>k<choice><sic>o</sic><corr>aḥ </corr></choice></l>
+                        <l n="d">khaṭvā<supplied reason="omitted">ṅ</supplied>ga-ketur acala-sthitir adbhuto yaḥ <g type="ddanda">.</g></l>
                     </lg>
                     
                     <lg n="25" met="śārdūlavikrīḍita">
                         <l n="a">devabrāhmaṇa<unclear>s</unclear>ātkṛtātmavibh<choice><sic>ā</sic><corr>a</corr></choice>vo
-                            <lb n="59"/>ya<unclear>ḥ</unclear> kṣatracūḷāmaṇi<supplied reason="omitted">ś</supplied>catur<surplus>v</surplus>vaidyamavīv<choice><sic>ī</sic><corr>i</corr></choice><choice><sic>dhan</sic><corr>śat</corr></choice>svasaṭikām bhūdevatāmbhaktitaḥ</l>
+                            <lb n="59"/>ya<unclear>ḥ</unclear> kṣatracūḷāmaṇi<supplied reason="omitted">ś</supplied></l>
+                        <l n="b">catur<surplus>v</surplus>vaidyamavīv<choice><sic>ī</sic><corr>i</corr></choice><choice><sic>dhan</sic><corr>śat</corr></choice>svasaṭikām bhūdevatāmbhaktitaḥ</l>
                         <l n="c"><unclear>sa</unclear>mprāpt<choice><sic>e</sic><corr>o</corr></choice> narasiṁ
-                            <lb n="60" break="no"/>ha<unclear>t</unclear>ā<supplied reason="omitted">ṁ</supplied> svavapuṣā nāmnā ca <add place="below" rend="mark">di</add>gvyāpinā jāta<supplied reason="omitted">ḥ</supplied> śrīparameśvarasya sakalasyāṁgā<unclear>vat</unclear>ārastataḥ</l>
+                            <lb n="60" break="no"/>ha<unclear>t</unclear>ā<supplied reason="omitted">ṁ</supplied> svavapuṣā nāmnā ca <add place="below" rend="mark">di</add>gvyāpinā</l>
+                        <l n="d">jāta<supplied reason="omitted">ḥ</supplied> śrīparameśvarasya sakalasyāṁgā<unclear>vat</unclear>ārastataḥ</l>
                     </lg>
                     
                     <lg n="26" met="vasantatilakā">
-                        <l n="a"><lb n="61"/>Etā dhanāni d<choice><sic>ai</sic><corr>ayi</corr></choice>tāni yaśodhanāni jetā kalervvilasitāni babhūva tasmāt</l>
+                        <l n="a"><lb n="61"/>Etā dhanāni d<choice><sic>ai</sic><corr>ayi</corr></choice>tāni yaśodhanāni</l>
+                        <l n="b">jetā kalervvilasitāni babhūva tasmāt</l>
                         <l n="c">netā naya<choice><sic>ś</sic><corr>s</corr></choice>ya dh<choice><sic>a</sic><corr>i</corr></choice>
-                            <lb n="62" break="no"/>ṣaṇādhikṛtasya mār<surplus>g</surplus>ga<supplied reason="omitted">ṁ</supplied> pātā jaga<choice><sic>t</sic><corr>nt</corr></choice>i parameśvarapotavarmmā</l>
+                            <lb n="62" break="no"/>ṣaṇādhikṛtasya mār<surplus>g</surplus>ga<supplied reason="omitted">ṁ</supplied></l>
+                        <l n="d">pātā jaga<choice><sic>t</sic><corr>nt</corr></choice>i parameśvarapotavarmmā</l>
                     </lg>
                     
                     <lg n="27" met="vasantatilakā">
                         <l n="a">tasya praśāsti padamṛddhimadā samudra<choice><sic>a</sic><corr>ā</corr></choice>
-                            <lb n="63" break="no"/>dājñābalena jitaśatru vṛtaḥ prajābhiḥ</l>
-                        <l n="c">mānyo nayena <choice><sic>m</sic><corr>n</corr></choice>anu <choice><sic>taṁ </sic><corr>saṁ</corr></choice>prati nandivarmmā vistīrṇṇapallava<unclear>ku</unclear>
+                            <lb n="63" break="no"/>d</l>
+                        <l n="b">ājñābalena jitaśatru vṛtaḥ prajābhiḥ</l>
+                        <l n="c">mānyo nayena <choice><sic>m</sic><corr>n</corr></choice>anu <choice><sic>taṁ </sic><corr>saṁ</corr></choice>prati nandivarmmā</l>
+                        <l n="d">vistīrṇṇapallava<unclear>ku</unclear>
                             <pb n="6r" break="no"/>
                             <lb n="64" break="no"/>lārṇṇavapūrṇṇacandra<supplied reason="omitted">ḥ</supplied> <g type="ddanda">.</g></l>
                     </lg>
@@ -450,7 +459,7 @@
                         Udaṅ veḷimānallūr
                     </p>
                     <p>
-                         Etad-avadhi-catuṣṭayānta<choice><sic>bbh</sic><corr>rbh</corr></choice>ūtaḥ ko<choice><sic>ṭ</sic><corr>ḍ</corr></choice>ukoḷḷiriti prathamanāmā brahmade
+                        Etad-avadhi-catuṣṭayānta<choice><sic>bbh</sic><corr>rbh</corr></choice>ūtaḥ ko<choice><sic>ṭ</sic><corr>ḍ</corr></choice>ukoḷḷiriti prathamanāmā brahmade
                         <lb n="100" break="no"/>y<choice><sic>i</sic><corr>ī</corr></choice>bhāv<choice><sic>a <add place="below" rend="mark">E</add></sic><corr>ad e</corr></choice>kadhīramaṁ<unclear>ga</unclear>lamiti caramanāmnā grāmassāmānyanivarttanadvayamaryyādayā nirastapurā
                         <lb n="101" break="no"/>ta<unclear>na</unclear>devadā<add place="below" rend="mark">na</add>brahma<unclear>de</unclear>yannirastaku<supplied reason="omitted">ṭu</supplied>mbi sarvvaparihārābhyantarīkaraṇena dūrasarito vegavatyāśca t<choice><sic>i</sic><corr>ī</corr></choice>ra
                         <lb n="102" break="no"/>layata<unclear>ṭā</unclear>kācca yathopapādaṁ ruddhvā c<choice><sic>a U</sic><corr>o</corr></choice>daka<unclear>bho</unclear>go g<choice><sic>ra</sic><corr>ṛ</corr></choice>haṁ kṣetramārāmo niṣkuṭa<choice><sic>ñca</sic><corr>ṁ ce</corr></choice>
@@ -483,65 +492,66 @@
                         
                         tan-nāṭṭu-k ko                        
                         <pb n="9r" break="no"/>
-                        <lb n="106" break="no"/>ṭukoḷḷi muṉpeṟṟārai māṟṟi <hi rend="grantha">brahma</hi><choice><sic>t</sic><corr>y</corr></choice>uvarācaṉ viṇṇappattāl kora<hi rend="grantha">śarmma</hi>ṉṉ ā
-                        <lb n="107" break="no"/>ṇattiyāka tēvatāṉa-p-piramatē<supplied reason="omitted">ya</supplied>m nīkki-k kuṭi nīkki-c cāmāniya Iraṇṭu paṭṭi-p pa
+                        <lb n="106" break="no"/>ṭukoḷḷi muṉpeṟṟārai māṟṟi <hi rend="grantha">brahma</hi><choice><sic>t</sic><corr>y</corr></choice>uvarācaṉ viṇṇappattāl kōra<hi rend="grantha">śarmma</hi>ṉṉ ā
+                        <lb n="107" break="no"/>ṇatti-y-āka tēvatāṉa-p-piramatē<supplied reason="omitted">ya</supplied>m nīkki-k kuṭi nīkki-c cāmāniya Iraṇṭu paṭṭi-p pa
                         <lb n="108" break="no"/>ṭiyāl <hi rend="grantha">bhāradvāja-gotrā</hi>ya <hi rend="grantha">chandoga-sūtrā</hi>ya <hi rend="grantha">pū</hi>ni-vā<hi rend="grantha">stavyā</hi>ya 
                         
-                        ceṭṭiṟeṅka<hi rend="grantha">somay<choice><sic>a</sic><corr>ā</corr></choice></hi>
-                        <lb n="109" break="no"/><hi rend="grantha">ji</hi>kkuppiramateya<unclear>m</unclear><choice><sic>a</sic><corr>ā</corr></choice>kappaṇittaruḷi viṭut<unclear>ta</unclear>ttirumukam kaṇṭu nāṭṭom nā
-                        <lb n="110" break="no"/>ṭṭu viyavaṉ colliya Ell<choice><sic>e</sic><corr>ai</corr></choice> poyi paṭākai valañceyitu kalluṅka<choice><sic>ṇṇ</sic><corr>ḷḷ</corr></choice>iyu
-                        <lb n="111" break="no"/>nnāṭṭikkoṭuttataṟk' ell<choice><sic>e</sic><corr>ai</corr></choice>
+                        ceṭṭiṟeṅka-<hi rend="grantha">somay<choice><sic>a</sic><corr>ā</corr></choice></hi>
+                        <lb n="109" break="no"/><hi rend="grantha">ji</hi>kku-p piramatēya<unclear>m</unclear> <choice><sic>a</sic><corr>ā</corr></choice>ka-p paṇitt-aruḷi viṭut<unclear>ta</unclear>-t tirumukam kaṇṭu nāṭṭom nā
+                        <lb n="110" break="no"/>ṭṭu viyavaṉ colliya Ell<choice><sic>e</sic><corr>ai</corr></choice> pōyi paṭākai valañ-ceyitu kalluṅ ka<choice><sic>ṇṇ</sic><corr>ḷḷ</corr></choice>iyu
+                        <lb n="111" break="no"/>n nāṭṭi-k koṭuttataṟk' ell<choice><sic>e</sic><corr>ai</corr></choice>
                         
                         <list>
-                            <item>kīḻ-pāl e<unclear>l</unclear>l<choice><sic>e</sic><corr>ai</corr></choice> pāl<choice><sic>e</sic><corr>ai</corr></choice>yūrell<choice><sic>eI</sic><corr>aiyi</corr></choice>ṉ meṟkum</item>
+                            <item>kīḻ-pāl e<unclear>l</unclear>l<choice><sic>e</sic><corr>ai</corr></choice> pāl<choice><sic>e</sic><corr>ai</corr></choice>yūrell<choice><sic>eI</sic><corr>aiyi</corr></choice>ṉ mēṟkum</item>
                             <item><lb n="112"/>teṉ-pāl ell<choice><sic>e</sic><corr>ai</corr></choice> pāl<choice><sic>e</sic><corr>ai</corr></choice>yūre<supplied reason="omitted">l</supplied>l<choice><sic>e</sic><corr>ai</corr></choice>yiṉ vaṭakkum</item>
-                            <item>mēl-pāl ell<choice><sic>e</sic><corr>ai</corr></choice> maṇaṟpā<supplied reason="omitted">kka</supplied>ttel
-                        
-                        <pb n="9v" break="no"/>
-                        
-                        <lb n="9v1=113" break="no"/>l<choice><sic>e</sic><corr>ai</corr></choice>yiṉṉum koḷḷipā<supplied reason="omitted">kka</supplied>ttell<choice><sic>e</sic><corr>ai</corr></choice>yiṉ<supplied reason="omitted">um</supplied> kiḻakkum</item><item>vaṭa-pāl ell<choice><sic>e</sic><corr>ai</corr></choice> veḷimāṉa
-                        <lb n="114" break="no"/><choice><sic>laṉ</sic><corr>ll</corr></choice>ūrell<choice><sic>e</sic><corr>ai</corr></choice>yiṉ<unclear>ṟ</unclear>eṟkkum</item>
-                            </list>
-                        In-nāṟ-pēr-ell<choice><sic>e</sic><corr>ai</corr></choice>yuḷḷum Akappa<unclear>ṭ</unclear>ṭa nīrnila 
-                        <lb n="115" break="no"/><unclear>ṉu</unclear>m puṉceyiyum Uṭum<unclear>p</unclear>oṭi Āmai tavaḻvate<unclear>l</unclear>lām ceyāṟṟālum ve<unclear>ḵ</unclear>kā 
-                        <lb n="116" break="no"/>viṉālum tīraiyaṉeriy<unclear>ālu</unclear>nnī<unclear>rī</unclear><surplus>yi</surplus>n<unclear>ta va</unclear>ḻi Āṟṟukkālum veḷ<unclear>ḷakkā</unclear>
-                        <lb n="117" break="no"/>lum toṇṭikkoṇṭuṇṇap<unclear>peṟuvār</unclear>ākavu<unclear>m</unclear>
+                            <item>mēl-pāl ell<choice><sic>e</sic><corr>ai</corr></choice> maṇaṟpā<supplied reason="omitted">kka</supplied>tt' el
+                                
+                                <pb n="9v" break="no"/>
+                                
+                                <lb n="9v1=113" break="no"/>l<choice><sic>e</sic><corr>ai</corr></choice>yiṉṉum koḷḷipā<supplied reason="omitted">kka</supplied>tt' ell<choice><sic>e</sic><corr>ai</corr></choice>yiṉ<supplied reason="omitted">um</supplied> kiḻakkum</item><item>vaṭa-pāl ell<choice><sic>e</sic><corr>ai</corr></choice> veḷimāṉa
+                                    <lb n="114" break="no"/><choice><sic>laṉ</sic><corr>ll</corr></choice>ūr ell<choice><sic>e</sic><corr>ai</corr></choice>yiṉ <unclear>ṟ</unclear>eṟkkum</item>
+                        </list>
+                        In-nāṟ-pēr-ell<choice><sic>e</sic><corr>ai</corr></choice>yuḷḷum Akappa<unclear>ṭ</unclear>ṭa nīr'nila 
+                        <lb n="115" break="no"/><unclear>ṉu</unclear>m puṉceyiyum Uṭum<unclear>p</unclear>' ōṭi Āmai tavaḻvat' e<unclear>l</unclear>lām ceyāṟṟālum ve<unclear>ḵ</unclear>kā 
+                        <lb n="116" break="no"/>viṉālum tīraiyaṉeriy<unclear>ālu</unclear>n nī<unclear>r ī</unclear><surplus>yi</surplus>n<unclear>ta va</unclear>ḻi Āṟṟukkālum veḷ<unclear>ḷakkā</unclear>
+                        <lb n="117" break="no"/>lum toṇṭi-k koṇṭ' uṇṇa-p <unclear>peṟuvār</unclear> ākavu<unclear>m</unclear>
                     </p>
                     <p>
-                        <unclear>I</unclear>kkālkaḷukku kolkalamum
+                        <unclear>I</unclear>k-kālkaḷukku kolkalamum
                         <lb n="118"/>puḻutipāṭum peṟuvat' ākavum
                     </p>
                     <p>
-                        Ikk<unclear>ā</unclear>lkaḷil kūṭ<choice><sic>e</sic><corr>ai</corr></choice> <unclear>Iṟ</unclear><choice><sic><unclear>e</unclear></sic><corr>ai</corr></choice>ttuṅkuṟa<unclear>ṅ</unclear>kaṟuttum <unclear>ku</unclear>ṟ<unclear>ṟe</unclear>
-                        <lb n="119" break="no"/>ttam paṇṇiyum koṇṭuṇṭār kokkoḷḷum taṇṭappaṭu v-ākavum
+                        Ik-k<unclear>ā</unclear>lkaḷil kūṭ<choice><sic>e</sic><corr>ai</corr></choice> <unclear>Iṟ</unclear><choice><sic><unclear>e</unclear></sic><corr>ai</corr></choice>ttuṅ kuṟa<unclear>ṅ</unclear>k-aṟuttum <unclear>ku</unclear>ṟ<unclear>ṟe</unclear>
+                        <lb n="119" break="no"/>ttam paṇṇiyum koṇṭuṇṭār kō-k koḷḷum taṇṭappaṭu v-ākavum
                     </p>
                     <p>
                         ma<unclear>ṉ</unclear><choice><sic>e</sic><corr>ai</corr></choice><unclear>yum</unclear>
-                        
                         <pb n="10r"/>
-                        
-                        <lb n="10r1=120"/>ma<supplied reason="omitted">ṉai</supplied>p<unclear>pa</unclear>ṭappum piṟavum Ivarum Ivar vaḻikkaṇṇārum māṭamum māḷikaiyum cū<unclear>ṭṭo</unclear> <gap reason="lost" quantity="2" unit="character"/>
-                        <lb n="121"/>l <unclear>E</unclear>ṭut<surplus><seg type="component" subtype="vowel">e</seg></surplus>tukkoṇṭirukkappe<unclear>ṟu</unclear>vār āka<unclear>vu</unclear>m
+                        <lb n="10r1=120"/>ma<supplied reason="omitted">ṉai</supplied>-p-<unclear>pa</unclear>ṭappum piṟavum Ivarum Ivar vaḻikkaṇṇārum māṭamum māḷikaiyum cū<unclear>ṭṭo</unclear> <gap reason="lost" quantity="2" unit="character"/>
+                        <lb n="121"/>l <unclear>E</unclear>ṭut<surplus><seg type="component" subtype="vowel">e</seg></surplus>tu-k koṇṭ' irukka-p pe<unclear>ṟu</unclear>vār āka<unclear>vu</unclear>m
                     </p>
                     <p>
-                        <unclear>I</unclear>vvu<unclear>ḷ</unclear>ḷiṭṭa <hi rend="grantha">sarvva</hi>paricāramuḷ<unclear>ḷā</unclear>ka<unclear>p</unclear>
-                        <lb n="122" break="no"/>paṇittem
+                        <unclear>I</unclear>vv-u<unclear>ḷ</unclear>ḷiṭṭa <hi rend="grantha">sarvva</hi>-paricāram uḷ<unclear>ḷ-ā</unclear>ka-<unclear>p</unclear>
+                        <lb n="122"/>paṇittēm
                     </p>
                     <p>
-                        Ivv-ūr peṟṟa paricāra<unclear>m</unclear> cekku<unclear>m taṟiyum U</unclear>lliyak<unclear>kū</unclear>liyum pirāmaṇa<unclear>rā</unclear>
-                        <lb n="123" break="no"/>cakkāṇamum ceṅkoṭiykkā<unclear>ṇa</unclear>mum ka<unclear>l</unclear>lā<unclear>l</unclear>kkāṇamum kaṇṇiṭṭukkāṇa
-                        <lb n="124" break="no"/><unclear>mu</unclear>m katirkkāṇamum vicakkāṇamu<unclear>m</unclear> kucakkāṇamum Arikoḻiyum ne<choice><sic>yi</sic><corr>y</corr></choice>vil<choice><sic>e</sic><corr>ai</corr></choice>yu<unclear>m</unclear>
-                        <lb n="125"/>puṭṭakavil<choice><sic>e</sic><corr>ai</corr></choice>yum paṭṭikaikkāṇamum Iṟām<choice><sic>a<unclear>yi</unclear></sic><corr>ai</corr></choice><unclear>yum</unclear> nāyāṭikaḷum tūtuvarum kaṇikā<unclear>ra</unclear>
-                        <lb n="126" break="no"/>ttikaḷum paṇṇuppāleṭuppārum putukkuti<unclear>r</unclear>aikkuṟṟatuveyiyum pullum <surplus>I</surplus>
+                        Ivv-ūr peṟṟa paricāra<unclear>m</unclear> cekku<unclear>m taṟiyum U</unclear>lliya-k <unclear>kū</unclear>liyum pirāmaṇa-<unclear>rā</unclear>
+                        <lb n="123" break="no"/>ca-k-kāṇamum ceṅkoṭiy-k-kā<unclear>ṇa</unclear>mum ka<unclear>l</unclear>lā<unclear>l</unclear>-k-kāṇamum kaṇṇiṭṭu-k-kāṇa
+                        <lb n="124" break="no"/><unclear>mu</unclear>m katir-k-kāṇamum vica-k-kāṇamu<unclear>m</unclear> kuca-k-kāṇamum Arikoḻiyum ne<choice><sic>yi</sic><corr>y</corr></choice>vil<choice><sic>e</sic><corr>ai</corr></choice>yu<unclear>m</unclear>
+                        <lb n="125"/>puṭṭakavil<choice><sic>e</sic><corr>ai</corr></choice>yum paṭṭikai-k-kāṇamum Iṟām<choice><sic>a<unclear>yi</unclear></sic><corr>ai</corr></choice><unclear>yum</unclear> nāyāṭikaḷum tūtuvarum kaṇikā<unclear>ra</unclear>
+                        <lb n="126" break="no"/>ttikaḷum paṇṇuppāleṭuppārum putu-k-kuti<unclear>r</unclear>ai-k-kuṟṟatuveyiyum pullum <surplus>I</surplus>
                         
                         <pb n="10v"/>
                         
-                        <lb n="10v1=127"/><add place="below" rend="mark">Iṟām<choice><sic>e</sic><corr>ai</corr></choice>yum</add> nallāvum nallerutum Iṟām<choice><sic>ayi</sic><corr>ai</corr></choice>yum nāṭṭuvakai Iṟām<choice><sic>ayi</sic><corr>ai</corr></choice>yum paṭāṅkaḻiyum kaiy<unclear>ā</unclear>
-                        <lb n="128" break="no"/><unclear>ḷu</unclear>m neṭumpuṟ<choice><sic>e</sic><corr>ai</corr></choice>yum paṉampā<surplus>k</surplus>kum Iṟām<choice><sic>ayi</sic><corr>ai</corr></choice>yum karaṇattaṇṭamum Atikaraṇatta
-                        <lb n="129" break="no"/>ṇṭamum pattūrccāṟṟum Uḻaiyavayappaḷḷivattuvum Iṟā<supplied reason="omitted">m</supplied>aiyum kuvaḷ<choice><sic>e</sic><corr>ai</corr></choice>naṭuva
-                        <lb n="130" break="no"/>ri<supplied reason="omitted">yu</supplied>ṅku<unclear>va</unclear>ḷ<choice><sic><unclear>e</unclear></sic><corr>ai</corr></choice>kkāṇamum kamukum teṅkum Uḷḷiṭṭa palluruvil pa<choice><sic>l</sic><corr>ḻ</corr></choice>ayamaramu
-                        <lb n="131" break="no"/>m Iṭṭaṉa kālko<unclear>ṭṭi</unclear>ṟām<choice><sic>ayi</sic><corr>ai</corr></choice>yum koyiḷumuta<unclear>l</unclear>paṭi<unclear>y</unclear>āl Iṟātu Ivar tāme Uṇ
-                        <lb n="132" break="no"/>ṇappeṟuvārākavum <supplied reason="undefined"><g type="ddanda">.</g></supplied> nil<choice><sic>e</sic><corr>ai</corr></choice>kkaḷattārum Atikārarum <unclear>vā</unclear>yikkeṭppārum Uḷḷi
+                        <lb n="10v1=127"/><add place="below" rend="mark">Iṟām<choice><sic>e</sic><corr>ai</corr></choice>yum</add> nall-āvum nall-erutum Iṟām<choice><sic>ayi</sic><corr>ai</corr></choice>yum nāṭṭuvakai Iṟām<choice><sic>ayi</sic><corr>ai</corr></choice>yum paṭāṅkaḻiyum kaiy<unclear>ā</unclear>
+                        <lb n="128" break="no"/><unclear>ḷu</unclear>m neṭum-puṟ<choice><sic>e</sic><corr>ai</corr></choice>yum paṉampā<surplus>k</surplus>kum Iṟām<choice><sic>ayi</sic><corr>ai</corr></choice>yum karaṇa-t-taṇṭamum Atikaraṇa-t-ta
+                        <lb n="129" break="no"/>ṇṭamum pattūr-c-cāṟṟum Uḻaiyavaya-p-paḷḷi-vattuvum Iṟā<supplied reason="omitted">m</supplied>aiyum kuvaḷ<choice><sic>e</sic><corr>ai</corr></choice>-naṭu-va
+                        <lb n="130" break="no"/>ri<supplied reason="omitted">yu</supplied>ṅ ku<unclear>va</unclear>ḷ<choice><sic><unclear>e</unclear></sic><corr>ai</corr></choice>-k-kāṇamum kamukum teṅkum Uḷḷiṭṭa palluruvil pa<choice><sic>l</sic><corr>ḻ</corr></choice>aya-maramu
+                        <lb n="131" break="no"/>m Iṭṭaṉa kālko<unclear>ṭṭ' i</unclear>ṟām<choice><sic>ayi</sic><corr>ai</corr></choice>yum koyiḷumuta<unclear>l</unclear>paṭi<unclear>y</unclear>āl Iṟātu Ivar tāme Uṇ
+                        <lb n="132" break="no"/>ṇa-p peṟuvār ākavum
+                    </p>
+                    <p>
+                        nil<choice><sic>e</sic><corr>ai</corr></choice>-k-kaḷattārum Atikārarum <unclear>vā</unclear>yikkeṭppārum Uḷḷ i
                         
                         <lb n="10v7=133" break="no"/>runtu paratatti <unclear>c</unclear>eṉṟatu
                     </p>
@@ -576,7 +586,7 @@
                     </p>
                     
                     <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
-                        I<unclear>va</unclear>ṉ peṟuma<unclear>ṉ</unclear><choice><sic>e</sic><corr>ai</corr></choice>yum maṉ<choice><sic>e</sic><corr>ai</corr></choice>ppaṭappum Iraṇṭu paṭṭi nilaṉum <supplied reason="undefined"><g type="ddanda">.</g></supplied>
+                        I<unclear>va</unclear>ṉ peṟuma<unclear>ṉ</unclear><choice><sic>e</sic><corr>ai</corr></choice>yum maṉ<choice><sic>e</sic><corr>ai</corr></choice>-p-paṭappum Iraṇṭu paṭṭi nilaṉum <supplied reason="undefined"><g type="ddanda">.</g></supplied>
                     </p>
                     
                     <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">  
