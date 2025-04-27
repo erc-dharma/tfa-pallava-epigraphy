@@ -105,13 +105,22 @@
                     </p>
                     
                     <p>
-                        ...
+                        kāñcīpurādhiṣ<choice><sic>ṭ</sic><corr>ṭh</corr></choice>ānāt
                         
-                        
-                        <pb n="2r"/>
-                        <lb n="2r1=6" break="no"/>
-                        
-                        
+                        <list>
+                            <item>pallavanāM bhāradvāja 
+                                <lb n="1v2=2" break="no"/>-sagotr<choice><sic>a</sic><corr>ā</corr></choice>ṇāṃ sva-vīryyādhigata-rājyasya Abhyarccita-śakti-siddhi-sampannasya 
+                                <lb n="1v3=3"/>pratāpopanata-rāja-maṇḍalasya madhyama-lokapālasya lokapālānām pa<choice><sic>li</sic><corr>ñca</corr></choice>
+                                <lb n="1v4=4" break="no"/>masya parama-brahm<choice><sic>ā</sic><corr>a</corr></choice>ṇyasya mahārājasya śrī-mahendravikramavarmmaṇaḥ pautraḥ</item>
+                            <item>bahu 
+                                <lb n="1v5=5" break="no"/>samara-vijaya-labdha-yaśaḥ-prakāśasya vidhi-vihita-sarvva-maryyādasya sthiti-sthitasya
+                                <pb n="2r"/>
+                                <lb n="2r1=6"/>Amitātmano yathāvad-ābhṛtāśvamedhādy-aneka-kratu-yājinas satya-vratasya dharmmā-
+                                <lb n="2r2=7" break="no"/>tmano mahim<choice><sic>api</sic><corr>opama</corr></choice>-mahendrasya parameśvaravarmmaṇaḥ putraḥ</item>
+                            <item>...
+                               </item>
+                        </list>
+                                                
                         <pb n="2v" break="no"/>
                         <lb n="2v1=11" break="no"/>
                         
@@ -160,24 +169,24 @@
                 </div>
             </div>
             
-<!--<div type="apparatus">
+            <!--<div type="apparatus">
                 
-    <div type="textpart" xml:lang="san-Latn" n="B">
-        <head xml:lang="eng">Plates</head>
-        
-        <listApp>
-            
-            <app loc="0">
+                <div type="textpart" xml:lang="san-Latn" n="B">
+                <head xml:lang="eng">Plates</head>
+                
+                <listApp>
+                
+                <app loc="0">
                 <lem>...</lem>
                 <rdg source="bib:Desai1951-1952_01">...</rdg>			
-            </app>
-            
-            
-        </listApp>
-        
-    </div>
-    
-</div>-->
+                </app>
+                
+                
+                </listApp>
+                
+                </div>
+                
+                </div>-->
             
             <!--<div type="translation" resp="part:emfr">
                 
