@@ -44,7 +44,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p/>
+                            <p><foreign>tṣ</foreign> for <foreign>kṣ</foreign>.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -90,7 +90,7 @@
                 <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                     <head xml:lang="eng">Plates</head>
                     
-                    <!--one plate lost, at least-->
+                    <!--several plates lost, see EGD §5.4.7 and §5.4.8-->
                     
                     
                     <lg n="1" met="uncertain">
@@ -99,10 +99,10 @@
                             <lb n="1r1=1"/>jayan datṣiṇāśāM <g type="floret">.</g></l>
                     </lg>
                     
-                    <lg n="2">
+                    <lg n="2" met="upajāti">
                         <l n="a">bhuraṇyu-tejāḥ punar āvir āsīd</l>                        
                         <l n="b">araṇya-saṃsthāpita-śatru-lokaḥ</l>
-                        <l n="c">śaraṇya-bhūtaś śara<lb n="1r2=2"/>ṇonmukhānāṃ</l>
+                        <l n="c">śaraṇya-bhūtaś śara<lb n="1r2=2" break="no"/>ṇonmukhānāṃ</l>
                         <l n="d">hiraṇyavarmmā jagatāṃ hitāya <g type="floret">.</g>
                         </l>                        
                     </lg>
@@ -113,35 +113,35 @@
                     </p>
                     
                     
-                    <lg n="11">
+                    <lg n="11" met="śārdūlavikrīḍita">
                         <l n="a" enjamb="yes">Asyājñaptir abhūt sa Eva matimān dharmmārttha
                             <lb n="17" break="no"/>kāmopadhā</l>
-                        <l n="b">śuddha<unclear>śśuddha</unclear>-caritra-pātram amadas svāmy-eka-bhakti-vrataḥ </l>
+                        <l n="b">śuddha<unclear>ś śuddha</unclear>-caritra-pātram amadas svāmy-eka-bhakti-vrataḥ </l>
                         <l n="c">sat-sāmānya-dhanaś ca dharmma-śara
-                            <lb n="18" break="no"/>ṇas sa<unclear>m</unclear>bandhi-niryyantr<choice><sic>i</sic><corr>a</corr></choice>ṇaḥ</l>
-                        <l n="d">kośā<surplus>d</surplus>dhya<choice><sic>tṣ</sic><corr>kṣ</corr></choice>aniyogakarmmakuśalaḥ kulyaḥ kumārāhvayaḥ <g type="floret">.</g></l>
+                            <lb n="18" break="no"/>ṇas sa<unclear>M</unclear>bandhi-niryyantr<choice><sic>i</sic><corr>a</corr></choice>ṇaḥ</l>
+                        <l n="d">kośā<surplus>d</surplus>dhya<choice><sic>t</sic><corr>k</corr></choice>ṣaniyoga-karmma-kuśalaḥ kulyaḥ kumārāhvayaḥ <g type="floret">.</g></l>
                     </lg>
                     
-                    <lg n="12">
+                    <lg n="12" met="mandākrāntā">
                         <l n="a">yo
-                            <lb n="19"/>goṣpadāvadhim api pradadāti bhūmiṁ</l>
-                        <l n="b">yo vā haraty agaṇayan paripākam ugram</l>
+                            <lb n="19"/>goṣ-padāvadhim api pradadāti bhūmiṁ</l>
+                        <l n="b">yo vā haraty agaṇayan paripākam ugraM</l>
                         <l n="c">Ā-candra-tāram adhiti
                             <lb n="20" break="no"/>ṣṭhata Eva tau dvau</l>
-                        <l n="d">nākaukasāñ ca sadanan narakañ ca ghoram <g type="floret">.</g></l>
+                        <l n="d">nākaukasāñ ca sadanan narakañ ca ghoraMm <g type="floret">.</g></l>
                     </lg>
                     
-                    <lg n="13">
+                    <lg n="13" met="śārdūlavikrīḍita">
                         <l n="a">dharmmaṁ śarmma-kṛtam mayā kṛtam imaṁ
-                            <lb n="21"/><note>Read <foreign>ºdīkṣāº</foreign>.</note>sāmrājya-dītṣāvrato</l>
-                        <l n="b"><note >Read <foreign>rakṣatyakṣatalakṣaṇaṁ kṣitiº</foreign>.</note>ratṣaty atṣata-latṣaṇaṁ tṣiti-tale yaḥ <note>Read <foreign>kṣūtraº</foreign>.</note>tṣatra-cūḷā-maṇiḥ</l>
+                            <lb n="21"/>sāmrājya-dī<choice><sic>t</sic><corr>k</corr></choice>ṣāvrato</l>
+                        <l n="b">ra<choice><sic>t</sic><corr>k</corr></choice>ṣaty a<choice><sic>t</sic><corr>k</corr></choice>ṣata-la<choice><sic>t</sic><corr>k</corr></choice>ṣaṇaṁ tṣiti-tale yaḥ <choice><sic>t</sic><corr>k</corr></choice>ṣatra-cūḷā-maṇiḥ</l>
                         <l n="c">mūrddhany atra muku
                             <pb n="2v"/>
                             <lb n="22" break="no"/>nda-vandya-caraṇa-dvandvaṁ vihāyāpareṣv</l>
-                        <l n="d">ajñāta-praṇato<note>Read <foreign>ºpraṇatau vasatpeº</foreign>.</note> vasen-pada-yugan tasyety avocan nṛpaḥ <g type="floret">.</g></l>
+                        <l n="d">ajñāta-praṇat<choice><sic>o</sic><corr>au</corr></choice> vase<choice><sic>n</sic><corr>t</corr></choice> pada-yugan tasyety avocan nṛpaḥ <g type="floret">.</g></l>
                     </lg>
                     
-                    <lg n="14">
+                    <lg n="14" met="śārdūlavikrīḍita">
                         <l n="a">
                             <lb n="23"/>gāvaḥ pāvana-sarva-gātra-śucayaḥ kāmāya vas santu yāḥ</l>
                         <l n="b">śuddhiṁ svām iva darśayanti hi payo-vyājā
@@ -151,7 +151,7 @@
                             <lb n="25" break="no"/>nāṁ sva<unclear>ha</unclear>viṣā santoṣam ātanvate <g type="floret">.</g></l>
                     </lg>
                     
-                    <lg n="15">
+                    <lg n="15" met="āryā">
                         <l n="ab">paramottarakāraṇikasyākṛta kavitā-svayam-vṛta
                             <lb n="26" break="no"/>varasya</l>
                         <l n="cd">
@@ -203,7 +203,11 @@
                 
                 </div>-->
             
-            <div type="commentary"/>
+            <div type="commentary">
+                
+                <p>The set is incomplete: one plate at least at the beginning.</p>
+                
+            </div>
             
             
             <div type="bibliography">
@@ -234,7 +238,7 @@
                     
                     <bibl n="B">
                         <ptr target="bib:Brocquet1997_01"/>
-                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="page">678-688</citedRange>
                         <citedRange unit="item">57</citedRange>
                     </bibl>
                     
