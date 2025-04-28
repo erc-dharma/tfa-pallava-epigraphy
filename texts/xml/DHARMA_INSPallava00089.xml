@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Taṇṭanttōṭṭam plates, time of Nandivarman, year 58</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>    
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSPallava00089</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2025-04-28" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        
+        <body>            
+            
+            <div type="edition">
+                
+                <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    <head xml:lang="eng">Seal</head>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
+                </div>
+                
+                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    <head xml:lang="eng">Plates</head>
+                    
+                    <!--one plate lost, at least-->
+                    
+                    
+                    <lg n="1" met="uncertain">
+                        <l n="abcd"><gap reason="lost" extent="unknown" unit="character"/>
+                            <pb n="1r"/>
+                            <lb n="1r1=1"/>jayan datṣiṇāśāM <g type="floret">.</g></l>
+                    </lg>
+                    
+                    <lg n="2">
+                        <l n="a">bhuraṇyu-tejāḥ punar āvir āsīd</l>                        
+                        <l n="b">araṇya-saṃsthāpita-śatru-lokaḥ</l>
+                        <l n="c">śaraṇya-bhūtaś śara<lb n="1r2=2"/>ṇonmukhānāṃ</l>
+                        <l n="d">hiraṇyavarmmā jagatāṃ hitāya <g type="floret">.</g>
+                        </l>                        
+                    </lg>
+                    
+                    <p>                        
+                        <pb n="1r"/>                        
+                        <lb n="2r1=8"/>
+                    </p>
+                    
+                    
+                    <lg n="11">
+                        <l n="a" enjamb="yes">Asyājñaptirabhūtsa Eva matimāndharmmārttha
+                            <lb n="17" break="no"/>kāmopadhā</l>
+                        <l n="b">śuddha<unclear>śśuddha</unclear>caritrapātramamadassvāmyekabhaktivrataḥ </l>
+                        <l n="c">satsāmānyadhanaśca dharmmaśara
+                            <lb n="18" break="no"/>ṇassa<unclear>m</unclear>bandhiniryyantriṇaḥ<note>Read <foreign>ºniryyantraṇaḥ</foreign>.</note></l>
+                        <l n="d"><note>Read <foreign>ºśādhyakṣaº</foreign>.</note>kośāddhyatṣaniyogakarmmakuśalaḥ kulyaḥ kumārāhvayaḥ <g type="floret">.</g></l>
+                    </lg>
+                    
+                    <lg n="12">
+                        <l n="a">yo
+                            <lb n="19"/>goṣpadāvadhimapi pradadāti bhūmiṁ</l>
+                        <l n="b">yo vā haratyagaṇayanparipākamugram</l>
+                        <l n="c">Ācandratāramadhiti
+                            <lb n="20" break="no"/>ṣṭhata Eva tau dvau</l>
+                        <l n="d">nākaukasāñca sadanannarakañca ghoram <g type="floret">.</g></l>
+                    </lg>
+                    
+                    <lg n="13">
+                        <l n="a">dharmmaṁ śarmma kṛitammayā kṛitamimaṁ
+                            <lb n="21"/><note>Read <foreign>ºdīkṣāº</foreign>.</note>sāmrājyadītṣāvrato</l>
+                        <l n="b"><note >Read <foreign>rakṣatyakṣatalakṣaṇaṁ kṣitiº</foreign>.</note>ratṣatyatṣatalatṣaṇaṁ tṣititale yaḥ <note>Read <foreign>kṣūtraº</foreign>.</note>tṣatracūḷāmaṇiḥ</l>
+                        <l n="c">mūrddhany atra muku
+                            <pb n="2v"/>
+                            <lb n="22" break="no"/>ndavandyacaraṇadvandvaṁ vihāyāpareṣv</l>
+                        <l n="d">ajñātapraṇato<note>Read <foreign>ºpraṇatau vasatpeº</foreign>.</note>vasenpadayugantasyetyavocannṛipaḥ <g type="floret">.</g></l>
+                    </lg>
+                    
+                    <lg n="14">
+                        <l n="a">
+                            <lb n="23"/>gāvaḥ pāvana-sarvagātraśucayaḥ kāmāya vassantu yāḥ</l>
+                        <l n="b">śuddhiṁ svāmiva darśayanti hi payovyājā
+                            <lb n="24" break="no"/>dduhānā<note>Read <foreign>ºhānāssvayam</foreign>.</note>svayam</l>
+                        <l n="c">mānyāḥ pāntu mahīsurāśca bhavato vāgāyudhā <note>Read <foreign>ºyudhāssvargiṇāṁ</foreign>.</note>svarggiṇāṁ</l>
+                        <l n="d">ye yāgepyamṛitāśi
+                            <lb n="25" break="no"/>nāṁ sva<unclear>ha</unclear>viṣā santoṣamātanvate <g type="floret">.</g></l>
+                    </lg>
+                    
+                    <lg n="15">
+                        <l n="ab">paramottarakāraṇikasyākṛita kavitāsvayamvṛita
+                            <lb n="26" break="no"/>varasya</l>
+                        <l n="cd">
+                            uttarakāraṇikākhyastanayaḥ parameśvaraḥ praśastimimām <g type="floret">.</g></l>
+                    </lg>
+                    
+                    
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                        kō-vicaiya-nanti-vikkirama
+                        <lb n="2v6=27" break="no"/>...
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <!--<div type="apparatus">
+                
+                <!-\-Apparatus from SII: sift it-\->
+                
+                <div type="textpart" n="A">
+                    <head xml:lang="eng">Seal</head>
+                </div>
+                
+                <div type="textpart" n="B">
+                    <head xml:lang="eng">Plates</head>
+                    <listApp>		
+                        
+                        <app loc="0">
+                            <lem>...</lem>
+                            <rdg source="bib:">...</rdg>                            
+                            </app>	     
+                        
+                    </listApp>
+                </div>
+            </div>-->
+            
+            
+            <!--<div type="translation" resp="part:emfr">
+                
+                </div>-->
+            
+            <!--<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
+                
+                <div type="textpart" n="B">                    
+                <head xml:lang="eng">Plates</head>
+                
+                
+                </div>
+                
+                </div>-->
+            
+            <div type="commentary"/>
+            
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1911-1912"/></bibl> (ARIE/1911-1912/A/1911-1912/7), in <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 84).</p>
+                
+                <p>
+                    Edited in <bibl><ptr target="bib:KrishnaSastri1916_01"/></bibl> (SII 2.99).
+                    Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 89).
+                    Sanskrit text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 57).
+                </p>
+                
+                <p>This revised edition by Emmanuel Francis, based on previous edition(s) and published visual documentation.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:KrishnaSastri1916_01"/>
+                        <citedRange unit="page">517-535</citedRange>
+                        <citedRange unit="item">99</citedRange>
+                    </bibl>
+                    
+                    <bibl n="IP">
+                        <ptr target="bib:Mahalingam1988_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">89</citedRange>
+                    </bibl>
+                    
+                    <bibl n="B">
+                        <ptr target="bib:Brocquet1997_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">57</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1911-1912"/>
+                        <citedRange unit="page">11</citedRange>
+                        <citedRange unit="appendix">A/1911-1912</citedRange>
+                        <citedRange unit="item">7</citedRange>  
+                    </bibl>     
+                    
+                    <bibl>
+                        <ptr target="bib:Francis2013_01"/>
+                        <citedRange unit="page">297-298</citedRange>
+                        <citedRange unit="item">IR 84</citedRange>                        
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>
