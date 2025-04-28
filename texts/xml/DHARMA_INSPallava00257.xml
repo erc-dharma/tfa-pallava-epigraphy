@@ -94,24 +94,33 @@
                     
                     <ab>
                         <pb n="1v"/>
-                        <lb n="1r1=1"/>svasti śrī
+                        <lb n="1v1=1"/>svasti śrī
                     </ab>
                     
                     
-                    <lg n="1">
-                        <l n="abcd">
+                    <lg n="1" met="śārdūlavikrīḍita">
+                        <l n="abcd">lak<surplus>i</surplus>ṣmī-dhāma
                             ...
-                            <lb n="1r2=2"/></l>
+                            <lb n="1v2=2"/></l>
                     </lg>
                     
-                                        
-                    <p>                        
-                        <pb n="1r"/>                        
-                        <lb n="2r1=9"/>
-                    </p>
+                    <lg n="2" met="	sragdharā">
+                        <l n="abcd">...</l>
+                    </lg>
+                    
+                    <lg n="3" met="	sragdharā">
+                        <l n="abcd">...
+                             <pb n="2r"/>                        
+                        <lb n="2r1=9"/>...
+                        </l>
+                    </lg>
+                    
+                    <ab>                        
+                       svasti śrī
+                    </ab>
                     
                     <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
-                        kō-vicaiya-kanta<hi rend="grantha">śiṣya</hi>-vikkirama
+                        kō-vicaiya-kanta<hi rend="grantha">śiṣya</hi>-vikkirama-paru<supplied reason="omitted">ma</supplied>rkku yāṇṭu
                         <lb n="2r4=12" break="no"/>...
                         
                         <pb n="2v"/>                        
@@ -199,7 +208,7 @@
                     
                     <bibl n="B">
                         <ptr target="bib:Brocquet1997_01"/>
-                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="page">777-783</citedRange>
                         <citedRange unit="item">71</citedRange>
                     </bibl>
                     
