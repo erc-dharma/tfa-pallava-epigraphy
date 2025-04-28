@@ -84,7 +84,7 @@
                 
                 <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                     <head xml:lang="eng">Seal</head>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
+                    <p><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/></p>
                 </div>
                 
                 <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
@@ -114,48 +114,48 @@
                     
                     
                     <lg n="11">
-                        <l n="a" enjamb="yes">Asyājñaptirabhūtsa Eva matimāndharmmārttha
+                        <l n="a" enjamb="yes">Asyājñaptir abhūt sa Eva matimān dharmmārttha
                             <lb n="17" break="no"/>kāmopadhā</l>
-                        <l n="b">śuddha<unclear>śśuddha</unclear>caritrapātramamadassvāmyekabhaktivrataḥ </l>
-                        <l n="c">satsāmānyadhanaśca dharmmaśara
-                            <lb n="18" break="no"/>ṇassa<unclear>m</unclear>bandhiniryyantriṇaḥ<note>Read <foreign>ºniryyantraṇaḥ</foreign>.</note></l>
-                        <l n="d"><note>Read <foreign>ºśādhyakṣaº</foreign>.</note>kośāddhyatṣaniyogakarmmakuśalaḥ kulyaḥ kumārāhvayaḥ <g type="floret">.</g></l>
+                        <l n="b">śuddha<unclear>śśuddha</unclear>-caritra-pātram amadas svāmy-eka-bhakti-vrataḥ </l>
+                        <l n="c">sat-sāmānya-dhanaś ca dharmma-śara
+                            <lb n="18" break="no"/>ṇas sa<unclear>m</unclear>bandhi-niryyantr<choice><sic>i</sic><corr>a</corr></choice>ṇaḥ</l>
+                        <l n="d">kośā<surplus>d</surplus>dhya<choice><sic>tṣ</sic><corr>kṣ</corr></choice>aniyogakarmmakuśalaḥ kulyaḥ kumārāhvayaḥ <g type="floret">.</g></l>
                     </lg>
                     
                     <lg n="12">
                         <l n="a">yo
-                            <lb n="19"/>goṣpadāvadhimapi pradadāti bhūmiṁ</l>
-                        <l n="b">yo vā haratyagaṇayanparipākamugram</l>
-                        <l n="c">Ācandratāramadhiti
+                            <lb n="19"/>goṣpadāvadhim api pradadāti bhūmiṁ</l>
+                        <l n="b">yo vā haraty agaṇayan paripākam ugram</l>
+                        <l n="c">Ā-candra-tāram adhiti
                             <lb n="20" break="no"/>ṣṭhata Eva tau dvau</l>
-                        <l n="d">nākaukasāñca sadanannarakañca ghoram <g type="floret">.</g></l>
+                        <l n="d">nākaukasāñ ca sadanan narakañ ca ghoram <g type="floret">.</g></l>
                     </lg>
                     
                     <lg n="13">
-                        <l n="a">dharmmaṁ śarmma kṛitammayā kṛitamimaṁ
-                            <lb n="21"/><note>Read <foreign>ºdīkṣāº</foreign>.</note>sāmrājyadītṣāvrato</l>
-                        <l n="b"><note >Read <foreign>rakṣatyakṣatalakṣaṇaṁ kṣitiº</foreign>.</note>ratṣatyatṣatalatṣaṇaṁ tṣititale yaḥ <note>Read <foreign>kṣūtraº</foreign>.</note>tṣatracūḷāmaṇiḥ</l>
+                        <l n="a">dharmmaṁ śarmma-kṛtam mayā kṛtam imaṁ
+                            <lb n="21"/><note>Read <foreign>ºdīkṣāº</foreign>.</note>sāmrājya-dītṣāvrato</l>
+                        <l n="b"><note >Read <foreign>rakṣatyakṣatalakṣaṇaṁ kṣitiº</foreign>.</note>ratṣaty atṣata-latṣaṇaṁ tṣiti-tale yaḥ <note>Read <foreign>kṣūtraº</foreign>.</note>tṣatra-cūḷā-maṇiḥ</l>
                         <l n="c">mūrddhany atra muku
                             <pb n="2v"/>
-                            <lb n="22" break="no"/>ndavandyacaraṇadvandvaṁ vihāyāpareṣv</l>
-                        <l n="d">ajñātapraṇato<note>Read <foreign>ºpraṇatau vasatpeº</foreign>.</note>vasenpadayugantasyetyavocannṛipaḥ <g type="floret">.</g></l>
+                            <lb n="22" break="no"/>nda-vandya-caraṇa-dvandvaṁ vihāyāpareṣv</l>
+                        <l n="d">ajñāta-praṇato<note>Read <foreign>ºpraṇatau vasatpeº</foreign>.</note> vasen-pada-yugan tasyety avocan nṛpaḥ <g type="floret">.</g></l>
                     </lg>
                     
                     <lg n="14">
                         <l n="a">
-                            <lb n="23"/>gāvaḥ pāvana-sarvagātraśucayaḥ kāmāya vassantu yāḥ</l>
-                        <l n="b">śuddhiṁ svāmiva darśayanti hi payovyājā
-                            <lb n="24" break="no"/>dduhānā<note>Read <foreign>ºhānāssvayam</foreign>.</note>svayam</l>
-                        <l n="c">mānyāḥ pāntu mahīsurāśca bhavato vāgāyudhā <note>Read <foreign>ºyudhāssvargiṇāṁ</foreign>.</note>svarggiṇāṁ</l>
-                        <l n="d">ye yāgepyamṛitāśi
-                            <lb n="25" break="no"/>nāṁ sva<unclear>ha</unclear>viṣā santoṣamātanvate <g type="floret">.</g></l>
+                            <lb n="23"/>gāvaḥ pāvana-sarva-gātra-śucayaḥ kāmāya vas santu yāḥ</l>
+                        <l n="b">śuddhiṁ svām iva darśayanti hi payo-vyājā
+                            <lb n="24" break="no"/>d duhānā<supplied reason="omitted">s</supplied> svayam</l>
+                        <l n="c">mānyāḥ pāntu mahī-surāś ca bhavato vāgāyudhā<supplied reason="omitted">s</supplied> svarggiṇāṁ</l>
+                        <l n="d">ye yāge 'py amṛtāśi
+                            <lb n="25" break="no"/>nāṁ sva<unclear>ha</unclear>viṣā santoṣam ātanvate <g type="floret">.</g></l>
                     </lg>
                     
                     <lg n="15">
-                        <l n="ab">paramottarakāraṇikasyākṛita kavitāsvayamvṛita
+                        <l n="ab">paramottarakāraṇikasyākṛta kavitā-svayam-vṛta
                             <lb n="26" break="no"/>varasya</l>
                         <l n="cd">
-                            uttarakāraṇikākhyastanayaḥ parameśvaraḥ praśastimimām <g type="floret">.</g></l>
+                            Uttarakāraṇikākhyas tanayaḥ parameśvaraḥ praśastim imām <g type="floret">.</g></l>
                     </lg>
                     
                     
