@@ -80,6 +80,15 @@
         
         <body>            
             
+            <!--
+            split words
+            add ē ō in Tamil portion
+            update m· to M
+            sift SII inherited apparatus
+            double consonants after r = no mistake
+            change some choice/sic/corr to choice/orig/reg
+        -->
+            
             <div type="edition">
                 
                 <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
