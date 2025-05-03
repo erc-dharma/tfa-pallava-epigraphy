@@ -93,10 +93,22 @@
                     
                     <pb n="1r"/>
                     
-                    <lg n="1">
-                        <l n="abcd">
-                            <pb n="1v"/>
-                            <lb n="1v1=1"/>...</l>
+                    <ab>
+                        <pb n="1v"/>
+                        <lb n="1v1=1"/>svasti śrīḥ namaś śivāya <g type="ddanda">.</g><g type="dashLong">.</g>
+                    </ab>
+                    
+                    <lg n="1" met="śārdūlavikrīḍita">
+                        <l n="a">nityaM vyāpi nirāmayaM paramayā bhaktyādhigamyaṁ śivaM</l>
+                        <l n="b">vācān dūram aci
+                            <lb n="1v2=2" break="no"/>ntyam akṣayam iti prodgīyamānaM· budhaiḥ</l>
+                        <l n="c">saṁyamyendriya-vāhinīṁ yati-varair yyan mṛ<unclear>g</unclear>yate santa
+                            <lb n="1v3=3" break="no"/>ta<unclear>M</unclear></l>
+                        <l n="d">tejas tat paramārttha-sac cirataran niśreyasāyāstu va<supplied reason="omitted">ḥ</supplied> <g type="ddanda">.</g><g type="dashLong">.</g></l>
+                    </lg>
+                    
+                    <lg n="2" met="śārdūlavikrīḍita">
+                        <l n="a">...</l>
                     </lg>
                     
                     <p>
@@ -113,7 +125,18 @@
                         <lb n="3v1="/>
                         
                         <pb n="4r"/>
-                        <lb n="4r1="/>
+                        <lb n="4r1="/>...
+                    </p>
+                    
+                    <lg n="28" met="anuṣṭubh">
+                        <l n="a">...</l>
+                    </lg>
+                    
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                        puḻaṟkōṭṭattu nāyaṟu-nāṭṭu-t tiru-k-kāṭṭu-p-paḷḷi-p pañcavaram ĀIrakkā
+                        <lb n="4r4=48" break="no"/>ṭi Itu kōvicaiya nan=tiva<hi rend="grantha">rmma</hi>ṟku yāṇṭu Āṟ-āvatu cōḻa-ma<hi rend="grantha">hā</hi>rā<hi rend="grantha">ja</hi>r viṇṇappattā
+                        <lb n="4r5=49" break="no"/>l Iraiyūr Uṭaiyāṉ nampaṉ āṇatti-y-āka-t tiru-k-kāṭṭu-p-paḷḷi-c caṉṉa
+                        <lb n="4r6=50" break="no"/>...
                         
                         <pb n="4v"/>
                         <lb n="4v1="/> 
@@ -174,6 +197,12 @@
                             <rdg source="bib:KrishnaSastri1916_01">...</rdg>                            
                             </app>-->	    
                         
+                        <app loc="48">
+                            <lem>°ma<hi rend="grantha">hā</hi>rā<hi rend="grantha">ja</hi>r</lem>
+                            <rdg source="bib:KrishnaSastri1916_01"><hi rend="grantha">mahā</hi>rā<hi rend="grantha">ja</hi>r</rdg>                            
+                            </app>
+                        
+                                               
                         <app loc="63">
                             <lem><hi rend="grantha">parada</hi>t=ti</lem>
                             <rdg source="bib:KrishnaSastri1916_01"><hi rend="grantha">paradatti</hi></rdg>                            
@@ -215,7 +244,7 @@
                 <p>Reported in <bibl><ptr target="bib:ARIE1910-1911"/></bibl> (ARIE/1910-1911/A/1910-1911/24), in <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 88).</p>
                 
                 <p>
-                    Edited in <bibl><ptr target="bib:KrishnaSastri1916_01"/></bibl> (SII 2.98).
+                    Edited in <bibl><ptr target="bib:KrishnaSastri1916_01"/></bibl>, with English translation (<ref target="DHARMA_INSSIIv02p0i0098">SII 2.98</ref>).
                     Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 121).
                     Sanskrit text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 60).
                 </p>
