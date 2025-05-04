@@ -44,7 +44,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p><hi rend="bold">Grantha</hi>. Some letters bear a <foreign>virāma</foreign> even when parts of a ligature.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -89,13 +89,20 @@
                 
                 <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                     <head xml:lang="eng">Plates</head>
-                
+                    
                     <pb n="1r"/>
                     
-                    <lg n="1">
-                        <l n="abcd">
-                            <pb n="1v"/>
-                            <lb n="1v1=1"/>...</l>
+                    <ab><pb n="1v"/>
+                        <lb n="1v1=1"/>svasti śrī
+                    </ab>
+                    
+                    <lg n="1" met="śārdūlavikrīḍita">
+                        <l n="a">du<supplied reason="omitted">r</supplied>bbhedan timiraṃ yad anya-mahasām ad<choice><orig>o</orig><reg>au</reg></choice> n<choice><sic>a</sic><corr>i</corr></choice>rasyāntara<supplied reason="omitted">ṃ</supplied></l>
+                        <l n="b"><lb n="1v2=2"/>śuddha-jñāna-dṛśo nidarśśya nayati svarggāpavargg<choice><orig>o</orig><reg>au</reg></choice> punaḥ</l>
+                        <l n="c">jyoti
+                            <lb n="1v3=1" break="no"/>s tat paramaM vidhatṛ-jagatas sarvvasya śarvvāhyayaM</l>
+                        <l n="d">viśva-vyāpy avina-
+                            <lb n="1v4=4" break="no"/>śvaran nirupaman niśreyasāyastu vaḥ <g type="gomutraFinal">.</g></l>
                     </lg>
                     
                     <p>
@@ -109,17 +116,47 @@
                         <lb n="3r1="/>
                         
                         <pb n="3v1"/>
-                        <lb n="3v1="/>
-                        
-                        <pb n="4r"/>
-                        <lb n="4r1="/>
+                        <lb n="3v1="/>...
+                    </p>
+                    
+                    <lg n="18" met="śārdūlavikrīḍita">
+                        <l n="a">nākrāmanty āpagendrās sakala-kula-giri-śreṇi-sambhāra-gurvv<unclear>ī</unclear>
+                            <lb n="3v5=39" break="no"/>m</l>
+                        <l n="b">urvvī<choice><sic>ḥ</sic><corr>ṃ</corr></choice> sarvvān na yāvad yuga-vigama-calottuṃga-vīc<unclear>ī</unclear>-kalāpāḥ</l>
+                        <l n="c">sa
+                            <lb n="3v6=40" break="no"/>mparkkaṃ dvadaśārkair ggagana-talam <choice><sic>ī</sic><corr>i</corr></choice>daṃ yāti yāvan na so 'yan</l>
+                        <l n="d">dharmmas sad-varddha
+                            <lb n="3v7=41" break="no"/>mānaḥ praśamita-sakalopaplavas tāvad āstāM <g type="ddanda">.</g></l>
+                    </lg>
+                    
+                    <lg n="19" met="āryā">
+                        <l n="a">kṛtavān akṛtaka-hṛda<supplied reason="omitted">ya</supplied>ḥ</l>
+                        <l n="b">kṛtī kṛta 
+                            <lb n="3v8=42" break="no"/>-jñaḥ kaviḥ kumārākhyaḥ</l>
+                        <l n="c">vidyā-nady-ambunidhiḥ</l>
+                        <l n="d">praśasta-śīlaḥ praśasti-m imāM <g type="gomutraFinal">.</g></l>
+                    </lg>
+                    
+                    <lg n="20" met="anuṣṭubh">
+                        <l n="a">praśasti
+                            <lb n="3v9=43" break="no"/>r iyam utkīrṇṇā</l>
+                        <l n="b">śilpinānalpa-buddhinā</l>
+                        <l n="c">nampa-nāmnā lipi-jñena</l>
+                        <l n="d">kūpa-grāma-ni-
+                            <pb n="4r"/>
+                            <lb n="4r1=44"/> vāssinā <g type="gomutraFinal">.</g></l>
+                    </lg>
+                    
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                        kō-vicaiya-<hi rend="grantha">nṛpa</hi>tuṇka<hi rend="grantha">panm</hi>aṟku  yāṇṭu Āṟāvatu kāṭupaṭṭi <unclear>mu</unclear>-
+                        <lb n="4r2=45"/>ttar<unclear>ai</unclear>yaṉ viṇṇappattāl ...
                         
                         <pb n="4v"/>
                         <lb n="4v1="/> 
                         
                         <pb n="5r"/>
                         <lb n="5r1="/>
-                    
+                        
                     </p>
                     
                     <pb n="5v"/>
@@ -127,9 +164,9 @@
                 </div>
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
-                                
+                
                 <div type="textpart" n="A">
                     <head xml:lang="eng">Seal</head>
                 </div>
@@ -138,14 +175,19 @@
                     <head xml:lang="eng">Plates</head>
                     <listApp>		
                         
-                        <app loc="0">
+                        <!--<app loc="0">
                             <lem>...</lem>
-                            <rdg source="bib:">...</rdg>                            
-                            </app>	     
+                            <rdg source="bib:Ramesan1972_01">...</rdg>                            
+                        </app>-->
+                        
+                        <app loc="41">
+                            <lem>°sakalopaplavas</lem>
+                            <rdg source="bib:Ramesan1972_01 bib:Mahalingam1988_01 bib:Brocquet1997_01">°sakalopadravas</rdg>                            
+                        </app>
                         
                     </listApp>
                 </div>
-            </div>-->
+            </div>
             
             
             <!--<div type="translation" resp="part:emfr">
@@ -172,8 +214,8 @@
                 
                 <p>
                     Edited in <bibl><ptr target="bib:Ramesan1972_01"/></bibl>.
-                    Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 152).
-                    Sanskrit text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 61).
+                    Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 152), with many mistakes.
+                    Sanskrit text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 61), with mistakes inherited from <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 152) corrected, whereas the original text is in fact correct.
                 </p>
                 
                 <p>This revised edition by Emmanuel Francis, based on previous edition(s) and published visual documentation.</p>
@@ -181,18 +223,18 @@
                 <listBibl type="primary">
                     
                     <bibl n="R">
-			<ptr target="bib:Ramesan1972_01"/>
-		</bibl>
+                        <ptr target="bib:Ramesan1972_01"/>
+                    </bibl>
                     
                     <bibl n="IP">
                         <ptr target="bib:Mahalingam1988_01"/>
-                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="page">440-450</citedRange>
                         <citedRange unit="item">152</citedRange>
                     </bibl>
                     
                     <bibl n="B">
                         <ptr target="bib:Brocquet1997_01"/>
-                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="page">719-731</citedRange>
                         <citedRange unit="item">61</citedRange>
                     </bibl>
                     
