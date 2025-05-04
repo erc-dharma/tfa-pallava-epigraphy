@@ -583,7 +583,7 @@
                     
                     <bibl n="IP">
                         <ptr target="bib:Mahalingam1988_01"/>
-                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="page">227-239</citedRange>
                         <citedRange unit="item">76</citedRange>
                     </bibl>
                     
@@ -598,7 +598,7 @@
                 <listBibl type="secondary">
                     <bibl>
                         <ptr target="bib:Francis2013_01"/>
-                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="page">295-296</citedRange>
                         <citedRange unit="item">IR 81</citedRange>                        
                     </bibl>
                     
