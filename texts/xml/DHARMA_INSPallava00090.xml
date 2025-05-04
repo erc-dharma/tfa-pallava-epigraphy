@@ -85,18 +85,22 @@
                 
                 <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                     <head xml:lang="eng">Seal</head>
-                    <p><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/></p>
+                    <p><lb n="1"/></p>
                 </div>
                 
                 <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                     <head xml:lang="eng">Plates</head>
-                
+                    
                     <pb n="1r"/>
                     
-                    <lg n="1">
-                        <l n="abcd">
-                            <pb n="1v"/>
-                            <lb n="1v1=1"/>...</l>
+                    <ab><pb n="1v"/>
+                        <lb n="1v1=1"/>svast<unclear>i</unclear> śr<unclear>ī</unclear></ab>
+                    
+                    <lg n="1" met="śikhariṇī">
+                        <l n="a">śr<choice><sic>ī</sic><corr>i</corr></choice>yo bha<unclear>r</unclear>ttur mmū<unclear>r</unclear>tt<unclear>ir</unclear> mmarakata-samānair bhuja-śataiś</l>
+                        <l n="b">śayānasyāmbhodhāv uras<unclear>i vila</unclear><lb n="1v2=2" break="no"/>sat-kaustu<choice><sic>h</sic><corr>bh</corr></choice>a-ruciḥ</l>
+                        <l n="c">payaḥ pātuṃ sindhor jjaladhara-ghaṭevāpsu patitā</l>
+                        <l n="d">taṭid-<choice><sic>yu</sic><corr>vya</corr></choice>ktā <lb n="1v3=3" break="no"/> bhāntī diśatu bhavatām maṃgalam asau <g type="gomutraFinal"/></l>
                     </lg>
                     
                     <p>
@@ -104,8 +108,25 @@
                         <lb n="2r1=9"/>
                         
                         <pb n="2v"/>
-                        <lb n="2v1=17"/>
+                        <lb n="2v1=17"/>...
+                    </p>
+                    
+                    <lg n="11" met="āryā">
+                        <l n="a">maṃgala-janapada-bharttūr</l>
+                        <l n="b">ddattir iyam pallavendra-bhṛtyasya</l>
+                        <l n="c">Ā dharaṇer ā jala<lb n="2v6=22" break="no"/>dher</l>
+                        <l n="d">ā candra-divākaraṃ stheyāT <g type="gomutraFinal"/></l>
+                    </lg>
+                    
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                        kō-vicaiya-nan·ti-vikkirama-paru<unclear>ma</unclear>ṟ·ku yāṇ·ṭu Aṟupat·
+                        <lb n="2v7=23" break="no"/>t-o<supplied reason="lost">ṉṟ-āvatu maṅ</supplied>kala-nāṭāḷ·vāṉ· viṇ·ṇappattāl· Ālappākka-vicaiya-nallūḷāṉ ā
+                        <lb n="2v8=24" break="no"/>ṇatti<unclear>-y-ā</unclear>ka <unclear>cō</unclear><supplied reason="lost">ḻa-nā</supplied>ṭ<unclear>ṭu</unclear>-<supplied reason="lost">t</supplied> t<unclear>e</unclear>ṉ-karai Ār·vala-k-kūṟṟattu nāṭṭār kāṇ·ka
+                    </p>
+                    
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         
+                        ...
                         <pb n="3r"/>
                         <lb n="3r1=25"/>
                         
@@ -120,7 +141,7 @@
                         
                         <pb n="5r"/>
                         <lb n="5r1=55"/>
-                    
+                        
                     </p>
                     
                     <pb n="5v"/>
@@ -128,9 +149,9 @@
                 </div>
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
-                                
+                
                 <div type="textpart" n="A">
                     <head xml:lang="eng">Seal</head>
                 </div>
@@ -139,14 +160,19 @@
                     <head xml:lang="eng">Plates</head>
                     <listApp>		
                         
-                        <app loc="0">
+                        <!--<app loc="0">
                             <lem>...</lem>
                             <rdg source="bib:">...</rdg>                            
-                            </app>	     
+                            </app>-->	     
+                        
+                        <app loc="21">
+                            <lem>iyam</lem>
+                            <note>The letter <foreign>m</foreign> bears a <foreign>virāma</foreign> even if part of the ligature <foreign>mpa</foreign>.</note>                            
+                        </app>	
                         
                     </listApp>
                 </div>
-            </div>-->
+            </div>
             
             
             <!--<div type="translation" resp="part:emfr">
@@ -164,9 +190,6 @@
                 </div>-->
             
             <div type="commentary"/>
-                
-                
-                
             
             
             
@@ -196,7 +219,7 @@
                     
                     <bibl n="B">
                         <ptr target="bib:Brocquet1997_01"/>
-                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="page">689-696</citedRange>
                         <citedRange unit="item">58</citedRange>
                     </bibl>
                     
