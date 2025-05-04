@@ -85,10 +85,11 @@
                 
                 <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <head xml:lang="eng">Seal</head>
+                    <p>[no legend]</p>
                 </div>
                 
-                <div type="textpart" xml:lang="san-Latn" rendition="class:grantha maturity:83215" n="B">
-                    <head xml:lang="eng">Sanskrit portion 1 of 2</head>		
+                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <head xml:lang="eng">Plates</head>		
                     
                     <pb n="1r"/>
                     
@@ -101,7 +102,7 @@
                         <l n="a"><supplied reason="lost">pāyā</supplied><unclear>d va</unclear>ś śāṁkar<choice><sic>i</sic><corr>ī</corr></choice>-mūrttiś </l>
                         <l n="b">śaśā<surplus>ṁ</surplus>ṅkāṁkura-śekharā</l>
                         <l n="c">pratipad-dina-paryyante</l>
-                        <l n="d">sandhyeva sakalānatā <g type="gomutra">.</g></l>
+                        <l n="d">sandhyeva sakalānatā <g type="gomutraFinal">.</g></l>
                     </lg>
                     
                     <lg n="2" met="sragdharā">
@@ -155,19 +156,15 @@
                     
                     <ab>
                         svasti <space/>
-                    </ab>
+                    </ab>                    
                     
-                </div>
-                
-                <div type="textpart" xml:lang="tam-Latn" rendition="class:tamil maturity:83215" n="C">
-                    <head xml:lang="eng">Tamil portion 1 of 2</head>
                     
-                    <p>
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         kō-vic<choice><orig>ai</orig><reg>ai</reg></choice>ya-nan·tiva<hi rend="grantha">rmma</hi>ku yā<unclear>ṇ</unclear>ṭu mu	
                         <lb n="2v2=18" break="no"/>p·pat·tu mūṉṟāvatu
                     </p>
                     
-                    <p>			
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">			
                         Avani<hi rend="grantha">candra</hi>-Iḷavaracaṉ· viṇ·ṇap·pat·tāl· <hi rend="grantha">brahmādhirāja</hi>	n· Aṇat·ti
                         <lb n="2v3=19"/>Āka pal·kuṉ·ṟa-k·-kōṭṭat·tu k[<choice><sic>i</sic><corr>ī</corr></choice>ḻvēṇāṭṭu nel·liyum pul·lūruṅ· kuṭiyūru maṇa<unclear>lai</unclear>ku
                         <lb n="2v4=20" break="no"/>ḷa-nāṭṭu-t takkāṟum· In·-nāl·kūruṅ· kōvum· poṟiyun· tīr·t·tu muṉ· peṟṟārai māṟṟi ku
@@ -203,7 +200,7 @@
                         <lb n="7r3=100"/>kalivicaiyaṉ paṅk’ oṉṟu <g type="hyphen">.</g> perumaṉaṭikaḷ paṅku <g type="hyphen">.</g> tiruvaṭikaḷ paṅku <g type="hyphen">.</g> <hi rend="grantha">bhaga</hi>vatiyār paṅku <g type="hyphen">.</g>
                     </p>
                     
-                    <p>
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         Ivait
                         <lb n="7r4=101" break="no"/>tuḷ <hi rend="grantha">Aṣṭaśada</hi>ttiṉ mēl paṇiyāl ēṟiṉa paṅku patiṉ aintu <space/>
                         <lb n="7r5=102"/>
@@ -250,79 +247,75 @@
                         <lb n="8r4=120"/>m
                     </p>
                     
-                    <p>
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         paṇṭuṇṇun nīrkk’ uritt’ ākavum
                     </p>
                     
-                    <p>
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         
                         nāṭu-kāppāṉum pukāpeyu
                         <lb n="8r5=121" break="no"/>m Ivarkaḷ ceyappālaṉa I<supplied reason="omitted">va</supplied>rum ivar-vaḻi-k kaṇṇārumē ceyivār ākavum
                     </p>
                     
-                    <p>			
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">			
                         Ivar
                         <lb n="8r6=122" break="no"/>kaḷukku Āṟṟuḷ niṉṟum Ērikaḷuḷ niṉṟun nīr-īnta vaḻi tō<add place="below">ṇ</add>ṭi-k-koṇṭu-<unclear>p</unclear>
                         <lb n="8r7=123"/>pō<supplied reason="omitted">vā</supplied>r ākavum
                     </p>
                     
-                    <p>			
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">			
                         Ik-kālkaḷ pōnta nilam pōṉa māṟṟi Ivarkaḷē tu<supplied reason="omitted">y</supplied>ppār ākavum
                     </p>
                     
-                    <p>
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         Ivarkaḷu
                         <lb n="8r8=124" break="no"/>kk’ aṟaint’ āḻi pōki-kkaṉ-ṉāṭṭi k<unclear>ū</unclear>kai pukutti Ivai-Um ivai-y uḷḷiṭṭa pari<hi rend="grantha">hā</hi>raṅkaḷum uḷ
                         <lb n="8r9=125" break="no"/><supplied reason="lost">ḷaṭaṅka</supplied> <hi rend="grantha">sā</hi>mā<hi rend="grantha">nya</hi> Iraṇṭu paṭṭi-p paṭiyāl <hi rend="grantha"><unclear>bra</unclear>hmade</hi>yam āyiṟṟu
                     </p>
                     
-                    <p>			
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">			
                         Ivv-ūrkaḷil nelli-Ēri Ivarkaḷ kiṟkum
                         <pb n="8v"/>			
                         <lb n="8v1=126"/>... v<unclear>i</unclear>riya-t tōṇṭiṉāl ceṉṟu nīr kōkku<choice><orig>mm</orig><reg>m</reg></choice> alavuṅ kōkka-p peruvat’ ākavum
                     </p>
-                    <p>			
+                    
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">			
                         Ivv-ūr Ērikaluk
                         <lb n="8v2=127" break="no"/>ku Āṟṟu<supplied reason="omitted">k</supplied>kāl nīr īnta vaḻi tōṇṭi-k koṇṭ’ uṇṇa-p peṟuvār ākavum
                     </p>
                     
-                    <p>			
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">			
                         Ik-kālkaḷ kōlkalamum
                         <lb n="8v3=128"/>puḻutipāṭum peṟuvat’ ākavum
                     </p>
                     
-                    <p>			
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">			
                         Ik-kālkaḷ kūṭai-Eṟittuṅ kuṟṟēttam paṇṇiyuṅ kuṟaṅk’ aṟuttu
                         <lb n="8v4=129" break="no"/>ṅ koḷḷa-p peṟātār ākavum
                     </p>
                     
-                    <p>			
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">			
                         koṇṭār kōviṉāṟ-ṟaṇṭika-p paṭuvār ākavum
                     </p>
                     
-                    <p>			
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">			
                         <lb n="8v5=130"/>Ivaru<choice><orig>mm</orig><reg>m</reg></choice> ivar-vaḻikkaṇṇārum māṭamum māḷikaiyum Eṭuttu-<supplied reason="omitted">k</supplied> koṇṭ-irukka
                         <lb n="8v6=131" break="no"/>-p peṟuvār ākavum
                     </p>
                     
-                    <p>			
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">			
                         ceṅkaḻunīrun tamaṉakamum Iṭa-p peṟuvār <choice><sic>a</sic><corr>ā</corr></choice>kavu<choice><orig>mm</orig><reg>m</reg></choice> 
                     </p>
                     
-                    <p>
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         aruḷi-c ceyta
                         <lb n="8v6=132"/> tu yāṇṭu muppa<supplied reason="omitted">ttu</supplied> mūṉṟu nāḷ muṉṉūṟṟu muppatu
                     </p>
                     
-                    <p>
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         <hi rend="grantha">svasti</hi> <g type="gomutra">.</g>
                     </p>
                     
-                </div>
-                
-                
-                <div type="textpart" xml:lang="san-Latn" rendition="class:grantha maturity:83215" n="D">
-                    <head xml:lang="eng">Sanskrit portion 2 of 2</head>
                     
                     <lg n="7" met="anuṣṭubh">
                         <l n="a">bhūmi-dānā<choice><sic>n</sic><corr>t</corr></choice> paran dānam·</l>
@@ -342,25 +335,21 @@
                         <l n="a">rakṣā pīḍā ca dharmasya</l>
                         <l n="b">nidhānaM
                             <pb n="9r"/>
-                            <lb n="9r1=135"/><unclear>raṇyapā</unclear> * *</l>
-                        <l n="c">* C<unclear>vā</unclear>rapy anayor ekaM</l>
-                            <l n="d">mṛṣ<choice><sic>ṭh</sic><corr>ṭ</corr></choice>aṃ gṛ<surplus>j</surplus>ṇantu pā<supplied reason="omitted">r</supplied>thivā<supplied reason="omitted">ḥ</supplied></l>                        
+                            <lb n="9r1=135"/><unclear>puṇya-pā</unclear><supplied reason="omitted">payor</supplied></l>
+                        <l n="c"><seg met="="><gap reason="lost" unit="character" quantity="1"/></seg> <seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg><unclear>vā</unclear>rapy anayor ekaM</l>
+                        <l n="d">mṛṣ<choice><sic>ṭh</sic><corr>ṭ</corr></choice>aṃ gṛ<surplus>h</surplus>ṇantu pā<supplied reason="omitted">r</supplied>thivā<supplied reason="omitted">ḥ</supplied></l>                        
                     </lg>
                     
                     <p>si <g type="gomutraFinal"/></p>
                     
                     <p>...</p>
-                </div>
-                
-                <div type="textpart" xml:lang="tam-Latn" rendition="class:tamil maturity:83215" n="E">
-                    <head xml:lang="eng">Tamil portion 2 of 2</head>
                     
-                    <p>
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         Ivai nayat<choice><sic>i</sic><corr>ī</corr></choice><unclear>ra</unclear>
                         <lb n="9r2=136"/>pe<hi rend="grantha">ru</hi>ṅk<unclear>ā</unclear>ṭṭukārā<choice><sic>n</sic><corr>ṉ</corr></choice><unclear>ē</unclear> Eḻuttu
                     </p>
                     
-                    <p>
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         <hi rend="grantha">bhāradvāja</hi>-kō<hi rend="grantha">tra</hi>tt’ āvattampa-cū<hi rend="grantha">tra</hi>ttu
                         <lb n="9r3=137" break="no"/>-c cōlaiyūr-vatta<unclear reason="eccentric_ductus">va</unclear>ṉ tāmō<choice><sic>tila</sic><corr>tara</corr></choice><hi rend="grantha">śarma</hi>ṉum· <g type="hyphen">.</g> <hi rend="grantha">kāśya</hi>pa-kō<hi rend="grantha">tra</hi>tt’ āvattam
                         <lb n="9r4=138" break="no"/>pa-cū<hi rend="grantha">tra</hi>ttu kuṇ·ṭūr-vattavaṉ cōmāci viṉāyaka-<hi rend="grantha">śarma</hi>ṉum <g type="hyphen">.</g> va<hi rend="grantha"><choice><sic>s</sic><corr>t</corr></choice>sa</hi>-kō<hi rend="grantha">tra</hi>
@@ -380,11 +369,28 @@
                 
                 <listApp>		
                     
-                    <app loc="1v1=1">
+                    <app loc="1">
                         <lem><supplied reason="lost">svastī śrī</supplied></lem>
                         <rdg source="bib:Mahalingam1965-1966_01"><supplied reason="lost">svastī śrī</supplied></rdg>
                         <note>The upper left corner of the plate is lost. This restoration is based on the occurrence of these blessings at the beginning of, for instance, IP 155.</note>
                     </app>			
+                    
+                    <app loc="135">
+                        <lem><unclear>puṇya-pā</unclear><supplied reason="omitted">payor</supplied></lem>
+                        <rdg source="bib:Mahalingam1965-1966_01"><gap reason="lost" quantity="1" unit="character"/> <unclear>raṇyapā</unclear> <gap reason="lost" quantity="3" unit="character"/></rdg>
+                    </app>
+                    
+                    <app loc="135">
+                        <lem><seg met="="><gap reason="lost" unit="character" quantity="1"/></seg> <seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg><unclear>vā</unclear>rapy</lem>
+                        <rdg source="bib:Mahalingam1965-1966_01"><gap reason="lost" quantity="1" unit="character"/> <unclear>vāra</unclear>py</rdg>
+                    </app>
+                    
+                    
+                    <app loc="135">
+                        <lem source="bib:Mahalingam1965-1966_01">gṛhṇantu</lem>
+                        <rdg source="bib:Brocquet1997_01">kṛ<surplus>h</surplus>ṇantu</rdg>
+                    </app>	
+                    
                     
                 </listApp>
                 
@@ -394,7 +400,7 @@
             <div type="translation" resp="part:emfr">
                 
                 <div type="textpart" n="B">		
-                    <head xml:lang="eng">Sanskrit portion 1 of 2</head>
+                    <head xml:lang="eng">Plates</head>
                     
                     <p n="1">
                         <supplied reason="lost">Prosperity! Fortune!</supplied>
@@ -410,10 +416,6 @@
                     </p>
                     
                     <p>...</p>
-                </div>
-                
-                <div type="textpart" n="C">
-                    <head xml:lang="eng">Tamil portion 1 of 2</head>
                     
                     <p n="17-18">
                         Thirty-third year of the victorious king Nandivarman.
@@ -462,13 +464,11 @@
                     
                     <p n="111-112">
                         In this manner, so that ... a <foreign>paradatti</foreign> has been made.
-                    </p>
-                    
+                    </p>                        
                     
                     <p n="112-120">
                         The <supplied reason="explanation">tax-</supplied>exemptions that this village obtains are: ...
-                    </p>
-                    
+                    </p>                        
                     
                     <p n="120">
                         Let there be right <supplied reason="explanation"><foreign>urittu</foreign></supplied> to drinking <supplied reason="explanation"><foreign>uṇṇum</foreign></supplied> water <supplied reason="explanation"><foreign>nīr</foreign></supplied> as before.
@@ -476,8 +476,7 @@
                     
                     <p n="120-121">
                         ...
-                    </p>
-                    
+                    </p>                        
                     
                     <p n="121-123">
                         ...
@@ -536,10 +535,6 @@
                     <p n="132">
                         Prosperity!
                     </p>
-                </div>
-                
-                <div type="textpart" n="D">
-                    <head xml:lang="eng">Sanskrit portion 2 of 2</head>
                     
                     <p rend="stanza" n="7">
                         <l>...</l>
@@ -548,10 +543,6 @@
                     <p rend="stanza" n="8">
                         <l>...</l>
                     </p>
-                </div>
-                
-                <div type="textpart" n="E">
-                    <head xml:lang="eng">Tamil portion 2 of 2</head>
                     
                     <p n="135-136">
                         These are the letters<note>That is, the "writing" or "handwriting".</note> of Nayadhīra Peruṅkāṭtukārāṉ.<note><ptr target="bib:Mahalingam1965-1966_01"/> (p. 146) suggests that the four names in lines 136-139 are <quote>the signatures of those responsible for the drafting and execution of the document on copper</quote>, but further notes that (p. 146, fn. 5) that: <quote>A few more names of Brāhmaṇas written by a different hand [that is, the three names in lines 136-139] follow the signature of Nayadhīra-Peraṅkāṭṭukāraṉ. These names were perhaps left out of the main list of donees and were inserted later.</quote> This makes good sense.</note>
@@ -571,7 +562,7 @@
                 
                 <div type="textpart" n="B">
                     
-                    <head xml:lang="eng">Sanskrit portion 1 of 2</head>
+                    <head xml:lang="eng">Plates</head>
                     
                     
                     <p rend="stanza" n="1">
@@ -613,11 +604,7 @@
                         Un jour que ce roi, entouré de princes qui vivaient éternellement aux pieds du roi, était assis dans la salle des délibérations, il fit une donation, requis par le seigneur de Vilvalapura, nommé Avanicaṁdra-Yuvarāja, de longue date réputé comme son principal allié perpétuel et dévoué aux Pallava, qui se trouvait là et souhaitait accomplir un acte dharmique : en monarque qui saisit l’occasion qu’on lui offrait, il fit don, avec aspersion d’eau, à cent huit illustres seigneurs Bappa, brahmanes excellents issus de la succession de leurs lignées, et dont la naissance, la conduite et la science étaient irréprochables, d’un village qu’il constitua par la réunion des quatre villages de Nelli, Pullūra, Takkāra et Kuḍiyūra, situés sur le rivage sud de la rivière Veyārū, au Kīḷveṁ-nātaka, dans le Palkuṁda-koṭṭaka, et qu’il nomma Nayadhīra-maṁgalam, d’après son propre nom. Il désigna comme exécuteur le meilleur des prêtres et des ministres : Nāgaśarman, appelé encore Brahmādhirāja, Bṛhaspati en personne, habile à pratiquer la science du gouvernement, et objet de l’indéfectible affection du roi.
                     </p>
                     
-                </div>
-                
-                
-                <div type="textpart" n="D">
-                    <head xml:lang="eng">Sanskrit portion 2 of 2</head>
+                    <p>suit la portion tamoule</p>
                     
                     <p rend="stanza" n="7">
                         <l>Hormis le don de terre, d’autre don</l>
@@ -650,12 +637,11 @@
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/A/1939-1940/9).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/A/1939-1940/9), in <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 83).</p>
                 <p>
                     Edited in Tamil script by <bibl><ptr target="bib:Mahalingam1965-1966_01"/></bibl> (EI 36.20).
                     Text (with many typos) and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 81).
-                    Sanskrit text (based on the very imperfect edition in<bibl><ptr target="bib:Mahalingam1988_01"/></bibl>) and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 56).
-                    See <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 83).</p>
+                    Sanskrit text (based on the very imperfect edition in<bibl><ptr target="bib:Mahalingam1988_01"/></bibl>) and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 56).</p>
                 <p>This revised edition by Emmanuel Francis, based on previous edition(s), published visual documentation and online photos.</p>
                 
                 <listBibl type="primary">
