@@ -96,15 +96,15 @@
                     <list>
                         
                         <item><unclear>māṇ</unclear>ḍavya-sa<unclear>go</unclear>trebhyaḥ <unclear>vājasaneyibhyaḥ</unclear> Ananta-<unclear>śar</unclear>mma<unclear>ṇ</unclear>e <unclear>b</unclear>ra<unclear>h</unclear>ma
-                        <pb n="1v" break="no"/>
-                        <fw n="1v" place="left">5</fw>
-                        <lb n="1v1=5" break="no"/>dā <gap reason="lost" quantity="7" unit="character" precision="low"/> <supplied reason="lost">śa</supplied>rmmaṇe ca</item>
+                            <pb n="1v" break="no"/>
+                            <fw n="1v" place="left">5</fw>
+                            <lb n="1v1=5" break="no"/><unclear>deva</unclear> <gap reason="lost" quantity="5" unit="character" precision="low"/> <supplied reason="lost">śa</supplied>rmmaṇe ca</item>
                         <item>bhāradvāja-sago<supplied reason="lost">t</supplied>ra<supplied reason="lost">bh</supplied>y<supplied reason="lost">ān</supplied> t<unclear>ai</unclear> <gap reason="lost" quantity="6" unit="character" precision="low"/>
-                        <lb n="1v2=6"/><unclear>t</unclear>i-<unclear>śaṟ</unclear>mma <gap reason="lost" quantity="2" unit="character" precision="low"/> <supplied reason="lost">śa</supplied>rmmabhyāñ ca</item>
+                            <lb n="1v2=6"/><unclear>t</unclear>i-<unclear>śaṟ</unclear>mma <gap reason="lost" quantity="2" unit="character" precision="low"/> <supplied reason="lost">śa</supplied>rmmabhyāñ ca</item>
                         <item>Ātreya-sagotrāya vājasaneyine yajña-<unclear>śarmmaṇe</unclear>
-                        <lb n="1v3=7"/><unclear>kaśya</unclear>pa-sagotrāya vājasaneyine Ayila-dāma-śarmmaṇe ca</item>
+                            <lb n="1v3=7"/><unclear>kaśya</unclear>pa-sagotrāya vājasaneyine Ayila-dāma-śarmmaṇe ca</item>
                         <item>bhāradvāja-sa
-                        <lb n="1v4=8" break="no"/>gotrabhyāṃ vājasaneyibhyāṃ gaṇadāsa-śarmmā-gaṇa-deva-śarmmabhyāñ ca</item></list> Ebhyo nava<unclear>bh</unclear>yo
+                            <lb n="1v4=8" break="no"/>gotrabhyāṃ vājasaneyibhyāṃ gaṇa-dāsa-śarmmā-gaṇa-deva-śarmmabhyāñ ca</item></list> Ebhyo nava<unclear>bh</unclear>yo
                     
                 </p>
                 
@@ -117,12 +117,20 @@
                     <app loc="1">
                         <lem>pallavān<unclear>ā</unclear>m</lem>
                         <rdg source="bib:Ramesh1993_01">pallavānām</rdg>
+                        <note><ptr target="bib:Ramesh1993_01"/> has however <foreign>pallavānām</foreign> in his discussion of the contents.</note>
                     </app>
                     
                     <app loc="1">
                         <lem>°kumārāvara°</lem>
-                        <rdg source="bib:Ramesh1993_01">°kumāravara°</rdg>
-                        <note>...</note>
+                        <rdg source="bib:Ramesh1993_01">°kumār-avara°</rdg>
+                        <note><ptr target="bib:Ramesh1993_01"/> has however <foreign>°kumārāvara°</foreign> in his discussion of the contents.</note>
+                    </app>
+                    
+                    <app loc="1">
+                        <lem>Angū
+                    <lb n="1r2=2" break="no"/><seg rendition="class:telugu maturity:regional">ṟe</seg>śvarāyatana°</lem>
+                        <rdg source="bib:Ramesh1993_01">Angū
+                    <lb n="1r2=2" break="no"/>ṛēśvar-āyatana°</rdg>
                     </app>
                     
                     <app loc="2">
@@ -136,8 +144,9 @@
                     </app>
                     
                     <app loc="5">
-                        <lem>dā <gap reason="lost" quantity="7" unit="character" precision="low"/></lem>
-                        <rdg source="bib:Ramesh1993_01">devaśarmmane <gap reason="lost" extent="unknown" unit="character"/></rdg>
+                        <lem><unclear>deva</unclear> <gap reason="lost" quantity="5" unit="character" precision="low"/> <supplied reason="lost">śa</supplied>rmmaṇe</lem>
+                        <rdg source="bib:Ramesh1993_01">devaśarmmaṇe <gap reason="lost" extent="unknown" unit="character"/> śarmmaṇe</rdg>
+                        <note>Alternatively: <foreign>dā <gap reason="lost" quantity="6" unit="character" precision="low"/> <supplied reason="lost">śa</supplied>rmmaṇe</foreign></note>
                     </app>
                     
                     <app loc="5">
@@ -152,11 +161,19 @@
             <div type="translation" resp="part:emfr">
                 
                 <p n="1-3">
-                    ...                    
+                    The glorious Siṃhavarman ... 
+                    orders <supplied reason="subaudible">as follows:</supplied>
                 </p>
                 
                 <p n="3-8">
-                    ...                    
+                    By us, <supplied reason="lost">this village of</supplied> Puḻusulūra <supplied reason="subaudible">is given</supplied> to the Brahmins residing in <gap reason="lost"/>, that is,
+                    <list>
+                        <item>to Anantaśarman, Brahma ..., ... śarman,</item>
+                        <item>to both ... śarman and ... śarman</item>
+                        <item>to Yajñaśarman ... and to Ayiladamaśarman ...</item>
+                        <item>to both Gaṇadāśa and Gaṇadeva, of the <foreign>gotra</foreign> of the Bhāradvājas and the school of Vājasaneya,</item>
+                    </list>
+                    to these nine <gap reason="lost"/>
                 </p>
                 
             </div>
@@ -172,7 +189,8 @@
                 <listBibl type="primary">
                     
                     <bibl n="R">
-                        <ptr target="bib:Ramesh1993_01"/></bibl>
+                        <ptr target="bib:Ramesh1993_01"/>
+                    </bibl>
                     
                 </listBibl>
                 
