@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Peddamuḍiyam stray plate</title>
+                <title>Peddamuḍiyam stray plate, time of Siṃhavarman</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -41,7 +41,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>...</summary>
+                        <summary>Donation of the village of Puḷusulūra to nine Brahmins.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -99,7 +99,7 @@
                             <pb n="1v" break="no"/>
                             <fw n="1v" place="left">5</fw>
                             <lb n="1v1=5" break="no"/><unclear>deva</unclear> <gap reason="lost" quantity="5" unit="character" precision="low"/> <supplied reason="lost">śa</supplied>rmmaṇe ca</item>
-                        <item>bhāradvāja-sago<supplied reason="lost">t</supplied>ra<supplied reason="lost">bh</supplied>y<supplied reason="lost">ān</supplied> t<unclear>ai</unclear> <gap reason="lost" quantity="6" unit="character" precision="low"/>
+                        <item>bhāradvāja-sago<supplied reason="lost">t</supplied>ra<supplied reason="lost">bh</supplied>y<supplied reason="lost">ān</supplied> t<unclear>aittirīyābhyāṃ</unclear>
                             <lb n="1v2=6"/><unclear>t</unclear>i-<unclear>śaṟ</unclear>mma <gap reason="lost" quantity="2" unit="character" precision="low"/> <supplied reason="lost">śa</supplied>rmmabhyāñ ca</item>
                         <item>Ātreya-sagotrāya vājasaneyine yajña-<unclear>śarmmaṇe</unclear>
                             <lb n="1v3=7"/><unclear>kaśya</unclear>pa-sagotrāya vājasaneyine Ayila-dāma-śarmmaṇe ca</item>
@@ -117,13 +117,13 @@
                     <app loc="1">
                         <lem>pallavān<unclear>ā</unclear>m</lem>
                         <rdg source="bib:Ramesh1993_01">pallavānām</rdg>
-                        <note><ptr target="bib:Ramesh1993_01"/> has however <foreign>pallavānām</foreign> in his discussion of the contents.</note>
+                        <note><ptr target="bib:Ramesh1993_01"/> has however <foreign>pallavānām</foreign> in his comments.</note>
                     </app>
                     
                     <app loc="1">
                         <lem>°kumārāvara°</lem>
                         <rdg source="bib:Ramesh1993_01">°kumār-avara°</rdg>
-                        <note><ptr target="bib:Ramesh1993_01"/> has however <foreign>°kumārāvara°</foreign> in his discussion of the contents.</note>
+                        <note><ptr target="bib:Ramesh1993_01"/> has however <foreign>°kumārāvara°</foreign> in his comments.</note>
                     </app>
                     
                     <app loc="1">
@@ -150,7 +150,7 @@
                     </app>
                     
                     <app loc="5">
-                        <lem>t<unclear>ai</unclear> <gap reason="lost" quantity="6" unit="character" precision="low"/></lem>
+                        <lem>t<unclear>aittirīyābhyāṃ</unclear></lem>
                         <rdg source="bib:Ramesh1993_01">taittirīyābhyāṃ</rdg>
                     </app>
                     
@@ -161,17 +161,17 @@
             <div type="translation" resp="part:emfr">
                 
                 <p n="1-3">
-                    The glorious Siṃhavarman ... 
-                    orders <supplied reason="subaudible">as follows:</supplied>
+                    The glorious Siṃhavarman, junior son, crown prince according to the <foreign>dharma</foreign>, of <supplied reason="subaudible">the family of</supplied> the Pallavas <gap reason="lost"/>
+                    orders the villagers of Puḷusulūra in the vicinity of the temple of Angūṟeśvara in the Hiraṇyarāṣṭra and all the <foreign>naiyogika</foreign>s and <foreign>vallabha</foreign>s in charge there <supplied reason="subaudible">as follows:</supplied>
                 </p>
                 
                 <p n="3-8">
                     By us, <supplied reason="lost">this village of</supplied> Puḻusulūra <supplied reason="subaudible">is given</supplied> to the Brahmins residing in <gap reason="lost"/>, that is,
                     <list>
-                        <item>to Anantaśarman, Brahma ..., ... śarman,</item>
-                        <item>to both ... śarman and ... śarman</item>
-                        <item>to Yajñaśarman ... and to Ayiladamaśarman ...</item>
-                        <item>to both Gaṇadāśa and Gaṇadeva, of the <foreign>gotra</foreign> of the Bhāradvājas and the school of Vājasaneya,</item>
+                        <item>to Anantaśarman, Brahma<gap reason="lost"/>,<note>Brahmadevaśarman according to <bibl><ptr target="bib:Ramesh1993_01"/></bibl> in his comments.</note> and <gap reason="lost"/>śarman<note>Mādhavattiśarman according to <bibl><ptr target="bib:Ramesh1993_01"/></bibl> in his comments.</note> of the <foreign>gotra</foreign> of the Māṇḍavyas and the Vājasaneya school,</item>
+                        <item>and to both <gap reason="lost"/>śarman and <gap reason="lost"/>śarman of the <foreign>gotra</foreign> of the Bhāradvājas <unclear>and of the Taittirīya school</unclear>,</item>
+                        <item>to Yajñaśarman of the <foreign>gotra</foreign> of the Ātreyas and the school of Vājasaneya and to Ayiladamaśarman of the <foreign>gotra</foreign> of the Kāśyapas and the Vājasaneya school,</item>
+                        <item>and to both Gaṇadāśa and Gaṇadeva of the <foreign>gotra</foreign> of the Bhāradvājas and the Vājasaneya school,</item>
                     </list>
                     to these nine <gap reason="lost"/>
                 </p>
@@ -182,8 +182,8 @@
             
             <div type="bibliography">
                 
-                <p>Reported in (ARIE/1986-1987/A/1986-1987/1), in <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 20).</p>
-                <p>Edited in <bibl><ptr target="bib:Ramesh1993_01"/></bibl>, with visual documentation.</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl> (ARIE/1986-1987/A/1986-1987/1), in <bibl><ptr target="bib:PadmanabhaSastry2008_01"/></bibl>, in <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 20).</p>
+                <p>Edited in <bibl><ptr target="bib:Ramesh1993_01"/></bibl>, with visual documentation. Text in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
                 <p>This revised edition by Emmanuel Francis, based on <bibl><ptr target="bib:Ramesh1993_01"/></bibl> and with visual documentation therein.</p>
                 
                 <listBibl type="primary">
@@ -192,15 +192,25 @@
                         <ptr target="bib:Ramesh1993_01"/>
                     </bibl>
                     
+                    <bibl n="D">
+                  <ptr target="bib:Dayalan2005_01"/>
+                  <citedRange unit="page">1237</citedRange>
+                  <citedRange unit="item">4</citedRange>
+               </bibl>
+                    
                 </listBibl>
                 
                 <listBibl type="secondary">
                     
                     <bibl>
                         <ptr target="bib:ARIE1986-1987"/>
-                        <citedRange unit="page">15</citedRange>
-                        <citedRange unit="appendix">A/1986-1987</citedRange>
-                        <citedRange unit="item">1</citedRange>
+                        <citedRange unit="mixed">Appendix A/1986-1987/1, pp. 2, 15.</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:PadmanabhaSastry2008_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">170</citedRange>
                     </bibl>
                     
                     <bibl>
