@@ -5,310 +5,332 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-             <title>Kāñcipuram, list of <foreign>biruda</foreign>s</title>
-            <respStmt>
-               <resp>author of digital edition</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
-                  <surname>Francis</surname>
-               </persName>
-            </respStmt>                
-         </titleStmt>
-         <publicationStmt>
-            <authority>DHARMA</authority>
-            <pubPlace>Paris, CEIAS</pubPlace>
-            <idno type="filename">DHARMA_INSPallava00021</idno>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
-                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-               </licence>
-            </availability>
-            <date from="2019" to="2025">2019-2025</date>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc>
-               <msIdentifier>
-                  <repository>DHARMAbase</repository>
-                  <idno/>
-               </msIdentifier>
-               <msContents>
-                   <summary>Ekāmbaranātha temple. Pillar inscription recording a list of <foreign>biruda</foreign>s of Mahendravarman I Pallava.</summary>
-               </msContents>
-               <physDesc>
-                  <handDesc>
-                      <p>There is only one horizontal stroke in the letter <foreign>ṟa</foreign> (whereas the horizontal stroke is crossed by vertical a stroke, for instance in the inscription <ref target="DHARMA_INSPallava00034.xml">Pallava 34</ref>).</p>
-                  </handDesc>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>The project DHARMA has received funding from the European Research Council (ERC)
-                        under the European Union's Horizon 2020 research and innovation programme (grant
-                        agreement no 809994).</p>
-         </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-         <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
-                            ERC-DHARMA whose data are open to the public.</p>
-            </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-               <p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-            </prefixDef>
-         </listPrefixDef>
-      </encodingDesc>
-      <revisionDesc>
-         <change who="part:emfr" when="2025-01-23" status="draft">Creation of the file</change>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:space="preserve">
-      <body>
-
-<div type="edition">
-    
-    <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <head>Face A = West</head>
-        <p>
-            <lb n="A1"/><foreign xml:lang="tel-Latn">E<seg rendition="class:telugu maturity:83215">ṟi</seg></foreign>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kāñcipuram, list of <foreign>biruda</foreign>s</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>                
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSPallava00021</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Ekāmbaranātha temple. Pillar inscription recording a list of <foreign>biruda</foreign>s of Mahendravarman I Pallava.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>There is only one horizontal stroke in the letter <foreign>ṟa</foreign> (whereas the horizontal stroke is crossed by vertical a stroke, for instance in the inscription <ref target="DHARMA_INSPallava00034.xml">Pallava 34</ref>).</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide"
+                key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib"
+                    matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part"
+                    matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2025-01-23" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
             
-            <lb n="A2"/><foreign xml:lang="tam-Latn"><seg rendition="class:tamil maturity:vernacular">kucañāṇa</seg></foreign>
+            <div type="edition">
+                
+                <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+                    <head>Face A = West</head>
+                    
+                    <p xml:lang="tel-Latn" rendition="class:grantha maturity:regional">
+                        <lb n="A1"/>E<seg rendition="class:telugu maturity:vernacular">ṟi</seg>
+                    </p>
+                    
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">            
+                        <lb n="A2"/>kucañāṇa
+                    </p>
+                    
+                    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">            
+                        <lb n="A3"/>mahāmeghaḥ
+                    </p>
+                    
+                    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">            
+                        <lb n="A4"/>dṛdhabhaktiḥ
+                    </p>
+                </div>
+                
+                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <head>Face B = South</head>
+                    
+                    <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                        <lb n="B1"/>Abhimukhaḥ
+                    </p>
+                    
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">            
+                        <lb n="B2"/><hi rend="grantha">citrakāra</hi>puli
+                    </p>
+                    
+                    <p xml:lang="tel-Latn" rendition="class:grantha maturity:regional">            
+                        <lb n="B3"/>ku<seg rendition="class:telugu maturity:vernacular">ṟṟa</seg>mbu
+                    </p>
+                </div>
+                
+                <div type="textpart" n="C" >
+                    <head>Face C = East</head>
+                    
+                    <p xml:lang="tel-Latn" rendition="class:grantha maturity:regional">
+                        <lb n="C1"/>curmbu
+                    </p>
+                    
+                    <p xml:lang="tel-Latn" rendition="class:grantha maturity:regional">            
+                        <lb n="C2"/>vaṁkaṁbu
+                    </p>
+                    
+                    <p xml:lang="tel-Latn" rendition="class:grantha maturity:regional">            
+                        <lb n="C3"/>vnā<seg rendition="class:telugu maturity:vernacular">ṟa</seg> 
+                    </p>
+                </div>    
+                
+                <div type="textpart" n="D">
+                    <head>Face D = North</head>
+                    <p xml:lang="tel-Latn" rendition="class:grantha maturity:regional">
+                        <lb n="D1"/>pisugu
+                    </p>
+                    
+                    <p xml:lang="tel-Latn" rendition="class:grantha maturity:regional">            
+                        <lb n="D2"/>vambara
+                    </p>
+                    
+                    <p>            
+                        <lb n="D3"/>bhrāntaḥ Akari
+                    </p>
+                </div>
+                
+            </div>
             
-            <lb n="A3"/>mahāmeghaḥ
+            <div type="apparatus">
+                
+                <div type="textpart" n="A">
+                    <head>Face A = West</head>
+                    
+                    <listApp>
+                        
+                        <app loc="A1">
+                            <lem>E<seg rendition="class:telugu maturity:83215">ṟi</seg></lem>
+                            <rdg source="bib:VenkatasubbaAyyar1943_01 bib:Mahalingam1988_01"/>
+                            <rdg source="bib:Brocquet1997_01">Eṟ</rdg>
+                            <rdg source="bib:Lockwood+al2001_01">Ēthi</rdg>
+                            <note><ptr target="bib:Lockwood+al2001_01"/> (p. 198, 216) in fact hesitates between the readings <foreign>vnāṟa</foreign> and <foreign>vnātha</foreign>. There is only one horizontal stroke in the letter <foreign>ṟa</foreign>, which makes it close to the letter <foreign>tha</foreign>.</note>
+                        </app>
+                        
+                        <app loc="A2">
+                            <lem>kucañāṇa</lem>
+                            <rdg source="bib:VenkatasubbaAyyar1943_01  bib:Mahalingam1988_01 bib:Brocquet1997_01">ku<hi rend="grantha">cagrā</hi>ṇa</rdg>
+                            <rdg source="bib:Lockwood+al2001_01">kucañāṉa</rdg>
+                        </app>
+                        
+                        <app loc="A3">
+                            <lem>mahāmeghaḥ</lem>                
+                            <rdg source="bib:Lockwood+al2001_01"/>
+                            <rdg source="bib:VenkatasubbaAyyar1943_01 bib:Mahalingam1988_01">mahāmegha</rdg>                
+                            <rdg source="bib:Brocquet1997_01">mahāmedha</rdg>
+                        </app>
+                        
+                    </listApp>
+                    
+                </div>
+                
+                <div type="textpart" n="B">
+                    <head>Face B = South </head>
+                    
+                    <listApp>
+                        
+                        <app loc="B1">
+                            <lem>Abhimukhaḥ</lem>                
+                            <rdg source="bib:Lockwood+al2001_01"/>
+                            <rdg source="bib:VenkatasubbaAyyar1943_01 bib:Mahalingam1988_01 bib:Brocquet1997_01">Abhimukha</rdg>
+                        </app>
+                        
+                    </listApp>
+                    
+                </div>
+                <div type="textpart" n="C">
+                    <head>Face C = East</head>
+                    
+                    <listApp>
+                        
+                        <app loc="C3">
+                            <lem>vnā<seg rendition="class:telugu maturity:83215">ṟa</seg></lem>
+                            <rdg source="bib:VenkatasubbaAyyar1943_01 bib:Mahalingam1988_01 bib:Brocquet1997_01">vnā<seg rendition="class:telugu maturity:83215">ṟ</seg><unclear>pegu</unclear></rdg>
+                            <rdg source="bib:Lockwood+al2001_01">vnātha</rdg>
+                            <note>There is only one horizontal stroke in the letter <foreign>ṟa</foreign>, which makes it close to the letter <foreign>tha</foreign>.</note>                
+                        </app>	
+                        
+                    </listApp>
+                    
+                </div>
+                
+                <!--<div type="textpart" n="D">
+                    <head>Face D = North</head>
+                    
+                    <listApp>
+                        
+                        <app loc="0">
+                            <lem></lem>
+                            <rdg source="bib:VenkatasubbaAyyar1943_01"></rdg>
+                        </app>	
+                        
+                    </listApp>
+                    
+                </div>-->
+                
+            </div>
             
-            <lb n="A4"/>dṛdhabhaktiḥ
-        </p>
-    </div>
-    
-    <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <head>Face B = South</head>
-        <p>
-            <lb n="B1"/>Abhimukhaḥ
+            <div type="translation" resp="part:emfr">
+                
+                <div type="textpart" n="A">
+                    <head>Face A = West</head>       
+                    
+                    <p n="A1">...</p>
+                    <p n="A2">He whose knowledge is sharp.</p>       
+                    <p n="A3">The great cloud.</p>
+                    <p n="A4">He whose devotion is firm.</p>
+                    
+                </div>
+                
+                <div type="textpart" n="B">
+                    <head>Face B = South </head>        
+                    
+                    <p n="B1">...</p>
+                    <p n="B2">The tiger among artists.</p>       
+                    <p n="B3">...</p>
+                    
+                </div>
+                
+                <div type="textpart" n="C">
+                    <head>Face C = East</head>
+                    
+                    <p n="C1">...</p>
+                    <p n="C2">...</p>       
+                    <p n="C3">...</p> 
+                    
+                </div>
+                <div type="textpart" n="D">
+                    <head>Face D = North</head>
+                    
+                    <p n="D1">The thunderbolt.</p>
+                    <p n="D2">...</p>       
+                    <p n="D3">...</p>     
+                    <p n="D3">...</p> 
+                </div>    
+                
+            </div>
             
-            <lb n="B2"/>citrakāra<foreign xml:lang="tam-Latn"><seg rendition="class:tamil maturity:vernacular">puli</seg></foreign>
+            <div type="commentary">
+                
+                <p>The orientation (west to north) of the pillar’s faces is given in <bibl><ptr target="bib:Jouveau-Dubreuil1919_01"/></bibl> and <ptr target="bib:VenkatasubbaAyyar1943_01"/>. It is presumably that of the pillar at the time it was found in situ in the Ekāmbaranātha temple. The pillar is currently (2025) displayed at the entrance of the main sculpture gallery in the Chennai Government Museum.</p>
+                
+            </div>
             
-            <lb n="B3"/><foreign xml:lang="tel-Latn">ku<seg rendition="class:telugu maturity:83215">ṟṟa</seg>mbu</foreign>
-        </p>
-    </div>
-    
-    <div type="textpart" n="C" xml:lang="tel-Latn" rendition="class:grantha maturity:83215">
-        <head>Face C = East</head>
-        <p>
-            <lb n="C1"/>curmbu
             
-            <lb n="C2"/>vaṁkaṁbu
+            <div type="bibliography">
+                
+                <p>Reported and discussed in <bibl><ptr target="bib:Jouveau-Dubreuil1919_01"/></bibl>, with visual documentation. Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/82).</p> 
+                <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.14), with visual documentation. Text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 21). Text and French translation of the Sanskrit <foreign>biruda</foreign>s in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 17). Edited and translated in <bibl><ptr target="bib:Lockwood+al2001_01"/></bibl>, with delineations of the original inscriptions. See <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 29).</p>
+                <p>This revised edition by Emmanuel Francis, based on autopsy (2017) and photos (<ref target="https://didomena.ehess.fr/concern/data_sets/k0698h80v">2017, by Emmanuel Francis</ref>; <ref target="https://didomena.ehess.fr/concern/data_sets/ks65hp10f">2024, by Emmanuel Francis</ref>).</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:VenkatasubbaAyyar1943_01"/>
+                        <citedRange unit="page">8</citedRange>
+                        <citedRange unit="item">14</citedRange>
+                        <citedRange unit="plate">IV</citedRange>
+                    </bibl>
+                    
+                    <bibl n="IP">
+                        <ptr target="bib:Mahalingam1988_01"/>
+                        <citedRange unit="page">100-101</citedRange>
+                        <citedRange unit="item">21</citedRange>            		
+                    </bibl>            	
+                    <bibl n="B">
+                        <ptr target="bib:Brocquet1997_01"/>
+                        <citedRange unit="page">100-101</citedRange>
+                        <citedRange unit="item">17</citedRange>            		
+                    </bibl>
+                    
+                    <bibl n="L">
+                        <ptr target="bib:Lockwood+al2001_01"/>
+                        <citedRange unit="page">193-222</citedRange>            
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:Jouveau-Dubreuil1919_01"/>
+                    </bibl>
+                    
+                    <bibl n="ARIE">
+                        <ptr target="bib:ARIE1920-1921"/>
+                        <citedRange unit="page">65</citedRange>
+                        <citedRange unit="appendix">C/1921</citedRange>
+                        <citedRange unit="item">51</citedRange>
+                    </bibl>
+                    
+                    <bibl>            
+                        <ptr target="bib:Francis2013_01"/>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
             
-            <lb n="C3"/>vnā<seg rendition="class:telugu maturity:83215">ṟa</seg> 
-        </p>
-    </div>    
-    
-    <div type="textpart" n="D" xml:lang="tel-Latn" rendition="class:grantha maturity:83215">
-        <head>Face D = North</head>
-        <p>
-            <lb n="D1"/>pisugu
-            
-            <lb n="D2"/>vambara
-            
-            <lb n="D3"/><foreign xml:lang="tel-Latn">bhrāntaḥ Akari</foreign>
-        </p>
-    </div>
-         	
-</div>
-
-<div type="apparatus">
-
-    <div type="textpart" n="A">
-        <head>Face A = West</head>
-        
-        <listApp>
-            
-            <app loc="A1">
-                <lem>E<seg rendition="class:telugu maturity:83215">ṟi</seg></lem>
-                <rdg source="bib:VenkatasubbaAyyar1943_01 bib:Mahalingam1988_01"/>
-                <rdg source="bib:Brocquet1997_01">Eṟ</rdg>
-                <rdg source="bib:Lockwood+al2001_01">Ēthi</rdg>
-                <note><ptr target="bib:Lockwood+al2001_01"/> (p. 198, 216) in fact hesitates between the readings <foreign>vnāṟa</foreign> and <foreign>vnātha</foreign>. There is only one horizontal stroke in the letter <foreign>ṟa</foreign>, which makes it close to the letter <foreign>tha</foreign>.</note>
-            </app>
-            
-            <app loc="A2">
-                <lem>kucañāṇa</lem>
-                <rdg source="bib:VenkatasubbaAyyar1943_01  bib:Mahalingam1988_01 bib:Brocquet1997_01">ku<hi rend="grantha">cagrā</hi>ṇa</rdg>
-                <rdg source="bib:Lockwood+al2001_01">kucañāṉa</rdg>
-            </app>
-            
-            <app loc="A3">
-                <lem>mahāmeghaḥ</lem>                
-                <rdg source="bib:Lockwood+al2001_01"/>
-                <rdg source="bib:VenkatasubbaAyyar1943_01 bib:Mahalingam1988_01">mahāmegha</rdg>                
-                <rdg source="bib:Brocquet1997_01">mahāmedha</rdg>
-            </app>
-            
-        </listApp>
-        
-    </div>
-    
-        <div type="textpart" n="B">
-        <head>Face B = South </head>
-        
-        <listApp>
-            
-            <app loc="B1">
-                <lem>Abhimukhaḥ</lem>                
-                <rdg source="bib:Lockwood+al2001_01"/>
-                <rdg source="bib:VenkatasubbaAyyar1943_01 bib:Mahalingam1988_01 bib:Brocquet1997_01">Abhimukha</rdg>
-            </app>
-            
-        </listApp>
-        
-    </div>
-        <div type="textpart" n="C">
-        <head>Face C = East</head>
-        
-        <listApp>
-            
-            <app loc="C3">
-                <lem>vnā<seg rendition="class:telugu maturity:83215">ṟa</seg></lem>
-                <rdg source="bib:VenkatasubbaAyyar1943_01 bib:Mahalingam1988_01 bib:Brocquet1997_01">vnā<seg rendition="class:telugu maturity:83215">ṟ</seg><unclear>pegu</unclear></rdg>
-                <rdg source="bib:Lockwood+al2001_01">vnātha</rdg>
-                <note>There is only one horizontal stroke in the letter <foreign>ṟa</foreign>, which makes it close to the letter <foreign>tha</foreign>.</note>                
-            </app>	
-            
-        </listApp>
-        
-    </div>
-        <div type="textpart" n="D">
-        <head>Face D = North</head>
-        
-        <listApp>
-            
-            <app loc="0">
-                <lem></lem>
-                <rdg source="bib:VenkatasubbaAyyar1943_01"></rdg>
-            </app>	
-            
-        </listApp>
-        
-    </div>
-
-</div>
-          
-<div type="translation" resp="part:emfr">
-            
-    <div type="textpart" n="A">
-        <head>Face A = West</head>       
-        
-        <p n="A1">...</p>
-        <p n="A2">He whose knowledge is sharp.</p>       
-        <p n="A3">The great cloud.</p>
-        <p n="A4">He whose devotion is firm.</p>
-        
-    </div>
-    
-    <div type="textpart" n="B">
-        <head>Face B = South </head>        
-        
-        <p n="B1">...</p>
-        <p n="B2">The tiger among artists.</p>       
-        <p n="B3">...</p>
-        
-    </div>
-    
-    <div type="textpart" n="C">
-        <head>Face C = East</head>
-        
-        <p n="C1">...</p>
-        <p n="C2">...</p>       
-        <p n="C3">...</p> 
-        
-    </div>
-    <div type="textpart" n="D">
-        <head>Face D = North</head>
-        
-        <p n="D1">The thunderbolt.</p>
-        <p n="D2">...</p>       
-        <p n="D3">...</p>     
-        <p n="D3">...</p> 
-    </div>    
-    
-</div>
-      	
-<div type="commentary">
-    
-    <p>The orientation (west to north) of the pillar’s faces is given in <bibl><ptr target="bib:Jouveau-Dubreuil1919_01"/></bibl> and <ptr target="bib:VenkatasubbaAyyar1943_01"/>. It is presumably that of the pillar at the time it was found in situ in the Ekāmbaranātha temple. The pillar is currently (2025) displayed at the entrance of the main sculpture gallery in the Chennai Government Museum.</p>
-    
-</div>
-
-      	
-<div type="bibliography">
-      		
-   <p>Reported and discussed in <bibl><ptr target="bib:Jouveau-Dubreuil1919_01"/></bibl>, with visual documentation. Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/82).</p> 
-   <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.14), with visual documentation. Text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 21). Text and French translation of the Sanskrit <foreign>biruda</foreign>s in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 17). Edited and translated in <bibl><ptr target="bib:Lockwood+al2001_01"/></bibl>, with delineations of the original inscriptions. See <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 29).</p>
-   <p>This revised edition by Emmanuel Francis, based on autopsy (2017) and photos (<ref target="https://didomena.ehess.fr/concern/data_sets/k0698h80v">2017, by Emmanuel Francis</ref>; <ref target="https://didomena.ehess.fr/concern/data_sets/ks65hp10f">2024, by Emmanuel Francis</ref>).</p>
-
-    <listBibl type="primary">
-        
-        <bibl n="SII">
-            <ptr target="bib:VenkatasubbaAyyar1943_01"/>
-            <citedRange unit="page">8</citedRange>
-            <citedRange unit="item">14</citedRange>
-            <citedRange unit="plate">IV</citedRange>
-        </bibl>
-        
-        <bibl n="IP">
-            <ptr target="bib:Mahalingam1988_01"/>
-            <citedRange unit="page">100-101</citedRange>
-            <citedRange unit="item">21</citedRange>            		
-        </bibl>            	
-        <bibl n="B">
-            <ptr target="bib:Brocquet1997_01"/>
-            <citedRange unit="page">100-101</citedRange>
-            <citedRange unit="item">17</citedRange>            		
-        </bibl>
-        
-        <bibl n="L">
-            <ptr target="bib:Lockwood+al2001_01"/>
-            <citedRange unit="page">193-222</citedRange>            
-        </bibl>
-        
-    </listBibl>
-    
-    <listBibl type="secondary">
-        
-        <bibl>
-            <ptr target="bib:Jouveau-Dubreuil1919_01"/>
-        </bibl>
-        
-        <bibl n="ARIE">
-            <ptr target="bib:ARIE1920-1921"/>
-            <citedRange unit="page">65</citedRange>
-            <citedRange unit="appendix">C/1921</citedRange>
-            <citedRange unit="item">51</citedRange>
-        </bibl>
-        
-        <bibl>            
-            <ptr target="bib:Francis2013_01"/>
-        </bibl>
-        
-    </listBibl>
-      		
-      	</div>
-      	
-      </body>
-  </text>
+        </body>
+    </text>
 </TEI>
