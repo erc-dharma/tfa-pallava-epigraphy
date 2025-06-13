@@ -10,17 +10,14 @@
             <titleStmt>
                 <title>Tiruvatikai, time of Nṛpatuṅgavarman, year 18</title>
                 <respStmt>
-                    <resp>EpiDoc encoding</resp>
+                    <resp>author of digital edition</resp>                    
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>intellectual authorship of edition</resp>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
+                    <persName ref="part:vagi">
+                        <forename>Valérie</forename>
+                        <surname>Gillet</surname>
                     </persName>
                 </respStmt>
             </titleStmt>
@@ -47,7 +44,10 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Donation of gold for supplying food offerings.</summary>
+                        <summary>
+                            <p>Donation of gold for supplying food offerings.</p>
+                           <p>VG: Tiruvīraṭṭāṉeśvara temple, Tiruvatikai, Paṇruṭṭi taluk, Cuddalore district; on a pillar in the <foreign>maṇḍapa </foreign>in front of the central shrine; regnal year 18 of Pallava Nṛpatuṅgavarman; tli sa 619; there are donations by other royal figures on pillars in the same <foreign>maṇḍapa</foreign>: sii 8, no. 309 registers a donation of gold by Pallava Nandivarman iii; sii 12, no. 73 records a gift of gold by the queen of Nṛpatuṅgavarman, Vīramahādevi.</p>
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -157,6 +157,9 @@
                 
                 </div>-->
             
+            <div type="translation" source="bib:Gillet2017_01">
+                
+                <p>Hail! Prosperity! This is the 18th regnal year of Nṛpatuṅgavarman. For Mahādeva of Tiruvīraṭṭānam of Atiyaraiyamaṅkalam, Pāṇṭi Varaguṇa Mahārāja gave 570 <foreign>kaḻañcu </foreign>of gold; having taken this gold, we, the Nagaram <supplied reason="explanation"><foreign>nakarattōm</foreign></supplied> of Atiyaraiyamaṅgalam, will have to <supplied reason="subaudible">do</supplied> <supplied reason="explanation"><foreign>kaṭavōm</foreign></supplied>; in this gold, with the interests of 290 <foreign>kaḻañcu </foreign>of this gold, everyday <gap reason="lost" extent="unknown" unit="character"/> having added <supplied reason="explanation"><foreign>ēṟṟi</foreign></supplied> to the 3 <foreign>nāḻi </foreign>and one <foreign>uri </foreign>of <gap reason="lost" extent="unknown" unit="character"/> 20 <foreign>nāḻi </foreign>of rice for one time <supplied reason="explanation"><foreign>poḻukku</foreign></supplied>, five side dishes <supplied reason="explanation"><foreign>añcukāy</foreign></supplied> including <supplied reason="explanation"><foreign>uḷḷiṭṭa</foreign></supplied> pongal <supplied reason="explanation"><foreign>kumāya</foreign></supplied> and one <foreign>uri </foreign>of green lentils <supplied reason="explanation"><foreign>pacca-payaṟṟuparuppu</foreign></supplied>, one <foreign>uḻakku </foreign>of curd for tamarind-vegetable <supplied reason="explanation"><foreign>puḷiṅkaṟikku</foreign></supplied> for one time, two <foreign>ceviṭu </foreign><supplied reason="explanation">small measure</supplied> of asafoetida <supplied reason="explanation"><foreign>kāyam</foreign></supplied> for the vegetables <supplied reason="explanation"><foreign>kaṟikku</foreign></supplied> for one time, one <foreign>ceviṭu </foreign>of ghee for frying <supplied reason="explanation"><foreign>tumikka</foreign></supplied> vegetables for one time, a <foreign>nāḻi </foreign>of ghee to which are added <supplied reason="explanation"><foreign>ēṟṟi</foreign></supplied> for 4 times as one <foreign>uḻakku </foreign>each time <supplied reason="explanation"><foreign>pōtu</foreign></supplied> of fragrant ghee in order to offer food to the deity <supplied reason="explanation"><foreign>nivētikka</foreign></supplied>, one <foreign>uri </foreign>of curd for each time for offering food <supplied reason="explanation"><foreign>nivētikka</foreign></supplied>, 4 times.<note>The details regarding the ingredients and their measures are not very clear to me.</note></p></div>
             <div type="translation" resp="part:emfr">
                 
                 <p n="1">
@@ -187,8 +190,8 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1921-1922"/></bibl> (ARIE/1921-1922/B/1921/360).</p>
-                <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.71). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 167).</p>
-                <p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
+                <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.71). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 167). Text and translation in <bibl><ptr target="bib:Gillet2017_01"/></bibl>.</p>
+                <p>This digital edition by Emmanuel Francis and Valérie Gillet, based on <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>.</p>
                 
                 <listBibl type="primary">
                     
@@ -204,6 +207,12 @@
                         <citedRange unit="item">167</citedRange>
                     </bibl>
                     
+                    <bibl>
+                        <ptr target="bib:Gillet2017_01"/>
+                        <citedRange unit="page">272-273</citedRange>
+                        <citedRange unit="item">27</citedRange>
+                    </bibl>
+                
                     
                 </listBibl>
                 
