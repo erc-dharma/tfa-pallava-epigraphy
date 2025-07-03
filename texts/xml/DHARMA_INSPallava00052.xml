@@ -93,7 +93,7 @@
       <head>First Name</head>
       <p>
          <lb n="1"/>ke<unclear reason="eccentric_ductus">v</unclear>āta-peru
-         <lb n="2" break="no"/>n·tac·caṉ· <g type="finalGomutra">.</g>
+         <lb n="2" break="no"/>n·tac·caṉ· <g type="gomutraFinal">.</g>
       </p>    
    </div>
    
@@ -108,7 +108,7 @@
       <head>Third Name</head>
       <p>
          <lb n="1"/>pay<unclear>·</unclear>yami
-         <lb n="2" break="no"/>ḻip·pāṉ· <g type="finalGomutra">.</g>
+         <lb n="2" break="no"/>ḻip·pāṉ· <g type="gomutraFinal">.</g>
       </p>      
    </div>
    
@@ -137,7 +137,7 @@
    <div type="textpart" n="G" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       <head>Seventh Name</head>
       <p>
-         <lb n="1"/>na<hi rend="grantha">maḥ</hi> tiruvoṟṟiyūr Ā<hi rend="grantha">bhā</hi>jar <g type="finalGomutra">.</g>
+         <lb n="1"/>na<hi rend="grantha">maḥ</hi> tiruvoṟṟiyūr Ā<hi rend="grantha">bhā</hi>jar <g type="gomutraFinal">.</g>
       </p>     
    </div>
    
