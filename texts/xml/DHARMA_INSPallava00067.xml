@@ -5,279 +5,321 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Tiruppōrūr, list of <foreign>biruda</foreign>s</title>
-             <respStmt>
-                 <resp>EpiDoc encoding</resp>
-                 <persName ref="part:emfr">
-                     <forename>Emmanuel</forename>
-                     <surname>Francis</surname>
-                 </persName>
-             </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <authority>DHARMA</authority>
-            <pubPlace>Paris, CEIAS</pubPlace>
-            <idno type="filename">DHARMA_INSPallava00067</idno>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
-                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-               </licence>
-            </availability>
-            <date from="2019" to="2025">2019-2025</date>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc>
-               <msIdentifier>
-                  <repository>DHARMAbase</repository>
-                  <idno/>
-               </msIdentifier>
-               <msContents>
-                   <summary>A list of 16 <foreign>biruda</foreign>s engraved on two pillars. Most probably <foreign>biruda</foreign>s of Narasiṁhavarman II Pallava, as the list includes the <foreign>biruda</foreign>s Atyantakāma and Atiraṇacaṇḍa and as the paleaography matches his other known inscriptions (see <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/><citedRange unit="page">12</citedRange></bibl>).</summary>
-               </msContents>
-               <physDesc>
-                  <handDesc>
-                     <p/>
-                  </handDesc>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>The project DHARMA has received funding from the European Research Council (ERC)
-                        under the European Union's Horizon 2020 research and innovation programme (grant
-                        agreement no 809994).</p>
-         </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-         <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
-                            ERC-DHARMA whose data are open to the public.</p>
-            </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-               <p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-            </prefixDef>
-         </listPrefixDef>
-      </encodingDesc>
-      <revisionDesc>
-         <change who="part:emfr" when="2024-06-17" status="draft">Creation of the file</change>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:space="preserve">
-      <body>
-
-<div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">         	
-   
-    <!--check order of faces: maybe start with alpahabetical order of the birudas-->
-    
-    <div type="textpart" n="A">
-    <head xml:lang="eng">1st pillar</head>
-        
-        <ab>      
-            <milestone n="A1" unit="face" type="pagelike"/>
-            <lb n="1"/>kāma-laḷita<unclear>ḥ</unclear>
-        </ab>
-        <ab>
-            <lb n="2"/>kula-tilaka<unclear>ḥ</unclear>
-        </ab>
-        
-        <ab>      
-            <milestone n="A2" unit="face" type="pagelike"/>
-            <lb n="3"/>guṇa-vinīta<unclear>ḥ</unclear>
-        </ab>
-        <ab>
-            <lb n="4"/>dharaṇi-tilaka<unclear>ḥ</unclear>
-        </ab>
-        
-        <ab>      
-            <milestone n="A3" unit="face" type="pagelike"/>
-            <lb n="5"/>jñāna-sāgaraḥ
-        </ab>
-        <ab>
-            <lb n="6"/>tri-bhuvana-dīpa<unclear>ḥ</unclear>
-        </ab>
-        
-        <ab>      
-            <milestone n="A4" unit="face" type="pagelike"/>
-            <lb n="7"/>Avirata-dānaḥ
-        </ab>
-        <ab>
-            <lb n="8"/>Īśāna-śara<unclear>ṇaḥ</unclear>
-        </ab>
-    </div>
-    
-    <div type="textpart" n="B">
-    <head xml:lang="eng">2nd pillar</head>
-        
-        <ab>      
-            <milestone n="B1" unit="face" type="pagelike"/>
-            <lb n="9"/>pṛthivī-sāraḥ
-        </ab>
-        <ab>
-            <lb n="10"/>samara-dhanañjaya<unclear>ḥ</unclear>
-        </ab>
-        
-        <ab>      
-            <milestone n="B2" unit="face" type="pagelike"/>
-            <lb n="11"/>Atyanta-kāma<unclear>ḥ</unclear>
-        </ab>
-        <ab>
-            <lb n="12"/>Abhayaṁ-kara<unclear>ḥ</unclear>
-        </ab>   
-        
-        <ab>      
-            <milestone n="B3" unit="face" type="pagelike"/>
-            <lb n="13"/>Avani-divākara<unclear>ḥ</unclear>
-        </ab>
-        <ab>
-            <lb n="14"/>Atiraṇa-caṇḍa<unclear>ḥ</unclear>
-        </ab>
-        
-        <ab>      
-            <milestone n="B4" unit="face" type="pagelike"/>
-            <lb n="15"/>Avārita-vīryya<unclear>ḥ</unclear>
-        </ab>
-        <ab>
-            <lb n="16"/>Ari-kari-kesar<choice><unclear>ī</unclear><unclear>ī</unclear></choice>
-        </ab>
-    </div>
-   
-</div>         
-        
-<div type="apparatus">
-    
-    <div type="textpart" n="A">
-    <head xml:lang="eng">1st pillar</head>
-        <listApp>
-            <app loc="1">
-                <lem>°laḷita<unclear>ḥ</unclear></lem>
-                <rdg source="bib:VenkatasubbaAyyar1943_01">°laḷitaḥ</rdg>                
-                <rdg source="bib:Brocquet1997_01">°lalitaḥ</rdg>
-            </app>
-            <app loc="2">
-                <lem>°tilaka<unclear>ḥ</unclear></lem>
-                <rdg source="bib:VenkatasubbaAyyar1943_01">°tilakaḥ</rdg>
-            </app>
-        </listApp>
-    </div>
-    
-    <div type="textpart" n="B">        
-    <head xml:lang="eng">2nd pillar</head>
-        <listApp>
-            <app loc="16">
-                <lem>°kesar<choice><unclear>ī</unclear><unclear>ī</unclear></choice></lem>
-                <rdg source="bib:VenkatasubbaAyyar1943_01">°kesarī <unclear><g type="ddanda">.</g></unclear></rdg>
-            </app>
-        </listApp>
-    </div>
-      		
-</div>
-      	
-<!--<div type="translation" resp="part:emfr">
-   
-   <div type="textpart" n="A">
-      <head xml:lang="eng">1st pillar</head>
-      <p n="1">...</p>
-      <p n="2">...</p>   
-   </div>
-   
-   <div type="textpart" n="B">
-      <head xml:lang="eng">2nd pillar</head>
-      <p n="9">...</p>
-      <p n="10">...</p>
-   </div>
-      		
-</div>-->
-  
-<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
-   
-   <div type="textpart" n="A">
-       <head xml:lang="eng">1st pillar</head>
-       <p n="1">Celui qui possède le charme de Kāma</p>
-       <p n="2">L’ornement de sa famille</p>
-       <p n="3">Celui qui malgré ses vertus conserve sa modestie</p>
-       <p n="4">L’ornement de la terre</p>
-       <p n="5">L’océan de la connaissance</p>
-       <p n="6">Le flambeau des trois mondes</p>
-       <p n="7">Celui dont la générosité n’a pas de fin</p>
-       <p n="8">Celui qui trouve refuge en Īśāna</p>
-   </div>
-   
-   <div type="textpart" n="B">
-      <head xml:lang="eng">2nd pillar</head>
-      <p n="9">Celui qui a la terre pour richesse</p>
-      <p n="10">Celui qui est un Dhanañjaya au combat</p>
-      <p n="11">Celui dont les désirs sont infinis</p>
-      <p n="12">Celui qui dispense la sécurité</p>
-      <p n="13">Le soleil de la terre</p>
-      <p n="14">Celui qui montre au combat une férocité extrême</p>
-      <p n="15">Celui dont l’héroïsme ne connaît nulle entrave</p>
-      <p n="16">Celui qui est un lion pour ces éléphants que sont ses ennemis</p>
-   </div>
-      		
-</div>
-<!--<div type="commentary">
-      		
-</div>-->
-      	
-<div type="bibliography">
-
-   <p>Reported in <bibl><ptr target="bib:ARIE1908-1909"/></bibl> (ARIE/1908-1909/C/1909/76).</p>   
-   <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.27), with visual documentation (pl. V). Text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 67). Text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 50).</p>
-   <p>This edition by Emmanuel Francis, based on the visual documentation published in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>.</p>
-   
-   <listBibl type="primary">      
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tiruppōrūr, list of <foreign>biruda</foreign>s</title>
+                <respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSPallava00067</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>A list of 16 <foreign>biruda</foreign>s engraved on two pillars. Most probably <foreign>biruda</foreign>s of Narasiṁhavarman II Pallava, as the list includes the <foreign>biruda</foreign>s Atyantakāma and Atiraṇacaṇḍa and as the paleaography matches his other known inscriptions (see <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/><citedRange unit="page">12</citedRange></bibl>).</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide"
+                key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib"
+                    matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part"
+                    matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-06-17" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
             
-      <bibl n="SII">
-         <ptr target="bib:VenkatasubbaAyyar1943_01"/>
-         <citedRange unit="page">12</citedRange>
-         <citedRange unit="item">27</citedRange>
-      </bibl>
-      
-      <bibl n="IP">
-         <ptr target="bib:Mahalingam1988_01"/>
-         <citedRange unit="item">67</citedRange>
-         <citedRange unit="page">208-209</citedRange>
-      </bibl>       
-       
-       <bibl n="B">
-           <ptr target="bib:Brocquet1997_01"/>
-           <citedRange unit="page">600-602</citedRange>
-           <citedRange unit="item">50</citedRange>
-       </bibl>
-       
-   </listBibl>
-   
-   <listBibl type="secondary">
+            <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">         	
+                
+                <!--check order of faces: maybe start with alpahabetical order of the birudas-->
+                
+                <div type="textpart" n="A">
+                    <head xml:lang="eng">1st pillar</head>
+                    
+                    <ab>      
+                        <milestone n="A1" unit="face" type="pagelike"/>
+                        <lb n="1"/>kāma-laḷita<unclear>ḥ</unclear>
+                    </ab>
+                    <ab>
+                        <lb n="2"/>kula-tilaka<unclear>ḥ</unclear>
+                    </ab>
+                    
+                    <ab>      
+                        <milestone n="A2" unit="face" type="pagelike"/>
+                        <lb n="3"/>guṇa-vinīta<supplied reason="omitted">ḥ</supplied>
+                    </ab>
+                    <ab>
+                        <lb n="4"/>dharaṇi-tilaka<supplied reason="omitted">ḥ</supplied>
+                    </ab>
+                    
+                    <ab>      
+                        <milestone n="A3" unit="face" type="pagelike"/>
+                        <lb n="5"/>jñāna-sāgaraḥ
+                    </ab>
+                    <ab>
+                        <lb n="6"/>tri-bhuvana-dīpa<unclear>ḥ</unclear>
+                    </ab>
+                    
+                    <ab>      
+                        <milestone n="A4" unit="face" type="pagelike"/>
+                        <lb n="7"/>Avirata-dānaḥ
+                    </ab>
+                    <ab>
+                        <lb n="8"/>Īśāna-śaraṇa<unclear>ḥ</unclear>
+                    </ab>
+                </div>
+                
+                <div type="textpart" n="B">
+                    <head xml:lang="eng">2nd pillar</head>
+                    
+                    <ab>      
+                        <milestone n="B1" unit="face" type="pagelike"/>
+                        <lb n="9"/>pṛthivī-sāra<unclear>ḥ</unclear>
+                    </ab>
+                    <ab>
+                        <lb n="10"/>samara-dhanañjaya<unclear>ḥ</unclear>
+                    </ab>
+                    
+                    <ab>      
+                        <milestone n="B2" unit="face" type="pagelike"/>
+                        <lb n="11"/>Atyanta-kāma<supplied reason="omitted">ḥ</supplied>
+                    </ab>
+                    <ab>
+                        <lb n="12"/>Abhayaṁ-kara<supplied reason="omitted">ḥ</supplied>
+                    </ab>   
+                    
+                    <ab>      
+                        <milestone n="B3" unit="face" type="pagelike"/>
+                        <lb n="13"/>Avani-divākara<supplied reason="omitted">ḥ</supplied>
+                    </ab>
+                    <ab>
+                        <lb n="14"/>Atiraṇa-caṇḍa<supplied reason="omitted">ḥ</supplied>
+                    </ab>
+                    
+                    <ab>      
+                        <milestone n="B4" unit="face" type="pagelike"/>
+                        <lb n="15"/>Avārita-vīryya<supplied reason="omitted">ḥ</supplied>
+                    </ab>
+                    <ab>
+                        <lb n="16"/>Ari-kari-kesar<choice><unclear>i</unclear><unclear>ī</unclear></choice>
+                    </ab>
+                </div>
+                
+            </div>         
             
-      <bibl>
-         <ptr target="bib:ARIE1908-1909"/>
-         <citedRange unit="page">65</citedRange>
-         <citedRange unit="appendix">C/1909</citedRange>
-         <citedRange unit="item">76</citedRange>
-      </bibl>
-       
-       <!--Add Venkayya 1912-->
-           
-   </listBibl>
-   
-</div>
-
-      </body>
-  </text>
+            <div type="apparatus">
+                
+                <!--<app loc="0">
+                    <lem>...</lem>
+                    <rdg source="bib:VenkatasubbaAyyar1943_01">...</rdg>
+                    </app>-->
+                
+                <div type="textpart" n="A">
+                    <head xml:lang="eng">1st pillar</head>
+                    <listApp>
+                        <app loc="1">
+                            <lem>°laḷita<unclear>ḥ</unclear></lem>
+                            <rdg source="bib:VenkatasubbaAyyar1943_01">°laḷitaḥ</rdg>                
+                            <rdg source="bib:Brocquet1997_01">°lalitaḥ</rdg>
+                        </app>
+                        <app loc="2">
+                            <lem>°tilaka<unclear>ḥ</unclear></lem>
+                            <rdg source="bib:VenkatasubbaAyyar1943_01">°tilakaḥ</rdg>
+                        </app>
+                        <app loc="3">
+                            <lem>°vinīta<supplied reason="omitted">ḥ</supplied></lem>
+                            <rdg source="bib:VenkatasubbaAyyar1943_01">°vinīta<unclear>ḥ</unclear></rdg>
+                        </app>
+                        <app loc="4">
+                            <lem>°tilaka<supplied reason="omitted">ḥ</supplied></lem>
+                            <rdg source="bib:VenkatasubbaAyyar1943_01">°tilaka<unclear>ḥ</unclear></rdg>
+                        </app>
+                        <app loc="8">
+                            <lem>°śaraṇa<unclear>ḥ</unclear></lem>
+                            <rdg source="bib:VenkatasubbaAyyar1943_01">°śara<unclear>ṇa</unclear>ḥ</rdg>
+                        </app>
+                        
+                    </listApp>
+                </div>
+                
+                <div type="textpart" n="B">        
+                    <head xml:lang="eng">2nd pillar</head>
+                    <listApp>
+                        <app loc="9">
+                            <lem>°sāra<unclear>ḥ</unclear></lem>
+                            <rdg source="bib:VenkatasubbaAyyar1943_01">°sāraḥ</rdg>
+                        </app>
+                        <app loc="11">
+                            <lem>°kāma<supplied reason="omitted">ḥ</supplied></lem>
+                            <rdg source="bib:VenkatasubbaAyyar1943_01">°kāma<unclear>ḥ</unclear></rdg>
+                        </app>
+                        <app loc="12">
+                            <lem>°kara<supplied reason="omitted">ḥ</supplied></lem>
+                            <rdg source="bib:VenkatasubbaAyyar1943_01">°kara<unclear>ḥ</unclear></rdg>
+                        </app>
+                        <app loc="13">
+                            <lem>°divākara<supplied reason="omitted">ḥ</supplied></lem>
+                            <rdg source="bib:VenkatasubbaAyyar1943_01">°divākara<unclear>ḥ</unclear></rdg>
+                        </app>
+                        <app loc="14">
+                            <lem>°caṇḍa<supplied reason="omitted">ḥ</supplied></lem>
+                            <rdg source="bib:VenkatasubbaAyyar1943_01">°caṇḍa<unclear>ḥ</unclear>.</rdg>
+                        </app>
+                        <app loc="15">
+                            <lem>°vīryya<supplied reason="omitted">ḥ</supplied></lem>
+                            <rdg source="bib:VenkatasubbaAyyar1943_01">°vīryya<unclear>ḥ</unclear></rdg>
+                        </app>
+                        <app loc="16">
+                            <lem>°kesar<choice><unclear>i</unclear><unclear>ī</unclear></choice></lem>
+                            <rdg source="bib:VenkatasubbaAyyar1943_01">°kesarī <unclear><g type="ddanda">.</g></unclear></rdg>
+                        </app>
+                    </listApp>
+                </div>
+                
+            </div>
+            
+            <!--<div type="translation" resp="part:emfr">
+                
+                <div type="textpart" n="A">
+                <head xml:lang="eng">1st pillar</head>
+                <p n="1">...</p>
+                <p n="2">...</p>   
+                </div>
+                
+                <div type="textpart" n="B">
+                <head xml:lang="eng">2nd pillar</head>
+                <p n="9">...</p>
+                <p n="10">...</p>
+                </div>
+                
+                </div>-->
+            
+            <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
+                
+                <div type="textpart" n="A">
+                    <head xml:lang="eng">1st pillar</head>
+                    <p n="1">Celui qui possède le charme de Kāma</p>
+                    <p n="2">L’ornement de sa famille</p>
+                    <p n="3">Celui qui malgré ses vertus conserve sa modestie</p>
+                    <p n="4">L’ornement de la terre</p>
+                    <p n="5">L’océan de la connaissance</p>
+                    <p n="6">Le flambeau des trois mondes</p>
+                    <p n="7">Celui dont la générosité n’a pas de fin</p>
+                    <p n="8">Celui qui trouve refuge en Īśāna</p>
+                </div>
+                
+                <div type="textpart" n="B">
+                    <head xml:lang="eng">2nd pillar</head>
+                    <p n="9">Celui qui a la terre pour richesse</p>
+                    <p n="10">Celui qui est un Dhanañjaya au combat</p>
+                    <p n="11">Celui dont les désirs sont infinis</p>
+                    <p n="12">Celui qui dispense la sécurité</p>
+                    <p n="13">Le soleil de la terre</p>
+                    <p n="14">Celui qui montre au combat une férocité extrême</p>
+                    <p n="15">Celui dont l’héroïsme ne connaît nulle entrave</p>
+                    <p n="16">Celui qui est un lion pour ces éléphants que sont ses ennemis</p>
+                </div>
+                
+            </div>
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1908-1909"/></bibl> (ARIE/1908-1909/C/1909/76).</p>   
+                <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.27), with visual documentation (pl. V). Text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 67). Text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 50).</p>
+                <p>This edition by Emmanuel Francis, based on the visual documentation published in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> and on autopsy (July 2024).</p>
+                
+                <listBibl type="primary">      
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:VenkatasubbaAyyar1943_01"/>
+                        <citedRange unit="page">12</citedRange>
+                        <citedRange unit="item">27</citedRange>
+                    </bibl>
+                    
+                    <bibl n="IP">
+                        <ptr target="bib:Mahalingam1988_01"/>
+                        <citedRange unit="item">67</citedRange>
+                        <citedRange unit="page">208-209</citedRange>
+                    </bibl>       
+                    
+                    <bibl n="B">
+                        <ptr target="bib:Brocquet1997_01"/>
+                        <citedRange unit="page">600-602</citedRange>
+                        <citedRange unit="item">50</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1908-1909"/>
+                        <citedRange unit="page">65</citedRange>
+                        <citedRange unit="appendix">C/1909</citedRange>
+                        <citedRange unit="item">76</citedRange>
+                    </bibl>
+                    
+                    <!--Add Venkayya 1912-->
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>
