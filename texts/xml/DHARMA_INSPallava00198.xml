@@ -75,120 +75,124 @@
                     replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-            </prefixDef>
-         </listPrefixDef>
-      </encodingDesc>
-      <revisionDesc>
-         <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
-         <change who="part:emfr" when="2020-10-08" status="draft">Creation of the file</change>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:space="preserve">
-      <body>
-               	
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <lb n="1"/>svasti śrī
-    </ab>
-    <p>
-        kampa-paṉmaṟku yāṇ
-        <lb n="2" break="no"/>ṭ' āṟ-āvatu
-    </p>
-    <p>      			
-        kāṭakati-y-araiyar ma
-        <lb n="3" break="no"/>ṇavāṭṭi mātavi y-it-tiru-k-kō
-        <lb n="4" break="no"/>yil putukki muka-maṇṭakam e
-        <lb n="5" break="no"/>ṭuppittu pāḻi putukki yak
-        <lb n="6" break="no"/>kā-paṭāri tiru-k-kōyi<choice><orig>ll</orig><reg>l</reg></choice> eṭu
-        <lb n="7" break="no"/>ppittu Ip-paḷḷikk’ iṭṭa
-        <lb n="8"/>peru-maṇi Oṉṟu Ūṭṭu<unclear>vi</unclear>ttāḷ
-    </p>
-    
-</div>
-
-<div type="apparatus">
-    <!--Fuse identical readings by different editors; remove hyphens from their readings-->
-    <listApp>
-        
-        <app loc="2">
-            <lem>kāṭakatiyaraiyar</lem>      			    
-            <rdg source="bib:Nagaswamy1970_03"/>      			
-            <rdg source="bib:Sampath1968_01">kāṭaka tīyaṉayar</rdg>	
-        </app>
-        
-        <app loc="3">
-            <lem>mātavi</lem>
-            <rdg source="bib:Nagaswamy1970_03"/>
-            <rdg source="bib:Sampath1968_01">māntavi</rdg>
-        </app>
-        
-        <app loc="3">
-            <lem>yittirukkō<lb n="4" break="no"/>yil</lem>
-            <rdg source="bib:Nagaswamy1970_03"/>
-            <rdg source="bib:Sampath1968_01">Ittirukkō<lb n="4" break="no"/>yil</rdg>     				
-        </app>
-        
-        <app loc="5">
-            <lem>yak<lb n="6" break="no"/>kāpaṭāri</lem>
-            <rdg source="bib:Nagaswamy1970_03"/>
-            <rdg source="bib:Sampath1968_01">yak<lb n="6" break="no"/>kāpaṭṭārit</rdg>
-        </app>	
-        
-    </listApp>
-    
-</div>
-          
-<div type="translation" resp="part:emfr">
-      		<!--Check/Update translation + if necessary encode properly "..."-->
-      		<p n="1">Prosperity! Fortune!</p>
-      		<p n="1-2">Sixth year of Kampapaṉmaṉ.<note>Sanskrit Kampavarman.</note></p>
-      		<p n="2-8">Mātavi, the wife <supplied reason="subaudible">of</supplied> Kāṭakati Araiyar, after renovating this glorious temple, having a front hall erected, renovating the monastery <supplied reason="explanation"><foreign>pāḻi</foreign></supplied>, <supplied reason="subaudible">and</supplied> having a glorious temple <supplied reason="subaudible">of</supplied> Yakṣa Bhaṭṭāri erected, had one big bell fed <supplied reason="explanation"><foreign>ūṭṭuvittāḷ</foreign>That is, "gave one big bell."</supplied> given <supplied reason="explanation"><foreign>iṭṭa</foreign></supplied> to this <foreign>paḷḷi</foreign>.</p>
-      		
-      	</div>
-
-      	<div type="commentary">
-      		<p n="5">The term <foreign>pāḻi</foreign> is polysemic. Several of its meanings, according to the MTL could apply here: temple, hermitage; cave, mountain cavern; sleeping place for human beings; small tank; flight of steps leading into a tank. <bibl><ptr target="bib:Sampath1968_01"/></bibl> notes: <quote><foreign>Pāḻi</foreign> is a term, known in all the Jaina Literature, and means a ‘temple’ or sometimes ‘monastery’.</quote> According to <bibl><ptr target="bib:Mahalingam1988_01"/></bibl>, this means here "cavern."</p>
-      		<p n="5">The term <foreign>paḷḷi</foreign> appears to be used here in the sense of the entire Jaina cultic place.</p>
-      	</div>
-
-         <div type="bibliography">
-
-            <p>Reported in <bibl><ptr target="bib:ARIE1968-1969"/></bibl> (ARIE/1968-1969/B/1968-1969/221).</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
+            <change who="part:emfr" when="2020-10-08" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
             
-            <p>Edited in <bibl><ptr target="bib:Sampath1968_01"/></bibl>, in <bibl><ptr target="bib:Nagaswamy1970_03"/></bibl>. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 198).</p>
-            <p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
-
-            	<listBibl type="primary">
-        		
-            		<bibl n="S">
-            			<ptr target="bib:Sampath1968_01"/>
-            			<citedRange unit="page">159</citedRange>
-            		</bibl>
-            		<bibl n="N">
-            			<ptr target="bib:Nagaswamy1970_03"/>
-            			<citedRange unit="page">125</citedRange>
-            		</bibl>
-            		<bibl n="IP">
-            			<ptr target="bib:Mahalingam1988_01"/>
-            			<citedRange unit="page">532</citedRange>
-            			<citedRange unit="item">74</citedRange>
-            		</bibl>
-        		        		       		
-        	</listBibl>
-        	
-        	<listBibl type="secondary">
-        		
-        		<bibl>
-			<ptr target="bib:ARIE1968-1969"/>
-			<citedRange unit="page">46</citedRange>
-			<citedRange unit="appendix">B/1968-1969</citedRange>
-			<citedRange unit="item">221</citedRange>
-		</bibl>
-        		
-        	</listBibl>
-
-         </div>
-
-      </body>
-  </text>
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <lb n="1"/>svasti śrī
+                </ab>
+                <p>
+                    kampa-paṉmaṟku yāṇ
+                    <lb n="2" break="no"/>ṭ' āṟ-āvatu
+                </p>
+                <p>      			
+                    kāṭakati-y-araiyar ma
+                    <lb n="3" break="no"/>ṇavāṭṭi mātavi y-it-tiru-k-kō
+                    <lb n="4" break="no"/>yil putukki muka-maṇṭakam e
+                    <lb n="5" break="no"/>ṭuppittu pāḻi putukki yak
+                    <lb n="6" break="no"/>kā-paṭāri tiru-k-kōyi<choice><orig>ll</orig><reg>l</reg></choice> eṭu
+                    <lb n="7" break="no"/>ppittu Ip-paḷḷikk’ iṭṭa
+                    <lb n="8"/>peru-maṇi Oṉṟu Ūṭṭu<unclear>vi</unclear>ttāḷ
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                <!--Fuse identical readings by different editors; remove hyphens from their readings-->
+                <listApp>
+                    
+                    <app loc="2">
+                        <lem>kāṭakatiyaraiyar</lem>      			    
+                        <rdg source="bib:Nagaswamy1970_03"/>      			
+                        <rdg source="bib:Sampath1968_01">kāṭaka tīyaṉayar</rdg>	
+                    </app>
+                    
+                    <app loc="3">
+                        <lem>mātavi</lem>
+                        <rdg source="bib:Nagaswamy1970_03"/>
+                        <rdg source="bib:Sampath1968_01">māntavi</rdg>
+                    </app>
+                    
+                    <app loc="3">
+                        <lem>yittirukkō<lb n="4" break="no"/>yil</lem>
+                        <rdg source="bib:Nagaswamy1970_03"/>
+                        <rdg source="bib:Sampath1968_01">Ittirukkō<lb n="4" break="no"/>yil</rdg>     				
+                    </app>
+                    
+                    <app loc="5">
+                        <lem>yak<lb n="6" break="no"/>kāpaṭāri</lem>
+                        <rdg source="bib:Nagaswamy1970_03"/>
+                        <rdg source="bib:Sampath1968_01">yak<lb n="6" break="no"/>kāpaṭṭārit</rdg>
+                    </app>	
+                    
+                </listApp>
+                
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                <!--Check/Update translation + if necessary encode properly "..."-->
+                <p n="1">Prosperity! Fortune!</p>
+                <p n="1-2">Sixth year of Kampapaṉmaṉ.<note>Sanskrit Kampavarman.</note></p>
+                <p n="2-8">Mātavi, the wife <supplied reason="subaudible">of</supplied> Kāṭakati Araiyar, after renovating this glorious temple, having a front hall erected, renovating the monastery <supplied reason="explanation"><foreign>pāḻi</foreign></supplied>, <supplied reason="subaudible">and</supplied> having a glorious temple <supplied reason="subaudible">of</supplied> Yakṣa Bhaṭṭāri erected, had one big bell fed <supplied reason="explanation"><foreign>ūṭṭuvittāḷ</foreign>That is, "gave one big bell."</supplied> given <supplied reason="explanation"><foreign>iṭṭa</foreign></supplied> to this <foreign>paḷḷi</foreign>.</p>
+                
+            </div>
+            
+            <div type="commentary">
+                <p n="5">The term <foreign>pāḻi</foreign> is polysemic. Several of its meanings, according to the MTL could apply here: temple, hermitage; cave, mountain cavern; sleeping place for human beings; small tank; flight of steps leading into a tank. <bibl><ptr target="bib:Sampath1968_01"/></bibl> notes: <quote><foreign>Pāḻi</foreign> is a term, known in all the Jaina Literature, and means a ‘temple’ or sometimes ‘monastery’.</quote> According to <bibl><ptr target="bib:Mahalingam1988_01"/></bibl>, this means here "cavern."</p>
+                <p n="5">The term <foreign>paḷḷi</foreign> appears to be used here in the sense of the entire Jaina cultic place.</p>
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1968-1969"/></bibl> (ARIE/1968-1969/B/1968-1969/221).</p>
+                
+                <p>Edited in <bibl><ptr target="bib:Sampath1968_01"/></bibl>, in <bibl><ptr target="bib:Nagaswamy1970_03"/></bibl>. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 198). Edited in <bibl><ptr target="bib:Civanantam2018_01"/></bibl>.</p>
+                <p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="S">
+                        <ptr target="bib:Sampath1968_01"/>
+                        <citedRange unit="page">159</citedRange>
+                    </bibl>
+                    <bibl n="N">
+                        <ptr target="bib:Nagaswamy1970_03"/>
+                        <citedRange unit="page">125</citedRange>
+                    </bibl>
+                    <bibl n="IP">
+                        <ptr target="bib:Mahalingam1988_01"/>
+                        <citedRange unit="page">532</citedRange>
+                        <citedRange unit="item">74</citedRange>
+                    </bibl>
+                    <bibl n="C">
+                        <ptr target="bib:Civanantam2018_01"/>
+                        <citedRange unit="page">104</citedRange>
+                        <citedRange unit="item">247/2018</citedRange>            		
+                    </bibl>	 		
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1968-1969"/>
+                        <citedRange unit="page">46</citedRange>
+                        <citedRange unit="appendix">B/1968-1969</citedRange>
+                        <citedRange unit="item">221</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>
