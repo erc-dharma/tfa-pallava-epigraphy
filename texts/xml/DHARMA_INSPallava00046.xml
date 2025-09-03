@@ -5,274 +5,291 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	
-<teiHeader>
-    <fileDesc>
-        <titleStmt>
-            <title>Kūram plates, time of Parameśvaravarman</title>
-            <respStmt>
-                <resp>author of digital edition</resp>
-                <persName ref="part:emfr">
-                    <forename>Emmanuel</forename>
-                    <surname>Francis</surname>
-                </persName>
-            </respStmt>
-        </titleStmt>
-        <publicationStmt>
-            <authority>DHARMA</authority>
-            <pubPlace>Paris, CEIAS</pubPlace>
-            <idno type="filename">DHARMA_INSPallava00046</idno>
-            <availability>
-                <licence target="https://creativecommons.org/licenses/by/4.0/">
-                    <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-                        Licence. To view a copy of the licence, visit
-                        https://creativecommons.org/licenses/by/4.0/ or send a letter to
-                        Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-                        California, 94041, USA.</p>
-                    <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-                </licence>
-            </availability>
-            <date from="2019" to="2025">2019-2025</date>
-        </publicationStmt>
-        <sourceDesc>
-            <msDesc>
-                <msIdentifier>
-                    <repository>DHARMAbase</repository>
-                    <idno/>
-                </msIdentifier>
-                <msContents>
-                    <summary>...</summary>
-                </msContents>
-                <physDesc>
-                    <handDesc>
-                        <p>...</p>
-                    </handDesc>
-                </physDesc>
-            </msDesc>
-        </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-        <projectDesc>
-            <p>The project DHARMA has received funding from the European Research Council (ERC)
-                under the European Union's Horizon 2020 research and innovation programme (grant
-                agreement no 809994).</p>
-        </projectDesc>
-        <schemaRef type="guide" key="EGDv01"
-            url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-        <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
-                    ERC-DHARMA whose data are open to the public.</p>
-            </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)"
-                replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-                <p>Internal URIs using the part prefix to point to person elements in the
-                    <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-            </prefixDef>
-        </listPrefixDef>
-    </encodingDesc>
-    <revisionDesc>
-        <change who="part:emfr" when="2025-02-24" status="draft">Creation of the file</change>
-    </revisionDesc>
-</teiHeader>
-	
-<text xml:space="preserve">
-<body>
-
-<div type="edition" xml:lang="san-Latn" rendition="class:brāhmī_southern maturity:regional">
-
-    <div type="textpart" n="A">
-        <head xml:lang="eng">Seal</head> 
-    </div>
-
-<div type="textpart" n="B">
-<head xml:lang="eng">Plates</head>
     
-    <pb n="1r"/>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kūram plates, time of Parameśvaravarman</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSPallava00046</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>...</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>Tamil script. The <foreign>puḷḷi</foreign> is regularly marked.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2025-02-24" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
     
-    <p>
-        <pb n="1v"/>
-        <lb n="1v1=1"/><gap reason="ellipsis"/>
-        
-        <pb n="2r" break="no"/>
-        
-        <pb n="2v"/>
-        
-        <pb n="3r"/>
-        
-        <pb n="3v"  break="no"/>
-        
-        <pb n="4r" break="no"/>        
-  
-        <pb n="4v" break="no"/>        
-  
-        <pb n="5r" break="no"/>
-        
-        <pb n="5v" break="no"/>
-        
-        <pb n="6r"/>        
-  
-        <pb n="6v" break="no"/>        
-  
-        <pb n="7r" break="no"/>
-        
-        <pb n="7v" break="no"/>
-        <lb n="7v1=89"/>k-kāttu koṭukka <g type="gomutraFinal">.</g>
-        
-    </p> 
-    
-    <lg n="23" met="indravajrā">
-        <l n="a">Asyā<supplied reason="omitted">ḥ</supplied> praśaster avat <seg met="-+-+="><gap reason="lost" unit="character" quantity="4"/></seg></l>
-        <l n="b"><seg met="++-++--+-+="><gap reason="lost" unit="character" quantity="11"/></seg></l>
-        <l n="c">somaś ca yasyās sahavāsa-bandhus </l>
-        <l n="d">tra<unclear>ya</unclear> <seg met="-++--+-+="><gap reason="lost" unit="character" quantity="9"/></seg></l>
-    </lg>
-    
-    <lg n="24" met="anuṣṭubh">
-        <l n="a"><seg met="===="><gap reason="lost" unit="character" quantity="4"/></seg>hma-dattañ ca</l>
-        <l n="b">dvidhā bhaktiñ ca pātu yaḥ</l>
-        <l n="c">mac-chiram ma <seg met="-++="><gap reason="lost" unit="character" quantity="4"/></seg></l>
-        <l n="d"><seg met="====-+-="><gap reason="lost" unit="character" quantity="8"/></seg></l>
-    </lg>
-    
-    <lg n="25" met="anuṣṭubh">
-        <l n="a"><supplied reason="lost">brahma-sva-pari<lb n="7v4=92" break="no"/>puṣṭāni</supplied></l>
-        <l n="b">vāhanāni mahīpate</l>
-        <l n="c">yuddha-kāl<unclear>e</unclear> <supplied reason="lost">viśīryante</supplied></l>
-        <l n="d"><supplied reason="lost">saikatāḥ setavo yathā</supplied></l>
-    </lg>
-    
-    <lg n="26" met="anuṣṭubh">
-        <l n="a"><lb n="7v5=93"/>deva-svam br<choice><sic>a</sic><corr>ā</corr></choice>hmaṇa-svañ ca</l>
-        <l n="b">lobhenopahin asti <unclear>ya</unclear><supplied reason="omitted">ḥ</supplied></l>
-        <l n="c"><seg met="====-++="><gap reason="lost" unit="character" quantity="8"/></seg></l>
-        <l n="d"><seg met="=="><gap reason="lost" unit="character" quantity="2"/></seg> <lb n="7v6=94" break="no"/>cchiṣṭena jīvati <g type="gomutraFinal">.</g></l>
-    </lg>
-    
-    <lg n="27" met="anuṣṭubh">
-        <l n="a">bhūmi-dānāt paran dānam</l>
-        <l n="b">na bhūt<choice><sic>o</sic><corr>aṁ</corr></choice> na bhavi<supplied reason="lost">ṣyati</supplied></l>
-        <l n="c"><supplied reason="lost">tasyaiva haraṇāt pāpaṁ</supplied></l>
-        <l n="d"><supplied reason="lost">na</supplied><lb n="7v7=95"/>bhūt<choice><sic>o</sic><corr>aṁ</corr></choice> na bhaviṣyati <g type="ddanda">.</g> <g type="spiral">.</g> <g type="ddanda">.</g></l>
-    </lg>
-    
-    <p>...</p>
-    
-</div>
-
-</div>
-
-<div type="apparatus">
-        
-    <div type="textpart" n="B">
-        
-        <head xml:lang="eng">Plates</head>
-        
-        <listApp>
+    <text xml:space="preserve">
+        <body>
             
-            <!--
-            <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:Hultzsch1890_01">...</rdg>                
-                <rdg source="bib:Hultzsch1923-1924_05">...</rdg>
-                <note>...</note>
-            </app>
-            -->
-            
-            
-             <app loc="89">
-                <lem>avat</lem>
-                <rdg source="bib:Hultzsch1890_01">ava<unclear>tā</unclear></rdg>                
-                <rdg source="bib:Brocquet1997_01">va<unclear>tā</unclear></rdg>
-            </app>
-            
-            <app loc="91-92">
-                <lem><supplied reason="lost">brahma ... yathā</supplied></lem>
-                <note>Text restored after stanza 33 in Sircar’s list (<bibl><ptr target="bib:Sircar1965_01"/></bibl>, p. 181).</note>
-             </app>
-                        
-        </listApp>
-        
-    </div>
-	
-</div>
-
-<div type="translation" source="bib:Brocquet1997_01">
-
-    <p>...</p>
-        
-    <p rend="stanza" n="23">
-        <l>...</l>
-    </p>
-    <p rend="stanza" n="24">
-        <l>...</l>
-    </p>
-    <p rend="stanza" n="25">
-        <l>O king, the mounts</l>
-        <l><supplied reason="lost">accrued from the wealth of brahmins</supplied></l>
-        <l><supplied reason="lost">crumble</supplied> in time of war</l>
-        <l><supplied reason="lost">like dams/bridges made of sand</supplied>.</l>
-    </p>
-    <p rend="stanza" n="26">
-        <l>...</l>
-    </p>
-    <p rend="stanza" n="27">
-        <l>A gift superior to the gift of land</l>
-        <l>There has not been and there won’t be.</l>
-        <l><supplied reason="lost">Therefore a sin <supplied reason="subaudible">superior</supplied> to seizing it</supplied></l>
-        <l>There has not been and there won’t be.</l>
-    </p>
-      
-</div>
-	
-<div type="commentary"/>
-
-<div type="bibliography">
-        
-        <p>Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.151). Revised edition of plates 3-4 in <bibl><ptr target="bib:Hultzsch1923-1924_05"/></bibl>. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 53). Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 36). Visual documentation in SII 2 and SII 12<!--update bibliography-->.</p>
-        <p>This revised edition by Emmanuel Francis, based on photos (2008, by Emmanuel Francis, by courtesy of Chennai Government Museum).</p>
-        
-    <listBibl type="primary">
-        
-        <bibl n="SII">
-            <ptr target="bib:Hultzsch1890_01"/>
-        </bibl>
-        
-        <bibl n="EI">
-            <ptr target="bib:Hultzsch1923-1924_05"/>
-        </bibl>        
-        
-        <bibl n="IP">
-            <ptr target="bib:Mahalingam1988_01"/>
-            <citedRange unit="page">152-161</citedRange>
-            <citedRange unit="item">53</citedRange>
-        </bibl>
-        
-        <bibl n="B">
-            <ptr target="bib:Brocquet1997_01"/>
-            <citedRange unit="page">512-531</citedRange>
-            <citedRange unit="item">37</citedRange>
-        </bibl>
-        
-    </listBibl>
-    
-    <listBibl type="secondary">
+            <div type="edition" xml:lang="san-Latn" rendition="class:brāhmī_southern maturity:regional">
                 
-        <bibl>
-            <ptr target="bib:Francis2013_01"/>
-            <citedRange unit="page">278</citedRange>
-            <citedRange unit="item">IR 36</citedRange>
-        </bibl>
-        
-        <bibl>
-            <ptr target="bib:Sircar1965_01"/>
-        </bibl>
-        
-    </listBibl>
-
-         </div>
-
-      </body>
-  </text>
+                <div type="textpart" n="A">
+                    <head xml:lang="eng">Seal</head> 
+                </div>
+                
+                <div type="textpart" n="B">
+                    <head xml:lang="eng">Plates</head>
+                    
+                    <pb n="1r"/>
+                    
+                    <p>
+                        <pb n="1v"/>
+                        <lb n="1v1=1"/><gap reason="ellipsis"/>
+                        
+                        <pb n="2r" break="no"/>
+                        
+                        <pb n="2v"/>
+                        
+                        <pb n="3r"/>
+                        
+                        <pb n="3v"  break="no"/>
+                        
+                        <pb n="4r" break="no"/>        
+                        
+                        <pb n="4v" break="no"/>        
+                        
+                        <pb n="5r" break="no"/>
+                        
+                        <pb n="5v" break="no"/>
+                        
+                        <pb n="6r"/>        
+                        
+                        <pb n="6v" break="no"/>        
+                        
+                        <pb n="7r" break="no"/>
+                        <lb n="7r1=81" break="no"/>ramaṅ<unclear>·</unclear>kalat<unclear>·</unclear>tu ni<supplied reason="lost">la</supplied>m-āka Ik<unclear>·</unclear>-kāluḷ<unclear>·</unclear> kuṟ<supplied reason="lost">·</supplied>ṟ-ē<unclear>tta</unclear> <gap reason="lost" quantity="10" unit="character" precision="low"/>
+                        <lb n="7r2=82"/>...
+                        <lb n="7r3=83"/>...
+                        <lb n="7r4=84"/>...
+                        <lb n="7r5=85" break="no"/>p-puṟam<unclear>·</unclear> <surplus>k<unclear>·</unclear></surplus> koṇ·ṭu vaḻipāṭu ...
+                        <lb n="7r6=86" break="no"/>m<unclear>·</unclear> koṇ<unclear>·</unclear>ṭu pu ...
+                        <lb n="7r7=87"/>...
+                        <lb n="7r8=88"/>...
+                        
+                        <pb n="7v" break="no"/>
+                        <lb n="7v1=89" break="no"/>k-kāt<unclear>·</unclear>tu koṭuk<unclear>·</unclear>ka <g type="gomutraFinal">.</g>
+                        
+                    </p> 
+                    
+                    <lg n="23" met="indravajrā">
+                        <l n="a">Asyā<supplied reason="omitted">ḥ</supplied> praśaster avat <seg met="-+-+="><gap reason="lost" unit="character" quantity="4"/></seg></l>
+                        <l n="b"><seg met="++-++--+-+="><gap reason="lost" unit="character" quantity="11"/></seg></l>
+                        <l n="c">somaś ca yasyās sahavāsa-bandhus </l>
+                        <l n="d">tra<unclear>ya</unclear> <seg met="-++--+-+="><gap reason="lost" unit="character" quantity="9"/></seg></l>
+                    </lg>
+                    
+                    <lg n="24" met="anuṣṭubh">
+                        <l n="a"><seg met="===="><gap reason="lost" unit="character" quantity="4"/></seg>hma-dattañ ca</l>
+                        <l n="b">dvidhā bhaktiñ ca pātu yaḥ</l>
+                        <l n="c">mac-chiram ma <seg met="-++="><gap reason="lost" unit="character" quantity="4"/></seg></l>
+                        <l n="d"><seg met="====-+-="><gap reason="lost" unit="character" quantity="8"/></seg></l>
+                    </lg>
+                    
+                    <lg n="25" met="anuṣṭubh">
+                        <l n="a"><supplied reason="lost">brahma-sva-pari<lb n="7v4=92" break="no"/>puṣṭāni</supplied></l>
+                        <l n="b">vāhanāni mahīpate</l>
+                        <l n="c">yuddha-kāl<unclear>e</unclear> <supplied reason="lost">viśīryante</supplied></l>
+                        <l n="d"><supplied reason="lost">saikatāḥ setavo yathā</supplied></l>
+                    </lg>
+                    
+                    <lg n="26" met="anuṣṭubh">
+                        <l n="a"><lb n="7v5=93"/>deva-svam br<choice><sic>a</sic><corr>ā</corr></choice>hmaṇa-svañ ca</l>
+                        <l n="b">lobhenopahin asti <unclear>ya</unclear><supplied reason="omitted">ḥ</supplied></l>
+                        <l n="c"><seg met="====-++="><gap reason="lost" unit="character" quantity="8"/></seg></l>
+                        <l n="d"><seg met="=="><gap reason="lost" unit="character" quantity="2"/></seg> <lb n="7v6=94" break="no"/>cchiṣṭena jīvati <g type="gomutraFinal">.</g></l>
+                    </lg>
+                    
+                    <lg n="27" met="anuṣṭubh">
+                        <l n="a">bhūmi-dānāt paran dānam</l>
+                        <l n="b">na bhūt<choice><sic>o</sic><corr>aṁ</corr></choice> na bhavi<supplied reason="lost">ṣyati</supplied></l>
+                        <l n="c"><supplied reason="lost">tasyaiva haraṇāt pāpaṁ</supplied></l>
+                        <l n="d"><supplied reason="lost">na</supplied><lb n="7v7=95"/>bhūt<choice><sic>o</sic><corr>aṁ</corr></choice> na bhaviṣyati <g type="ddanda">.</g> <g type="spiral">.</g> <g type="ddanda">.</g></l>
+                    </lg>
+                    
+                    <p>...</p>
+                    
+                </div>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+                <div type="textpart" n="B">
+                    
+                    <head xml:lang="eng">Plates</head>
+                    
+                    <listApp>
+                        
+                        <!--
+                            <app loc="0">
+                            <lem>...</lem>
+                            <rdg source="bib:Hultzsch1890_01">...</rdg>                
+                            <rdg source="bib:Hultzsch1923-1924_05">...</rdg>
+                            <note>...</note>
+                            </app>
+                        -->
+                        
+                        <app loc="85">
+                            <lem>ppuṟam<unclear>·</unclear> <surplus>k<unclear>·</unclear></surplus> koṇ·ṭu</lem>
+                            <rdg source="bib:Hultzsch1890_01">ppura<unclear>m</unclear>kkoṇṭu</rdg>
+                            <note>Alternative reading: <foreign>p-puṟam-<supplied reason="omitted">ā</supplied>ka koṇ·ṭu</foreign></note>
+                        </app>
+                        
+                        <app loc="89">
+                            <lem>avat</lem>
+                            <rdg source="bib:Hultzsch1890_01">ava<unclear>tā</unclear></rdg>                
+                            <rdg source="bib:Brocquet1997_01">va<unclear>tā</unclear></rdg>
+                        </app>
+                        
+                        <app loc="91-92">
+                            <lem><supplied reason="lost">brahma ... yathā</supplied></lem>
+                            <note>Text restored after stanza 33 in Sircar’s list (<bibl><ptr target="bib:Sircar1965_01"/></bibl>, p. 181).</note>
+                        </app>
+                        
+                    </listApp>
+                    
+                </div>
+                
+            </div>
+            
+            <div type="translation" source="bib:Brocquet1997_01">
+                
+                <p>...</p>
+                
+                <p rend="stanza" n="23">
+                    <l>...</l>
+                </p>
+                <p rend="stanza" n="24">
+                    <l>...</l>
+                </p>
+                <p rend="stanza" n="25">
+                    <l>O king, the mounts</l>
+                    <l><supplied reason="lost">accrued from the wealth of brahmins</supplied></l>
+                    <l><supplied reason="lost">crumble</supplied> in time of war</l>
+                    <l><supplied reason="lost">like dams/bridges made of sand</supplied>.</l>
+                </p>
+                <p rend="stanza" n="26">
+                    <l>...</l>
+                </p>
+                <p rend="stanza" n="27">
+                    <l>A gift superior to the gift of land</l>
+                    <l>There has not been and there won’t be.</l>
+                    <l><supplied reason="lost">Therefore a sin <supplied reason="subaudible">superior</supplied> to seizing it</supplied></l>
+                    <l>There has not been and there won’t be.</l>
+                </p>
+                
+            </div>
+            
+            <div type="commentary"/>
+            
+            <div type="bibliography">
+                
+                <p>Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.151). Revised edition of plates 3-4 in <bibl><ptr target="bib:Hultzsch1923-1924_05"/></bibl>. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 46). Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 33). Visual documentation in SII 2 (plates XI-XII).</p>
+                <p>This revised edition by Emmanuel Francis, based on photos (2008, by Emmanuel Francis, by courtesy of Chennai Government Museum).</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII1">
+                        <ptr target="bib:Hultzsch1890_01"/>
+                    </bibl>
+                    
+                    <bibl n="SII2">
+                        <ptr target="bib:Hultzsch+al1916_01"/>
+                    </bibl>
+                    
+                    <bibl n="EI">
+                        <ptr target="bib:Hultzsch1923-1924_05"/>
+                    </bibl>        
+                    
+                    <bibl n="IP">
+                        <ptr target="bib:Mahalingam1988_01"/>
+                        <citedRange unit="page">152-161</citedRange>
+                        <citedRange unit="item">53</citedRange>
+                    </bibl>
+                    
+                    <bibl n="B">
+                        <ptr target="bib:Brocquet1997_01"/>
+                        <citedRange unit="page">512-531</citedRange>
+                        <citedRange unit="item">37</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:Francis2013_01"/>
+                        <citedRange unit="page">278</citedRange>
+                        <citedRange unit="item">IR 36</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:Sircar1965_01"/>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>
