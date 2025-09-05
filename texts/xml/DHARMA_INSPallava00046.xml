@@ -115,9 +115,12 @@
                         
                         <pb n="6v" break="no"/>        
                         
+                        <lb n="6v8=80" break="no"/>... <supplied reason="lost">paramēcu</supplied>
+                        
+                        
                         <pb n="7r" break="no"/>
-                        <lb n="7r1=81" break="no"/>ramaṅ<unclear>·</unclear>kalat<unclear>·</unclear>tu ni<supplied reason="lost">la</supplied>m-āka Ik<unclear>·</unclear>-kāluḷ<unclear>·</unclear> kuṟ<supplied reason="lost">·</supplied>ṟ-ē<unclear>tta</unclear> <gap reason="lost" quantity="10" unit="character" precision="low"/>
-                        <lb n="7r2=82"/>...
+                        <lb n="7r1=81" break="no"/>vara-maṅ<unclear>·</unclear>kalat<unclear>·</unclear>tu ni<supplied reason="lost">la</supplied>m-āka Ik<unclear>·</unclear>-kāluḷ<unclear>·</unclear> kuṟ<supplied reason="lost">·</supplied>ṟ-ē<unclear>tta</unclear> <gap reason="lost" quantity="20" unit="character" precision="low"/>
+                        <lb n="7r2=82"/>maiyum· nāṭ<unclear>ā</unclear>ḻ·c·ciyu<unclear>ṉ</unclear> nāṭ<unclear>·</unclear>ṭu-p<unclear>·</unclear> paṇ<unclear>·</unclear>ṇik<unclear>·</unclear>keyu<unclear>m</unclear> <gap reason="lost" quantity="20" unit="character" precision="low"/>
                         <lb n="7r3=83"/>...
                         <lb n="7r4=84"/>...
                         <lb n="7r5=85" break="no"/>p-puṟam<unclear>·</unclear> <surplus>k<unclear>·</unclear></surplus> koṇ·ṭu vaḻipāṭu ...
@@ -191,6 +194,7 @@
                         <app loc="85">
                             <lem>ppuṟam<unclear>·</unclear> <surplus>k<unclear>·</unclear></surplus> koṇ·ṭu</lem>
                             <rdg source="bib:Hultzsch1890_01">ppura<unclear>m</unclear>kkoṇṭu</rdg>
+                            <rdg source="bib:Subrahmanian1966_01">ppura<unclear>ma</unclear>k koṇṭu</rdg>
                             <note>Alternative reading: <foreign>p-puṟam-<supplied reason="omitted">ā</supplied>ka koṇ·ṭu</foreign></note>
                         </app>
                         
@@ -260,6 +264,11 @@
                         <ptr target="bib:Hultzsch1923-1924_05"/>
                     </bibl>        
                     
+                    <bibl n="TPC">
+                        <ptr target="bib:Subrahmanian1966_01"/>
+                        <citedRange unit="page">33-60</citedRange>
+                    </bibl>
+                                        
                     <bibl n="IP">
                         <ptr target="bib:Mahalingam1988_01"/>
                         <citedRange unit="page">152-161</citedRange>
