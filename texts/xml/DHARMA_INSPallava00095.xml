@@ -85,46 +85,46 @@
             <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                 <!--Add milestones for blocks-->
                 
-                <div type="textpart" subtype="item" n="1">
+                <div type="textpart" subtype="item" n="A">
                     
                     <ab>
-                        <milestone n="1" unit="zone" type="pagelike"/><lb n="1"/>svasti śrī
+                        <milestone n="1" unit="zone" type="pagelike"/><lb n="A1"/>svasti śrī
                     </ab>
                     <lg met="śārdūlavikrīḍita" n="1">
                         <l n="a">Evaṁ vāstv abhavat· mahat· pravigatan nāmnā ca jāty-ādinā</l> 
-                        <l n="b">yenāsmin· bahubhir yyathāgama-vidhair ggrāme prayo<milestone n="2" unit="zone" type="pagelike" break="no"/><lb n="1"/>gānvitai<orig>ś</orig></l>
+                        <l n="b">yenāsmin· bahubhir yyathāgama-vidhair ggrāme prayo<milestone n="2" unit="zone" type="pagelike" break="no"/>gānvitai<orig>ś</orig></l>
                         <l n="c">śrīmat·-pāṭaka-vāsinā kṛta-dhiyā takṣṇā sadā vāgminā</l> 
-                        <l n="d">tenedam· <milestone n="3" unit="zone" type="pagelike"/><lb n="1"/> parameśvareṇa mahatā yo v<choice><sic>a</sic><corr>ā</corr></choice>stuno bhāskaraḥ <g type="gomutraFinal">.</g></l>
+                        <l n="d">tenedam· <milestone n="3" unit="zone" type="pagelike"/> parameśvareṇa mahatā yo v<choice><sic>a</sic><corr>ā</corr></choice>stuno bhāskaraḥ <g type="gomutraFinal">.</g></l>
                     </lg>
                     
                 </div>
                 
-                <div type="textpart" subtype="item" n="2">
+                <div type="textpart" subtype="item" n="B">
                     
                     <ab>
-                        <lb n="1"/>svasti śrī
+                        <lb n="B1"/>svasti śrī
                     </ab>
                     
                     <lg met="anuṣṭubh" n="2">
                         <l n="a">Asyālaṁkāra-mānañ ca</l> 
                         <l n="b">yathā lakṣaṇa-saṁyutam·</l>
                         <l n="c">yaḥ kaścid vetti saka<orig>ḷ</orig>am· </l>
-                        <l n="d">sa vai v<choice><sic>a</sic><corr>ā</corr></choice>stu-vidāṁ va‡raḥ</l></lg>
+                        <l n="d">sa vai v<choice><sic>a</sic><corr>ā</corr></choice>stu-vidāṁ varaḥ</l></lg>
                 </div>
                 
             </div>
             <div type="apparatus">
                 
-                <div type="textpart" subtype="item" n="1">
+                <div type="textpart" subtype="item" n="A">
                     
                     <listApp>
                         
-                        <app loc="1">
+                        <app loc="A1">
                             <lem>svasti śrī</lem>
                             <rdg source="bib:SubrahmanyaAiyer1928_01">svasti śrī <g type="ddanda">.</g></rdg><!--Check markup for punctuation-->
                         </app> 
                         
-                        <app loc="1">
+                        <app loc="A1">
                             <lem>v<choice><sic>a</sic><corr>ā</corr></choice>stuno</lem>
                             <rdg source="bib:SubrahmanyaAiyer1928_01">vastuno</rdg>
                         </app> 			
@@ -133,27 +133,27 @@
                     </listApp>
                 </div>
                 
-                <div type="textpart" subtype="item" n="2">
+                <div type="textpart" subtype="item" n="B">
                     
                     <listApp>
                         
-                        <app loc="1">
+                        <app loc="B1">
                             <lem>svasti śrī</lem>
                             <rdg source="bib:SubrahmanyaAiyer1928_01">svasti śrī <g type="ddanda">.</g></rdg><!--Check markup for punctuation-->
                         </app>
                         
-                        <app loc="1">
+                        <app loc="B1">
                             <lem>Asyālaṁkāra-mānañ ca</lem>
                             <rdg source="bib:Brocquet1997_01">Asyālaṁkāram ānañca</rdg>
                         </app>
                         
-                        <app loc="1">
+                        <app loc="B1">
                             <lem>saka<orig>ḷ</orig>am·</lem>
                             <rdg source="bib:Brocquet1997_01">sakalam·</rdg>
                         </app>
                         
-                        <app loc="1">
-                            <lem>va‡raḥ</lem>
+                        <app loc="B1">
+                            <lem>varaḥ</lem>
                             <rdg source="bib:SubrahmanyaAiyer1928_01">varaḥ <g type="ddanda">.</g></rdg><!--Check markup for punctuation-->
                         </app> 
                         
@@ -164,9 +164,9 @@
             
             <div type="translation" resp="part:emfr">
                 
-                <div type="textpart" subtype="item" n="1">
+                <div type="textpart" subtype="item" n="A">
                     
-                    <p n="1">
+                    <p n="A1">
                         Prosperity! Fortune!
                     </p>
                     <p rend="stanza" n="1">
@@ -175,9 +175,9 @@
                     
                 </div>
                 
-                <div type="textpart" subtype="item" n="2">
+                <div type="textpart" subtype="item" n="B">
                     
-                    <p>Prosperity! Fortune!</p>
+                    <p n="B1">Prosperity! Fortune!</p>
                     <p rend="stanza" n="2">
                         <l>The ornaments and measurements of this <supplied reason="subaudible">temple</supplied> as well as its characteristics, whoever knows/masters them fully is really the best among those knowledgeable in architecture.</l>
                     </p>
@@ -186,9 +186,9 @@
             
             <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
                 
-                <div type="textpart" subtype="item" n="1">
+                <div type="textpart" subtype="item" n="A">
                     
-                    <p n="1">Salut ! Prospérité !</p>
+                    <p n="A1">Salut ! Prospérité !</p>
                     <p rend="stanza" n="1">
                         <l>Celui grâce à qui naquit ainsi ce grand édifice,<!--ADD translation of pravigatan nāmnā ca jāty-ādinā--></l>
                         <l>En ce village, avec l’aide de nombreux spécialistes, œuvrant selon la tradition et doués d’une expérience, pratique,</l>
@@ -198,9 +198,9 @@
                     
                 </div>
                 
-                <div type="textpart" subtype="item" n="2">
+                <div type="textpart" subtype="item" n="B">
                     
-                    <p>Salut ! Prospérité !</p>
+                    <p n="B1">Salut ! Prospérité !</p>
                     <p rend="stanza" n="2">
                         <l>Il devint l’ornement de ce monument,<!--réviser traduction?--></l>
                         <l>Puisque quiconque, en même temps que les signes,</l>
@@ -212,14 +212,14 @@
             
             <div type="translation" xml:lang="fra" source="bib:Gros+Nagaswamy1970_01">
                 
-                <div type="textpart" subtype="item" n="1">
+                <div type="textpart" subtype="item" n="A">
                     
-                    <p>Ainsi fut créé un grand édifice, célébré pour son nom et sa classe, dans ce village, par des bien des gens, avec dextérité et selon les <foreign>āgama</foreign> <supplied reason="subaudible">et</supplied>, par cet architecte <supplied reason="explanation"><foreign>takṣan</foreign></supplied> résident de Pāṭaka, intelligent et au verbe sûr, le Grand Parameśvara, soleil de l'architecture <supplied reason="explanation"><foreign>vastu</foreign></supplied>.</p>
+                    <p n="A1">Ainsi fut créé un grand édifice, célébré pour son nom et sa classe, dans ce village, par des bien des gens, avec dextérité et selon les <foreign>āgama</foreign> <supplied reason="subaudible">et</supplied>, par cet architecte <supplied reason="explanation"><foreign>takṣan</foreign></supplied> résident de Pāṭaka, intelligent et au verbe sûr, le Grand Parameśvara, soleil de l'architecture <supplied reason="explanation"><foreign>vastu</foreign></supplied>.</p>
                 </div>
                 
-                <div type="textpart" subtype="item" n="2">
+                <div type="textpart" subtype="item" n="B">
                     
-                    <p>Les mesures <supplied reason="explanation"><foreign>māna</foreign></supplied> et les ornements <supplied reason="explanation"><foreign>alaṁkāra</foreign></supplied> de ce temple, en conformité avec les définitions <supplied reason="explanation"><foreign>lakṣaṇa</foreign></supplied>; qui les comprend toutes est vraiment le meilleur des connaisseurs en architecture <supplied reason="explanation"><foreign>vastu</foreign></supplied>.</p>
+                    <p n="B1">Les mesures <supplied reason="explanation"><foreign>māna</foreign></supplied> et les ornements <supplied reason="explanation"><foreign>alaṁkāra</foreign></supplied> de ce temple, en conformité avec les définitions <supplied reason="explanation"><foreign>lakṣaṇa</foreign></supplied>; qui les comprend toutes est vraiment le meilleur des connaisseurs en architecture <supplied reason="explanation"><foreign>vastu</foreign></supplied>.</p>
                 </div>
                 
             </div>
@@ -227,10 +227,10 @@
             <div type="commentary"><!--update!-->
                 
                 <p>The two verses are edited here from left to right, as both verses appear on the base. Previous editions have the verses in reversed order. NB: the FS in SII reverses the logical/physical succession of verses.</p>
-                <!--<div type="textpart" subtype="item" n="1">
+                <!--<div type="textpart" subtype="item" n="A">
                     <p n="1"><foreign>yyathāgama-vidhair</foreign>. Selon EITA I.1, p. 92 : le texte consulté serait le Vaikhānasāgama tel que fourni par Marīci dans son Vimānārcanakalpa (cf. Colas 1986, p. 3 : MarīciS ou Vimānārcanakalpa, voire Vaikhānasāgama). Colas (1986, p. 59) se demande s’il faut prendre <foreign>āgama</foreign> au sens général de « tradition » ou au sens de tradition āgamique (avec ou sans connotation sectaire).</p>
                 </div>-->
-                <!--<div type="textpart" subtype="item" n="2">
+                <!--<div type="textpart" subtype="item" n="B">
                     <p>Gros &amp; Nagaswamy (1970 : 80-81) : Sur l’architecte Parameśvara. Originaire de Pāṭaka, quartier de Kāñcī mentionné plusieurs fois dans les inscriptions. Parameśvara est aussi le titre du prédécesseur de Nandivarman II. L’architecte (mahākaṣṭakāri [voir si et comment il est dénommé dans la potion Ta ?] Parameśvara a écrit les tablettes de KSK de Nandivarman II et devait être un architecte royal réputé. Le VKP, attribué généralement à Nandivarman II, est dénommé Parameśvaraviṇṇagaram [dans les inscriptions et NTP] et comporte comme le SundaravardaP d’Uttaramērūr trois étages. Pas impossible donc que le même Parameśvara Peruntaccan ait construit le VKP de Kāñcī [comprend donc que le nom dériverait de l’architecte ?] et vu sa renommée se soit vu confier le SundaravardaP d’Uttaramērūr, qui serait une fondation des dernières années de Nandivarman II [la plus ancienne inscription = AR 10 de Dantivarman] et dont le nom originel est sans doute Śrīveḷi Viṣṇugṛha mentionné dans plusieurs inscriptions (pas improbable que Śrīveḷi ait été aussi un titre de Nandivarman II).</p>
                 </div> -->
                 
