@@ -201,6 +201,7 @@
                 <p>
                     Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1925-1926_01"/></bibl> (EI 18.14).
                     Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 90).
+                    Edited in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>.
                     Sanskrit text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 58).
                 </p>
                 
@@ -210,6 +211,11 @@
                     
                     <bibl n="EI">
                         <ptr target="bib:SubrahmanyaAiyer1925-1926_01"/>
+                    </bibl>                    
+                    
+                    <bibl n="TPC">
+                        <ptr target="bib:Subrahmanian1966_01"/>
+                        <citedRange unit="page">237-248</citedRange>
                     </bibl>
                     
                     <bibl n="IP">

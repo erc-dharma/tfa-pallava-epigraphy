@@ -247,7 +247,14 @@
             
             <div type="bibliography">
                 
-                <p>Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.151). Revised edition of plates 3-4 in <bibl><ptr target="bib:Hultzsch1923-1924_05"/></bibl>. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 46). Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 33). Visual documentation in SII 2 (plates XI-XII).</p>
+                <p>
+                    Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.151).
+                    Revised edition of plates 3-4 in <bibl><ptr target="bib:Hultzsch1923-1924_05"/></bibl>.
+                    Edited in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>.
+                    Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 46).
+                    Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 33).
+                    Visual documentation in SII 2 (plates XI-XII).
+                </p>
                 <p>This revised edition by Emmanuel Francis, based on photos (2008, by Emmanuel Francis, by courtesy of Chennai Government Museum).</p>
                 
                 <listBibl type="primary">

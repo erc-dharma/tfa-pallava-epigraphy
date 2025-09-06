@@ -640,6 +640,7 @@
                 <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/A/1939-1940/9), in <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 83).</p>
                 <p>
                     Edited in Tamil script by <bibl><ptr target="bib:Mahalingam1965-1966_01"/></bibl> (EI 36.20).
+                    Edited in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>.
                     Text (with many typos) and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 81).
                     Sanskrit text (based on the very imperfect edition in<bibl><ptr target="bib:Mahalingam1988_01"/></bibl>) and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 56).</p>
                 <p>This revised edition by Emmanuel Francis, based on previous edition(s), published visual documentation and online photos.</p>
@@ -648,7 +649,12 @@
                     
                     <bibl n="EI">
                         <ptr target="bib:Mahalingam1965-1966_01"/>
-                    </bibl>         
+                    </bibl>
+                    
+                    <bibl n="TPC">
+                        <ptr target="bib:Subrahmanian1966_01"/>
+                        <citedRange unit="page">181-204</citedRange>
+                    </bibl>
                     
                     <bibl n="IP">
                         <ptr target="bib:Mahalingam1988_01"/>

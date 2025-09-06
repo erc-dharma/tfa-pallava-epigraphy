@@ -254,13 +254,23 @@
             <div type="commentary"/>
             
             <div type="bibliography">
-                <p>Edited in <bibl><ptr target="bib:Sircar+SeshadriShastri1957-1958_01"/></bibl> (EI 32.9), with visual documentation. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 45). Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 32).</p>
+                <p>
+                    Edited in <bibl><ptr target="bib:Sircar+SeshadriShastri1957-1958_01"/></bibl> (EI 32.9), with visual documentation.
+                    Edited in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>.
+                    Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 45).
+                    Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 32).
+                </p>
                 <p>This revised edition by Emmanuel Francis, based on the published visual documentation.</p>
                 
                 <listBibl type="primary">
                     
                     <bibl n="EI">
                         <ptr target="bib:Sircar+SeshadriShastri1957-1958_01"/></bibl>
+                    
+                    <bibl n="TPC">
+                        <ptr target="bib:Subrahmanian1966_01"/>
+                        <citedRange unit="page">61-74</citedRange>
+                    </bibl>
                     
                     <bibl n="IP">
                         <ptr target="bib:Mahalingam1988_01"/>

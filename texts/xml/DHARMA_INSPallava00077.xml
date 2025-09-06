@@ -799,6 +799,7 @@
                 
                 <p>
                     Edited in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.73).
+                    Edited in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>.
                     Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 77).
                     Sanskrit text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 55).
                 </p>
@@ -811,6 +812,11 @@
                         <ptr target="bib:Hultzsch1895_01"/>
                         <citedRange unit="page">342-361</citedRange>
                         <citedRange unit="item">73</citedRange>
+                    </bibl>
+                    
+                    <bibl n="TPC">
+                        <ptr target="bib:Subrahmanian1966_01"/>
+                        <citedRange unit="page">141-180</citedRange>                    
                     </bibl>
                     
                     <bibl n="IP">

@@ -5,508 +5,518 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Hīrahaḍagaḷḷi plates, time of Śiva-Skandavarman, year 8 </title>
-				<respStmt>
-					<resp>author of digital edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">DHARMA_INSPallava00003</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary>Confirmation of the grant, with exemptions, of a garden in Cillarekakoḍuṁka to 24 Brahmins, and further grant of lands, seemingly in Āpiṭṭī.</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>See <bibl><ptr target="bib:Buhler1892_01"
-								/></bibl> (EI 1.1, p. 2).</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union's Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2023-09-12" status="draft">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-      <body>
-
-<div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209">
-	
-	<div type="textpart" xml:lang="san-Latn" n="A">
-		<head xml:lang="eng">Seal</head>
-		
-		<p>
-			<lb n="1"/><supplied reason="lost">śivaskandavarmmaṇaḥ</supplied>
-		</p>
-		
-	</div>
-	
-	<div type="textpart" xml:lang="pra-Latn" n="B">
-		
-		<head xml:lang="eng">Plates</head>
-		
-		<ab>
-			<pb n="1r"/>
-			<lb n="1"/>diṭhaṁ
-		</ab>
-		
-		<ab>
-		<pb n="1v"/>
-		<fw place="left" n="1r"><hi rend="grantha">siddhaM <g type="ddanda">.</g></hi></fw>
-	</ab>	
-		
-		<p>			
-			<lb n="1v1=1"/>k<choice><sic>o</sic><corr>ā</corr></choice>ṁcīpurā Aggiṭ<choice><sic>th</sic><corr>ṭh</corr></choice>oma-vājapeyassamedha-yājī dhamma-mahā
-			<lb n="1v2=2" break="no"/>rājādhirājo bhāraddāyo pallavāṇ<choice><sic>a</sic><corr>ā</corr></choice><supplied reason="omitted">ṁ</supplied> sivakhaṁdavamo
-			<lb n="1v3=3"/>Amhaṁ visaye savattha rājakumāra-senāpati <space/>
-						
-			<pb n="2r" break="no"/>
-			
-			<lb n="2r1=4"/>raṭṭh<unclear>i</unclear>ka-māḍabi<unclear reason="eccentric_ductus">ka</unclear>-desādhikatādīke gāmāgāmabhojake
-			<lb n="2r2=5"/>vallave govallave Amacce Ārakhādhikate gumike tūthike	
-			<lb n="2r3=6"/>neyike Anne vi ca Amha-pesa<unclear>ṇa</unclear>-ppayutte saṁcaraṁtaka
-			<lb n="2r4=7"/>bhaḍamaṇusā ṇa<gap quantity="3" unit="character" reason="illegible"/>
-		</p>
-		
-		<p>
-			parihāraṁ vitarāma Ettha dāṇi						
-			<pb n="2v"/>
-			
-			<lb n="2v1=8"/>Āpiṭṭ<choice><unclear>i</unclear><unclear>ī</unclear></choice>-vatthavāṇa cillareka-koḍuṁka-bhojaka-bamhaṇān<choice><sic>a</sic><corr>ā</corr></choice>ṁ Appa
-			<lb n="2v2=9" break="no"/>ṇa kula-gottasa dhamāyu-bala-yaso-vadhanike vijaya-vejayīke	
-			<lb n="2v3=10"/>ca kātūṇam Appatihata-sāsaṇassa Aneka-hirogo-koḍi
-			<lb n="2v4=11" break="no"/>go-hala-sata-sahassa-ppadāyino mahārāja-bappa-sāmīhi
-			
-			
-			<pb n="3r"/>
-			<fw place="left" n="3r">3</fw>
-			
-			<lb n="3r1=12"/>vāṭaka cillareka-koḍuṁke puvvadattaṁ golasamajasa patībhāgo 1
-			<lb n="3r2=13"/>Ātteya-sagottasa Agisamajassa patībhāgā 4	
-			<lb n="3r3=14"/>māḍharasa patībhāgā be 2 jāmātukasa Agillasa patī
-			<lb n="3r4=15" break="no"/>bhāgo 1 hārita-sagotasa kālasamasa pat<surplus>t</surplus>ībhāgā 3 
-			
-			<pb n="3v"/>
-			
-			<lb n="3v1=16"/>bhāradāya-sagottassa kumārasamasa patībhāgā 2 kosik<choice><sic>ā</sic><corr>a</corr></choice>
-			<lb n="3v2=17" break="no"/>sagotasa kumāranaṁdi-kumārasama-koṭṭasama-sattissa ca	
-			<lb n="3v3=18"/>catuṇhaṁ bhātukāṇa cattāri pat<surplus>t</surplus>ībhāgā 4 kasava-sagotta
-			<lb n="3v4=19" break="no"/>sa bhaṭisa patībhāgo 1 bhāradāyasa khaṁdakoṁḍisa
-			
-			<pb n="4r"/>
-			<fw place="left" n="4r">4</fw>
-			
-			<lb n="4r1=20"/><unclear reason="eccentric_ductus">pa</unclear>tībhāgā be 2 khaṁdaḍhasa patībhago 1 bappasa
-			<lb n="4r2=21"/>pat<surplus>t</surplus>ībhāgo 1 dattajasa patībhāgā be 2 naṁdijasa	
-			<lb n="4r3=22"/>patībhāgā 3 vatsa-sagotasa rudasamasa patī
-			<lb n="4r4=23" break="no"/>bhāgo 1 dāmajasa patībhāgo 1 sālasamaja<unclear reason="eccentric_ductus">sa</unclear> patī			
-			<lb n="4r5=24"/>bhāgo 1
-			
-			
-			<pb n="4v"/>
-			
-			<lb n="4v1=25"/>parimitasa patībhāgo 1 nāga-naṁdisa patibhāgo 1 golisa 
-			<lb n="4v2=26"/>patībhāgo 1 khaṁdasamasa patībhāgo 1 sāmijasa patībhāgo 1	
-		</p>
-		
-		<p>
-			<lb n="4v3=27"/>Etesi bamhaṇāṇ<unclear>ā</unclear>ṁ Agisamaja-pamukhāṇaṁ sātāhaniraṭṭhe
-			<lb n="4v4=28"/>gāme cillarekakoḍuṁke dakhiṇasīmaṁ puvvadattaṁ <space/>
-			
-			
-			<pb n="5r"/>
-			<fw place="left" n="5r">5</fw>
-						
-			<lb n="5r1=29"/>Amhehi vi Ā-canda-tāra-kālika kātūṇaṁ Udakādiṁ saṁpa
-			<lb n="5r2=30" break="no"/>datto
-		</p>
-		
-		<p>
-			Etaṁ bamhaṇāṇaṁ cil<supplied reason="omitted">l</supplied>erekakoḍuṁka-vāṭakam	
-			<lb n="5r3=31"/>Akūra-yollaka-vinesi-khaṭṭā-vāsaṁ A-dūdha-dadhi-gahaṇaṁ
-			<lb n="5r4=32"/>A-raṭṭha-saṁvinayikaṁ A-loṇa-<unclear reason="eccentric_ductus">gu</unclear>la-cchobhaṁ A-kara-veṭṭhī
-			
-			
-			<pb n="5v" break="no"/>
-			
-			<lb n="5v1=33"/>koṁjallaṁ A-paraṁpara-balivadda-gahaṇaṁ A-taṇa-kaṭṭha-gaha
-			<lb n="5v2=34" break="no"/>ṇaṁ A-haritaka-sāka-pupha-gahaṇaṁ Evamādīkehi Aṭṭhā	
-			<lb n="5v3=35" break="no"/>rasa-jāti-parihārehi visaya-vāsīhi Api
-			<lb n="5v4=36" break="no"/>ṭṭī-vāsīhi cillerekakoḍuṁka-vāsīhi ca pariharitavaṁ
-			
-			<pb n="6r"/>
-			<fw place="left" n="6r">6</fw>
-
-			<lb n="6r1=37"/>parihāpetavva ca tti
-		</p>
-		
-		<p>			
-			Api ca Āpiṭṭīyaṁ Agisamaja 
-			<lb n="6r2=38"/>pamukhāṇa bamhaṇāṇaṁ khalasa nivataṇaṁ gharassa nivata	
-			<lb n="6r3=39" break="no"/>ṇaṁ Addhikā cāttāri 4 kolikā be tti 2
-		</p>
-		
-		<p>			
-			Eva nātūṇaṁ
-			<lb n="6r4=40"/>Atha koci vallabhamadena pīlā bādhā kareyya kāravejo
-						
-			<pb n="6v"/>
-			
-			<lb n="6v1=41"/>vā tasa khu Amhe nigaha<surplus>ṁ</surplus>vāraṇa kareyyāma ti
-		</p>
-		
-		<p>
-			bhūyo ca
-			<lb n="6v2=42"/>varisa-sata-sahassātireka-samakāle Amhaṁ pallava	
-			<lb n="6v3=43"/>kalamahaṁtte bhavissabhaḍe Anne ca no
-			
-			
-			<pb n="7r"/>
-			<fw place="left" n="7r">7</fw>
-						
-			<lb n="7r1=44"/>vasudhādhipataye Abhatthemi jo sakakāle Upari
-			<lb n="7r2=45"/>likhita-majātāye Aṇuvaṭṭhāveti tasa	
-			<lb n="7r4=46"/>vo sammo ti yo ca si vigghe vaṭṭeja
-			
-				
-			<pb n="7v"/>
-			
-			<lb n="7v1=47"/>sa ca khu pañca-mahāpātaka-saṁjutto narādhamo
-			<lb n="7v2=48"/>hoja ti 			
-		</p>
-		
-		<p>
-			dat<supplied reason="omitted">t</supplied>ā paṭṭikā vāsa-satasahassāya
-		</p>
-		
-		<p>
-			<lb n="7v3=49"/>saṁva 8 vāsa 6 diva 5
-		</p>
-		
-		<p>
-			sayam āṇataṁ
-		</p>
-		
-		<p>					
-			<pb n="8r"/>
-			<fw place="left" n="8r">8</fw>
-									
-			<lb n="8r1=50"/>kolivāla-bhojakasa rahasādhikata-bhaṭṭisa
-			<lb n="8r2=51" break="no"/>mmasa sa-hattha-likhiteṇa paṭṭikā kaḍa tti
-		</p>
-		
-		<p>
-			<lb n="8r3=52"/>svasti go-brāhmaṇa-lekhaka-vācaka-śrotṛbhya Iti
-		</p>
-		
-		<pb n="8v"/>
-		
-	</div>
-	
-</div>
-
-<div type="apparatus">
-	
-	<div type="textpart" xml:lang="pra-Latn" n="A">
-		<head xml:lang="eng">Seal</head>
-		
-		<listApp>
-			
-			<app loc="1">				
-				<lem><supplied reason="lost">śivaskandavarmmaṇaḥ</supplied></lem>
-				<rdg source="bib:Buhler1892_01">śivaskandavarmmaṇaḥ</rdg>
-				<note>This is <ptr target="bib:Buhler1892_01"/> reading (page 9), but nothing is legible on the seal now kept with the plates in the Chennai Government Museum (2008). The same legend is found on the seal of another Pallava plate (<ref target="DHARMA_INSPallava00002.xml">Pallava 2</ref>).</note>
-			</app>
-			
-		</listApp>
-	</div>
-	
-	<div type="textpart" xml:lang="pra-Latn" n="B">
-		<head xml:lang="eng">Plates</head>
-		<listApp>
-			
-			<!--<app loc="0">
-				<lem>...</lem>
-				<rdg source="bib:Buhler1892_01">...</rdg>
-				<rdg source="bib:Leumann1894_01">...</rdg>
-				<rdg source="bib:Sircar1965_02">...</rdg>	
-			</app>-->
-			
-			<app loc="1">
-				<lem>k<choice><sic>o</sic><corr>ā</corr></choice>ṁcīpurā</lem>
-				<rdg source="bib:Buhler1892_01">kāṁcīpurā</rdg>				
-				<rdg source="bib:Sircar1965_02">koṁcīpurā</rdg>
-				<note>Alternatively, one can follow <ptr target="bib:Buhler1892_01"/>, considering that what is taken as the left component of medial <foreign>o</foreign> is just a defect on the plate.</note>
-			</app>
-			
-			<app loc="1">
-				<lem>Aggiṭ<choice><sic>th</sic><corr>ṭh</corr></choice>oma°</lem>
-				<rdg source="bib:Buhler1892_01">Aggitthoma°</rdg>
-				<rdg source="bib:Leumann1894_01">Aggiṭthoma°</rdg>				
-				<rdg source="bib:Buhler1894_05">Aggiṭthoma°</rdg>
-				<rdg source="bib:Sircar1965_02">Aggiṭṭhoma°</rdg>				
-				<note>The original reading is <foreign>ṭtha</foreign>, as indicated by the dot inside the <foreign>tha</foreign> of this ligature.</note>
-			</app>
-			
-			<app loc="2">
-				<lem>pallavāṇ<choice><sic>a</sic><corr>ā</corr></choice><supplied reason="omitted">ṁ</supplied></lem>
-				<rdg source="bib:Buhler1892_01 bib:Sircar1965_02">pallavāṇa</rdg>
-			</app>
-			
-			<app loc="4">
-				<lem>raṭṭh<unclear>i</unclear>ka°</lem>
-				<rdg source="bib:Buhler1892_01">raṭṭhika°</rdg>
-				<rdg source="bib:Sircar1965_02">raṭṭh<choice><sic>a</sic><corr>i</corr></choice>ka°</rdg>
-				<note><ptr target="bib:Buhler1892_01"/> notes that <quote>[t]he <foreign>i</foreign> of <foreign>raṭṭhika</foreign> is very faint</quote>. This medial <foreign>i</foreign> is not clear on the published estampage, but is more visible on the photos (2011).</note>
-			</app>
-			
-			<app loc="4">
-				<lem>°māḍabi<unclear reason="eccentric_ductus">ka</unclear>°</lem>
-				<rdg source="bib:Buhler1892_01">°mā<supplied reason="omitted">ṁ</supplied>ḍabi<choice><sic>nu</sic><corr>ka</corr></choice>°</rdg>
-				<rdg source="bib:Leumann1894_01">°mā<supplied reason="omitted">ṁ</supplied>ḍabika°</rdg>
-								
-				<rdg source="bib:Buhler1894_05">°mā<supplied reason="omitted">ṁ</supplied>ḍabi<choice><sic>nu</sic><corr>ka</corr></choice>°</rdg>
-				<rdg source="bib:Sircar1965_02">°māḍabi<unclear reason="eccentric_ductus">ka</unclear>°</rdg>
-				<note>The letter <foreign>ka</foreign> looks indeed like <foreign>nu</foreign>, since the left part of its horizontal crossbar is missing. <ptr target="bib:Buhler1894_05"/> notes that the emendation <foreign>māḍambika</foreign> is possible, but doubtful, given that is attested attested only in Jainz literature.</note>
-			</app>
-			
-			<app loc="5">
-				<lem>Ārakhādhikate</lem>
-				<rdg source="bib:Buhler1892_01"><choice><sic>Ā</sic><corr>a</corr></choice>raṇādhikate </rdg>
-				<rdg source="bib:Leumann1894_01 bib:Buhler1894_05">Āra<supplied reason="omitted">k</supplied>khādhikate </rdg>
-				<rdg source="bib:Sircar1965_02">Ārakhādhikate</rdg>
-				<note>The initial <foreign>Ā</foreign> is clear on the photos (2011), where a little hook is visible on its right side of letter)</note>
-			</app>
-			
-			<app loc="7">
-				<lem>bhaḍamaṇusā ṇa<gap quantity="3" unit="character" reason="illegible"/></lem>
-				<rdg source="bib:Buhler1892_01">bhaḍamaṇusāṇa <unclear>kaḍh</unclear><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg><unclear>o</unclear></seg></rdg>
-				<rdg source="bib:Sircar1965_02">bhaḍamaṇusā ṇa<unclear>kaḍhaso</unclear></rdg>
-				<note><ptr target="bib:Buhler1892_01"/> notes that his suggested reading <foreign><unclear>kaḍh</unclear><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg><unclear>o</unclear></seg></foreign> is <quote>very doubtful, with the exception of the last vowel</quote>. <ptr target="bib:Sircar1965_02"/> suggets to read <foreign>bhaḍamanuṣe āṇaveti</foreign>. A verbal predicate is indeed expected here to complete this first sentence.</note>
-			</app>
-			
-			<app loc="7">
-				<lem>parihāraṁ</lem>
-				<rdg source="bib:Buhler1892_01">pārihāraṁ</rdg>				
-				<rdg source="bib:Sircar1965_02">parihāraṁ</rdg>	
-			</app>
-						
-			<app loc="8">
-				<lem>Āpiṭṭ<choice><unclear>i</unclear><unclear>ī</unclear></choice>°</lem>
-				<rdg source="bib:Buhler1892_01">Āpiṭṭi°</rdg>
-				<rdg source="bib:Sircar1965_02"><unclear>Ā</unclear>piṭṭi°</rdg>	
-			</app>
-			
-			
-			
-			<app loc="37">
-				<lem>Āpiṭṭīyaṁ</lem>
-				<rdg source="bib:Buhler1892_01 bib:Sircar1965_02">Āpiṭṭīyaṁ</rdg>
-				<note>The <foreign>ī</foreign> in <foreign>ṭṭi</foreign> is not clear on the published estampage, but well visible on the photos (2011).</note>
-			</app>
-			
-			<app loc="40">
-				<lem>bādhā</lem>
-				<rdg source="bib:Buhler1892_01 bib:Sircar1965_02">bādhā</rdg>
-				<note>The <foreign>ā</foreign> in <foreign>dhā</foreign> is not clear on the published estampage, but well visible on the photos (2011).</note>
-			</app>
-			
-			<!--<app loc="0">
-				<lem>...</lem>
-				<rdg source="bib:Buhler1892_01">...</rdg>
-				<rdg source="bib:Leumann1894_01">...</rdg>
-				<rdg source="bib:Sircar1965_02">...</rdg>	
-			</app>-->
-						
-			<app loc="7">
-				<lem>Ettha</lem>
-				<rdg source="bib:Buhler1892_01">cattha</rdg>
-				<rdg source="bib:Leumann1894_01 bib:Buhler1894_05 bib:Sircar1965_02">Ettha</rdg>	
-			</app>
-						
-			<app loc="51">
-				<lem>kaḍa</lem>
-				<rdg source="bib:Buhler1892_01">kada</rdg>
-				<rdg source="bib:Sircar1965_02">kaḍa</rdg>
-				<note><ptr target="bib:Buhler1892_01"/> notes: <quote>Perhaps <foreign>kaḍa</foreign> is to be read.</quote></note>
-				
-			</app>
-			
-		</listApp>
-	</div>
-	
-</div>      	
-      				
-<div type="translation" source="bib:Buhler1892_01">
-	
-	<p n="1-7">Success!<note resp="part:emfr">Errata and corrigenda (EI 1, p. 479) taken into account.</note> From Kāṁcīpura—the righteous<note>Compare Mr. Fleet's grant, Indian Antiquary, vol. V, p. 155, line 17 of the transcript.</note> supreme king of great kings of the Pallavas Sivakhaṁdavama <supplied reason="explanation">Śivaskandavarman</supplied>, a Bhāraddāya<note>Compare Mr. Fleet's grant, Indian Antiquary, vol. V, p. 51, line 15 of the transcript, and <foreign>ibidem</foreign>, page 155, line 14 of the transcript, as well as vol. IX, p. 101, line 2 of the transcript, where <foreign>bhāraddāyassa</foreign> has to be read for <foreign>bhāraṭṭāyaṇa</foreign>.</note> <supplied reason="explanation">Bhāradvāja</supplied> an offerer of Agniṣṭoma, Vājapeya and Aśvamedha <supplied reason="explanation">sacrifices</supplied> <supplied reason="subaudible">issues the following orders</supplied>:</p>
-	
-	<p n="7-26"><quote>In our whole territory <supplied reason="subaudible">we send greetings</supplied><note>Two verbs have been left out, one in the third person singular after <foreign>sivakhaṁdavamo</foreign>, and one in the first person plural, or in the absolutive at the end of the list of officials. For the pronoun <foreign>amhaṁ</foreign> 'our' shows that a new sentence begins with line 3, and the words <foreign>vitarāma cattha dāṇi</foreign> prove that it must have stood in the first person plural or in the absolutive. The first verb was probably <foreign>āṇaveti</foreign> or some equivalent. The second may either have been a word expressing command, or, what I consider more likely, some expression implying greeting, such as are found in many other inscriptions.</note> to the royal princes, generals, rulers of districts, custom-house officers,<note>I consider the correction <foreign>māṇḍabika</foreign> as certain and take the word <foreign>maṇḍaba</foreign> or <foreign>maṇḍapa</foreign>, from which it has been derived, in the sense of the <foreign>māṇḍavī</foreign>, ‘custom house’—see Molesworth, Marāṭhī Dictionary, sub voce. The <foreign>śaulkika</foreign>s are frequently mentioned in Sanskrit inscriptions.</note> prefects of countries and others, to the freeholders of various villages,<note>That <foreign>bhojaka</foreign> does not mean ‘temple priest,’ but ‘ināmdār,’ or ‘freeholder,’ seems to follow from its use in line 8, where the donees are called <foreign>cillarekakoḍumkabhojaka</foreign>s, who lived in Āpiṭṭī, and in line 50, where the privy councillor Bhaṭṭisama receives the title <foreign>kolivālabhojake</foreign>. Such a despised personage as a temple priest could hardly become a minister. Professor Fausböll points out to me that <foreign>gāmāgāmabhojaka</foreign> may be rendered as above, as repetitions of the same word with a lengthening of the final vowel of the first are commonly used in Pāli in order to indicate the <foreign>vīpsā</foreign>.</note> to herdsmen, cowherds, ministers, foresters, <foreign>gumika</foreign>s, <foreign>tūthika</foreign>s, <foreign>neyika</foreign>s,<note>The first of the three words left untranslated corresponds to Sanskrit <foreign>gaulmika</foreign>. As <foreign>gulma</foreign> means both ‘a thicket’ and ‘a picket of soldiers,’ the derivative may denote either a kind of forest official or the leader of a <foreign>gulma</foreign> of warriors. <foreign>Tūthika</foreign> may be connected with Prākrit <foreign>tūha</foreign> ‘a Tīrtha,’ and means ‘overseers of fords’ or ‘of bathing places.’ With <foreign>neyika</foreign> compare <foreign>naiyokāḥ</foreign> in Mr. Fleet and Elliot's grant, Indian Antiquary, vol. V, p. 62, line 28 of the text. Mr. Fleet changes it to <foreign>niyuktāh</foreign>, which now seems a rather doubtful emendation. I suspect that <foreign>naiyokāḥ</foreign> is a mistake for <foreign>naiyikāḥ</foreign>, which would exactly correspond to <foreign>neyika</foreign>, and that both words are corruptions of Sanskrit <foreign>nāyaka</foreign>, commonly pronounced <foreign>nāick</foreign>. If this is correct, the term denotes a military officer of the rank of a corporal or a sergeant.</note> and all others employed in our service, to roaming <supplied reason="subaudible">spies</supplied> and warriors, <note><foreign>Saṁcarantaka</foreign> occurs also in Mr. Fleet's grant, loc. cit., line 29 of the text, and Mr. Fleet has translated it by 'travellers.' I believe that royal servants are meant, and that the word refers to the spies whom the Indian kings sent into the provinces to explore the behaviour of their officials,—see Manu, VII, 122.</note> and we grant here an immunity <supplied reason="subaudible"><foreign>viz.</foreign></supplied> the garden in Cillarekakoḍuṁka, which was formerly given by the great king, the lord Bappa,<note>The great king Bappa is probably the donor's father,—see Mr. Fleet's article, Indian Antiquary, vol. XV, p. 272ff.</note> a giver of many <foreign>kror</foreign>s of gold and of one hundred thousand ox-ploughs,<note>This may, of course, mean also 'one hundred thousand cows and <supplied reason="subaudible">the same number</supplied> of ploughs <supplied reason="subaudible">of land</supplied>,' Regarding the various kinds of the measure of land, called 'a plough,' see Kullūka on Manu, VII, 119.</note>—while he made <supplied reason="subaudible">the gift</supplied> a means of the increase of the merit, longevity, power and fame of <supplied reason="subaudible">his</supplied> own family and race—to the Brāhmans, free-holders of Cillarekakoḍuṁka <supplied reason="subaudible">and</supplied> inhabitants of Āpiṭṭi, <supplied reason="subaudible"><foreign>viz.</foreign></supplied> to Golasamaja <supplied reason="explanation">Golaśarmārya</supplied> one share of the produce,<note><foreign>Pattī</foreign>, <foreign>patti</foreign>, <foreign>patī</foreign>, and <foreign>pati</foreign> I take to be the representatives of Sanskrit <foreign>prāpti</foreign>, which means <foreign>āya</foreign>, 'produce,' or 'income.' It is of course possible that the garden was let and the rent divided among the donees.</note> to Agisamaja <supplied reason="explanation">Agniśarmārya</supplied> of the Ātteya <supplied reason="explanation">Ātreya</supplied> gotra four shares of the produce, to Māḍhara <supplied reason="explanation">Māṭhara</supplied> two shares of the produce, to <supplied reason="explanation">his</supplied> son-in-law (?) Agilla <supplied reason="explanation">Agnila</supplied> one share of the produce, to Kālasama <supplied reason="explanation">Kālaśarman</supplied> of the Hārita gotra two (?) shares of the produce, to Kumārasama <supplied reason="explanation">Kumāraśarman</supplied> of the Bhāradāya <supplied reason="explanation">Bhāradvāja</supplied> gotra two shares of the produce, to the four brothers Kumāranaṁdi <supplied reason="explanation">Kumāranandin</supplied>, Kumārasama <supplied reason="explanation">Kumāraśarman</supplied>, Koṭṭasama <supplied reason="explanation">Koṭṭaśarman</supplied> and Satti <supplied reason="explanation">Śakti</supplied> of the Kosika <supplied reason="explanation">Kauśika</supplied> gotra four (4) shares of the produce, to Bhaṭi <supplied reason="explanation">Bhaṭṭi</supplied> of the Kassava <supplied reason="explanation">Kāśyapa</supplied> gotra one share of the produce, to Khaṁdakoṁḍi <supplied reason="explanation">Skandakoṭi?</supplied> the Bhāradāya <supplied reason="explanation">Bhāradvāja</supplied> two shares of the produce, to Khaṁdaḍha <supplied reason="explanation">Skanda-ṛddha</supplied> one share of the produce, to Bappa one share of the produce, to Dattaja <supplied reason="explanation">Dattārya</supplied> two shares of the produce, to Naṁdija <supplied reason="explanation">Nandyārya</supplied> three shares of the produce, to Rudasama <supplied reason="explanation">Rudraśarman</supplied> of the Vātsya gotra one share of the produce, to Dāmaja <supplied reason="explanation">Dāmārya</supplied> one share of the produce, to Sālasama <supplied reason="explanation">Śyālaśarman?</supplied> one share of the produce, to Parimita<note>This name does not seem to be correct; perhaps it should be Harimita, i.e, Harimitra.</note> (?) one share of the produce, to Nāganaṁdi one share of the produce, to Goli (?) one share of the produce, to Khaṁdasama <supplied reason="explanation">Skandaśarman</supplied> one share of the produce, to Sāmija <supplied reason="explanation">Svāmyārya</supplied> one share of the produce.</quote></p>
-	
-	<p n="27-30"><quote>By Us also the formerly-given <supplied reason="subaudible">garden</supplied><note>The word <foreign>vāṭakam</foreign> has been left out by mistake.</note> <supplied reason="subaudible">situated</supplied> on the southern <foreign>sīm</foreign>, in the village of Cillarekakoḍuṁka <supplied reason="subaudible">and</supplied> in the province <supplied reason="explanation"><foreign>raṭṭha</foreign></supplied> of Sātāhani, has been granted to the above-mentioned Brāhmans, chief among whom is Agisamaja <supplied reason="explanation">Agniśarmārya</supplied>, <supplied reason="subaudible">the gift</supplied> being confirmed by a libation of water and being made <supplied reason="subaudible">valid</supplied> as long as the moon and stars endure.</quote>
-	</p>
-	
-	<p n="30-37"><quote>This garden in Cillarekakoḍuṁka, which belongs to the Brāhmans, <supplied reason="subaudible">is to be</supplied> free from taxes ... ... ..., free from the taking of sweet and sour milk,<note>Milk, grass, firewood, vegetable, and so forth had to be furnished gratis by the villagers to royal officers and their servants. The custom still prevails in many native states.</note> ... ... ... ...<note>I do not venture to translate <foreign>araṭṭhasaṁvinayikaṁ</foreign>. The phrase is, of course, identical with that used in the Andhra inscriptions (Archaeological Report, West. Ind., vol. IV, pp. 104-106, Nos. 13, 14)—<foreign>araṭhasarinayika</foreign>, my former explanation of which cannot stand.</note> free from troubles about salt and sugar,<note>In Sanskrit <foreign>alavaṇaguḍakṣobham</foreign>. Digging for salt was a royal monopoly.</note> free from taxes, forced labour ... ... ... , free from the taking of the oxen in succession,<note>I suppose this refers to the obligation of furnishing by turns draught-cattle for the progress of the royal officers.</note> free from the taking of grass and wood, free from the taking of vegetables and flowers; with these and other immunities of the eighteen kinds it must he exempted and caused to be exempted by the inhabitants of the province, by the inhabitants of Āpiṭṭī and by the inhabitants of Chillerekakoḍuṁka.</quote></p>
-	
-	<p n="37-39"><quote>Moreover, in Āpiṭṭī <supplied reason="subaudible">one</supplied> <foreign>nivartana</foreign> <supplied reason="subaudible">has been given</supplied> to the Brāhmans, chief among whom is Agisamaja <supplied reason="explanation">Agniśarmarya</supplied>, for a threshing-floor, <supplied reason="subaudible">one</supplied> <foreign>nivartana</foreign> for a house, four labourers<note>The <foreign>addhikā</foreign> i.e., <foreign>ardhikāḥ</foreign>, appear to have been slaves,—see also Āpastamba's Dharmaśūtra, II, 28, 1.</note> receiving half the produce <supplied reason="explanation"><foreign>addhikā</foreign></supplied>, two Kolikas.<note><foreign>Kolikā</foreign> corresponds to Sanskrit <foreign>kaulikāḥ</foreign>, and may mean 'weavers.' But it is also possible to think of the well-known tribe of the Kolīs, who were slaves.</note></quote></p>
-	
-	<p n="39-52"><quote>Now <supplied reason="subaudible">if</supplied> anybody, knowing this, proud of <supplied reason="subaudible">being</supplied> a favourite <supplied reason="subaudible">of the king</supplied>, should cause or cause to be caused a small obstacle <supplied reason="subaudible">to the donees</supplied> him, forsooth, we shall restrain by punishment. And further I pray both the future great warriors of our Pallava race, <supplied reason="subaudible">who may rule</supplied> within a period exceeding one hundred thousand years, as well as kings, differing from us <supplied reason="subaudible">in descent</supplied>, saying <supplied reason="subaudible">unto them</supplied>: 'To him among you blessings, who in his time makes <supplied reason="subaudible">the people</supplied> act according to the rule, written above.<note>I transliterate and complete this,— <foreign>yaḥ svakakāla uparilikhitamaryādayā (janān) anuvartaye tasya vaḥ śarmeti</foreign>.</note> But he who acts contrary to it shall be the lowest of men, loaded with <supplied reason="subaudible">the guilt of</supplied> the five mortal sins.' A charter <supplied reason="subaudible">valid</supplied> for one hundred thousand years has been given on the fifth day, in the sixth <supplied reason="subaudible">fortnight</supplied> of the rainy season, in the year eight. <supplied reason="subaudible">My</supplied> own order. 'The charter has been prepared in his own handwriting by the privy councillor Bhaṭṭisama <supplied reason="explanation">Bhaṭṭiśarman</supplied>, the Kolivāla freeholder.' 'Welfare to cows, Brāhmans, the writer, the readers and the hearers.'</quote></p>	
-	
-</div>
-      	
- <div type="translation" xml:lang="fra" resp="part:emfr">
-
- 	<div type="textpart" xml:lang="san-Latn" n="A">
-		<head xml:lang="eng">Sceau</head>
-		
-		<ab>
-			<supplied reason="subaudible">Ordre</supplied> de Śivaskandavarman. 
-		</ab>
-		
-	</div>
-	
-	<div type="textpart" xml:lang="pra-Latn" n="B">
-		
-		<head xml:lang="eng">Tablettes</head>
-		
-		<ab>Vu<note>C’est-à-dire "Vérifié".</note>.</ab>
-		
-		<ab>Perfection !</ab>
- 	
-		<p n="1-7">De Kāñcīpuram ...</p>
-		
-		<p n="7-26">Nous accordons ...
-			<list>
-				<item>à Golasamaja <supplied reason="explanation">Golaśarmārya</supplied>: 1 part</item>
-				<item>à Agisamaja <supplied reason="explanation">Agniśarmārya</supplied> de l'Ātreyagotra: 4 parts</item>
-				<item>...</item>
-			</list>
-		</p>
-		
-		<p n="27-30">...</p>		
-		<p n="30-37">...</p>		
-		<p n="37-39">...</p>		
-		<p n="39-41">...</p>		
-		<p n="41-48">...</p>		
-		<p n="48">...</p>		
-		<p n="48">...</p>		
-		<p n="50-51">...</p>		
-		<p n="52"><quote>Prospérité au vaches, aux brahmanes, aux scribes, aux récitateurs et aux auditeurs :</quote></p>
-		
-	</div>
- 	
- 	
- </div>
-      	
-<div type="commentary">
-
-      		<p>For a description of the Prakrit language of this grant, see <bibl><ptr target="bib:Buhler1892_01"/></bibl> (EI 1.1, p. 2-4), <bibl><ptr target="bib:Mehendale1948_01"/></bibl>, <bibl><ptr target="bib:Pischel1965_01"/></bibl>.</p>
-      		<p>About the seal, see <bibl><ptr target="bib:Buhler1892_01"/><citedRange unit="page">9</citedRange></bibl>: <quote>The plates are still held together by a single ring to which a nearly circular, somewhat battered, seal about an inch in diameter is attached. This seal shows as emblem an animal, facing the proper right, which may be intended for a deer or a horse. Below there stands the word Śivaskandavarmaṇaḥ, the last three <foreign>akṣara</foreign>s of which are much defaced and doubtful. The first four <foreign>akṣara</foreign> are perfectly plain and leave no doubt thut this part of the grant was in Sanskrit, just like the <foreign>maṅgala</foreign> at the end.</quote></p>
-      	</div>
-
- <div type="bibliography">
- 	
- 	<p>Edited in <bibl><ptr target="bib:Buhler1892_01"/></bibl> (EI 1.1) with visual documentation and English translation; corrections in <bibl><ptr target="bib:Leumann1894_01"/></bibl> (EI 2.40); corrections in <bibl><ptr target="bib:Buhler1894_05"/></bibl> (EI 2.40). Text and sanskritised text in <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">461-466</citedRange></bibl> with visual documentation. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 3).</p>
- 	<p>This revised edition by Emmanuel Francis, based on published estampages and photos of the original plates in the Chennai Government Museum (2008).</p>
-
-            <listBibl type="primary">
-            	           	
-            	<bibl n="EI">
-            		<ptr target="bib:Buhler1892_01"/>
-            	</bibl>            	
-            	
-            	<bibl n="L">
-            		<ptr target="bib:Leumann1894_01"/>
-            	</bibl> 
-            	
-            	<bibl n="B">
-            		<ptr target="bib:Buhler1894_05"/>
-            	</bibl> 
-            	
-            	<bibl n="S">
-            		<ptr target="bib:Sircar1965_02"/>
-            		<citedRange unit="page">457-461</citedRange>
-            	</bibl>
-            	
-            	<bibl n="IP">
-            		<ptr target="bib:Mahalingam1988_01"/>
-            		<citedRange unit="page">35-39</citedRange>
-            		<citedRange unit="item">3</citedRange>
-            	</bibl>
-            	
-            </listBibl>
-
-            <listBibl type="secondary">
-
-            	<bibl>
-            		<ptr target="bib:Francis2013_01"/>
-            		<citedRange unit="item">IR 3</citedRange>
-            	</bibl>
-            	
-            	<bibl>
-            		<ptr target="bib:Mehendale1948_01"/>
-            		<citedRange unit="page">xvi, 107</citedRange>
-            	</bibl>
-            	
-            	<bibl>
-            		<ptr target="bib:Pischel1965_01"/>
-            		<citedRange unit="page">8</citedRange>
-            	</bibl>           	
-            	
-           </listBibl>
-
-         </div>
-
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hīrahaḍagaḷḷi plates, time of Śiva-Skandavarman, year 8 </title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSPallava00003</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Confirmation of the grant, with exemptions, of a garden in Cillarekakoḍuṁka to 24 Brahmins, and further grant of lands, seemingly in Āpiṭṭī.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>See <bibl><ptr target="bib:Buhler1892_01"
+                            /></bibl> (EI 1.1, p. 2).</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2023-09-12" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="pra-Latn" rendition="class:83225 maturity:83209">
+                
+                <div type="textpart" xml:lang="san-Latn" n="A">
+                    <head xml:lang="eng">Seal</head>
+                    
+                    <p>
+                        <lb n="1"/><supplied reason="lost">śivaskandavarmmaṇaḥ</supplied>
+                    </p>
+                    
+                </div>
+                
+                <div type="textpart" xml:lang="pra-Latn" n="B">
+                    
+                    <head xml:lang="eng">Plates</head>
+                    
+                    <ab>
+                        <pb n="1r"/>
+                        <lb n="1"/>diṭhaṁ
+                    </ab>
+                    
+                    <ab>
+                        <pb n="1v"/>
+                        <fw place="left" n="1r"><hi rend="grantha">siddhaM <g type="ddanda">.</g></hi></fw>
+                    </ab>	
+                    
+                    <p>			
+                        <lb n="1v1=1"/>k<choice><sic>o</sic><corr>ā</corr></choice>ṁcīpurā Aggiṭ<choice><sic>th</sic><corr>ṭh</corr></choice>oma-vājapeyassamedha-yājī dhamma-mahā
+                        <lb n="1v2=2" break="no"/>rājādhirājo bhāraddāyo pallavāṇ<choice><sic>a</sic><corr>ā</corr></choice><supplied reason="omitted">ṁ</supplied> sivakhaṁdavamo
+                        <lb n="1v3=3"/>Amhaṁ visaye savattha rājakumāra-senāpati <space/>
+                        
+                        <pb n="2r" break="no"/>
+                        
+                        <lb n="2r1=4"/>raṭṭh<unclear>i</unclear>ka-māḍabi<unclear reason="eccentric_ductus">ka</unclear>-desādhikatādīke gāmāgāmabhojake
+                        <lb n="2r2=5"/>vallave govallave Amacce Ārakhādhikate gumike tūthike	
+                        <lb n="2r3=6"/>neyike Anne vi ca Amha-pesa<unclear>ṇa</unclear>-ppayutte saṁcaraṁtaka
+                        <lb n="2r4=7"/>bhaḍamaṇusā ṇa<gap quantity="3" unit="character" reason="illegible"/>
+                    </p>
+                    
+                    <p>
+                        parihāraṁ vitarāma Ettha dāṇi						
+                        <pb n="2v"/>
+                        
+                        <lb n="2v1=8"/>Āpiṭṭ<choice><unclear>i</unclear><unclear>ī</unclear></choice>-vatthavāṇa cillareka-koḍuṁka-bhojaka-bamhaṇān<choice><sic>a</sic><corr>ā</corr></choice>ṁ Appa
+                        <lb n="2v2=9" break="no"/>ṇa kula-gottasa dhamāyu-bala-yaso-vadhanike vijaya-vejayīke	
+                        <lb n="2v3=10"/>ca kātūṇam Appatihata-sāsaṇassa Aneka-hirogo-koḍi
+                        <lb n="2v4=11" break="no"/>go-hala-sata-sahassa-ppadāyino mahārāja-bappa-sāmīhi
+                        
+                        
+                        <pb n="3r"/>
+                        <fw place="left" n="3r">3</fw>
+                        
+                        <lb n="3r1=12"/>vāṭaka cillareka-koḍuṁke puvvadattaṁ golasamajasa patībhāgo 1
+                        <lb n="3r2=13"/>Ātteya-sagottasa Agisamajassa patībhāgā 4	
+                        <lb n="3r3=14"/>māḍharasa patībhāgā be 2 jāmātukasa Agillasa patī
+                        <lb n="3r4=15" break="no"/>bhāgo 1 hārita-sagotasa kālasamasa pat<surplus>t</surplus>ībhāgā 3 
+                        
+                        <pb n="3v"/>
+                        
+                        <lb n="3v1=16"/>bhāradāya-sagottassa kumārasamasa patībhāgā 2 kosik<choice><sic>ā</sic><corr>a</corr></choice>
+                        <lb n="3v2=17" break="no"/>sagotasa kumāranaṁdi-kumārasama-koṭṭasama-sattissa ca	
+                        <lb n="3v3=18"/>catuṇhaṁ bhātukāṇa cattāri pat<surplus>t</surplus>ībhāgā 4 kasava-sagotta
+                        <lb n="3v4=19" break="no"/>sa bhaṭisa patībhāgo 1 bhāradāyasa khaṁdakoṁḍisa
+                        
+                        <pb n="4r"/>
+                        <fw place="left" n="4r">4</fw>
+                        
+                        <lb n="4r1=20"/><unclear reason="eccentric_ductus">pa</unclear>tībhāgā be 2 khaṁdaḍhasa patībhago 1 bappasa
+                        <lb n="4r2=21"/>pat<surplus>t</surplus>ībhāgo 1 dattajasa patībhāgā be 2 naṁdijasa	
+                        <lb n="4r3=22"/>patībhāgā 3 vatsa-sagotasa rudasamasa patī
+                        <lb n="4r4=23" break="no"/>bhāgo 1 dāmajasa patībhāgo 1 sālasamaja<unclear reason="eccentric_ductus">sa</unclear> patī			
+                        <lb n="4r5=24"/>bhāgo 1
+                        
+                        
+                        <pb n="4v"/>
+                        
+                        <lb n="4v1=25"/>parimitasa patībhāgo 1 nāga-naṁdisa patibhāgo 1 golisa 
+                        <lb n="4v2=26"/>patībhāgo 1 khaṁdasamasa patībhāgo 1 sāmijasa patībhāgo 1	
+                    </p>
+                    
+                    <p>
+                        <lb n="4v3=27"/>Etesi bamhaṇāṇ<unclear>ā</unclear>ṁ Agisamaja-pamukhāṇaṁ sātāhaniraṭṭhe
+                        <lb n="4v4=28"/>gāme cillarekakoḍuṁke dakhiṇasīmaṁ puvvadattaṁ <space/>
+                        
+                        
+                        <pb n="5r"/>
+                        <fw place="left" n="5r">5</fw>
+                        
+                        <lb n="5r1=29"/>Amhehi vi Ā-canda-tāra-kālika kātūṇaṁ Udakādiṁ saṁpa
+                        <lb n="5r2=30" break="no"/>datto
+                    </p>
+                    
+                    <p>
+                        Etaṁ bamhaṇāṇaṁ cil<supplied reason="omitted">l</supplied>erekakoḍuṁka-vāṭakam	
+                        <lb n="5r3=31"/>Akūra-yollaka-vinesi-khaṭṭā-vāsaṁ A-dūdha-dadhi-gahaṇaṁ
+                        <lb n="5r4=32"/>A-raṭṭha-saṁvinayikaṁ A-loṇa-<unclear reason="eccentric_ductus">gu</unclear>la-cchobhaṁ A-kara-veṭṭhī
+                        
+                        
+                        <pb n="5v" break="no"/>
+                        
+                        <lb n="5v1=33"/>koṁjallaṁ A-paraṁpara-balivadda-gahaṇaṁ A-taṇa-kaṭṭha-gaha
+                        <lb n="5v2=34" break="no"/>ṇaṁ A-haritaka-sāka-pupha-gahaṇaṁ Evamādīkehi Aṭṭhā	
+                        <lb n="5v3=35" break="no"/>rasa-jāti-parihārehi visaya-vāsīhi Api
+                        <lb n="5v4=36" break="no"/>ṭṭī-vāsīhi cillerekakoḍuṁka-vāsīhi ca pariharitavaṁ
+                        
+                        <pb n="6r"/>
+                        <fw place="left" n="6r">6</fw>
+                        
+                        <lb n="6r1=37"/>parihāpetavva ca tti
+                    </p>
+                    
+                    <p>			
+                        Api ca Āpiṭṭīyaṁ Agisamaja 
+                        <lb n="6r2=38"/>pamukhāṇa bamhaṇāṇaṁ khalasa nivataṇaṁ gharassa nivata	
+                        <lb n="6r3=39" break="no"/>ṇaṁ Addhikā cāttāri 4 kolikā be tti 2
+                    </p>
+                    
+                    <p>			
+                        Eva nātūṇaṁ
+                        <lb n="6r4=40"/>Atha koci vallabhamadena pīlā bādhā kareyya kāravejo
+                        
+                        <pb n="6v"/>
+                        
+                        <lb n="6v1=41"/>vā tasa khu Amhe nigaha<surplus>ṁ</surplus>vāraṇa kareyyāma ti
+                    </p>
+                    
+                    <p>
+                        bhūyo ca
+                        <lb n="6v2=42"/>varisa-sata-sahassātireka-samakāle Amhaṁ pallava	
+                        <lb n="6v3=43"/>kalamahaṁtte bhavissabhaḍe Anne ca no
+                        
+                        
+                        <pb n="7r"/>
+                        <fw place="left" n="7r">7</fw>
+                        
+                        <lb n="7r1=44"/>vasudhādhipataye Abhatthemi jo sakakāle Upari
+                        <lb n="7r2=45"/>likhita-majātāye Aṇuvaṭṭhāveti tasa	
+                        <lb n="7r4=46"/>vo sammo ti yo ca si vigghe vaṭṭeja
+                        
+                        
+                        <pb n="7v"/>
+                        
+                        <lb n="7v1=47"/>sa ca khu pañca-mahāpātaka-saṁjutto narādhamo
+                        <lb n="7v2=48"/>hoja ti 			
+                    </p>
+                    
+                    <p>
+                        dat<supplied reason="omitted">t</supplied>ā paṭṭikā vāsa-satasahassāya
+                    </p>
+                    
+                    <p>
+                        <lb n="7v3=49"/>saṁva 8 vāsa 6 diva 5
+                    </p>
+                    
+                    <p>
+                        sayam āṇataṁ
+                    </p>
+                    
+                    <p>					
+                        <pb n="8r"/>
+                        <fw place="left" n="8r">8</fw>
+                        
+                        <lb n="8r1=50"/>kolivāla-bhojakasa rahasādhikata-bhaṭṭisa
+                        <lb n="8r2=51" break="no"/>mmasa sa-hattha-likhiteṇa paṭṭikā kaḍa tti
+                    </p>
+                    
+                    <p>
+                        <lb n="8r3=52"/>svasti go-brāhmaṇa-lekhaka-vācaka-śrotṛbhya Iti
+                    </p>
+                    
+                    <pb n="8v"/>
+                    
+                </div>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+                <div type="textpart" xml:lang="pra-Latn" n="A">
+                    <head xml:lang="eng">Seal</head>
+                    
+                    <listApp>
+                        
+                        <app loc="1">				
+                            <lem><supplied reason="lost">śivaskandavarmmaṇaḥ</supplied></lem>
+                            <rdg source="bib:Buhler1892_01">śivaskandavarmmaṇaḥ</rdg>
+                            <note>This is <ptr target="bib:Buhler1892_01"/> reading (page 9), but nothing is legible on the seal now kept with the plates in the Chennai Government Museum (2008). The same legend is found on the seal of another Pallava plate (<ref target="DHARMA_INSPallava00002.xml">Pallava 2</ref>).</note>
+                        </app>
+                        
+                    </listApp>
+                </div>
+                
+                <div type="textpart" xml:lang="pra-Latn" n="B">
+                    <head xml:lang="eng">Plates</head>
+                    <listApp>
+                        
+                        <!--<app loc="0">
+                            <lem>...</lem>
+                            <rdg source="bib:Buhler1892_01">...</rdg>
+                            <rdg source="bib:Leumann1894_01">...</rdg>
+                            <rdg source="bib:Sircar1965_02">...</rdg>	
+                            </app>-->
+                        
+                        <app loc="1">
+                            <lem>k<choice><sic>o</sic><corr>ā</corr></choice>ṁcīpurā</lem>
+                            <rdg source="bib:Buhler1892_01">kāṁcīpurā</rdg>				
+                            <rdg source="bib:Sircar1965_02">koṁcīpurā</rdg>
+                            <note>Alternatively, one can follow <ptr target="bib:Buhler1892_01"/>, considering that what is taken as the left component of medial <foreign>o</foreign> is just a defect on the plate.</note>
+                        </app>
+                        
+                        <app loc="1">
+                            <lem>Aggiṭ<choice><sic>th</sic><corr>ṭh</corr></choice>oma°</lem>
+                            <rdg source="bib:Buhler1892_01">Aggitthoma°</rdg>
+                            <rdg source="bib:Leumann1894_01">Aggiṭthoma°</rdg>				
+                            <rdg source="bib:Buhler1894_05">Aggiṭthoma°</rdg>
+                            <rdg source="bib:Sircar1965_02">Aggiṭṭhoma°</rdg>				
+                            <note>The original reading is <foreign>ṭtha</foreign>, as indicated by the dot inside the <foreign>tha</foreign> of this ligature.</note>
+                        </app>
+                        
+                        <app loc="2">
+                            <lem>pallavāṇ<choice><sic>a</sic><corr>ā</corr></choice><supplied reason="omitted">ṁ</supplied></lem>
+                            <rdg source="bib:Buhler1892_01 bib:Sircar1965_02">pallavāṇa</rdg>
+                        </app>
+                        
+                        <app loc="4">
+                            <lem>raṭṭh<unclear>i</unclear>ka°</lem>
+                            <rdg source="bib:Buhler1892_01">raṭṭhika°</rdg>
+                            <rdg source="bib:Sircar1965_02">raṭṭh<choice><sic>a</sic><corr>i</corr></choice>ka°</rdg>
+                            <note><ptr target="bib:Buhler1892_01"/> notes that <quote>[t]he <foreign>i</foreign> of <foreign>raṭṭhika</foreign> is very faint</quote>. This medial <foreign>i</foreign> is not clear on the published estampage, but is more visible on the photos (2011).</note>
+                        </app>
+                        
+                        <app loc="4">
+                            <lem>°māḍabi<unclear reason="eccentric_ductus">ka</unclear>°</lem>
+                            <rdg source="bib:Buhler1892_01">°mā<supplied reason="omitted">ṁ</supplied>ḍabi<choice><sic>nu</sic><corr>ka</corr></choice>°</rdg>
+                            <rdg source="bib:Leumann1894_01">°mā<supplied reason="omitted">ṁ</supplied>ḍabika°</rdg>
+                            
+                            <rdg source="bib:Buhler1894_05">°mā<supplied reason="omitted">ṁ</supplied>ḍabi<choice><sic>nu</sic><corr>ka</corr></choice>°</rdg>
+                            <rdg source="bib:Sircar1965_02">°māḍabi<unclear reason="eccentric_ductus">ka</unclear>°</rdg>
+                            <note>The letter <foreign>ka</foreign> looks indeed like <foreign>nu</foreign>, since the left part of its horizontal crossbar is missing. <ptr target="bib:Buhler1894_05"/> notes that the emendation <foreign>māḍambika</foreign> is possible, but doubtful, given that is attested attested only in Jainz literature.</note>
+                        </app>
+                        
+                        <app loc="5">
+                            <lem>Ārakhādhikate</lem>
+                            <rdg source="bib:Buhler1892_01"><choice><sic>Ā</sic><corr>a</corr></choice>raṇādhikate </rdg>
+                            <rdg source="bib:Leumann1894_01 bib:Buhler1894_05">Āra<supplied reason="omitted">k</supplied>khādhikate </rdg>
+                            <rdg source="bib:Sircar1965_02">Ārakhādhikate</rdg>
+                            <note>The initial <foreign>Ā</foreign> is clear on the photos (2011), where a little hook is visible on its right side of letter)</note>
+                        </app>
+                        
+                        <app loc="7">
+                            <lem>bhaḍamaṇusā ṇa<gap quantity="3" unit="character" reason="illegible"/></lem>
+                            <rdg source="bib:Buhler1892_01">bhaḍamaṇusāṇa <unclear>kaḍh</unclear><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg><unclear>o</unclear></seg></rdg>
+                            <rdg source="bib:Sircar1965_02">bhaḍamaṇusā ṇa<unclear>kaḍhaso</unclear></rdg>
+                            <note><ptr target="bib:Buhler1892_01"/> notes that his suggested reading <foreign><unclear>kaḍh</unclear><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg><unclear>o</unclear></seg></foreign> is <quote>very doubtful, with the exception of the last vowel</quote>. <ptr target="bib:Sircar1965_02"/> suggets to read <foreign>bhaḍamanuṣe āṇaveti</foreign>. A verbal predicate is indeed expected here to complete this first sentence.</note>
+                        </app>
+                        
+                        <app loc="7">
+                            <lem>parihāraṁ</lem>
+                            <rdg source="bib:Buhler1892_01">pārihāraṁ</rdg>				
+                            <rdg source="bib:Sircar1965_02">parihāraṁ</rdg>	
+                        </app>
+                        
+                        <app loc="8">
+                            <lem>Āpiṭṭ<choice><unclear>i</unclear><unclear>ī</unclear></choice>°</lem>
+                            <rdg source="bib:Buhler1892_01">Āpiṭṭi°</rdg>
+                            <rdg source="bib:Sircar1965_02"><unclear>Ā</unclear>piṭṭi°</rdg>	
+                        </app>
+                        
+                        
+                        
+                        <app loc="37">
+                            <lem>Āpiṭṭīyaṁ</lem>
+                            <rdg source="bib:Buhler1892_01 bib:Sircar1965_02">Āpiṭṭīyaṁ</rdg>
+                            <note>The <foreign>ī</foreign> in <foreign>ṭṭi</foreign> is not clear on the published estampage, but well visible on the photos (2011).</note>
+                        </app>
+                        
+                        <app loc="40">
+                            <lem>bādhā</lem>
+                            <rdg source="bib:Buhler1892_01 bib:Sircar1965_02">bādhā</rdg>
+                            <note>The <foreign>ā</foreign> in <foreign>dhā</foreign> is not clear on the published estampage, but well visible on the photos (2011).</note>
+                        </app>
+                        
+                        <!--<app loc="0">
+                            <lem>...</lem>
+                            <rdg source="bib:Buhler1892_01">...</rdg>
+                            <rdg source="bib:Leumann1894_01">...</rdg>
+                            <rdg source="bib:Sircar1965_02">...</rdg>	
+                            </app>-->
+                        
+                        <app loc="7">
+                            <lem>Ettha</lem>
+                            <rdg source="bib:Buhler1892_01">cattha</rdg>
+                            <rdg source="bib:Leumann1894_01 bib:Buhler1894_05 bib:Sircar1965_02">Ettha</rdg>	
+                        </app>
+                        
+                        <app loc="51">
+                            <lem>kaḍa</lem>
+                            <rdg source="bib:Buhler1892_01">kada</rdg>
+                            <rdg source="bib:Sircar1965_02">kaḍa</rdg>
+                            <note><ptr target="bib:Buhler1892_01"/> notes: <quote>Perhaps <foreign>kaḍa</foreign> is to be read.</quote></note>
+                            
+                        </app>
+                        
+                    </listApp>
+                </div>
+                
+            </div>      	
+            
+            <div type="translation" source="bib:Buhler1892_01">
+                
+                <p n="1-7">Success!<note resp="part:emfr">Errata and corrigenda (EI 1, p. 479) taken into account.</note> From Kāṁcīpura—the righteous<note>Compare Mr. Fleet's grant, Indian Antiquary, vol. V, p. 155, line 17 of the transcript.</note> supreme king of great kings of the Pallavas Sivakhaṁdavama <supplied reason="explanation">Śivaskandavarman</supplied>, a Bhāraddāya<note>Compare Mr. Fleet's grant, Indian Antiquary, vol. V, p. 51, line 15 of the transcript, and <foreign>ibidem</foreign>, page 155, line 14 of the transcript, as well as vol. IX, p. 101, line 2 of the transcript, where <foreign>bhāraddāyassa</foreign> has to be read for <foreign>bhāraṭṭāyaṇa</foreign>.</note> <supplied reason="explanation">Bhāradvāja</supplied> an offerer of Agniṣṭoma, Vājapeya and Aśvamedha <supplied reason="explanation">sacrifices</supplied> <supplied reason="subaudible">issues the following orders</supplied>:</p>
+                
+                <p n="7-26"><quote>In our whole territory <supplied reason="subaudible">we send greetings</supplied><note>Two verbs have been left out, one in the third person singular after <foreign>sivakhaṁdavamo</foreign>, and one in the first person plural, or in the absolutive at the end of the list of officials. For the pronoun <foreign>amhaṁ</foreign> 'our' shows that a new sentence begins with line 3, and the words <foreign>vitarāma cattha dāṇi</foreign> prove that it must have stood in the first person plural or in the absolutive. The first verb was probably <foreign>āṇaveti</foreign> or some equivalent. The second may either have been a word expressing command, or, what I consider more likely, some expression implying greeting, such as are found in many other inscriptions.</note> to the royal princes, generals, rulers of districts, custom-house officers,<note>I consider the correction <foreign>māṇḍabika</foreign> as certain and take the word <foreign>maṇḍaba</foreign> or <foreign>maṇḍapa</foreign>, from which it has been derived, in the sense of the <foreign>māṇḍavī</foreign>, ‘custom house’—see Molesworth, Marāṭhī Dictionary, sub voce. The <foreign>śaulkika</foreign>s are frequently mentioned in Sanskrit inscriptions.</note> prefects of countries and others, to the freeholders of various villages,<note>That <foreign>bhojaka</foreign> does not mean ‘temple priest,’ but ‘ināmdār,’ or ‘freeholder,’ seems to follow from its use in line 8, where the donees are called <foreign>cillarekakoḍumkabhojaka</foreign>s, who lived in Āpiṭṭī, and in line 50, where the privy councillor Bhaṭṭisama receives the title <foreign>kolivālabhojake</foreign>. Such a despised personage as a temple priest could hardly become a minister. Professor Fausböll points out to me that <foreign>gāmāgāmabhojaka</foreign> may be rendered as above, as repetitions of the same word with a lengthening of the final vowel of the first are commonly used in Pāli in order to indicate the <foreign>vīpsā</foreign>.</note> to herdsmen, cowherds, ministers, foresters, <foreign>gumika</foreign>s, <foreign>tūthika</foreign>s, <foreign>neyika</foreign>s,<note>The first of the three words left untranslated corresponds to Sanskrit <foreign>gaulmika</foreign>. As <foreign>gulma</foreign> means both ‘a thicket’ and ‘a picket of soldiers,’ the derivative may denote either a kind of forest official or the leader of a <foreign>gulma</foreign> of warriors. <foreign>Tūthika</foreign> may be connected with Prākrit <foreign>tūha</foreign> ‘a Tīrtha,’ and means ‘overseers of fords’ or ‘of bathing places.’ With <foreign>neyika</foreign> compare <foreign>naiyokāḥ</foreign> in Mr. Fleet and Elliot's grant, Indian Antiquary, vol. V, p. 62, line 28 of the text. Mr. Fleet changes it to <foreign>niyuktāh</foreign>, which now seems a rather doubtful emendation. I suspect that <foreign>naiyokāḥ</foreign> is a mistake for <foreign>naiyikāḥ</foreign>, which would exactly correspond to <foreign>neyika</foreign>, and that both words are corruptions of Sanskrit <foreign>nāyaka</foreign>, commonly pronounced <foreign>nāick</foreign>. If this is correct, the term denotes a military officer of the rank of a corporal or a sergeant.</note> and all others employed in our service, to roaming <supplied reason="subaudible">spies</supplied> and warriors, <note><foreign>Saṁcarantaka</foreign> occurs also in Mr. Fleet's grant, loc. cit., line 29 of the text, and Mr. Fleet has translated it by 'travellers.' I believe that royal servants are meant, and that the word refers to the spies whom the Indian kings sent into the provinces to explore the behaviour of their officials,—see Manu, VII, 122.</note> and we grant here an immunity <supplied reason="subaudible"><foreign>viz.</foreign></supplied> the garden in Cillarekakoḍuṁka, which was formerly given by the great king, the lord Bappa,<note>The great king Bappa is probably the donor's father,—see Mr. Fleet's article, Indian Antiquary, vol. XV, p. 272ff.</note> a giver of many <foreign>kror</foreign>s of gold and of one hundred thousand ox-ploughs,<note>This may, of course, mean also 'one hundred thousand cows and <supplied reason="subaudible">the same number</supplied> of ploughs <supplied reason="subaudible">of land</supplied>,' Regarding the various kinds of the measure of land, called 'a plough,' see Kullūka on Manu, VII, 119.</note>—while he made <supplied reason="subaudible">the gift</supplied> a means of the increase of the merit, longevity, power and fame of <supplied reason="subaudible">his</supplied> own family and race—to the Brāhmans, free-holders of Cillarekakoḍuṁka <supplied reason="subaudible">and</supplied> inhabitants of Āpiṭṭi, <supplied reason="subaudible"><foreign>viz.</foreign></supplied> to Golasamaja <supplied reason="explanation">Golaśarmārya</supplied> one share of the produce,<note><foreign>Pattī</foreign>, <foreign>patti</foreign>, <foreign>patī</foreign>, and <foreign>pati</foreign> I take to be the representatives of Sanskrit <foreign>prāpti</foreign>, which means <foreign>āya</foreign>, 'produce,' or 'income.' It is of course possible that the garden was let and the rent divided among the donees.</note> to Agisamaja <supplied reason="explanation">Agniśarmārya</supplied> of the Ātteya <supplied reason="explanation">Ātreya</supplied> gotra four shares of the produce, to Māḍhara <supplied reason="explanation">Māṭhara</supplied> two shares of the produce, to <supplied reason="explanation">his</supplied> son-in-law (?) Agilla <supplied reason="explanation">Agnila</supplied> one share of the produce, to Kālasama <supplied reason="explanation">Kālaśarman</supplied> of the Hārita gotra two (?) shares of the produce, to Kumārasama <supplied reason="explanation">Kumāraśarman</supplied> of the Bhāradāya <supplied reason="explanation">Bhāradvāja</supplied> gotra two shares of the produce, to the four brothers Kumāranaṁdi <supplied reason="explanation">Kumāranandin</supplied>, Kumārasama <supplied reason="explanation">Kumāraśarman</supplied>, Koṭṭasama <supplied reason="explanation">Koṭṭaśarman</supplied> and Satti <supplied reason="explanation">Śakti</supplied> of the Kosika <supplied reason="explanation">Kauśika</supplied> gotra four (4) shares of the produce, to Bhaṭi <supplied reason="explanation">Bhaṭṭi</supplied> of the Kassava <supplied reason="explanation">Kāśyapa</supplied> gotra one share of the produce, to Khaṁdakoṁḍi <supplied reason="explanation">Skandakoṭi?</supplied> the Bhāradāya <supplied reason="explanation">Bhāradvāja</supplied> two shares of the produce, to Khaṁdaḍha <supplied reason="explanation">Skanda-ṛddha</supplied> one share of the produce, to Bappa one share of the produce, to Dattaja <supplied reason="explanation">Dattārya</supplied> two shares of the produce, to Naṁdija <supplied reason="explanation">Nandyārya</supplied> three shares of the produce, to Rudasama <supplied reason="explanation">Rudraśarman</supplied> of the Vātsya gotra one share of the produce, to Dāmaja <supplied reason="explanation">Dāmārya</supplied> one share of the produce, to Sālasama <supplied reason="explanation">Śyālaśarman?</supplied> one share of the produce, to Parimita<note>This name does not seem to be correct; perhaps it should be Harimita, i.e, Harimitra.</note> (?) one share of the produce, to Nāganaṁdi one share of the produce, to Goli (?) one share of the produce, to Khaṁdasama <supplied reason="explanation">Skandaśarman</supplied> one share of the produce, to Sāmija <supplied reason="explanation">Svāmyārya</supplied> one share of the produce.</quote></p>
+                
+                <p n="27-30"><quote>By Us also the formerly-given <supplied reason="subaudible">garden</supplied><note>The word <foreign>vāṭakam</foreign> has been left out by mistake.</note> <supplied reason="subaudible">situated</supplied> on the southern <foreign>sīm</foreign>, in the village of Cillarekakoḍuṁka <supplied reason="subaudible">and</supplied> in the province <supplied reason="explanation"><foreign>raṭṭha</foreign></supplied> of Sātāhani, has been granted to the above-mentioned Brāhmans, chief among whom is Agisamaja <supplied reason="explanation">Agniśarmārya</supplied>, <supplied reason="subaudible">the gift</supplied> being confirmed by a libation of water and being made <supplied reason="subaudible">valid</supplied> as long as the moon and stars endure.</quote>
+                </p>
+                
+                <p n="30-37"><quote>This garden in Cillarekakoḍuṁka, which belongs to the Brāhmans, <supplied reason="subaudible">is to be</supplied> free from taxes ... ... ..., free from the taking of sweet and sour milk,<note>Milk, grass, firewood, vegetable, and so forth had to be furnished gratis by the villagers to royal officers and their servants. The custom still prevails in many native states.</note> ... ... ... ...<note>I do not venture to translate <foreign>araṭṭhasaṁvinayikaṁ</foreign>. The phrase is, of course, identical with that used in the Andhra inscriptions (Archaeological Report, West. Ind., vol. IV, pp. 104-106, Nos. 13, 14)—<foreign>araṭhasarinayika</foreign>, my former explanation of which cannot stand.</note> free from troubles about salt and sugar,<note>In Sanskrit <foreign>alavaṇaguḍakṣobham</foreign>. Digging for salt was a royal monopoly.</note> free from taxes, forced labour ... ... ... , free from the taking of the oxen in succession,<note>I suppose this refers to the obligation of furnishing by turns draught-cattle for the progress of the royal officers.</note> free from the taking of grass and wood, free from the taking of vegetables and flowers; with these and other immunities of the eighteen kinds it must he exempted and caused to be exempted by the inhabitants of the province, by the inhabitants of Āpiṭṭī and by the inhabitants of Chillerekakoḍuṁka.</quote></p>
+                
+                <p n="37-39"><quote>Moreover, in Āpiṭṭī <supplied reason="subaudible">one</supplied> <foreign>nivartana</foreign> <supplied reason="subaudible">has been given</supplied> to the Brāhmans, chief among whom is Agisamaja <supplied reason="explanation">Agniśarmarya</supplied>, for a threshing-floor, <supplied reason="subaudible">one</supplied> <foreign>nivartana</foreign> for a house, four labourers<note>The <foreign>addhikā</foreign> i.e., <foreign>ardhikāḥ</foreign>, appear to have been slaves,—see also Āpastamba's Dharmaśūtra, II, 28, 1.</note> receiving half the produce <supplied reason="explanation"><foreign>addhikā</foreign></supplied>, two Kolikas.<note><foreign>Kolikā</foreign> corresponds to Sanskrit <foreign>kaulikāḥ</foreign>, and may mean 'weavers.' But it is also possible to think of the well-known tribe of the Kolīs, who were slaves.</note></quote></p>
+                
+                <p n="39-52"><quote>Now <supplied reason="subaudible">if</supplied> anybody, knowing this, proud of <supplied reason="subaudible">being</supplied> a favourite <supplied reason="subaudible">of the king</supplied>, should cause or cause to be caused a small obstacle <supplied reason="subaudible">to the donees</supplied> him, forsooth, we shall restrain by punishment. And further I pray both the future great warriors of our Pallava race, <supplied reason="subaudible">who may rule</supplied> within a period exceeding one hundred thousand years, as well as kings, differing from us <supplied reason="subaudible">in descent</supplied>, saying <supplied reason="subaudible">unto them</supplied>: 'To him among you blessings, who in his time makes <supplied reason="subaudible">the people</supplied> act according to the rule, written above.<note>I transliterate and complete this,— <foreign>yaḥ svakakāla uparilikhitamaryādayā (janān) anuvartaye tasya vaḥ śarmeti</foreign>.</note> But he who acts contrary to it shall be the lowest of men, loaded with <supplied reason="subaudible">the guilt of</supplied> the five mortal sins.' A charter <supplied reason="subaudible">valid</supplied> for one hundred thousand years has been given on the fifth day, in the sixth <supplied reason="subaudible">fortnight</supplied> of the rainy season, in the year eight. <supplied reason="subaudible">My</supplied> own order. 'The charter has been prepared in his own handwriting by the privy councillor Bhaṭṭisama <supplied reason="explanation">Bhaṭṭiśarman</supplied>, the Kolivāla freeholder.' 'Welfare to cows, Brāhmans, the writer, the readers and the hearers.'</quote></p>	
+                
+            </div>
+            
+            <div type="translation" xml:lang="fra" resp="part:emfr">
+                
+                <div type="textpart" xml:lang="san-Latn" n="A">
+                    <head xml:lang="eng">Sceau</head>
+                    
+                    <ab>
+                        <supplied reason="subaudible">Ordre</supplied> de Śivaskandavarman. 
+                    </ab>
+                    
+                </div>
+                
+                <div type="textpart" xml:lang="pra-Latn" n="B">
+                    
+                    <head xml:lang="eng">Tablettes</head>
+                    
+                    <ab>Vu<note>C’est-à-dire "Vérifié".</note>.</ab>
+                    
+                    <ab>Perfection !</ab>
+                    
+                    <p n="1-7">De Kāñcīpuram ...</p>
+                    
+                    <p n="7-26">Nous accordons ...
+                        <list>
+                            <item>à Golasamaja <supplied reason="explanation">Golaśarmārya</supplied>: 1 part</item>
+                            <item>à Agisamaja <supplied reason="explanation">Agniśarmārya</supplied> de l'Ātreyagotra: 4 parts</item>
+                            <item>...</item>
+                        </list>
+                    </p>
+                    
+                    <p n="27-30">...</p>		
+                    <p n="30-37">...</p>		
+                    <p n="37-39">...</p>		
+                    <p n="39-41">...</p>		
+                    <p n="41-48">...</p>		
+                    <p n="48">...</p>		
+                    <p n="48">...</p>		
+                    <p n="50-51">...</p>		
+                    <p n="52"><quote>Prospérité au vaches, aux brahmanes, aux scribes, aux récitateurs et aux auditeurs :</quote></p>
+                    
+                </div>
+                
+                
+            </div>
+            
+            <div type="commentary">
+                
+                <p>For a description of the Prakrit language of this grant, see <bibl><ptr target="bib:Buhler1892_01"/></bibl> (EI 1.1, p. 2-4), <bibl><ptr target="bib:Mehendale1948_01"/></bibl>, <bibl><ptr target="bib:Pischel1965_01"/></bibl>.</p>
+                <p>About the seal, see <bibl><ptr target="bib:Buhler1892_01"/><citedRange unit="page">9</citedRange></bibl>: <quote>The plates are still held together by a single ring to which a nearly circular, somewhat battered, seal about an inch in diameter is attached. This seal shows as emblem an animal, facing the proper right, which may be intended for a deer or a horse. Below there stands the word Śivaskandavarmaṇaḥ, the last three <foreign>akṣara</foreign>s of which are much defaced and doubtful. The first four <foreign>akṣara</foreign> are perfectly plain and leave no doubt thut this part of the grant was in Sanskrit, just like the <foreign>maṅgala</foreign> at the end.</quote></p>
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>
+                    Edited in <bibl><ptr target="bib:Buhler1892_01"/></bibl> (EI 1.1) with visual documentation and English translation; corrections in <bibl><ptr target="bib:Leumann1894_01"/></bibl> (EI 2.40); corrections in <bibl><ptr target="bib:Buhler1894_05"/></bibl> (EI 2.40).
+                    Text and sanskritised text in <bibl><ptr target="bib:Sircar1965_02"/><citedRange unit="page">461-466</citedRange></bibl> with visual documentation.
+                    Edited in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>.
+                    Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 3).
+                </p>
+                <p>This revised edition by Emmanuel Francis, based on published estampages and photos of the original plates in the Chennai Government Museum (2008).</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="EI">
+                        <ptr target="bib:Buhler1892_01"/>
+                    </bibl>            	
+                    
+                    <bibl n="L">
+                        <ptr target="bib:Leumann1894_01"/>
+                    </bibl> 
+                    
+                    <bibl n="B">
+                        <ptr target="bib:Buhler1894_05"/>
+                    </bibl> 
+                    
+                    <bibl n="S">
+                        <ptr target="bib:Sircar1965_02"/>
+                        <citedRange unit="page">457-461</citedRange>
+                    </bibl>
+                    
+                    <bibl n="TPC">
+                        <ptr target="bib:Subrahmanian1966_01"/>
+                        <citedRange unit="page">361-368</citedRange>
+                    </bibl>
+                    
+                    <bibl n="IP">
+                        <ptr target="bib:Mahalingam1988_01"/>
+                        <citedRange unit="page">35-39</citedRange>
+                        <citedRange unit="item">3</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:Francis2013_01"/>
+                        <citedRange unit="item">IR 3</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:Mehendale1948_01"/>
+                        <citedRange unit="page">xvi, 107</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:Pischel1965_01"/>
+                        <citedRange unit="page">8</citedRange>
+                    </bibl>           	
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>

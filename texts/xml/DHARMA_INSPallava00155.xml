@@ -1064,7 +1064,9 @@
             </div>
             
             <div type="bibliography">
-                <p>Tamil portion edited in Tamil script in <bibl><ptr target="bib:Vinson1903_01"/></bibl>. Fully edited (in Nāgarī, Tamil script, and transliteration) and translated into French in <bibl><ptr target="bib:Vinson1905_01"/></bibl>. Edited in <bibl><ptr target="bib:KrishnaSastri1916_01"/></bibl> (postscript to <ref target="DHARMA_INSSIIv02p0i0098">SII 2.98</ref>). Corrections and translation in <bibl><ptr target="bib:JouveauDubreuil1917_01"/></bibl>. Edited in transliteration and translated into English in <bibl><ptr target="bib:Hultzsch1925-1926_01"/></bibl> (EI 18.2), with visual documentation. Edited and translated into Tamil in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 155). Sanskrit text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 62). See <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR no. 91).</p>
+                <p>Tamil portion edited in Tamil script in <bibl><ptr target="bib:Vinson1903_01"/></bibl>. Fully edited (in Nāgarī, Tamil script, and transliteration) and translated into French in <bibl><ptr target="bib:Vinson1905_01"/></bibl>. Edited in <bibl><ptr target="bib:KrishnaSastri1916_01"/></bibl> (postscript to <ref target="DHARMA_INSSIIv02p0i0098">SII 2.98</ref>). Corrections and translation in <bibl><ptr target="bib:JouveauDubreuil1917_01"/></bibl>. Edited in transliteration and translated into English in <bibl><ptr target="bib:Hultzsch1925-1926_01"/></bibl> (EI 18.2), with visual documentation.
+                    Edited in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>.
+                    Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 155). Sanskrit text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 62). See <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR no. 91).</p>
                 <p>This revised edition by Emmanuel Francis, based on previous edition(s), mostly that by <bibl><ptr target="bib:Hultzsch1925-1926_01"/></bibl>, photos, and autopsy of the original plates in the BnF. Online images: <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52509208s"/>. Note that plate 4 recto and verso are interverted.
                 </p>
                 
@@ -1088,10 +1090,9 @@
                         <ptr target="bib:Hultzsch1925-1926_01"/>
                     </bibl>
                     
-                    <bibl n="TNS">
+                    <bibl n="TPC">
                         <ptr target="bib:Subrahmanian1966_01"/>
                         <citedRange unit="page">263-276</citedRange>
-                        <citedRange unit="item">155</citedRange>
                     </bibl>
                     
                     <bibl n="IP">

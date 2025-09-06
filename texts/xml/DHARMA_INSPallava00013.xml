@@ -5,346 +5,356 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	
-<teiHeader>
-    <fileDesc>
-        <titleStmt>
-            <title>Pīkira grant, time of Siṁhavarman, year 5</title>
-            <respStmt>
-                <resp>author of digital edition</resp>
-                <persName ref="part:emfr">
-                    <forename>Emmanuel</forename>
-                    <surname>Francis</surname>
-                </persName>
-            </respStmt>
-        </titleStmt>
-        <publicationStmt>
-            <authority>DHARMA</authority>
-            <pubPlace>Paris, CEIAS</pubPlace>
-            <idno type="filename">DHARMA_INSPallava00013</idno>
-            <availability>
-                <licence target="https://creativecommons.org/licenses/by/4.0/">
-                    <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-                        Licence. To view a copy of the licence, visit
-                        https://creativecommons.org/licenses/by/4.0/ or send a letter to
-                        Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-                        California, 94041, USA.</p>
-                    <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-                </licence>
-            </availability>
-            <date from="2019" to="2025">2019-2025</date>
-        </publicationStmt>
-        <sourceDesc>
-            <msDesc>
-                <msIdentifier>
-                    <repository>DHARMAbase</repository>
-                    <idno/>
-                </msIdentifier>
-                <msContents>
-                    <summary>...</summary>
-                </msContents>
-                <physDesc>
-                    <handDesc>
-                        <p>Two varieties of character <foreign>ta</foreign>: one with loop, the other without loop, almost similar to <foreign>na</foreign>, but slightly larger at the bottom.</p>
-                    </handDesc>
-                </physDesc>
-            </msDesc>
-        </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-        <projectDesc>
-            <p>The project DHARMA has received funding from the European Research Council (ERC)
-                under the European Union's Horizon 2020 research and innovation programme (grant
-                agreement no 809994).</p>
-        </projectDesc>
-        <schemaRef type="guide" key="EGDv01"
-            url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-        <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
-                    ERC-DHARMA whose data are open to the public.</p>
-            </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)"
-                replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-                <p>Internal URIs using the part prefix to point to person elements in the
-                    <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-            </prefixDef>
-        </listPrefixDef>
-    </encodingDesc>
-    <revisionDesc>
-        <change who="part:emfr" when="2025-02-13" status="draft">Creation of the file</change>
-    </revisionDesc>
-</teiHeader>
-	
-<text xml:space="preserve">
-<body>
-
-<div type="edition" xml:lang="san-Latn" rendition="class:brāhmī_southern maturity:regional">
-
-<div type="textpart" n="A">
     
-<head xml:lang="eng">Seal</head>
-
-    <p/>	
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pīkira grant, time of Siṁhavarman, year 5</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSPallava00013</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>...</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>Two varieties of character <foreign>ta</foreign>: one with loop, the other without loop, almost similar to <foreign>na</foreign>, but slightly larger at the bottom.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2025-02-13" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
     
-</div>
-
-<div type="textpart" n="B">
-
-<head xml:lang="eng">Plates</head>
-
-    <pb n="1r"/>
-    
-    <p>
-        <pb n="1v"/>
-        <fw place="top-left" n="1v"><g type="spiral"/></fw>
-        <fw place="left" n="1v">1</fw>
-        <lb n="1v1=1"/>jitam bhagavatā svasti
-    </p>
-    
-    <p>
-        śrī-vijaya-skandhāvārān menmātur-āvāsakāt        
-        <list>
+    <text xml:space="preserve">
+        <body>
             
-            <item>
-                parama-brahmaṇya
-                <lb n="1v2=2" break="no"/>sya sva-bāhu-balārjjitorjita-kṣātra-tapo-nidh<choice><sic>a</sic><corr>e</corr></choice>r vvidhi-vihita-sarvva-maryyādasya 
-                <lb n="1v3=3"/>sthiti-sthitasyām<unclear reason="eccentric_ductus">i</unclear>tātmano mahārājasya pṛ<choice><sic>dh</sic><corr>th</corr></choice>ivī-talaika-vīrasya śrī-vīravarmmaṇaḥ prapautro
-            </item>
-            
-            <item>
-                <pb n="2r"/>
-                <lb n="2r1=4"/>’bhyuccita-śakti-siddhi-sampannasya pratāpopanata-rāja-maṇḍalasya bhagavad-bhakti-sad-bhā
-                <lb n="2r2=5" break="no"/>va-sambhāvita-sarvva-kalyāṇasyāneka-go-hiraṇya-bhūmy-ādi-pradānaiḥ pravṛ
-                <lb n="2r3=6" break="no"/>ddha-dharmma-sañcayasya prajā-pālana-dakṣasya lokapālānāṁ pañcamasya 
+            <div type="edition" xml:lang="san-Latn" rendition="class:brāhmī_southern maturity:regional">
                 
-                <pb n="2v"/>
-                <fw place="left" n="2v">2</fw>
-                <lb n="2v1=7"/>lokapālasya mahātmano mahārāja-śrī-skan<unclear reason="eccentric_ductus">d</unclear>avarmmaṇaḥ pautro 
-            </item>
-            
-            <item>
-                deva-dvija 
-                <lb n="2v2=8" break="no"/>-guru-vṛddh<choice><sic>ā</sic><corr>o</corr></choice>pacāyino vivṛddha-vinayasyāneka-saṁgrāma-sāhasāva
-                <lb n="2v3=9" break="no"/>mard<unclear reason="eccentric_ductus">d</unclear>opalabdha-vijaya-yaśaḥ-prakāśasya satyātmano yuva-mahārāja
+                <div type="textpart" n="A">
+                    
+                    <head xml:lang="eng">Seal</head>
+                    
+                    <p/>	
+                    
+                </div>
                 
-                <pb n="3r" break="no"/>
-                <lb n="3r1=10" break="no"/>-śr<unclear>ī</unclear>-v<unclear>i</unclear>ṣṇugopasya putraḥ                
-            </item>
+                <div type="textpart" n="B">
+                    
+                    <head xml:lang="eng">Plates</head>
+                    
+                    <pb n="1r"/>
+                    
+                    <p>
+                        <pb n="1v"/>
+                        <fw place="top-left" n="1v"><g type="spiral"/></fw>
+                        <fw place="left" n="1v">1</fw>
+                        <lb n="1v1=1"/>jitam bhagavatā svasti
+                    </p>
+                    
+                    <p>
+                        śrī-vijaya-skandhāvārān menmātur-āvāsakāt        
+                        <list>
+                            
+                            <item>
+                                parama-brahmaṇya
+                                <lb n="1v2=2" break="no"/>sya sva-bāhu-balārjjitorjita-kṣātra-tapo-nidh<choice><sic>a</sic><corr>e</corr></choice>r vvidhi-vihita-sarvva-maryyādasya 
+                                <lb n="1v3=3"/>sthiti-sthitasyām<unclear reason="eccentric_ductus">i</unclear>tātmano mahārājasya pṛ<choice><sic>dh</sic><corr>th</corr></choice>ivī-talaika-vīrasya śrī-vīravarmmaṇaḥ prapautro
+                            </item>
+                            
+                            <item>
+                                <pb n="2r"/>
+                                <lb n="2r1=4"/>’bhyuccita-śakti-siddhi-sampannasya pratāpopanata-rāja-maṇḍalasya bhagavad-bhakti-sad-bhā
+                                <lb n="2r2=5" break="no"/>va-sambhāvita-sarvva-kalyāṇasyāneka-go-hiraṇya-bhūmy-ādi-pradānaiḥ pravṛ
+                                <lb n="2r3=6" break="no"/>ddha-dharmma-sañcayasya prajā-pālana-dakṣasya lokapālānāṁ pañcamasya 
+                                
+                                <pb n="2v"/>
+                                <fw place="left" n="2v">2</fw>
+                                <lb n="2v1=7"/>lokapālasya mahātmano mahārāja-śrī-skan<unclear reason="eccentric_ductus">d</unclear>avarmmaṇaḥ pautro 
+                            </item>
+                            
+                            <item>
+                                deva-dvija 
+                                <lb n="2v2=8" break="no"/>-guru-vṛddh<choice><sic>ā</sic><corr>o</corr></choice>pacāyino vivṛddha-vinayasyāneka-saṁgrāma-sāhasāva
+                                <lb n="2v3=9" break="no"/>mard<unclear reason="eccentric_ductus">d</unclear>opalabdha-vijaya-yaśaḥ-prakāśasya satyātmano yuva-mahārāja
+                                
+                                <pb n="3r" break="no"/>
+                                <lb n="3r1=10" break="no"/>-śr<unclear>ī</unclear>-v<unclear>i</unclear>ṣṇugopasya putraḥ                
+                            </item>
+                            
+                            <item>
+                                kali-yuga-doṣāvasanna-dharmmoddharaṇa-nitya-sannaddhasya
+                                <lb n="3r2=11"/>spṛhaṇīya-parākramo rāja-rṣi-guṇa-sarvva-san<unclear reason="eccentric_ductus">d</unclear>oha-vijigīṣur ddharmma-vijigīṣuḥ 
+                                <lb n="3r3=12"/>bhagavat-pādānuddhyāto bappa-bh<choice><sic>ā</sic><corr>a</corr></choice>ṭṭāraka-pāda-bhaktaḥ parama-bhāgavato bhāradvājaḥ
+                                
+                                <pb n="3v"/>
+                                <fw place="left" n="3v"><supplied reason="omitted">3</supplied></fw>
+                                
+                                <lb n="3v1=13"/>sva-vikramākrāntānya-nṛpa-śrī-nilayānāṁ yathāvad-āhṛtānekāśvamedhānāM 
+                                <lb n="3v2=14"/>pallavānān dharmma-mahārāja-śrī-siṁhavarmmā 
+                            </item>
+                        </list>       
+                        
+                        muṇḍarāṣṭre pīkire grāme grā
+                        <lb n="3v3=15" break="no"/>meyakān atrādhikṛtān sarvvādhyakṣa-valla<choice><sic>v</sic><corr>bh</corr></choice>a-śāsana-sañcāriṇaś cājñāpayaty 
+                    </p>
+                    
+                    <p>        
+                        ayaṁ grāmaḥ 
+                        <pb n="4r"/>
+                        <lb n="4r1=16"/>kāśyapāya taittirīyāya vilāsaśarmmaṇe sarvva-parihāropeto deva 
+                        <lb n="4r2=17" break="no"/>-bhoga-hala-varjjam asmad-āyur-bala-vijayābhivṛddhaye samedhamāna
+                        <lb n="4r3=18" break="no"/>-vijaya-r<choice><sic>a</sic><corr>ā</corr></choice>jya-pañcama-sa<supplied reason="omitted">ṁ</supplied>vatsarāśvayuja-śukla-pakṣa-tṛtīyāyāM <gap reason="illegible" quantity="1" unit="character"/>
+                        
+                        <pb n="4v"/>
+                        <fw place="left" n="4v">4</fw>
+                        <lb n="4v1=19"/>brahmadeyī-kṛty<unclear>ā</unclear>smābhis samprattas 
+                        
+                    </p>    
+                    
+                    <p>
+                        tatas sarvva-parihārai<unclear reason="eccentric_ductus">r</unclear> a<unclear reason="eccentric_ductus">ya</unclear>ṁ grāmaḥ parihartta
+                        <lb n="4v2=20" break="no"/>vya<supplied reason="omitted">ḥ</supplied> parihāray<choice><orig><unclear>ī</unclear></orig><reg>i</reg></choice>tavyaś ca 
+                    </p>
+                    
+                    <p>
+                        yaś c<choice><sic>o</sic><corr>e</corr></choice>dam asmac-chāsanam atikrāmet sa pāpaś śā
+                        <lb n="4v3=21" break="no"/>rīran daṇḍam arhaty
+                    </p>
+                    <p>               
+                        <choice><sic>i</sic><corr>a</corr></choice>pi c<unclear>ā</unclear>trārṣāḥ ślokāḥ <g type="ddanda">.</g>
+                    </p>
+                    
+                    <lg n="1" met="anuṣṭubh">
+                        <l n="a">bhūmi-dāna-saman dānam</l>
+                        <l n="b">iha loke na <pb n="5r"/><lb n="5r1=22"/>vidyate</l>
+                        <l n="c">yaḥ prayacchati bhūmiṁ hi</l>
+                        <l n="d">sarvva-kāmān dadāti saḥ</l>
+                    </lg>    
+                    
+                    <lg n="2" met="anuṣṭubh">
+                        <l n="a">bahubhir <unclear reason="eccentric_ductus">v</unclear>vasudhā dattā</l>
+                        <l n="b"><lb n="5r2=23"/>bahubhiś c<unclear>ā</unclear>nupālitā</l>
+                        <l n="c">yasya yasya yadā bhūmis</l>
+                        <l n="d">tasya tasya <unclear reason="eccentric_ductus">tadā</unclear> phalaM</l>
+                    </lg>    
+                    
+                    <lg n="3" met="anuṣṭubh">
+                        <l n="a"><lb n="5r3=24"/>sva-dattāṁ para-dattā<supplied reason="omitted">ṁ</supplied> vā</l>
+                        <l n="b">yo hare<unclear>ta</unclear> vasundharāM</l>
+                        <l n="c">gav<unclear>ā</unclear><supplied reason="omitted">ṁ</supplied> <unclear>śata</unclear>-sahasrasya</l>
+                        <l n="d">haṁtuḥ pibati kilbiṣaM</l>
+                    </lg>
+                    
+                    
+                    <pb n="5v"/>
+                </div>
+            </div>
             
-            <item>
-                kali-yuga-doṣāvasanna-dharmmoddharaṇa-nitya-sannaddhasya
-                <lb n="3r2=11"/>spṛhaṇīya-parākramo rāja-rṣi-guṇa-sarvva-san<unclear reason="eccentric_ductus">d</unclear>oha-vijigīṣur ddharmma-vijigīṣuḥ 
-                <lb n="3r3=12"/>bhagavat-pādānuddhyāto bappa-bh<choice><sic>ā</sic><corr>a</corr></choice>ṭṭāraka-pāda-bhaktaḥ parama-bhāgavato bhāradvājaḥ
+            <div type="apparatus">
                 
-                <pb n="3v"/>
-                <fw place="left" n="3v"><supplied reason="omitted">3</supplied></fw>
+                <div type="textpart" xml:lang="san-Latn" n="B">
+                    <head xml:lang="eng">Plates</head>
+                    
+                    <listApp>
+                        
+                        <!--<app loc="0">
+                            <lem>...</lem>
+                            <rdg source="bib:Hultzsch1905-1906_05">...</rdg>
+                            <note>...</note>
+                            </app>-->
+                        
+                        <app loc="1v, top left margin">
+                            <lem>@</lem>
+                            <rdg source="bib:Hultzsch1905-1906_05 bib:Brocquet1997_01">Oṁ</rdg>
+                            <note><ptr target="bib:Hultzsch1905-1906_05"/>: <quote>Expressed by the same symbol as in the Māṅgaḷūr grant [IP 14].</quote></note>
+                        </app>
+                        
+                        <app loc="3">
+                            <lem>°sthitasyām<unclear reason="eccentric_ductus">i</unclear>tātmano</lem>
+                            <rdg source="bib:Hultzsch1905-1906_05">°sthitasyām<unclear>i</unclear>tātmano</rdg>
+                            <note>The medial <foreign>i</foreign> in <foreign>mi</foreign> is visible but not entirely drawn because of the binding hole of the plate.</note>
+                        </app>
+                        
+                        <app loc="18">
+                            <lem><gap reason="illegible" quantity="1" unit="character"/></lem>
+                            <note><ptr target="bib:Hultzsch1905-1906_05"/>: <quote>Here follows a symbol which I cannot make out. Perhaps it is a flourish which serves to fill up the vacant space at the end of the line.</quote></note>
+                        </app>
+                        
+                        <app loc="22">
+                            <lem><unclear reason="eccentric_ductus">v</unclear>vasudhā</lem>
+                            <rdg source="bib:Hultzsch1905-1906_05"/>
+                            <note>The first <foreign>v</foreign> is imperfectly drawn and looks like <foreign>bh</foreign>.</note>
+                        </app>                        
+                        
+                    </listApp>
+                    
+                </div>
                 
-                <lb n="3v1=13"/>sva-vikramākrāntānya-nṛpa-śrī-nilayānāṁ yathāvad-āhṛtānekāśvamedhānāM 
-                <lb n="3v2=14"/>pallavānān dharmma-mahārāja-śrī-siṁhavarmmā 
-            </item>
-        </list>       
-        
-        muṇḍarāṣṭre pīkire grāme grā
-        <lb n="3v3=15" break="no"/>meyakān atrādhikṛtān sarvvādhyakṣa-valla<choice><sic>v</sic><corr>bh</corr></choice>a-śāsana-sañcāriṇaś cājñāpayaty 
-    </p>
-    
-    <p>        
-        ayaṁ grāmaḥ 
-        <pb n="4r"/>
-        <lb n="4r1=16"/>kāśyapāya taittirīyāya vilāsaśarmmaṇe sarvva-parihāropeto deva 
-        <lb n="4r2=17" break="no"/>-bhoga-hala-varjjam asmad-āyur-bala-vijayābhivṛddhaye samedhamāna
-        <lb n="4r3=18" break="no"/>-vijaya-r<choice><sic>a</sic><corr>ā</corr></choice>jya-pañcama-sa<supplied reason="omitted">ṁ</supplied>vatsarāśvayuja-śukla-pakṣa-tṛtīyāyāM <gap reason="illegible" quantity="1" unit="character"/>
-        
-        <pb n="4v"/>
-        <fw place="left" n="4v">4</fw>
-        <lb n="4v1=19"/>brahmadeyī-kṛty<unclear>ā</unclear>smābhis samprattas 
-        
-    </p>    
-    
-    <p>
-        tatas sarvva-parihārai<unclear reason="eccentric_ductus">r</unclear> a<unclear reason="eccentric_ductus">ya</unclear>ṁ grāmaḥ parihartta
-        <lb n="4v2=20" break="no"/>vya<supplied reason="omitted">ḥ</supplied> parihāray<choice><orig><unclear>ī</unclear></orig><reg>i</reg></choice>tavyaś ca 
-    </p>
-    
-    <p>
-        yaś c<choice><sic>o</sic><corr>e</corr></choice>dam asmac-chāsanam atikrāmet sa pāpaś śā
-        <lb n="4v3=21" break="no"/>rīran daṇḍam arhaty
-    </p>
-    <p>               
-        <choice><sic>i</sic><corr>a</corr></choice>pi c<unclear>ā</unclear>trārṣāḥ ślokāḥ <g type="ddanda">.</g>
-    </p>
-    
-    <lg n="1" met="anuṣṭubh">
-        <l n="a">bhūmi-dāna-saman dānam</l>
-        <l n="b">iha loke na <pb n="5r"/><lb n="5r1=22"/>vidyate</l>
-        <l n="c">yaḥ prayacchati bhūmiṁ hi</l>
-        <l n="d">sarvva-kāmān dadāti saḥ</l>
-    </lg>    
-    
-    <lg n="2" met="anuṣṭubh">
-        <l n="a">bahubhir <unclear reason="eccentric_ductus">v</unclear>vasudhā dattā</l>
-        <l n="b"><lb n="5r2=23"/>bahubhiś c<unclear>ā</unclear>nupālitā</l>
-        <l n="c">yasya yasya yadā bhūmis</l>
-        <l n="d">tasya tasya <unclear reason="eccentric_ductus">tadā</unclear> phalaM</l>
-    </lg>    
-    
-    <lg n="3" met="anuṣṭubh">
-        <l n="a"><lb n="5r3=24"/>sva-dattāṁ para-dattā<supplied reason="omitted">ṁ</supplied> vā</l>
-        <l n="b">yo hare<unclear>ta</unclear> vasundharāM</l>
-        <l n="c">gav<unclear>ā</unclear><supplied reason="omitted">ṁ</supplied> <unclear>śata</unclear>-sahasrasya</l>
-        <l n="d">haṁtuḥ pibati kilbiṣaM</l>
-    </lg>
-    
-    
-        <pb n="5v"/>
-</div>
-</div>
-
-<div type="apparatus">
-
-    <div type="textpart" xml:lang="san-Latn" n="B">
-        <head xml:lang="eng">Plates</head>
-        
-        <listApp>
+            </div>
             
-            <!--<app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:Hultzsch1905-1906_05">...</rdg>
-                <note>...</note>
-            </app>-->
+            <!--<div type="translation" resp="part:emfr">
+                
+                </div>-->
             
-            <app loc="1v, top left margin">
-                <lem>@</lem>
-                <rdg source="bib:Hultzsch1905-1906_05 bib:Brocquet1997_01">Oṁ</rdg>
-                <note><ptr target="bib:Hultzsch1905-1906_05"/>: <quote>Expressed by the same symbol as in the Māṅgaḷūr grant [IP 14].</quote></note>
-            </app>
+            <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
+                
+                <p n="1">Oṁ<note resp="part:emfr">Selon une des interprétations anciennes de la signification du symbole (une spirale) dans la marge gauche supérieure.</note> ! Le Bienheureux est vainqueur ! Prospérité !</p>
+                <p n="1">Depuis le quartier général de la victoire, depuis le séjour de Menmāturā :</p>
+                
+                <p n="1-15">
+                    <list>
+                        <item>
+                            arrière-petit-fils du Grand Roi Śrī-Vīravarman, très pieux trésor d’austérité qui conquit son titre royal par la force de son bras, qui assura le respect de toutes les lois conformément aux prescriptions, qui respecta l’Ordre, qui se montra infiniment magnanime, héros unique sur la surface de la Terre ;
+                        </item>
+                        <item>
+                            petit-fils du Grand Roi Śrī-Skandavarman, qui accrut sa puissance et son succès, dont la majesté fit plier le cercle des rois, dont la réelle dévotion envers le Bienheureux engendra pour tous la prospérité, qui, par de multiples dons, notamment de vaches, d’or et de terres, augmenta son capital dharmique, qui se montra habile à protéger ses sujets, qui fut parmi les Gardiens du Monde le Cinquième Gardien du Monde, qui se montra magnanime ;
+                        </item>
+                        <item>
+                            fils du Prince Héritier Śrī-Viṣṇugopa, qui honora les dieux, les prêtres, les maîtres et les anciens, qui pratiqua la vertu la plus sévère, qu’illustra la gloire d’avoir, dans plus d’une bataille, remporté la victoire en écrasant la témérité, qui montra un esprit sincère, qui à chaque instant se tint prêt à soutenir le dharma que ruinent les péchés de l’âge Kali ;
+                        </item>
+                        <item>
+                            Grand Roi des Pallava selon le <foreign>dharma</foreign>, réceptacles de prospérité dont la valeur subjuga les autres rois et qui accomplirent selon les rites plus d’un sacrifice du cheval, Śrī-Siṁhavarman, dont le courage mérite l’envie, qui souhaite conquérir l’ensemble des vertus des rois ascètes, qui souhaite conquérir le dharma, qui jouit de la faveur des pieds du Bienheureux, qui offre sa dévotion aux pieds de l’illustre seigneur son père, qui se montre un sectateur passionné du Bienheureux, qui decend de Bharadvāja, 
+                        </item>
+                    </list>
+                    adresse aux villageois du village de Pīkira, dans le Muṇḍa-rāṣṭra, ainsi qu’à tous les <foreign>adhyakṣa</foreign>, <foreign>vallabha</foreign> et <foreign>śāsana-sañcarin</foreign><note>Ici encore, comme au N° 8 [B 8], on ne peut préciser si l’expression <foreign>(atr)ādhikṛtān</foreign> revêt son sens technique ou signifie simplement « affectés à cette région ».</note> affectés à cette région, l’ordonnance suivante :
+                </p>
+                
+                <p n="15-19">
+                    ce village, avec toutes les exemptions et à l’exception des terres cultivées dont le Dieu a la jouissance, nous en faisons donation, après conversion en <foreign>brahmadeya</foreign>, à Vilāsaśarman, descendant de Kaśyapa appartenant au Taittirīya<note>Indication du <foreign>śākha</foreign>.</note>, pour l’accroissement de la durée de notre vie, celui de notre puissance et de nos victoires, le troisième jour de la quinzaine claire d’Āśvayuja, en la cinquième année de notre règne prospère et victorieux. 
+                </p>
+                
+                <p n="19-20">
+                    Par conséquent, qu’on respecte et fasse respecter toutes les exemptions qui affectent ce village.
+                </p>
+                
+                <p n="20-21">
+                    Et quiconque transgressera ce commandement qui émane de nous sera un criminel encourant un châtiment corporel.
+                </p>
+                
+                <p n="21">
+                    Et il y a encore, à ce sujet, des stances composées par les sages :
+                </p>
+                
+                <p rend="stanza" n="1">
+                    <l>De don semblable au don de terre,</l>
+                    <l>En ce monde cela n’existe point ;</l>
+                    <l>Car celui qui offre une terre</l>
+                    <l>Exauce tous les désirs.</l>
+                </p>	
+                
+                <p rend="stanza" n="2">
+                    <l>Beaucoup ont donné une terre,</l>
+                    <l>Et beaucoup l’ont conservée ;</l>
+                    <l>A qui va la terre</l>
+                    <l>Va aussi le fruit.</l>
+                </p> 
+                
+                <p rend="stanza" n="3">
+                    <l>Donnée par soi ou donnée par autrui,</l>
+                    <l>Quiconque s’approprie une terre,</l>
+                    <l>Du meurtrier de cent mille vaches</l>
+                    <l>Prend sur lui le forfait.</l>
+                </p>
+                
+            </div>
             
-            <app loc="3">
-                <lem>°sthitasyām<unclear reason="eccentric_ductus">i</unclear>tātmano</lem>
-                <rdg source="bib:Hultzsch1905-1906_05">°sthitasyām<unclear>i</unclear>tātmano</rdg>
-                <note>The medial <foreign>i</foreign> in <foreign>mi</foreign> is visible but not entirely drawn because of the binding hole of the plate.</note>
-            </app>
+            <div type="commentary"/>
             
-            <app loc="18">
-                <lem><gap reason="illegible" quantity="1" unit="character"/></lem>
-                <note><ptr target="bib:Hultzsch1905-1906_05"/>: <quote>Here follows a symbol which I cannot make out. Perhaps it is a flourish which serves to fill up the vacant space at the end of the line.</quote></note>
-            </app>
+            <div type="bibliography">
+                <p>
+                    Edited in <bibl><ptr target="bib:Hultzsch1905-1906_05"/></bibl> (EI 8.15), with visual documentation.
+                    Edited in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>.
+                    Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 13).
+                    Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 10).
+                </p>
+                <p>This revised edition by Emmanuel Francis, based on the published visual documentation.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="EI">
+                        <ptr target="bib:Hultzsch1905-1906_05"/></bibl>
+                    
+                    <bibl n="TPC">
+                        <ptr target="bib:Subrahmanian1966_01"/>
+                        <citedRange unit="page">297-302</citedRange>
+                    </bibl>
+                    
+                    <bibl n="IP">
+                        <ptr target="bib:Mahalingam1988_01"/>
+                        <citedRange unit="page">71-73</citedRange>
+                        <citedRange unit="item">13</citedRange>
+                    </bibl>
+                    
+                    <bibl n="B">
+                        <ptr target="bib:Brocquet1997_01"/>
+                        <citedRange unit="page">425-430</citedRange>
+                        <citedRange unit="item">10</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:Francis2013_01"/>
+                        <citedRange unit="item">IR 16</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
             
-            <app loc="22">
-                <lem><unclear reason="eccentric_ductus">v</unclear>vasudhā</lem>
-                <rdg source="bib:Hultzsch1905-1906_05"/>
-                <note>The first <foreign>v</foreign> is imperfectly drawn and looks like <foreign>bh</foreign>.</note>
-            </app>                        
-            
-        </listApp>
-        
-    </div>
-	
-</div>
-
-<!--<div type="translation" resp="part:emfr">
-	
-</div>-->
-      	
-<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
-
-    <p n="1">Oṁ<note resp="part:emfr">Selon une des interprétations anciennes de la signification du symbole (une spirale) dans la marge gauche supérieure.</note> ! Le Bienheureux est vainqueur ! Prospérité !</p>
-    <p n="1">Depuis le quartier général de la victoire, depuis le séjour de Menmāturā :</p>
-    
-    <p n="1-15">
-        <list>
-            <item>
-                arrière-petit-fils du Grand Roi Śrī-Vīravarman, très pieux trésor d’austérité qui conquit son titre royal par la force de son bras, qui assura le respect de toutes les lois conformément aux prescriptions, qui respecta l’Ordre, qui se montra infiniment magnanime, héros unique sur la surface de la Terre ;
-            </item>
-            <item>
-                petit-fils du Grand Roi Śrī-Skandavarman, qui accrut sa puissance et son succès, dont la majesté fit plier le cercle des rois, dont la réelle dévotion envers le Bienheureux engendra pour tous la prospérité, qui, par de multiples dons, notamment de vaches, d’or et de terres, augmenta son capital dharmique, qui se montra habile à protéger ses sujets, qui fut parmi les Gardiens du Monde le Cinquième Gardien du Monde, qui se montra magnanime ;
-            </item>
-            <item>
-                fils du Prince Héritier Śrī-Viṣṇugopa, qui honora les dieux, les prêtres, les maîtres et les anciens, qui pratiqua la vertu la plus sévère, qu’illustra la gloire d’avoir, dans plus d’une bataille, remporté la victoire en écrasant la témérité, qui montra un esprit sincère, qui à chaque instant se tint prêt à soutenir le dharma que ruinent les péchés de l’âge Kali ;
-            </item>
-            <item>
-                Grand Roi des Pallava selon le <foreign>dharma</foreign>, réceptacles de prospérité dont la valeur subjuga les autres rois et qui accomplirent selon les rites plus d’un sacrifice du cheval, Śrī-Siṁhavarman, dont le courage mérite l’envie, qui souhaite conquérir l’ensemble des vertus des rois ascètes, qui souhaite conquérir le dharma, qui jouit de la faveur des pieds du Bienheureux, qui offre sa dévotion aux pieds de l’illustre seigneur son père, qui se montre un sectateur passionné du Bienheureux, qui decend de Bharadvāja, 
-            </item>
-        </list>
-        adresse aux villageois du village de Pīkira, dans le Muṇḍa-rāṣṭra, ainsi qu’à tous les <foreign>adhyakṣa</foreign>, <foreign>vallabha</foreign> et <foreign>śāsana-sañcarin</foreign><note>Ici encore, comme au N° 8 [B 8], on ne peut préciser si l’expression <foreign>(atr)ādhikṛtān</foreign> revêt son sens technique ou signifie simplement « affectés à cette région ».</note> affectés à cette région, l’ordonnance suivante :
-    </p>
-        
-    <p n="15-19">
-        ce village, avec toutes les exemptions et à l’exception des terres cultivées dont le Dieu a la jouissance, nous en faisons donation, après conversion en <foreign>brahmadeya</foreign>, à Vilāsaśarman, descendant de Kaśyapa appartenant au Taittirīya<note>Indication du <foreign>śākha</foreign>.</note>, pour l’accroissement de la durée de notre vie, celui de notre puissance et de nos victoires, le troisième jour de la quinzaine claire d’Āśvayuja, en la cinquième année de notre règne prospère et victorieux. 
-    </p>
-          
-    <p n="19-20">
-        Par conséquent, qu’on respecte et fasse respecter toutes les exemptions qui affectent ce village.
-    </p>
-    
-    <p n="20-21">
-        Et quiconque transgressera ce commandement qui émane de nous sera un criminel encourant un châtiment corporel.
-    </p>
-    
-    <p n="21">
-        Et il y a encore, à ce sujet, des stances composées par les sages :
-    </p>
-    
-    <p rend="stanza" n="1">
-        <l>De don semblable au don de terre,</l>
-        <l>En ce monde cela n’existe point ;</l>
-        <l>Car celui qui offre une terre</l>
-        <l>Exauce tous les désirs.</l>
-    </p>	
-    
-      <p rend="stanza" n="2">
-        <l>Beaucoup ont donné une terre,</l>
-        <l>Et beaucoup l’ont conservée ;</l>
-        <l>A qui va la terre</l>
-        <l>Va aussi le fruit.</l>
-    </p> 
-        
-    <p rend="stanza" n="3">
-        <l>Donnée par soi ou donnée par autrui,</l>
-        <l>Quiconque s’approprie une terre,</l>
-        <l>Du meurtrier de cent mille vaches</l>
-        <l>Prend sur lui le forfait.</l>
-    </p>
-    
-</div>
-	
-<div type="commentary"/>
-
-<div type="bibliography">
-	<p>Edited in <bibl><ptr target="bib:Hultzsch1905-1906_05"/></bibl> (EI 8.15), with visual documentation. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 13). Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 10).</p>
-	<p>This revised edition by Emmanuel Francis, based on the published visual documentation.</p>
-
-            <listBibl type="primary">
-
-            	<bibl n="EI">
-            		<ptr target="bib:Hultzsch1905-1906_05"/></bibl>
-
-            	<bibl n="IP">
-            		<ptr target="bib:Mahalingam1988_01"/>
-            		<citedRange unit="page">71-73</citedRange>
-            		<citedRange unit="item">13</citedRange>
-            	</bibl>
-
-            	<bibl n="B">
-            		<ptr target="bib:Brocquet1997_01"/>
-            		<citedRange unit="page">425-430</citedRange>
-            		<citedRange unit="item">10</citedRange>
-            	</bibl>
-
-            </listBibl>
-
-            <listBibl type="secondary">
-            	<bibl>
-            		<ptr target="bib:Francis2013_01"/>
-            		<citedRange unit="item">IR 16</citedRange>
-            	</bibl>
-
-           </listBibl>
-
-         </div>
-
-      </body>
-  </text>
+        </body>
+    </text>
 </TEI>

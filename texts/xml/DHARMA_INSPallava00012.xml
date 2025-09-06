@@ -5,320 +5,330 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	
-<teiHeader>
-    <fileDesc>
-        <titleStmt>
-            <title>Oṁgoḍu grant, time of Siṁhavarman, year 4</title>
-            <respStmt>
-                <resp>author of digital edition</resp>
-                <persName ref="part:emfr">
-                    <forename>Emmanuel</forename>
-                    <surname>Francis</surname>
-                </persName>
-            </respStmt>
-        </titleStmt>
-        <publicationStmt>
-            <authority>DHARMA</authority>
-            <pubPlace>Paris, CEIAS</pubPlace>
-            <idno type="filename">DHARMA_INSPallava00012</idno>
-            <availability>
-                <licence target="https://creativecommons.org/licenses/by/4.0/">
-                    <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-                        Licence. To view a copy of the licence, visit
-                        https://creativecommons.org/licenses/by/4.0/ or send a letter to
-                        Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-                        California, 94041, USA.</p>
-                    <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-                </licence>
-            </availability>
-            <date from="2019" to="2025">2019-2025</date>
-        </publicationStmt>
-        <sourceDesc>
-            <msDesc>
-                <msIdentifier>
-                    <repository>DHARMAbase</repository>
-                    <idno/>
-                </msIdentifier>
-                <msContents>
-                    <summary>...</summary>
-                </msContents>
-                <physDesc>
-                    <handDesc>
-                        <p>...</p>
-                    </handDesc>
-                </physDesc>
-            </msDesc>
-        </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-        <projectDesc>
-            <p>The project DHARMA has received funding from the European Research Council (ERC)
-                under the European Union's Horizon 2020 research and innovation programme (grant
-                agreement no 809994).</p>
-        </projectDesc>
-        <schemaRef type="guide" key="EGDv01"
-            url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-        <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
-                    ERC-DHARMA whose data are open to the public.</p>
-            </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)"
-                replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-                <p>Internal URIs using the part prefix to point to person elements in the
-                    <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-            </prefixDef>
-        </listPrefixDef>
-    </encodingDesc>
-    <revisionDesc>
-        <change who="part:emfr" when="2025-02-14" status="draft">Creation of the file</change>
-    </revisionDesc>
-</teiHeader>
-	
-<text xml:space="preserve">
-<body>
-
-<div type="edition" xml:lang="san-Latn" rendition="class:brāhmī_southern maturity:regional">
-
-    <pb n="1r"/>
     
-    <p>
-        <pb n="1v"/>
-        <lb n="1v1=1"/>ji<add place="below">ta</add><supplied reason="omitted">ṁ</supplied> bhagavatā svasti
-    </p>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Oṁgoḍu grant, time of Siṁhavarman, year 4</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSPallava00012</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>...</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>...</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2025-02-14" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
     
-    <p>
-        śrī-vijaya-skandh<choice><sic>a</sic><corr>ā</corr></choice>vārā<unclear>t</unclear>        
-        <list>
+    <text xml:space="preserve">
+        <body>
             
-            <item>
-                <unclear>pa</unclear>r<choice><sic>ā</sic><corr>a</corr></choice>ma-brahmaṇya
-                <lb n="1v2=2" break="no"/>sya sva-bāhu-bal<choice><sic>a</sic><corr>ā</corr></choice>rjjitorjjita-<unclear>kṣāt</unclear><choice><orig>ṟ</orig><reg>ra</reg></choice>-ta<unclear>po</unclear>-nidher vvidhi
-                <lb n="1v3=3" break="no"/>-vihita-sarvva-maryyādasya sthiti-sthitasy<unclear>ā</unclear>mitātmano mahā
-                <lb n="1v4=4" break="no"/>rājasya prithiv<unclear>ī</unclear>-tal<unclear>ai</unclear>ka-vīrasya śrī-vīravarm<unclear>m</unclear>aṇa<unclear>ḥ</unclear> prapautro
-            </item>
+            <div type="edition" xml:lang="san-Latn" rendition="class:brāhmī_southern maturity:regional">
+                
+                <pb n="1r"/>
+                
+                <p>
+                    <pb n="1v"/>
+                    <lb n="1v1=1"/>ji<add place="below">ta</add><supplied reason="omitted">ṁ</supplied> bhagavatā svasti
+                </p>
+                
+                <p>
+                    śrī-vijaya-skandh<choice><sic>a</sic><corr>ā</corr></choice>vārā<unclear>t</unclear>        
+                    <list>
+                        
+                        <item>
+                            <unclear>pa</unclear>r<choice><sic>ā</sic><corr>a</corr></choice>ma-brahmaṇya
+                            <lb n="1v2=2" break="no"/>sya sva-bāhu-bal<choice><sic>a</sic><corr>ā</corr></choice>rjjitorjjita-<unclear>kṣāt</unclear><choice><orig>ṟ</orig><reg>ra</reg></choice>-ta<unclear>po</unclear>-nidher vvidhi
+                            <lb n="1v3=3" break="no"/>-vihita-sarvva-maryyādasya sthiti-sthitasy<unclear>ā</unclear>mitātmano mahā
+                            <lb n="1v4=4" break="no"/>rājasya prithiv<unclear>ī</unclear>-tal<unclear>ai</unclear>ka-vīrasya śrī-vīravarm<unclear>m</unclear>aṇa<unclear>ḥ</unclear> prapautro
+                        </item>
+                        
+                        <item>
+                            ’py a
+                            <pb n="2r" break="no"/>
+                            <lb n="2r1=5" break="no"/><unclear>rcci</unclear>ta-śakti-siddhi-sampannasya prat<unclear>ā</unclear>popana<unclear>ta-rā</unclear>ja-maṇḍalasya <unclear>bha</unclear>gavad
+                            <lb n="2r2=6" break="no"/>-bhakti-sambhāva-sambhāvita-sarvva-kalyāṇasy<choice><sic>a</sic><corr>ā</corr></choice>neka-go 
+                            <lb n="2r3=7" break="no"/>-hiraṇya-bhūmy-ādi-pradānaiḥ pravṛ<unclear reason="eccentric_ductus">d</unclear>dha-dharmma-sañca
+                            <lb n="2r4=8" break="no"/>yasya prajā-pālana-dakṣasya loka-pālānā<supplied reason="omitted">ṁ</supplied> pañca<supplied reason="omitted">ma</supplied>sya lo
+                            <pb n="2v" break="no"/>
+                            <lb n="2v1=9" break="no"/>ka-pālasya mahātmano mahārāja-śrī-skandavarmmaṇaḥ pau
+                            <lb n="2v2=10" break="no"/>tro
+                        </item>
+                        
+                        <item>
+                            deva-dvija-guru-vṛddhopasevino vivṛddha-vinayasy<choice><sic>a</sic><corr>ā</corr></choice>
+                            <lb n="2v3=11" break="no"/>neka-saṁgrāma-s<choice><sic>a</sic><corr>ā</corr></choice>hasāvama<supplied reason="omitted">r</supplied>ddopalabdha-vijaya-yaśa<supplied reason="omitted">ḥ</supplied>-pr<choice><sic>ā</sic><corr>a</corr></choice>
+                            <lb n="2v4=12" break="no"/>kāśasya satyātmano yuva-mahārāja-śrī-viṣṇugopasy<choice><sic>ā</sic><corr>a</corr></choice> putraḥ
+                        </item>
+                        
+                        <item>
+                            <pb n="3r"/>
+                            <lb n="3r1=13"/>ka<unclear>l</unclear>i-yuga-doṣāvasanna-dharmmod<choice><sic>dū</sic><corr>dha</corr></choice>]araṇa<surplus>ḥ</surplus>-nitya-<choice><sic>ś</sic><corr>s</corr></choice>a<unclear>nna</unclear>ddho rāja-gu
+                            <lb n="3r2=14" break="no"/>ṇa-<choice><sic>ś</sic><corr>s</corr></choice>arvva-sandoha-vijigī<choice><sic>p</sic><corr>ṣ</corr></choice>u<unclear>r</unclear> dharmma-vijigī<choice><sic>p</sic><corr>ṣ</corr></choice>ur bhagavat-pādānu<choice><sic>v</sic><corr>dh</corr></choice>yāto
+                            <lb n="3r3=15" break="no"/>bappa-bhaṭṭāraka-pāda-bhakta<supplied reason="omitted">ḥ</supplied> parama-bhāgavato bhārad<choice><sic>dh</sic><corr>v</corr></choice>āja-sa
+                            <lb n="3r4=16" break="no"/><add place="above">gotr<choice><sic>a</sic><corr>o</corr></choice></add> vikramākrānt<choice><sic>a</sic><corr>ā</corr></choice>nya-nṛpat<choice><sic>a</sic><corr>i</corr></choice>-śr<choice><orig>i</orig><reg>ī</reg></choice>-nilayānāṁ yathāvad-āhṛtāneka-krat<choice><sic>u</sic><corr>ū</corr></choice><unclear>nāṁ</unclear>
+                            <pb n="3v"/>
+                            <lb n="3v1=17"/>śata-kratu<surplus>nāṁ</surplus>-kalp<choice><sic>a</sic><corr>ā</corr></choice>nāṁ <supplied reason="omitted">śrī</supplied>-vallabhānāṁ pallavānāṁ dharmma-mahārāja-śrī-siṁ
+                            <lb n="3v2=18" break="no"/>havarmm<unclear>ā</unclear>
+                        </item>
+                    </list>     
+                </p>
+                <p>
+                    karmma-<choice><orig>ṟ</orig><reg>r</reg></choice>ā<choice><sic>ṇ</sic><corr>ṣ</corr></choice>ṭ<choice><orig>ṟ</orig><reg>r</reg></choice>e O<supplied reason="omitted">ṁ</supplied>go<surplus>ṁ</surplus>ḍu-grāma<unclear>ḥ</unclear>
+                    
+                    <list>
+                        <item>k<unclear>o</unclear>ḍikiṁ-grām<choice><sic>o</sic><corr>aḥ</corr></choice> pūrvvat<choice><sic>aḥ</sic><corr>o</corr></choice></item>
+                        <item>naṟācaḍu
+                            <lb n="3v3=19" break="no"/>-gram<choice><sic>o</sic><corr>aḥ</corr></choice> daksiṇataḥ</item>
+                        <item>kaḍākuduru-grām<choice><sic>o</sic><corr>aḥ</corr></choice> pa<unclear>ś</unclear>cimataḥ</item>
+                        <item>peṇukapaṟṟu
+                            <lb n="3v4=20" break="no"/>-grāma Uttarataḥ</item></list>
+                </p>
+                <p>
+                    Evaṁ catur-avadhi-ma<unclear>dh</unclear>ye pūrvva-bhoga-vivarjjita<choice><sic>ḥ</sic><corr>ṁ</corr></choice>        
+                    <pb n="4r"/>
+                    <lb n="4r1=21"/>kuṇḍūr-vv<choice><sic>a</sic><corr>ā</corr></choice>stavyāy<choice><sic>ā</sic><corr>a</corr></choice> kāśyapa-gotrāya chando-vide sarvva-śāstra-kuśa
+                    <lb n="4r2=22" break="no"/>lā<unclear>ya</unclear> devaśarmma<choice><sic>n</sic><corr>ṇ</corr></choice>e grah<choice><sic>ā</sic><corr>a</corr></choice>ṇa-nimittaṁ Asmad-āyur-bbala-vi
+                    <lb n="4r3=23" break="no"/>jayābhivṛddhaye sampr<unclear>ā</unclear>dāma <g type="danda">.</g>        
+                </p>
+                
+                <p>
+                    tad i<choice><sic>m</sic><corr>d</corr></choice>aṁ sarvva-parihārai<supplied reason="omitted">ḥ</supplied> pa
+                    <lb n="4r4=24" break="no"/>riha<supplied reason="omitted">r</supplied><unclear>t</unclear>tavya<unclear>m</unclear> parihārayit<choice><sic>e</sic><corr>a</corr></choice>vyañ ca        
+                </p>
+                
+                <p>
+                    yaś ceda<choice><sic>ṁ</sic><corr>m</corr></choice> Asmac-chā
+                    <pb n="4v" break="no"/>
+                    <lb n="4v1=25" break="no"/><choice><sic>ś</sic><corr>s</corr></choice>anam atikrāme<supplied reason="omitted">t</supplied> sa pāpaḥ śārīra-daṇḍam arhati
+                </p>    
+                
+                <p>               
+                    <choice><sic>Āśī</sic><corr>Api</corr></choice> <choice><sic>ch</sic><corr>c</corr></choice>ātrā
+                    <lb n="4v2=26" break="no"/><supplied reason="omitted">r</supplied>ṣā<supplied reason="omitted">ḥ</supplied> ślokā bhavanti 
+                </p>
+                
+                <lg n="1" met="anuṣṭubh">
+                    <l n="a">bhūmi-dāna<surplus>ṁ</surplus>-saman dān<choice><sic>ā</sic><corr>a</corr></choice>m</l>
+                    <l n="b">na<surplus>ṁ</surplus> bhūt<choice><sic>o</sic><corr>aṁ</corr></choice> na bhavi<lb n="4v3=27" break="no"/><surplus>vi</surplus>ṣyati</l>
+                    <l n="c">tasyaiva haraṇāt pāpa<supplied reason="omitted">ṁ</supplied></l>
+                    <l n="d">na bhūt<choice><sic>o</sic><corr>aṁ</corr></choice> na bhaviṣyati</l>
+                </lg>    
+                
+                <lg n="2" met="anuṣṭubh">
+                    <l n="a"><lb n="4v4=28"/>sva-datt<choice><sic>a</sic><corr>ā</corr></choice>ṁ para-dattāṁ <choice><sic>g</sic><corr>v</corr></choice>ā</l>
+                    <l n="b">yo hareta vasundharāM</l>
+                    <l n="c">gavāṁ śata<pb n="5r" break="no"/><lb n="5r1=29" break="no"/>-sahasrasya</l>
+                    <l n="d">hantuḫ pibati kilbiṣaM</l>
+                </lg>    
+                
+                <lg n="3" met="anuṣṭubh">
+                    <l n="a">bahubhir vvasu<choice><sic>d</sic><corr>dh</corr></choice>ā <add place="below">da</add>ttā</l>
+                    <l n="b">bahu<lb n="5r2=30" break="no"/>bhiś cānupālit<choice><sic>aM</sic><corr>ā</corr></choice></l>
+                    <l n="c">yasya yasya ya<choice><sic>th</sic><corr>d</corr></choice>ā bhūm<choice><sic>ā</sic><corr>is</corr></choice></l>
+                    <l n="d">tasya ta<lb n="5r3=31" break="no"/>sya tadā phalaM</l>
+                </lg>
+                
+                <p>
+                    sa<supplied reason="omitted">medhamāna</supplied>-vijaya-rājya-sa<supplied reason="omitted">ṁ</supplied>
+                    vatsare cat<choice><sic>ū</sic><corr>u</corr></choice>rtthe vaiśākha-śukla
+                    <lb n="5r4=32" break="no"/>-pakṣa-pañ<unclear>c</unclear>amyā<unclear>ṁ</unclear> dattaṁ
+                </p>
+                
+                <p>bhaṭṭārakā<unclear>ṇāṁ</unclear> s<unclear>va</unclear>-mukhā<supplied reason="omitted">j</supplied>ñaptyā likhitam <choice><sic>a</sic><corr>i</corr></choice>da<unclear>ṁ</unclear> <g type="danda">.</g></p>
+                
+                <pb n="5v"/>
+                
+            </div>
             
-            <item>
-                 ’py a
-                <pb n="2r" break="no"/>
-                <lb n="2r1=5" break="no"/><unclear>rcci</unclear>ta-śakti-siddhi-sampannasya prat<unclear>ā</unclear>popana<unclear>ta-rā</unclear>ja-maṇḍalasya <unclear>bha</unclear>gavad
-                <lb n="2r2=6" break="no"/>-bhakti-sambhāva-sambhāvita-sarvva-kalyāṇasy<choice><sic>a</sic><corr>ā</corr></choice>neka-go 
-                <lb n="2r3=7" break="no"/>-hiraṇya-bhūmy-ādi-pradānaiḥ pravṛ<unclear reason="eccentric_ductus">d</unclear>dha-dharmma-sañca
-                <lb n="2r4=8" break="no"/>yasya prajā-pālana-dakṣasya loka-pālānā<supplied reason="omitted">ṁ</supplied> pañca<supplied reason="omitted">ma</supplied>sya lo
-                <pb n="2v" break="no"/>
-                <lb n="2v1=9" break="no"/>ka-pālasya mahātmano mahārāja-śrī-skandavarmmaṇaḥ pau
-                <lb n="2v2=10" break="no"/>tro
-            </item>
-            
-            <item>
-                deva-dvija-guru-vṛddhopasevino vivṛddha-vinayasy<choice><sic>a</sic><corr>ā</corr></choice>
-                <lb n="2v3=11" break="no"/>neka-saṁgrāma-s<choice><sic>a</sic><corr>ā</corr></choice>hasāvama<supplied reason="omitted">r</supplied>ddopalabdha-vijaya-yaśa<supplied reason="omitted">ḥ</supplied>-pr<choice><sic>ā</sic><corr>a</corr></choice>
-                <lb n="2v4=12" break="no"/>kāśasya satyātmano yuva-mahārāja-śrī-viṣṇugopasy<choice><sic>ā</sic><corr>a</corr></choice> putraḥ
-            </item>
-            
-            <item>
-                <pb n="3r"/>
-                <lb n="3r1=13"/>ka<unclear>l</unclear>i-yuga-doṣāvasanna-dharmmod<choice><sic>dū</sic><corr>dha</corr></choice>]araṇa<surplus>ḥ</surplus>-nitya-<choice><sic>ś</sic><corr>s</corr></choice>a<unclear>nna</unclear>ddho rāja-gu
-                <lb n="3r2=14" break="no"/>ṇa-<choice><sic>ś</sic><corr>s</corr></choice>arvva-sandoha-vijigī<choice><sic>p</sic><corr>ṣ</corr></choice>u<unclear>r</unclear> dharmma-vijigī<choice><sic>p</sic><corr>ṣ</corr></choice>ur bhagavat-pādānu<choice><sic>v</sic><corr>dh</corr></choice>yāto
-                <lb n="3r3=15" break="no"/>bappa-bhaṭṭāraka-pāda-bhakta<supplied reason="omitted">ḥ</supplied> parama-bhāgavato bhārad<choice><sic>dh</sic><corr>v</corr></choice>āja-sa
-                <lb n="3r4=16" break="no"/><add place="above">gotr<choice><sic>a</sic><corr>o</corr></choice></add> vikramākrānt<choice><sic>a</sic><corr>ā</corr></choice>nya-nṛpat<choice><sic>a</sic><corr>i</corr></choice>-śr<choice><orig>i</orig><reg>ī</reg></choice>-nilayānāṁ yathāvad-āhṛtāneka-krat<choice><sic>u</sic><corr>ū</corr></choice><unclear>nāṁ</unclear>
-                <pb n="3v"/>
-                <lb n="3v1=17"/>śata-kratu<surplus>nāṁ</surplus>-kalp<choice><sic>a</sic><corr>ā</corr></choice>nāṁ <supplied reason="omitted">śrī</supplied>-vallabhānāṁ pallavānāṁ dharmma-mahārāja-śrī-siṁ
-                <lb n="3v2=18" break="no"/>havarmm<unclear>ā</unclear>
-            </item>
-        </list>     
-    </p>
-    <p>
-        karmma-<choice><orig>ṟ</orig><reg>r</reg></choice>ā<choice><sic>ṇ</sic><corr>ṣ</corr></choice>ṭ<choice><orig>ṟ</orig><reg>r</reg></choice>e O<supplied reason="omitted">ṁ</supplied>go<surplus>ṁ</surplus>ḍu-grāma<unclear>ḥ</unclear>
-         
-        <list>
-            <item>k<unclear>o</unclear>ḍikiṁ-grām<choice><sic>o</sic><corr>aḥ</corr></choice> pūrvvat<choice><sic>aḥ</sic><corr>o</corr></choice></item>
-            <item>naṟācaḍu
-                <lb n="3v3=19" break="no"/>-gram<choice><sic>o</sic><corr>aḥ</corr></choice> daksiṇataḥ</item>
-            <item>kaḍākuduru-grām<choice><sic>o</sic><corr>aḥ</corr></choice> pa<unclear>ś</unclear>cimataḥ</item>
-            <item>peṇukapaṟṟu
-        <lb n="3v4=20" break="no"/>-grāma Uttarataḥ</item></list>
-    </p>
-    <p>
-        Evaṁ catur-avadhi-ma<unclear>dh</unclear>ye pūrvva-bhoga-vivarjjita<choice><sic>ḥ</sic><corr>ṁ</corr></choice>        
-        <pb n="4r"/>
-        <lb n="4r1=21"/>kuṇḍūr-vv<choice><sic>a</sic><corr>ā</corr></choice>stavyāy<choice><sic>ā</sic><corr>a</corr></choice> kāśyapa-gotrāya chando-vide sarvva-śāstra-kuśa
-        <lb n="4r2=22" break="no"/>lā<unclear>ya</unclear> devaśarmma<choice><sic>n</sic><corr>ṇ</corr></choice>e grah<choice><sic>ā</sic><corr>a</corr></choice>ṇa-nimittaṁ Asmad-āyur-bbala-vi
-        <lb n="4r3=23" break="no"/>jayābhivṛddhaye sampr<unclear>ā</unclear>dāma <g type="danda">.</g>        
-    </p>
-    
-    <p>
-        tad i<choice><sic>m</sic><corr>d</corr></choice>aṁ sarvva-parihārai<supplied reason="omitted">ḥ</supplied> pa
-        <lb n="4r4=24" break="no"/>riha<supplied reason="omitted">r</supplied><unclear>t</unclear>tavya<unclear>m</unclear> parihārayit<choice><sic>e</sic><corr>a</corr></choice>vyañ ca        
-    </p>
-    
-    <p>
-        yaś ceda<choice><sic>ṁ</sic><corr>m</corr></choice> Asmac-chā
-        <pb n="4v" break="no"/>
-        <lb n="4v1=25" break="no"/><choice><sic>ś</sic><corr>s</corr></choice>anam atikrāme<supplied reason="omitted">t</supplied> sa pāpaḥ śārīra-daṇḍam arhati
-    </p>    
-        
-    <p>               
-        <choice><sic>Āśī</sic><corr>Api</corr></choice> <choice><sic>ch</sic><corr>c</corr></choice>ātrā
-        <lb n="4v2=26" break="no"/><supplied reason="omitted">r</supplied>ṣā<supplied reason="omitted">ḥ</supplied> ślokā bhavanti 
-    </p>
-    
-    <lg n="1" met="anuṣṭubh">
-        <l n="a">bhūmi-dāna<surplus>ṁ</surplus>-saman dān<choice><sic>ā</sic><corr>a</corr></choice>m</l>
-        <l n="b">na<surplus>ṁ</surplus> bhūt<choice><sic>o</sic><corr>aṁ</corr></choice> na bhavi<lb n="4v3=27" break="no"/><surplus>vi</surplus>ṣyati</l>
-        <l n="c">tasyaiva haraṇāt pāpa<supplied reason="omitted">ṁ</supplied></l>
-        <l n="d">na bhūt<choice><sic>o</sic><corr>aṁ</corr></choice> na bhaviṣyati</l>
-    </lg>    
-    
-    <lg n="2" met="anuṣṭubh">
-        <l n="a"><lb n="4v4=28"/>sva-datt<choice><sic>a</sic><corr>ā</corr></choice>ṁ para-dattāṁ <choice><sic>g</sic><corr>v</corr></choice>ā</l>
-        <l n="b">yo hareta vasundharāM</l>
-        <l n="c">gavāṁ śata<pb n="5r" break="no"/><lb n="5r1=29" break="no"/>-sahasrasya</l>
-        <l n="d">hantuḫ pibati kilbiṣaM</l>
-    </lg>    
-    
-    <lg n="3" met="anuṣṭubh">
-        <l n="a">bahubhir vvasu<choice><sic>d</sic><corr>dh</corr></choice>ā <add place="below">da</add>ttā</l>
-        <l n="b">bahu<lb n="5r2=30" break="no"/>bhiś cānupālit<choice><sic>aM</sic><corr>ā</corr></choice></l>
-        <l n="c">yasya yasya ya<choice><sic>th</sic><corr>d</corr></choice>ā bhūm<choice><sic>ā</sic><corr>is</corr></choice></l>
-        <l n="d">tasya ta<lb n="5r3=31" break="no"/>sya tadā phalaM</l>
-    </lg>
-    
-    <p>
-        sa<supplied reason="omitted">medhamāna</supplied>-vijaya-rājya-sa<supplied reason="omitted">ṁ</supplied>
-            vatsare cat<choice><sic>ū</sic><corr>u</corr></choice>rtthe vaiśākha-śukla
-        <lb n="5r4=32" break="no"/>-pakṣa-pañ<unclear>c</unclear>amyā<unclear>ṁ</unclear> dattaṁ
-    </p>
-    
-    <p>bhaṭṭārakā<unclear>ṇāṁ</unclear> s<unclear>va</unclear>-mukhā<supplied reason="omitted">j</supplied>ñaptyā likhitam <choice><sic>a</sic><corr>i</corr></choice>da<unclear>ṁ</unclear> <g type="danda">.</g></p>
-        
-        <pb n="5v"/>
-
-</div>
-
-<!--<div type="apparatus">
-        
-        <listApp>
-            
-            <app loc="0">
+            <!--<div type="apparatus">
+                
+                <listApp>
+                
+                <app loc="0">
                 <lem>...</lem>
                 <rdg source="bib:KrishnaSastri1919-1920_01">...</rdg>
                 <note>...</note>
-            </app>
+                </app>
+                
+                </listApp>        
+                
+                </div>-->
             
-        </listApp>        
-	
-</div>-->
-
-<!--<div type="translation" resp="part:emfr">
-	
-</div>-->
-      	
-<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
-
-    <p n="1">Le Bienheureux est vainqueur ! Prospérité !</p>
-    <p n="1">Depuis le quartier général de la victoire :</p>
-    
-    <p n="1-18">
-        <list>
-            <item>
-                arrière-petit-fils du Grand Roi Śrī-Vīravarman, très pieux trésor d’austérité qui conquit son titre royal par la force de son bras, qui assura le respect de toutes les lois conformément aux prescriptions, qui respecta l’Ordre, qui se montra infiniment magnanime, héros unique sur la surface de la Terre ;
-            </item>
-            <item>
-                petit-fils du Grand Roi Śrī-Skandavarman, dont on respecta la puissance et le succès, dont la majesté fit plier le cercle des rois, dont la réelle dévotion envers le Bienheureux engendra pour tous la prospérité, qui, par de multiples dons, notamment de vaches, d’or et de terres, augmenta son capital dharmique, qui se montra habile à protéger ses sujets, qui fut parmi les Gardiens du Monde le Cinquième Gardien du monde, qui se montra magnanime ;
-            </item>
-            <item>
-                fils du Prince Héritier Śrī-Viṣṇugopa, qui révéra les dieux, les prêtres, les maîtres et les anciens, qui pratiqua la vertu la plus sévère, qu’illustra la gloire d’avoir, dans plus d’une bataille, remporté la victoire en écrasant la témérité, qui montra un esprit sincère ;</item>
-            <item>
-Grand Roi des Pallava selon le <foreign>dharma</foreign>, réceptacles de prospérité dont la valeur subjuga les autres rois, qui accomplirent selon les rites plus d’un sacrifice, qui furent les égaux de Śatakratu et les favoris de la Fortune - Śrī-Siṁhavarman, qui à chaque instant se tient prêt à soutenir le dharma que ruinent les péchés de l’âge Kali, qui souhaite conquérir l’ensemble des vertus royales, qui souhaite conquérir le <foreign>dharma</foreign>, qui jouit de la faveur des pieds du Bienheureux, qui offre sa dévotion aux pieds de son père, l’illustre seigneur, qui se montre un sectateur passionné du Bienheureux, qui est membre du <foreign>gotra</foreign> de Bharadvāja,</item>
-        </list>
-        <supplied reason="subaudible">déclare</supplied> :
-    </p>
-        
-    <p n="18-23">
-        Nous avons fait donation du village d’Ōṁgōḍu, dans le Karma-rāṣṭra - situé entre les quatre limites suivantes : le village de Koḍikim à l’Est ; le village de Naṟācaḍu au Sud ; le village de Kaḍākuduru à l’ouest, et le village de Peṇakapaṟṟru au nord -, à l’exception des terrains dont la jouissance a été cédée antérieurement, à Devaśarman, qui habite Kuṇḍūr, appartient au <foreign>gotra</foreign> de Kāśyapa, connaît les hymnes chantés et se montre un expert dans tous les traités, à l’occasion d’une éclipse, et pour l’accroissement de la durée de notre vie, celui de notre puissance et de nos victoires.
-    </p>
-    
-    <p n="23-24">
-        En conséquence, qu’on respecte et fasse respecter toutes les exemptions qui affectent ce terrain.
-    </p>
-          
-    <p n="24-25">
-        Et quiconque transgressera ce commandement qui émane de nous sera un criminel encourant un châtiment corporel.
-    </p>
-    
-    <p n="25-26">
-        Et il y a, à ce propos, des stances composées par les sages :
-    </p>
-    
-    <p rend="stanza" n="1">
-        <l>De don semblable au don de terre,</l>
-        <l>Il n’y en eut point et n’y en aura point ;</l>
-        <l>Hormis le fait de s’en emparer, de crime</l>
-        <l>Il n’y eut point et n’y aura point.</l>
-    </p>	
-    
-      <p rend="stanza" n="2">
-        <l>Donnée par soi ou donnée par autrui,</l>
-        <l>Quiconque s’approprie une terre,</l>
-        <l>Du meurtrier de cent mille vaches</l>
-        <l>Prend sur lui le forfait.</l>
-    </p>
-    
-    <p rend="stanza" n="3">
-        <l>Beaucoup ont donné une terre,</l>
-        <l>Et beaucoup l’ont préservée ;</l>
-        <l>A qui va la terre</l>
-        <l>Va aussi le fruit.</l>
-    </p> 
-    
-    <p n="31-32">
-        Cette donation fut faite le cinquième jour de la quinzaine claire du mois de Vaiśākha, en la quatrième année de notre règne prospère et victorieux.
-    </p>
-    
-    <p n="32">
-        Ceci fut gravé sur injonction orale de l’Illustre Seigneur lui-même.
-    </p>
-</div>
-	
-<div type="commentary"/>
-
-<div type="bibliography">
-	
-    <p>Edited in <bibl><ptr target="bib:KrishnaSastri1919-1920_01"/></bibl> (EI 15.11B), with visual documentation. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 12). Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 9).</p>
-	<p>This revised edition by Emmanuel Francis, based on the published visual documentation.</p>
-
-            <listBibl type="primary">
-
-            	<bibl n="EI">
-            		<ptr target="bib:KrishnaSastri1919-1920_01"/></bibl>
-
-            	<bibl n="IP">
-            		<ptr target="bib:Mahalingam1988_01"/>
-            		<citedRange unit="page">67-70</citedRange>
-            		<citedRange unit="item">12</citedRange>
-            	</bibl>
-
-            	<bibl n="B">
-            		<ptr target="bib:Brocquet1997_01"/>
-            		<citedRange unit="page">417-424</citedRange>
-            		<citedRange unit="item">9</citedRange>
-            	</bibl>
-
-            </listBibl>
-
-            <listBibl type="secondary">
-            	<bibl>
-            		<ptr target="bib:Francis2013_01"/>
-            		<citedRange unit="item">IR 15</citedRange>
-            	</bibl>
-
-           </listBibl>
-
-         </div>
-
-      </body>
-  </text>
+            <!--<div type="translation" resp="part:emfr">
+                
+                </div>-->
+            
+            <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
+                
+                <p n="1">Le Bienheureux est vainqueur ! Prospérité !</p>
+                <p n="1">Depuis le quartier général de la victoire :</p>
+                
+                <p n="1-18">
+                    <list>
+                        <item>
+                            arrière-petit-fils du Grand Roi Śrī-Vīravarman, très pieux trésor d’austérité qui conquit son titre royal par la force de son bras, qui assura le respect de toutes les lois conformément aux prescriptions, qui respecta l’Ordre, qui se montra infiniment magnanime, héros unique sur la surface de la Terre ;
+                        </item>
+                        <item>
+                            petit-fils du Grand Roi Śrī-Skandavarman, dont on respecta la puissance et le succès, dont la majesté fit plier le cercle des rois, dont la réelle dévotion envers le Bienheureux engendra pour tous la prospérité, qui, par de multiples dons, notamment de vaches, d’or et de terres, augmenta son capital dharmique, qui se montra habile à protéger ses sujets, qui fut parmi les Gardiens du Monde le Cinquième Gardien du monde, qui se montra magnanime ;
+                        </item>
+                        <item>
+                            fils du Prince Héritier Śrī-Viṣṇugopa, qui révéra les dieux, les prêtres, les maîtres et les anciens, qui pratiqua la vertu la plus sévère, qu’illustra la gloire d’avoir, dans plus d’une bataille, remporté la victoire en écrasant la témérité, qui montra un esprit sincère ;</item>
+                        <item>
+                            Grand Roi des Pallava selon le <foreign>dharma</foreign>, réceptacles de prospérité dont la valeur subjuga les autres rois, qui accomplirent selon les rites plus d’un sacrifice, qui furent les égaux de Śatakratu et les favoris de la Fortune - Śrī-Siṁhavarman, qui à chaque instant se tient prêt à soutenir le dharma que ruinent les péchés de l’âge Kali, qui souhaite conquérir l’ensemble des vertus royales, qui souhaite conquérir le <foreign>dharma</foreign>, qui jouit de la faveur des pieds du Bienheureux, qui offre sa dévotion aux pieds de son père, l’illustre seigneur, qui se montre un sectateur passionné du Bienheureux, qui est membre du <foreign>gotra</foreign> de Bharadvāja,</item>
+                    </list>
+                    <supplied reason="subaudible">déclare</supplied> :
+                </p>
+                
+                <p n="18-23">
+                    Nous avons fait donation du village d’Ōṁgōḍu, dans le Karma-rāṣṭra - situé entre les quatre limites suivantes : le village de Koḍikim à l’Est ; le village de Naṟācaḍu au Sud ; le village de Kaḍākuduru à l’ouest, et le village de Peṇakapaṟṟru au nord -, à l’exception des terrains dont la jouissance a été cédée antérieurement, à Devaśarman, qui habite Kuṇḍūr, appartient au <foreign>gotra</foreign> de Kāśyapa, connaît les hymnes chantés et se montre un expert dans tous les traités, à l’occasion d’une éclipse, et pour l’accroissement de la durée de notre vie, celui de notre puissance et de nos victoires.
+                </p>
+                
+                <p n="23-24">
+                    En conséquence, qu’on respecte et fasse respecter toutes les exemptions qui affectent ce terrain.
+                </p>
+                
+                <p n="24-25">
+                    Et quiconque transgressera ce commandement qui émane de nous sera un criminel encourant un châtiment corporel.
+                </p>
+                
+                <p n="25-26">
+                    Et il y a, à ce propos, des stances composées par les sages :
+                </p>
+                
+                <p rend="stanza" n="1">
+                    <l>De don semblable au don de terre,</l>
+                    <l>Il n’y en eut point et n’y en aura point ;</l>
+                    <l>Hormis le fait de s’en emparer, de crime</l>
+                    <l>Il n’y eut point et n’y aura point.</l>
+                </p>	
+                
+                <p rend="stanza" n="2">
+                    <l>Donnée par soi ou donnée par autrui,</l>
+                    <l>Quiconque s’approprie une terre,</l>
+                    <l>Du meurtrier de cent mille vaches</l>
+                    <l>Prend sur lui le forfait.</l>
+                </p>
+                
+                <p rend="stanza" n="3">
+                    <l>Beaucoup ont donné une terre,</l>
+                    <l>Et beaucoup l’ont préservée ;</l>
+                    <l>A qui va la terre</l>
+                    <l>Va aussi le fruit.</l>
+                </p> 
+                
+                <p n="31-32">
+                    Cette donation fut faite le cinquième jour de la quinzaine claire du mois de Vaiśākha, en la quatrième année de notre règne prospère et victorieux.
+                </p>
+                
+                <p n="32">
+                    Ceci fut gravé sur injonction orale de l’Illustre Seigneur lui-même.
+                </p>
+            </div>
+            
+            <div type="commentary"/>
+            
+            <div type="bibliography">
+                
+                <p>
+                    Edited in <bibl><ptr target="bib:KrishnaSastri1919-1920_01"/></bibl> (EI 15.11B), with visual documentation.
+                    Edited in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>.
+                    Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 12).
+                    Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 9).
+                </p>
+                <p>This revised edition by Emmanuel Francis, based on the published visual documentation.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="EI">
+                        <ptr target="bib:KrishnaSastri1919-1920_01"/></bibl>
+                    
+                    <bibl n="TPC">
+                        <ptr target="bib:Subrahmanian1966_01"/>
+                        <citedRange unit="page">331-338</citedRange>
+                    </bibl>
+                    
+                    <bibl n="IP">
+                        <ptr target="bib:Mahalingam1988_01"/>
+                        <citedRange unit="page">67-70</citedRange>
+                        <citedRange unit="item">12</citedRange>
+                    </bibl>
+                    
+                    <bibl n="B">
+                        <ptr target="bib:Brocquet1997_01"/>
+                        <citedRange unit="page">417-424</citedRange>
+                        <citedRange unit="item">9</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:Francis2013_01"/>
+                        <citedRange unit="item">IR 15</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>

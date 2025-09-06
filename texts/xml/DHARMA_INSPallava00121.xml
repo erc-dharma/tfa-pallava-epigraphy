@@ -471,6 +471,7 @@
                 
                 <p>
                     Edited in <bibl><ptr target="bib:KrishnaSastri1916_01"/></bibl>, with English translation (<ref target="DHARMA_INSSIIv02p0i0098">SII 2.98</ref>).
+                    Edited in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>.
                     Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 121).
                     Sanskrit text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 60).
                 </p>
@@ -485,6 +486,11 @@
                         <citedRange unit="item">98</citedRange>
                     </bibl>
                     
+                    <bibl n="TPC">
+                        <ptr target="bib:Subrahmanian1966_01"/>
+                        <citedRange unit="page">249-262</citedRange>
+                    </bibl>
+                                        
                     <bibl n="IP">
                         <ptr target="bib:Mahalingam1988_01"/>
                         <citedRange unit="page">372-379</citedRange>

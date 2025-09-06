@@ -233,7 +233,7 @@
                         <l n="cd">
                             Uttarakāraṇikākhyas tanayaḥ parameśvaraḥ praśastim imām <g type="floret">.</g></l>
                     </lg>
-                                        
+                    
                     <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         kō-vicaiya-nanti-vikkirama
                         <lb n="2v6=27" break="no"/>...
@@ -291,6 +291,7 @@
                 
                 <p>
                     Edited in <bibl><ptr target="bib:KrishnaSastri1916_01"/></bibl> (SII 2.99).
+                    Edited in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>.
                     Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 89).
                     Sanskrit text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 57).
                 </p>
@@ -304,6 +305,11 @@
                         <citedRange unit="page">517-535</citedRange>
                         <citedRange unit="item">99</citedRange>
                     </bibl>
+                    
+                    <bibl n="TPC">
+                        <ptr target="bib:Subrahmanian1966_01"/>
+                        <citedRange unit="page">205-236</citedRange>
+                    </bibl>                    
                     
                     <bibl n="IP">
                         <ptr target="bib:Mahalingam1988_01"/>

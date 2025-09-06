@@ -132,17 +132,17 @@
                     </p>
                     <p>                        
                         Ayaṃ grāma<supplied reason="omitted">ḥ</supplied> kuravaśrī-vās<choice><sic>th</sic><corr>t</corr></choice>tavyasya  rāthitara-sagotrasya
-                         <lb n="2v4=14" break="no"/>Āpastaṃb<surplus>h</surplus>a-sūtrādhyāyinaḥ dveda-pāragasya veda-vedāṃge<surplus>ḥ</surplus>tihāsa-purāṇa-ta<choice><orig>t</orig><reg>tt</reg></choice>va-vi
-                         <lb n="2v5=15" break="no"/>da<supplied reason="omitted">ḥ</supplied> kūḷaśarmmaṇa<choice><sic>sya</sic><corr>s</corr></choice> pautrāya dv<choice><sic>i</sic><corr>e</corr></choice>da-pāragasya kumāraśarmmaṇa<supplied reason="omitted">ḥ</supplied>
+                        <lb n="2v4=14" break="no"/>Āpastaṃb<surplus>h</surplus>a-sūtrādhyāyinaḥ dveda-pāragasya veda-vedāṃge<surplus>ḥ</surplus>tihāsa-purāṇa-ta<choice><orig>t</orig><reg>tt</reg></choice>va-vi
+                        <lb n="2v5=15" break="no"/>da<supplied reason="omitted">ḥ</supplied> kūḷaśarmmaṇa<choice><sic>sya</sic><corr>s</corr></choice> pautrāya dv<choice><sic>i</sic><corr>e</corr></choice>da-pāragasya kumāraśarmmaṇa<supplied reason="omitted">ḥ</supplied>
                         putrāya dveda-pāragāya 
                         
                         <pb n="3r" break="no"/>
                         <lb n="3r1=16"/>nitya-svādhyāya-niratāya soma-yājine kumāramaṇḍaśarmmaṇe Asmāka<supplied reason="omitted">ṃ</supplied> Āyur 
-                         <lb n="3r2=17" break="no"/>-bala-vijaya-Aiśvaryyābhivṛddhaye brahmade<choice><sic>hi</sic><corr>yī</corr></choice>-kṛtyāsmābhir ddatta<supplied reason="omitted">ḥ</supplied> pravarddhamāna-vijaya 
-                         <lb n="3r3=18" break="no"/>-rājya-saṃvatsare dvādaśa-varṣe vaiśākha-paurṇṇa-māsy<choice><sic>e</sic><corr>āṃ</corr></choice> soma-grahaṇa-nimitte datta<supplied reason="omitted">ḥ</supplied>
+                        <lb n="3r2=17" break="no"/>-bala-vijaya-Aiśvaryyābhivṛddhaye brahmade<choice><sic>hi</sic><corr>yī</corr></choice>-kṛtyāsmābhir ddatta<supplied reason="omitted">ḥ</supplied> pravarddhamāna-vijaya 
+                        <lb n="3r3=18" break="no"/>-rājya-saṃvatsare dvādaśa-varṣe vaiśākha-paurṇṇa-māsy<choice><sic>e</sic><corr>āṃ</corr></choice> soma-grahaṇa-nimitte datta<supplied reason="omitted">ḥ</supplied>
                     </p>
                     <p>Eva
-                         <lb n="3r4=19" break="no"/>m avagamye<surplus>I</surplus>m<choice><sic>ā</sic><corr>a</corr></choice><supplied reason="omitted">m a</supplied>mātyā<supplied reason="omitted">ḥ</supplied> sarvv<choice><sic>āḥ</sic><corr>e</corr></choice> karaṇa-yuktā<supplied reason="omitted">ḥ</supplied> sarvva-niyogakāḥ rāja-vallabhāś ca sañcarant<choice><sic>ā</sic><corr>a</corr></choice>ḥ 
+                        <lb n="3r4=19" break="no"/>m avagamye<surplus>I</surplus>m<choice><sic>ā</sic><corr>a</corr></choice><supplied reason="omitted">m a</supplied>mātyā<supplied reason="omitted">ḥ</supplied> sarvv<choice><sic>āḥ</sic><corr>e</corr></choice> karaṇa-yuktā<supplied reason="omitted">ḥ</supplied> sarvva-niyogakāḥ rāja-vallabhāś ca sañcarant<choice><sic>ā</sic><corr>a</corr></choice>ḥ 
                         
                         <lb n="3r5=20"/>sarvva-kara-par<supplied reason="omitted">i</supplied>hāra<choice><sic>ḥ</sic><corr>ṃ</corr></choice> pariharantu
                     </p>
@@ -197,7 +197,7 @@
                         <!--<app loc="0">
                             <lem>...</lem>
                             <rdg source="bib:Desai1951-1952_01">...</rdg>			
-                        </app>-->
+                            </app>-->
                         
                         <app loc="8">
                             <lem source="bib:Brocquet1997_01">°sarvva-<supplied reason="omitted">kalyāṇaḥ</supplied></lem>
@@ -291,14 +291,24 @@
             <div type="commentary"/>
             
             <div type="bibliography">
-                <p>Edited in <bibl><ptr target="bib:Desai1951-1952_01"/></bibl> (EI 29.11), with visual documentation. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 53). Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 37).</p>
+                <p>
+                    Edited in <bibl><ptr target="bib:Desai1951-1952_01"/></bibl> (EI 29.11), with visual documentation.
+                    Edited in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>.
+                    Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 53).
+                    Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 37).
+                </p>
                 <p>This revised edition by Emmanuel Francis, based on the published visual documentation.</p>
                 
                 <listBibl type="primary">
                     
                     <bibl n="EI">
-                        <ptr target="bib:Desai1951-1952_01"/></bibl>
+                        <ptr target="bib:Desai1951-1952_01"/></bibl>                    
                     
+                    <bibl n="TPC">
+                        <ptr target="bib:Subrahmanian1966_01"/>
+                        <citedRange unit="page">75-88</citedRange>                    
+                    </bibl>
+                                        
                     <bibl n="IP">
                         <ptr target="bib:Mahalingam1988_01"/>
                         <citedRange unit="page">169-172</citedRange>

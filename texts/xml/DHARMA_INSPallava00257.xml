@@ -110,13 +110,13 @@
                     
                     <lg n="3" met="	sragdharā">
                         <l n="abcd">...
-                             <pb n="2r"/>                        
-                        <lb n="2r1=9"/>...
+                            <pb n="2r"/>                        
+                            <lb n="2r1=9"/>...
                         </l>
                     </lg>
                     
                     <ab>                        
-                       svasti śrī
+                        svasti śrī
                     </ab>
                     
                     <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
@@ -188,6 +188,7 @@
                 
                 <p>
                     Edited in <bibl><ptr target="bib:Hultzsch1898-1899_01"/></bibl> (EI 5.8).
+                    Edited in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>.
                     Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 257).
                     Sanskrit text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 71).
                 </p>
@@ -198,6 +199,11 @@
                     
                     <bibl n="EI">
                         <ptr target="bib:Hultzsch1898-1899_01"/>
+                    </bibl>                    
+                    
+                    <bibl n="TPC">
+                        <ptr target="bib:Subrahmanian1966_01"/>
+                        <citedRange unit="page">89-106</citedRange>
                     </bibl>
                     
                     <bibl n="IP">

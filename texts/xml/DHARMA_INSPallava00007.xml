@@ -77,244 +77,254 @@
         </revisionDesc>
     </teiHeader>
     
-<text xml:space="preserve">
-<body>
+    <text xml:space="preserve">
+        <body>
             
-<div type="edition" xml:lang="san-Latn" rendition="class:brāhmī_southern maturity:regional">
+            <div type="edition" xml:lang="san-Latn" rendition="class:brāhmī_southern maturity:regional">
                 
-    <pb n="1r"/>
-    
-    <p>
-        <pb n="1v"/>
-        <fw place="left" n="1v">1</fw>
-        <lb n="1v1=1"/><unclear>j</unclear>i<unclear>tam bha</unclear>gavatā
-    </p>
-    
-    <p>
-        vijaya-śrī-palakkaḍa-sthānāT
-        
-        <list>
-            <item>
-                parama-brahma
-                <lb n="1v2=2" break="no"/><unclear>ṇya</unclear>sa sva-b<unclear>ā</unclear>hu-balārjjito<unclear>r</unclear>jjita-kṣātra-tapo-nidheḥ
-                <lb n="1v3=3"/><unclear>vihi</unclear>ta-sarvva-maryyādasya sthiti-sthitasyāmitātmano
-                <lb n="1v4=4" break="no"/>mah<unclear>ā</unclear>rājasya śrī-skandavarmmaṇaḥ
-            </item>
-            <item>
-                prapautrasyārccita-śakti
+                <pb n="1r"/>
                 
-                <pb n="2r" break="no"/>
+                <p>
+                    <pb n="1v"/>
+                    <fw place="left" n="1v">1</fw>
+                    <lb n="1v1=1"/><unclear>j</unclear>i<unclear>tam bha</unclear>gavatā
+                </p>
                 
-                <lb n="2r1=5" break="no"/>siddhi-sampannasya pratāpopanata-rāja-maṇḍalasya mahā
-                <lb n="2r2=6" break="no"/>-rājasya vasudhā-talaika-vīrasya śrī-vīravarmmaṇaḥ
-                <lb n="2r3=7"/>pautrasya                
-            </item>
+                <p>
+                    vijaya-śrī-palakkaḍa-sthānāT
+                    
+                    <list>
+                        <item>
+                            parama-brahma
+                            <lb n="1v2=2" break="no"/><unclear>ṇya</unclear>sa sva-b<unclear>ā</unclear>hu-balārjjito<unclear>r</unclear>jjita-kṣātra-tapo-nidheḥ
+                            <lb n="1v3=3"/><unclear>vihi</unclear>ta-sarvva-maryyādasya sthiti-sthitasyāmitātmano
+                            <lb n="1v4=4" break="no"/>mah<unclear>ā</unclear>rājasya śrī-skandavarmmaṇaḥ
+                        </item>
+                        <item>
+                            prapautrasyārccita-śakti
+                            
+                            <pb n="2r" break="no"/>
+                            
+                            <lb n="2r1=5" break="no"/>siddhi-sampannasya pratāpopanata-rāja-maṇḍalasya mahā
+                            <lb n="2r2=6" break="no"/>-rājasya vasudhā-talaika-vīrasya śrī-vīravarmmaṇaḥ
+                            <lb n="2r3=7"/>pautrasya                
+                        </item>
+                        
+                        <item>
+                            deva-dvija-guru-vṛ<unclear>d</unclear>dh<unclear>o</unclear>pacāyino vivṛddha
+                            <lb n="2r4=8" break="no"/>vinaya<unclear>s</unclear>yāneka-<unclear>go</unclear>-hiraṇya-bhūmy-<unclear>ā</unclear>di-pradānaiḥ pravṛddha
+                            
+                            <pb n="2v" break="no"/>
+                            <fw place="left" n="2v">2</fw>
+                            
+                            <lb n="2v1=9" break="no"/>vinayasyāneka-go-hiraṇya-bhūmy-ādi-pr<choice><sic>ā</sic><corr>a</corr></choice>dānaiḥ pravṛddha
+                            <lb n="2v2=10" break="no"/>-dharmma-sañcayasya prajā-pālana-dakṣasya loka-pālānā
+                            <lb n="2v3=11" break="no"/>m pañcamasya loka-pālasya satyātmano mahātmano
+                            <lb n="2v4=12"/>mahārājasya śrī-skandavarmmaṇaḥ putrasya
+                        </item>
+                        
+                        <item>
+                            bhagavat-bhakti                                
+                            <pb n="3r" break="no"/>
+                            <lb n="3r1=13" break="no"/>sad-bhāva-sambhāvita-sarvva-kalyā<choice><sic>n</sic><corr>ṇ</corr></choice>asya prajā-saṁrañjana-pa
+                            <lb n="3r2=14" break="no"/>ripālanodyoga-satata-satra-vrata-dīkṣitasya Aneka
+                            <lb n="3r3=15" break="no"/>-samara-sāhasāvamardda-labdha-vijaya-ya<unclear>śa</unclear>ḥ-prakāśa
+                            <lb n="3r4=16" break="no"/><unclear>sya</unclear> kali-yuga-do<unclear>ṣā</unclear>vasanna-dharmm<unclear>o</unclear>ddharaṇa-nitya-sanna
+                            
+                            <pb n="3v" break="no"/>
+                            <fw place="left" n="3v">3</fw>
+                            
+                            <lb n="3v1=17" break="no"/>ddhasya rāja-<unclear>r</unclear>ṣ<unclear>i</unclear>-guṇa-sarvva-sandoha-vijigīṣor ddha<unclear>r</unclear>mma 
+                            <lb n="3v2=18" break="no"/>-vijigīṣor bhagavat-pādānuddhyātasya bappa-bhaṭṭāra
+                            <lb n="3v3=19" break="no"/>ka-mahārāja-pāda-bhaktasya parama-bhāgavatasya
+                            <lb n="3v4=20"/>bhāradvājasya pallavānāM yuva-mahārāja-śrī-viṣ<unclear reason="eccentric_ductus">ṇ</unclear>ugopasya
+                        </item>
+                    </list>
+                    
+                    <pb n="4r"/>
+                    <lb n="4r1=21"/><unclear>va</unclear>canena muṇḍa-rāṣṭre neḍuṅgarāye grāmeyakāḥ
+                    <lb n="4r2=22"/>vaktavyāḥ
+                </p>
+                <p>
+                    Eṣa grāmaḥ śāraṇika-nadippi-bhoja-
+                    <lb n="4r3=23" break="no"/>doddisvāmi-kaṇ<unclear reason="eccentric_ductus">ṇ</unclear>asvāmi-nandisvāmibhyaḥ bhāga-trayaṁ
+                    <lb n="4r4=24"/>kṛtvā
+                    
+                    <list>
+                        <item>tatrāpi bhāga-traye nadip<supplied reason="lost">p</supplied>i-bhojakasya bhāga 
+                            
+                            <pb n="4v" break="no"/>
+                            <fw place="left" n="4v">4</fw>        
+                            <lb n="4v1=25" break="no"/>-dvayaM kaṇṇasvāmi-nandisvāminor eko bhāgaḥ
+                        </item>
+                        <item>
+                            tatrā
+                            <lb n="4v2=26" break="no"/>py <unclear>e</unclear>kasmin bhāge bhāga-dvaya<unclear>ṁ</unclear> kaṇṇasvāminaḥ Eko bhāgo
+                            <lb n="4v3=27"/>nandisvāminaḥ</item>
+                    </list>
+                    
+                    Evaṁ vibhajya śāraṇika-grāma<unclear>ṁ</unclear> kṛtvā
+                    <lb n="4v4=28"/>Aṣṭāda<add place="below">śa</add>-jātibhiḫ parihārair upeto deva-bhoga-hala 
+                    
+                    <pb n="5r" break="no"/>
+                    <lb n="5r1=29" break="no"/>va<unclear>r</unclear>jya<unclear>ṁ</unclear> Asmad-āyur-bala-varddhanīyam asmābhis sampradatta<unclear>ḥ</unclear>
+                </p>
+                <p>        
+                    <lb n="5r2=30"/>tad avagamya tasmin viṣaye sarvvāyuktakāḥ sarvva-naiyyo-
+                    <lb n="5r3=31" break="no"/>gikāḥ rāja-vallabhāḥ <choice><sic>y</sic><corr>s</corr></choice>añcarantaś ca tad-grāmaṁ tathaiva 
+                    <lb n="5r4=32"/>parihāraiḥ pariharantu parihārayantu ca
+                </p>
+                <p>
+                    yaś ceda<supplied reason="omitted">m a</supplied>sma
+                    
+                    <pb n="5v" break="no"/>
+                    
+                    <lb n="5v1=33" break="no"/>c-chāsanam ati<choice><orig>kk</orig><reg>k</reg></choice>r<unclear>ā</unclear>met sa pāpaś <unclear reason="eccentric_ductus">ś</unclear>ārīraṁ daṇḍam arhati
+                </p>
+                <p>
+                    <lb n="5v2=34"/>śrī-siṁhavarmma-mahārājasya vijaya-saṁvatsare 
+                    <lb n="5v3=35"/>dvādaśame jyeṣṭha-māse kṛṣṇa-pakṣe trayo-
+                    <lb n="5v4=36" break="no"/>daśy<unclear>āṁ</unclear> mayā dattā tā<choice><sic>bpr</sic><corr>m</corr></choice>ra-paṭṭikā
+                </p>
+                
+            </div>
             
-            <item>
-                deva-dvija-guru-vṛ<unclear>d</unclear>dh<unclear>o</unclear>pacāyino vivṛddha
-                <lb n="2r4=8" break="no"/>vinaya<unclear>s</unclear>yāneka-<unclear>go</unclear>-hiraṇya-bhūmy-<unclear>ā</unclear>di-pradānaiḥ pravṛddha
-                                
-                <pb n="2v" break="no"/>
-                <fw place="left" n="2v">2</fw>
+            <div type="apparatus">	
                 
-                <lb n="2v1=9" break="no"/>vinayasyāneka-go-hiraṇya-bhūmy-ādi-pr<choice><sic>ā</sic><corr>a</corr></choice>dānaiḥ pravṛddha
-                <lb n="2v2=10" break="no"/>-dharmma-sañcayasya prajā-pālana-dakṣasya loka-pālānā
-                <lb n="2v3=11" break="no"/>m pañcamasya loka-pālasya satyātmano mahātmano
-                <lb n="2v4=12"/>mahārājasya śrī-skandavarmmaṇaḥ putrasya
-            </item>
+                <listApp>
+                    
+                    <!--
+                        <app loc="0">
+                        <lem>...</lem>
+                        <rdg source="bib:Venkataramanayya1969_03">...</rdg>			
+                        </app>
+                    -->
+                    
+                    <app loc="1">
+                        <lem><unclear>j</unclear>i<unclear>tam bha</unclear>gavatā</lem>
+                        <rdg source="bib:Venkataramanayya1969_03">jitaṁ bhagavatā</rdg>			
+                    </app>
+                    
+                    <app loc="9">
+                        <lem>°pr<choice><sic>ā</sic><corr>a</corr></choice>dānaiḥ</lem>
+                        <rdg source="bib:Venkataramanayya1969_03">°pradānaiḥ</rdg>			
+                    </app>
+                    
+                    <app loc="13">
+                        <lem>°kalyā<choice><sic>n</sic><corr>ṇ</corr></choice>asya</lem>
+                        <rdg source="bib:Venkataramanayya1969_03">°kalyā<unclear>ṇa</unclear>sya</rdg>			
+                    </app>
+                    
+                    <app loc="18">
+                        <lem>°bhaṭṭāra<lb n="19" break="no"/>ka°</lem>
+                        <rdg source="bib:Venkataramanayya1969_03">°bha<unclear>ṭṭ</unclear><choice><sic><unclear>a</unclear></sic><corr>ā</corr></choice>ra<lb n="19" break="no"/>ka°</rdg>			
+                    </app>
+                    
+                    <app loc="20">
+                        <lem>°viṣ<unclear reason="eccentric_ductus">ṇ</unclear>ugopasya</lem>
+                        <rdg source="bib:Venkataramanayya1969_03">viṣṇugopasya</rdg>
+                        <note>See also <foreign>kaṇ<unclear reason="eccentric_ductus">ṇ</unclear>asvami</foreign> in line 23.</note>
+                    </app>
+                    
+                    <app loc="33">
+                        <lem>ati<choice><sic>kk</sic><corr>k</corr></choice>rāmet</lem>
+                        <rdg source="bib:Venkataramanayya1969_03">atikkrāmet</rdg>
+                        <note>The longer horizontal stroke on top right of the letter might be a medial <foreign>ā</foreign>.</note>
+                    </app>
+                    
+                </listApp>		
+                
+            </div>
             
-            <item>
-                 bhagavat-bhakti                                
-                <pb n="3r" break="no"/>
-                <lb n="3r1=13" break="no"/>sad-bhāva-sambhāvita-sarvva-kalyā<choice><sic>n</sic><corr>ṇ</corr></choice>asya prajā-saṁrañjana-pa
-                <lb n="3r2=14" break="no"/>ripālanodyoga-satata-satra-vrata-dīkṣitasya Aneka
-                <lb n="3r3=15" break="no"/>-samara-sāhasāvamardda-labdha-vijaya-ya<unclear>śa</unclear>ḥ-prakāśa
-                <lb n="3r4=16" break="no"/><unclear>sya</unclear> kali-yuga-do<unclear>ṣā</unclear>vasanna-dharmm<unclear>o</unclear>ddharaṇa-nitya-sanna
+            <!--<div type="translation" resp="part:emfr">
                 
-                <pb n="3v" break="no"/>
-                <fw place="left" n="3v">3</fw>
-                
-                <lb n="3v1=17" break="no"/>ddhasya rāja-<unclear>r</unclear>ṣ<unclear>i</unclear>-guṇa-sarvva-sandoha-vijigīṣor ddha<unclear>r</unclear>mma 
-                <lb n="3v2=18" break="no"/>-vijigīṣor bhagavat-pādānuddhyātasya bappa-bhaṭṭāra
-                <lb n="3v3=19" break="no"/>ka-mahārāja-pāda-bhaktasya parama-bhāgavatasya
-                <lb n="3v4=20"/>bhāradvājasya pallavānāM yuva-mahārāja-śrī-viṣ<unclear reason="eccentric_ductus">ṇ</unclear>ugopasya
-            </item>
-        </list>
-        
-        <pb n="4r"/>
-        <lb n="4r1=21"/><unclear>va</unclear>canena muṇḍa-rāṣṭre neḍuṅgarāye grāmeyakāḥ
-        <lb n="4r2=22"/>vaktavyāḥ
-    </p>
-    <p>
-        Eṣa grāmaḥ śāraṇika-nadippi-bhoja-
-        <lb n="4r3=23" break="no"/>doddisvāmi-kaṇ<unclear reason="eccentric_ductus">ṇ</unclear>asvāmi-nandisvāmibhyaḥ bhāga-trayaṁ
-        <lb n="4r4=24"/>kṛtvā
-        
-        <list>
-            <item>tatrāpi bhāga-traye nadip<supplied reason="lost">p</supplied>i-bhojakasya bhāga 
-                
-                <pb n="4v" break="no"/>
-                <fw place="left" n="4v">4</fw>        
-                <lb n="4v1=25" break="no"/>-dvayaM kaṇṇasvāmi-nandisvāminor eko bhāgaḥ
-            </item>
-            <item>
-                tatrā
-                <lb n="4v2=26" break="no"/>py <unclear>e</unclear>kasmin bhāge bhāga-dvaya<unclear>ṁ</unclear> kaṇṇasvāminaḥ Eko bhāgo
-                <lb n="4v3=27"/>nandisvāminaḥ</item>
-        </list>
-        
-        Evaṁ vibhajya śāraṇika-grāma<unclear>ṁ</unclear> kṛtvā
-        <lb n="4v4=28"/>Aṣṭāda<add place="below">śa</add>-jātibhiḫ parihārair upeto deva-bhoga-hala 
-                
-        <pb n="5r" break="no"/>
-        <lb n="5r1=29" break="no"/>va<unclear>r</unclear>jya<unclear>ṁ</unclear> Asmad-āyur-bala-varddhanīyam asmābhis sampradatta<unclear>ḥ</unclear>
-    </p>
-    <p>        
-        <lb n="5r2=30"/>tad avagamya tasmin viṣaye sarvvāyuktakāḥ sarvva-naiyyo-
-        <lb n="5r3=31" break="no"/>gikāḥ rāja-vallabhāḥ <choice><sic>y</sic><corr>s</corr></choice>añcarantaś ca tad-grāmaṁ tathaiva 
-        <lb n="5r4=32"/>parihāraiḥ pariharantu parihārayantu ca
-    </p>
-    <p>
-        yaś ceda<supplied reason="omitted">m a</supplied>sma
-
-        <pb n="5v" break="no"/>
-        
-        <lb n="5v1=33" break="no"/>c-chāsanam ati<choice><orig>kk</orig><reg>k</reg></choice>r<unclear>ā</unclear>met sa pāpaś <unclear reason="eccentric_ductus">ś</unclear>ārīraṁ daṇḍam arhati
-    </p>
-    <p>
-        <lb n="5v2=34"/>śrī-siṁhavarmma-mahārājasya vijaya-saṁvatsare 
-        <lb n="5v3=35"/>dvādaśame jyeṣṭha-māse kṛṣṇa-pakṣe trayo-
-        <lb n="5v4=36" break="no"/>daśy<unclear>āṁ</unclear> mayā dattā tā<choice><sic>bpr</sic><corr>m</corr></choice>ra-paṭṭikā
-    </p>
-    
-</div>
+                </div>-->
             
-<div type="apparatus">	
-    
-    <listApp>
-        
-        <!--
-            <app loc="0">
-            <lem>...</lem>
-            <rdg source="bib:Venkataramanayya1969_03">...</rdg>			
-            </app>
-        -->
-        
-        <app loc="1">
-            <lem><unclear>j</unclear>i<unclear>tam bha</unclear>gavatā</lem>
-            <rdg source="bib:Venkataramanayya1969_03">jitaṁ bhagavatā</rdg>			
-        </app>
-        
-        <app loc="9">
-            <lem>°pr<choice><sic>ā</sic><corr>a</corr></choice>dānaiḥ</lem>
-            <rdg source="bib:Venkataramanayya1969_03">°pradānaiḥ</rdg>			
-        </app>
-        
-        <app loc="13">
-            <lem>°kalyā<choice><sic>n</sic><corr>ṇ</corr></choice>asya</lem>
-            <rdg source="bib:Venkataramanayya1969_03">°kalyā<unclear>ṇa</unclear>sya</rdg>			
-        </app>
-        
-        <app loc="18">
-            <lem>°bhaṭṭāra<lb n="19" break="no"/>ka°</lem>
-            <rdg source="bib:Venkataramanayya1969_03">°bha<unclear>ṭṭ</unclear><choice><sic><unclear>a</unclear></sic><corr>ā</corr></choice>ra<lb n="19" break="no"/>ka°</rdg>			
-        </app>
-        
-        <app loc="20">
-            <lem>°viṣ<unclear reason="eccentric_ductus">ṇ</unclear>ugopasya</lem>
-            <rdg source="bib:Venkataramanayya1969_03">viṣṇugopasya</rdg>
-            <note>See also <foreign>kaṇ<unclear reason="eccentric_ductus">ṇ</unclear>asvami</foreign> in line 23.</note>
-        </app>
-        
-        <app loc="33">
-            <lem>ati<choice><sic>kk</sic><corr>k</corr></choice>rāmet</lem>
-            <rdg source="bib:Venkataramanayya1969_03">atikkrāmet</rdg>
-            <note>The longer horizontal stroke on top right of the letter might be a medial <foreign>ā</foreign>.</note>
-        </app>
-        
-    </listApp>		
-    
-</div>
-            
-<!--<div type="translation" resp="part:emfr">
+            <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
                 
-</div>-->
-            
-<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
+                <p n="1">Le Bienheureux est vainqueur !</p>
                 
-    <p n="1">Le Bienheureux est vainqueur !</p>
-    
-    <p n="1">Depuis le camp victorieux de Śrī-Palakkaḍa :</p>
-    
-    <p n="1-21">
-        <list>
-            <item>
-                l’arrière-petit-fils du Grand Roi Śrī-Skandavarman, très pieux trésor d’austérité, qui conquit et affermit son titre royal par la force de son bras, qui assura le respect de toutes les lois, qui respecta l’Ordre, et qui se montra infiniment magnanime ;
-            </item>
-            <item>                
-                le petit-fils du Grand Roi Śrī-Vīravarman, dont on respecta la puissance et le succès, dont la majesté fit plier le cercle des rois, héros unique sur la surface de la terre ;
-            </item>
-            <item>
-                le fils du Grand Roi Śrī-Skandavarman, qui honora les dieux, les prêtres, les maîtres et les anciens, qui pratiqua la plus sévère discipline, qui, par de multiples dons, notamment de vaches, d’or et de terres, pratiqua la plus sévère discipline, qui, par de multiples dons, notamment de vaches, d’or et de terres, augmenta son capital dharmique, qui se montra habile à protéger ses sujets, qui fut, parmi les Gardiens du monde, le cinquième Gardien du Monde, qui se montra vrai et magnanime ;
-            </item>
-            <item>
-                Śrī-Viṣṇugopavarman, Prince Héritier des Pallava, dont la réelle dévotion envers le Bienheureux engendre pour tous la prospérité, qu’un vœu sincère pour toujours consacre avec zèle au bonheur et à la sécurité de ses sujets, qu’illustre la gloire d’avoir, dans plus d’un combat, remporté la victoire en écrasant la témérité, qui, à chaque instant, est prêt à soutenir le <foreign>dharma</foreign> que ruinent les péchés de l’âge Kali, qui souhaite conquérir l’ensemble des vertus des rois ascètes, qui souhaite conquérir le <foreign>dharma</foreign>, qui jouit de la faveur des pieds du Bienheureux, qui offre sa dévotion aux pieds de Bappa, l’illustre Grand Roi, qui se montre un sectateur passionné du Bienheureux, qui descend de Bharadvāja,
-            </item>
-        </list>
-        
-        ordonne qu’on adresse aux villageois de Neḍuṅgarāya, dans le Muṇḍa-rāṣṭra, ce commandement de sa bouche :
-    </p>
-    
-    <p n="23-29">
-        Ce village, nous en faisons donation - pour l’accroissement de la durée de notre vie et celui de notre puissance -, à titre de village <foreign>śāraṇika</foreign>, avec les dix-huit types d’exemption, et à l’exception des terres cultivées dont le dieu a la jouissance<supplied reason="explanation"><foreign>devabhoga</foreign></supplied>, au <foreign>śāraṇika-nadippi-bhoja</foreign><note>Les <foreign>bhoja</foreign> ou <foreign>bhojaka</foreign> sont des des « vassaux » : cf. D.C. Sircar (<hi rend="italic">Glossary</hi>).</note> Doddisvāmin, à Kaṇṇasvāmin et à Nandisvāmin, après l’avoir ainsi partagé : trois parts en seront faites, parmi lesquelles deux iront au <foreign>nadippi-bhojaka</foreign>, et une à Kaṇṇasvāmin et Nandisvāmin; les deux tiers de cette part iront à Kaṇṇasvāmin, et un tiers à Nandisvāmin.
-    </p>
-    <p n="30-32">
-        Que par conséquent tous les <foreign>āyuktaka</foreign>, tous les <foreign>naiyogika</foreign>, les <foreign>rāja-vallabha</foreign> et les <foreign>sañcarantaka</foreign> se rendent dans cette province <supplied reason="explanation"><foreign>viṣaya</foreign><note>On peut aussi comprendre: Aussi, que tous les ... se rendent dans cette province, et ...</note></supplied>, et qu’ils respectent et fassent respecter ce village, avec ses exemptions.
-    </p>
-    <p n="32-33">
-        Et quiconque transgressera ce commandement émanant de nous est un criminel qui encourt un châtiment corporel.
-    </p>
-    <p n="34-36">
-        J’ai émis cette tablette de cuivre le treizième jour de la quinzaine sombre du mois de Jyeṣṭha, la douzième AR victorieux du Grand Roi Śrī-Siṁhavarman.
-    </p>
-    
-</div>
+                <p n="1">Depuis le camp victorieux de Śrī-Palakkaḍa :</p>
+                
+                <p n="1-21">
+                    <list>
+                        <item>
+                            l’arrière-petit-fils du Grand Roi Śrī-Skandavarman, très pieux trésor d’austérité, qui conquit et affermit son titre royal par la force de son bras, qui assura le respect de toutes les lois, qui respecta l’Ordre, et qui se montra infiniment magnanime ;
+                        </item>
+                        <item>                
+                            le petit-fils du Grand Roi Śrī-Vīravarman, dont on respecta la puissance et le succès, dont la majesté fit plier le cercle des rois, héros unique sur la surface de la terre ;
+                        </item>
+                        <item>
+                            le fils du Grand Roi Śrī-Skandavarman, qui honora les dieux, les prêtres, les maîtres et les anciens, qui pratiqua la plus sévère discipline, qui, par de multiples dons, notamment de vaches, d’or et de terres, pratiqua la plus sévère discipline, qui, par de multiples dons, notamment de vaches, d’or et de terres, augmenta son capital dharmique, qui se montra habile à protéger ses sujets, qui fut, parmi les Gardiens du monde, le cinquième Gardien du Monde, qui se montra vrai et magnanime ;
+                        </item>
+                        <item>
+                            Śrī-Viṣṇugopavarman, Prince Héritier des Pallava, dont la réelle dévotion envers le Bienheureux engendre pour tous la prospérité, qu’un vœu sincère pour toujours consacre avec zèle au bonheur et à la sécurité de ses sujets, qu’illustre la gloire d’avoir, dans plus d’un combat, remporté la victoire en écrasant la témérité, qui, à chaque instant, est prêt à soutenir le <foreign>dharma</foreign> que ruinent les péchés de l’âge Kali, qui souhaite conquérir l’ensemble des vertus des rois ascètes, qui souhaite conquérir le <foreign>dharma</foreign>, qui jouit de la faveur des pieds du Bienheureux, qui offre sa dévotion aux pieds de Bappa, l’illustre Grand Roi, qui se montre un sectateur passionné du Bienheureux, qui descend de Bharadvāja,
+                        </item>
+                    </list>
+                    
+                    ordonne qu’on adresse aux villageois de Neḍuṅgarāya, dans le Muṇḍa-rāṣṭra, ce commandement de sa bouche :
+                </p>
+                
+                <p n="23-29">
+                    Ce village, nous en faisons donation - pour l’accroissement de la durée de notre vie et celui de notre puissance -, à titre de village <foreign>śāraṇika</foreign>, avec les dix-huit types d’exemption, et à l’exception des terres cultivées dont le dieu a la jouissance<supplied reason="explanation"><foreign>devabhoga</foreign></supplied>, au <foreign>śāraṇika-nadippi-bhoja</foreign><note>Les <foreign>bhoja</foreign> ou <foreign>bhojaka</foreign> sont des des « vassaux » : cf. D.C. Sircar (<hi rend="italic">Glossary</hi>).</note> Doddisvāmin, à Kaṇṇasvāmin et à Nandisvāmin, après l’avoir ainsi partagé : trois parts en seront faites, parmi lesquelles deux iront au <foreign>nadippi-bhojaka</foreign>, et une à Kaṇṇasvāmin et Nandisvāmin; les deux tiers de cette part iront à Kaṇṇasvāmin, et un tiers à Nandisvāmin.
+                </p>
+                <p n="30-32">
+                    Que par conséquent tous les <foreign>āyuktaka</foreign>, tous les <foreign>naiyogika</foreign>, les <foreign>rāja-vallabha</foreign> et les <foreign>sañcarantaka</foreign> se rendent dans cette province <supplied reason="explanation"><foreign>viṣaya</foreign><note>On peut aussi comprendre: Aussi, que tous les ... se rendent dans cette province, et ...</note></supplied>, et qu’ils respectent et fassent respecter ce village, avec ses exemptions.
+                </p>
+                <p n="32-33">
+                    Et quiconque transgressera ce commandement émanant de nous est un criminel qui encourt un châtiment corporel.
+                </p>
+                <p n="34-36">
+                    J’ai émis cette tablette de cuivre le treizième jour de la quinzaine sombre du mois de Jyeṣṭha, la douzième AR victorieux du Grand Roi Śrī-Siṁhavarman.
+                </p>
+                
+            </div>
             
-<div type="commentary"/>
+            <div type="commentary"/>
             
-<div type="bibliography">
-    <p>Edited in <bibl><ptr target="bib:Venkataramanayya1969_03"/></bibl>, with visual documentation. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 7). Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 4).</p>
-    <p>This revised edition by Emmanuel Francis, based on the published visual documentation.</p>
-    
-    <listBibl type="primary">
-        
-        <bibl n="V">
-            <ptr target="bib:Venkataramanayya1969_03"/>
-        </bibl>
-        
-        <bibl n="IP">
-            <ptr target="bib:Mahalingam1988_01"/>
-            <citedRange unit="page">49-51</citedRange>
-            <citedRange unit="item">7</citedRange>
-        </bibl>
-        
-        <bibl n="B">
-            <ptr target="bib:Brocquet1997_01"/>
-            <citedRange unit="page">384-388</citedRange>
-            <citedRange unit="item">4</citedRange>
-        </bibl>
-        
-    </listBibl>
-    
-    <listBibl type="secondary">
-        <bibl>
-            <ptr target="bib:Francis2013_01"/>
-            <citedRange unit="item">IR 8</citedRange>
-        </bibl>
-        
-    </listBibl>
-    
-</div>
+            <div type="bibliography">
+                <p>
+                    Edited in <bibl><ptr target="bib:Venkataramanayya1969_03"/></bibl>, with visual documentation.
+                    Edited in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>.
+                    Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 7).
+                    Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 4).
+                </p>
+                <p>This revised edition by Emmanuel Francis, based on the published visual documentation.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="V">
+                        <ptr target="bib:Venkataramanayya1969_03"/>
+                    </bibl>
+                    
+                    <bibl n="TPC">
+                        <ptr target="bib:Subrahmanian1966_01"/>
+                        <citedRange unit="page">303-308</citedRange>
+                    </bibl>
+                    
+                    <bibl n="IP">
+                        <ptr target="bib:Mahalingam1988_01"/>
+                        <citedRange unit="page">49-51</citedRange>
+                        <citedRange unit="item">7</citedRange>
+                    </bibl>
+                    
+                    <bibl n="B">
+                        <ptr target="bib:Brocquet1997_01"/>
+                        <citedRange unit="page">384-388</citedRange>
+                        <citedRange unit="item">4</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:Francis2013_01"/>
+                        <citedRange unit="item">IR 8</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
             
         </body>
     </text>

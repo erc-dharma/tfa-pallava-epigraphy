@@ -5,494 +5,495 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Paḷḷaṉ Kōvil plates, time of Siṁhaviṣṇu, year 6</title>
-				<respStmt>
-					<resp>author of digital edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>				
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">DHARMA_INSPallava00017</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary>Grant (<foreign>paḷḷiccantam</foreign>) of the village of Śramaṇāśrama/Amaṇcērkkai and of additional lands in Tāmar to Vajranandin of the Śrīvardhamāneśvaradharmatīrtha at Paruttikkuṉṟil for worshipping Jinendra.</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>Sanskrit: ...</p>
-							<p>Tamil: ...</p>
-							<p>See <bibl><ptr target="bib:Subramaniam1959_01"/><citedRange unit="page">45ff.</citedRange></bibl>
-							</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union's Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>			
-			<change who="part:emfr" when="2023-10-04" status="draft">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-      <body>
-
-<div type="edition">
-
-<div type="textpart" xml:lang="san-Latn" n="A" rendition="class:grantha maturity:83215">
-	<head xml:lang="eng">Seal</head>
-	
-	<p>
-		<lb n="1"/>...
-	</p>
-	
-</div>	
-	
-<div type="textpart" xml:lang="san-Latn" n="B" rendition="class:grantha maturity:83215">
-	<head xml:lang="eng">Plates: Sanskrit Portion</head>
-	
-	<pb n="1r"/>
-	
-	<lg n="1" met="upajāti">
-		<l n="a" enjamb="yes"><pb n="1v"/><lb n="1v1=1"/>svarggāpava<unclear>r</unclear>gga-praguṇāgra-mārgga</l>
-		<l n="b">-prakāśi-vākyo jaya<lb n="1v2=1" break="no"/>tāj jinendraḥ</l>
-		<l n="c" enjamb="yes">munīndra-devendra-narendra</l>
-		<l n="d">-vidvad-vandāru-bṛndāraka<lb n="1v3=3" break="no"/>-bṛnda-vandyaḥ <g type="gomutraFinal">.</g></l>
-	</lg>
-	
-	<lg n="2" met="śārdūlavikrīḍita">
-		<l n="a">Āsīd ambuja-nābha-nābhi-jala-jād abjāsano<lb n="1v4=4" break="no"/>to <supplied reason="subaudible">’</supplied>ṁgirā</l>
-		<l n="b">gī<reg>r</reg>-vvāṇeśa-gurus tatas tata-matiś śa<lb n="1v5=5" break="no"/>ṁyur bharadvājakaḥ</l>
-		<l n="c">droṇo drauṇir ato ’bha-va-t pu<lb n="1v6=6" break="no"/>ra-ripor aṁśas tataḥ pallavaḥ</l>
-		<l n="d">śrīmān-nīradhi-nīra-nīlavasa<lb n="1v7=7" break="no"/>nā-kṣmā-vallabhā-vallabhaḥ <g type="ddanda">.</g></l>
-	</lg>	
-		
-	<lg n="3" met="pr̥thvī">
-		<l n="a">tataḥ pratata-kīrttiṣu prahata-lo<lb n="1v8=8" break="no"/>ka-śokeṣv iteṣv</l>
-		<l n="b">aśoka-harigupta-rāḍ·-pramukha<lb n="2r1=9" break="no"/>-pallaveṣu kramāt<unclear>·</unclear></l>
-		<l n="c" enjamb="yes">praṇamra-nṛpa-kamra-m<choice><orig>o</orig><reg>au</reg></choice>ly-aruṇa-ratna-ra<lb n="2r2=10" break="no"/>śmy-ātapat</l>
-		<l n="d">-prabuddha-pada-paṁkajeṣv ajani siṁhavarmmādhipāt <g type="gomutraFinal">.</g></l>
-	</lg>	
-		
-	<lg n="4" met="upajāti">
-		<l n="a">...</l>
-		<l n="b">...</l>
-		<l n="c">...</l>
-		<l n="d">...</l>
-	</lg>	
-		
-	<lg n="5" met="śārdūlavikrīḍita">
-		<l n="a">...</l>
-		<l n="b">...</l>
-		<l n="c">...</l>
-		<l n="d">...</l>
-	</lg>	
-		
-	<lg n="6" met="upajāti">
-		<l n="a">...</l>
-		<l n="b">...</l>
-		<l n="c">...</l>
-		<l n="d">...</l>
-	</lg>	
-		
-	<lg n="7" met="upajāti">
-		<l n="a">...</l>
-		<l n="b">...</l>
-		<l n="c">...</l>
-		<l n="d">...</l>
-	</lg>			
-	
-	<lg n="8" met="anuṣṭubh">
-		<l n="a">...</l>
-		<l n="b">...</l>
-		<l n="c">...</l>
-		<l n="d">...</l>
-	</lg>	
-	
-	<lg n="9" met="anuṣṭubh">
-		<l n="a" enjamb="yes">samasta-śāstra-niṣṇā<pb n="3r" break="no"/><lb n="3r1=25" break="no"/>ta</l>
-		<l n="b">dhiṣaṇo dhiṣaṇopamaḥ</l>
-		<l n="c">mānyo nāmnāpi <lb n="3r2=26"/> medhāvī</l>
-		<l n="d">praśastiṁ kṛtavān imām· <g type="gomutraFinal">§§§§§§</g></l>
-	</lg>
-	
-</div>
-
-<div type="textpart" xml:lang="tam-Latn" n="C" rendition="class:tamil maturity:83215">
-
-<head xml:lang="eng">Plates: Tamil Portion</head>
-
-	<p>
-		<lb n="3r3=27"/>kō-vicaiya-<hi rend="grantha">siṁha</hi>va<hi rend="grantha">rmma</hi>ṟ·ku yāṇ·ṭ’ āṟāvatu
-	</p>
-	
-	<p>
-		veṇ
-		<lb n="3r4=28" break="no"/>kuṉ·ṟa-k-kōṭṭatu-p peru-nakara-nāṭṭu nāṭṭār·
-		<lb n="3r5=29"/>kāṇ<unclear>·</unclear>ka
-	</p>
-	
-	<p>
-		ta<choice><orig>n</orig><reg>ṉ</reg></choice> nāṭṭu Amaṇ·cērkkai parut·ti
-		<lb n="3r6=30" break="no"/>k· kuṉ·ṟil· vajranandik kuravar·kkup paḷḷiccantam ā
-		<lb n="3r7=31" break="no"/>ka-k<unclear>·</unclear> koṭuttōn		
-	</p>
-	<p>
-		tāṅkaḷum paṭākai naṭantu kal
-		<lb n="3r8=32" break="no"/>luṅ· kaḷḷiyun nāṭṭi Aṟaiyōlai ceytu k<unclear>o</unclear>
-
-				
-		<pb n="3v" break="no"/>
-		<lb n="3v1=33" break="no"/>ṭuttu viṭutaka-v eṉ·ṟu nāṭṭār·kut tirumukam· viṭa
-	</p>
-	
-	<p>
-		nāṭṭā
-		<lb n="3v2=34" break="no"/>run tirumukaṅ kaṇṭu toḻutu talaikku vait·tu paṭā
-		<lb n="3v3=35" break="no"/>kai naṭa<supplied reason="omitted">n</supplied>tu kalluṅ· kaḷliyu nāṭṭi nāṭṭār viṭunta
-		<lb n="3v4=36"/>Aṟaiyōlai-p paṭikk’ ellai
-	</p>
-	
-	<p>
-		kīḻ-pā
-		<lb n="3v5=37" break="no"/>l ellai Ental ēriyiṉ· kīḻai-k kaṭaṟṟi
-		<lb n="3v6=38" break="no"/>ṉ· mēṟ·kum ōmai-k· kollai Ellai Iṉṉu
-		<lb n="3v7=39" break="no"/>m· teṉ·-pāl ellai vēḷ vaṭukaṉ· kēṇiyi
-		<lb n="3v8=40" break="no"/>ṉ· vaṭakkum· kaṭaṟṟiṉ el·lai Iṉṉun· nīla-pāṭi
-
-		<pb n="4r"/>
-		<lb n="4r1=41"/>El·lai Iṉ·ṉum· vilāṭaṉ· kuṟ·ṟ-ēt·tat·t’ ellai
-		<lb n="4r2=42"/>Iṉ·ṉum· mēl·-pāl ellai māv-ēt·tat·tu
-		<lb n="4r3=43"/>vatiyiṉ· kiḻak·kum· mum·mūlai Ēt·tat·t’ ellai
-		<lb n="4r4=44"/>Iṉṉum āṟ·ṟ’ ellai Iṉ·ṉum· vaṭa-pāl’ el·
-		<lb n="4r5=45" break="no"/>lai peruṅ-kol·laiyiṉ· ṟeṟku Iṉ·ṉum
-		<lb n="4r6=46"/>pāṇṭiyaṉ· kayatt’ ellai Iṉṉum<surplus>u</surplus> murukkaṅ·
-		<lb n="4r7=47"/>kēṇi Ellai
-	</p>
-	
-	<p>		
-		Ivv-icait·ta peru-nāṅk’ el<unclear>·</unclear>
-		<lb n="4r8=48" break="no"/>lai-y akattum akap·paṭ·ṭa nilam· nīr·-nilamum<unclear>·</unclear>
-		
-		<pb n="4v"/>
-		<lb n="4v1=49"/>puṉ·-cey·yum· kaḷarum<unclear>·</unclear> kaṉ·ṟu-mēy·-pāḻum· kāṭu
-		<lb n="4v2=50" break="no"/>m· pīṭilikaiyum· kiṭaṅ·kuṅ· kēṇiyum maṉai
-		<lb n="4v3=51" break="no"/>yum· maṉaip-paṭappum· Uṭump’ ōṭi Āmai tava
-		<lb n="4v4=52" break="no"/>ḻntat’ el·lām· Uṇṇilaṉ ōḻiv’ iṉ<unclear>·</unclear>ṟi
-		<lb n="4v5=53"/>kōvum· poṟiyum· māṟ·ṟi kuṭi nīkki Ivv-ūr
-		<lb n="4v6=54"/>peṟṟa va<hi rend="grantha">jranandi</hi>-k· kuravar·kkē paḷḷic·cantam-āka tā
-		<lb n="4v7=55" break="no"/>marilum· patiṉ āṟ’ arai-p· paṭṭi nilaṅ· koṭut
-		<lb n="4v8=56" break="no"/>tōm·
-	</p>
-	
-	<p>
-		In-nilattiṟ·k’ el<unclear>·</unclear>lai kīḻ·-pāl e		
-		<pb n="5r" break="no"/>
-		<lb n="5r1=57" break="no"/>l·lai pulikiḻār<unclear>·</unclear> paṭṭiyiṉ· mēṟ·kum· teṉ·-pā
-		<lb n="5r2=58" break="no"/>l el·lai muḷḷeṟi-pāt·t’ ellaiyiṉ· vaṭa-
-		<lb n="5r3=59" break="no"/>k·kum· mēl·-pāl ellai pokku-vāy·-c cēru
-		<lb n="5r4=60" break="no"/>viṉ kiḻakkum· vaṭa-pāl el·lai pallāṅ·ku
-		<lb n="5r5=61" break="no"/>ḻi-k· kāviṉ teṟ·k<unclear>·</unclear>kum·
-	</p>
-	
-	<p>
-		In·-nāṉ·k’ el·lai
-		<lb n="5r6=62" break="no"/>-y akattum· Akapaṭ·ṭa <hi rend="grantha">bhūmi</hi>yum· parutti-k kuṉ·ṟi
-		<lb n="5r7=63" break="no"/>l· va<hi rend="grantha">jranandi</hi>-k· kuravar·kkē paḷḷiccantam-āka <hi rend="grantha">parada
-		<lb n="5r8=64" break="no"/>tti</hi> ceṉṟatu narabhayaṉ āṇat·tiyāl <g type="danda">.</g> {si}<!--update: abbreviation--> <g type="gomutraFinal">§</g> <g type="gomutraFinal">§</g>
-
-	</p>
-
-
-	<pb n="5v"/>
-</div>
-</div>
-
-<div type="apparatus">
-	
-	<!--Complete apparatus-->
-
-<!--<div type="textpart" xml:lang="san-Latn" n="A">
-<head xml:lang="eng">Seal</head>
-
-      		</div>-->
-	
-<div type="textpart" xml:lang="san-Latn" n="B">
-<head xml:lang="eng">Plates: Sanskrit Portion</head>
-      			
-	<listApp>      			
-		
-		<app loc="1">
-			<lem>svarggāpava<unclear>r</unclear>gga°</lem>
-			<rdg source="bib:Subramaniam1959_01"/>
-		</app>   	
-		<app loc="3">
-			<lem>ambuja°</lem>
-			<rdg source="bib:Subramaniam1959_01">a<unclear>ṁ</unclear>buja°</rdg>
-		</app>     
-		
-		<app loc="4">
-			<lem>gī<reg>r</reg>°</lem>
-			<rdg source="bib:Subramaniam1959_01">gī<unclear>r</unclear>°</rdg>
-		</app>   
-		
-		<app loc="9">
- 			<lem>kramāt<unclear>·</unclear></lem>
- 			<rdg source="bib:Subramaniam1959_01">kramāt<unclear>·</unclear></rdg>
- 			</app>
-		
-		<app loc="9">
-			<lem>°m<choice><orig>o</orig><reg>au</reg></choice>ly°</lem>
-			<rdg source="bib:Subramaniam1959_01">°mauly°.</rdg>
-		</app>		
-		<!--<app loc="0">
- 			<lem>...</lem>
- 			<rdg source="bib:Subramaniam1959_01">...</rdg>
- 			<rdg source="bib:Mahalingam1988_01">...</rdg>      					
- 			<rdg source="bib:Zvelebil1964_01">...</rdg>
- 			</app>-->  
-		
-	</listApp>
-</div>
-	
- <div type="textpart" xml:lang="san-Latn" n="C">
-<head xml:lang="eng">Plates: Tamil Portion</head>
-      			
- 	<listApp>
- 		
- 		<!--<app loc="0">
- 			<lem>...</lem>
- 			<rdg source="bib:Subramaniam1959_01">...</rdg>
- 			<rdg source="bib:Mahalingam1988_01">...</rdg>      					
- 			<rdg source="bib:Zvelebil1964_01">...</rdg>
- 			</app>-->      				
- 		
- 		<app loc="32">
- 			<lem>k<unclear>o</unclear><pb n="3v" break="no"/><lb n="3v1=33"/>ṭuttu</lem>
- 			<note>In <foreign>k<unclear>o</unclear></foreign>, only the <foreign>kāl</foreign> is unclear.</note>
- 		</app>   
- 		
- 	</listApp>
- </div>
-</div>
-
-<div type="translation" resp="part:emfr">
-      		
-	<!--<div type="textpart" xml:lang="san-Latn" n="A">
-		<head xml:lang="eng">Seal</head>
-		
-		<p>
-			<lb n="1"/>...
-		</p>
-		
-	</div>	-->
-	
-<div type="textpart" xml:lang="san-Latn" n="B">
-<head xml:lang="eng">Plates: Sanskrit Portion</head>
-		
-	<p rend="stanza" n="1">
-		<l>May Jinendra, whose words/commands are illuminating in the path of highest virtues <supplied reason="subaudible">which lead</supplied> to heaven and final beatitude, be victorious,</l>
-		<l>He who is praised, for a multitude of aeons <supplied reason="explanation"><foreign>araka</foreign><note>That is, <foreign>ara</foreign>.</note></supplied>, by the multitude of the great sages, great gods/Indra, great men/kings, wise men and panegyrists. </l>
-	</p>
-	<p rend="stanza" n="2">
-		<l>From he who is born on the waters on the navel of he whose navel is a lotus<note>That is, Brahmā, arising form the navel of Viṣṇu.</note>, sitting in the lotus posture, was born Aṅgiras;</l>
-		<l>From him, the preceptor who is the master of those who have words as arrows<note>That is, Bṛhaspati, the preceptor of the gods and the <foreign>purohita</foreign> of Indra.</note>; <supplied reason="subaudible">from him</supplied>, Śaṁyu, whose thoughts are broad/concealed; <supplied reason="subaudible">from him</supplied>, Bharadvājaka;</l>
-		<l><supplied reason="subaudible">from him</supplied>, Droṇa; <supplied reason="subaudible">from him</supplied>, Drauṇi<note>That is, Aśvatthāman.</note>, who was a partial incarnation of the enemy of Pura; from him was born Pallava,</l>
-		<l>Who is the glorious beloved of his beloved earth, who has the waters of the ocean for her garments.</l>
-	</p>
-	
-	<p rend="stanza" n="3">
-		<l>Then, after Pallava <supplied reason="subaudible">kings</supplied>, such as Aśoka, Harigupta, and others, were gone one after the other,</l>
-		<l>Their fame having spread <supplied reason="subaudible">in the world</supplied> and their wordly pains having ceased <supplied reason="explanation"><foreign>prahatta</foreign><note>Literally: killed, defeated.</note></supplied>,</l>
-		<l>Their lotus-feet having been awakened by the hot rays of the red jewels on the beautiful crowns</l>
-		<l>of bowing kings, from the king Siṁhavarman was born:</l>
-	</p>
-	
-</div>
-	
-<div type="textpart" xml:lang="san-Latn" n="C">
-<head xml:lang="eng">Plates: Tamil Portion</head>
-		
-	</div>
-	
-</div>
-
-<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
-
-<div type="textpart" xml:lang="san-Latn" n="B">
-<head xml:lang="eng">Plates: Sanskrit Portion</head>
-		
-	<p rend="stanza" n="1">
-		<l>Puisse<note>La fin de b (<foreign>-tāj jinêndraḥ</foreign>) permet de supposer un impératif en -<foreign>tāt</foreign>; il s’agit d’une invocation à Mahāvīra, ouvrant le texte d’une inscription qui enregistre une donation en faveur d’un ascète jaina, de la part d’un souverain dont il y a tout lieu de penser qu’il fut adepte de cette religion. La généalogie commence à la str. 2.</note> le Seigneur Jina <gap reason="lost"/> les plus hautes vertus qui conduisent au ciel et à la délivrance</l>
-		<l>- Lui que doit révérer la multitude <gap reason="lost"/> des grands ermites et du roi des dieux <gap reason="lost"/></l>
-	</p>
-	
-	<p rend="stanza" n="2">
-		<l><supplied reason="lost">Brahmā</supplied> naquit du dieu dont le nombril est un lotus ; de lui naquit Aṁgiras,</l>
-		<l>De ce dernier Gīrvāṇeśa<note>Litt. « le maître des êtres ayant la parole pour flèches », appellation de Bṛhaspati.</note> <gap reason="lost"/> <supplied reason="lost">qui eut pour fils</supplied> Śamyu; puis vint Bharadvājaka,</l>
-		<l><supplied reason="lost">Qui engendra</supplied> Droṇa; <supplied reason="lost">de ce dernier naquit</supplied> celui qui fut une incarnation partielle de l’Ennemi de Pura<note>Aśvatthāman, incarnation partielle de Śiva.</note> ; Pallava,</l>
-		<l><gap reason="lost"/> de la Fortune <gap reason="lost"/>, qui fut l’époux de son épouse la Terre.</l>
-	</p>
-	
-	<p rend="stanza" n="3">
-		<l>Puis <gap reason="lost"/> disparues les causes de douleur,</l>
-		<l>Aśoka <gap reason="lost"/>; quand, les uns après les autres, les Pallava <gap reason="lost"/>,</l>
-		<l>Dont les rois, en s’inclinant, des rayons brûlants émanant des gemmes rougeoyants de leurs beaux diadèmes,</l>
-		<l>Eveillaient les pieds de lotus, Siṁhavarman naquit du souverain<note>Le dernier mot (<foreign>adhipāt</foreign>) oblige à supposer que le nom du père de Siṁhavarman est mentionné, à l’abl., dans l’une ou l’autre des parties illisibles.</note> <gap reason="lost"/></l>
-	</p>
-	
-	<p rend="stanza" n="4">
-		<l>Śrī-Siṁhaviṣṇu, qui dépassa Siṁhaviṣṇu<note>= Narasiṁha (avatar de Viṣṇu), à moins qu’il ne s’agisse du nom d’un autre roi, que celui-ci aurait vaincu à la guerre.</note></l>
-		<l>Par sa force, dont l’arc surpassa même celui de Jiṣṇu<note>= Arjuna.</note>,</l>
-		<l>Qui illustra sa lignée resplendissante,</l>
-		<l>Qui, dans les combats, repoussa les audacieux<note>Il semble que le verbe dont ce personnage est le sujet soit omis.</note>.</l>			
-		
-	</p>
-	
-	<p rend="stanza" n="5">
-		<l>C’est chez ce souverain doué d’une profonde intelligence que trouvèrent place l’ensemble des vertus immaculées des guerriers, qui ne trouvent pas de place chez les autres : notamment la vérité, le renoncement (/la générosité) et la modestie;</l>
-		<l>Et mieux que son rival, il s’empara de la terre des Coḷa dont la Kāverī est le collier, les rizières et les champs de canne à sucre l’<foreign>aṁśuka</foreign>, les vergers de noix d’arech et de bananes la belle ceinture.</l>
-	</p>
-	
-	<p rend="stanza" n="6">
-		<l>Au lieu sacré de Śrī-Varddhamāneśvara,</l>
-		<l>Dans la noble congrégation de Śrī-Nandisaṁgha, par les chefs de la congrégation</l>
-		<l>Méritants, innombrables et vertueux, entouré d’une abondante</l>
-		<l>Compagnie, naquit, pareil à Gaṇin, Vajranandī.</l>
-	</p>
-	
-	<p rend="stanza" n="7">
-		<l>Le roi donna tout entier le village nommé Śramaṇāśrama, après en avoir délimité les frontières</l>
-		<l>A cet ascète, pour qu’il célèbre le culte du Seigneur Jina, au nom du groupe des grands ascètes adeptes du Seigneur Jina.</l>
-	</p>
-	
-	<p rend="stanza" n="8">
-		<l>L’exécuteur fut, en cette occasion, le ministre intrépide nommé Narabhaya,</l>
-		<l>Un homme avisé, réceptacle d’une multitude de nobles vertus, dont l’humilité et la sérénité.</l>
-	</p>
-	
-	<p rend="stanza" n="9">
-		<l>Comparable à Dhiṣaṇa par son intelligence rompue à tous les traités,</l>
-		<l>Celui dont le nom lui-même est digne d’honneur, Medhāvin composa ce panégyrique.</l>
-	</p>
-	
-</div>
-    		
-</div>
-
-<!--<div type="commentary">
-
-      		
-</div>-->
-
-<div type="bibliography">
-	
-	<p>Reported in <bibl><ptr target="bib:ARIE1958-1959"/></bibl> (ARIE/1958-1959/A/1958-1959/10).</p>
-      	
-	<p>Edited and translated in <bibl><ptr target="bib:Subramaniam1959_01"/></bibl> (TASSI 1958-1959), with photos. Text of the Tamil portion in <bibl><ptr target="bib:Zvelebil1964_01"/></bibl>. Edited in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 17). Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 14).</p>
-	
-	<p>This revised edition by Emmanuel Francis, based on previous edition(s), published visual documentation, and on a online <ref target="https://www.facebook.com/photo/?fbid=817416057092666&amp;set=a.467208802113395">photo</ref> (accessed 2024-04-21) of second fragment of plate 1, kindly pointed out to me by Centamiḻ Celvaṉ (April 2024). The apparatus is restricted mostly to variant readings compared to <bibl><ptr target="bib:Subramaniam1959_01"/></bibl>, which edition has been followed by most further editors.</p>
-
-            <listBibl type="primary">
-
-            	<bibl n="TNS">
-            		<ptr target="bib:Subramaniam1959_01"/>
-            	</bibl>
-
-            	<bibl n="Z">
-            		<ptr target="bib:Zvelebil1964_01"/>
-            	</bibl>
-            	
-            	<bibl n="TPC">
-            		<ptr target="bib:Subrahmanian1966_01"/>
-            	</bibl>
-
-            	<bibl n="IP">
-            		<ptr target="bib:Mahalingam1988_01"/>
-            		<citedRange unit="page">89-93</citedRange>
-            		<citedRange unit="item">17</citedRange>
-            	</bibl>
-
-            	<bibl n="B">
-            		<ptr target="bib:Brocquet1997_01"/>
-            		<citedRange unit="page">457-462</citedRange>
-            		<citedRange unit="item">14</citedRange>
-            	</bibl>
-
-            </listBibl>
-
-            <listBibl type="secondary">
-            	
-            	<bibl>
-            		<ptr target="bib:ARIE1958-1959"/>
-            		<citedRange unit="page">3-4, 27</citedRange>
-            		<citedRange unit="appendix">A/1958-1959</citedRange>
-            		<citedRange unit="item">10</citedRange>
-            		<citedRange unit="plate">III</citedRange>
-            	</bibl>     
-            	
-            	<bibl>
-            		<ptr target="bib:Francis2013_01"/>
-            		<citedRange unit="item">IR 21</citedRange>
-            	</bibl>
-            	
-            	<bibl>
-            		<ptr target="bib:Rajentiran2015_01"/>
-            		<citedRange unit="page">TBC</citedRange>
-            	</bibl>
-
-           </listBibl>
-
-         </div>
-
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paḷḷaṉ Kōvil plates, time of Siṁhaviṣṇu, year 6</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>				
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSPallava00017</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Grant (<foreign>paḷḷiccantam</foreign>) of the village of Śramaṇāśrama/Amaṇcērkkai and of additional lands in Tāmar to Vajranandin of the Śrīvardhamāneśvaradharmatīrtha at Paruttikkuṉṟil for worshipping Jinendra.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>Sanskrit: ...</p>
+                            <p>Tamil: ...</p>
+                            <p>See <bibl><ptr target="bib:Subramaniam1959_01"/><citedRange unit="page">45ff.</citedRange></bibl>
+                            </p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>			
+            <change who="part:emfr" when="2023-10-04" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition">
+                
+                <div type="textpart" xml:lang="san-Latn" n="A" rendition="class:grantha maturity:83215">
+                    <head xml:lang="eng">Seal</head>
+                    
+                    <p>
+                        <lb n="1"/>...
+                    </p>
+                    
+                </div>	
+                
+                <div type="textpart" xml:lang="san-Latn" n="B" rendition="class:grantha maturity:83215">
+                    <head xml:lang="eng">Plates: Sanskrit Portion</head>
+                    
+                    <pb n="1r"/>
+                    
+                    <lg n="1" met="upajāti">
+                        <l n="a" enjamb="yes"><pb n="1v"/><lb n="1v1=1"/>svarggāpava<unclear>r</unclear>gga-praguṇāgra-mārgga</l>
+                        <l n="b">-prakāśi-vākyo jaya<lb n="1v2=1" break="no"/>tāj jinendraḥ</l>
+                        <l n="c" enjamb="yes">munīndra-devendra-narendra</l>
+                        <l n="d">-vidvad-vandāru-bṛndāraka<lb n="1v3=3" break="no"/>-bṛnda-vandyaḥ <g type="gomutraFinal">.</g></l>
+                    </lg>
+                    
+                    <lg n="2" met="śārdūlavikrīḍita">
+                        <l n="a">Āsīd ambuja-nābha-nābhi-jala-jād abjāsano<lb n="1v4=4" break="no"/>to <supplied reason="subaudible">’</supplied>ṁgirā</l>
+                        <l n="b">gī<reg>r</reg>-vvāṇeśa-gurus tatas tata-matiś śa<lb n="1v5=5" break="no"/>ṁyur bharadvājakaḥ</l>
+                        <l n="c">droṇo drauṇir ato ’bha-va-t pu<lb n="1v6=6" break="no"/>ra-ripor aṁśas tataḥ pallavaḥ</l>
+                        <l n="d">śrīmān-nīradhi-nīra-nīlavasa<lb n="1v7=7" break="no"/>nā-kṣmā-vallabhā-vallabhaḥ <g type="ddanda">.</g></l>
+                    </lg>	
+                    
+                    <lg n="3" met="pr̥thvī">
+                        <l n="a">tataḥ pratata-kīrttiṣu prahata-lo<lb n="1v8=8" break="no"/>ka-śokeṣv iteṣv</l>
+                        <l n="b">aśoka-harigupta-rāḍ·-pramukha<lb n="2r1=9" break="no"/>-pallaveṣu kramāt<unclear>·</unclear></l>
+                        <l n="c" enjamb="yes">praṇamra-nṛpa-kamra-m<choice><orig>o</orig><reg>au</reg></choice>ly-aruṇa-ratna-ra<lb n="2r2=10" break="no"/>śmy-ātapat</l>
+                        <l n="d">-prabuddha-pada-paṁkajeṣv ajani siṁhavarmmādhipāt <g type="gomutraFinal">.</g></l>
+                    </lg>	
+                    
+                    <lg n="4" met="upajāti">
+                        <l n="a">...</l>
+                        <l n="b">...</l>
+                        <l n="c">...</l>
+                        <l n="d">...</l>
+                    </lg>	
+                    
+                    <lg n="5" met="śārdūlavikrīḍita">
+                        <l n="a">...</l>
+                        <l n="b">...</l>
+                        <l n="c">...</l>
+                        <l n="d">...</l>
+                    </lg>	
+                    
+                    <lg n="6" met="upajāti">
+                        <l n="a">...</l>
+                        <l n="b">...</l>
+                        <l n="c">...</l>
+                        <l n="d">...</l>
+                    </lg>	
+                    
+                    <lg n="7" met="upajāti">
+                        <l n="a">...</l>
+                        <l n="b">...</l>
+                        <l n="c">...</l>
+                        <l n="d">...</l>
+                    </lg>			
+                    
+                    <lg n="8" met="anuṣṭubh">
+                        <l n="a">...</l>
+                        <l n="b">...</l>
+                        <l n="c">...</l>
+                        <l n="d">...</l>
+                    </lg>	
+                    
+                    <lg n="9" met="anuṣṭubh">
+                        <l n="a" enjamb="yes">samasta-śāstra-niṣṇā<pb n="3r" break="no"/><lb n="3r1=25" break="no"/>ta</l>
+                        <l n="b">dhiṣaṇo dhiṣaṇopamaḥ</l>
+                        <l n="c">mānyo nāmnāpi <lb n="3r2=26"/> medhāvī</l>
+                        <l n="d">praśastiṁ kṛtavān imām· <g type="gomutraFinal">§§§§§§</g></l>
+                    </lg>
+                    
+                </div>
+                
+                <div type="textpart" xml:lang="tam-Latn" n="C" rendition="class:tamil maturity:83215">
+                    
+                    <head xml:lang="eng">Plates: Tamil Portion</head>
+                    
+                    <p>
+                        <lb n="3r3=27"/>kō-vicaiya-<hi rend="grantha">siṁha</hi>va<hi rend="grantha">rmma</hi>ṟ·ku yāṇ·ṭ’ āṟāvatu
+                    </p>
+                    
+                    <p>
+                        veṇ
+                        <lb n="3r4=28" break="no"/>kuṉ·ṟa-k-kōṭṭatu-p peru-nakara-nāṭṭu nāṭṭār·
+                        <lb n="3r5=29"/>kāṇ<unclear>·</unclear>ka
+                    </p>
+                    
+                    <p>
+                        ta<choice><orig>n</orig><reg>ṉ</reg></choice> nāṭṭu Amaṇ·cērkkai parut·ti
+                        <lb n="3r6=30" break="no"/>k· kuṉ·ṟil· vajranandik kuravar·kkup paḷḷiccantam ā
+                        <lb n="3r7=31" break="no"/>ka-k<unclear>·</unclear> koṭuttōn		
+                    </p>
+                    <p>
+                        tāṅkaḷum paṭākai naṭantu kal
+                        <lb n="3r8=32" break="no"/>luṅ· kaḷḷiyun nāṭṭi Aṟaiyōlai ceytu k<unclear>o</unclear>
+                        
+                        
+                        <pb n="3v" break="no"/>
+                        <lb n="3v1=33" break="no"/>ṭuttu viṭutaka-v eṉ·ṟu nāṭṭār·kut tirumukam· viṭa
+                    </p>
+                    
+                    <p>
+                        nāṭṭā
+                        <lb n="3v2=34" break="no"/>run tirumukaṅ kaṇṭu toḻutu talaikku vait·tu paṭā
+                        <lb n="3v3=35" break="no"/>kai naṭa<supplied reason="omitted">n</supplied>tu kalluṅ· kaḷliyu nāṭṭi nāṭṭār viṭunta
+                        <lb n="3v4=36"/>Aṟaiyōlai-p paṭikk’ ellai
+                    </p>
+                    
+                    <p>
+                        kīḻ-pā
+                        <lb n="3v5=37" break="no"/>l ellai Ental ēriyiṉ· kīḻai-k kaṭaṟṟi
+                        <lb n="3v6=38" break="no"/>ṉ· mēṟ·kum ōmai-k· kollai Ellai Iṉṉu
+                        <lb n="3v7=39" break="no"/>m· teṉ·-pāl ellai vēḷ vaṭukaṉ· kēṇiyi
+                        <lb n="3v8=40" break="no"/>ṉ· vaṭakkum· kaṭaṟṟiṉ el·lai Iṉṉun· nīla-pāṭi
+                        
+                        <pb n="4r"/>
+                        <lb n="4r1=41"/>El·lai Iṉ·ṉum· vilāṭaṉ· kuṟ·ṟ-ēt·tat·t’ ellai
+                        <lb n="4r2=42"/>Iṉ·ṉum· mēl·-pāl ellai māv-ēt·tat·tu
+                        <lb n="4r3=43"/>vatiyiṉ· kiḻak·kum· mum·mūlai Ēt·tat·t’ ellai
+                        <lb n="4r4=44"/>Iṉṉum āṟ·ṟ’ ellai Iṉ·ṉum· vaṭa-pāl’ el·
+                        <lb n="4r5=45" break="no"/>lai peruṅ-kol·laiyiṉ· ṟeṟku Iṉ·ṉum
+                        <lb n="4r6=46"/>pāṇṭiyaṉ· kayatt’ ellai Iṉṉum<surplus>u</surplus> murukkaṅ·
+                        <lb n="4r7=47"/>kēṇi Ellai
+                    </p>
+                    
+                    <p>		
+                        Ivv-icait·ta peru-nāṅk’ el<unclear>·</unclear>
+                        <lb n="4r8=48" break="no"/>lai-y akattum akap·paṭ·ṭa nilam· nīr·-nilamum<unclear>·</unclear>
+                        
+                        <pb n="4v"/>
+                        <lb n="4v1=49"/>puṉ·-cey·yum· kaḷarum<unclear>·</unclear> kaṉ·ṟu-mēy·-pāḻum· kāṭu
+                        <lb n="4v2=50" break="no"/>m· pīṭilikaiyum· kiṭaṅ·kuṅ· kēṇiyum maṉai
+                        <lb n="4v3=51" break="no"/>yum· maṉaip-paṭappum· Uṭump’ ōṭi Āmai tava
+                        <lb n="4v4=52" break="no"/>ḻntat’ el·lām· Uṇṇilaṉ ōḻiv’ iṉ<unclear>·</unclear>ṟi
+                        <lb n="4v5=53"/>kōvum· poṟiyum· māṟ·ṟi kuṭi nīkki Ivv-ūr
+                        <lb n="4v6=54"/>peṟṟa va<hi rend="grantha">jranandi</hi>-k· kuravar·kkē paḷḷic·cantam-āka tā
+                        <lb n="4v7=55" break="no"/>marilum· patiṉ āṟ’ arai-p· paṭṭi nilaṅ· koṭut
+                        <lb n="4v8=56" break="no"/>tōm·
+                    </p>
+                    
+                    <p>
+                        In-nilattiṟ·k’ el<unclear>·</unclear>lai kīḻ·-pāl e		
+                        <pb n="5r" break="no"/>
+                        <lb n="5r1=57" break="no"/>l·lai pulikiḻār<unclear>·</unclear> paṭṭiyiṉ· mēṟ·kum· teṉ·-pā
+                        <lb n="5r2=58" break="no"/>l el·lai muḷḷeṟi-pāt·t’ ellaiyiṉ· vaṭa-
+                        <lb n="5r3=59" break="no"/>k·kum· mēl·-pāl ellai pokku-vāy·-c cēru
+                        <lb n="5r4=60" break="no"/>viṉ kiḻakkum· vaṭa-pāl el·lai pallāṅ·ku
+                        <lb n="5r5=61" break="no"/>ḻi-k· kāviṉ teṟ·k<unclear>·</unclear>kum·
+                    </p>
+                    
+                    <p>
+                        In·-nāṉ·k’ el·lai
+                        <lb n="5r6=62" break="no"/>-y akattum· Akapaṭ·ṭa <hi rend="grantha">bhūmi</hi>yum· parutti-k kuṉ·ṟi
+                        <lb n="5r7=63" break="no"/>l· va<hi rend="grantha">jranandi</hi>-k· kuravar·kkē paḷḷiccantam-āka <hi rend="grantha">parada
+                            <lb n="5r8=64" break="no"/>tti</hi> ceṉṟatu narabhayaṉ āṇat·tiyāl <g type="danda">.</g> {si}<!--update: abbreviation--> <g type="gomutraFinal">§</g> <g type="gomutraFinal">§</g>
+                        
+                    </p>
+                    
+                    
+                    <pb n="5v"/>
+                </div>
+            </div>
+            
+            <div type="apparatus">
+                
+                <!--Complete apparatus-->
+                
+                <!--<div type="textpart" xml:lang="san-Latn" n="A">
+                    <head xml:lang="eng">Seal</head>
+                    
+                    </div>-->
+                
+                <div type="textpart" xml:lang="san-Latn" n="B">
+                    <head xml:lang="eng">Plates: Sanskrit Portion</head>
+                    
+                    <listApp>      			
+                        
+                        <app loc="1">
+                            <lem>svarggāpava<unclear>r</unclear>gga°</lem>
+                            <rdg source="bib:Subramaniam1959_01"/>
+                        </app>   	
+                        <app loc="3">
+                            <lem>ambuja°</lem>
+                            <rdg source="bib:Subramaniam1959_01">a<unclear>ṁ</unclear>buja°</rdg>
+                        </app>     
+                        
+                        <app loc="4">
+                            <lem>gī<reg>r</reg>°</lem>
+                            <rdg source="bib:Subramaniam1959_01">gī<unclear>r</unclear>°</rdg>
+                        </app>   
+                        
+                        <app loc="9">
+                            <lem>kramāt<unclear>·</unclear></lem>
+                            <rdg source="bib:Subramaniam1959_01">kramāt<unclear>·</unclear></rdg>
+                        </app>
+                        
+                        <app loc="9">
+                            <lem>°m<choice><orig>o</orig><reg>au</reg></choice>ly°</lem>
+                            <rdg source="bib:Subramaniam1959_01">°mauly°.</rdg>
+                        </app>		
+                        <!--<app loc="0">
+                            <lem>...</lem>
+                            <rdg source="bib:Subramaniam1959_01">...</rdg>
+                            <rdg source="bib:Mahalingam1988_01">...</rdg>      					
+                            <rdg source="bib:Zvelebil1964_01">...</rdg>
+                            </app>-->  
+                        
+                    </listApp>
+                </div>
+                
+                <div type="textpart" xml:lang="san-Latn" n="C">
+                    <head xml:lang="eng">Plates: Tamil Portion</head>
+                    
+                    <listApp>
+                        
+                        <!--<app loc="0">
+                            <lem>...</lem>
+                            <rdg source="bib:Subramaniam1959_01">...</rdg>
+                            <rdg source="bib:Mahalingam1988_01">...</rdg>      					
+                            <rdg source="bib:Zvelebil1964_01">...</rdg>
+                            </app>-->      				
+                        
+                        <app loc="32">
+                            <lem>k<unclear>o</unclear><pb n="3v" break="no"/><lb n="3v1=33"/>ṭuttu</lem>
+                            <note>In <foreign>k<unclear>o</unclear></foreign>, only the <foreign>kāl</foreign> is unclear.</note>
+                        </app>   
+                        
+                    </listApp>
+                </div>
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                
+                <!--<div type="textpart" xml:lang="san-Latn" n="A">
+                    <head xml:lang="eng">Seal</head>
+                    
+                    <p>
+                    <lb n="1"/>...
+                    </p>
+                    
+                    </div>	-->
+                
+                <div type="textpart" xml:lang="san-Latn" n="B">
+                    <head xml:lang="eng">Plates: Sanskrit Portion</head>
+                    
+                    <p rend="stanza" n="1">
+                        <l>May Jinendra, whose words/commands are illuminating in the path of highest virtues <supplied reason="subaudible">which lead</supplied> to heaven and final beatitude, be victorious,</l>
+                        <l>He who is praised, for a multitude of aeons <supplied reason="explanation"><foreign>araka</foreign><note>That is, <foreign>ara</foreign>.</note></supplied>, by the multitude of the great sages, great gods/Indra, great men/kings, wise men and panegyrists. </l>
+                    </p>
+                    <p rend="stanza" n="2">
+                        <l>From he who is born on the waters on the navel of he whose navel is a lotus<note>That is, Brahmā, arising form the navel of Viṣṇu.</note>, sitting in the lotus posture, was born Aṅgiras;</l>
+                        <l>From him, the preceptor who is the master of those who have words as arrows<note>That is, Bṛhaspati, the preceptor of the gods and the <foreign>purohita</foreign> of Indra.</note>; <supplied reason="subaudible">from him</supplied>, Śaṁyu, whose thoughts are broad/concealed; <supplied reason="subaudible">from him</supplied>, Bharadvājaka;</l>
+                        <l><supplied reason="subaudible">from him</supplied>, Droṇa; <supplied reason="subaudible">from him</supplied>, Drauṇi<note>That is, Aśvatthāman.</note>, who was a partial incarnation of the enemy of Pura; from him was born Pallava,</l>
+                        <l>Who is the glorious beloved of his beloved earth, who has the waters of the ocean for her garments.</l>
+                    </p>
+                    
+                    <p rend="stanza" n="3">
+                        <l>Then, after Pallava <supplied reason="subaudible">kings</supplied>, such as Aśoka, Harigupta, and others, were gone one after the other,</l>
+                        <l>Their fame having spread <supplied reason="subaudible">in the world</supplied> and their wordly pains having ceased <supplied reason="explanation"><foreign>prahatta</foreign><note>Literally: killed, defeated.</note></supplied>,</l>
+                        <l>Their lotus-feet having been awakened by the hot rays of the red jewels on the beautiful crowns</l>
+                        <l>of bowing kings, from the king Siṁhavarman was born:</l>
+                    </p>
+                    
+                </div>
+                
+                <div type="textpart" xml:lang="san-Latn" n="C">
+                    <head xml:lang="eng">Plates: Tamil Portion</head>
+                    
+                </div>
+                
+            </div>
+            
+            <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
+                
+                <div type="textpart" xml:lang="san-Latn" n="B">
+                    <head xml:lang="eng">Plates: Sanskrit Portion</head>
+                    
+                    <p rend="stanza" n="1">
+                        <l>Puisse<note>La fin de b (<foreign>-tāj jinêndraḥ</foreign>) permet de supposer un impératif en -<foreign>tāt</foreign>; il s’agit d’une invocation à Mahāvīra, ouvrant le texte d’une inscription qui enregistre une donation en faveur d’un ascète jaina, de la part d’un souverain dont il y a tout lieu de penser qu’il fut adepte de cette religion. La généalogie commence à la str. 2.</note> le Seigneur Jina <gap reason="lost"/> les plus hautes vertus qui conduisent au ciel et à la délivrance</l>
+                        <l>- Lui que doit révérer la multitude <gap reason="lost"/> des grands ermites et du roi des dieux <gap reason="lost"/></l>
+                    </p>
+                    
+                    <p rend="stanza" n="2">
+                        <l><supplied reason="lost">Brahmā</supplied> naquit du dieu dont le nombril est un lotus ; de lui naquit Aṁgiras,</l>
+                        <l>De ce dernier Gīrvāṇeśa<note>Litt. « le maître des êtres ayant la parole pour flèches », appellation de Bṛhaspati.</note> <gap reason="lost"/> <supplied reason="lost">qui eut pour fils</supplied> Śamyu; puis vint Bharadvājaka,</l>
+                        <l><supplied reason="lost">Qui engendra</supplied> Droṇa; <supplied reason="lost">de ce dernier naquit</supplied> celui qui fut une incarnation partielle de l’Ennemi de Pura<note>Aśvatthāman, incarnation partielle de Śiva.</note> ; Pallava,</l>
+                        <l><gap reason="lost"/> de la Fortune <gap reason="lost"/>, qui fut l’époux de son épouse la Terre.</l>
+                    </p>
+                    
+                    <p rend="stanza" n="3">
+                        <l>Puis <gap reason="lost"/> disparues les causes de douleur,</l>
+                        <l>Aśoka <gap reason="lost"/>; quand, les uns après les autres, les Pallava <gap reason="lost"/>,</l>
+                        <l>Dont les rois, en s’inclinant, des rayons brûlants émanant des gemmes rougeoyants de leurs beaux diadèmes,</l>
+                        <l>Eveillaient les pieds de lotus, Siṁhavarman naquit du souverain<note>Le dernier mot (<foreign>adhipāt</foreign>) oblige à supposer que le nom du père de Siṁhavarman est mentionné, à l’abl., dans l’une ou l’autre des parties illisibles.</note> <gap reason="lost"/></l>
+                    </p>
+                    
+                    <p rend="stanza" n="4">
+                        <l>Śrī-Siṁhaviṣṇu, qui dépassa Siṁhaviṣṇu<note>= Narasiṁha (avatar de Viṣṇu), à moins qu’il ne s’agisse du nom d’un autre roi, que celui-ci aurait vaincu à la guerre.</note></l>
+                        <l>Par sa force, dont l’arc surpassa même celui de Jiṣṇu<note>= Arjuna.</note>,</l>
+                        <l>Qui illustra sa lignée resplendissante,</l>
+                        <l>Qui, dans les combats, repoussa les audacieux<note>Il semble que le verbe dont ce personnage est le sujet soit omis.</note>.</l>			
+                        
+                    </p>
+                    
+                    <p rend="stanza" n="5">
+                        <l>C’est chez ce souverain doué d’une profonde intelligence que trouvèrent place l’ensemble des vertus immaculées des guerriers, qui ne trouvent pas de place chez les autres : notamment la vérité, le renoncement (/la générosité) et la modestie;</l>
+                        <l>Et mieux que son rival, il s’empara de la terre des Coḷa dont la Kāverī est le collier, les rizières et les champs de canne à sucre l’<foreign>aṁśuka</foreign>, les vergers de noix d’arech et de bananes la belle ceinture.</l>
+                    </p>
+                    
+                    <p rend="stanza" n="6">
+                        <l>Au lieu sacré de Śrī-Varddhamāneśvara,</l>
+                        <l>Dans la noble congrégation de Śrī-Nandisaṁgha, par les chefs de la congrégation</l>
+                        <l>Méritants, innombrables et vertueux, entouré d’une abondante</l>
+                        <l>Compagnie, naquit, pareil à Gaṇin, Vajranandī.</l>
+                    </p>
+                    
+                    <p rend="stanza" n="7">
+                        <l>Le roi donna tout entier le village nommé Śramaṇāśrama, après en avoir délimité les frontières</l>
+                        <l>A cet ascète, pour qu’il célèbre le culte du Seigneur Jina, au nom du groupe des grands ascètes adeptes du Seigneur Jina.</l>
+                    </p>
+                    
+                    <p rend="stanza" n="8">
+                        <l>L’exécuteur fut, en cette occasion, le ministre intrépide nommé Narabhaya,</l>
+                        <l>Un homme avisé, réceptacle d’une multitude de nobles vertus, dont l’humilité et la sérénité.</l>
+                    </p>
+                    
+                    <p rend="stanza" n="9">
+                        <l>Comparable à Dhiṣaṇa par son intelligence rompue à tous les traités,</l>
+                        <l>Celui dont le nom lui-même est digne d’honneur, Medhāvin composa ce panégyrique.</l>
+                    </p>
+                    
+                </div>
+                
+            </div>
+            
+            <!--<div type="commentary">
+                
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1958-1959"/></bibl> (ARIE/1958-1959/A/1958-1959/10).</p>
+                
+                <p>Edited and translated in <bibl><ptr target="bib:Subramaniam1959_01"/></bibl> (TASSI 1958-1959), with photos. Text of the Tamil portion in <bibl><ptr target="bib:Zvelebil1964_01"/></bibl>. Edited in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 17). Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 14).</p>
+                
+                <p>This revised edition by Emmanuel Francis, based on previous edition(s), published visual documentation, and on a online <ref target="https://www.facebook.com/photo/?fbid=817416057092666&amp;set=a.467208802113395">photo</ref> (accessed 2024-04-21) of second fragment of plate 1, kindly pointed out to me by Centamiḻ Celvaṉ (April 2024). The apparatus is restricted mostly to variant readings compared to <bibl><ptr target="bib:Subramaniam1959_01"/></bibl>, which edition has been followed by most further editors.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="TNS">
+                        <ptr target="bib:Subramaniam1959_01"/>
+                    </bibl>
+                    
+                    <bibl n="Z">
+                        <ptr target="bib:Zvelebil1964_01"/>
+                    </bibl>
+                    
+                    <bibl n="TPC">
+                        <ptr target="bib:Subrahmanian1966_01"/>
+                        <citedRange unit="page">1-32</citedRange>
+                    </bibl>
+                    
+                    <bibl n="IP">
+                        <ptr target="bib:Mahalingam1988_01"/>
+                        <citedRange unit="page">89-93</citedRange>
+                        <citedRange unit="item">17</citedRange>
+                    </bibl>
+                    
+                    <bibl n="B">
+                        <ptr target="bib:Brocquet1997_01"/>
+                        <citedRange unit="page">457-462</citedRange>
+                        <citedRange unit="item">14</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1958-1959"/>
+                        <citedRange unit="page">3-4, 27</citedRange>
+                        <citedRange unit="appendix">A/1958-1959</citedRange>
+                        <citedRange unit="item">10</citedRange>
+                        <citedRange unit="plate">III</citedRange>
+                    </bibl>     
+                    
+                    <bibl>
+                        <ptr target="bib:Francis2013_01"/>
+                        <citedRange unit="item">IR 21</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:Rajentiran2015_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>
 <!--
-	METADATA:
-	add details on whereabouts of second fragment of plate 1.
+    METADATA:
+    add details on whereabouts of second fragment of plate 1.
 -->
