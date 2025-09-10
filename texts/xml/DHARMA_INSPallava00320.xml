@@ -103,8 +103,6 @@
                 
             </div>
             
-            
-            
             <div type="commentary">
                 
                 <p>
@@ -130,16 +128,16 @@
                 
                 <listBibl type="primary">
                     
-                    <bibl n="TMK">
-                        <ptr target="bib:Civanantam2018_01"/>
-                        <citedRange unit="item">273/2018</citedRange>
-                        <citedRange unit="page">145</citedRange>
-                    </bibl>
-                    
                     <bibl n="IP">
                         <ptr target="bib:Mahalingam1988_01"/>
                         <citedRange unit="item">320</citedRange>
                         <citedRange unit="page">719</citedRange>
+                    </bibl>
+                    
+                    <bibl n="C">
+                        <ptr target="bib:Civanantam2018_01"/>
+                        <citedRange unit="item">273/2018</citedRange>
+                        <citedRange unit="page">145</citedRange>
                     </bibl>
                     
                 </listBibl>
