@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Rājakkal, time of Kampavikramavarman, year 3<supplied reason="lost">?</supplied></title>
+                <title>Rājakkallu, time of Kampavikramavarman, year 3<supplied reason="lost">?</supplied></title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -125,6 +125,7 @@
                 
                 <p>
                     Edited in <bibl><ptr target="bib:Canmukam2021_01"/></bibl>.
+                    Edited in <bibl><ptr target="bib:Iracavelu2022_01"/></bibl>.
                 </p>
                 
                 <p>This digital edition by Emmanuel Francis, based on precious edition(s)</p>
@@ -136,6 +137,12 @@
                         <ptr target="bib:Canmukam2021_01"/>
                         <citedRange unit="page">208</citedRange>
                         <citedRange unit="item">356/2021</citedRange>
+                    </bibl>
+                    
+                    <bibl n="R">
+                        <ptr target="bib:Iracavelu2022_01"/>
+                        <citedRange unit="page">140</citedRange>
+                        <citedRange unit="item">518/2022</citedRange>
                     </bibl>
                     
                 </listBibl>
