@@ -10,12 +10,12 @@
             <titleStmt>
                 <title>Tiruvallam, time of Nandivikramavarman, year 17</title>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-                </respStmt>
+                </respStmt>		
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
@@ -293,7 +293,11 @@
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1889-1890_01"/></bibl> (ARIE/1889-1890/B/1890/1a).</p>
                 
-                <p>Edited and translated in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> (SII 3.43). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 132).</p>
+                <p>
+                    Edited and translated in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> (SII 3.43).
+                    Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 132).
+                    Edited in <bibl><ptr target="bib:Canmukam2021_01"/></bibl>
+                </p>
                 <p>This digital edition by Renato Dávalos and Emmanuel Francis, based on <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>. This translation by Emmanuel Francis.</p>
                 <p>Thanks to Dr. N. Marxia Gandhi and Sudalaimuthu Palaniappan for their input for the improved reading in line 26, and to Mani Manivannan for photographic documentation.</p>
                 
@@ -309,6 +313,12 @@
                         <ptr target="bib:Mahalingam1988_01"/>
                         <citedRange unit="page">396</citedRange>
                         <citedRange unit="item">131</citedRange>
+                    </bibl>
+                    
+                    <bibl n="C">
+                        <ptr target="bib:Canmukam2021_01"/>
+                        <citedRange unit="page">121-123</citedRange>
+                        <citedRange unit="item">309/2021</citedRange>
                     </bibl>
                     
                 </listBibl>
