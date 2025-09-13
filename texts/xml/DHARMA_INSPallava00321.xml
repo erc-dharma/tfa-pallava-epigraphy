@@ -83,7 +83,7 @@
                 
                 <p>
                     <lb n="1"/>vicaiya-nanti-vikkirama-parumaṟku
-                    <lb n="2"/>yāṇṭu nār-patt' ēḻ-āvatu <gap reason="ellipsis"/> [the rest of the text is not available]
+                    <lb n="2"/>yāṇṭu nār-patt' ēḻ-āvatu
                 </p>
                 
             </div>
@@ -98,7 +98,9 @@
                 </p>
             </div>
             
-            <div type="commentary"/>
+            <div type="commentary">
+                <p>It is not clear if the inscription consists only in a date phrase.</p>
+            </div>
             
             <div type="bibliography">
                 
@@ -107,7 +109,7 @@
                 <p>
                     Date phrase edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.125).
                     Summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 321).
-                    Edited (date prase only) in <bibl><ptr target="bib:Punkunran2021_01"/></bibl>.
+                    Edited (date phrase only) in <bibl><ptr target="bib:Punkunran2021_01"/></bibl>.
                 </p>
                 <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Hultzsch1890_01"/></bibl>.</p>
                 <p>ASI transcript and estampage, if any, yet to be consulted.</p>
