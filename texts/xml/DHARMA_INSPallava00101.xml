@@ -9,20 +9,13 @@
       <fileDesc>
          <titleStmt>
             <title>Uttiramērūr, time of Dantivarman, year 7</title>
-            <respStmt>
-               <resp>EpiDoc encoding</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
-                  <surname>Francis</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>Intellectual authorship of edition</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
-                  <surname>Francis</surname>
-               </persName>
-            </respStmt>
+             <respStmt>
+                 <resp>author of digital edition</resp>
+                 <persName ref="part:emfr">
+                     <forename>Emmanuel</forename>
+                     <surname>Francis</surname>
+                 </persName>
+             </respStmt>	
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
