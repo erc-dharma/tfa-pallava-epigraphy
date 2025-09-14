@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Maṭavāḷam, time of Īśvaravarman, year 12</title>
+                <title>Oṭukattūr, time of Nandivikramavarman, year 42</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -20,7 +20,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_INSPallava00549</idno>
+                <idno type="filename">DHARMA_INSPallava00551</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>...</summary>
+                        <summary>Hero-stone inscription commemorating the death of a hero (name lost), son of Kuruviyār.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -72,7 +72,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:emfr" when="2025-09-12">Creation of the file on therepository</change>
+            <change who="part:emfr" when="2025-09-14">Creation of the file on therepository</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -80,17 +80,23 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:vaṭṭeḻuttu maturity:vernacular">
                 
+                <ab>
+                    <lb n="1"/><hi rend="grantha">śrī</hi>
+                </ab>
+                
                 <p>
-                    <lb n="1"/>kō-vicaiya-Īśvara-parumaṟki pa
-                    <lb n="2" break="no"/>...
-                    <lb n="3" break="no"/>
-                    <lb n="4" break="no"/>               
-                    <lb n="5" break="no"/>
-                    <lb n="6" break="no"/>
-                    <lb n="7" break="no"/>
-                    <lb n="8"/>
-                    <lb n="9" break="no"/>
-                </p>      
+                    kō-vicaiya-nanti-vikkirama-paruma                    
+                    <lb n="2" break="no"/>ṟku yāṇṭu nāṟpatt' iraṇṭ-āvatu
+                </p>
+                <p>
+                    <lb n="3"/>paṭuvūr-k-kōṭṭattu-p pāli-nāṭṭ' oṭu
+                    <lb n="4" break="no"/>kattūr Iruntu vāḻuṅ kuruviyār makaṉ
+                    <lb n="5"/>mērkūṟṟu-k
+                    <lb n="6"/>kaṇṇakkuṟi
+                    <lb n="7"/>Eṟintu
+                    <lb n="8"/><gap reason="lost" quantity="4" unit="character"/> pattā<unclear>ṉ</unclear>                    <lb n="9"/>peytārpuḷi
+                    <lb n="10" break="no"/>kam paṭṭi                    
+                </p>   
                 
             </div>
             
@@ -109,11 +115,15 @@
             
             <div type="translation" resp="part:emfr">
                 
-                <p n="1-2">
-                    Twelfth year of the victorious king Īśvaraparumaṉ.<note>Sanskrit Īśvaravarman.</note>
+                <p n="1">
+                    Fortune!
                 </p>
                 
-                <p n="2-9">
+                <p n="1-2">
+                    Fourty-second year of the victorious king Nantivvikkiramparumaṉ.<note>Sanskrit Nandivikramavarman.</note>
+                </p>
+                
+                <p n="3-10">
                     ...
                 </p>
                 
@@ -128,7 +138,7 @@
                 <!--<p>Reported in <bibl><ptr target="bib:ARIE..."/></bibl> (ARIE/...).</p>-->
                 
                 <p>
-                    Edited in <bibl><ptr target="bib:Canmukam2021_01"/></bibl>.
+                    Edited in <bibl><ptr target="bib:Punkunran2021_01"/></bibl>, with visual documentation (p. 285).
                 </p>
                 
                 <p>This digital edition by Emmanuel Francis, based on precious edition(s)</p>
@@ -136,10 +146,10 @@
                 
                 <listBibl type="primary">
                     
-                    <bibl n="C">
-                        <ptr target="bib:Canmukam2021_01"/>
-                        <citedRange unit="page">253</citedRange>
-                        <citedRange unit="item">393/2021</citedRange>
+                    <bibl n="P">
+                        <ptr target="bib:Punkunran2021_01"/>
+                        <citedRange unit="page">181</citedRange>
+                        <citedRange unit="item">153/2021</citedRange>
                     </bibl>
                     
                 </listBibl>

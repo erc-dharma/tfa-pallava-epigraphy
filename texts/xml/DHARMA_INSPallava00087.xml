@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Lacunose inscription.</summary>
+                        <summary>Lacunose inscription. Vellore archaeological museum.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -84,7 +84,7 @@
                     <lb n="2" break="no"/>kirama-parumarkku yā<unclear>ṇṭu</unclear>
                     <lb n="3"/>A<choice><orig>y</orig><reg>i</reg></choice>m-patt’ iraṇṭ-ā<unclear>vatu</unclear>
                 </p>
-                <gap reason="lost" extent="unknown" unit="line"/>
+                <p><lb n="4"/><gap reason="lost" extent="unknown" unit="line"/></p>
             </div>
             
             <div type="apparatus">
@@ -117,7 +117,11 @@
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1886-1887"/></bibl> (ARIE/1886-1887/II/1886-1887/27).</p>
                 
-                <p>Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.108)<!--Update-->. Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 87).</p>
+                <p>
+                    Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.108)<!--Update-->.
+                    Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 87).
+                    Edited in <bibl><ptr target="bib:Punkunran2021_01"/></bibl>.
+                </p>
                 <p>This digital edition encoded by Emmanuel Francis, based on previous edition(s).</p>
                 
                 <listBibl type="primary">
@@ -132,6 +136,12 @@
                         <ptr target="bib:Mahalingam1988_01"/>
                         <citedRange unit="page">286</citedRange>
                         <citedRange unit="item">87</citedRange>
+                    </bibl>
+                    
+                    <bibl n="P">
+                        <ptr target="bib:Punkunran2021_01"/>
+                        <citedRange unit="page">165</citedRange>
+                        <citedRange unit="item">140/2021</citedRange>
                     </bibl>
                     
                 </listBibl>
