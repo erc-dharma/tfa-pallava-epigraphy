@@ -89,25 +89,44 @@
                 <div type="textpart" n="B">
                     <head xml:lang="eng">Plates</head>
                     
+                    <!--Check m· and chang to M-->
                     <pb n="1r"/>
                     
                     <ab>
                         <pb n="1v"/>
                         <lb n="1v1=1"/>svasti
                     </ab>
-                    <lg>                        
-                        <l n="a">pañcā<unclear>syas triṃ</unclear>śad-a<unclear>rddha</unclear><surplus>ḥ</surplus>-<unclear>pra</unclear>tibha<unclear>ya</unclear>-nayanaś candra-<unclear>mauḷi</unclear>s</l>
-                        <l n="b">triśū<unclear>lībhī</unclear>ma
-                        <lb n="1v2=2" break="no"/>vyāḷopavī<unclear>tī daśa-bhuja-parighas tatva-mātrātma-mūrttiḥ</unclear></l>
+                    
+                    <lg n="1" met="sragdharā">                        
+                        <l n="a" enjamb="yes">pañcā<unclear>syas triṃ</unclear>śad-a<unclear>rddha</unclear><surplus>ḥ</surplus>-<unclear>pra</unclear>tibha<unclear>ya</unclear>-nayanaś candra-<unclear>mauḷi</unclear>s triśū<unclear>lī</unclear></l>
+                        <l n="b"><unclear>bhī</unclear>ma
+                            <lb n="1v2=2" break="no"/>vyāḷopavī<unclear>tī daśa-bhuja-parighas tatva-mātrātma-mūrttiḥ</unclear></l>
                         <l n="c"><unclear>divyo vekṣyo mukunda</unclear>-pra
-                        <lb n="1v3=4" break="no"/><unclear>bhṛ</unclear>ti<unclear>bhi</unclear>r amarai<unclear>s sṛṣṭi-kṛn mantra-si</unclear>ddhaḥ</l>
+                            <lb n="1v3=4" break="no"/><unclear>bhṛ</unclear>ti<unclear>bhi</unclear>r amarai<unclear>s sṛṣṭi-kṛn mantra-si</unclear>ddhaḥ</l>
                         <l n="d"><unclear>karttā no mūrtta-vi</unclear>dyā <unclear>vihita-para-ya</unclear>ma-
-                        <lb n="1v4=4" break="no"/>s trāyatāṃ viśva-mūrtti<supplied reason="omitted">ḥ</supplied></l>
+                            <lb n="1v4=4" break="no"/>s trāyatāṃ viśva-mūrtti<supplied reason="omitted">ḥ</supplied> <g type="ddanda">.</g></l>
                     </lg>
-                        <p>
-                        
-                        <pb n="2r" break="no"/>
-                        
+                    
+                    <lg n="2" met="śārdūlavikrīḍita">                        
+                        <l n="a">kā<unclear>ryya-vyūha</unclear>-<unclear>parama-vyomā</unclear>mṛta-<unclear>jyotiṣo</unclear></l>
+                        <l n="b"><unclear>vi</unclear>
+                            <lb n="5" break="no"/>dvan-mānasa-candra-kānta-patitā mūrcchanti yasyāṁśa<unclear>vaḥ</unclear></l>
+                        <l n="c"><unclear>bhūtānāṁ hṛ</unclear>daye<unclear>ṣu cāna</unclear>ya
+                            <pb n="2r" break="no"/>
+                            <lb n="6" break="no"/>ti yaḥ śaktiṁ kriyā-sādhanīṁ</l>
+                        <l n="d">trayātmā parameśvaras-sa jayati trai-lokya-cūḷā-maṇi<unclear>ḥ</unclear> <g type="ddanda">.</g></l>
+                    </lg>
+                    
+                    <lg n="3" met="śārdūlavikrīḍita">                        
+                        <l n="a">A
+                    <lb n="7" break="no"/>brahmaṇyam asoma-yāgam ayathā-prasthāna-daṇḍodyamam·</l>
+                        <l n="b">mithyā-dāntam adāna-śūram a
+                    <lb n="8" break="no"/>nṛta-vyāhāra-jihmānanam·</l>
+                        <l n="c">jātaṁ yatra nareśvaran na ś<choice><sic>ru</sic><corr>ṛ</corr></choice>ṇumo yuddheṣu vā vikla<unclear>vam·</unclear></l>
+                        <l n="d"><lb n="9"/>nir<surplus>v</surplus>vighna<choice><sic>ḥ</sic><corr>ṁ</corr></choice> pṛthivīn nirītim avatān tat pallavānāṁ kulam· <g type="ddanda">.</g></l>
+                    </lg>
+                    <p>
+                        ...
                         <pb n="2v"/>
                         
                         <pb n="3r"/>
@@ -201,6 +220,12 @@
                             <note>...</note>
                             </app>
                         -->
+                        
+                        <app loc="6">
+                            <lem>trayātmā</lem>
+                            <rdg source="bib:Hultzsch1890_01">tra<supplied reason="omitted">y</supplied>yātmā</rdg>
+                            <note>...</note>
+                        </app>
                         
                         <app loc="85">
                             <lem>ppuṟam<unclear>·</unclear> <surplus>k<unclear>·</unclear></surplus> koṇ·ṭu</lem>
