@@ -6,189 +6,180 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Aṇaikkaṭṭu, time of Tantippōttaraiyar, year 14</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-					
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-					
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSPallava00436</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary>Foundation statement. It is not clear what exactly has been constructed as the inscription is on a stone slab erected in front a temple, but might have been brought there from another place.</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>...</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>This project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union's Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change status="draft" when="2024-04-26" who="part:emfr"
-				>Creation of the file on the repository</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-
-<body>
-         
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-           
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>śrī
-	</ab>
-	
-	<p>     	
-		tanti-p-pōttaraiyark
-		<lb n="2" break="no"/>ku-p patiṉālk-āvatu
-	</p>
-	<p>
-		<lb n="3"/>Ilāṭiḷavaraiyar Eṭuppi
-		<lb n="4" break="no"/>ttatu
-	</p>
-	<p>
-		Ilāṭiḷavaraiciyā
-		<lb n="5" break="no"/>r Eṭuppittatu
-	</p>
-	<p>
-		Itu kāttā<choice><orig>n</orig><reg>ṉ</reg></choice> a
-		<lb n="6" break="no"/>ṭi Eṉ muti mēlatu
-	</p>		
-	
-</div>
-         
-<div type="apparatus">
-           
-	<listApp>		
-		
-		<app loc="2">
-			<lem>patiṉālkāvatu</lem>
-			<rdg source="bib:Dayalan2005_01">patiṉālakāvatu</rdg>
-		</app>   
-		
-		<app loc="2">
-			<lem>Eṉ muti mēlatu</lem>
-			<rdg source="bib:Dayalan2005_01">mēlat - eṉ muti</rdg>
-			<note>Probably a typo in <ptr target="bib:Dayalan2005_01"/>.</note>
-		</app>  
-		
-	</listApp>
-	
-</div>
-	
-<div resp="part:emfr" type="translation">
-      		
-	<p n="1">
-		Fortune!
-	</p>
-	
-	<p n="1-2">
-		Fourteenth <supplied reason="subaudible">year</supplied> of Tantippōttaraiyar.<note>Sanskrit Dantin + Tamil Pōttaraiyar. That is, the Pallava king Dantin.</note>
-	</p>
-	
-	<p n="3-4">
-		That which Ilāṭiḷavaraiyar had built.
-	</p>	
-	
-	<p n="4-5">
-		That which Ilāṭiḷavaraiciyār had built.
-	</p>
-	
-	<p n="5-6">
-		The feet of he who protects this are on my head.
-	</p>
-</div>
-      	
-<div type="commentary"/>
-	
-<div type="bibliography">
-      		
-	<p>Reported in <bibl><ptr target="bib:ARIE1991-1992"/></bibl> (ARIE/1991-1992/B/1991-1992/291).</p>
-	<p>Edited in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
-	<p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Dayalan2005_01"/></bibl>, not sufficiently reliable. The distinction between vowel <foreign>akṣara</foreign>s and markers, and between Grantha and Tamil letters, cannot be implemented with full confidence. The present digital edition is thus provisional and should be revised with proper visual documentation.</p>
-	
-	<listBibl type="primary">
-		
-		<bibl n="D">
-			<ptr target="bib:Dayalan2005_01"/>
-			<citedRange unit="volume">3</citedRange>
-			<citedRange unit="appendix">I</citedRange>
-			<citedRange unit="page">1290</citedRange>
-			<citedRange unit="item">55</citedRange>            		
-		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1992-1993"/>
-			<citedRange unit="page">115</citedRange>
-			<citedRange unit="appendix">B/1991-1992</citedRange>
-			<citedRange unit="item">261</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-</div>
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aṇaikkaṭṭu, time of Tantippōttaraiyar, year 14</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSPallava00436</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Foundation statement. It is not clear what exactly has been constructed as the inscription is on a stone slab erected in front a temple, but might have been brought there from another place.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>...</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>This project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change status="draft" when="2024-04-26" who="part:emfr"
+                >Creation of the file on the repository</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <lb n="1"/>śrī
+                </ab>
+                
+                <p>     	
+                    tanti-p-pōttaraiyark
+                    <lb n="2" break="no"/>ku-p patiṉālk-āvatu
+                </p>
+                <p>
+                    <lb n="3"/>Ilāṭiḷavaraiyar Eṭuppi
+                    <lb n="4" break="no"/>ttatu
+                </p>
+                <p>
+                    Ilāṭiḷavaraiciyā
+                    <lb n="5" break="no"/>r Eṭuppittatu
+                </p>
+                <p>
+                    Itu kāttā<choice><orig>n</orig><reg>ṉ</reg></choice> a
+                    <lb n="6" break="no"/>ṭi Eṉ muti mēlatu
+                </p>		
+                
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>		
+                    
+                    <app loc="2">
+                        <lem>patiṉālkāvatu</lem>
+                        <rdg source="bib:Dayalan2005_01">patiṉālakāvatu</rdg>
+                    </app>   
+                    
+                    <app loc="2">
+                        <lem>Eṉ muti mēlatu</lem>
+                        <rdg source="bib:Dayalan2005_01">mēlat - eṉ muti</rdg>
+                        <note>Probably a typo in <ptr target="bib:Dayalan2005_01"/>.</note>
+                    </app>  
+                    
+                </listApp>
+                
+            </div>
+            
+            <div resp="part:emfr" type="translation">
+                
+                <p n="1">
+                    Fortune!
+                </p>
+                
+                <p n="1-2">
+                    Fourteenth <supplied reason="subaudible">year</supplied> of Tantippōttaraiyar.<note>Sanskrit Dantin + Tamil Pōttaraiyar. That is, the Pallava king Dantin.</note>
+                </p>
+                
+                <p n="3-4">
+                    That which Ilāṭiḷavaraiyar had built.
+                </p>	
+                
+                <p n="4-5">
+                    That which Ilāṭiḷavaraiciyār had built.
+                </p>
+                
+                <p n="5-6">
+                    The feet of he who protects this are on my head.
+                </p>
+            </div>
+            
+            <div type="commentary"/>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1991-1992"/></bibl> (ARIE/1991-1992/B/1991-1992/291).</p>
+                <p>Edited in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.</p>
+                <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Dayalan2005_01"/></bibl>, not sufficiently reliable. The distinction between vowel <foreign>akṣara</foreign>s and markers, and between Grantha and Tamil letters, cannot be implemented with full confidence. The present digital edition is thus provisional and should be revised with proper visual documentation.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="D">
+                        <ptr target="bib:Dayalan2005_01"/>
+                        <citedRange unit="volume">3</citedRange>
+                        <citedRange unit="appendix">I</citedRange>
+                        <citedRange unit="page">1290</citedRange>
+                        <citedRange unit="item">55</citedRange>            		
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1992-1993"/>
+                        <citedRange unit="page">115</citedRange>
+                        <citedRange unit="appendix">B/1991-1992</citedRange>
+                        <citedRange unit="item">261</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
 </TEI>
