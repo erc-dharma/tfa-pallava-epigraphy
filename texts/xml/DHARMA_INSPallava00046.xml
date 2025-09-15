@@ -80,7 +80,7 @@
     <text xml:space="preserve">
         <body>
             
-            <div type="edition" xml:lang="san-Latn" rendition="class:brāhmī_southern maturity:regional">
+            <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                 
                 <div type="textpart" n="A">
                     <head xml:lang="eng">Seal</head> 
@@ -91,9 +91,20 @@
                     
                     <pb n="1r"/>
                     
-                    <p>
+                    <ab>
                         <pb n="1v"/>
-                        <lb n="1v1=1"/><gap reason="ellipsis"/>
+                        <lb n="1v1=1"/>svasti
+                    </ab>
+                    <lg>                        
+                        <l n="a">pañcā<unclear>syas triṃ</unclear>śad-a<unclear>rddha</unclear><surplus>ḥ</surplus>-<unclear>pra</unclear>tibha<unclear>ya</unclear>-nayanaś candra-<unclear>mauḷi</unclear>s</l>
+                        <l n="b">triśū<unclear>lībhī</unclear>ma
+                        <lb n="1v2=2" break="no"/>vyāḷopavī<unclear>tī daśa-bhuja-parighas tatva-mātrātma-mūrttiḥ</unclear></l>
+                        <l n="c"><unclear>divyo vekṣyo mukunda</unclear>-pra
+                        <lb n="1v3=4" break="no"/><unclear>bhṛ</unclear>ti<unclear>bhi</unclear>r amarai<unclear>s sṛṣṭi-kṛn mantra-si</unclear>ddhaḥ</l>
+                        <l n="d"><unclear>karttā no mūrtta-vi</unclear>dyā <unclear>vihita-para-ya</unclear>ma-
+                        <lb n="1v4=4" break="no"/>s trāyatāṃ viśva-mūrtti<supplied reason="omitted">ḥ</supplied></l>
+                    </lg>
+                        <p>
                         
                         <pb n="2r" break="no"/>
                         
@@ -248,7 +259,7 @@
             <div type="bibliography">
                 
                 <p>
-                    Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.151).
+                    Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (<ref target="DHARMA_INSSIIv01p0i0151">SII 1.151</ref>).
                     Revised edition of plates 3-4 in <bibl><ptr target="bib:Hultzsch1923-1924_05"/></bibl>.
                     Edited in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>.
                     Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 46).
@@ -275,7 +286,7 @@
                         <ptr target="bib:Subrahmanian1966_01"/>
                         <citedRange unit="page">33-60</citedRange>
                     </bibl>
-                                        
+                    
                     <bibl n="IP">
                         <ptr target="bib:Mahalingam1988_01"/>
                         <citedRange unit="page">152-161</citedRange>
