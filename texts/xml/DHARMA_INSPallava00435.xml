@@ -84,7 +84,8 @@
 
       	<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       		
-      		<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215"><lb n="01"/><hi rend="grantha">śrī</hi></ab> 
+      		<ab>
+      		    <lb n="01"/><hi rend="grantha">śrī</hi></ab> 
       		
       		<p><lb n="1"/>kō-vi<supplied reason="omitted">cai</supplied>ya-<hi rend="grantha">da</hi>nti-vikk<unclear>i</unclear>rama-paru		
       			<lb n="2" break="no"/>ma<unclear>r</unclear>kku yāṇṭu patiṉ nā
