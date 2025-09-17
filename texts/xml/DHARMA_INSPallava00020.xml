@@ -87,8 +87,8 @@
 <div type="textpart" subtype="face" n="A">
 <head xml:lang="eng">Eastern face of the pillar</head>
       			
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>śrī
+	<ab>
+		<lb n="1"/><hi rend="grantha">śrī</hi>
 	</ab>
 	
 	<lg n="1" met="veṇpā">
