@@ -91,10 +91,10 @@
    
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                         	
-         	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+         	<ab>
          		<lb n="1" style="text-align: right"/>
          		<milestone unit="block" n="a"/>
-         		svasti śrī
+         		<hi rend="grantha">svasti śrī</hi>
          	</ab>
          	<p>
          		kō-vicaiya-kam<unclear>·</unclear>pava<hi rend="grantha"><unclear>r</unclear>mma</hi><reg>r</reg>kku yāṇṭu Irupatt-oṉ<unclear>·</unclear>ṟ-āvatu

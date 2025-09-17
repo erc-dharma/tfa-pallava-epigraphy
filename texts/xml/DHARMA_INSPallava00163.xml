@@ -88,8 +88,8 @@
       <body>
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       		
-      		<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-      			<lb n="1"/><supplied reason="lost">s</supplied>vasti śrī
+      		<ab>
+      			<lb n="1"/><hi rend="grantha"><supplied reason="lost">s</supplied>vasti śrī</hi>
       		</ab> 
       		<p>
       			<hi rend="grantha">nṛpa</hi>t<choice><orig>o</orig><reg>u</reg></choice>ṅka-va<hi rend="grantha">rmma</hi>r<choice><orig>k</orig><reg>kk</reg></choice>u yāṇṭu patināṟ-āvatu
