@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Construction (<foreign>ceykai</foreign>) of a sluice by a craftsman named Kuḻaṉ.</summary>
+                        <summary>Stone inscription recording the work/construction (<foreign>ceykai</foreign>) of a sluice by a craftsman named Kuḻaṉ. Kept in Tiṇṭivaṉam PWD (2022). </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -81,24 +81,32 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
                 <p>
-                    <lb n="1"/><gap reason="lost" quantity="5" unit="character"/>
+                    <lb n="1"/><hi rend="grantha"><unclear>svasti śrī</unclear></hi>
                 </p>
+                
                 <p>
-                    <lb n="2"/><hi rend="grantha">śrī</hi>ma-kō-vicaiya-na
-                    <lb n="3" break="no"/>nti-vikkirama-parumaṟkku
-                    <lb n="4" break="no"/>yāṇṭu patiṉāṉk-āva
-                    <lb n="5" break="no"/>tu
+                    <lb n="2"/><hi rend="grantha">śrī</hi> <unclear>ma</unclear> kō-vicaiya-na<unclear>n</unclear>
+                    <!--Dayalan:<lb n="2"/><hi rend="grantha">śrī</hi>ma-kō-vicaiya-na-->
+                    <lb n="3" break="no"/>ti-vikkirama-parumaṟku
+                    <!--Dayalan:<lb n="3" break="no"/>nti-vikkirama-parumaṟkku-->
+                    <lb n="4"/>yāṇṭu patiṉāṉk-āva
+                    <lb n="5" break="no"/><unclear>tu</unclear>
+                    <!--Dayalan: <lb n="5" break="no"/>tu-->
                 </p>
+                
                 <p>
-                    pālūr-kōṭṭattu <gap reason="lost" quantity="5" unit="character"/> ḻē
-                    <lb n="6" break="no"/><choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu Ōkūr <gap reason="lost" quantity="3" unit="character"/> ṭṭimaṟu kiḻā
-                    <lb n="7" break="no"/>ṉ cēttaṉ makaṉ kuḻaṉ ce
+                    <gap reason="lost" quantity="1" unit="character"/> lūr-kōṭṭattu <gap reason="lost" quantity="3" unit="character"/>
+                    <!--Dayalan: pālūr-kōṭṭattu <gap reason="lost" quantity="5" unit="character"/> ḻē--><lb n="6"/>ṉāṭṭu Ōkūr Oṭṭimaṟu kiḻ<unclear>ā</unclear>
+                    <lb n="7" break="no"/><unclear>ṉ</unclear> cēntaṉ makaṉ kuḻaṉ ce
+                    <!--Dayalan: <lb n="6" break="no"/>ṉāṭṭu Ōkūr <gap reason="lost" quantity="3" unit="character"/> ṭṭimaṟu kiḻā-->
                     <lb n="8" break="no"/>ykai
+                    <!--Dayalan: <lb n="7" break="no"/>ṉ cēttaṉ makaṉ kuḻaṉ ce-->
                 </p>
+                
                 <p>
-                    Itu kāṭṭāṉ aṭi
-                    <lb n="9"/>eṉ muṭi mēḻaṉa      			
-                </p>      		      		
+                    Itu kāttāṉ aṭi
+                    <lb n="9"/>Eṉ muṭi mēlaṉa                    
+                </p>
                 
             </div>
             
@@ -106,11 +114,41 @@
                 
                 <listApp>
                     
+                    <!--<app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Irajagopal2022_01"></rdg>
+                        </app>-->
+                    
+                    <app loc="1">
+                        <lem><hi rend="grantha"><unclear>svasti śrī</unclear></hi></lem>
+                        <rdg source="bib:Irajagopal2022_01"><gap reason="lost" quantity="1" unit="line"/></rdg>
+                    </app>
+                    
+                    <app loc="2">
+                        <lem><hi rend="grantha">śrī</hi> <unclear>ma</unclear></lem>
+                        <rdg source="bib:Irajagopal2022_01"><gap reason="lost" quantity="1" unit="character"/> m</rdg>
+                    </app>
+                    
+                    <app loc="3">
+                        <lem>°parumaṟku</lem>
+                        <rdg source="bib:Irajagopal2022_01">°parumarku</rdg>
+                    </app>
+                    
+                    <app loc="5">
+                        <lem>°kōṭṭattu <gap reason="lost" quantity="3" unit="character"/></lem>
+                        <rdg source="bib:Irajagopal2022_01">kōṭṭattu</rdg>
+                    </app>
+                    
                     <app loc="6">
                         <lem><gap reason="lost" quantity="3" unit="character"/> ṭṭimaṟu</lem>
                         <rdg source="bib:Dayalan2005_01"/>
                         <note><ptr target="bib:ARIE1990-1991"/> reads <foreign>oṭṭīmaṟu</foreign>.</note>
-                    </app>   
+                    </app>
+                    
+                    <app loc="6">
+                        <lem>kiḻ<unclear>ā</unclear><lb n="7" break="no"/><unclear>ṉ</unclear></lem>
+                        <rdg source="bib:Irajagopal2022_01">kiḻā<lb n="7" break="no"/>ṉ</rdg>
+                    </app>
                     
                 </listApp>
                 
@@ -119,17 +157,20 @@
             <div type="translation" resp="part:emfr">
                 
                 <p n="1">
-                    <gap reason="lost"/>
+                    <unclear>Prosperity! Fortune!</unclear>
                 </p>
+                
                 <p n="2-5">
-                    Fourtheenth year of the glorious <supplied reason="explanation"><foreign>śrīmant</foreign></supplied> and victorious king Nantivikkiramaparumaṉ.<note>Sanskrit Nandivikramavarman</note>
+                    Fourteenth year of the glorious (?) <supplied reason="explanation"><foreign><hi rend="grantha">śrī</hi> <unclear>ma</unclear></foreign><note>That is: <foreign><hi rend="grantha">śrī</hi>man</foreign> ?</note></supplied> victorious king Nantivikkiramaparumaṉ.<note>Sanskrit Nandivikramavarman.</note>
                 </p>
+                
+                
                 <p n="5-8">
                     <supplied reason="subaudible">This is the</supplied> work <supplied reason="explanation"><foreign>ceykai</foreign></supplied> <supplied reason="subaudible">of</supplied> Kuḻaṉ, son <supplied reason="subaudible">of</supplied> Cēttaṉ, landowner <supplied reason="subaudible">in</supplied> <gap reason="lost"/>ṭṭimaṟu <supplied reason="subaudible">in</supplied> Ōkūr, in the <gap reason="lost"/>nāṭu, <supplied reason="subaudible">itself</supplied> in the Pālūrkōṭṭam. 
                 </p>
                 
-                <p n="8-9">
-                    The feet of he who protects this <supplied reason="explanation">donation</supplied> are on my head.
+                <p n="8-10">
+                    Of he who protects this, the feet are on my head.
                 </p>
                 
             </div>
@@ -142,10 +183,10 @@
                 
                 <p>
                     Edited in <bibl><ptr target="bib:Dayalan2005_01"/></bibl>.
-                    Edited in <bibl><ptr target="bib:Irajagopal2022_01"/></bibl>.
+                    Edited in <bibl><ptr target="bib:Irajagopal2022_01"/></bibl>, with visual documentation (p. 288).
                 </p>
                 
-                <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Dayalan2005_01"/></bibl>. The distinction between initial and medial vowels, and between Grantha and Tamil letters could not be implemented with full confidence. The present digital edition is thus provisional and should be revised with proper visual documentation.</p>
+                <p>This edition by Emmanuel Francis, based on visual documentation in <bibl><ptr target="bib:Irajagopal2022_01"/></bibl>.</p>
                 
                 <listBibl type="primary">
                     
@@ -156,7 +197,7 @@
                         <citedRange unit="page">1299</citedRange>
                         <citedRange unit="item">62</citedRange>            		
                     </bibl>
-                                        
+                    
                     <bibl n="I">
                         <ptr target="bib:Irajagopal2022_01"/>
                         <citedRange unit="page">236</citedRange>
