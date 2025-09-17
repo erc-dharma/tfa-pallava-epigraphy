@@ -82,8 +82,8 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
-                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <lb n="1"/>svasti śrī		
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 
                 <p>
@@ -181,7 +181,7 @@
                         <citedRange unit="item">192/2018</citedRange>
                         <citedRange unit="page">23</citedRange>
                     </bibl>
-                                        
+                    
                 </listBibl>
                 
                 <listBibl type="secondary">

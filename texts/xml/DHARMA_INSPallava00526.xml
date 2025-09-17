@@ -5,165 +5,165 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Malaiyaṭippaṭṭi, time of Dantivarman, year 16</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">DHARMA_INSPallava00526</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary>Assignment of people to supply oil for a lamp.</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p></p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union's Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-03-16" status="draft">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-      <body>
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-	
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>svasti śrī
-	</ab>
-	
-	<p>
-		kō-vicaiya
-		<lb n="2" break="no"/>-tan·t<choice><orig>ī</orig><reg>i</reg></choice>-<unclear>p</unclear>arumaṟ<unclear>·</unclear>ku yāṇ<unclear>·</unclear>
-		<lb n="3" break="no"/>ṭu pat<choice><orig>ī</orig><reg>i</reg></choice><choice><orig>n</orig><reg>ṉ</reg></choice> ā<unclear>ṟ-ā</unclear>vatu
-	</p>
-	
-	<p>
-		v<choice><orig>ī</orig><reg>i</reg></choice>ṭēl<unclear>·</unclear>
-		<lb n="4" break="no"/>-viṭuku mut·taraiyaṉ-āyiṉa
-		<lb n="5"/><unclear>ku</unclear>vāvañ cāt·taṉ· t<choice><orig>ī</orig><reg>i</reg></choice>ru-vāla
-		<lb n="6" break="no"/>ttūr-p paṭāra<unclear>r</unclear>kku-t tiru
-		<lb n="7" break="no"/>viḷak·ku ney Aṭṭa vait
-		<lb n="8" break="no"/>t<unclear>a</unclear> kuṭi
-		
-		<unclear>m</unclear>āyāṉ kāṭaṉum
-		<lb n="9"/><unclear>m</unclear>āyāṉ v<choice><orig>ī</orig><reg>i</reg></choice>ll<choice><orig>ī</orig><reg>i</reg></choice>yum k <gap reason="illegible" unit="character" quantity="1"/> r<choice><orig>ī</orig><reg>i</reg></choice>
-		<lb n="10"/><unclear>vait</unclear>tuvaṉum ka <gap reason="illegible" unit="character" quantity="1"/> ar<choice><orig>ī</orig><reg>i</reg></choice> naṅkaḷ ma
-		<lb n="11" break="no"/>kkaḷum nakkaṉ <unclear>koṇai</unclear> <gap reason="illegible" unit="character" quantity="1"/>
-		<lb n="12" break="no"/>m <unclear>nakka</unclear>ṉ <gap reason="illegible" unit="character" quantity="2"/> ṉum ka	
-	</p>
-		
-	         </div>
-
-         <!--<div type="apparatus">       	
-
-         </div>-->
-
-<div type="translation" resp="part:emfr">
-      		
-	<p n="1">
-		Prosperity! Fortune!
-	</p>
-	
-	<p n="1-3">
-		Sixteenth year of the victorious king Tantiparumaṉ.<note>Sanskrit Dantivarmaṉ.</note>
-	</p>
-	
-	<p n="3-12">
-		The people <supplied reason="explanation"><foreign>kuṭi</foreign></supplied> that Kuvāvaṉ Cāttaṉ <hi rend="italic">alias</hi> Viṭēlviṭuku Muttaraiyaṉ assigned <supplied reason="explanation"><foreign>vaitta</foreign><note>Literally: endowed, gave.</note></supplied> so as to supply oil for a glorious lamp for the god <supplied reason="explanation"><foreign>paṭārar</foreign></supplied> of Tiruvalattūr <supplied reason="subaudible">are</supplied>:
-		Māyāṉ Kāṭaṉ,
-		Māyāṉ villi,
-		<gap reason="ellipsis"/>,
-		<gap reason="ellipsis"/>,
-		our relatives,
-		Nakkaṉ Koṇai,
-		Nakkaṉ <gap reason="ellipsis"/>.		
-	</p>
-	
-</div>
-      
-<div type="commentary">
-         	<p>The inscription appears to stop short.</p>
-</div>
-      	
-<div type="bibliography">
-
-	<p>Reported in <bibl><ptr target="bib:ARIE1969-1970"/></bibl> (ARIE/1969-1970/B/1969-70/320).</p>         	
-	
-	<p>This revised edition by Emmanuel Francis, based on photos (2009, by Valérie Gillet; 2015, by Emmanuel Francis).</p>
-        	
-        	<listBibl type="secondary">
-        		
-        		<bibl n="ARIE">
-         			<ptr target="bib:ARIE1969-1970"/>
-         			<citedRange unit="page">54</citedRange>
-         			<citedRange unit="appendix">B/1969-1970</citedRange>
-         			<citedRange unit="item">320</citedRange>
-         		</bibl>
-        		
-        	</listBibl>
-
-         </div>
-
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Malaiyaṭippaṭṭi, time of Dantivarman, year 16</title>
+                <respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSPallava00526</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Assignment of people to supply oil for a lamp.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p></p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-03-16" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+                <p>
+                    kō-vicaiya
+                    <lb n="2" break="no"/>-tan·t<choice><orig>ī</orig><reg>i</reg></choice>-<unclear>p</unclear>arumaṟ<unclear>·</unclear>ku yāṇ<unclear>·</unclear>
+                    <lb n="3" break="no"/>ṭu pat<choice><orig>ī</orig><reg>i</reg></choice><choice><orig>n</orig><reg>ṉ</reg></choice> ā<unclear>ṟ-ā</unclear>vatu
+                </p>
+                
+                <p>
+                    v<choice><orig>ī</orig><reg>i</reg></choice>ṭēl<unclear>·</unclear>
+                    <lb n="4" break="no"/>-viṭuku mut·taraiyaṉ-āyiṉa
+                    <lb n="5"/><unclear>ku</unclear>vāvañ cāt·taṉ· t<choice><orig>ī</orig><reg>i</reg></choice>ru-vāla
+                    <lb n="6" break="no"/>ttūr-p paṭāra<unclear>r</unclear>kku-t tiru
+                    <lb n="7" break="no"/>viḷak·ku ney Aṭṭa vait
+                    <lb n="8" break="no"/>t<unclear>a</unclear> kuṭi
+                    
+                    <unclear>m</unclear>āyāṉ kāṭaṉum
+                    <lb n="9"/><unclear>m</unclear>āyāṉ v<choice><orig>ī</orig><reg>i</reg></choice>ll<choice><orig>ī</orig><reg>i</reg></choice>yum k <gap reason="illegible" unit="character" quantity="1"/> r<choice><orig>ī</orig><reg>i</reg></choice>
+                    <lb n="10"/><unclear>vait</unclear>tuvaṉum ka <gap reason="illegible" unit="character" quantity="1"/> ar<choice><orig>ī</orig><reg>i</reg></choice> naṅkaḷ ma
+                    <lb n="11" break="no"/>kkaḷum nakkaṉ <unclear>koṇai</unclear> <gap reason="illegible" unit="character" quantity="1"/>
+                    <lb n="12" break="no"/>m <unclear>nakka</unclear>ṉ <gap reason="illegible" unit="character" quantity="2"/> ṉum ka	
+                </p>
+                
+            </div>
+            
+            <!--<div type="apparatus">       	
+                
+                </div>-->
+            
+            <div type="translation" resp="part:emfr">
+                
+                <p n="1">
+                    Prosperity! Fortune!
+                </p>
+                
+                <p n="1-3">
+                    Sixteenth year of the victorious king Tantiparumaṉ.<note>Sanskrit Dantivarmaṉ.</note>
+                </p>
+                
+                <p n="3-12">
+                    The people <supplied reason="explanation"><foreign>kuṭi</foreign></supplied> that Kuvāvaṉ Cāttaṉ <hi rend="italic">alias</hi> Viṭēlviṭuku Muttaraiyaṉ assigned <supplied reason="explanation"><foreign>vaitta</foreign><note>Literally: endowed, gave.</note></supplied> so as to supply oil for a glorious lamp for the god <supplied reason="explanation"><foreign>paṭārar</foreign></supplied> of Tiruvalattūr <supplied reason="subaudible">are</supplied>:
+                    Māyāṉ Kāṭaṉ,
+                    Māyāṉ villi,
+                    <gap reason="ellipsis"/>,
+                    <gap reason="ellipsis"/>,
+                    our relatives,
+                    Nakkaṉ Koṇai,
+                    Nakkaṉ <gap reason="ellipsis"/>.		
+                </p>
+                
+            </div>
+            
+            <div type="commentary">
+                <p>The inscription appears to stop short.</p>
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1969-1970"/></bibl> (ARIE/1969-1970/B/1969-70/320).</p>         	
+                
+                <p>This revised edition by Emmanuel Francis, based on photos (2009, by Valérie Gillet; 2015, by Emmanuel Francis).</p>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl n="ARIE">
+                        <ptr target="bib:ARIE1969-1970"/>
+                        <citedRange unit="page">54</citedRange>
+                        <citedRange unit="appendix">B/1969-1970</citedRange>
+                        <citedRange unit="item">320</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>

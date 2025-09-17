@@ -89,9 +89,9 @@
 	
 	<!--Display issue: milestone: chariot return before and after, except first milestone, for which chariot return only after???--> 
 	
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+	<ab>
 		<milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">Above the warrior figure</label>
-		<lb n="1"/>svasti śrī 
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
 	</ab>
 	
 	<p>
