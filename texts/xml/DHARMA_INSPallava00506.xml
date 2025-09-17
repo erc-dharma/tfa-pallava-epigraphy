@@ -5,217 +5,217 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Cāḷuvaṉ Kuppam, time of <unclear>Kampa</unclear>varman, year 17</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">DHARMA_INSPallava00506</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary>Pillar inscription recording a donation of gold for maintaining a perpetual lamp and of land to provide sacred food-offerings. Very similar (content, individual mentioned) to <ref target="DHARMA_INSPallava00507">INSPallava00507</ref>.</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p/>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-                        under the European Union's Horizon 2020 research and innovation programme (grant
-                        agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-                            ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-04-21" status="draft">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-      <body>
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-	
-         	<!--fill gaps comparing pallava 505-508-->
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>svasti śrī
-	</ab>
-	
-	<p>
-		<unclear>kampa-va</unclear>
-		<lb n="2" break="no"/><hi rend="grantha"><unclear>r</unclear>mma</hi>ṟku yāṇṭu patiṉ-ēḻ-ā
-		<lb n="3" break="no"/>vatu
-	</p>
-	<p>
-		tiru-v-iḻiccil <hi rend="grantha">subra</hi>
-		<lb n="4" break="no"/><hi rend="grantha">hmaṇya-bha</hi>ṭārarkku maṉaiy
-		<lb n="5" break="no"/>yiṟ cāṇṭayalaṉ kiḻavaṉ
-		<lb n="6"/>kayi <gap reason="lost" quantity="9" unit="character"/> caṉ makan
-		<lb n="7"/><hi rend="grantha">śrī</hi>-kampapatta<choice><orig>n</orig><reg>ṉ</reg></choice> pirāmaṇi va
-		<lb n="8" break="no"/><hi rend="grantha">sa</hi>nta-pirāṭṭiyār <gap reason="lost" quantity="6" unit="character"/>
-		<lb n="9"/>kuṭutta patiṉ-āṟu kaḻañcu
-		<lb n="10"/>poṉṉāl kaḻañciṉ vā
-		<lb n="11" break="no"/>y A<choice><orig>r</orig><reg>ṟ</reg></choice>u nāḻi-p palicai-y-āka Ā
-		<lb n="12" break="no"/>ṭṭāṇṭu tōṟum toṇṇū
-		<lb n="13" break="no"/>ru nāḻi Eṇṇai
-	</p>
-	<p>
-		Ip-po
-		<lb n="14" break="no"/>ṉ koṇṭu Erikka <gap reason="lost" quantity="6" unit="character"/>
-		<lb n="15" break="no"/>ttu-k koṇṭu nan<unclear>tā</unclear>-viḷakku
-		<lb n="16"/>Erippōm āṉōm
-	</p>
-	<p>
-		<gap reason="lost" quantity="2" unit="character"/>
-		<lb n="17"/>tiru-v-amirtukkuk kuṭutta
-		<lb n="18"/>kiḻāṉ ceṟuvil <gap reason="lost" quantity="3" unit="character"/>
-		<lb n="19" break="no"/>na kallilum tiru-v-a <gap reason="lost" quantity="5" unit="character"/><!--restore tiru-v-amirtu Ūṭṭuvippōm-->
-		<lb n="20" break="no"/>vippōm āṉōm
-	</p>
-	<p>
-		<gap reason="lost" quantity="6" unit="character"/>
-		<lb n="21"/><gap reason="lost" quantity="1" unit="line"/>
-		<lb n="22"/><gap reason="lost" quantity="16" unit="character"/> lai mēl <gap reason="lost" quantity="3" unit="character"/><!--restore eṉ talai mēl-->
-		<lb n="23"/>tirukkiṉ kiḻavar-āṉa <gap reason="lost" quantity="7" unit="character"/>
-		<lb n="24"/><gap reason="lost" quantity="6" unit="character"/> maṉṉa <gap reason="lost" quantity="10" unit="character"/>
-	</p>
-		
-</div>
-
-<div type="apparatus">
-      		
-	<listApp>
-		
-		<app loc="3">
-			<lem>°<unclear>va</unclear>
-		<lb n="2" break="no"/><hi rend="grantha"><unclear>r</unclear>mma</hi>ṟku</lem>
-			<rdg source="bib:Badhreenath2015_01">°<unclear>va</unclear>
-		<lb n="2" break="no"/>mmaṟku</rdg>
-		</app>	
-		
-		<app loc="3">
-			<lem><hi rend="grantha">subra</hi>
-		<lb n="4" break="no"/><hi rend="grantha">hmaṇya-bha</hi>ṭārarkku</lem>
-			<rdg source="bib:Badhreenath2015_01">cupra
-				<lb n="4" break="no"/>maṇya patārarku</rdg>
-		</app>		
-		
-	</listApp>
-	
-</div>
-      	
-<div type="translation" resp="part:emfr">
-	
-	<p n="1">Prosperity! Fortune!</p>
-	
-	<p n="1-3">Seventeenth year of Kampavarmaṉ.<note>Sanskrit Kampavarman.</note></p>
-	
-	<p n="3-13">
-		With the sixteen <foreign>kaḻañcu</foreign>s of gold
-		that Vasanta Pirāṭṭiyār, the Brahmin <supplied reason="subaudible">spouse</supplied> of 
-		...
-		gave,
-		ninety <foreign>nāḻi</foreign>s of oil 
-		<supplied reason="subaudible">are to be provided</supplied>
-		...
-	</p>
-	
-	<p n="13-16">
-		We have become those who, with this gold,
-		<gap reason="lost"/>
-		will burn a perpetual lamp.
-	</p>
-	
-	<p n="16-20">
-		We have become those who have sacred food-offerings fed <supplied reason="explanation"><foreign>tiru-v-a<supplied reason="lost">mirtu ūṭṭu</supplied>vippōm</foreign></supplied>
-		<gap reason="lost"/>
-		the field of the landowner given for sacred food-offerings.
-	</p>
-	
-	<p n="20-24">
-		<gap reason="lost"/>.
-		<supplied reason="lost">The feet of he who protect this pious act are</supplied> on my head <supplied reason="explanation"><foreign><supplied reason="lost">eṉ ta</supplied>lai mēl</foreign></supplied>.	
-		<gap reason="ellipsis"/>		
-	</p>
-			
-</div>
-      	
-<!--<div type="commentary">
-      		
-      	</div>-->
-      	
-<div type="bibliography">
-
-	<p>Edited in <bibl><ptr target="bib:Badhreenath2015_01"/></bibl>.</p>
-	<p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Badhreenath2015_01"/></bibl>. The distinction between initial and medial vowels, and between Grantha and Tamil letters could not be implemented with full confidence. The present digital edition is thus provisional and should be revised with proper visual documentation.<!--quantity of gap to be assessed: counted as Roman letters by Badhreenath, it seems--></p>
-	
-	<listBibl type="primary">
-			
-		<bibl n="B">
-			<ptr target="bib:Badhreenath2015_01"/>
-			<citedRange unit="page">149-150</citedRange>			
-			<citedRange unit="item">2</citedRange>
-		</bibl>		
-		
-	</listBibl>
-	
-	<!--<listBibl type="secondary">  
-		
-	</listBibl>-->
-	
-</div>
-
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cāḷuvaṉ Kuppam, time of <unclear>Kampa</unclear>varman, year 17</title>
+                <respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSPallava00506</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Pillar inscription recording a donation of gold for maintaining a perpetual lamp and of land to provide sacred food-offerings. Very similar (content, individual mentioned) to <ref target="DHARMA_INSPallava00507">INSPallava00507</ref>.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-04-21" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <!--fill gaps comparing pallava 505-508-->
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+                <p>
+                    <unclear>kampa-va</unclear>
+                    <lb n="2" break="no"/><hi rend="grantha"><unclear>r</unclear>mma</hi>ṟku yāṇṭu patiṉ-ēḻ-ā
+                    <lb n="3" break="no"/>vatu
+                </p>
+                <p>
+                    tiru-v-iḻiccil <hi rend="grantha">subra</hi>
+                    <lb n="4" break="no"/><hi rend="grantha">hmaṇya-bha</hi>ṭārarkku maṉaiy
+                    <lb n="5" break="no"/>yiṟ cāṇṭayalaṉ kiḻavaṉ
+                    <lb n="6"/>kayi <gap reason="lost" quantity="9" unit="character"/> caṉ makan
+                    <lb n="7"/><hi rend="grantha">śrī</hi>-kampapatta<choice><orig>n</orig><reg>ṉ</reg></choice> pirāmaṇi va
+                    <lb n="8" break="no"/><hi rend="grantha">sa</hi>nta-pirāṭṭiyār <gap reason="lost" quantity="6" unit="character"/>
+                    <lb n="9"/>kuṭutta patiṉ-āṟu kaḻañcu
+                    <lb n="10"/>poṉṉāl kaḻañciṉ vā
+                    <lb n="11" break="no"/>y A<choice><orig>r</orig><reg>ṟ</reg></choice>u nāḻi-p palicai-y-āka Ā
+                    <lb n="12" break="no"/>ṭṭāṇṭu tōṟum toṇṇū
+                    <lb n="13" break="no"/>ru nāḻi Eṇṇai
+                </p>
+                <p>
+                    Ip-po
+                    <lb n="14" break="no"/>ṉ koṇṭu Erikka <gap reason="lost" quantity="6" unit="character"/>
+                    <lb n="15" break="no"/>ttu-k koṇṭu nan<unclear>tā</unclear>-viḷakku
+                    <lb n="16"/>Erippōm āṉōm
+                </p>
+                <p>
+                    <gap reason="lost" quantity="2" unit="character"/>
+                    <lb n="17"/>tiru-v-amirtukkuk kuṭutta
+                    <lb n="18"/>kiḻāṉ ceṟuvil <gap reason="lost" quantity="3" unit="character"/>
+                    <lb n="19" break="no"/>na kallilum tiru-v-a <gap reason="lost" quantity="5" unit="character"/><!--restore tiru-v-amirtu Ūṭṭuvippōm-->
+                    <lb n="20" break="no"/>vippōm āṉōm
+                </p>
+                <p>
+                    <gap reason="lost" quantity="6" unit="character"/>
+                    <lb n="21"/><gap reason="lost" quantity="1" unit="line"/>
+                    <lb n="22"/><gap reason="lost" quantity="16" unit="character"/> lai mēl <gap reason="lost" quantity="3" unit="character"/><!--restore eṉ talai mēl-->
+                    <lb n="23"/>tirukkiṉ kiḻavar-āṉa <gap reason="lost" quantity="7" unit="character"/>
+                    <lb n="24"/><gap reason="lost" quantity="6" unit="character"/> maṉṉa <gap reason="lost" quantity="10" unit="character"/>
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>
+                    
+                    <app loc="3">
+                        <lem>°<unclear>va</unclear>
+                            <lb n="2" break="no"/><hi rend="grantha"><unclear>r</unclear>mma</hi>ṟku</lem>
+                        <rdg source="bib:Badhreenath2015_01">°<unclear>va</unclear>
+                            <lb n="2" break="no"/>mmaṟku</rdg>
+                    </app>	
+                    
+                    <app loc="3">
+                        <lem><hi rend="grantha">subra</hi>
+                            <lb n="4" break="no"/><hi rend="grantha">hmaṇya-bha</hi>ṭārarkku</lem>
+                        <rdg source="bib:Badhreenath2015_01">cupra
+                            <lb n="4" break="no"/>maṇya patārarku</rdg>
+                    </app>		
+                    
+                </listApp>
+                
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                
+                <p n="1">Prosperity! Fortune!</p>
+                
+                <p n="1-3">Seventeenth year of Kampavarmaṉ.<note>Sanskrit Kampavarman.</note></p>
+                
+                <p n="3-13">
+                    With the sixteen <foreign>kaḻañcu</foreign>s of gold
+                    that Vasanta Pirāṭṭiyār, the Brahmin <supplied reason="subaudible">spouse</supplied> of 
+                    ...
+                    gave,
+                    ninety <foreign>nāḻi</foreign>s of oil 
+                    <supplied reason="subaudible">are to be provided</supplied>
+                    ...
+                </p>
+                
+                <p n="13-16">
+                    We have become those who, with this gold,
+                    <gap reason="lost"/>
+                    will burn a perpetual lamp.
+                </p>
+                
+                <p n="16-20">
+                    We have become those who have sacred food-offerings fed <supplied reason="explanation"><foreign>tiru-v-a<supplied reason="lost">mirtu ūṭṭu</supplied>vippōm</foreign></supplied>
+                    <gap reason="lost"/>
+                    the field of the landowner given for sacred food-offerings.
+                </p>
+                
+                <p n="20-24">
+                    <gap reason="lost"/>.
+                    <supplied reason="lost">The feet of he who protect this pious act are</supplied> on my head <supplied reason="explanation"><foreign><supplied reason="lost">eṉ ta</supplied>lai mēl</foreign></supplied>.	
+                    <gap reason="ellipsis"/>		
+                </p>
+                
+            </div>
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Edited in <bibl><ptr target="bib:Badhreenath2015_01"/></bibl>.</p>
+                <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Badhreenath2015_01"/></bibl>. The distinction between initial and medial vowels, and between Grantha and Tamil letters could not be implemented with full confidence. The present digital edition is thus provisional and should be revised with proper visual documentation.<!--quantity of gap to be assessed: counted as Roman letters by Badhreenath, it seems--></p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="B">
+                        <ptr target="bib:Badhreenath2015_01"/>
+                        <citedRange unit="page">149-150</citedRange>			
+                        <citedRange unit="item">2</citedRange>
+                    </bibl>		
+                    
+                </listBibl>
+                
+                <!--<listBibl type="secondary">  
+                    
+                    </listBibl>-->
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>

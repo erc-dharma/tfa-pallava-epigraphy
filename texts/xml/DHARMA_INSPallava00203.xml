@@ -92,8 +92,8 @@
       <body>
          <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
             <!--Add milestones for blocks: replace ‡ by markup-->
-         	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-         		<lb n="1"/><unclear>sva</unclear>sti śrī
+         	<ab>
+         		<lb n="1"/><hi rend="grantha"><unclear>sva</unclear>sti śrī</hi>
          	</ab>
          	<p>
          		kō-vicaiya-kampa-va<hi rend="grantha">rmma</hi><reg>r</reg>kku yāṇṭu Eṭṭāvatu

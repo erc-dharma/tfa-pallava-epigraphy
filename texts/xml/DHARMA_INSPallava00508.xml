@@ -89,8 +89,8 @@
 	
 	<!--fill gaps comparing pallava 505-508-->
          	
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>svasti śrī
+	<ab>
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
 	</ab>
 	
 	<p>
