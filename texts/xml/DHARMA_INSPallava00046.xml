@@ -119,12 +119,13 @@
                     
                     <lg n="3" met="śārdūlavikrīḍita">                        
                         <l n="a">A
-                    <lb n="7" break="no"/>brahmaṇyam asoma-yāgam ayathā-prasthāna-daṇḍodyamam·</l>
+                            <lb n="7" break="no"/>brahmaṇyam asoma-yāgam ayathā-prasthāna-daṇḍodyamam·</l>
                         <l n="b">mithyā-dāntam adāna-śūram a
-                    <lb n="8" break="no"/>nṛta-vyāhāra-jihmānanam·</l>
+                            <lb n="8" break="no"/>nṛta-vyāhāra-jihmānanam·</l>
                         <l n="c">jātaṁ yatra nareśvaran na ś<choice><sic>ru</sic><corr>ṛ</corr></choice>ṇumo yuddheṣu vā vikla<unclear>vam·</unclear></l>
-                        <l n="d"><lb n="9"/>nir<surplus>v</surplus>vighna<choice><sic>ḥ</sic><corr>ṁ</corr></choice> pṛthivīn nirītim avatān tat pallavānāṁ kulam· <g type="ddanda">.</g></l>
+                        <l n="d"><lb n="9"/>nirvvighna<choice><sic>ḥ</sic><corr>ṁ</corr></choice> pṛthivīn nirītim avatān tat pallavānāṁ kulam· <g type="ddanda">.</g></l>
                     </lg>
+                    
                     <p>
                         ...
                         <pb n="2v"/>
@@ -139,11 +140,63 @@
                         
                         <pb n="5r" break="no"/>
                         
+                        <lb n="5r7=55" break="no"/>tta-parihāre datta Iti
+                    </p>
+                    
+                    <p>
+                        Atrā<surplus>ñ</surplus>jñaptiḥ Uttara-kāraṇikā-mahāsena-datta<supplied reason="omitted">ḥ</supplied> vidyāvinī
+                        <lb n="5r8=56" break="no"/>ta-pallava-parameśvara-gṛha Iha ca deva-karmma-<unclear>na</unclear>va-<supplied reason="omitted">kar</supplied>mma<supplied reason="omitted">rthe</supplied> kūrattācāryya-putra-Ananta
+                        
                         <pb n="5v" break="no"/>
+                        <lb n="5v1=57" break="no"/>-śiva-Ācāryya<supplied reason="omitted">ḥ</supplied> <unclear>datta</unclear> Iti <unclear>phu</unclear>llaśarmm<choice><sic>a</sic><corr>ā</corr></choice> dvau putra-<unclear>pautrā</unclear> Ā<choice><sic>ñj</sic><corr>jñ</corr></choice>a<supplied reason="omitted">p</supplied>tāḥ <g type="ddanda">.</g><g type="dashLong">.</g>
+                    </p>
+                    
+                    <p>
+                        Ū<unclear>ṟ</unclear>ṟu-k-kāṭṭu-k-kō
+                        <lb n="5v2=58" break="no"/>ṭṭattu nīrvēḷur-nāṭṭu-k kūramum ñammaṉampākkamu <gap reason="lost" quantity="4" unit="character"/> <unclear>ñaṅkaṇata</unclear> <gap reason="lost" quantity="4" unit="character"/> <unclear>ṭa</unclear> viccā-vinī
+                        <lb n="5v3=59" break="no"/>ta-p-pallava-racaṉ vil<choice><sic>e</sic><corr>ai</corr></choice>-k-kāṇaṅ k<choice><sic>e</sic><corr>ai</corr></choice>yi<choice><sic>k</sic><corr>ṟ</corr></choice> koṭuttu<unclear>c ci</unclear> <gap reason="lost" quantity="4" unit="character"/> <unclear>ṇ</unclear>e ceyitu Āyiratt' i<unclear>ru</unclear>-nū
+                        <lb n="5v4=60" break="no"/>ṟṟu-k kuḻi-p paṭiyāl viṟṟu-k-koṇṭa nilam
+                    </p>
+                    <p>
+                        ta<unclear>ḷi</unclear> Eṭuppataṟku Ōṭu cuṭa-k-koṇṭa ni
+                        <lb n="5v5=61" break="no"/>lam
+                    </p>
+                    <p>
+                        tal<choice><sic>e</sic><corr>ai</corr></choice>-p-pāṭakattuḷ cūḷ<choice><sic>e</sic><corr>ai</corr></choice>-mēṭṭu-p-paṭṭiyum Ūruḷ maṇṭakam Eṭutta nila 
+                        <lb n="5v6=62" break="no"/><seg xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">ttoṭuṅ kūṭa <choice><orig>Ayi</orig><reg>Ai</reg></choice>ntē kāl paṭṭi nilamum viṟṟu koṇṭu viccā-vinīta-pallava-paramēccu</seg>
+                        <lb n="5v7=63" break="no"/>ra-karam Eṭuttu Ēri toṇṭi It-taḷi vaḻi-pāṭu ce<choice><orig>yi</orig><reg>y</reg></choice>vārkku Irukkum ma<choice><sic>ne</sic><corr>ṉai</corr></choice>yum ma<choice><sic>ne</sic><corr>ṉai</corr></choice>-p-pa 
+                        <lb n="5v8=64" break="no"/>ṭappum vakuttu Itanuḷ mikka nilam Oḻukkavikku viḷ<choice><sic>e</sic><corr>ai</corr></choice> nilam ā<unclear>ka</unclear>vum
+                    </p>
+                    <p>
+                        <list>
+                            <item>
+                                I<choice><orig>ṉ</orig><reg>n</reg></choice>-nilattukku
+                                <pb n="6r"/>
+                                <lb n="6r1=65"/><unclear>kīḻ-pā</unclear>l ellai m<choice><sic>ū</sic><corr>u</corr></choice>tukāṭṭu vaḻiyiṉ mēṟkum
+                            </item>
+                            <item>
+                                teṉ-pāl<unclear> ellai Ū</unclear>r-puku-<unclear>vaḻiyiṉ vaṭakku</unclear>
+                                <lb n="6r2=66" break="no"/>m
+                            </item>
+                            <item>
+                                mēl-pāl ellai Ūr-puku-vaḻi niṉṟum vaṭakku nōkki nāṭṭukkālu<unclear>k</unclear>kē pōṉa va<unclear>ḻi</unclear>
+                                <lb n="6r3=67" break="no"/>yiṉ kiḻakkum
+                            </item>
+                            <item>
+                                vaṭa-pāl ellai nāṭṭukkālin teṟkum <supplied reason="undefined"><g type="danda">.</g></supplied>
+                            </item>
+                        </list>
+                    </p>
+                    <p>
+                        I<choice><orig>ṉ</orig><reg>n</reg></choice>-nāṉk' ell<choice><sic>e</sic><corr>ai</corr></choice> Akattu<unclear>m</unclear>
+                        <lb n="6r3=68"/>taḷi<unclear>yu</unclear>m Ēriyum vaḻipāṭu ce<choice><orig>yi</orig><reg>y</reg></choice>vār<supplied reason="omitted">k</supplied>ku ma<choice><orig>n</orig><reg>ṉ</reg></choice>aiyum ma<choice><orig>n</orig><reg>ṉ</reg></choice>ai-p-paṭappu<choice><orig>ṉ</orig><reg>n</reg></choice> nīkki mik
+                        <lb n="69" break="no"/>ka nilamum cūḷaimēṭṭu-p-paṭṭiyum Oḻukkavikku viḷai nilam-āka koṭuttu It
+                        <lb n="70" break="no"/>-taḷikku vēṇṭun tēvakaruma-navakarumañ ce<choice><orig>yi</orig><reg>y</reg></choice>vataṟkum Irupatiṉmar caturppētika
+                        <lb n="71" break="no"/>ḷukku-p piramatēyaṅ koṭuppataṟkum maṇayiṟ-kōṭṭattu-p paṉmā-nāṭṭu-p para
+                        <lb n="72" break="no"/>mēccura-maṅkalattuḷ Akappaṭṭa vaḷ<choice><sic>e</sic><corr>ai</corr></choice>y<supplied reason="omitted">att</supplied>il cuṟṟu nilam Atta<choice><orig>n</orig><reg>ṉ</reg></choice>aiyum Irupa<unclear>t</unclear>
                         
-                        <pb n="6r"/>        
+                        <pb n="6v" break="no"/>
                         
-                        <pb n="6v" break="no"/>        
                         
                         <lb n="6v8=80" break="no"/>... <supplied reason="lost">paramēcu</supplied>
                         
@@ -225,6 +278,23 @@
                             <lem>trayātmā</lem>
                             <rdg source="bib:Hultzsch1890_01">tra<supplied reason="omitted">y</supplied>yātmā</rdg>
                             <note>...</note>
+                        </app>
+                        
+                        
+                        <app loc="58">
+                            <lem source="bib:Hultzsch1890_01">kūramum ñammaṉampākkamu</lem>
+                            <rdg source="bib:Mahalingam1988_01">kūramum ñ=Ammaṉampākkamu</rdg>
+                        </app>
+                        
+                        <app loc="59">
+                            <lem source="bib:Hultzsch1890_01"><unclear>ci</unclear> <gap reason="lost" quantity="4" unit="character"/> <unclear>ṇ</unclear>e</lem>                                
+                            <rdg source="bib:Subrahmanian1966_01">cirāvaṇai</rdg>
+                        </app>
+                        
+                        <app loc="62">
+                            <lem><choice><orig>Ayi</orig><reg>Ai</reg></choice>ntē kāl</lem>
+                            <rdg source="bib:Hultzsch1890_01">Ayintekāl</rdg>
+                            <rdg source="bib:Mahalingam1988_01"><choice><sic>ayi</sic><corr>ai</corr></choice>ntēkāl</rdg>
                         </app>
                         
                         <app loc="85">
