@@ -88,7 +88,11 @@
     <div type="textpart" n="A"><head>A. First pillar (ARIE 1940-1941/139)</head>
         <p>      
             <lb n="A1"/>śrī-buddhava<unclear>r</unclear>mma<unclear>sya</unclear>
-            <lb n="A2"/><foreign xml:lang="tam-Latn"><seg rendition="class:tamil maturity:vernacular">māṇākkar</seg></foreign>
+        </p>
+        <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+            <lb n="A2"/>māṇākkar
+        </p>
+        <p>
             <lb n="A3"/>śariputrasya
         </p>
     </div>
