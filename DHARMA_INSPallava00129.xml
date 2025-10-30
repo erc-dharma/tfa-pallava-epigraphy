@@ -90,20 +90,20 @@
                     <lb n="2" break="no"/>kirama-parumaṟku yāṇṭu pati<unclear>ṉ ā</unclear>ṟ-āvatu
                 </p>
                 <p>
-                    <lb n="3"/>malāṭṭu-k kuṟukkai-k kūṟṟattu-t ti
-                    <lb n="4" break="no"/>ru-k-kōvalūr-t ti<supplied reason="lost">ruvīraṭṭā</supplied>ṉat
+                    <lb n="3"/>malāṭṭu-k kuṟukkai-k-kūṟṟattu-t ti
+                    <lb n="4" break="no"/>ru-k-kōvalūr-t ti<supplied reason="lost">ru-vīraṭṭā</supplied>ṉat
                     <lb n="5" break="no"/>tu mā-tē<unclear>va</unclear>rk<supplied reason="lost">k’ oru nantā-vi</supplied>ḷa<supplied reason="lost">kku</supplied>		
-                    <lb n="6"/>Iravum pakalu<supplied reason="lost">m cantirātittavarai Erippa</supplied>
+                    <lb n="6"/>Iravum pakalu<supplied reason="lost">m cantirātitta-varai Erippa</supplied>
                     
                     <lb n="7" break="no"/>taṟku teṉṉavaṉ iḷa<supplied reason="lost">ṅkō-vēḷār-āyiṉa</supplied>	
                     <lb n="8"/>maṟavam pūti vaitta <supplied reason="lost">poṉ</supplied> viṭēl			
-                    <lb n="9" break="no"/>viṭuku tī-p-pōkku-c <unclear>cem-poṉ</unclear>			
-                    <lb n="10"/>Irupattu nāṟ kaḻañcu ni<supplied reason="lost">ṟai</supplied>
+                    <lb n="9" break="no"/>-viṭuku tī-p-pōkku-c <unclear>cem-poṉ</unclear>			
+                    <lb n="10"/>Iru-pattu nāṟ kaḻañcu ni<supplied reason="lost">ṟai</supplied>
                 </p>
                 <p>
                     <lb n="11"/>Itaṉ palicai kaḻañciṟ pērtt’ itu <supplied reason="lost">nā</supplied>
-                    <lb n="12" break="no"/>ḷ Uriy ney Aṭṭuvatāka tirukkōva
-                    <lb n="13" break="no"/>lūr <unclear>na</unclear>karattār kaivaḻi vaiytta
+                    <lb n="12" break="no"/>ḷ Uri-y ney Aṭṭuvat’ āka tiru-k-kōva
+                    <lb n="13" break="no"/>lūr <unclear>na</unclear>karattār kai-vaḻi vaiytta
                     <lb n="14" break="no"/>tu      			
                 </p>      		
                 
@@ -137,8 +137,7 @@
                     </app></listApp> 
                 
             </div>
-            
-            
+                        
             <div type="translation" resp="part:emfr">
                 
                 <p n="1">
@@ -150,11 +149,20 @@
                 </p>
                 
                 <p n="3-10">
-                    ...
+                    The gold that Maṟavam Pūti alias Teṉṉavaṉ Iḷa<supplied reason="lost">ṅkō Vēḷār</supplied>
+                    gave 
+                    for burning day and night, as long as the moon and the sun,
+                    one perpetual lamp 
+                    for Mātēvar<note>Sanskrit Mahādeva</note>
+                    of the Ti<supplied reason="lost">ruvīraṭṭā</supplied>ṉam of Tirukkōvalūr in the Kuṟukkaikkūṟṟam of Malāṭu
+                    <supplied reason="subaudible">is</supplied>
+                    twenty-four <foreign>kaḻañcu</foreign>s by weight <supplied reason="explanation"><foreign>niṟai</foreign></supplied> of refined gold <supplied reason="explanation"><foreign>tī-p-pōkku cem-poṉ</foreign></supplied> <supplied reason="subaudible">as per the standard named</supplied> Viṭēlvituku.
                 </p> 
                 
                 <p n="10-14">
+                   So as to provide one <foreign>uri</foreign> of ghee
                     ...
+                    the interest from this <supplied reason="subaudible">gold</supplied> has been given in the hands of the Nakarattārs of Tirukkōvalūr.
                 </p>
                 
                 
@@ -162,7 +170,7 @@
             
             <div type="commentary">
                 
-                <p>Compare IP 124.</p><!--Update!-->
+                <p>Compare with <ref target="DHARMA_INSPallava00124"/>.</p>
                 
             </div>
             
