@@ -116,7 +116,7 @@
          
          <app loc="1">
             <lem>śrī-Araty-a<unclear>ṁ</unclear>kan<unclear>·</unclear></lem>
-            <rdg source="bib:Jouveau-Dubreuil1918_01">śrī-Aratyakana</rdg>
+            <rdg source="bib:JouveauDubreuil1918_01">śrī-Aratyakana</rdg>
             <rdg source="bib:ARIE1972-1973">śrī-Aratyaṁkan</rdg>
             <rdg source="bib:Srinivasan1983_02">śrī-Aratyamakaṉ</rdg>
          </app>
@@ -175,13 +175,13 @@
          	
 <div type="bibliography">
 
-   <p>Reported in <bibl><ptr target="bib:Jouveau-Dubreuil1918_01"/></bibl>, in <bibl><ptr target="bib:ARIE1972-1973"/></bibl> (ARIE/1972-1973/B/1972-1973/261–262).</p>
+   <p>Reported in <bibl><ptr target="bib:JouveauDubreuil1918_01"/></bibl>, in <bibl><ptr target="bib:ARIE1972-1973"/></bibl> (ARIE/1972-1973/B/1972-1973/261–262).</p>
    <p>This revised edition by Emmanuel Francis, from autopsy and photos (2004, by Emmanuel Francis).</p>
    
    <listBibl type="primary">   
       
       <bibl n="D">
-         <ptr target="bib:Jouveau-Dubreuil1918_01"/>
+         <ptr target="bib:JouveauDubreuil1918_01"/>
          <citedRange unit="page">15</citedRange><!--check: visual documentation? reading!-->
       </bibl>
       
