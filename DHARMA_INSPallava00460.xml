@@ -90,34 +90,41 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215"><!--my conjecture on the script: Ta with Grantha-->
                 
                 <p>
-                    [text not available]		
+                    <lb n="1"/>śrī-kō-vicaiya-kampavikkiramava<hi rend="grantha"><unclear>r</unclear>mma</hi>ṟku yāṇṭ’ aintāvatiṉ cittirai mutal āka-p puliyūr-k-kōṭṭattu māṅkāṭṭu-nāṭṭu māṅkāṭu tiruvarāntāṉattukku <unclear>Ārk</unclear>
+                    <lb n="2" break="no"/>kāṭṭu-k-kūṟṟattu paripaṇṭattuṟai paricai kiḻār Amarnilaiyār makaḷār Ip-paḷḷi Uṭaiya Ananta vīrakkuravar māṇākkiyār ku <gap reason="lost" quantity="3" unit="character"/> Aṭikaḷ tiru-v-amutukku vaitta nell aṟupatiṉ
+                    <lb n="3"/><unclear>kāṭi</unclear> mu-n-nāḻi nellāl vikkāṭṭuvōm āṉōm Aviccoriyuntāla muppatiṉ palattāliṭṭār Itukku muṭṭāmai-c <gap reason="lost" quantity="3" unit="character"/>
                 </p>
                 
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
                 <listApp>
-                
-                <app loc="03">
-                <lem></lem>
-                <rdg source="bib:..."></rdg>
-                </app>         		
-                
+                    
+                    <app loc="3">
+                        <lem>vikkāṭṭuvōm</lem>
+                        <rdg source="bib:Civanantam2017_01">aṭṭuvikkavōm</rdg>
+                    </app>         		
+                    
                 </listApp>
                 
-                </div>
-                
-                <div type="commentary"/>-->
+            </div>
             
-            <div type="bibliography">
-                
+            <div type="commentary"/>
+            
+            <div type="bibliography">                
                 
                 <p>Reported in <bibl><ptr target="bib:IAR2003-2004"/><citedRange unit="page">367</citedRange><citedRange unit="item">3</citedRange></bibl>.</p>
+                <p>Edited in <bibl><ptr target="bib:Civanantam2017_01"/></bibl>, with visual documentation (p. 284).</p>
+                <p>This edition by Emmanuel Francis based on <bibl><ptr target="bib:Civanantam2017_01"/></bibl> and online visual documentation. Thanks to Centamiḻ Celvaṉ for pointing out these resources.</p>
                 
-                <!--<listBibl type="primary">
-                    
-                    </listBibl>-->
+                <listBibl type="primary">
+                    <bibl n="C">
+                        <ptr target="bib:Civanantam2017_01"/>
+                        <citedRange unit="page">191</citedRange>
+                        <citedRange unit="item">761/2017</citedRange>
+                    </bibl>
+                </listBibl>
                 
                 <listBibl type="secondary">
                     
