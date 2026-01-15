@@ -82,11 +82,17 @@
                 
                 <p>
                     <lb n="1"/>śrī-kō-vicaiya-kampa-vikkirama-va<hi rend="grantha"><unclear>r</unclear>mma</hi>ṟku yāṇṭ’ aint-āvatiṉ cittirai mutal āka-p puliyūr-k-kōṭṭattu māṅkāṭṭu-nāṭṭu māṅkāṭu tiruvarāntāṉattukku <unclear>Ārk</unclear>
-                    <lb n="2" break="no"/>kāṭṭu-k-kūṟṟattu paripaṇṭattuṟai paricai kiḻār Amarnilaiyār makaḷār Ip-paḷḷi Uṭaiya Ananta-vīrakkuravar māṇākkiyār ku <gap reason="lost" quantity="3" unit="character"/> Aṭikaḷ tiru-v-amutukku vaitta nell aṟu-patiṉ
-                    <lb n="3"/><unclear>kāṭi</unclear> mu-n-nāḻi nellāl vikkāṭṭuvōm āṉōm
+                    <lb n="2" break="no"/>kāṭṭu-k-kūṟṟattu paripaṇṭa-t-tuṟai paricai kiḻār Amarnilaiyār makaḷār Ip-paḷḷi Uṭaiya Ananta-vīra-k-kuravar māṇākkiyār ku <gap reason="lost" quantity="3" unit="character"/> Aṭikaḷ tiru-v-amutukku vaitta nell aṟu-patiṉ
+                    <lb n="3"/><unclear>kāṭi</unclear> mu-n-nāḻi
                 </p>
                 <p>
-                    Aviccoriyuntāla muppatiṉ palattāliṭṭār Itukku muṭṭāmai-c <gap reason="lost" quantity="3" unit="character"/>
+                    nellāl vikkāṭṭuvōm āṉōm
+                </p>
+                <p>
+                    Avi-c coriyun tāla<supplied reason="subaudible">m</supplied> mu-p-patiṉ pal<choice><sic>a</sic><corr>i</corr></choice>ttāl<supplied reason="omitted">am</supplied> iṭṭār
+                </p>
+                <p>
+                Itukku muṭṭāmai-c <gap reason="lost" quantity="3" unit="character"/>
                 </p>
                 
             </div>
@@ -98,10 +104,46 @@
                     <app loc="3">
                         <lem>vikkāṭṭuvōm</lem>
                         <rdg source="bib:Civanantam2017_01">aṭṭuvikkavōm</rdg>
-                    </app>         		
+                        <note><foreign>aṭṭuvikkavōm</foreign> was indeed probably intended.</note>
+                    </app>
+                    
+                    <app loc="3">
+                        <lem>pal<choice><sic>a</sic><corr>i</corr></choice>ttāl<supplied reason="omitted">am</supplied> iṭṭār</lem>
+                        <rdg source="bib:Civanantam2017_01">palattāliṭṭār</rdg>
+                    </app>
                     
                 </listApp>
                 
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                <p n="1-3">
+                    While it was the first <supplied reason="subaudible">date</supplied> of Cittirai <supplied reason="subaudible">month</supplied> in the fifth year of the victorious king Kampavikkiramavarmmaṉ,<note>Sanskrit Kampavikramavarman.</note>
+                    <supplied reason="subaudible">there are</supplied>
+                    sixty <foreign>kāṭi</foreign>s and three <foreign>nāḻi</foreign>s of paddy that
+                    Ku <gap reason="lost"/> Aṭikaḷ,
+                    female disciple of the master Anantavīra, the chief of this <foreign>paḷḷi</foreign>,<note>That is, Tiruvarāntāṉam?</note>
+                    and daughter of Amarnilaiyār, a <foreign>kiḻār</foreign> from Paripaṇṭattuṟai Paricai,
+                    gave for the sacred food-offerings
+                    for the Tiruvarāntāṉam at Māṅkāṭu in the Māṅkāṭunāṭu, <supplied reason="subaudible">a subdivision</supplied> in the Puliyūrkkōṭṭam,
+                    
+                </p>
+                
+                <p n="3">                       
+                    We have become those who will have this donation made <supplied reason="explanation"><foreign>vikkāṭṭuvōm</foreign><note>That is, <foreign>aṭṭuvikkavōm</foreign>?</note></supplied> with this paddy.                    
+                </p>
+                
+                <p n="3">
+                    He<note>That is, she.</note> gave
+                    thirthy (?)
+                    <supplied reason="subaudible">for</supplied> a plate for pouring <supplied reason="explanation"><foreign>coriyum</foreign></supplied> <foreign>avi</foreign><note>Sanskrit <foreign>havis</foreign>.</note>
+                    <supplied reason="subaudible">and</supplied>
+                    a plate for <foreign>pali</foreign><note>Sanskrit <foreign>bali</foreign>.</note>.
+                </p>
+                
+                <p n="3">
+                    For this, without failing <gap reason="lost"/>
+                </p>
             </div>
             
             <div type="commentary">
