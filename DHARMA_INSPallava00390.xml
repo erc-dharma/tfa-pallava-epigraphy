@@ -44,7 +44,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><hi rend="bold">Grantha</hi>. Medial <foreign>o</foreign> instead of medial <foreign>au</foreign>.</p>
+                            <p><hi rend="bold">Grantha</hi>. Medial <foreign>o</foreign> instead of medial <foreign>au</foreign>. No distinction between <foreign>i</foreign> and <foreign>ī</foreign>.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -108,7 +108,16 @@
                     <p>
                         <pb n="2r"/>
                         <lb n="2r1="/>
-                        
+                    </p>
+                    
+                    <lg n="8">
+                        <l n="a">Umeva rudrasya rameva viṣṇor</l>
+                        <l n="b">vviśu<lb n="2r8=15" break="no"/>ddha-gaṃgānvaya-janma-mānyā</l>   
+                        <l n="c">guṇānurūpā vijayābhidhānā</l>
+                        <l n="d">patni sapatni vijaya<lb n="2r9=16" break="no"/>-śriyai ’bhūt·</l>
+                    </lg>
+                    
+                    <p>
                         <pb n="2v"/>
                         <lb n="2v1="/>
                         
