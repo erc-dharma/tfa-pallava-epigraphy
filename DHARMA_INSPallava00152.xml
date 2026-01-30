@@ -103,7 +103,7 @@
                             <lb n="1v3=1" break="no"/>s tat paramaM vidhatṛ-jagatas sarvvasya śarvvāhyayaM</l>
                         <l n="d">viśva-vyāpy avina-
                             <lb n="1v4=4" break="no"/>śvaran nirupaman niśreyasāyastu vaḥ <g type="gomutraFinal">.</g></l>
-                    </lg>
+                    </lg>   
                     
                     <p>
                         <pb n="2r"/>
@@ -111,11 +111,19 @@
                         
                         <pb n="2v"/>
                         <lb n="2v1="/>
+                    </p>
+                    
+                        <lg n="11" met="...">
+                        <l n="a">śrī-rāṣṭrakūṭa-nṛpateḥ punar ā<choice><sic>n</sic><corr>t</corr></choice>majāyān</l>
+                        <l n="b">tasmād a<lb n="2v9=25" break="no"/>bhūn nṛpa-śatārccita-pāda-pa<choice><sic>t</sic><corr>d</corr></choice>maḥ</l>
+                        <l n="c">rājyā-virājita-jagat-tritayo yaśobhis</l>                        
+                        <l n="d">t<unclear>u</unclear><pb n="3r" break="no"/><lb n="3r1=26" break="no"/>ṃgo nṛpeṣu nṛpatuṃga Iti śrutākhya<supplied reason="omitted">ḥ</supplied></l>                        
+                    </lg>
+                    
+                    <p>
+                        <pb n="3r"/><lb n="3r1=26"/>
                         
-                        <pb n="3r"/>
-                        <lb n="3r1="/>
-                        
-                        <pb n="3v1"/>
+                        <pb n="3v"/>
                         <lb n="3v1="/>...
                     </p>
                     
@@ -178,7 +186,7 @@
                         <!--<app loc="0">
                             <lem>...</lem>
                             <rdg source="bib:Ramesan1972_01">...</rdg>                            
-                        </app>-->
+                            </app>-->
                         
                         <app loc="41">
                             <lem>°sakalopaplavas</lem>

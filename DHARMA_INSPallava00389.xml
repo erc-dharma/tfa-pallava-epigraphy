@@ -98,9 +98,22 @@
                     <l n="d">tad vaḥ pāyād amalam atulan dhāma candrārdha-mauleḥ <g type="gomutraFinal">.</g></l>
                 </lg>
                 
-                <p>
-                    <pb n="2r"/>
-                    <lb n="2r1="/>
+                <lg n="2" met=" śārdūlavikrīḍita">
+                    <l n="a">...</l>
+                </lg>
+                
+                <lg n="3" met="mālinī">
+                    <l n="a">...</l>
+                </lg>
+                
+                <lg n="4" met=" śārdūlavikrīḍita">
+                    <l n="a">devī tasya śacīva <unclear>karbura-rip</unclear>oḥ padmeva pa<pb n="2r" break="no"/><lb n="2r1=9" break="no"/>dmā-pateś</l>
+                    <l n="b">śarvāṇīva pura-dviṣaś <unclear>cala-dṛśām</unclear> agresarī sad-guṇaiḥ</l>
+                    <l n="c">Āsīd aggal<unclear>a</unclear>nimmaḍīti <lb n="2r2=10"/>jagati prakhyāta-<unclear>śuddhāhvayā</unclear></l>
+                    <l n="d">kādambī mahitasya pallava-mahārājasya rājñas sutā <lb n="2r3=11"/><unclear><g type="ddanda">.</g></unclear></l>
+                </lg>
+                
+                <p>                   
                     
                     <pb n="2v"/>
                     <lb n="2v1="/>
@@ -171,6 +184,11 @@
                             <lem>du<unclear>r</unclear>vijñātaś</lem>
                             <rdg source="bib:Ramesan1976_01">duvijñātaś</rdg>                            
                         </app>  
+                        
+                        <app loc="9">
+                            <lem>aggal<unclear>a</unclear>nimmaḍīti</lem>
+                            <rdg source="bib:Ramesan1976_01">aggalinimmaḍīti</rdg>
+                        </app>
                         
                     </listApp>
                 </div>
