@@ -10,14 +10,7 @@
             <titleStmt>
                 <title>Āṭutuṟai, time of [name lost], year [figure lost]</title>
                 <respStmt>
-                    <resp>EpiDoc encoding</resp>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
@@ -130,7 +123,7 @@
                 </p>
                 
                 <p n="1-2">
-                    <supplied reason="lost">Umpteenth year of</supplied> the victorious king <gap reason="lost"/>.
+                    <supplied reason="lost">Xth year of</supplied> the victorious king <gap reason="lost"/>.
                 </p>
                 
                 <p n="3-8">
