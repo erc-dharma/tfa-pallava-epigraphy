@@ -97,7 +97,7 @@
                 </p>
                 <p>		
                     A<hi rend="grantha">ga</hi>tti <hi rend="grantha">śrī</hi>-t-tēvar
-                    <lb n="6" break="no"/>k=ku-k= kuṭutta <hi rend="grantha">dharmmam· rakṣi</hi>ppār aṭi E
+                    <lb n="6" break="no"/>k=ku-k= kuṭutta <hi rend="grantha">dharmmaM rakṣi</hi>ppār aṭi E
                     <lb n="7" break="no"/>ṉ ṟalai mēlaṉa		
                 </p>
                 
@@ -109,24 +109,15 @@
                 
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
-                <listApp>
                 
-                <app loc="0">
-                <lem></lem>
-                <rdg source="bib:VenkatasubbaAyyar1943_01"></rdg>
-                <note></note>
-                </app>
-                
-                </listApp>
-                
-                </div>-->
+            </div>
             
             <div type="translation" resp="part:emfr">
                 
                 <p n="1">
-                    Fortune!<note>This could alternatively be considered an honourific prefix to the name of the king, thus: "year of the glorious Nṛpatuṅgavarman."</note>
+                    Fortune <supplied reason="explanation"><foreign>śrī</foreign><note><foreign>śrī</foreign> could alternatively be considered an honourific prefix to the name of the king, thus: "<supplied reason="lost">Xth</supplied> year of the glorious Nṛpatuṅkaparmar."</note></supplied>!
                 </p>
                 
                 <p n="1">
@@ -138,7 +129,7 @@
                 </p>
                 
                 <p n="5-7">
-                    <supplied reason="subaudible">This</supplied> pious donation <supplied reason="explanation"><foreign><hi rend="bold">dharma</hi></foreign></supplied>
+                    <supplied reason="subaudible">This</supplied> pious donation <supplied reason="explanation"><foreign>dharma</foreign></supplied>
                     that
                     he gave for Akatti Śrītēvar,
                     the feet of he who protects <supplied reason="subaudible">it</supplied> are on my feet.
