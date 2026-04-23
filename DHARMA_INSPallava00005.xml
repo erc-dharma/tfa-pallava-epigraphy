@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -57,16 +57,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -150,7 +147,7 @@
                     
                     <p>
                         vijaya-saṁvatsare traya
-                        <lb n="3v3=15" break="no"/>str<unclear>i</unclear>ṁśe <num value="33"><g type="numeral">30</g> 3</num> hemanta-pakṣe t<unclear>ṛ</unclear>tīye 3 trayodaśy<unclear>āṁ</unclear> likhitam idaṁ śāsanaṁ <g type="ddanda">.</g>
+                        <lb n="3v3=15" break="no"/>str<unclear>i</unclear>ṁśe <num value="33"><g type="numeral">30</g> 3</num> hemanta-pakṣe t<unclear>ṛ</unclear>tīye 3 trayodaśy<unclear>āṁ</unclear> likhitam idaṁ śāsanaṁ <g ref="sym:doubleBar" type="punctuation">.</g>
                         
                     </p>
                     
@@ -171,7 +168,7 @@
                         <l n="a">b<unclear>ra</unclear>h<unclear>ma</unclear>-svaṁ tu viṣaṁ <unclear>gho</unclear>raṁ</l>
                         <l n="b"><lb n="4r3=18"/>na viṣaṁ viṣam ucyate</l>
                         <l n="c"><unclear>viṣan</unclear> t<unclear>v e</unclear>kākinaṁ hanti</l>
-                        <l n="d">brahma-svaṁ putra-pautrika<choice><unclear>M</unclear><unclear>ṁ</unclear></choice> <g type="gomutraFinal">.</g></l>
+                        <l n="d">brahma-svaṁ putra-pautrika<choice><unclear>M</unclear><unclear>ṁ</unclear></choice> <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                     </lg>    
                     
                     <pb n="4v"/>

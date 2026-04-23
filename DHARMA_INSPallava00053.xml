@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -57,16 +57,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -147,7 +144,7 @@
                         <lb n="3r5=20"/>sarvva-kara-par<supplied reason="omitted">i</supplied>hāra<choice><sic>ḥ</sic><corr>ṃ</corr></choice> pariharantu
                     </p>
                     <p>
-                        <supplied reason="omitted">ya</supplied> Imām ājñām atikramet sa pāpaś śārīran daṇḍam arhati <g type="danda">.</g> 
+                        <supplied reason="omitted">ya</supplied> Imām ājñām atikramet sa pāpaś śārīran daṇḍam arhati <g ref="sym:bar" type="punctuation">.</g> 
                     </p>
                     
                     <lg n="1" met="anuṣṭubh">
@@ -169,17 +166,17 @@
                     </lg>
                     
                     <lg n="3" met="anuṣṭubh">
-                        <l n="a">sva-dattāM para-dattāṁ vā <g type="danda"/></l>
+                        <l n="a">sva-dattāM para-dattāṁ vā <g ref="sym:bar" type="punctuation">.</g></l>
                         <l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vasundharāM</l>
-                        <l n="c">ṣaṣṭi-va<lb n="3v4=24" break="no"/>rṣa-sahasrāṇi <g type="danda"/></l>
+                        <l n="c">ṣaṣṭi-va<lb n="3v4=24" break="no"/>rṣa-sahasrāṇi <g ref="sym:bar" type="punctuation">.</g></l>
                         <l n="d">viṣ<choice><sic>t</sic><corr>ṭh</corr></choice>āy<choice><sic>a</sic><corr>ā</corr></choice>ṁ jāyate kṛmiḥ </l>
                     </lg>
                     
                     <lg n="4" met="anuṣṭubh">
-                        <l n="a">bahubhir vvasudhā dattā <g type="danda"/></l>
+                        <l n="a">bahubhir vvasudhā dattā <g ref="sym:bar" type="punctuation">.</g></l>
                         <l n="b">bahubhi<lb n="3v5=25" break="no"/>ś cānupālit<choice><sic>a</sic><corr>ā</corr></choice></l>
-                        <l n="c">yasya yasya yathā bhūmi<supplied reason="omitted">ḥ</supplied> <g type="danda"/></l>
-                        <l n="d">tasya tasya tathā phalaM <g type="spiral"/><g type="dashHooked"/></l>
+                        <l n="c">yasya yasya yathā bhūmi<supplied reason="omitted">ḥ</supplied> <g ref="sym:bar" type="punctuation">.</g></l>
+                        <l n="d">tasya tasya tathā phalaM <g ref="sym:spiral" type="symbol">*</g><g ref="sym:dash-hooked" type="punctuation">.</g></l>
                     </lg>
                     
                 </div>
@@ -260,7 +257,7 @@
                     <l>Le souverain de Nandakuṟṟa,</l>
                     <l>Est l’exécuteur de ce commandement</l>
                     <l>- Lui qui possède la majesté de Rājāditya,</l>
-                    <l>Comme la chaleur ardente du soleil<note>Il y a un jeu de mots intraduisible portant à la fois sur <foreign>pratāpavān</foreign> ("pourvu de majesté" ou "pourvu de chaleur brûlante") et sur le nom propre rājād<foreign></foreign>itya, qui signifie aussi "le soleil roi". Si on en juge par le nom de son père, Somāditya, ce Rājāditya doit être un membre illustre de la famille du souverain de Nandakuṟṟa - peut-être son grand-père, comme le suggère P.B. Desai 1957 (EI), p. 93, n. 6. P.B. Desai considère par ailleurs le composé <foreign>nandakuṟṟa-nṛpêśvara-</foreign> comme un <foreign>karmadhāraya</foreign> (litt. "Īśvara, qui est le souverain de Nandakuṟṟa"), interprétation qui fournit le nom de l’<foreign>ājñāpti</foreign>; mais dans la stance analogue des tablettes de Parameśvaravarman, à Gunna Guravapāḷem, le terme –<foreign>nṛpêśvara-</foreign>, en second élément de composé après le même toponyme, ne peut être qu’un titre, puisque celui qui le porte est nommé au <foreign>pāda</foreign> suivant (Kuḷavarman). Il est donc préférable de ne voir dans ce mot qu’un titre emphatique (litt. "seigneur des rois"), dont la mention, associée à celle de la région qu’il gouverne, peut suffire à désigner le porteur.</note>.</l>
+                    <l>Comme la chaleur ardente du soleil<note>Il y a un jeu de mots intraduisible portant à la fois sur <foreign>pratāpavān</foreign> ("pourvu de majesté" ou "pourvu de chaleur brûlante") et sur le nom propre rājād<foreign/>itya, qui signifie aussi "le soleil roi". Si on en juge par le nom de son père, Somāditya, ce Rājāditya doit être un membre illustre de la famille du souverain de Nandakuṟṟa - peut-être son grand-père, comme le suggère P.B. Desai 1957 (EI), p. 93, n. 6. P.B. Desai considère par ailleurs le composé <foreign>nandakuṟṟa-nṛpêśvara-</foreign> comme un <foreign>karmadhāraya</foreign> (litt. "Īśvara, qui est le souverain de Nandakuṟṟa"), interprétation qui fournit le nom de l’<foreign>ājñāpti</foreign>; mais dans la stance analogue des tablettes de Parameśvaravarman, à Gunna Guravapāḷem, le terme –<foreign>nṛpêśvara-</foreign>, en second élément de composé après le même toponyme, ne peut être qu’un titre, puisque celui qui le porte est nommé au <foreign>pāda</foreign> suivant (Kuḷavarman). Il est donc préférable de ne voir dans ce mot qu’un titre emphatique (litt. "seigneur des rois"), dont la mention, associée à celle de la région qu’il gouverne, peut suffire à désigner le porteur.</note>.</l>
                 </p>
                 
                 <p>Il y a des stances à ce propos :</p>

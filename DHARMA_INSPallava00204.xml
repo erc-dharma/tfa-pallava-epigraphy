@@ -63,19 +63,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide"
-                key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib"
-                    matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part"
-                    matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -104,7 +98,7 @@
                     <lb n="5" break="no"/>ṟupuḷḷuvaṉ tōmaṇiccatu<hi rend="grantha"><unclear>r</unclear>vve</hi>tiyār makaṉ kecuva<hi rend="grantha">kra</hi>mavittaṉ pakkal viṟṟu-k-koṇṭ-uṭaiya pāṭakam Oṉṟiṉāl Iru-nūṟṟu-nāṟpatu kuḻiyum-āka nālu pāṭakattālum-āka-t toḷḷā
                     <lb n="6" break="no"/>yirattaṟupatu kuḻiyum Ivvur <hi rend="grantha">śrī</hi>gova<hi rend="grantha">rddha</hi>ṉattu vai<hi rend="grantha">khā</hi>na<hi rend="grantha">sa</hi>n‧ <hi rend="grantha">śrīdharabha</hi>ṭṭaṉ makaṉ tāmōtirapaṭṭa[ṉ*] pū<hi rend="grantha">rvvāhṇa</hi>tt’ oru tiruvamirtum nāyaṟupāṭu Oru viḷakkum iṭṭu-t tēvar muṉpu pala-kaṇiyum aḻivunīkki-t tēvaraiyum putu<add place="right"><supplied reason="omitted">k</supplied>ka <hi rend="grantha">śrīgo</hi>va<hi rend="grantha">rddha</hi>ṉat=tu vai<hi rend="grantha">khā</hi>na<hi rend="grantha">s</hi>an ā<hi rend="grantha">tra</hi>yaṉ</add>
                     <lb n="7"/><supplied reason="omitted">pu</supplied>tuk‧ka vēṇṭu nāḷ putukki Ipparicu <hi rend="grantha">Ārādhi</hi>ttu Uṇpāṉāka U<hi rend="grantha">da</hi>katāraiyāl peṟṟ-uṭaiya tāmōtirapaṭṭaṉ-uṭaiya puttirapau<hi rend="grantha">trādi</hi>kaḷukke Uritt-āka Uṇṇa-k kuṭuttēn mēṟ-colla-p-paṭṭa piramāṇiyeṉ Uttaramēru<hi rend="grantha">cca</hi><surplus>t</surplus>tu<add place="right">rvvetimaṅkalattu <hi rend="grantha">sabhai</hi>yōm eḻuttu I</add>
-                    <lb n="8" break="no"/><add place="left">piramāṇi kuṭutta teva<hi rend="grantha">dā</hi>nattukku</add> vai<hi rend="grantha">khā</hi>na<hi rend="grantha">s</hi>an<unclear>‧</unclear> <hi rend="grantha">śrīdharabha</hi>ṭṭaṉ makaṉ tāmōtira<hi rend="grantha">bha</hi>ṭṭaṉ pakkal Eppērppaṭṭa Iṟaikkum poṉ Aṟakkoṇṭu Iṟaiyili-y-āka paṇittu-k kuṭuttōm <hi rend="grantha">mahāsabhai</hi>yōm <hi rend="grantha">sabhai</hi> paṇippa Eḻutinēṉ <add place="inline"><hi rend="grantha">śrī-puruṣa</hi>-<hi rend="grantha">Ācāryya</hi>nēṉ <g type="pc">.</g></add>
+                    <lb n="8" break="no"/><add place="left">piramāṇi kuṭutta teva<hi rend="grantha">dā</hi>nattukku</add> vai<hi rend="grantha">khā</hi>na<hi rend="grantha">s</hi>an<unclear>‧</unclear> <hi rend="grantha">śrīdharabha</hi>ṭṭaṉ makaṉ tāmōtira<hi rend="grantha">bha</hi>ṭṭaṉ pakkal Eppērppaṭṭa Iṟaikkum poṉ Aṟakkoṇṭu Iṟaiyili-y-āka paṇittu-k kuṭuttōm <hi rend="grantha">mahāsabhai</hi>yōm <hi rend="grantha">sabhai</hi> paṇippa Eḻutinēṉ <add place="inline"><hi rend="grantha">śrī-puruṣa</hi>-<hi rend="grantha">Ācāryya</hi>nēṉ <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--></add>
                 </p>
                 <!--check value of @place. Addition is not in margin, but right after end of line 8. -->
                 

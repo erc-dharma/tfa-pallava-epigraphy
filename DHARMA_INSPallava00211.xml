@@ -63,24 +63,20 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:axja" when="2020-11-03" status="draft"
-                >Updating toward the encoding template v03</change>
+            <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
             <change who="part:emfr" when="2020-05-01" status="draft">Creation of the file</change>
         </revisionDesc>
     </teiHeader>
@@ -107,7 +103,7 @@
                 </p>
                 <p>
                     <supplied reason="lost">Āṭ·</supplied><unclear>ṭāṇṭu-tōṟu</unclear>m <unclear>va</unclear>yiramēka-taṭākattu<unclear>kkē Ēri</unclear>
-                    <lb n="4" break="no"/><unclear>vāriya-p-perumakkaḷē kaṭai-k-kaṇṭu ku</unclear>ḻi-vāyi<unclear>l Ā</unclear>ṭṭuvittu <hi rend="grantha">prasādam</hi> ceyvarkaḷ āka <unclear>ip-pāṭakam vaittēṉ</unclear> <supplied reason="lost"><hi rend="grantha">A</hi></supplied><hi rend="grantha"><unclear>gnicarmma-kra</unclear></hi><unclear>mavitta-c-cōmā</unclear><hi rend="grantha"><unclear>śi</unclear></hi><unclear>yē</unclear>ṉ <g type="gomutraFinal"><!--update encoding?-->.</g>
+                    <lb n="4" break="no"/><unclear>vāriya-p-perumakkaḷē kaṭai-k-kaṇṭu ku</unclear>ḻi-vāyi<unclear>l Ā</unclear>ṭṭuvittu <hi rend="grantha">prasādam</hi> ceyvarkaḷ āka <unclear>ip-pāṭakam vaittēṉ</unclear> <supplied reason="lost"><hi rend="grantha">A</hi></supplied><hi rend="grantha"><unclear>gnicarmma-kra</unclear></hi><unclear>mavitta-c-cōmā</unclear><hi rend="grantha"><unclear>śi</unclear></hi><unclear>yē</unclear>ṉ <g ref="sym:flourish-taperOut" type="punctuation"><!--update encoding?-->.</g>
                 </p>
                 
             </div>

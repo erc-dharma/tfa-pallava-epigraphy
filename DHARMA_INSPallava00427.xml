@@ -66,24 +66,20 @@
 					under the European Union's Horizon 2020 research and innovation programme (grant
 					agreement no 809994).</p>
 			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
 			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
 					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
 						ERC-DHARMA whose data are open to the public.</p>
 				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
 					<p>Internal URIs using the part prefix to point to person elements in the
 							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change status="draft" when="2024-04-26" who="part:emfr"
-				>Creation of the file on the repository</change>
+			<change status="draft" when="2024-04-26" who="part:emfr">Creation of the file on the repository</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -107,7 +103,7 @@
 		<lb n="5" break="no"/>-p-pācca-nallūr <unclear>mūla</unclear>
 		<lb n="6" break="no"/>-<hi rend="grantha">s<choice><orig>tt</orig><reg>t</reg></choice>ā</hi><choice><orig>n</orig><reg>ṉ</reg></choice>attu <hi rend="grantha">bha</hi>ṭārakku <gap reason="lost" quantity="2" unit="character" precision="low"/>
 		<lb n="7" break="no"/>ma-p-piṟiyār vilaikku
-		<lb n="8" />koṇṭa pa<unclear>ṉai</unclear>-c-cēri <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="8"/>koṇṭa pa<unclear>ṉai</unclear>-c-cēri <gap reason="lost" quantity="3" unit="character" precision="low"/>
 		<lb n="9" break="no"/>ṅ tōṭṭam Iru peṭa <gap reason="lost" quantity="4" unit="character" precision="low"/>
 		<lb n="10" break="no"/>ttu-k kīḻakk’ aṭaiya <gap reason="lost" quantity="3" unit="character" precision="low"/>
 		<lb n="11"/>nilamum nanta-vaṉamum <unclear>Ā</unclear>

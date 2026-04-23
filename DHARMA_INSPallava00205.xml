@@ -63,19 +63,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide"
-                key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib"
-                    matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part"
-                    matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -114,7 +108,7 @@
                     <lb n="6"/>tāmōt<choice><orig>i</orig><reg>a</reg></choice>ra-paṭ·ṭa<choice><orig>n</orig><reg>ṉ</reg></choice>-ē pū-maram uḷ·ḷiṭ·ṭa paya<supplied reason="omitted">ṉ</supplied>-maram-um Iṭṭu-k koṇṭu <hi rend="grantha">A<unclear>r</unclear>cci</hi>tt’ uṇ·pā<choice><orig>n</orig><reg>ṉ</reg></choice> āka kuṭuttō<hi rend="grantha">m·</hi> Ut=ta<hi rend="grantha">rame</hi>ru-<hi rend="grantha">ca</hi>tu<hi rend="grantha"><reg>r</reg>vvedi</hi>-maṅkalattu <hi rend="grantha">sabhai</hi>yōm·
                 </p>
                 <p>
-                    <lb n="7"/><hi rend="grantha">sabhai</hi>yār· paṇip<unclear>·</unclear>pa Eḻutinēn· <hi rend="grantha">śrī-puruṣa-Ācā<surplus>ri</surplus>ryya</hi>n-ē<choice><orig>n</orig><reg>ṉ</reg></choice>·<!--check: maybe "n" should be markedup "grantha"--> <g type="gomutraFinal">.</g>
+                    <lb n="7"/><hi rend="grantha">sabhai</hi>yār· paṇip<unclear>·</unclear>pa Eḻutinēn· <hi rend="grantha">śrī-puruṣa-Ācā<surplus>ri</surplus>ryya</hi>n-ē<choice><orig>n</orig><reg>ṉ</reg></choice>·<!--check: maybe "n" should be markedup "grantha"--> <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                 </p>
                 
             </div>
@@ -185,7 +179,7 @@
                 
                 <p n="2-3">We have given as <foreign>arcanā-bhoga</foreign> for the honourable Mahāviṣṇu of the glorious Govardhana one thousand two hundred <foreign>kuḻi</foreign>s entirely <supplied reason="explanation">-um</supplied>, through what comes, in our village, <supplied reason="subaudible">as</supplied> <foreign>kuḻi</foreign> <supplied reason="explanation"><foreign>kuḻi vanta-v āṟṟ-āl</foreign><note>Literally: by the way <foreign>kuḻi</foreign>s have come.</note></supplied>, south of the land given for the temple <supplied reason="subaudible">of</supplied> Araiyar in the land that lies uncultivated <supplied reason="explanation"><foreign>kiṭanta</foreign></supplied> in the middle <supplied reason="subaudible">of the land named</supplied> Malliyāṉ Kārāṇai and east of the tank <supplied reason="subaudible">of the land named</supplied> Malliyāṉ Kārāṇai.</p>
                 
-                <p n="4-5">This <foreign>arcanā-bhoga</foreign> for the Lord to feed when worshipping <supplied reason="subaudible">him</supplied> <supplied reason="explanation"><foreign>u<hi rend="grantha">pāsi</hi>tt’</foreign>, i.e. <foreign>upācitt’</foreign>, <foreign>uṇṇa uṭaiyaṉ-āka</foreign></supplied>, We have given <supplied reason="subaudible">it</supplied> to <supplied reason="explanation">i.e. in the care of</supplied>) Dāmodara-bhaṭṭa, son of the glorious Vaikhānasa Dāmodara-bhaṭṭa <supplied reason="subaudible">of</supplied> our village, and to his sons and grandsons <supplied reason="explanation"><foreign><hi rend="grantha  ">putra-pautrikam</hi></foreign>, i.e. hereditarily</supplied> so as to feed <supplied reason="subaudible">the Lord</supplied> when worshipping <supplied reason="subaudible">him</supplied>.</p>
+                <p n="4-5">This <foreign>arcanā-bhoga</foreign> for the Lord to feed when worshipping <supplied reason="subaudible">him</supplied> <supplied reason="explanation"><foreign>u<hi rend="grantha">pāsi</hi>tt’</foreign>, i.e. <foreign>upācitt’</foreign>, <foreign>uṇṇa uṭaiyaṉ-āka</foreign></supplied>, We have given <supplied reason="subaudible">it</supplied> to <supplied reason="explanation">i.e. in the care of</supplied>) Dāmodara-bhaṭṭa, son of the glorious Vaikhānasa Dāmodara-bhaṭṭa <supplied reason="subaudible">of</supplied> our village, and to his sons and grandsons <supplied reason="explanation"><foreign><hi rend="grantha">putra-pautrikam</hi></foreign>, i.e. hereditarily</supplied> so as to feed <supplied reason="subaudible">the Lord</supplied> when worshipping <supplied reason="subaudible">him</supplied>.</p>
                 
                 <p n="5-">We have given these one thousand two hundred <foreign>kuḻi</foreign>s entirely <supplied reason="explanation"><foreign>-um</foreign></supplied>, declaring <supplied reason="explanation"><foreign>paṇittu</foreign></supplied> <supplied reason="subaudible">them</supplied> as tax-free.</p>
                 

@@ -44,8 +44,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>The <foreign>puḷḷi</foreign> is used in the Tamil text. For further paleaographical details, see <bibl><ptr target="bib:Mahalingam1965-1966_01"/><citedRange unit="page"
-                                >144-145</citedRange></bibl>.</p>
+                            <p>The <foreign>puḷḷi</foreign> is used in the Tamil text. For further paleaographical details, see <bibl><ptr target="bib:Mahalingam1965-1966_01"/><citedRange unit="page">144-145</citedRange></bibl>.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -57,16 +56,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -102,7 +98,7 @@
                         <l n="a"><supplied reason="lost">pāyā</supplied><unclear>d va</unclear>ś śāṁkar<choice><sic>i</sic><corr>ī</corr></choice>-mūrttiś </l>
                         <l n="b">śaśā<surplus>ṁ</surplus>ṅkāṁkura-śekharā</l>
                         <l n="c">pratipad-dina-paryyante</l>
-                        <l n="d">sandhyeva sakalānatā <g type="gomutraFinal">.</g></l>
+                        <l n="d">sandhyeva sakalānatā <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="2" met="sragdharā">
@@ -151,7 +147,7 @@
                         
                         <pb n="2v" break="no"/>
                         
-                        <lb n="2v1=17"/>m aṣṭ<supplied reason="omitted">ottar</supplied>aśatāya <surname>s</surname>salila-pūrvvan dattavān<unclear>·</unclear> <g type="gomutra">.</g> <space/>
+                        <lb n="2v1=17"/>m aṣṭ<supplied reason="omitted">ottar</supplied>aśatāya <surname>s</surname>salila-pūrvvan dattavān<unclear>·</unclear> <g ref="sym:flourish-taperOut" type="punctuation">.</g><!--CHECK SYMBOL encoding and content, was "gomutra"--> <space/>
                     </p>
                     
                     <ab>
@@ -171,7 +167,7 @@
                         <lb n="2v5=21" break="no"/>ṭi nīk·ki <hi rend="grantha">brahmade</hi>yam-āka-p· peṟ·ṟa nal·kūṟ·-naṟ-pāppār·
                         
                         <hi rend="grantha">ṣaṇḍila-gotra</hi>tt’ āvat·tampa-cū<surplus>t·tira</surplus>
-                        <lb n="2v6=22" break="no"/>t<unclear>·</unclear>tirat·t’ uḻappūr-vat·tavaṉ· kāṭaka-c·-cōmāci ti<choice><sic>ru</sic><corr>ri</corr></choice>vēti kūḷa-<hi rend="grantha">śarmma</hi>ṉ· paṅ·k’ iraṇ·ṭu <g type="dash">.</g> Ik·-kō
+                        <lb n="2v6=22" break="no"/>t<unclear>·</unclear>tirat·t’ uḻappūr-vat·tavaṉ· kāṭaka-c·-cōmāci ti<choice><sic>ru</sic><corr>ri</corr></choice>vēti kūḷa-<hi rend="grantha">śarmma</hi>ṉ· paṅ·k’ iraṇ·ṭu <g ref="sym:dash" type="punctuation">.</g> Ik·-kō
                         
                         <lb n="2v7=23" break="no"/>...
                         
@@ -193,11 +189,11 @@
                         
                         <pb n="7r"/>
                         
-                        <lb n="7r1=98" break="no"/>ṉum <g type="dash">.</g> kā<hi rend="grantha">śyapa</hi>-kōtrattu paṟampur āḷuṅ kari<hi rend="grantha">śarma</hi>ṉ paṅk’ iraṇṭu <g type="dash">.</g> <hi rend="grantha">bra<unclear>h</unclear>mādh<supplied reason="lost">i</supplied>rāja</hi>ṉ paṅku nāl·ku <g type="dash">.</g> kaṭaṅ
-                        <lb n="7r2=99" break="no"/>kāṭṭu-p perun tiṇai paṅk’ oṉṟu <g type="dash">.</g> cāttaṅkuṭi kiḻāṉ paṅk’ oṉṟu <g type="dash">.</g> nāṭṭiya-p perun tiṇai paṅk’ o<unclear>ṉṟu</unclear> 
+                        <lb n="7r1=98" break="no"/>ṉum <g ref="sym:dash" type="punctuation">.</g> kā<hi rend="grantha">śyapa</hi>-kōtrattu paṟampur āḷuṅ kari<hi rend="grantha">śarma</hi>ṉ paṅk’ iraṇṭu <g ref="sym:dash" type="punctuation">.</g> <hi rend="grantha">bra<unclear>h</unclear>mādh<supplied reason="lost">i</supplied>rāja</hi>ṉ paṅku nāl·ku <g ref="sym:dash" type="punctuation">.</g> kaṭaṅ
+                        <lb n="7r2=99" break="no"/>kāṭṭu-p perun tiṇai paṅk’ oṉṟu <g ref="sym:dash" type="punctuation">.</g> cāttaṅkuṭi kiḻāṉ paṅk’ oṉṟu <g ref="sym:dash" type="punctuation">.</g> nāṭṭiya-p perun tiṇai paṅk’ o<unclear>ṉṟu</unclear> 
                         
                         
-                        <lb n="7r3=100"/>kalivicaiyaṉ paṅk’ oṉṟu <g type="dash">.</g> perumaṉaṭikaḷ paṅku <g type="dash">.</g> tiruvaṭikaḷ paṅku <g type="dash">.</g> <hi rend="grantha">bhaga</hi>vatiyār paṅku <g type="dash">.</g>
+                        <lb n="7r3=100"/>kalivicaiyaṉ paṅk’ oṉṟu <g ref="sym:dash" type="punctuation">.</g> perumaṉaṭikaḷ paṅku <g ref="sym:dash" type="punctuation">.</g> tiruvaṭikaḷ paṅku <g ref="sym:dash" type="punctuation">.</g> <hi rend="grantha">bhaga</hi>vatiyār paṅku <g ref="sym:dash" type="punctuation">.</g>
                     </p>
                     
                     <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
@@ -313,7 +309,7 @@
                     </p>
                     
                     <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
-                        <hi rend="grantha">svasti</hi> <g type="gomutra">.</g>
+                        <hi rend="grantha">svasti</hi> <g ref="sym:flourish-taperOut" type="punctuation">.</g><!--CHECK SYMBOL encoding and content, was "gomutra"-->
                     </p>
                     
                     
@@ -321,14 +317,14 @@
                         <l n="a">bhūmi-dānā<choice><sic>n</sic><corr>t</corr></choice> paran dānam·</l>
                         <l n="b">na bhūtan na bha<lb n="8v7=133" break="no"/>viṣyati</l>
                         <l n="c">tasy<choice><sic>e</sic><corr>ai</corr></choice>va haraṇ<choice><sic>ā dūta</sic><corr>āt pāpa</corr></choice>M</l>
-                        <l n="d">na bhūtan na bhaviṣyati <g type="dash">.</g></l>
+                        <l n="d">na bhūtan na bhaviṣyati <g ref="sym:dash" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="8" met="anuṣṭubh">
                         <l n="a">sva-datt<choice><sic>a</sic><corr>ā</corr></choice>m para-datt<choice><sic>a</sic><corr>ā</corr></choice>ṁ vā</l>
                         <l n="b">yo hareta vasūndharā<supplied reason="omitted">m</supplied></l>
                         <l n="c"><lb n="8v8=134"/>ṣaṣṭiM varṣa-<surplus>saha</surplus>sahasrāṇi</l>
-                        <l n="d"><choice><sic>ṣ</sic><corr>v</corr></choice>iṣṭhāyāM jāyate kṛmi<supplied reason="omitted">ḥ</supplied> <g type="dash">.</g></l>
+                        <l n="d"><choice><sic>ṣ</sic><corr>v</corr></choice>iṣṭhāyāM jāyate kṛmi<supplied reason="omitted">ḥ</supplied> <g ref="sym:dash" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="9" met="anuṣṭubh">
@@ -340,7 +336,7 @@
                         <l n="d">mṛṣ<choice><sic>ṭh</sic><corr>ṭ</corr></choice>aṃ gṛ<surplus>h</surplus>ṇantu pā<supplied reason="omitted">r</supplied>thivā<supplied reason="omitted">ḥ</supplied></l>                        
                     </lg>
                     
-                    <p>si <g type="gomutraFinal"/></p>
+                    <p>si <g ref="sym:flourish-taperOut" type="symbol">*</g></p>
                     
                     <p>...</p>
                     
@@ -351,9 +347,9 @@
                     
                     <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         <hi rend="grantha">bhāradvāja</hi>-kō<hi rend="grantha">tra</hi>tt’ āvattampa-cū<hi rend="grantha">tra</hi>ttu
-                        <lb n="9r3=137" break="no"/>-c cōlaiyūr-vatta<unclear reason="eccentric_ductus">va</unclear>ṉ tāmō<choice><sic>tila</sic><corr>tara</corr></choice><hi rend="grantha">śarma</hi>ṉum· <g type="dash">.</g> <hi rend="grantha">kāśya</hi>pa-kō<hi rend="grantha">tra</hi>tt’ āvattam
-                        <lb n="9r4=138" break="no"/>pa-cū<hi rend="grantha">tra</hi>ttu kuṇ·ṭūr-vattavaṉ cōmāci viṉāyaka-<hi rend="grantha">śarma</hi>ṉum <g type="dash">.</g> va<hi rend="grantha"><choice><sic>s</sic><corr>t</corr></choice>sa</hi>-kō<hi rend="grantha">tra</hi>
-                        <lb n="9r5=139" break="no"/>tt’ āvattampa-cū<hi rend="grantha">tra</hi>ttu pūṇiya-vattavaṉ· ceṭṭa<hi rend="grantha">śarma</hi>ṉum <g type="gomutra">.</g>			
+                        <lb n="9r3=137" break="no"/>-c cōlaiyūr-vatta<unclear reason="eccentric_ductus">va</unclear>ṉ tāmō<choice><sic>tila</sic><corr>tara</corr></choice><hi rend="grantha">śarma</hi>ṉum· <g ref="sym:dash" type="punctuation">.</g> <hi rend="grantha">kāśya</hi>pa-kō<hi rend="grantha">tra</hi>tt’ āvattam
+                        <lb n="9r4=138" break="no"/>pa-cū<hi rend="grantha">tra</hi>ttu kuṇ·ṭūr-vattavaṉ cōmāci viṉāyaka-<hi rend="grantha">śarma</hi>ṉum <g ref="sym:dash" type="punctuation">.</g> va<hi rend="grantha"><choice><sic>s</sic><corr>t</corr></choice>sa</hi>-kō<hi rend="grantha">tra</hi>
+                        <lb n="9r5=139" break="no"/>tt’ āvattampa-cū<hi rend="grantha">tra</hi>ttu pūṇiya-vattavaṉ· ceṭṭa<hi rend="grantha">śarma</hi>ṉum <g ref="sym:flourish-taperOut" type="punctuation">.</g><!--CHECK SYMBOL encoding and content, was "gomutra"-->			
                         
                     </p>	
                     

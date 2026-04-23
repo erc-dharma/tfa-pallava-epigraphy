@@ -56,19 +56,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide"
-                key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib"
-                    matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part"
-                    matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -94,7 +88,7 @@
                         <l n="a">Evaṁ vāstv abhavat· mahat· pravigatan nāmnā ca jāty-ādinā</l> 
                         <l n="b">yenāsmin· bahubhir yyathāgama-vidhair ggrāme prayo<milestone n="2" unit="zone" type="pagelike" break="no"/>gānvitai<orig>ś</orig></l>
                         <l n="c">śrīmat·-pāṭaka-vāsinā kṛta-dhiyā takṣṇā sadā vāgminā</l> 
-                        <l n="d">tenedam· <milestone n="3" unit="zone" type="pagelike"/> parameśvareṇa mahatā yo v<choice><sic>a</sic><corr>ā</corr></choice>stuno bhāskaraḥ <g type="gomutraFinal">.</g></l>
+                        <l n="d">tenedam· <milestone n="3" unit="zone" type="pagelike"/> parameśvareṇa mahatā yo v<choice><sic>a</sic><corr>ā</corr></choice>stuno bhāskaraḥ <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                     </lg>
                     
                 </div>
@@ -121,7 +115,7 @@
                         
                         <app loc="A1">
                             <lem>svasti śrī</lem>
-                            <rdg source="bib:SubrahmanyaAiyer1928_01">svasti śrī <g type="ddanda">.</g></rdg><!--Check markup for punctuation-->
+                            <rdg source="bib:SubrahmanyaAiyer1928_01">svasti śrī <g ref="sym:doubleBar" type="punctuation">.</g></rdg><!--Check markup for punctuation-->
                         </app> 
                         
                         <app loc="A1">
@@ -139,7 +133,7 @@
                         
                         <app loc="B1">
                             <lem>svasti śrī</lem>
-                            <rdg source="bib:SubrahmanyaAiyer1928_01">svasti śrī <g type="ddanda">.</g></rdg><!--Check markup for punctuation-->
+                            <rdg source="bib:SubrahmanyaAiyer1928_01">svasti śrī <g ref="sym:doubleBar" type="punctuation">.</g></rdg><!--Check markup for punctuation-->
                         </app>
                         
                         <app loc="B1">
@@ -154,7 +148,7 @@
                         
                         <app loc="B1">
                             <lem>varaḥ</lem>
-                            <rdg source="bib:SubrahmanyaAiyer1928_01">varaḥ <g type="ddanda">.</g></rdg><!--Check markup for punctuation-->
+                            <rdg source="bib:SubrahmanyaAiyer1928_01">varaḥ <g ref="sym:doubleBar" type="punctuation">.</g></rdg><!--Check markup for punctuation-->
                         </app> 
                         
                     </listApp>

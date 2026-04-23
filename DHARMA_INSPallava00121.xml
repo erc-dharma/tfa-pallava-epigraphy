@@ -44,7 +44,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -56,16 +56,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -104,7 +101,7 @@
                     
                     <ab>
                         <pb n="1v"/>
-                        <lb n="1v1=1"/>svasti śrīḥ namaś śivāya <g type="ddanda">.</g><g type="dashLong">.</g>
+                        <lb n="1v1=1"/>svasti śrīḥ namaś śivāya <g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:dash-long" type="punctuation">.</g>
                     </ab>
                     
                     <lg n="1" met="śārdūlavikrīḍita">
@@ -113,7 +110,7 @@
                             <lb n="1v2=2" break="no"/>ntyam akṣayam iti prodgīyamānaM budhaiḥ</l>
                         <l n="c">saṁyamy-endriya-vāhinīṁ yati-varair yyan mṛ<unclear>g</unclear>yate santa
                             <lb n="1v3=3" break="no"/>ta<unclear>M</unclear></l>
-                        <l n="d">tejas tat param-ārttha-sac cirataran niśreyasāy=āstu va<supplied reason="omitted">ḥ</supplied> <g type="ddanda">.</g><g type="dashLong">.</g></l>
+                        <l n="d">tejas tat param-ārttha-sac cirataran niśreyasāy=āstu va<supplied reason="omitted">ḥ</supplied> <g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:dash-long" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="2" met="śārdūlavikrīḍita">
@@ -149,7 +146,7 @@
                         <l n="b">ga
                             <lb n="10" break="no"/>te<unclear>ṣu vaṁśye</unclear>ṣv atha pārtthiveṣu</l>
                         <l n="c">vaṁśasya cū<choice><sic>ḷ</sic><corr>ḍ</corr></choice>āmaṇir āvir āsīd</l>
-                        <l n="d">bhartt-endirāyā Iva kāḷa-bharttā <g type="ddanda">.</g><g type="dashLong">.</g></l>
+                        <l n="d">bhartt-endirāyā Iva kāḷa-bharttā <g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:dash-long" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="6" met="upajāti">
@@ -165,7 +162,7 @@
                         <l n="b">skandaśiṣyas tato <supplied reason="subaudible">’</supplied>bhavat</l>
                         <l n="c"><supplied reason="omitted">d</supplied>vijānāṁ ghaṭikāṁ rājñas</l>
                         <l n="d">satya
-                            <lb n="13" break="no"/>senā<choice><sic>t</sic><corr>j</corr></choice>jahāra yaḥ <g type="danda">.</g></l>
+                            <lb n="13" break="no"/>senā<choice><sic>t</sic><corr>j</corr></choice>jahāra yaḥ <g ref="sym:bar" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="8" met="upendravajrā">
@@ -260,7 +257,7 @@
                             <lb n="28" break="no"/>sya tejasvinaḥ</l>
                         <l n="c">Ākhyām aggaḷanimmaṭ-īti <supplied reason="omitted">da</supplied>dhatī śuddh-ānvavāy-ocitā</l>
                         <l n="d">bharttus tasya bhuvo
-                            <lb n="29"/>babhūva mahiṣī gaur-īva jetuḥ pur<choice><sic>a</sic><corr>ā</corr></choice>M <g type="danda">.</g><g type="dashLong">.</g></l>
+                            <lb n="29"/>babhūva mahiṣī gaur-īva jetuḥ pur<choice><sic>a</sic><corr>ā</corr></choice>M <g ref="sym:bar" type="punctuation">.</g><g ref="sym:dash-long" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="19" met="indravajrā">
@@ -268,16 +265,16 @@
                         <l n="b">sandhy-eva te
                             <lb n="30" break="no"/>jasvinam ambik-eva</l>
                         <l n="c">kumāram atyadbhuta-śakti-yuktaṁ</l>
-                        <l n="d">yathā jayantaṁ jayinaṁ śac-īva <g type="danda">.</g><g type="dashLong">.</g></l>
+                        <l n="d">yathā jayantaṁ jayinaṁ śac-īva <g ref="sym:bar" type="punctuation">.</g><g ref="sym:dash-long" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="20" met="vasantatilakā">
                         <l n="a">Utkhāta
                             <lb n="31" break="no"/>-khaḍga-nihata-dvipa-kumbha-mukta</l>
-                        <l n="b">muktāphalaprapāsite samar-āṁgaṇe yaḥ <unclear><g type="danda">.</g></unclear></l>
+                        <l n="b">muktāphalaprapāsite samar-āṁgaṇe yaḥ <unclear><g ref="sym:bar" type="punctuation">.</g></unclear></l>
                         <l n="c">śatrū
                             <lb n="32" break="no"/>n nihatya samavāpad ananya-la<choice><sic>v</sic><corr>bh</corr></choice>yāṁ</l>
-                        <l n="d">rājya-<surplus>ś</surplus>śriyaṁ sva-bhuja-vikrama-darppa-śālī <g type="danda">.</g><g type="dashLong">.</g></l>
+                        <l n="d">rājya-<surplus>ś</surplus>śriyaṁ sva-bhuja-vikrama-darppa-śālī <g ref="sym:bar" type="punctuation">.</g><g ref="sym:dash-long" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="21" met="śārdūlavikrīḍita">
@@ -298,7 +295,7 @@
                             <lb n="37" break="no"/>bhaṭṭ-ābhidhāna<choice><orig>ś</orig><reg>ḥ</reg></choice></l>
                         <l n="c">śrī-kaṭṭu-p-pa<seg xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">ḷḷi</seg>-nāmni śruta-vina<supplied reason="omitted">ya</supplied>-dharas tuṁga-kailāsa-kalpaṁ</l>
                         <l n="d">grā
-                            <lb n="38" break="no"/>me bāl-endu-mauler <surplus>bh</surplus>bhavanam akṛta yad-bhakti-yoga-pra<unclear>tī</unclear>taḥ <g type="danda">.</g><g type="dashLong">.</g></l>
+                            <lb n="38" break="no"/>me bāl-endu-mauler <surplus>bh</surplus>bhavanam akṛta yad-bhakti-yoga-pra<unclear>tī</unclear>taḥ <g ref="sym:bar" type="punctuation">.</g><g ref="sym:dash-long" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="23" met="upajāti">
@@ -307,7 +304,7 @@
                         <l n="b">ggirām iv-eśaś śivadāsa-nāmā</l>
                         <l n="c">māt-ābhavad yasya guṇais sama<choice><sic>ś</sic><corr>g</corr></choice>rai
                             <lb n="40" break="no"/>r</l>
-                        <l n="d">ggarīyasī <unclear>dre</unclear>ṇamaṇir mmah-īva <g type="danda">.</g><g type="dashLong">.</g></l>
+                        <l n="d">ggarīyasī <unclear>dre</unclear>ṇamaṇir mmah-īva <g ref="sym:bar" type="punctuation">.</g><g ref="sym:dash-long" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="24" met="upajāti">
@@ -324,7 +321,7 @@
                         <l n="b">pūjā-satr-ādi-karmaṇe</l>
                         <l n="c" enjamb="yes">so <supplied reason="subaudible">’</supplied>dā<choice><sic>g</sic><corr>d</corr></choice> grāman ti<seg xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">ru-k-kāṭṭu-p</seg></l>
                         <l n="d">-<seg xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">paḷḷi</seg>-nāmāna
-                            <lb n="43" break="no"/>m īśvaraḥ <g type="dashLong">.</g></l>
+                            <lb n="43" break="no"/>m īśvaraḥ <g ref="sym:dash-long" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="26" met="upajāti">
@@ -332,7 +329,7 @@
                         <l n="b">-cū<choice><sic>ḷ</sic><corr>ḍ</corr></choice>ā-maṇir vviśruta-vikrama-śrīḥ</l>
                         <l n="c">dhīraḥ kumā
                             <lb n="44" break="no"/>rāṁkuśa-nāmadheyas</l>
-                        <l n="d">tyāgena rādheya-samaḥ kṛta-jñaḥ <g type="danda">.</g><g type="dashLong">.</g></l>
+                        <l n="d">tyāgena rādheya-samaḥ kṛta-jñaḥ <g ref="sym:bar" type="punctuation">.</g><g ref="sym:dash-long" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="27" met="anuṣṭubh">
@@ -341,7 +338,7 @@
                             <pb n="4r"/>
                             <lb n="4r1=45" break="no"/><seg xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">m</seg>pa-nāmā mahīpateḥ</l>
                         <l n="c" enjamb="yes">Agradatt-ānvaya-vyoma</l>
-                        <l n="d">-śaran-nīhāradīdhiti<supplied reason="omitted">ḥ</supplied> <g type="danda">.</g><g type="dashLong">.</g></l>
+                        <l n="d">-śaran-nīhāradīdhiti<supplied reason="omitted">ḥ</supplied> <g ref="sym:bar" type="punctuation">.</g><g ref="sym:dash-long" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="28" met="anuṣṭubh">
@@ -350,7 +347,7 @@
                         <l n="b">par-ārtthāny eva yasya saḥ</l>
                         <l n="c">māheśvaro manodhīraḥ praśastiṁ</l>
                         <l n="d">kṛta
-                            <lb n="47" break="no"/>vān im<unclear>ām·</unclear> <g type="danda">.</g><g type="dashLong">.</g> 
+                            <lb n="47" break="no"/>vān im<unclear>ām·</unclear> <g ref="sym:bar" type="punctuation">.</g><g ref="sym:dash-long" type="punctuation">.</g> 
                         </l>
                     </lg>
                     
@@ -364,7 +361,7 @@
                         <lb n="4v1="/>...
                         
                         <pb n="5r"/>
-                        <lb n="5r1=63"/>kuttevatāṉamāy <hi rend="grantha">sarvva-parihāram-āka parada</hi>t=ti ceṉṟatu <g type="gomutraFinal">.</g>
+                        <lb n="5r1=63"/>kuttevatāṉamāy <hi rend="grantha">sarvva-parihāram-āka parada</hi>t=ti ceṉṟatu <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                     </p>
                                        
                     
@@ -375,7 +372,7 @@
                         <l n="c">hara-caraṇa-saroj-<unclear>o</unclear>
                             <lb n="5r3=65" break="no"/>ttaṁsa-cihnena mūrddhnā</l>
                         <l n="d">
-                            mukuḷita-kara-<unclear>pa</unclear><choice><sic>t</sic><corr>d</corr></choice>mo vandate nandivarmmā <g type="gomutraFinal">.</g></l>
+                            mukuḷita-kara-<unclear>pa</unclear><choice><sic>t</sic><corr>d</corr></choice>mo vandate nandivarmmā <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="30" met="Śālinī">
@@ -384,20 +381,20 @@
                         <l n="b">bhūyo bhūyaḥ prārtthayaty eṣa rāmaḥ</l>
                         <l n="c">sāmānyo <supplied reason="subaudible">’</supplied>’yan dharmma-setu<supplied reason="omitted">r</supplied> nnṛpāṇāṁ</l>
                         <l n="d">kā
-                            <lb n="5r5=67" break="no"/>le kāle p<unclear>ā</unclear>lanīyo bhava<choice><sic>n</sic><corr>d</corr></choice>bhiḥ <g type="danda">.</g><g type="dashLong">.</g></l>
+                            <lb n="5r5=67" break="no"/>le kāle p<unclear>ā</unclear>lanīyo bhava<choice><sic>n</sic><corr>d</corr></choice>bhiḥ <g ref="sym:bar" type="punctuation">.</g><g ref="sym:dash-long" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="31" met="Āryā">
                         <l n="a">kara-kauśala-kṛta-yaśasā</l>
                         <l n="b"><seg xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">ciṟṟa</seg>ya-putre
                             <lb n="5r6=68" break="no"/>ṇa patra-saṁgho <supplied reason="subaudible">’</supplied>yaM</l>
-                        <l n="c"> <supplied reason="undefined"><g type="danda">.</g></supplied> likhita<choice><sic>ṁ</sic><corr>ḥ</corr></choice> peraya-nāmnā</l>
-                        <l n="d">sthapati-kula-vyoma-candreṇa <g type="danda">.</g><g type="dashLong">.</g></l>
+                        <l n="c"> <supplied reason="undefined"><g ref="sym:bar" type="punctuation">.</g></supplied> likhita<choice><sic>ṁ</sic><corr>ḥ</corr></choice> peraya-nāmnā</l>
+                        <l n="d">sthapati-kula-vyoma-candreṇa <g ref="sym:bar" type="punctuation">.</g><g ref="sym:dash-long" type="punctuation">.</g></l>
                     </lg>
                     
                     <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         kacci-p
-                        <lb n="69" break="no"/>-pēṭṭai-m-maṉai-c-cēri-k kā<hi rend="grantha">ṣṭha</hi>kāri makaṉ perayaṉ Eḻuttu <g type="danda">.</g><g type="dashLong">.</g>           
+                        <lb n="69" break="no"/>-pēṭṭai-m-maṉai-c-cēri-k kā<hi rend="grantha">ṣṭha</hi>kāri makaṉ perayaṉ Eḻuttu <g ref="sym:bar" type="punctuation">.</g><g ref="sym:dash-long" type="punctuation">.</g>           
                     </p>
                     
                     <pb n="5v"/>

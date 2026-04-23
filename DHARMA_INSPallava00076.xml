@@ -56,16 +56,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -128,7 +125,7 @@
                         <l n="b"><unclear>d</unclear>ānām·bu-bhāra-vinama<choice><sic>n</sic><corr>t</corr></choice>-kara-pallavānām</l>
                         <l n="c">samyag-guṇ<choice><sic>ā</sic><corr>o</corr></choice>ccaya-n<choice><sic>ī</sic><corr>i</corr></choice>rasta-vipal-la
                             <lb n="=8" break="no"/>vānā<choice><sic>ma</sic><corr>ṁ </corr></choice></l>
-                        <l n="d"><add place="below">va</add>ṁśaś cirañ jagati tiṣṭhatu pallavānām· <g type="danda"/></l>
+                        <l n="d"><add place="below">va</add>ṁśaś cirañ jagati tiṣṭhatu pallavānām· <g ref="sym:bar" type="punctuation">.</g></l>
                     </lg>
                     
                     <p> 
@@ -198,7 +195,7 @@
                         <l n="b">alaṁghyo balānām anūno guṇānāṁ</l>
                         <l n="c">śaraṇyaḥ prajānāṁ
                             <lb n="=31"/>satāṁ kalpa-v<choice><sic>ra</sic><corr>ṛ</corr></choice>kṣaḥ</l>
-                        <l n="d">kṛtī nandivarmmā patiḥ pallav<choice><sic>a</sic><corr>ā</corr></choice>n<choice><sic>a</sic><corr>ā</corr></choice>m· <g type="danda"/></l>
+                        <l n="d">kṛtī nandivarmmā patiḥ pallav<choice><sic>a</sic><corr>ā</corr></choice>n<choice><sic>a</sic><corr>ā</corr></choice>m· <g ref="sym:bar" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="5" met="uncertain"><!--bṛhatī acc. to Brocquet; mattamayūrā, it seem -->
@@ -218,12 +215,12 @@
                             <lb n="=35" break="no"/>ka<choice><sic><unclear>lva</unclear></sic><corr>lpa</corr></choice>m a<choice><sic><unclear>tu</unclear></sic><corr>tra</corr></choice> param etad udāra-k<choice><sic>i</sic><corr>ī</corr></choice>r<surplus>t</surplus>ter</l>
                         <l n="d">yyasya pra<unclear>bhor bha</unclear>vati pa<unclear>lla</unclear>
                             <pb n="3r" break="no"/>
-                            <lb n="3r1=36" break="no"/>va-ketanasya <g type="danda"/></l>
+                            <lb n="3r1=36" break="no"/>va-ketanasya <g ref="sym:bar" type="punctuation">.</g></l>
                     </lg>
                     
                     <p>
                         narapatir adhipatir avaner nnayabharaḥ pallavamallo na
-                        <lb n="=37" break="no"/>ndivarmmā tasya putro babhūva <g type="danda"/>
+                        <lb n="=37" break="no"/>ndivarmmā tasya putro babhūva <g ref="sym:bar" type="punctuation">.</g>
                     </p>
                     <p>
                         tasmin mah<choice><sic>i</sic><corr>ī</corr></choice>ṁ
@@ -255,7 +252,7 @@
                         <lb n="=59" break="no"/><choice><sic>ṇṇ</sic><corr>rṇ</corr></choice>a-sa<choice><sic>ndhe</sic><corr>ṁca</corr></choice>yaṁ kuñjarān api yo jagrāha kāḷī-bhagavat<choice><sic>i</sic><corr>ī</corr></choice>-pari
                         <pb n="4r" break="no"/>
                         <lb n="4r1=60" break="no"/>pālita-kāḷidu<unclear>rggaṁ</unclear> vi<unclear>ghaṭa</unclear><choice><sic>yitvā</sic><corr>yya</corr></choice> maṇṇaiku<choice><sic>ṭ</sic><corr>ḍ</corr></choice>i-grā<unclear>me</unclear> pāṇḍya-senāṁ
-                        <lb n="=61"/>vijitavā<choice><sic>na</sic><corr>n·</corr></choice> Udaya<unclear>ca</unclear>ndr<choice><sic><unclear>ā</unclear></sic><corr>a</corr></choice>>khya-dhīra-varaḥ para-cakra-daṇḍī svāmine vijñapta
+                        <lb n="=61"/>vijitavā<choice><sic>na</sic><corr>n·</corr></choice> Udaya<unclear>ca</unclear>ndr<choice><sic><unclear>ā</unclear></sic><corr>a</corr></choice>&gt;khya-dhīra-varaḥ para-cakra-daṇḍī svāmine vijñapta
                         <lb n="=62" break="no"/>vā<choice><sic>na</sic><corr>n·</corr></choice>
                     </p>
                     
@@ -279,7 +276,7 @@
                     <p>
                         <lb n="=70"/>Asya pratīc<choice><sic>a</sic><corr>yaḥ</corr> </choice>s<choice><sic>i</sic><corr>ī</corr></choice>mā lohita-giris tasmād uttarato gatvā ve
                         <lb n="=71" break="no"/>ḷāla-śikharāt p<choice><sic>a</sic><corr>u</corr></choice>rastāt kṛṣṇaśilaśiloccayāt paścime rau
-                        <lb n="=72" break="no"/>hiṇaguhā <g type="danda"/>
+                        <lb n="=72" break="no"/>hiṇaguhā <g ref="sym:bar" type="punctuation">.</g>
                     </p>
                     <p>
                         paścimottaratas sīmā sinduvārahra
@@ -295,7 +292,7 @@
                     </p>
                     <p>
                         Evañ catus-sīmāntarā<supplied reason="omitted">ṁ</supplied> nad<choice><sic>i</sic><corr>ī</corr></choice>-kulyāj<choice><sic>ā</sic><corr>a</corr></choice>la-bho
-                        <lb n="4v3=75" break="no"/>gyāṁ s<choice><sic>u</sic><corr>a</corr></choice>-sar<surplus>v</surplus>va-parihār<choice><sic>a</sic><corr>ā</corr></choice><choice><sic>m· A</sic><corr>m a</corr></choice>nyān adha<reg>r</reg>mma<unclear>-kṛ</unclear>ty<choice><sic><unclear>ā</unclear></sic><corr>a</corr></choice>n vināśya bhūmin dattavān· <g type="danda">.</g>
+                        <lb n="4v3=75" break="no"/>gyāṁ s<choice><sic>u</sic><corr>a</corr></choice>-sar<surplus>v</surplus>va-parihār<choice><sic>a</sic><corr>ā</corr></choice><choice><sic>m· A</sic><corr>m a</corr></choice>nyān adha<reg>r</reg>mma<unclear>-kṛ</unclear>ty<choice><sic><unclear>ā</unclear></sic><corr>a</corr></choice>n vināśya bhūmin dattavān· <g ref="sym:bar" type="punctuation">.</g>
                     </p>
                     <p>
                         <list>
@@ -389,7 +386,7 @@
                                 <lb n="5v3=102" break="no"/><choice><sic>t</sic><corr>d</corr></choice>bhavāyaiko bhāgaḥ</item>
                             <item>vai<choice><sic>j</sic><corr>d</corr></choice>ya-bhāgaś ca</item>
                             <item>gaṁga-puravāsi<choice><sic><unclear>na</unclear></sic><corr>no</corr></choice> droṇaśreṣṭhiraṇa-putrasya re
-                                <lb n="5v4=103" break="no"/>vati-nāmnaḥ paramamāheśvarasya dvau bhāgau <g type="danda"/></item></list>
+                                <lb n="5v4=103" break="no"/>vati-nāmnaḥ paramamāheśvarasya dvau bhāgau <g ref="sym:bar" type="punctuation">.</g></item></list>
                     </p>
                     
                     <lg n="7" met="anuṣṭubh">
@@ -405,7 +402,7 @@
                         <l n="b">kavi
                             <lb n="5v6=105" break="no"/><choice><sic>tva</sic><corr>s tu</corr></choice> parameśvara<supplied reason="omitted">ḥ</supplied></l>
                         <l n="c">praśasteḥ kavitāñ cakre</l>
-                        <l n="d">sa medhāvi-kulo<choice><sic>t</sic><corr>d</corr></choice>bhavaḥ <g type="ddanda">.</g> <g type="circle">.</g><g type="circle">.</g><g type="pc">.</g></l>
+                        <l n="d">sa medhāvi-kulo<choice><sic>t</sic><corr>d</corr></choice>bhavaḥ <g ref="sym:doubleBar" type="punctuation">.</g> <g ref="sym:circle" type="punctuation">.</g><g ref="sym:circle" type="punctuation">.</g><g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--></l>
                     </lg>
                     
                     <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">                        
@@ -418,7 +415,7 @@
                     </p>
                     <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         <lb n="5v9=108"/>Ivv-iraṇṭ<choice><sic>u</sic><corr>ū</corr></choice>rōmuṅ kūṭi y-onṟānamaiyil Itan mē<unclear>l</unclear>-p-paṭṭatu Or<choice><sic>u</sic><corr>ū</corr></choice>r-āy v<unclear>ā</unclear>
-                        <lb n="5v10=109" break="no"/>ḻvōm ānom <g type="circle">.</g><g type="circle">.</g><g type="pc">.</g>
+                        <lb n="5v10=109" break="no"/>ḻvōm ānom <g ref="sym:circle" type="punctuation">.</g><g ref="sym:circle" type="punctuation">.</g><g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
                     </p>
                     
                 </div>
@@ -445,7 +442,7 @@
                         
                         <app loc="2">
                             <lem>°dvayamumā°</lem>
-                            <note><ptr target="bib:Hultzsch1895_01"/> notes: <quote>Separate <foreign>ºdvayam <g type="danda"/> umāº</foreign>.</quote></note>
+                            <note><ptr target="bib:Hultzsch1895_01"/> notes: <quote>Separate <foreign>ºdvayam <g ref="sym:bar" type="punctuation">.</g> umāº</foreign>.</quote></note>
                         </app>
                         
                         <app loc="7">
@@ -502,7 +499,7 @@
                         
                         <app loc="73">
                             <lem>°s<choice><sic>i</sic><corr>ī</corr></choice>mād°</lem>
-                            <note ><ptr target="bib:Hultzsch1895_01"/> notes: <quote>Read <foreign>sīmāº</foreign>. Here and in line 68 f. the incorrect masculine <foreign>sīma</foreign> is used instead of <foreign>sīmā</foreign> or <foreign>sīman</foreign>.</quote></note>
+                            <note><ptr target="bib:Hultzsch1895_01"/> notes: <quote>Read <foreign>sīmāº</foreign>. Here and in line 68 f. the incorrect masculine <foreign>sīma</foreign> is used instead of <foreign>sīmā</foreign> or <foreign>sīman</foreign>.</quote></note>
                         </app>
                         
                         <app loc="86">
@@ -511,7 +508,7 @@
                         </app>
                         
                         <app loc="105">
-                            <lem><g type="ddanda">.</g></lem>
+                            <lem><g ref="sym:doubleBar" type="punctuation">.</g></lem>
                             <note><ptr target="bib:Hultzsch1895_01"/> notes: <quote>In the original, this sign of punctuation looks like a double <foreign xml:lang="tam-Latn">ṟa</foreign>.</quote></note>
                         </app>
                         

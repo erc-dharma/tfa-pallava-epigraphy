@@ -63,19 +63,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide"
-                key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib"
-                    matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part"
-                    matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -105,8 +99,8 @@
                     Emm<choice><unclear>ū</unclear><unclear>u</unclear></choice>r mē<supplied reason="omitted">ṟ</supplied>kku niṉṟum n‡ālān teruvu telkil aṅkāṭikkēy U<choice><unclear>r</unclear><unclear>ḻ</unclear></choice>uva‡ppukka vaḻiyiṉ mēṟ
                     <lb n="3" break="no"/><unclear>kum ātaṇi</unclear>maṅkalaviti teṉ-ciṟakil kiḻakkaṭaiya‡p peruṅkuṟi-y <hi rend="grantha">sabhai</hi>yōm mutal-āy n<unclear>ā</unclear>‡lu maṉai<choice><orig>yy</orig><reg>y</reg></choice>ilum kiḻa
                     <lb n="4" break="no"/>kkaṭaiya <unclear>Oru</unclear> maṉai-<choice><orig>yy</orig><reg>y</reg></choice> Añ-kō<choice><orig>ll</orig><reg>l</reg></choice>-uḷḷa maṉai<choice><orig>yy</orig><reg>y</reg></choice>il ‡ telkil aṅkāṭi-c caṭṭi makaṉ pu‡liyaṉukku viṟṟu ki
-                    <lb n="5" break="no"/>ḻakkaṭaiya nālu kōlum n<choice><orig>i</orig><reg>ī</reg></choice>kki-y ‡ niṉṟa Oru kōlum I<unclear>tiṉ</unclear> Ōṭai-y Aṭai‡nta mēlai-y m<choice><unclear>ū</unclear><unclear>u</unclear></choice>ṉṟu maṉaiy<unclear>u</unclear>m<surplus>u</surplus> Icca <g type="dash"/>          	
-                    <lb n="6" break="no"/>ṭṭi makaṉ puliyaṉukku viṟṟa nāl k‡ōlukkum maṟutalai-y Āka kurava-ci<supplied reason="omitted">ri</supplied> Irā<hi rend="grantha">ma</hi>-tēva‡-<hi rend="grantha">bha</hi>ṭṭar pakkal Im-maṉaikaḷ <unclear>O</unclear>ṭum <g type="dash"/>
+                    <lb n="5" break="no"/>ḻakkaṭaiya nālu kōlum n<choice><orig>i</orig><reg>ī</reg></choice>kki-y ‡ niṉṟa Oru kōlum I<unclear>tiṉ</unclear> Ōṭai-y Aṭai‡nta mēlai-y m<choice><unclear>ū</unclear><unclear>u</unclear></choice>ṉṟu maṉaiy<unclear>u</unclear>m<surplus>u</surplus> Icca <g ref="sym:dash" type="punctuation">.</g>          	
+                    <lb n="6" break="no"/>ṭṭi makaṉ puliyaṉukku viṟṟa nāl k‡ōlukkum maṟutalai-y Āka kurava-ci<supplied reason="omitted">ri</supplied> Irā<hi rend="grantha">ma</hi>-tēva‡-<hi rend="grantha">bha</hi>ṭṭar pakkal Im-maṉaikaḷ <unclear>O</unclear>ṭum <g ref="sym:dash" type="punctuation">.</g>
                     <lb n="7"/>Aṭaiya vilaikku koṇṭa Oru m‡aṉaiyum Āy In-nālē-y Oru kōl maṉai‡yum Ivaiy <hi rend="grantha">sabhai</hi>yōmukkē-y
                     <lb n="8"/>vēṇṭuvaṉa Ātaṉamai<choice><orig>y‡y</orig><reg>y‡</reg></choice>il Im-maṉaikaḷ Ārum viṟkavum piṟa‡rkku paṇik<unclear>k</unclear>avum peṟātār ākavum
                 </p>
@@ -122,7 +116,7 @@
                         <lb n="11" break="no"/>bhai</hi>yōm 
                 </p>
                 <p>
-                    paṇippa Eḻutiṉēṉ tiru<supplied reason="omitted">va</supplied>ṭikaḷ <g type="gomutraFinal">.</g>
+                    paṇippa Eḻutiṉēṉ tiru<supplied reason="omitted">va</supplied>ṭikaḷ <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                 </p>
                 
             </div>

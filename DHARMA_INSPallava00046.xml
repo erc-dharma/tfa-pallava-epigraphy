@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -57,16 +57,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -104,7 +101,7 @@
                         <l n="c"><unclear>divyo vekṣyo mukunda</unclear>-pra
                             <lb n="1v3=4" break="no"/><unclear>bhṛ</unclear>ti<unclear>bhi</unclear>r amarai<unclear>s sṛṣṭi-kṛn mantra-si</unclear>ddhaḥ</l>
                         <l n="d"><unclear>karttā no mūrtta-vi</unclear>dyā <unclear>vihita-para-ya</unclear>ma-
-                            <lb n="1v4=4" break="no"/>s trāyatāṃ viśva-mūrtti<supplied reason="omitted">ḥ</supplied> <g type="ddanda">.</g></l>
+                            <lb n="1v4=4" break="no"/>s trāyatāṃ viśva-mūrtti<supplied reason="omitted">ḥ</supplied> <g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="2" met="śārdūlavikrīḍita">                        
@@ -114,7 +111,7 @@
                         <l n="c"><unclear>bhūtānāṁ hṛ</unclear>daye<unclear>ṣu cāna</unclear>ya
                             <pb n="2r" break="no"/>
                             <lb n="6" break="no"/>ti yaḥ śaktiṁ kriyā-sādhanīṁ</l>
-                        <l n="d">trayātmā parameśvaras-sa jayati trai-lokya-cūḷā-maṇi<unclear>ḥ</unclear> <g type="ddanda">.</g></l>
+                        <l n="d">trayātmā parameśvaras-sa jayati trai-lokya-cūḷā-maṇi<unclear>ḥ</unclear> <g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="3" met="śārdūlavikrīḍita">                        
@@ -123,7 +120,7 @@
                         <l n="b">mithyā-dāntam adāna-śūram a
                             <lb n="8" break="no"/>nṛta-vyāhāra-jihmānanam·</l>
                         <l n="c">jātaṁ yatra nareśvaran na ś<choice><sic>ru</sic><corr>ṛ</corr></choice>ṇumo yuddheṣu vā vikla<unclear>vam·</unclear></l>
-                        <l n="d"><lb n="9"/>nirvvighna<choice><sic>ḥ</sic><corr>ṁ</corr></choice> pṛthivīn nirītim avatān tat pallavānāṁ kulam· <g type="ddanda">.</g></l>
+                        <l n="d"><lb n="9"/>nirvvighna<choice><sic>ḥ</sic><corr>ṁ</corr></choice> pṛthivīn nirītim avatān tat pallavānāṁ kulam· <g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
                     
                     <p>
@@ -132,7 +129,7 @@
                         
                         <pb n="3r"/>
                         
-                        <pb n="3v"  break="no"/>
+                        <pb n="3v" break="no"/>
                         
                         <pb n="4r" break="no"/>        
                         
@@ -148,7 +145,7 @@
                         <lb n="5r8=56" break="no"/>ta-pallava-parameśvara-gṛha Iha ca deva-karmma-<unclear>na</unclear>va-<supplied reason="omitted">kar</supplied>mma<supplied reason="omitted">rthe</supplied> kūrattācāryya-putra-Ananta
                         
                         <pb n="5v" break="no"/>
-                        <lb n="5v1=57" break="no"/>-śiva-Ācāryya<supplied reason="omitted">ḥ</supplied> <unclear>datta</unclear> Iti <unclear>phu</unclear>llaśarmm<choice><sic>a</sic><corr>ā</corr></choice> dvau putra-<unclear>pautrā</unclear> Ā<choice><sic>ñj</sic><corr>jñ</corr></choice>a<supplied reason="omitted">p</supplied>tāḥ <g type="ddanda">.</g><g type="dashLong">.</g>
+                        <lb n="5v1=57" break="no"/>-śiva-Ācāryya<supplied reason="omitted">ḥ</supplied> <unclear>datta</unclear> Iti <unclear>phu</unclear>llaśarmm<choice><sic>a</sic><corr>ā</corr></choice> dvau putra-<unclear>pautrā</unclear> Ā<choice><sic>ñj</sic><corr>jñ</corr></choice>a<supplied reason="omitted">p</supplied>tāḥ <g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:dash-long" type="punctuation">.</g>
                     </p>
                     
                     <p>
@@ -183,7 +180,7 @@
                                 <lb n="6r3=67" break="no"/>yiṉ kiḻakkum
                             </item>
                             <item>
-                                vaṭa-pāl ellai nāṭṭukkālin teṟkum <supplied reason="undefined"><g type="danda">.</g></supplied>
+                                vaṭa-pāl ellai nāṭṭukkālin teṟkum <supplied reason="undefined"><g ref="sym:bar" type="punctuation">.</g></supplied>
                             </item>
                         </list>
                     </p>
@@ -212,7 +209,7 @@
                         <lb n="7r8=88"/>...
                         
                         <pb n="7v" break="no"/>
-                        <lb n="7v1=89" break="no"/>k-kāt<unclear>·</unclear>tu koṭuk<unclear>·</unclear>ka <g type="gomutraFinal">.</g>
+                        <lb n="7v1=89" break="no"/>k-kāt<unclear>·</unclear>tu koṭuk<unclear>·</unclear>ka <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                         
                     </p> 
                     
@@ -241,14 +238,14 @@
                         <l n="a"><lb n="7v5=93"/>deva-svam br<choice><sic>a</sic><corr>ā</corr></choice>hmaṇa-svañ ca</l>
                         <l n="b">lobhenopahin asti <unclear>ya</unclear><supplied reason="omitted">ḥ</supplied></l>
                         <l n="c"><seg met="====-++="><gap reason="lost" unit="character" quantity="8"/></seg></l>
-                        <l n="d"><seg met="=="><gap reason="lost" unit="character" quantity="2"/></seg> <lb n="7v6=94" break="no"/>cchiṣṭena jīvati <g type="gomutraFinal">.</g></l>
+                        <l n="d"><seg met="=="><gap reason="lost" unit="character" quantity="2"/></seg> <lb n="7v6=94" break="no"/>cchiṣṭena jīvati <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="27" met="anuṣṭubh">
                         <l n="a">bhūmi-dānāt paran dānam</l>
                         <l n="b">na bhūt<choice><sic>o</sic><corr>aṁ</corr></choice> na bhavi<supplied reason="lost">ṣyati</supplied></l>
                         <l n="c"><supplied reason="lost">tasyaiva haraṇāt pāpaṁ</supplied></l>
-                        <l n="d"><supplied reason="lost">na</supplied><lb n="7v7=95"/>bhūt<choice><sic>o</sic><corr>aṁ</corr></choice> na bhaviṣyati <g type="ddanda">.</g> <g type="spiral">.</g> <g type="ddanda">.</g></l>
+                        <l n="d"><supplied reason="lost">na</supplied><lb n="7v7=95"/>bhūt<choice><sic>o</sic><corr>aṁ</corr></choice> na bhaviṣyati <g ref="sym:doubleBar" type="punctuation">.</g> <g ref="sym:spiral" type="punctuation">.</g> <g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
                     
                     <p>...</p>

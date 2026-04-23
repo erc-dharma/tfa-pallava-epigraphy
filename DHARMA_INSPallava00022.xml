@@ -56,19 +56,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide"
-                key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib"
-                    matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part"
-                    matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -85,7 +79,7 @@
                 
                 <div type="textpart" n="A"><head>Initial blessings</head>
                     <p>      
-                        <lb n="A1"/>siddhaM namaḥ <surplus><g type="danda">.</g></surplus> śivāya<surname>ḥ</surname> <g type="ddanda">.</g>
+                        <lb n="A1"/>siddhaM namaḥ <surplus><g ref="sym:bar" type="punctuation">.</g></surplus> śivāya<surname>ḥ</surname> <g ref="sym:doubleBar" type="punctuation">.</g>
                     </p>
                 </div>
                 
@@ -155,13 +149,13 @@
                     <p>
                         <lb n="I1"/>śrī-rudrācaryya-śiṣyeṇa parama
                         <lb n="I2" break="no"/>-māheśva<unclear>re</unclear>ṇa ra<unclear>jñā</unclear> śiṣya
-                        <lb n="I3" break="no"/>-hitārttha<supplied reason="omitted">ṁ</supplied> kṛtāḥ svarāgamāḥ<g type="ddanda">.</g>
+                        <lb n="I3" break="no"/>-hitārttha<supplied reason="omitted">ṁ</supplied> kṛtāḥ svarāgamāḥ<g ref="sym:doubleBar" type="punctuation">.</g>
                     </p>
                 </div>
                 
                 <div type="textpart" n="J" xml:lang="tam-Latn" rendition="class:tamil maturity:83215"><head>Coda 2</head>
                     <p>
-                        <lb n="J1"/>Eṭṭiṟkum Ēḻiṟkum Ivai Uriya <hi rend="grantha">ḥ</hi> <g type="ddanda">.</g><!--check vowel markers-->
+                        <lb n="J1"/>Eṭṭiṟkum Ēḻiṟkum Ivai Uriya <hi rend="grantha">ḥ</hi> <g ref="sym:doubleBar" type="punctuation">.</g><!--check vowel markers-->
                     </p>
                 </div>
                 

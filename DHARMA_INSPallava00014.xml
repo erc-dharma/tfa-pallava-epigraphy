@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -57,16 +57,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -98,7 +95,7 @@
                     
                     <p>
                         <pb n="1v"/>
-                        <fw place="top-left" n="1v"><g type="spiral"/></fw>
+                        <fw place="top-left" n="1v"><g ref="sym:spiral" type="symbol">*</g></fw>
                         <fw place="left" n="1v">1</fw>
                         <lb n="1v1=1"/>jitam bhagavatā svasti
                     </p>
@@ -191,21 +188,21 @@
                     </p>
                     
                     <p>               
-                        Api cātrārṣāḥ ślokāḥ <g type="ddanda">.</g>
+                        Api cātrārṣāḥ ślokāḥ <g ref="sym:doubleBar" type="punctuation">.</g>
                     </p>
                     
                     <lg n="1" met="anuṣṭubh">
                         <l n="a">bhūmi-dā<lb n="6v2=32" break="no"/>nāt paran dānam</l>
                         <l n="b">na bh<choice><sic>u</sic><corr>ū</corr></choice>tan na bhaviṣyati</l>
                         <l n="c">tasyaiva haraṇāt pāpa<supplied reason="omitted">n</supplied></l>
-                        <l n="d">na bh<choice><sic>u</sic><corr>ū</corr></choice>ta<lb n="6v3=33" break="no"/>n na bhaviṣyati <g type="ddanda">.</g></l>
+                        <l n="d">na bh<choice><sic>u</sic><corr>ū</corr></choice>ta<lb n="6v3=33" break="no"/>n na bhaviṣyati <g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="2" met="anuṣṭubh">
                         <l n="a">bahubhir vvasudhā dattā</l>
                         <l n="b">bahubhiś cānupā<unclear reason="eccentric_ductus">l</unclear>itā</l>
                         <l n="c">yasya yasya <pb n="7r"/><lb n="7r1=34"/>yadā bhūmis</l>
-                        <l n="d">tasya tasya tadā <choice><sic>p</sic><corr>ph</corr></choice>alaM <g type="danda">.</g></l>
+                        <l n="d">tasya tasya tadā <choice><sic>p</sic><corr>ph</corr></choice>alaM <g ref="sym:bar" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="3" met="anuṣṭubh">
@@ -221,7 +218,7 @@
                     
                     <p>
                         <lb n="7r3=36"/>prabhos sva-mukhājñāptyā neminā likhitaM 
-                        <g type="danda">.</g><g type="danda">.</g><g type="danda">.</g> <g type="gomutraFinal">.</g>
+                        <g ref="sym:bar" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g> <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                     </p>
                     
                     <pb n="7v"/>

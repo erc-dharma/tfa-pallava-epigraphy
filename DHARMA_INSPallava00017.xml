@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -59,16 +59,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -101,21 +98,21 @@
                         <l n="a" enjamb="yes"><pb n="1v"/><lb n="1v1=1"/>svarggāpava<unclear>r</unclear>gga-praguṇāgra-mārgga</l>
                         <l n="b">-prakāśi-vākyo jaya<lb n="1v2=1" break="no"/>tāj jinendraḥ</l>
                         <l n="c" enjamb="yes">munīndra-devendra-narendra</l>
-                        <l n="d">-vidvad-vandāru-bṛndāraka<lb n="1v3=3" break="no"/>-bṛnda-vandyaḥ <g type="gomutraFinal">.</g></l>
+                        <l n="d">-vidvad-vandāru-bṛndāraka<lb n="1v3=3" break="no"/>-bṛnda-vandyaḥ <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="2" met="śārdūlavikrīḍita">
                         <l n="a">Āsīd ambuja-nābha-nābhi-jala-jād abjāsano<lb n="1v4=4" break="no"/>to <supplied reason="subaudible">’</supplied>ṁgirā</l>
                         <l n="b">gī<reg>r</reg>-vvāṇeśa-gurus tatas tata-matiś śa<lb n="1v5=5" break="no"/>ṁyur bharadvājakaḥ</l>
                         <l n="c">droṇo drauṇir ato ’bha-va-t pu<lb n="1v6=6" break="no"/>ra-ripor aṁśas tataḥ pallavaḥ</l>
-                        <l n="d">śrīmān-nīradhi-nīra-nīlavasa<lb n="1v7=7" break="no"/>nā-kṣmā-vallabhā-vallabhaḥ <g type="ddanda">.</g></l>
+                        <l n="d">śrīmān-nīradhi-nīra-nīlavasa<lb n="1v7=7" break="no"/>nā-kṣmā-vallabhā-vallabhaḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>	
                     
                     <lg n="3" met="pr̥thvī">
                         <l n="a">tataḥ pratata-kīrttiṣu prahata-lo<lb n="1v8=8" break="no"/>ka-śokeṣv iteṣv</l>
                         <l n="b">aśoka-harigupta-rāḍ·-pramukha<lb n="2r1=9" break="no"/>-pallaveṣu kramāt<unclear>·</unclear></l>
                         <l n="c" enjamb="yes">praṇamra-nṛpa-kamra-m<choice><orig>o</orig><reg>au</reg></choice>ly-aruṇa-ratna-ra<lb n="2r2=10" break="no"/>śmy-ātapat</l>
-                        <l n="d">-prabuddha-pada-paṁkajeṣv ajani siṁhavarmmādhipāt <g type="gomutraFinal">.</g></l>
+                        <l n="d">-prabuddha-pada-paṁkajeṣv ajani siṁhavarmmādhipāt <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                     </lg>	
                     
                     <lg n="4" met="upajāti">
@@ -157,7 +154,7 @@
                         <l n="a" enjamb="yes">samasta-śāstra-niṣṇā<pb n="3r" break="no"/><lb n="3r1=25" break="no"/>ta</l>
                         <l n="b">dhiṣaṇo dhiṣaṇopamaḥ</l>
                         <l n="c">mānyo nāmnāpi <lb n="3r2=26"/> medhāvī</l>
-                        <l n="d">praśastiṁ kṛtavān imām· <g type="gomutraFinal">§§§§§§</g></l>
+                        <l n="d">praśastiṁ kṛtavān imām· <g ref="sym:flourish-taperOut" type="connector">§§§§§§</g><!--CHECK SYMBOL: iterate g elements with single § sign--></l>
                     </lg>
                     
                 </div>
@@ -243,7 +240,7 @@
                         In·-nāṉ·k’ el·lai
                         <lb n="5r6=62" break="no"/>-y akattum· Akapaṭ·ṭa <hi rend="grantha">bhūmi</hi>yum· parutti-k kuṉ·ṟi
                         <lb n="5r7=63" break="no"/>l· va<hi rend="grantha">jranandi</hi>-k· kuravar·kkē paḷḷiccantam-āka <hi rend="grantha">parada
-                            <lb n="5r8=64" break="no"/>tti</hi> ceṉṟatu narabhayaṉ āṇat·tiyāl <g type="danda">.</g> {si}<!--update: abbreviation--> <g type="gomutraFinal">§</g> <g type="gomutraFinal">§</g>
+                            <lb n="5r8=64" break="no"/>tti</hi> ceṉṟatu narabhayaṉ āṇat·tiyāl <g ref="sym:bar" type="punctuation">.</g> {si}<!--update: abbreviation--> <g ref="sym:flourish-taperOut" type="connector">§</g> <g ref="sym:flourish-taperOut" type="connector">§</g>
                         
                     </p>
                     

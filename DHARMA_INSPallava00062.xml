@@ -56,16 +56,13 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
 			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
 			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
 					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
 				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
 					<p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
@@ -84,47 +81,47 @@
             	<l n="a"><lb n="1"/><milestone unit="segment" n="1"/>viśvārambhādi-bījād a<supplied reason="omitted">ja</supplied>ni kila kaver aṁ<milestone unit="segment" n="2"/>girā nāma putro</l>
             	<l n="b">vidyeśaṁ sa<unclear>t</unclear>ya-<unclear>p</unclear>ū<supplied reason="lost">ta-t</supplied>r<supplied reason="lost">ida</supplied><unclear>śa-g</unclear>ur<unclear>u</unclear>m abh<choice><sic>u</sic><corr>ū</corr></choice><unclear>t</unclear> tasya śaṁyus tanū<space type="unclassified"/> <milestone unit="segment" n="3"/>jaḥ</l>
             	<l n="c">tat-sūnor jjanma tejonidhir akṛta bharadvāja-nāmno munīndrāN·</l>
-            	<l n="d">droṇa<supplied reason="lost">s t</supplied>e<milestone unit="segment" n="4"/>nodapādi prathita-bhuja-balo dr<choice><orig>o</orig><reg>au</reg></choice>ṇir aṁśaḥ purāreḥ <g type="ddandaOrnate">.</g></l>
+            	<l n="d">droṇa<supplied reason="lost">s t</supplied>e<milestone unit="segment" n="4"/>nodapādi prathita-bhuja-balo dr<choice><orig>o</orig><reg>au</reg></choice>ṇir aṁśaḥ purāreḥ <g ref="sym:doubleBar-ornate" type="punctuation">.</g></l>
             </lg>
          	
          	<lg n="2" met="sragdharā">
          		<l n="a">Aśvatthā<space type="unclassified"/><milestone unit="segment" n="5"/><space type="unclassified"/>mno ’<unclear reason="eccentric_ductus">th</unclear>a tasmān nicita-guru-tapo-nirmma<milestone unit="segment" n="6"/>lād āvir āsīd</l>
             	<l n="b">āmnāyād aṁga-vidyā-visara Iva mahī-valla<space type="unclassified"/><seg met="++-"><gap reason="lost" quantity="3" unit="character"/></seg>vākhyaḥ<space type="feature"/> </l>
             	<l n="c">yasmād eṣa <space type="unclassified"/><seg met="-++"><gap reason="lost" quantity="3" unit="character"/></seg> pathi vihita-padāt pāvane mānanīyo</l>
-            	<l n="d">mandākinyā<supplied reason="omitted">ḥ</supplied> pravā<milestone unit="segment" n="7"/>haḥ śaśina Iva mahān anvayaḥ pallavānāM· <g type="ddandaOrnate">.</g></l>
+            	<l n="d">mandākinyā<supplied reason="omitted">ḥ</supplied> pravā<milestone unit="segment" n="7"/>haḥ śaśina Iva mahān anvayaḥ pallavānāM· <g ref="sym:doubleBar-ornate" type="punctuation">.</g></l>
             </lg>
          	
          	<lg n="3" met="sragdharā">
          		<l n="a">samrājām aśvame<milestone unit="segment" n="8"/><space type="feature"/>dhāvabhṛtha-virajasāṁ bhūbhujāṁ pallavānām</l>
             	<l n="b">aspṛ<milestone unit="segment" n="9"/>ṣṭāpal-lavānāṁ vimalatara-bharadvāja-vaṁśodbhavānāM·</l>
             	<l n="c">keto<milestone unit="segment" n="10"/>r a<choice><sic>t</sic><corr>k</corr></choice>ṣīṇa-bāhu-draviṇa-hṛta-mahī-cakra-vikhyāta-kīrtter</l>
-            	<l n="d">yyo devā<milestone unit="segment" n="11"/>d ekamallād guha Iva para<supplied reason="lost">mād īśvarād ātta-janmā <g type="ddandaOrnate">.</g></supplied></l>
+            	<l n="d">yyo devā<milestone unit="segment" n="11"/>d ekamallād guha Iva para<supplied reason="lost">mād īśvarād ātta-janmā <g ref="sym:doubleBar-ornate" type="punctuation">.</g></supplied></l>
             </lg>
          	
          	<lg n="4" met="vasantatilakā">
          		<l n="a"><seg met="++-+--"><gap reason="lost" quantity="6" unit="character"/></seg> bhuja-ddraviṇāvabhāsī</l>
          		<l n="b">satvo<milestone unit="segment" n="12"/>rjjitaḥ samara-dṛṣṭa-mahā-prabhāvaḥ</l>
          		<l n="c">yo rājasiṁha Iti viśr<unclear>u</unclear><milestone unit="segment" n="13"/>ta-puṇya-kī<unclear>r</unclear>ttir</l>
-         		<l n="d">udvṛtta-śatru-nṛpa-kuñjara-rāja-siṁha<unclear>ḥ <g type="ddandaOrnate">.</g></unclear></l>
+         		<l n="d">udvṛtta-śatru-nṛpa-kuñjara-rāja-siṁha<unclear>ḥ <g ref="sym:doubleBar-ornate" type="punctuation">.</g></unclear></l>
          	</lg>            
          	
          	<lg n="5" met="indravajrā">
          		<l n="a">harttā dvi<milestone unit="segment" n="14"/>ṣad-vargga-samucchrayāṇāṁ</l>
          		<l n="b">karttā ca kalyāṇa-paramparāṇāM<unclear>·</unclear> <space/></l>
          		<l n="c"><milestone unit="segment" n="15"/><space type="feature"/> citte sadā sa<unclear>ṁ</unclear>bhṛta-bhakti-pūte</l>
-         		<l n="d">dhatte padaṁ <milestone unit="segment" n="16"/> yasya mṛgā<unclear>ṁ</unclear>ka-m<choice><sic>o</sic><corr>au</corr></choice>li<supplied reason="omitted">ḥ</supplied> <g type="ddandaOrnate">.</g></l>
+         		<l n="d">dhatte padaṁ <milestone unit="segment" n="16"/> yasya mṛgā<unclear>ṁ</unclear>ka-m<choice><sic>o</sic><corr>au</corr></choice>li<supplied reason="omitted">ḥ</supplied> <g ref="sym:doubleBar-ornate" type="punctuation">.</g></l>
          	</lg>            
          	
          	<lg n="6" met="sragdharā">
          		<l n="a" real="++++-++------++-++-+=">saṁrūḍhāmnāya-mūla-smṛti-vacana-mayāneka-śākhā-samagraḥ</l>
          		<l n="b" real="+-++-++------++-++-+=">śiṣṭāc<choice><sic>a</sic><corr>ā</corr></choice>rai<supplied reason="lost">r</supplied> vv<seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg><seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg>t<choice><unclear>e</unclear><unclear>ai</unclear></choice>ḥ <unclear>pha</unclear>la-kusuma-kṛtākāntim ālamba<milestone unit="segment" n="17"/>mān<choice><sic>ā</sic><corr>a</corr></choice>ḥ</l>
          		<l n="c" real="++++-++------++-++-+=">sad-vṛttāmbho-n<unclear>i</unclear>ṣekair ddruma Iva satata<unclear>n ta</unclear>sya [- - u  -]<seg met="++-+"><gap reason="lost" quantity="4" unit="character"/></seg><milestone unit="segment" n="18"/>yaiś</l>
-         		<l n="d" real="++++-++------++-++-+=">chāy<unclear>ā</unclear>m ṛ<seg met="+-++--"><gap reason="lost" quantity="6" unit="character"/></seg> ja<unclear>ya</unclear>ti kali-yuga-g<unclear>r</unclear>īṣma-tapte ’pi dharmmaḥ <milestone unit="segment" n="19"/> <g type="ddandaOrnate">.</g></l>
+         		<l n="d" real="++++-++------++-++-+=">chāy<unclear>ā</unclear>m ṛ<seg met="+-++--"><gap reason="lost" quantity="6" unit="character"/></seg> ja<unclear>ya</unclear>ti kali-yuga-g<unclear>r</unclear>īṣma-tapte ’pi dharmmaḥ <milestone unit="segment" n="19"/> <g ref="sym:doubleBar-ornate" type="punctuation">.</g></l>
          	</lg>            
          	
          	<lg n="7" met="uncertain">
          		<l n="ab"><unclear>ma</unclear>h<unclear>ī</unclear>bhujā <space type="unclassified"/> maheśvara-cūḷā-maṇinā vinirmmite</l>
-         		<l n="cd">sthiti<milestone unit="segment" n="20"/>m etu maheśvaro maheśvara-cūḷā-maṇi-pallaveśvare <g type="ddandaOrnate">.</g></l>
+         		<l n="cd">sthiti<milestone unit="segment" n="20"/>m etu maheśvaro maheśvara-cūḷā-maṇi-pallaveśvare <g ref="sym:doubleBar-ornate" type="punctuation">.</g></l>
          	</lg>            
          	
          </div>
