@@ -154,7 +154,7 @@
                         <l n="a" enjamb="yes">samasta-śāstra-niṣṇā<pb n="3r" break="no"/><lb n="3r1=25" break="no"/>ta</l>
                         <l n="b">dhiṣaṇo dhiṣaṇopamaḥ</l>
                         <l n="c">mānyo nāmnāpi <lb n="3r2=26"/> medhāvī</l>
-                        <l n="d">praśastiṁ kṛtavān imām· <g ref="sym:flourish-taperOut" type="connector">§§§§§§</g><!--CHECK SYMBOL: iterate g elements with single § sign--></l>
+                        <l n="d">praśastiṁ kṛtavān imām· <g ref="sym:flourish-taperOut" type="connector">§</g><g ref="sym:flourish-taperOut" type="connector">§</g><g ref="sym:flourish-taperOut" type="connector">§</g><g ref="sym:flourish-taperOut" type="connector">§</g><g ref="sym:flourish-taperOut" type="connector">§</g><g ref="sym:flourish-taperOut" type="connector">§</g></l>
                     </lg>
                     
                 </div>
