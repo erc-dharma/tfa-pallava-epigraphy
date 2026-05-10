@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Cāḷuvaṉ Kuppam, time of Atiraṇacaṇda, dedication (Siddhamātr̥kā version)</title>
+                <title>Cāḷuvaṉ Kuppam, Atiraṇacaṇdeśvara cave-temple, dedication (Siddhamātr̥kā version)</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -30,7 +30,7 @@
                     </msIdentifier>
                     <msContents>
                         <summary>
-                           
+                            <p>Dedication of the Atiraṇacaṇdeśvara cave-temple engraved in Grantha alphabet on the right wall (north) before the entrance. Faces the inscription <ref target="DHARMA_INSPallava00064"/> which has almost exactly the same content.</p>
                         </summary>
                     </msContents>
                     <physDesc>
@@ -110,11 +110,17 @@
                 
             </div>
             
-            <div type="apparatus"/>
+            
+            <div type="apparatus">
                 
+            </div>
+                
+            <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
+            </div>
             
-            
-            <div type="commentary"/>
+            <div type="commentary">
+                
+            </div>
                 
             
             
@@ -129,7 +135,7 @@
                     Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 48b).
                 </p>
                 
-                <p>This revised edition by Emmanuel Francis.</p>
+                <p>This revised edition by Emmanuel Francis based on the previous editions and the visual documentation therein, and on autopsy.</p>
                 
                 
                 <listBibl type="primary">

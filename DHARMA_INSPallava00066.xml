@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Cāḷuvaṉ Kuppam, time of Atiraṇacaṇda, temple’s name</title>
+                <title>Cāḷuvaṉ Kuppam, Atiraṇacaṇdeśvara cave-temple, temple’s name</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -30,7 +30,7 @@
                     </msIdentifier>
                     <msContents>
                         <summary>
-                            
+                            <p>Temple’s name engraved above the entrance of the cave-temple in two different alphabets. Complements the two dedication inscriptions in the same two different alphabets (<ref target="DHARMA_INSPallava00064"/> and <ref target="DHARMA_INSPallava00065"/>).</p>
                         </summary>
                     </msContents>
                     <physDesc>
@@ -69,6 +69,9 @@
                 
             </div>
             
+            <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
+                <p>Temple d’Atiraṇacaṇḍa-Pallaveśvara ! Temple d’Atiraṇacaṇḍa-Pallaveśvara !<note>Il faut soit ajouter un -<foreign>m</foreign>, soit interpréter ces composés comme des vocatifs</note></p>
+            </div>
             
             <div type="commentary">
                 
@@ -86,7 +89,7 @@
                     Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 49).
                 </p>
                 
-                <p>This revised edition by Emmanuel Francis.</p>
+                <p>This revised edition by Emmanuel Francis based on previous editions.</p>
                 
                 
                 <listBibl type="primary">

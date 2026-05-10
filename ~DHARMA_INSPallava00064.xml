@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Cāḷuvaṉ Kuppam, time of Atiraṇacaṇda, dedication (Grantha version)</title>
+                <title>Cāḷuvaṉ Kuppam, Atiraṇacaṇdeśvara cave-temple, dedication (Grantha version)</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -30,11 +30,12 @@
                     </msIdentifier>
                     <msContents>
                         <summary>
+                            <p>Dedication of the Atiraṇacaṇdeśvara cave-temple engraved in Grantha alphabet on the left wall (south) before the entrance. Faces the inscription <ref target="DHARMA_INSPallava00065"/> which has almost exactly the same content. The last two lines which are not replicated in <ref target="DHARMA_INSPallava00065"/> are in a script which is shallower and more angular for some letters. This is presumably a slightly later addition by another hand.</p>
                         </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p/>
+                            <p>The letters <foreign>ta</foreign> and <foreign>na</foreign> are almost similar; the loop of <foreign>ta</foreign> is slightly bigger. Medial <foreign>i</foreign> and <foreign>ī</foreign> well differentiated. Miniature <foreign>halanta t</foreign>, <foreign>m</foreign>. The double <foreign>daṇḍa</foreign> is peculiar: the <foreign>daṇḍa</foreign>s are joint in between them on top by a kind of hook. A clear example is found in line 9.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -52,7 +53,7 @@
                 <lg n="1" met="anuṣṭubh">
                     <l n="a"><lb n="1"/>śrīmato <supplied reason="subaudible">’</supplied>tyanta-kāmasya</l>
                     <l n="b">dviṣad-da
-                        <lb n="2" break="no"/>rppāpahāriṇaḥ <supplied reason="undefined"><g ref="sym:bar" type="punctuation">.</g></supplied></l>
+                        <lb n="2" break="no"/>rppāpahāriṇaḥ</l>
                     <l n="c">śrī-nidheḥ kāma
                         <lb n="3" break="no"/>-rāgasya</l>
                     <l n="d">harārādhana-saṁginaḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
@@ -60,7 +61,7 @@
                 <lg n="2" met="anuṣṭubh">
                     <l n="a">
                         <lb n="4"/>Abhiṣeka-jalāpūrṇṇe</l>
-                    <l n="b">citra-ratnāmbujākare <supplied reason="undefined"><g ref="sym:bar" type="punctuation">.</g></supplied></l>
+                    <l n="b">citra-ratnāmbujākare</l>
                     <l n="c">
                         <lb n="5"/>Āste viśāle sumukhaḥ</l>
                     <l n="d">śiras-sarasi śaṁkaraḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
@@ -68,24 +69,24 @@
                 
                 <lg n="3" met="anuṣṭubh">
                     <l n="a"><lb n="6"/>tenedaṁ kāritaṁ śambhor</l>
-                    <l n="b">bhavanaṁ bhūtaye bhuvaḥ <supplied reason="undefined"><g ref="sym:bar" type="punctuation">.</g></supplied></l>
+                    <l n="b">bhavanaṁ bhūtaye bhuvaḥ</l>
                     <l n="c">kai
                         <lb n="7" break="no"/>lāsa-mandara-nibhaṁ</l>
                     <l n="d">bhūbhṛtāṁ mūrdhni tiṣṭhatā <g ref="sym:doubleBar" type="punctuation">.</g></l>
                 </lg>
                 
                 <lg n="4" met="anuṣṭubh">
-                    <l n="a">bhakti-prahe
+                    <l n="a">bhakti-prahve
                         <lb n="8" break="no"/>ṇa manasā</l>
-                    <l n="b">bhavaṁ bhūṣaṇa-līlayā <supplied reason="undefined"><g ref="sym:bar" type="punctuation">.</g></supplied></l>
+                    <l n="b">bhavaṁ bhūṣaṇa-līlayā</l>
                     <l n="c">doṣṇā ca yo bhuvan dhatte
                         <lb n="9"/>jīyāt</l>
-                    <l n="d">sa śrī-bharaś ciram· <g ref="sym:doubleBar" type="punctuation">.</g></l>
+                    <l n="d">sa śrī-bharaś ciraM <g ref="sym:doubleBar" type="punctuation">.</g></l>
                 </lg>
                 
                 <lg n="5" met="uncertain">
                     <l n="a">Atiraṇa-caṇḍaḥ patir avani-bhu<lb n="10" break="no"/>jām</l>
-                    <l n="b">atiraṇa-caṇḍeśvaram idam akarot· <supplied reason="undefined"><g ref="sym:bar" type="punctuation">.</g></supplied></l>
+                    <l n="b">atiraṇa-caṇḍeśvaram idam akaroT</l>
                     <l n="c">Iha giri-tana
                         <lb n="11" break="no"/>yā-guha-gaṇa-sahito</l>
                     <l n="d">niyata-kṛta-ratir bhavatu paśupa
@@ -94,32 +95,42 @@
                 
                 <lg n="6" met=" sragdharā">
                     <l n="a">gurvvīm īśāna-bhaktiṁ śriyam atiśayinīṁ durvvahaṁ bhāram urvvyā</l>
-                    <l n="b"><lb n="13"/>nissāmānyañ ca dānaṁ samam ati<unclear>ra</unclear>ṇa-caṇḍākhyayā yo <unclear>bibhartti <g ref="sym:bar" type="punctuation">.</g></unclear></l>
-                    <l n="c"><lb n="14"/>sthāne nirmmāpite <supplied reason="subaudible">’</supplied>smin vidi<unclear>ta-raṇa</unclear>-jaya-khyātinā tena <unclear>bha</unclear>rttā</l>
+                    <l n="b"><lb n="13"/>nissāmānyañ ca dānaṁ samam ati<unclear>ra</unclear>ṇa-caṇḍākhyayā yo <unclear>bibhartti</unclear></l>
+                    <l n="c"><lb n="14"/>sthāne nirmmāpite <supplied reason="subaudible">’</supplied>smin vidi<supplied reason="lost">ta-raṇa</supplied>-jaya-khyātinā tena <supplied reason="lost">bha</supplied>rttā</l>
                     <l n="d">bhūtānā
-                        <lb n="15" break="no"/>m aṣṭamūrttiś ciram atiraṇa-caṇḍeśvare yātu niṣṭām· <supplied reason="subaudible"><g ref="sym:doubleBar" type="punctuation">.</g></supplied>
-                    </l>
+                        <lb n="15" break="no"/>m aṣṭamūrttiś ciram atiraṇa-caṇḍeśvare yātu niṣṭāM</l>
                 </lg>
                 
                 <p>                    
-                    A<unclear>nugra</unclear>śīla<supplied reason="omitted">ḥ</supplied> <supplied reason="undefined"><g ref="sym:doubleBar" type="punctuation">.</g></supplied>
+                    A<supplied reason="lost">nugra</supplied>śīla<unclear cert="low">ḥ</unclear> <supplied reason="undefined"><g ref="sym:doubleBar" type="punctuation">.</g></supplied>
                 </p>
                 
                 <lg n="7" met="āryā"> 
-                    <l n="ab"><lb n="16"/>yadi na vidhātā bharato yadi na harir nnārado na vā skandaḥ <supplied reason="undefined"><g ref="sym:bar" type="punctuation">.</g></supplied></l>
+                    <l n="ab"><lb n="16"/>yadi na vidhātā bharato yadi na harir nnārado na vā skandaḥ</l>
                     <l n="cd">boddhuṁ ka Iva
                         <lb n="17"/>samartthas saṁgītaṁ kālakālasya <g ref="sym:doubleBar" type="punctuation">.</g></l>
                 </lg>
                 
                 <p>
-                    Oṁ <g ref="sym:doubleBar" type="punctuation">.</g> samara-dhanañjayaḥ saṁgrāma-dhīraḥ <g ref="sym:doubleBar" type="punctuation">.</g> Oṁ <g ref="sym:doubleBar" type="punctuation">.</g>
+                    <g ref="sym:spiral-right" type="symbol">*</g> <g ref="sym:doubleBar" type="punctuation">.</g> samara-dhanañjayaḥ saṁgrāma-dhīraḥ <g ref="sym:doubleBar" type="punctuation">.</g> <g ref="sym:spiral-right" type="symbol">*</g> <g ref="sym:doubleBar" type="punctuation">.</g>
                 </p>
                 
             </div>
             
             
             <div type="apparatus">
-                
+                <listApp>
+                    <app loc="15">
+                        <lem>A<supplied reason="lost">nugra</supplied>śīla<unclear cert="low">ḥ</unclear></lem>
+                        <rdg source="bib:Hultzsch1890_01 bib:Hultzsch1909-1910_01">A<unclear>nugra</unclear>śīla<supplied reason="omitted">ḥ <g ref="sym:doubleBar" type="punctuation">.</g></supplied></rdg>
+                    </app>
+                    <app loc="17">
+                        <lem>v</lem>
+                        <rdg source="bib:Hultzsch1890_01">Oṁ</rdg>
+                        <rdg source="bib:Hultzsch1909-1910_01">Oṁ</rdg>
+                        <note><ptr target="bib:Hultzsch1909-1910_01"/> notes: <quote>Expressed by a symbol.</quote></note>
+                    </app>
+                </listApp>
             </div>
             
             
@@ -127,6 +138,8 @@
                 
             </div>
             
+            <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
+            </div>
             
             <div type="commentary">
                 
@@ -143,7 +156,7 @@
                     Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 48a).
                 </p>
                 
-                <p>This revised edition by Emmanuel Francis.</p>
+                <p>This revised edition by Emmanuel Francis based on the previous editions and the visual documentation therein, and on autopsy.</p>
                 
                 <listBibl type="primary">
                     
