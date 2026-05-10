@@ -30,7 +30,7 @@
                     </msIdentifier>
                     <msContents>
                         <summary>
-                            <p>Dedication of the Atiraṇacaṇdeśvara cave-temple engraved in Grantha alphabet on the left wall (south) before the entrance. Faces the inscription <ref target="DHARMA_INSPallava00065"/> which has almost exactly the same content. The last two lines which are not replicated in <ref target="DHARMA_INSPallava00065"/> are in a script which is shallower and more angular for some letters. This is presumably a slightly later addition by another hand.</p>
+                            <p>Dedication of the Atiraṇacaṇdeśvara cave-temple engraved in Grantha alphabet on the left wall (south) before the entrance. Faces the inscription <ref target="DHARMA_INSPallava00065"/> which has almost exactly the same content but in Siddhamātr̥kā alphabet. The last word of line 15 and lines 16-17 not found in <ref target="DHARMA_INSPallava00065"/> are in a script which is shallower and more angular for some letters. This is presumably a slightly later addition by another hand.</p>
                         </summary>
                     </msContents>
                     <physDesc>
@@ -58,6 +58,7 @@
                         <lb n="3" break="no"/>-rāgasya</l>
                     <l n="d">harārādhana-saṁginaḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
                 </lg>
+                
                 <lg n="2" met="anuṣṭubh">
                     <l n="a">
                         <lb n="4"/>Abhiṣeka-jalāpūrṇṇe</l>
@@ -123,6 +124,7 @@
                     <app loc="15">
                         <lem>A<supplied reason="lost">nugra</supplied>śīla<unclear cert="low">ḥ</unclear></lem>
                         <rdg source="bib:Hultzsch1890_01 bib:Hultzsch1909-1910_01">A<unclear>nugra</unclear>śīla<supplied reason="omitted">ḥ <g ref="sym:doubleBar" type="punctuation">.</g></supplied></rdg>
+                        <note><ptr target="bib:Brocquet1997_01"/> comments on Hultzsch’s reading: <quote>on peut aussi interpréter cette forme comme un vocatif, auquel cas l’addition du <foreign>visarga</foreign> n’est plus nécessaire.</quote></note>
                     </app>
                     <app loc="17">
                         <lem>v</lem>
@@ -135,10 +137,56 @@
             
             
             <div type="translation">
+                <p n="1" rend="stanza">
+                    <l>De l’illustre Atyantakāma qui a rabattu l’orgueil de ses ennemis,</l>
+                    <l>De ce trésor de prospérité qui possède le charme de Kāma et s’adonne au culte de Hara,</l>
+                </p>
+                
+                <p n="2" rend="stanza">
+                    <l>Inondé de l’eau du sacre, couvert de merveilleux joyaux qui sont autant de lotus,</l>
+                    <l>Le large chef est un étang, où réside Śaṃkara au beau visage. </l>
+                </p>
+                
+                <p n="3" rend="stanza">
+                    <l>C’est lui qui fit construire, pour la prospérité de la terre, ce palais de Śambhu,</l>
+                    <l>Pareil au Kailāsa et au Mandara - lui qui se tient sur la tête des souverains (/sur le cime des montagnes).</l>
+                </p>
+                
+                <p n="4" rend="stanza">
+                    <l>Celui qui, en son âme qu’incline la dévotion, porte Bhava, et, telle une parure,</l>
+                    <l>La terre sur son bras, puisse-t-il longtemps être vainqueur, lui qui apporte la prospérité !</l>
+                </p>
+                
+                <p n="5" rend="stanza">
+                    <l>Atiraṇacaṇḍa, le maître des souverains,</l>
+                    <l>A construit cet Atiraṇacaṇḍeśvara :</l>
+                    <l>Accompagné de la fille de la montagne, de Guha et des Gaṇa,</l>
+                    <l>Puisse Paśupati y trouver un plaisir éternel !</l>
+                </p>
+                
+                <p n="6" rend="stanza">
+                    <l>Celui qui, en même temps que le nom d’Atiraṇacaṇḍa, porte une profonde dévotion envers IIśāna, une éminente prospérité, le fardeau difficile à mouvoir de la terre, ainsi qu’une générosité à nulle autre pareille,</l>
+                    <l>Ce seigneur qu’on connaît sous le nom de Raṇajaya a construit cette demeure, Atiraṇacaṇḍeśvara : puisse le maître des créatures aux huit manifestations pour longtemps y élire domicile !</l>
+                </p>
+                <p>
+                    Anugraśīla !
+                </p>
+                
+                <p n="7" rend="stanza">
+                    <l>Si ce n’est le créateur ou Bharata,</l>
+                    <l>Si ce n’est Hari ou Nārada, ou encore Skanda,</l>
+                    <l>Qui, pour ainsi dire, est capable de comprendre</l>
+                    <l>La musique de Kālakāla ?</l>
+                </p>
+                
+                <p>
+                    Oṃ ! Celui qui est un Dhanañjaya au combat ! Celui qui conserve sa fermeté dans la bataille ! Oṃ ! 
+                </p>
                 
             </div>
             
             <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
+                
             </div>
             
             <div type="commentary">
