@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cāḷuvaṉ Kuppam, time of Atiraṇacaṇda, dedication (Siddhamātr̥kā version)</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSPallava00065</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                           
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2026-05-10" status="draft">creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">
+                
+                <lg n="1" met="anuṣṭubh">
+                    <l n="a"><lb n="1"/>śrīmato <supplied reason="subaudible">’</supplied>tyantakāmasya</l>
+                    <l n="b"><lb n="2"/>dviṣad-darppāpahāriṇaḥ <supplied reason="undefined"><g ref="sym:bar" type="punctuation">.</g></supplied></l> 
+                    <l n="c">śrīni<lb n="3" break="no"/>dheḥ kāma-rāgasya</l>
+                    <l n="d">harārādhana-saṁgi
+                    <lb n="4" break="no"/>naḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
+                </lg>
+
+                <lg n="2" met="anuṣṭubh">
+                    <l n="a">Abhiṣeka-jalāpūrṇṇe</l>
+                    <l n="b">citra-ratnāṁ
+                    <lb n="5" break="no"/>bujākare <supplied reason="undefined"><g ref="sym:bar" type="punctuation">.</g></supplied></l>
+                    <l n="c">Āste viśāle sumukhaḥ</l>
+                    <l n="d">śiras sara
+                    <lb n="6" break="no"/>si śaṁkaraḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
+                </lg>
+
+                <lg n="3" met="anuṣṭubh">
+                    <l n="a">tenedaṁ kāritaṁ śambhor</l>
+                    <l n="b">bhava
+                    <lb n="7" break="no"/>naṁ bhūtaye bhuvaḥ <supplied reason="undefined"><g ref="sym:bar" type="punctuation">.</g></supplied></l>
+                    <l n="c">kailāsa-mandara-nibhaṁ</l>
+                    <l n="d">bhūbhṛtāṁ
+                    <lb n="8"/>mūrdhni tiṣṭhatā <g ref="sym:doubleBar" type="punctuation">.</g></l>
+                </lg>
+
+                <lg n="4" met="anuṣṭubh">
+                    <l n="a">bhakti-prahveṇa manasā</l>
+                    <l n="b">bhava<supplied reason="omitted">ṁ</supplied> bhūṣaṇa
+                    <lb n="9" break="no"/>-līlayā <supplied reason="undefined"><g ref="sym:bar" type="punctuation">.</g></supplied></l>
+                    <l n="c">doṣṇā ca yo bhuvan dhatte</l>
+                    <l n="d">jīyāt sa śrī-bharaś ci
+                    <lb n="10" break="no"/>ram· <g ref="sym:doubleBar" type="punctuation">.</g></l>
+                </lg>
+                
+                <lg n="5" met="uncertain">
+                    <l n="a">Atiraṇa-caṇḍaḥ patir avani-bhujām</l>
+                    <l n="b">atira
+                    <lb n="11" break="no"/>ṇa-caṇḍeśvaram idam akarot· <supplied reason="undefined"><g ref="sym:bar" type="punctuation">.</g></supplied></l>
+                    <l n="c">Iha giri-tanayā-gu
+                    <lb n="12" break="no"/>ha-gaṇa-sahito</l>
+                    <l n="d">niyata-kṛta-ratir bhavatu paśupatiḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
+                </lg>
+                
+                <lg n="6" met=" sragdharā">
+                    <l n="a">
+                    <lb n="13"/>gurvvīm īśāna-bhaktiṁ śriyam atiśayinīṁ durvvahaṁ bhāram urvvyā</l>
+                    <l n="b">nissā
+                    <lb n="14" break="no"/>mānyañ ca dānaṁ samam atiraṇacaṇḍā<unclear>khya</unclear>yā yo <unclear>bi</unclear>bhartti <supplied reason="undefined"><g ref="sym:bar" type="punctuation">.</g></supplied></l>
+                    <l n="c">sthāne
+                    <lb n="15"/>nirmmāpite <supplied reason="subaudible">’</supplied>smin vidita-raṇa-jaya-<unclear>khyātinā</unclear> tena bharttā</l>
+                    <l n="d">bhūtānā
+                    <lb n="16" break="no"/>m aṣṭa-mūrttiś ciram a<unclear>tiraṇa-caṇḍe</unclear>śvare yātu niṣṭhām· <g ref="sym:doubleBar" type="punctuation">.</g> <g ref="sym:doubleBar" type="punctuation">.</g></l>
+                </lg>
+                <p>
+                    svasti <g ref="sym:doubleBar" type="punctuation">.</g> <g ref="sym:doubleBar" type="punctuation">.</g>
+                </p>
+                
+            </div>
+            
+            <div type="apparatus"/>
+                
+            
+            
+            <div type="commentary"/>
+                
+            
+            
+            <div type="bibliography">
+                
+                <!--<p>Reported in <bibl><ptr target="bib:ARIE"/></bibl> (ARIE/...).</p>-->
+                
+                <p>
+                    Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (<ref target="DHARMA_INSSIIv01p0i0022">SII 1.22</ref>).
+                    Edited in <bibl><ptr target="bib:Hultzsch1909-1910_01"/></bibl> (EI 10.1.24), with visual documentation.
+                    Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 65).
+                    Text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 48b).
+                </p>
+                
+                <p>This revised edition by Emmanuel Francis.</p>
+                
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:Hultzsch1890_01"/>
+                        <citedRange unit="page">8</citedRange>
+                        <citedRange unit="item">22</citedRange>
+                    </bibl>
+                    
+                    <bibl n="EI">
+                        <ptr target="bib:Hultzsch1909-1910_01"/>
+                        <citedRange unit="page">13-14</citedRange>
+                        <citedRange unit="item">24</citedRange>
+                    </bibl>
+                    
+                    <bibl n="IP">
+                        <ptr target="bib:Mahalingam1988_01"/>
+                        <citedRange unit="page">206</citedRange>
+                        <citedRange unit="item">65</citedRange>
+                    </bibl>
+                    
+                    <bibl n="B">
+                        <ptr target="bib:Brocquet1997_01"/>
+                        <citedRange unit="page">594-598</citedRange>
+                        <citedRange unit="item">48b</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl/>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>
