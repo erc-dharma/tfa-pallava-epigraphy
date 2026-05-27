@@ -95,7 +95,7 @@
                     <lb n="3" break="no"/>rupat<choice><orig>o</orig><reg>u</reg></choice>ṅka-<supplied reason="lost">vi</supplied>
                     <lb n="4" break="no"/>kkirama-parumaṟku
                     <lb n="5"/>yāṇṭu Iru-pat
-                    <lb n="6" break="no"/>t-aiñt-āvatu
+                    <lb n="6" break="no"/>t-aiñ<unclear reason="eccentric_ductus">c</unclear>-āvatu
                 </p>
                 
                 <p>
@@ -105,14 +105,14 @@
                     <lb n="9"/><unclear>ñ</unclear>āṉṟu paṉ
                     <lb n="10" break="no"/>maye<hi rend="grantha">śva</hi>ra
                     <lb n="11" break="no"/>r Ūṭṭa vaitta
-                    <lb n="12"/>p<unclear>o</unclear>ṉ paḻaṅ
+                    <lb n="12"/>p<supplied reason="lost">o<!--kompu lost, kāl clear--></supplied>ṉ paḻaṅ
                     <lb n="13" break="no"/><supplied reason="lost">kā</supplied>ciṉōṭu <num value="200"><unclear>2 <g type="numeral">100</g></unclear></num>
-                    <lb n="14"/><seg type="component" subtype="body"><gap reason="lost" unit="component"/></seg><choice><unclear>o</unclear><unclear>ā</unclear></choice>ppatu <hi rend="grantha">śrī</hi>
-                    <lb n="15" break="no"/>-kanṭapura<supplied reason="lost">ttu</supplied>
+                    <lb n="14"/><unclear>yo</unclear>ppatu <hi rend="grantha">śrī</hi>
+                    <lb n="15" break="no"/>-kaṇṭapura<supplied reason="lost">ttu</supplied>
                 </p>
                 
                 <p>
-                    <gap reason="lost" extent="unknown" unit="line"/>
+                    <lb n="16" break="no"/><gap reason="lost" extent="unknown" unit="line"/>
                 </p>
                 
             </div>
@@ -147,7 +147,7 @@
                     </app>
                     
                     <app loc="12">
-                        <lem>p<unclear>o</unclear>ṉ</lem>
+                        <lem>p<supplied reason="lost">o<!--kompu lost, kāl clear--></supplied>ṉ</lem>
                         <rdg source="bib:Schmid2014_02">poṉ</rdg>
                         <note>The <foreign>kompu</foreign> of the medial <foreign>o</foreign> is lost.</note>
                     </app>
@@ -164,9 +164,9 @@
                     </app>
                     
                     <app loc="14">
-                        <lem><seg type="component" subtype="body"><gap reason="lost" unit="component"/></seg><choice><unclear>o</unclear><unclear>ā</unclear></choice>ppatu</lem>
+                        <lem><unclear>yo</unclear>ppatu</lem>
                         <rdg source="bib:Schmid2014_02">pipatu</rdg>
-                        <note><ptr target="bib:Mahalingam1988_01"/> appears to read <foreign>oppatu</foreign>, "that which is equal to", which makes sense. The orginal full reading might be <foreign>yoppatu</foreign>.</note>      				
+                        <note><ptr target="bib:Mahalingam1988_01"/> appears to read <foreign>oppatu</foreign>, “that which is equal to,” which makes sense. The original full reading appears to be <foreign>yoppatu</foreign>.</note>      				
                     </app>      
                     
                     <app loc="15">
