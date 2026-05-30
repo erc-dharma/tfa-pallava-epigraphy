@@ -101,7 +101,7 @@
                 <p>
                     ti
                     <lb n="7" break="no"/><supplied reason="lost">ru</supplied>-k-kaṭai-muṭi-tiru
-                    <lb n="8" break="no"/><supplied reason="lost">vi</supplied>ḻā-k-koṭi Eṟṟu
+                    <lb n="8" break="no"/><supplied reason="lost">vi</supplied>ḻā-k-koṭi Eṟṟu<supplied reason="subaudible">m</supplied>
                     <lb n="9"/><unclear>ñ</unclear>āṉṟu paṉ
                     <lb n="10" break="no"/>maye<hi rend="grantha">śva</hi>ra
                     <lb n="11" break="no"/>r Ūṭṭa vaitta
@@ -158,8 +158,7 @@
                     </app>
                     
                     <app loc="13">
-                        <lem> <num value="200"><unclear>2 <g type="numeral">100</g></unclear></num></lem>
-                        <rdg source="bib:Schmid2014_02"> <num value="200"><unclear>2 <g type="numeral">100</g></unclear></num></rdg>
+                        <lem source="bib:Schmid2014_02"><num value="200"><unclear>2 <g type="numeral">100</g></unclear></num></lem>
                         <note>Alternative reading: <foreign>Uḷ</foreign>.</note>      				
                     </app>
                     
