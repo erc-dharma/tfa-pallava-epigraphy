@@ -10,19 +10,12 @@
             <titleStmt>
                 <title>Kaṇṭiyūr, time of Nṛpatuṅgavikramavarman, year 21</title>
                 <respStmt>
-                    <resp>EpiDoc encoding</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>intellectual authorship of edition</resp>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
-                    </persName>
-                </respStmt>
+                </respStmt>   
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
@@ -101,7 +94,7 @@
                     Ivv-ūr-c cēri vicaiya-nal<unclear>lu</unclear>
                     <lb n="5" break="no"/>ḻāṉ māṟaṅkāḷiyiṭai koṇṭa t<choice><orig>i</orig><reg>ī</reg></choice>pam oṉṟu
                     <lb n="6" break="no"/>kku-c cempoṉ campirāṇi'p paḻaṅ-kā<unclear>ci</unclear>
-                    <lb n="7" break="no"/>ṉōṭ’ urai-y oppatu Ūrāṭukallāl <num value="110"><g type="numeral">100</g> <g type="numeral">10</g></num>
+                    <lb n="7" break="no"/>ṉōṭ’ urai y-oppatu Ūrāṭukallāl <num value="110"><g type="numeral">100</g> <g type="numeral">10</g></num>
                     <lb n="8"/>ṉūṟ<unclear>ṟ' o</unclear>ru<unclear>pa</unclear>tiṉ kaḻañcu
                 </p>
                 <p>

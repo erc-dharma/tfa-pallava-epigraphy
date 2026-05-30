@@ -95,24 +95,24 @@
                     <lb n="3" break="no"/>rupat<choice><orig>o</orig><reg>u</reg></choice>ṅka-<supplied reason="lost">vi</supplied>
                     <lb n="4" break="no"/>kkirama-parumaṟku
                     <lb n="5"/>yāṇṭu Iru-pat
-                    <lb n="6" break="no"/>t-aiñ<unclear reason="eccentric_ductus">c</unclear>-āvatu
+                    <lb n="6" break="no"/>t-aiñ<choice><sic>t</sic><corr>c</corr></choice>-āvatu
                 </p>
                 
                 <p>
                     ti
                     <lb n="7" break="no"/><supplied reason="lost">ru</supplied>-k-kaṭai-muṭi-tiru
                     <lb n="8" break="no"/><supplied reason="lost">vi</supplied>ḻā-k-koṭi Eṟṟu<supplied reason="subaudible">m</supplied>
-                    <lb n="9"/><unclear>ñ</unclear>āṉṟu paṉ
+                    <lb n="9"/><supplied reason="lost">ñ</supplied>āṉṟu paṉ
                     <lb n="10" break="no"/>maye<hi rend="grantha">śva</hi>ra
                     <lb n="11" break="no"/>r Ūṭṭa vaitta
                     <lb n="12"/>p<supplied reason="lost">o<!--kompu lost, kāl clear--></supplied>ṉ paḻaṅ
-                    <lb n="13" break="no"/><supplied reason="lost">kā</supplied>ciṉōṭu <num value="200"><unclear>2 <g type="numeral">100</g></unclear></num>
-                    <lb n="14"/><unclear>yo</unclear>ppatu <hi rend="grantha">śrī</hi>
+                    <lb n="13" break="no"/><supplied reason="lost">kā</supplied>ciṉōṭu Urai
+                    <lb n="14"/><unclear>y-o</unclear>ppatu <hi rend="grantha">śrī</hi>
                     <lb n="15" break="no"/>-kaṇṭapura<supplied reason="lost">ttu</supplied>
                 </p>
                 
                 <p>
-                    <lb n="16" break="no"/><gap reason="lost" extent="unknown" unit="line"/>
+                    <lb n="16"/><gap reason="lost" extent="unknown" unit="line"/>
                 </p>
                 
             </div>
@@ -121,6 +121,10 @@
                 
                 <listApp>
                     
+                    <app loc="6">
+                        <lem>aiñ<choice><sic>t</sic><corr>c</corr></choice>āvatu</lem>
+                        <rdg source="bib:Schmid2014_02">aiñcāvatu</rdg>
+                    </app>
                     <app loc="8">
                         <lem>Eṟṟu
                             <lb n="9"/><unclear>ñ</unclear>āṉṟu</lem>
@@ -128,7 +132,7 @@
                     </app>
                     
                     <app loc="9">
-                        <lem><unclear>ñ</unclear>āṉṟu</lem>
+                        <lem><supplied reason="lost">ñ</supplied>āṉṟu</lem>
                         <rdg source="bib:Schmid2014_02"><supplied reason="lost">na</supplied>ḷaṉṟu</rdg> 
                     </app>
                     
@@ -158,8 +162,8 @@
                     </app>
                     
                     <app loc="13">
-                        <lem source="bib:Schmid2014_02"><num value="200"><unclear>2 <g type="numeral">100</g></unclear></num></lem>
-                        <note>Alternative reading: <foreign>Uḷ</foreign>.</note>      				
+                        <lem>Urai</lem>
+                        <rdg source="bib:Schmid2014_02"><num value="200"><unclear>2 <g type="numeral">100</g></unclear></num></rdg>
                     </app>
                     
                     <app loc="14">
@@ -189,8 +193,10 @@
                 </p>
                 
                 <p n="6-15">
-                    With the old gold coins given so as to feed <supplied reason="explanation"><foreign>ūṭṭa</foreign></supplied> the Paṉmāheśvaras, at the time of raising <supplied reason="explanation"><foreign>eṟṟum</foreign></supplied> the flag for the glorious festival of Tirukkaṭaimuṭi,<supplied reason="subaudible"> that is,</supplied> 200 <gap reason="lost"/> of/in the glorious Kaṇṭapuram <gap reason="lost"/>
-                    
+                    The gold given so as to feed <supplied reason="explanation"><foreign>ūṭṭa</foreign></supplied> the Paṉmāheśvaras at the time of raising <supplied reason="explanation"><foreign>eṟṟum</foreign></supplied> the flag for the glorious festival of Tirukkaṭaimuṭi,
+                    which is equal in fineness to old coins <supplied reason="explanation"><foreign>paḻaṅkāciṉōṭu urai y-oppatu</foreign><note>Compare with <ref target="DHARMA_INSPallava00130.xml"/>, line 4, and <ref target="DHARMA_INSPallava00171.xml"/>, line 6.</note></supplied>,
+                    in the glorious Kaṇṭapuram
+                    <gap reason="lost"/>                    
                 </p>
                 
                 <p>
