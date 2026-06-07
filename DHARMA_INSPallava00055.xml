@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kāñcipuram, Kailāsanātha temple, list of <foreign>biruda</foreign>s nos. 1-3</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSPallava00055</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            Three lists of <foreign>biruda</foreign>s engraved respectively on the three upper tiers (out of four tiers) of the bases of the chapels (also designated as cells or shrines in secondary literature) of the <foreign>prākāra</foreign>. Four <foreign>biruda</foreign>s per chapel, except chapels <seg rend="check">19 or 20</seg> and <seg rend="check">37 or 38</seg>. The lists are the same except for the script (plain Siddhamātr̥kā for the first list, plain Grantha for the second list, ornate Grantha for the third list) and some minor variants. For the fourth tier, see inscription <ref target="DHARMA_INSPallava00056.xml">Pallava 56</ref>.
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2026-06-07" status="draft">creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition">
+                <!--Update reading (this is Hultzsch's reading)-->
+                <!--Check numbering compared to Hultzsch-->
+                
+                <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">
+                    <head>First tier, in plain Siddhamātr̥kā</head>
+                    
+                    <p>
+                        <milestone n="A" unit="zone" type="pagelike"/>
+                        <label>A. Right side of east enclosure</label>
+                        <milestone n="1" unit="zone" type="pagelike"/>
+                        <label>1st chapel</label>
+                        <lb n="1"/>śrī-rājasiṁhaḥ <g ref="sym:doubleBar" type="punctuation">.</g> śrī-Atyantakāmaḥ <g ref="sym:doubleBar" type="punctuation">.</g> śrī-raṇajayaḥ <g ref="sym:doubleBar" type="punctuation">.</g> śrī-Abhirāmaḥ <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                    
+                    <p>
+                        <milestone n="2" unit="zone" type="pagelike"/>
+                        <label>2nd chapel</label>
+                        <lb n="2"/>śrī-Aparājitaḥ śrī-Amitramallaḥ śrī-Akutobhayaḥ śrī-Ūrjjitaḥ <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                    
+                    <p>
+                        <milestone n="3" unit="zone" type="pagelike"/>
+                        <label>3rd chapel</label>
+                        <lb n="3"/>śrī-jayaparaḥ śrī-Atiraṇacaṇḍaḥ śrī-bharaḥ śrī-bahunayaḥ śrī-Udayabhāskaraḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="B" unit="zone" type="pagelike"/>
+                        <label>B. South enclosure</label>
+                        <milestone n="4" unit="zone" type="pagelike"/>
+                        <label>4th chapel</label>
+                        <lb n="4"/>śrī-meghaḥ śrī-Abhayaṅkaraḥ śrī-kulatilakaḥ śrī-Ārimarddanaḥ <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                    
+                    <p>
+                        <milestone n="5" unit="zone" type="pagelike"/>
+                        <label>5th chapel</label>
+                        <lb n="5"/>śrī-Uditaprabhāvaḥ śrī-Uditakīrttiḥ śrī-ṛṣabhadarppaḥ śrī-ṛṣabhalāñchanaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="6" unit="zone" type="pagelike"/>
+                        <label>6th chapel</label>
+                        <lb n="6"/>śrī-Ugravīryyaḥ śrī-Uditoditaḥ śrī-Unnatarāmaḥ śrī-Ugrapratāpaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="7" unit="zone" type="pagelike"/>
+                        <label>7th chapel</label>
+                        <lb n="7"/>śrī-Atyadāraḥ śrī-Anunayasāddhyaḥ śrī-Āhavakesar<del>i</del><add place="unspecified">ī</add><surplus>ḥ</surplus>
+                    </p>
+                    <p>
+                        <milestone n="8" unit="zone" type="pagelike"/>
+                        <label>8th chapel</label>
+                        <lb n="8"/>śrī-kalaṁkavarjjitaḥ śrī-kāñcīmahāmaṇiḥ śrī-kharavikramaḥ śrī-cakravarttī<surplus>ḥ</surplus>
+                    </p>
+                    <p>
+                        <milestone n="9" unit="zone" type="pagelike"/>
+                        <label>9th chapel</label>
+                        <lb n="9"/>śrī-rivannānukamp<del>iḥ</del><add place="unspecified">ī</add> śrī-cāpadvitīyaḥ śrī-chinnasaṁśayaḥ śrī-chalarahitaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="10" unit="zone" type="pagelike"/>
+                        <label>10th chapel</label>
+                        <lb n="10"/>śrī-Amitrāśaniḥ śrī-Apratimallaḥ śrī-Adbhutacaritaḥ śrī-Ibhavidyādharaḥ <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                    
+                    <p>
+                        <milestone n="11" unit="zone" type="pagelike"/>
+                        <label>11th chapel</label>
+                        <lb n="11"/>śrī-Icchāpūraḥ śrī-Īśānaśaraṇaḥ śrī-Udayacandraḥ śrī-parjjanyarūpaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="12" unit="zone" type="pagelike"/>
+                        <label>12nd chapel</label>
+                        <lb n="12"/>śrī-paracakramarddanaḥ śrī-narendracūlāmaṇiḥ śrī-nityavarṣaḥ śrī-rājarājaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="13" unit="zone" type="pagelike"/>
+                        <label>13rd chapel</label>
+                        <lb n="13"/>śrī-vādyavidyādharaḥ śrī-citrakārmmukaḥ śrī-vīrakesariḥ śrī-kāmukaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="14" unit="zone" type="pagelike"/>
+                        <label>14th chapel</label>
+                        <lb n="14"/>śrī-sarvvatobhadraḥ śrī-kṣatracūlāmaṇiḥ śrī-vilāsaḥ śrī-yuddhārjjunaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="15" unit="zone" type="pagelike"/>
+                        <label>15th chapel</label>
+                        <lb n="15"/>śrī-vallabhaḥ śrī-saṁgrāmarāmaḥ śrī-sārvvabhaumaḥ śrī-kṣatravidrāvaṇaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="16" unit="zone" type="pagelike"/>
+                        <label>16th chapel</label>
+                        <lb n="16"/>śrī-Āhavabhīmaḥ śrī-Amitaprabhāvaḥ śrī-trailokyanāthaḥ śrī-dānavarṣaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="17" unit="zone" type="pagelike"/>
+                        <label>17th chapel</label>
+                        <lb n="17"/>śrī-tṛṣṇāpūraṇaḥ śrī-daridrānukamp<choice><sic>iḥ</sic><corr>ī</corr></choice> śrī-Aviratadānaḥ śrī-dīptapauruṣa<unclear>ḥ</unclear>
+                    </p>
+                    
+                    <p>
+                        <milestone n="18" unit="zone" type="pagelike"/>
+                        <label>18th chapel</label>
+                        <lb n="18"/>śrī-dānaśūraḥ śrī-dharmmanityaḥ śrī-dhavalāśayaḥ śrī-dharmmakavacaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="19" unit="zone" type="pagelike"/>
+                        <label>19th chapel</label>
+                        <lb n="19"/>śrī-samaradhanañjayaḥ śrī-bhīṣaṇacāpaḥ śrī-Ajayyaḥ śrī-guṇavinītaḥ śrī-Avanidivākaraḥ śrī-kalaṁkarahitaḥ śrī-kalāsamudraḥ śrī-Āhavadhīraḥ śrī-duṣṭadamanaḥ śrī-pallavādityaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="20" unit="zone" type="pagelike"/>
+                        <label>20th chapel</label>
+                        <lb n="20"/>śrī-parāparaḥ śrī-parahitaḥ śrī-nityotsāhaḥ śrī-puruṣasiṁhaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="21" unit="zone" type="pagelike"/>
+                        <label>21st chapel</label>
+                        <lb n="21"/>śrī-puṇyaślokaḥ śrī-pārtyavikramaḥ śrī-bhīmakāntaḥ śrī-bahudakṣiṇaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="22" unit="zone" type="pagelike"/>
+                        <label>22nd chapel</label>
+                        <lb n="22"/>śrī-bhayarahitaḥ śrī-mahāmallaḥ śrī-mattapramattaḥ śrī-mattavikāraḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="23" unit="zone" type="pagelike"/>
+                        <label>23rd chapel</label>
+                        <lb n="23"/>śrī-bhuvan<choice><sic>i</sic><corr>a</corr></choice>bhājanaḥ śrī-mahendraparākramaḥ śrī-mahāprabhāvaḥ śrī-manucaritaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="C" unit="zone" type="pagelike"/>
+                        <label>B. West enclosure</label>
+                        <milestone n="24" unit="zone" type="pagelike"/>
+                        <label>24th chapel</label>
+                        <lb n="24"/>śrī-māyācāraḥ śrī-pativallabhaḥ śrī-raṇavīraḥ śrī-yugāntādityaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="25" unit="zone" type="pagelike"/>
+                        <label>25th chapel</label>
+                        <lb n="25"/>śrī-raṇadhīraḥ śrī-rakṣāmaṇiḥ śrī-raṇacaṇḍaḥ śrī-raṇavikramaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="26" unit="zone" type="pagelike"/>
+                        <label>26th chapel</label>
+                        <lb n="26"/>śrī-Atulabalaḥ śrī-Ahitāntakaḥ śrī-Apāravikramaḥ śrī-Aśvapriyaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="27" unit="zone" type="pagelike"/>
+                        <label>27th chapel</label>
+                        <lb n="27"/>śrī-Apratimaḥ śrī-Aravaṇḍaśāsanaḥ śrī-Akāṇḍāśaniḥ śrī-Amoghavikramaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="28" unit="zone" type="pagelike"/>
+                        <label>28th chapel</label>
+                        <lb n="28"/>śrī-Ānatamaṇḍalaḥ śrī-Apratihataḥ śrī-Adbhutaśaktiḥ śrī-Ājñārasaḥ śrī-Āścaryyavīryyaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="29" unit="zone" type="pagelike"/>
+                        <label>29th chapel</label>
+                        <lb n="29"/>śrī-Āpātadurddharaḥ śrī-Āśāviyiḥ śrī-Āhavoddhuraḥ śrī-Ibhavatsarājaḥ <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                    
+                    <p>
+                        <milestone n="30" unit="zone" type="pagelike"/>
+                        <label>30th chapel</label>
+                        <lb n="30"/>śrī-Iddhaśāsanaḥ śrī-Ilāparameśvaraḥ śrī-Ugradaṇḍaḥ śrī-Unnatamānaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="31" unit="zone" type="pagelike"/>
+                        <label>31stchapel</label>
+                        <lb n="31"/>śrī-Ucchritavīryyaḥ śrī-Udayatuṅgaḥ śrī-Uttarottaraḥ śrī-Ugraśāsanaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="32" unit="zone" type="pagelike"/>
+                        <label>32nd chapel</label>
+                        <lb n="32"/>śrī-guṇālayaḥ śrī-Udayavasantaḥ śrī-Ekasundaraḥ śrī-mahānubhāvaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="D" unit="zone" type="pagelike"/>
+                        <label>D. North enclosure</label>
+                        <milestone n="33" unit="zone" type="pagelike"/>
+                        <label>33rd chapel</label>
+                        <lb n="33"/>śrī-Upendravik<choice><sic>ṛ</sic><corr>ra</corr></choice>maḥ śrī-Āśāpūraḥ śrī-kuladhvajaḥ śrī-guṇonnataḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="34" unit="zone" type="pagelike"/>
+                        <label>34th chapel</label>
+                        <lb n="34"/>śrī-Unnatecchaḥ śrī-Utkhātakaṇṭakaḥ śrī-Ekadhanurddharaḥ śrī-Udārakīrttiḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="35" unit="zone" type="pagelike"/>
+                        <label>35th chapel</label>
+                        <lb n="35"/>śrī-Ācāraparaḥ śrī-Ārttāyanaḥ śrī-Āśrī-tavatsalaḥ śrī-Ītiśātanaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="36" unit="zone" type="pagelike"/>
+                        <label>36th chapel</label>
+                        <lb n="36"/>śrī-Ātodyatumburuḥ śrī-Āgamapramāṇaḥ śrī-Ājñālaṅkṛtaḥ śrī-Itihāsapriyaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="37" unit="zone" type="pagelike"/>
+                        <label>37th chapel</label>
+                        <lb n="37"/>śrī-Atisāhasaḥ śrī-Anavagrahaḥ śrī-Āgamānusār<choice><sic>iḥ</sic><corr>ī</corr></choice> śrī-Utthānaśīlaḥ śrī-Udayonnataḥ śrī-Udvṛttadamanaḥ śrī-Ekarājaḥ śrī-kālavikramaḥ śrī-jayanidhiḥ śrī-kālavasanaḥ śrī-garvvitadamanaḥ
+                    </p>                
+                    
+                    <p>
+                        <milestone n="38" unit="zone" type="pagelike"/>
+                        <label>38th chapel</label>
+                        <lb n="38"/>śrī-jātigambhīraḥ śrī-cāracakṣuḥ śrī-jñānāṁkuśaḥ śrī-taptaśaraṇaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="39" unit="zone" type="pagelike"/>
+                        <label>39th chapel</label>
+                        <lb n="39"/>śrī-damitavyālaḥ śrī-dānavarṣaḥ śrī-devadevabhaktaḥ śrī-durvvāravegaḥ
+                    </p>                
+                    
+                    <p>
+                        <milestone n="40" unit="zone" type="pagelike"/>
+                        <label>40th chapel</label>
+                        <lb n="40"/>śrī-cāruvilāsaḥ śrī-tuṁgavikramaḥ śrī-tīvrakopaḥ śrī-dharmmavijay<choice><sic>iḥ</sic><corr>ī</corr></choice>
+                    </p>
+                    
+                    <p>
+                        <milestone n="41" unit="zone" type="pagelike"/>
+                        <label>41st chapel</label>
+                        <lb n="41"/>śrī-dāvāgniḥ śrī-deśavarddhanaḥ śrī-dūraduritaḥ śrī-dharmmasetuḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="42" unit="zone" type="pagelike"/>
+                        <label>42nd chapel</label>
+                        <lb n="42"/>śrī-dūrada<supplied reason="omitted">r</supplied>ś<choice><sic>iḥ</sic><corr>ī</corr></choice> śrī-dṛptaśāsanaḥ śrī-nayānusār<choice><sic>iḥ</sic><corr>ī</corr></choice> śrī-nayanamanoharaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="43" unit="zone" type="pagelike"/>
+                        <label>43th chapel</label>
+                        <lb n="43"/>śrī-Anindyacaritaḥ śrī-Agādhagāmbhīryya<supplied reason="omitted">ḥ</supplied> śrī-Anabhravṛṣṭiḥ śrī-Atanupratāpaḥ
+                    </p>                
+                    
+                    <p>
+                        <milestone n="44" unit="zone" type="pagelike"/>
+                        <label>44th chapel</label>
+                        <lb n="44"/>śrī-Adharmmabhīruḥ śrī-Arināśaḥ śrī-Avanibhājanaḥ śrī-Aprativāryyaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="45" unit="zone" type="pagelike"/>
+                        <label>45th chapel</label>
+                        <lb n="45"/>śrī-Avandhyakopaḥ śrī-Amitrāntakaḥ śrī-Avihataśaktiḥ śrī-Anavagītaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="46" unit="zone" type="pagelike"/>
+                        <label>46th chapel</label>
+                        <lb n="46"/>śrī-Arātikālaḥ śrī-Anavagrahaḥ śrī-Atisāhasaḥ śrī-Anugraśīlaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="47" unit="zone" type="pagelike"/>
+                        <label>47th chapel</label>
+                        <lb n="47"/>śrī-Abhayarāśiḥ śrī-Āhatalakṣaṇaḥ śrī-Utsāhanityaḥ śrī-Upāyanipuṇaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="48" unit="zone" type="pagelike"/>
+                        <label>48th chapel</label>
+                        <lb n="48"/>śrī-gandhahast<choice><sic>iḥ</sic><corr>ī</corr></choice> śrī-kāmavilāsaḥ śrī-<unclear>kāvi</unclear>prabodhaḥ śrī-kāraṇakopaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="49" unit="zone" type="pagelike"/>
+                        <label>49th chapel</label>
+                        <lb n="49"/>śrī-caṇḍadaṇḍaḥ śrī-Asahyakopaḥ śrī-chāyāvṛkṣaḥ śrī-dharaṇitilakaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="50" unit="zone" type="pagelike"/>
+                        <label>50th chapel</label>
+                        <lb n="50"/>śrī-varuṇapāśaḥ śrī-dhairyyasāgaraḥ śrī-pravṛttacakraḥ śrī-nāgapriyaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="51" unit="zone" type="pagelike"/>
+                        <label>51th chapel</label>
+                        <lb n="51"/>śrī-niramitraḥ śrī-nirarggalaḥ śrī-parantapaḥ śrī-lokaśikāmaṇiḥ
+                    </p>
+                    <p>
+                        <milestone n="52" unit="zone" type="pagelike"/>
+                        <label>52nd chapel</label>
+                        <lb n="52"/>śrī-pārtthivasi<supplied reason="omitted">ṁha</supplied>ḥ śrī-balaprama<supplied reason="omitted">thana</supplied>ḥ śrī-bhūridānaḥ śrī-pratibhayaḥ Oṁ
+                    </p>
+                    
+                    <p>
+                        <milestone n="E" unit="zone" type="pagelike"/>
+                        <label>E. Left side of east enclosure</label>
+                        <milestone n="53" unit="zone" type="pagelike"/>
+                        <label>53rd chapel</label>
+                        <lb n="53"/>śrī-bhīmavikramaḥ śrī-rājakuñjaraḥ śrī-lalitavilās<choice><sic>ā</sic><corr>a</corr></choice>ḥ śrī-śāstradṛṣṭiḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="54" unit="zone" type="pagelike"/>
+                        <label>54th chapel</label>
+                        <lb n="54"/>śrī-vāraṇabhagadattaḥ śrī-vikṛtavilāsaḥ śrī-vikramakesar<choice><sic>iḥ</sic><corr>ī</corr></choice> śrī-v<choice><sic>i</sic><corr>ī</corr></choice>ṇānāradaḥ
+                    </p>
+                    
+                    <p>
+                        <milestone n="55" unit="zone" type="pagelike"/>
+                        <label>55th chapel</label>
+                        <lb n="55"/>śrī-śaṁkarabhaktaḥ śrī-śūrāgragaṇyaḥ śrī-tatvavedī<surplus>ḥ</surplus> śrī-Īśvarabhaktaḥ <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                </div>
+                
+                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">
+                    <head>Second tier, in plain Grantha</head>
+                    
+                    <p>
+                        <milestone n="A" unit="zone" type="pagelike"/>
+                        <label>A. Right side of east enclosure</label>
+                        <milestone n="1" unit="zone" type="pagelike"/>
+                        <label>1st chapel</label>
+                        <lb n="1"/>śrī-rājasiṁhaḥ <g ref="sym:doubleBar" type="punctuation">.</g> śrī-Atyantakāmaḥ <g ref="sym:doubleBar" type="punctuation">.</g> śrī-raṇajayaḥ <g ref="sym:doubleBar" type="punctuation">.</g> śrī-Abhirāmaḥ<g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                    
+                </div>
+                
+                <div type="textpart" n="C" xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">
+                    <head>Third tier, in ornate Grantha</head>
+                    
+                    <p>
+                        <milestone n="A" unit="zone" type="pagelike"/>
+                        <label>A. Right side of east enclosure</label>
+                        <milestone n="1" unit="zone" type="pagelike"/>
+                        <label>1st chapel</label>
+                        <lb n="1"/>śrī-rājasiṁhaḥ <g ref="sym:doubleBar" type="punctuation">.</g> śrī-Atyantakāmaḥ <g ref="sym:doubleBar" type="punctuation">.</g> śrī-raṇajayaḥ <g ref="sym:doubleBar" type="punctuation">.</g> śrī-Abhirāmaḥ<g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                    
+                </div>
+                
+            </div>
+            
+            <!--<div type="apparatus">
+                <listApp>
+                <app loc="48">
+                <lem>śrī<unclear>kāvi</unclear>prabodhaḥ</lem>
+                <note>Read <foreign>śrīkāvyapravodhaḥ</foreign>?</note>
+                </app>
+                <app loc="52">
+                <lem>śrīpārtthivasi<supplied reason="omitted">ṁha</supplied>ḥ</lem>
+                <note>For <foreign>siḥ</foreign> read <foreign>siṁhaḥ</foreign>, of which traces are visible in the third tier.</note>
+                </app>
+                <app loc="52">
+                <lem>śrībalaprama<supplied reason="omitted">thana</supplied>ḥ</lem>
+                <note>The third tier supplies the correct reading <foreign>śrībalapramathanaḥ</foreign>.</note>
+                </app>
+                </listApp>
+                </div>-->
+            
+            
+            <!--<div type="commentary">
+                
+                <p n="1">
+                <foreign>śrīAtyantakāmaḥ <g ref="sym:doubleBar" type="punctuation">.</g> śrīraṇajayaḥ <g ref="sym:doubleBar" type="punctuation">.</g> śrīAbhirāmaḥ</foreign>.
+                The third tier inscription omits <foreign>śrī</foreign> before each of the three last words.
+                </p>
+                
+                <p n="5">
+                The third tier inscription adds another epithet beginning with <foreign>śrīEka<unclear>ca</unclear></foreign>.
+                </p>
+                
+                <p n="7">
+                The second and third tiers also read <foreign>Atyadāraḥ</foreign> for <foreign>Atyudāraḥ</foreign>.
+                </p>   
+                
+                <p n="12">
+                <foreign>śrīnarendracūlāmaṇiḥ</foreign>.
+                The third tier reads <foreign>ºcūḷāmaṇiḥ</foreign>.
+                </p>
+                
+                <p n="13">
+                <foreign>śrīcitrakārmmukaḥ</foreign>.
+                The third tier reads <foreign>ºkārmukaḥ</foreign>.
+                </p>
+                
+                <p n="13">
+                <foreign>śrīvīrakesariḥ</foreign>.
+                The third tier also reads <foreign>kesariḥ</foreign> for <foreign>kesarī</foreign>.
+                </p>
+                
+                <p n="14">
+                <foreign>śrīkṣatracūlāmaṇiḥ</foreign>.
+                The third tier reads <foreign>ºcaḷāmaṇiḥ</foreign>.
+                </p>
+                
+                <p n="18">                    
+                <foreign>śrīdhavalāśayaḥ</foreign>.
+                The second and third tiers read <foreign>śrīdhavaḷāśayaḥ</foreign>.
+                </p>
+                
+                <p n="19">
+                The third tier inserts <foreign>śrīkālakopaḥ</foreign> after <foreign>śrīĀhavadhīraḥ</foreign>.
+                </p>                
+                
+                <p n="29">
+                <foreign>śrīĀśāviyiḥ</foreign>.
+                The third tier reads <foreign>śrīĀśāvijayiḥ</foreign>; read <foreign>ºvijayī</foreign>.
+                </p>
+                
+                <p n="30">
+                <foreign>śrīIlāparameśvaraḥ</foreign>.
+                The third tier reads <foreign>śrīIḷāº</foreign>.
+                </p>
+                
+                <p n="35">
+                <foreign>śrīĀśrītavatsalaḥ</foreign>.
+                The third tier also reads <foreign>Āśrīta</foreign> for <foreign>Āśrita</foreign>.
+                </p>                
+                
+                <p n="51">
+                <foreign>śrīlokaśikāmaṇiḥ</foreign>.
+                The third tier also reads <foreign>śikāmaṇiḥ</foreign> for <foreign>śikhāmaṇiḥ</foreign>.
+                </p>
+                
+                <p n="52">
+                <foreign>śrībalapramaḥ</foreign>.
+                The third tier supplies the correct reading <foreign>śrībalapramathanaḥ</foreign>.
+                </p>
+                
+                <p n="53">
+                <foreign>śrīlalitavilāsāḥ</foreign>.
+                The third tier reads <foreign>śrīlaḷitaº</foreign>; read <foreign>vilāsaḥ</foreign>.
+                </p>                
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.25) [full edition of first and upper tier; variants in footnotes for the second and third tiers]; in <bibl><ptr target="bib:Lockwood+al2001_01"/></bibl>.</p>
+                <p>This revised edition by Emmanuel Francis, from autopsy and photos.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:Hultzsch1890_01"/>
+                        <citedRange unit="page">14-21</citedRange>
+                        <citedRange unit="item">25</citedRange>
+                    </bibl>
+                    
+                    <bibl n="L">
+                        <ptr target="bib:Lockwood+al2001_01"/>
+                        <citedRange unit="page">173-187</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl/>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>
