@@ -30,10 +30,9 @@
                     </msIdentifier>
                     <msContents>
                         <summary>
-                            Three lists of <foreign>biruda</foreign>s engraved respectively on the three upper tiers (out of four tiers) of the bases of the chapels (also designated as cells or shrines in secondary literature) of the <foreign>prākāra</foreign>. Four <foreign>biruda</foreign>s per chapel, except chapels <seg rend="check">19 or 20</seg> and <seg rend="check">37 or 38</seg>. The lists are the same except for the script (plain Siddhamātr̥kā for the first list, plain Grantha for the second list, ornate Grantha for the third list) and some minor variants. For the fourth tier, see inscription <ref target="DHARMA_INSPallava00056.xml">Pallava 56</ref>.
-                            
-                            
-                            This list no. 4 is shorter than than the lists nos. 1-3 since its ornate Siddhamātr̥kā requires more space that the the scripts of the other lists. Only the chapels nos. <seg rend="check">1-20</seg> are inscribed on this tier. For the first, second and third tiers, see inscription <ref target="DHARMA_INSPallava00055.xml">Pallava 55</ref>. See also inscription <ref target="DHARMA_INSPallava00385.xml">Pallava 385</ref> on the base of the <foreign>prākāra</foreign> of the Mahendreśvara.
+                            Four lists of <foreign>biruda</foreign>s engraved on four tiers of the base of the chapels (also designated as cells or shrines in secondary literature) of the <foreign>prākāra</foreign> of the Rājasiṃheśvara temple. 
+                            The lists of the first three tiers are the same except for the script (plain Siddhamātr̥kā for the first list, plain Grantha for the second list, ornate Grantha for the third list) and some minor variants. There are generally four <foreign>biruda</foreign>s per chapel, except chapels <seg rend="check">19 or 20</seg> and <seg rend="check">37 or 38</seg>.
+                            The list on the fourth and lower tier is in ornate Siddhamātr̥kā script (see inscription <ref target="DHARMA_INSPallava00385.xml">Pallava 385</ref> on the base of the <foreign>prākāra</foreign> of the Mahendreśvara). It is shorter since its ornate Siddhamātr̥kā requires more space that the the scripts of the other lists. Only the chapels nos. <seg rend="check">1-20</seg> are inscribed on this tier.
                         </summary>
                     </msContents>
                     <physDesc>
@@ -59,8 +58,8 @@
                     <milestone n="1" unit="zone" type="pagelike"/>
                     <label>1st chapel</label>
                     <lb n="1.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-rājasiṁhaḥ <g ref="sym:doubleBar" type="punctuation">.</g> śrī-Atyantakāmaḥ <g ref="sym:doubleBar" type="punctuation">.</g> śrī-raṇajayaḥ <g ref="sym:doubleBar" type="punctuation">.</g> śrī-Abhirāmaḥ <g ref="sym:doubleBar" type="punctuation">.</g></seg>
-                    <lb n="1.2"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">śrī-rājasiṁhaḥ <g ref="sym:doubleBar" type="punctuation">.</g> śrī-Atyantakāmaḥ <g ref="sym:doubleBar" type="punctuation">.</g> śrī-raṇajayaḥ <g ref="sym:doubleBar" type="punctuation">.</g> śrī-Abhirāmaḥ <g ref="sym:doubleBar" type="punctuation">.</g></seg>
-                    <lb n="1.3"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">śrī-rājasiṁhaḥ <g ref="sym:doubleBar" type="punctuation">.</g> śrī-Atyantakāmaḥ <g ref="sym:doubleBar" type="punctuation">.</g> śrī-raṇajayaḥ <g ref="sym:doubleBar" type="punctuation">.</g> śrī-Abhirāmaḥ <g ref="sym:doubleBar" type="punctuation">.</g></seg>
+                    <lb n="1.2"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined"><supplied reason="lost">śrī-rājasiṁhaḥ <g ref="sym:doubleBar" type="punctuation">.</g> śrī-Atyantakāmaḥ <g ref="sym:doubleBar" type="punctuation">.</g> śrī-raṇajayaḥ <g ref="sym:doubleBar" type="punctuation">.</g> śrī-Abhirāmaḥ <g ref="sym:doubleBar" type="punctuation">.</g></supplied></seg>
+                    <lb n="1.3"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">śrī-rājasiṁhaḥ <g ref="sym:doubleBar" type="punctuation">.</g> Atyantakāmaḥ <g ref="sym:doubleBar" type="punctuation">.</g> raṇajayaḥ <g ref="sym:doubleBar" type="punctuation">.</g> Abhirāmaḥ <g ref="sym:doubleBar" type="punctuation">.</g></seg>
                     <lb n="1.4"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined"><gap reason="lost"/></seg>
                 </p>
                 
@@ -68,7 +67,8 @@
                     <milestone n="2" unit="zone" type="pagelike"/>
                     <label>2nd chapel</label>
                     <lb n="2.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Aparājitaḥ śrī-Amitramallaḥ śrī-Akutobhayaḥ śrī-Ūrjjitaḥ <g ref="sym:doubleBar" type="punctuation">.</g></seg>
-                    
+                    <lb n="2.2"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined"><supplied reason="lost">śrī-Aparājitaḥ śrī-Amitramallaḥ śrī-Akutobhayaḥ śrī-Ūrjjitaḥ <g ref="sym:doubleBar" type="punctuation">.</g></supplied>
+</seg>                    <lb n="2.3"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined"><supplied reason="lost">śrī-Aparājitaḥ śrī-Amitramallaḥ</supplied> <unclear>śrī</unclear>-Akutobhayaḥ śrī-Ū<supplied reason="lost">r</supplied>jj<supplied reason="lost">itaḥ <g ref="sym:doubleBar" type="punctuation">.</g></supplied></seg>
                     <lb n="2.4"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Atyantakāmaḥ śrī-Amitramallaḥ</seg>
                 </p>
                 
@@ -548,15 +548,22 @@
             
             <div type="bibliography">
                 
-                <p>Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.25) [full edition of first and upper tier; variants in footnotes for the second and third tiers; only inscribed chapels are numbered]; in <bibl><ptr target="bib:Lockwood+al2001_01"/></bibl>.</p>
+                <p>Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (<ref target="DHARMA_INSSIIv01p0i0025">SII 1.25</ref> for the first three tiers [full edition of first and upper tier; variants in footnotes for the second and third tiers; only inscribed chapels are numbered], <ref target="DHARMA_INSSIIv01p0i0026">SII 1.26</ref> for the last and lower tier [only inscribed chapels are numbered]).</p>
+                <p>Text in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 55-56); in <bibl><ptr target="bib:Lockwood+al2001_01"/></bibl>.</p>
                 <p>This revised edition by Emmanuel Francis, from autopsy and photos. We number all chapels, even those uninscribed on the corners of the <foreign>prākāra</foreign>. Our numbering differs thus from that of Hultzsch from 4th chapel onwards.</p>
                 
                 <listBibl type="primary">
                     
                     <bibl n="SII">
                         <ptr target="bib:Hultzsch1890_01"/>
-                        <citedRange unit="page">14-21</citedRange>
-                        <citedRange unit="item">25</citedRange>
+                        <citedRange unit="page">14-22</citedRange>
+                        <citedRange unit="item">25-26</citedRange>
+                    </bibl>
+                    
+                    <bibl n="IP">
+                        <ptr target="bib:Mahalingam1988_01"/>
+                        <citedRange unit="page">176-191</citedRange>
+                        <citedRange unit="item">55-56</citedRange>
                     </bibl>
                     
                     <bibl n="L">

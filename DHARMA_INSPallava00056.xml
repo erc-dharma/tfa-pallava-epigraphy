@@ -54,7 +54,7 @@
             
             <div type="bibliography">
                 
-                <p>Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.26); in <bibl><ptr target="bib:Lockwood+al2001_01"/></bibl>.</p>
+                <p>Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (<ref target="DHARMA_INSSIIv01p0i0026">SII 1.26</ref>); in <bibl><ptr target="bib:Lockwood+al2001_01"/></bibl>.</p>
                 <p>We edit the list of this fourth tier along with that of the first three tiers in inscription <ref target="DHARMA_INSPallava00055.xml">Pallava 55</ref>.</p>
                 
                 <listBibl type="primary">
