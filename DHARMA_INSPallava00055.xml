@@ -76,7 +76,8 @@
                     <milestone n="3" unit="zone" type="pagelike"/>
                     <label>3rd chapel</label>
                     <lb n="3.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-jayaparaḥ śrī-Atiraṇacaṇḍaḥ śrī-bharaḥ śrī-bahunayaḥ śrī-Udayabhāskaraḥ</seg>                   
-                    
+                    <lb n="3.2"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">śrī-<unclear>jayaparaḥ</unclear> <supplied reason="lost">śrī-Atiraṇacaṇḍaḥ śrī-bharaḥ śrī-bahunayaḥ śrī-Udayabhāskaraḥ</supplied></seg>
+                    <lb n="3.3"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined"><supplied reason="lost">śrī-jayapa</supplied>raḥ  śrī-A<unclear>ti</unclear><supplied reason="lost">raṇacaṇḍaḥ śrī-bharaḥ śrī-bahunayaḥ śrī-Udayabhāskaraḥ</supplied></seg>
                     <lb n="3.4"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-guṇavinītaḥ śrī-Aparājitaḥ</seg>
                 </p>
                 
@@ -88,16 +89,19 @@
                 <p>
                     <milestone n="5" unit="zone" type="pagelike"/>
                     <label>5th chapel</label>
-                    <lb n="5.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-meghaḥ śrī-Abhayaṅkaraḥ śrī-kulatilakaḥ śrī-Ārimarddanaḥ <g ref="sym:doubleBar" type="punctuation">.</g></seg>
                     
+                    <lb n="5.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-meghaḥ śrī-Abhayaṅkaraḥ śrī-kulatilakaḥ śrī-Ārimarddanaḥ <g ref="sym:doubleBar" type="punctuation">.</g></seg>
+                    <lb n="5.2"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined"><supplied reason="lost">śrī-meghaḥ śrī-Abhayaṅkaraḥ śrī-kula</supplied><unclear>tilakaḥ śrī</unclear><supplied reason="lost">-Ārimarddanaḥ <g ref="sym:doubleBar" type="punctuation">.</g></supplied></seg>
+                    <lb n="5.3"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined"><supplied reason="lost">śrī-meghaḥ śrī-Abhayaṅkaraḥ śrī-kulati</supplied>lakaḥ śrī-Ārima<supplied reason="lost">r</supplied>dda<unclear>na</unclear>ḥ <supplied reason="lost"><g ref="sym:doubleBar" type="punctuation">.</g></supplied></seg>                    
                     <lb n="5.4"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Avani-divākaraḥ śrī-Ūrjitaḥ</seg>
                 </p>
                 
                 <p>
                     <milestone n="6" unit="zone" type="pagelike"/>
                     <label>6th chapel</label>
-                    <lb n="6.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Uditaprabhāvaḥ śrī-Uditakīrttiḥ śrī-ṛṣabhadarppaḥ śrī-ṛṣabhalāñchanaḥ</seg>
-                    
+                    <lb n="6.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Udita-prabhāvaḥ śrī-Udita-kīrttiḥ śrī-ṛṣabha-darppaḥ śrī-ṛṣabha-lāñchanaḥ</seg>
+                    <lb n="6.2"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined"><supplied reason="lost">śrī-Udita-prabhāvaḥ śrī-Udita-kīrttiḥ śrī-ṛṣabha-darppaḥ śrī-ṛṣabha-lāñchanaḥ</supplied></seg>
+                    <lb n="6.3"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">śrī-Udita-prabhāvaḥ śrī-Udita-kīrttiḥ śrī-ṛṣabha-darppaḥ śrī-ṛṣabha-lāñchanaḥ śrī-Eka-c <gap reason="lost" quantity="2" unit="character" precision="low"/><!--SII: The third tier inscription adds another epithet beginning with <foreign>śrīEka<unclear>ca</unclear></foreign>.--></seg>                    
                     <lb n="6.4"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Udita-prabhāvaḥ śrī-Udita-kīrttiḥ</seg>
                 </p>
                 
@@ -105,15 +109,17 @@
                     <milestone n="7" unit="zone" type="pagelike"/>
                     <label>7th chapel</label>
                     <lb n="7.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Ugravīryyaḥ śrī-Uditoditaḥ śrī-Unnatarāmaḥ śrī-Ugrapratāpaḥ</seg>
-                    
-                    <lb n="7.4"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-kalaṁkarahitaḥ śrī-kalāsamudraḥ</seg>
+                    <lb n="7.2"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined"><supplied reason="lost">śrī-Ugra-vīryyaḥ śrī-U</supplied>ditoditaḥ śrī-<supplied reason="lost">Unna</supplied>ta-rāmaḥ <supplied reason="lost">śr</supplied>ī-<supplied reason="lost">Ugra-pratāpaḥ</supplied></seg>
+                    <lb n="7.3"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">śrī-Ugra-v<supplied reason="lost">ī</supplied>ryyaḥ śrī-Uditoditaḥ śrī-Unnata-rāmaḥ śrī-Ugra-pratāpa<unclear>ḥ</unclear></seg>                    
+                    <lb n="7.4"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-kalaṁka-rahitaḥ śrī-kalā-samudraḥ</seg>
                 </p>
                 
                 <p>
                     <milestone n="8" unit="zone" type="pagelike"/>
                     <label>8th chapel</label>
                     <lb n="8.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Atyadāraḥ śrī-Anunayasāddhyaḥ śrī-Āhavakesar<del>i</del><add place="unspecified">ī</add><surplus>ḥ</surplus></seg>
-                    
+                    <lb n="8.2"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">śrī-Atyadāraḥ śrī-Anunayasāddhyaḥ śrī-Āhavakesar<del>i</del><add place="unspecified">ī</add><surplus>ḥ</surplus></seg>
+                    <lb n="8.3"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">śrī-Atyadāraḥ śrī-Anunayasāddhyaḥ śrī-Āhavakesar<del>i</del><add place="unspecified">ī</add><surplus>ḥ</surplus></seg>
                     <lb n="8.4"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Ugra<unclear>vī</unclear>ryyaḥ śrī-Uditoditaḥ</seg>
                 </p>
                 
@@ -121,15 +127,17 @@
                     <milestone n="9" unit="zone" type="pagelike"/>
                     <label>9th chapel</label>
                     <lb n="9.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-kalaṁkavarjjitaḥ śrī-kāñcīmahāmaṇiḥ śrī-kharavikramaḥ śrī-cakravarttī<surplus>ḥ</surplus></seg>
-                    
+                    <lb n="9.2"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">śrī-kalaṁkavarjjitaḥ śrī-kāñcīmahāmaṇiḥ śrī-kharavikramaḥ śrī-cakravarttī<surplus>ḥ</surplus></seg>
+                    <lb n="9.3"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">śrī-kalaṁkavarjjitaḥ śrī-kāñcīmahāmaṇiḥ śrī-kharavikramaḥ śrī-cakravarttī<surplus>ḥ</surplus></seg>
                     <lb n="9.4"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Atyudāraḥ śrī-Anunayasā<unclear>ddhyaḥ</unclear></seg>
                 </p>
                 
                 <p>
                     <milestone n="10" unit="zone" type="pagelike"/>
                     <label>10th chapel</label>
-                    <lb n="10."/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-rivannānukamp<del>iḥ</del><add place="unspecified">ī</add> śrī-cāpadvitīyaḥ śrī-chinnasaṁśayaḥ śrī-chalarahitaḥ</seg>
-                    
+                    <lb n="10.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-rivannānukamp<del>iḥ</del><add place="unspecified">ī</add> śrī-cāpadvitīyaḥ śrī-chinnasaṁśayaḥ śrī-chalarahitaḥ</seg>
+                    <lb n="10.2"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">śrī-rivannānukamp<del>iḥ</del><add place="unspecified">ī</add> śrī-cāpadvitīyaḥ śrī-chinnasaṁśayaḥ śrī-chalarahitaḥ</seg>
+                    <lb n="10.3"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">śrī-rivannānukamp<del>iḥ</del><add place="unspecified">ī</add> śrī-cāpadvitīyaḥ śrī-chinnasaṁśayaḥ śrī-chalarahitaḥ</seg>
                     <lb n="10.4"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Unnatarāmaḥ śrī-Ugrapratā<unclear>paḥ</unclear></seg>
                 </p>
                 
@@ -477,9 +485,7 @@
                 The third tier inscription omits <foreign>śrī</foreign> before each of the three last words.
                 </p>
                 
-                <p n="5">
-                The third tier inscription adds another epithet beginning with <foreign>śrīEka<unclear>ca</unclear></foreign>.
-                </p>
+                
                 
                 <p n="7">
                 The second and third tiers also read <foreign>Atyadāraḥ</foreign> for <foreign>Atyudāraḥ</foreign>.
