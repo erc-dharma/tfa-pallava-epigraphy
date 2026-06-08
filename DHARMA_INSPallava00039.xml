@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mahābalipuram, Dharmarājaratha, <foreign>biruda</foreign>s and temple name</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>		
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSPallava00039</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2025-03-14" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+            <change who="part:mime" when="2025-03-13" status="draft">Conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+                
+                <div type="textpart" n="A"><head>First storey, north side</head>
+                    <p>
+                        <lb n="A1"/>śrī-narasiṁhaḥ
+                    </p>
+                </div>
+                
+                <div type="textpart" n="B"><head>First storey, east side</head>
+                    <p>
+                        <lb n="B1"/>p<choice><sic>ri</sic><corr>r</corr></choice><choice><sic>dh</sic><corr>th</corr></choice>iv<choice><sic>i</sic><corr>ī</corr></choice>-sāraḥ śrī-bharaḥ
+                        <lb n="B2"/>bhuvana-bhājanaḥ
+                    </p>
+                </div>
+                
+                <div type="textpart" n="C"><head>First storey, south side</head>
+                    <p>
+                        <lb n="C1"/><unclear>śr</unclear>ī-meghaḥ trailokya-varddhanaḥ vidhiḥ
+                    </p>
+                    <p>
+                        <lb n="C2"/>Atyantakāmaḥ Aneko<choice><sic>bh</sic><corr>p</corr></choice>āyaḥ
+                    </p></div>
+                
+                <div type="textpart" n="D"><head>Second storey, north side</head>
+                    <p>
+                        <lb n="D1.1"/>sthira-bhaktiḥ madanābhirāmaḥ
+                        <lb n="D1.2"/>vidhi<supplied reason="omitted">ḥ</supplied>
+                    </p>
+                    <p>
+                        <lb n="D2.1"/>śrī-narasiṁhaḥ bhuvana-bhājanaḥ śrī-meghaḥ 
+                        <lb n="D2.2"/>Apratihata-śāsana<supplied reason="omitted">ḥ</supplied>
+                    </p>
+                    
+                    <p>
+                        <lb n="D3.1"/>kāmalaḷitaḥ Ameyamāyaḥ
+                        <lb n="D3.2"/>sakalakalyāṇaḥ
+                    </p>
+                    
+                    <p>
+                        <lb n="D4.1"/>nayanamanoharaḥ vāmaḥ
+                        <lb n="D4.2"/>Atimānaḥ
+                    </p>
+                </div>
+                
+                <div type="textpart" n="E"><head>Second storey, east side</head>
+                    <p>
+                        <lb n="E1.1"/>vāmaḥ
+                        <lb n="E1.2"/>parā<choice><sic>bh</sic><corr>p</corr></choice>araḥ
+                    </p>
+                    <p>
+                        <lb n="E2.1"/>Anupamaḥ
+                        <lb n="E2.2"/>nayā<unclear>ṅku</unclear>ra<supplied reason="omitted">ḥ</supplied>
+                    </p>
+                </div>
+                
+                <div type="textpart" n="F"><head>Second storey, south side</head>
+                    <p>
+                        <lb n="F1"/>laḷitaḥ
+                    </p>
+                    <p>
+                        <lb n="F2.1"/>nayanamanoharaḥ
+                        <lb n="F2.2"/>sarvvatobhadraḥ
+                    </p>
+                    <p>
+                        <lb n="F3.1"/>śrīnidhiḥ
+                        <lb n="F3.2"/>niruttaraḥ
+                    </p>
+                    <p>
+                        <lb n="F4.1"/>vidhiḥ
+                        <lb n="F4.2"/>vibhrāntaḥ
+                    </p>
+                </div>
+                
+                <div type="textpart" n="G"><head>Second storey, west side</head>
+                    
+                    <p>
+                        <lb n="G1"/>satya-parākramaḥ
+                        <lb n="G2"/>parāvaraḥ
+                    </p>
+                    
+                </div>
+                
+                <div type="textpart" n="H"><head>Third storey, east side</head>
+                    
+                    <p>
+                        <lb n="H1"/>śrī-Atyanta-kāma-pallaveśvara-gṛhaM <g ref="sym:doubleBar" type="punctuation">.</g>
+                        <lb n="H2"/>raṇa-jayaḥ
+                    </p>
+                </div>
+            </div>
+            
+            <div type="apparatus">
+                <listApp>
+                    <app loc="H1">
+                        <lem>gṛhaM</lem>
+                        <rdg source="bib:Hultzsch1890_01">gṛha<supplied reason="omitted">m·</supplied></rdg>
+                    </app>
+                </listApp>
+            </div>
+            
+            <div type="translation">
+            </div>
+            
+            <div type="commentary">
+                
+            </div>
+            
+            
+            <div type="bibliography">
+                
+                <p>Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.1-17).</p>
+                <p>This revised edition by Emmanuel Francis.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:Hultzsch1890_01"/>
+                        <citedRange unit="page">2-4</citedRange>
+                        <citedRange unit="item">1-17</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl/>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>
