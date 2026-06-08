@@ -30,12 +30,14 @@
                     </msIdentifier>
                     <msContents>
                         <summary>
-                            List of <foreign>biruda</foreign>s engraved on the lower tier of the base of the <foreign>prākāra</foreign> of the Mahendreśvara. See also inscription <ref target="DHARMA_INSPallava00056.xml">Pallava 56</ref> on the lower tiers of the bases of the chapels of the <foreign>prākāra</foreign> of the Rājasiṃheśvara.                            
+                            Short list of <foreign>biruda</foreign>s engraved on the lower tier of the base of the <foreign>prākāra</foreign> of the Mahendreśvara temple. See also inscription <ref target="DHARMA_INSPallava00056.xml">Pallava 56</ref> on the lower tiers of the bases of the chapels of the <foreign>prākāra</foreign> of the Rājasiṃheśvara temple.                            
                         </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p/>
+                            <p>
+                                The double <foreign>daṇḍa</foreign> is of the type where both <foreign>daṇḍa</foreign>s are joined.
+                            </p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -51,7 +53,9 @@
             <div type="edition" xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">
                 
                 <p>
-                    <lb n="1"/><gap reason="lost"/> <g ref="sym:ddanda" type="punctuation">.</g>
+                    <lb n="1"/>
+                    <gap reason="lost"/> <gap reason="illegible"/> ḥ
+                    <gap reason="illegible"/> <gap reason="lost"/> <gap reason="illegible"/> <g ref="sym:ddanda" type="punctuation">.</g>
                 </p>
                 
             </div>
@@ -67,7 +71,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:Francis2013_01"/></bibl></p>
-                <p>This edition by Emmanuel Francis, from autopsy and photos.</p>
+                <p>This edition by Emmanuel Francis, from autopsy and photos (Emmanuel Francis, 2004).</p>
                 
                 <listBibl type="primary">
                     <bibl></bibl>
