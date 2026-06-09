@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Mahābalipuram, Dharmarājaratha, <foreign>biruda</foreign>s and temple name</title>
+                <title>Mahābalipuram, Dharmarājaratha, <foreign>biruda</foreign>s and temple’s name</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -68,7 +68,7 @@
                         <lb n="C1"/><unclear>śr</unclear>ī-meghaḥ trailokya-varddhanaḥ vidhiḥ
                     </p>
                     <p>
-                        <lb n="C2"/>Atyantakāmaḥ Aneko<choice><sic>bh</sic><corr>p</corr></choice>āyaḥ
+                        <lb n="C2"/>Atyanta-kāmaḥ Aneko<choice><sic>bh</sic><corr>p</corr></choice>āyaḥ
                     </p></div>
                 
                 <div type="textpart" n="D"><head>Second storey, north side</head>
@@ -82,12 +82,12 @@
                     </p>
                     
                     <p>
-                        <lb n="D3.1"/>kāmalaḷitaḥ Ameyamāyaḥ
-                        <lb n="D3.2"/>sakalakalyāṇaḥ
+                        <lb n="D3.1"/>kāma-laḷitaḥ Ameyamāyaḥ
+                        <lb n="D3.2"/>sakala-kalyāṇaḥ
                     </p>
                     
                     <p>
-                        <lb n="D4.1"/>nayanamanoharaḥ vāmaḥ
+                        <lb n="D4.1"/>nayana-manoharaḥ vāmaḥ
                         <lb n="D4.2"/>Atimānaḥ
                     </p>
                 </div>
@@ -108,11 +108,11 @@
                         <lb n="F1"/>laḷitaḥ
                     </p>
                     <p>
-                        <lb n="F2.1"/>nayanamanoharaḥ
-                        <lb n="F2.2"/>sarvvatobhadraḥ
+                        <lb n="F2.1"/>nayana-manoharaḥ
+                        <lb n="F2.2"/>sarvvato-bhadraḥ
                     </p>
                     <p>
-                        <lb n="F3.1"/>śrīnidhiḥ
+                        <lb n="F3.1"/>śrī-nidhiḥ
                         <lb n="F3.2"/>niruttaraḥ
                     </p>
                     <p>
@@ -152,7 +152,7 @@
             </div>
             
             <div type="commentary">
-                
+                <p>See also the inscriptions <ref target="DHARMA_INSPallava00047.xml">Pallava 47</ref> and <ref target="DHARMA_INSPallava00317.xml">Pallava 317</ref>.</p>
             </div>
             
             
