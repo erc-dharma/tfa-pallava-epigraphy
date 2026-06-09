@@ -158,7 +158,7 @@
             
             <div type="bibliography">
                 
-                <p>Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.1-17).</p>
+                <p>Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.1-17), in <bibl><ptr target="bib:Hultzsch1909-1910_01"/></bibl> (EI 10.1.A.1-17).</p>
                 <p>This revised edition by Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
@@ -167,6 +167,12 @@
                         <ptr target="bib:Hultzsch1890_01"/>
                         <citedRange unit="page">2-4</citedRange>
                         <citedRange unit="item">1-17</citedRange>
+                    </bibl>
+                    
+                    <bibl n="EI">
+                        <ptr target="bib:Hultzsch1909-1910_01"/>
+                        <citedRange unit="page">5-8</citedRange>
+                        <citedRange unit="item">A.1-17</citedRange>
                     </bibl>
                     
                 </listBibl>

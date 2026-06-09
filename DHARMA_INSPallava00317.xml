@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>An isolated <foreign>biruda</foreign> on the east face of the <foreign>dvitala</foreign> of the Dharmarājaratha.</summary>
+                        <summary>A <foreign>biruda</foreign> on the east face of the <foreign>dvitala</foreign> of the Dharmarājaratha.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -78,24 +78,37 @@
             <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                 
                 <p>
-                    <lb n="1"/>mahāmalla<unclear>ḥ</unclear>
+                    <lb n="1"/>mahāmalla
                 </p>      		
                 
             </div>
             
+            <div type="apparatus">
+                <listApp>
+                    <app loc="1">
+                        <lem source="bib:Lockwood1993_01">mahāmalla</lem>
+                        <rdg source="bib:ARIE1958-1959 bib:Mahalingam1988_01">mahāmalla<unclear>ḥ</unclear></rdg>
+                    </app>
+                </listApp>
+            </div>
+            
             <div type="translation" resp="part:emfr">
-                 <p>The great wrestler.</p>
+                <p>The great wrestler.</p>
             </div>
             
             <div type="translation" xml:lang="fra" resp="part:emfr">
                 <p>Le grand lutteur.</p>
             </div>
-                        
+            
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1958-1959"/></bibl> (ARIE/1958-1959/B/1958-1959/384).</p>
-                <p>Edited in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 317).</p>
+                <p>Edited in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 317); in <bibl><ptr target="bib:Lockwood1993_01"/></bibl>.</p>
                 <p>This digital edition by Emmanuel Francis.</p>
+                <p>Photos:
+                    <bibl><ptr target="bib:Lockwood1993_01"/><citedRange unit="page">80</citedRange></bibl>,
+                    <bibl><ptr target="bib:Rabe1996_01"/><citedRange unit="plate">29</citedRange></bibl>.
+                </p>
                 
                 <listBibl type="primary">   
                     
@@ -103,34 +116,39 @@
                         <ptr target="bib:Mahalingam1988_01"/>
                         <citedRange unit="page">716</citedRange>
                         <citedRange unit="item">317</citedRange>
-                    </bibl>
+                    </bibl>                    
                     
                 </listBibl>
                 
                 <listBibl type="secondary">         		    		
                     
-                    <bibl>
+                    <bibl n="ARIE">
                         <ptr target="bib:ARIE1958-1959"/>
                         <citedRange unit="page">62</citedRange>
                         <citedRange unit="appendix">B/1958-1959</citedRange>
                         <citedRange unit="item">384</citedRange>
-                    </bibl>       
-                    
-                    <bibl>
-                        <ptr target="bib:Srinivasan1975_01"/>
-                        <citedRange unit="page">89</citedRange>
                     </bibl>
-                    
-                    <bibl>
-                        <ptr target="bib:Lockwood1993_01"/>
-                        <citedRange unit="page">80</citedRange>
-                    </bibl>    
                     
                     <bibl>
                         <ptr target="bib:Francis2013_01"/>
                         <citedRange unit="page">TBC</citedRange>
                         <citedRange unit="item">IR 56</citedRange>
+                    </bibl>  
+                    
+                    <bibl n="L">
+                        <ptr target="bib:Lockwood1993_01"/>
+                        <citedRange unit="page">80</citedRange>
                     </bibl>    
+                    
+                    <bibl>
+                        <ptr target="bib:Rabe1996_01"/>
+                        <citedRange unit="plate">29</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:Srinivasan1975_01"/>
+                        <citedRange unit="page">89</citedRange>
+                    </bibl>
                     
                     
                 </listBibl>
