@@ -78,7 +78,7 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
                 <p>
-                    [text not available]
+                    <gap reason="ellipsis"/>                        
                 </p>
                 
             </div>
@@ -92,6 +92,7 @@
                 </div>-->
             
             <div type="commentary"> 		
+                <p>Text not available yet.</p>
                 <p>See <bibl><ptr target="bib:ARIE1943-1945"/></bibl> (p. 56): <quote>At Chinnanāgapūṭi, Chittoor District, was found a record (No. 133 of 1943-44)
                     of Kō-Vijaya-Narasi[ṁhavarman] incised
                     in Tamil characters of the 9th century A.D.
