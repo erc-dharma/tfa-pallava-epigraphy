@@ -118,9 +118,9 @@
                     <milestone n="8" unit="zone" type="pagelike"/>
                     <label>8th chapel</label>
                     <!--SII 1.25: The second and third tiers also read <foreign>Atyadāraḥ</foreign> for <foreign>Atyudāraḥ</foreign>.-->
-                    <lb n="8.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Aty<seg rend="check"><choice><sic>a</sic><corr>u</corr></choice></seg>dāraḥ śrī-Anunaya-sāddhyaḥ śrī-Āhava-kesar<del>i</del><add place="unspecified">ī</add><surplus>ḥ</surplus></seg>
-                    <lb n="8.2"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">śrī-Aty<seg rend="check"><choice><sic>a</sic><corr>u</corr></choice></seg>dāraḥ śrī-Anunaya-s<supplied reason="lost">āddhyaḥ śrī-Āhava-kesarī</supplied></seg>
-                    <lb n="8.3"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">śrī-Aty<seg rend="check"><choice><sic>a</sic><corr>u</corr></choice></seg>dāraḥ śrī-Anunaya-sāddhyaḥ śrī-Āhava-ke<supplied reason="lost">sarī</supplied></seg>
+                    <lb n="8.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Aty<hi rend="check"><choice><sic>a</sic><corr>u</corr></choice></hi>dāraḥ śrī-Anunaya-sāddhyaḥ śrī-Āhava-kesar<del>i</del><add place="unspecified">ī</add><surplus>ḥ</surplus></seg>
+                    <lb n="8.2"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">śrī-Aty<hi rend="check"><choice><sic>a</sic><corr>u</corr></choice></hi>dāraḥ śrī-Anunaya-s<supplied reason="lost">āddhyaḥ śrī-Āhava-kesarī</supplied></seg>
+                    <lb n="8.3"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">śrī-Aty<hi rend="check"><choice><sic>a</sic><corr>u</corr></choice></hi>dāraḥ śrī-Anunaya-sāddhyaḥ śrī-Āhava-ke<supplied reason="lost">sarī</supplied></seg>
                     <lb n="8.4"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Ugra-<unclear>vī</unclear>ryyaḥ śrī-Uditoditaḥ</seg>
                 </p>
                 
@@ -164,8 +164,8 @@
                 <p>
                     <milestone n="13" unit="zone" type="pagelike"/>
                     <label>13rd chapel</label>
-                    <lb n="13.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-para-cakra-marddanaḥ śrī-narendra-cū<seg rend="check">l</seg>āmaṇiḥ śrī-nitya-varṣaḥ śrī-rāja-rājaḥ</seg>
-                    <lb n="13.2"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined"><unclear>śrī</unclear>-para-cakra-mardda<supplied reason="lost">naḥ śrī-narendra-cū<seg rend="check">l</seg>āmaṇiḥ śrī-nitya-varṣaḥ śrī-rāja-rājaḥ</supplied></seg>
+                    <lb n="13.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-para-cakra-marddanaḥ śrī-narendra-cū<hi rend="check">l</hi>āmaṇiḥ śrī-nitya-varṣaḥ śrī-rāja-rājaḥ</seg>
+                    <lb n="13.2"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined"><unclear>śrī</unclear>-para-cakra-mardda<supplied reason="lost">naḥ śrī-narendra-cū<hi rend="check">l</hi>āmaṇiḥ śrī-nitya-varṣaḥ śrī-rāja-rājaḥ</supplied></seg>
                     <lb n="13.3"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">śrī-para-cakra-marddanaḥ śrī-narendra-cūḷāmaṇiḥ śrī-nitya-varṣaḥ śrī-rāja-rājaḥ</seg>                    
                     <lb n="13.4"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-khara-vikramaḥ śrī-khinnānukampī<surplus>ḥ</surplus></seg>
                 </p>
