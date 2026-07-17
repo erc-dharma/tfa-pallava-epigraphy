@@ -11,7 +11,7 @@
                 <title>Parameśvaramaṅgalam, time of Nṛpatuṅgavarman, year
                     16</title>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp key="creator">intellectual authorship of edition</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>

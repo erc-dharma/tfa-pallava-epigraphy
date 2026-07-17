@@ -10,7 +10,7 @@
          <titleStmt>
             <title>Kāvērippākkam, time of Nandivarman, year 13</title>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp key="creator">intellectual authorship of edition</resp>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>

@@ -12,7 +12,7 @@
 			<titleStmt>
 				<title>Vīraṇam, time of Kampapōttaraiyar, year 14</title>
 				<respStmt>
-					<resp>author of digital edition</resp>
+					<resp key="creator">author of digital edition</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>

@@ -10,7 +10,7 @@
          <titleStmt>
             <title>Uttiramērūr, Vaikuṇṭhaperumāḷ, time of Dantivikramavarman, year 21</title>
             <respStmt>
-               <resp>EpiDoc encoding</resp>
+               <resp key="creator">EpiDoc encoding</resp>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>

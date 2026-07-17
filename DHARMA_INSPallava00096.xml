@@ -10,7 +10,7 @@
          <titleStmt>
             <title>Uttiramērūr, Vaikuṇṭhaperumāḷ, no king, no year</title>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp key="creator">intellectual authorship of edition</resp>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>

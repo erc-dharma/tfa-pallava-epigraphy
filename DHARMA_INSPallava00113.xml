@@ -10,7 +10,7 @@
          <titleStmt>
             <title>Tiruccāṉūr, time of Dantivikramadeva, year [figure lost]</title>
             <respStmt>
-               <resp>EpiDoc encoding</resp>
+               <resp key="creator">EpiDoc encoding</resp>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>

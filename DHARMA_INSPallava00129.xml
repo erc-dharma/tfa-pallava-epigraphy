@@ -11,7 +11,7 @@
                 <title>Kīḻūr, time of Nandivikramavarman, year 16</title>
                 <!--check localisation! Which of the 2 temples-->
                 <respStmt>
-                    <resp>author of digital edition</resp>
+                    <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
