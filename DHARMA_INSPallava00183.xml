@@ -5,153 +5,146 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Putuppākkam, time of [...]pōttaraiyar, year 24</title>
-				<respStmt>
-					<resp key="contributor">EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp key="creator">intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
-				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">DHARMA_INSPallava00183.xml</idno>
-				<availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary>Donation of land after purchase?</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p/>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2021-09-08" status="draft">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-   	<body>
-   		
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-      		
-   			<p>
-   				<lb n="1"/><gap reason="lost" quantity="10" unit="character"/>p-pōttaraiya<reg>r</reg>kku yāṇṭ’ iru-pattu nā
-   				<lb n="2" break="no"/><supplied reason="lost">ṇkāvatu</supplied><gap reason="lost" quantity="6" unit="character"/><unclear>yi</unclear>ṟ-kōṭṭattu mēṟpaḷukūr-nāṭṭu nal
-   				<lb n="3" break="no"/><gap reason="lost" quantity="10" unit="character"/><unclear>y ā</unclear>ḷum kaṇattāruḷ <unclear>cū</unclear><choice><orig>n</orig><reg>ṉ</reg></choice>ṟūr civa-nanti
-   				<lb n="4" break="no"/><gap reason="lost" quantity="10" unit="character"/>vūrkku <hi rend="grantha">bha</hi>ṭṭa-<hi rend="grantha">v<choice><sic>ir</sic><corr>ṛ</corr></choice>tti</hi>-y-āka iru-nūṟṟu-k kaḻañ
-   				<lb n="5" break="no"/><supplied reason="lost">cu</supplied> <gap reason="lost" quantity="9" unit="character"/>po<choice><orig>nn</orig><reg>ṉṉ</reg></choice>āl vanta nilam Epp<choice><sic>o</sic><corr>ē</corr></choice>rppaṭṭa Iṟai
-   				<lb n="6" break="no"/><gap reason="lost" quantity="10" unit="character"/>m ā<choice><orig>n</orig><reg>ṉ</reg></choice>ōm
-   				
-   			</p>
-   			
-   		</div>
-   		
-<div type="apparatus">
-   			
-	<listApp>
-		
-		<app loc="1">
-			<lem>nā
-				<lb n="2" break="no"/><supplied reason="lost">ṇkāvatu</supplied></lem>
-			<rdg source="bib:VenkatasubbaAyyar1943_01">nā
-				<lb n="2" break="no"/><gap reason="lost" quantity="6" unit="character"/></rdg>
-		</app>
-		
-		
-		<app loc="4">
-			<lem>kaḻañ
-				<lb n="5" break="no"/><supplied reason="lost">cu</supplied></lem>
-			<rdg source="bib:VenkatasubbaAyyar1943_01">kaḻañ
-				<lb n="5" break="no"/><gap reason="lost" quantity="1" unit="character"/></rdg>
-		</app>		   				
-		
-	</listApp>
-	
-</div>
-   		
-      	<div type="translation" resp="part:emfr">
-      		      		
-      		<p n="1">
-      			<gap reason="lost"/>
-      		</p>
-      		
-      		<p n="1-2">
-      			Twenty-<supplied reason="lost">fourth</supplied> year of  <gap reason="lost"/>ppōttaraiyar.<note>That is, the Pallava king <gap reason="lost"/>.</note>
-      		</p>
-      		
-      		<p n="2-6">
-      			
-      		</p>
-      		
-         </div>      	
-         
-         <div type="commentary">
-         	
-         	<p>Note on the identification of the king.</p>
-         	         	
-         </div>
-
-<div type="bibliography">
-
-            <p>Reported in <bibl><ptr target="bib:ARIE1922-1923"/></bibl> (ARIE/1922-1923/C/1923/60).</p>
-	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.76). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 183).</p>
-         	<p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
-
-            	<listBibl type="primary">
-        		
-        		<bibl n="SII">
-    				<ptr target="bib:VenkatasubbaAyyar1943_01"/>
-    				<citedRange unit="page">33</citedRange>
-    				<citedRange unit="item">76</citedRange>
-    			</bibl> 
-            	   
-        		<bibl n="IP">
-        			<ptr target="bib:Mahalingam1988_01"/>
-        			<citedRange unit="page">512</citedRange>
-        			<citedRange unit="item">183</citedRange>
-        		</bibl>        		
-        		
-        	</listBibl>
-        	
-        	<listBibl type="secondary">
-        		
-        		<bibl>
-        			<ptr target="bib:ARIE1922-1923"/>
-        			<citedRange unit="page">67</citedRange>
-        			<citedRange unit="appendix">C/1923</citedRange>
-        			<citedRange unit="item">60</citedRange>
-        		</bibl>
-        		
-        	</listBibl>
-
-         </div>
-
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Putuppākkam, time of [...]pōttaraiyar, year 24</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>	
+            </titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSPallava00183.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Donation of land after purchase?</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2021-09-08" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <p>
+                    <lb n="1"/><gap reason="lost" quantity="10" unit="character"/>p-pōttaraiya<reg>r</reg>kku yāṇṭ’ iru-pattu nā
+                    <lb n="2" break="no"/><supplied reason="lost">ṇkāvatu</supplied><gap reason="lost" quantity="6" unit="character"/><unclear>yi</unclear>ṟ-kōṭṭattu mēṟpaḷukūr-nāṭṭu nal
+                    <lb n="3" break="no"/><gap reason="lost" quantity="10" unit="character"/><unclear>y ā</unclear>ḷum kaṇattāruḷ <unclear>cū</unclear><choice><orig>n</orig><reg>ṉ</reg></choice>ṟūr civa-nanti
+                    <lb n="4" break="no"/><gap reason="lost" quantity="10" unit="character"/>vūrkku <hi rend="grantha">bha</hi>ṭṭa-<hi rend="grantha">v<choice><sic>ir</sic><corr>ṛ</corr></choice>tti</hi>-y-āka iru-nūṟṟu-k kaḻañ
+                    <lb n="5" break="no"/><supplied reason="lost">cu</supplied> <gap reason="lost" quantity="9" unit="character"/>po<choice><orig>nn</orig><reg>ṉṉ</reg></choice>āl vanta nilam Epp<choice><sic>o</sic><corr>ē</corr></choice>rppaṭṭa Iṟai
+                    <lb n="6" break="no"/><gap reason="lost" quantity="10" unit="character"/>m ā<choice><orig>n</orig><reg>ṉ</reg></choice>ōm
+                    
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>
+                    
+                    <app loc="1">
+                        <lem>nā
+                            <lb n="2" break="no"/><supplied reason="lost">ṇkāvatu</supplied></lem>
+                        <rdg source="bib:VenkatasubbaAyyar1943_01">nā
+                            <lb n="2" break="no"/><gap reason="lost" quantity="6" unit="character"/></rdg>
+                    </app>
+                    
+                    
+                    <app loc="4">
+                        <lem>kaḻañ
+                            <lb n="5" break="no"/><supplied reason="lost">cu</supplied></lem>
+                        <rdg source="bib:VenkatasubbaAyyar1943_01">kaḻañ
+                            <lb n="5" break="no"/><gap reason="lost" quantity="1" unit="character"/></rdg>
+                    </app>		   				
+                    
+                </listApp>
+                
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                
+                <p n="1">
+                    <gap reason="lost"/>
+                </p>
+                
+                <p n="1-2">
+                    Twenty-<supplied reason="lost">fourth</supplied> year of  <gap reason="lost"/>ppōttaraiyar.<note>That is, the Pallava king <gap reason="lost"/>.</note>
+                </p>
+                
+                <p n="2-6">
+                    
+                </p>
+                
+            </div>      	
+            
+            <div type="commentary">
+                
+                <p>Note on the identification of the king.</p>
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1922-1923"/></bibl> (ARIE/1922-1923/C/1923/60).</p>
+                <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.76). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 183).</p>
+                <p>This digital edition by Emmanuel Francis, based on previous edition(s).</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:VenkatasubbaAyyar1943_01"/>
+                        <citedRange unit="page">33</citedRange>
+                        <citedRange unit="item">76</citedRange>
+                    </bibl> 
+                    
+                    <bibl n="IP">
+                        <ptr target="bib:Mahalingam1988_01"/>
+                        <citedRange unit="page">512</citedRange>
+                        <citedRange unit="item">183</citedRange>
+                    </bibl>        		
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1922-1923"/>
+                        <citedRange unit="page">67</citedRange>
+                        <citedRange unit="appendix">C/1923</citedRange>
+                        <citedRange unit="item">60</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>
