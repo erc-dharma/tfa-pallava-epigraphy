@@ -5,147 +5,147 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-             <title>Trichy, time of Laḷitāṅkura</title>
-            <respStmt>
-               <resp key="creator">author of digital edition</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
-                  <surname>Francis</surname>
-               </persName>
-            </respStmt>                
-         </titleStmt>
-         <publicationStmt>
-            <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
-            <pubPlace>Paris, CEIAS</pubPlace>
-            <idno type="filename">DHARMA_INSPallava00035.xml</idno>
-            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
-            <date from="2019" to="2025">2019-2025</date>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc>
-               <msIdentifier>
-                  <repository>DHARMAbase</repository>
-                  <idno/>
-               </msIdentifier>
-               <msContents>
-                   <summary>Verse recording the foundation of the Laḷitāṅkurapallaveśvaragṛha by Laḷitāṅkura (Mahendravarman I Pallava).</summary>
-               </msContents>
-               <physDesc>
-                  <handDesc>
-                     <p/>
-                  </handDesc>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
-      <revisionDesc>
-         <change who="part:emfr" when="2025-01-23" status="draft">Creation of the file</change>
-      </revisionDesc>
-   </teiHeader>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Trichy, time of Laḷitāṅkura</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>                
+            </titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSPallava00035.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Verse recording the foundation of the Laḷitāṅkurapallaveśvaragṛha by Laḷitāṅkura (Mahendravarman I Pallava).</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2025-01-23" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
     
-<text xml:space="preserve">
-<body>
-
-<div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-                      	
-    <lg n="1" met="āryāgīti">
-        
-        <l n="ab"><lb n="1"/>Iti jagati vidita-nām<unclear>n</unclear>ā laḷitaṁ laḷitāṁkureṇa pal<unclear>la</unclear>va-patin<unclear>ā</unclear></l>
-        <l n="cd"><lb n="2"/>kṛtinā kāritam etal laḷ<unclear>i</unclear>tāṁkura-pallaveśvara-gṛham <unclear>ma</unclear>hi<unclear>tam</unclear></l>
-        
-    </lg>
-    
-</div>
-
-<!--<div type="apparatus">
-
-    <listApp>
-        
-        <app loc="0">
-            <lem></lem>
-            <rdg source="bib:..."></rdg>
-        </app>	
-        
-    </listApp>
-
-</div>-->
-          
-<div type="translation" resp="part:emfr">
+    <text xml:space="preserve">
+        <body>
             
-   <p>
-      Thus <supplied reason="explanation"><foreign>iti</foreign></supplied>, this charming and celebrated house of Laḷitāṅkurapallaveśvara<note>The lord <supplied reason="explanation">Śiva</supplied> of the Pallava <supplied reason="subaudible">king</supplied> Laḷitāṅkura <supplied reason="explanation">the charming sprout</supplied>.</note> has been made by the wise/skilful/pious <supplied reason="explanation"><foreign>kṛtin</foreign></supplied> Pallava king Laḷitāṅkura, whose name is famous in the world.
-   </p>
-      		
-</div>
-         
-<!--<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
+            <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+                
+                <lg n="1" met="āryāgīti">
+                    
+                    <l n="ab"><lb n="1"/>Iti jagati vidita-nām<unclear>n</unclear>ā laḷitaṁ laḷitāṁkureṇa pal<unclear>la</unclear>va-patin<unclear>ā</unclear></l>
+                    <l n="cd"><lb n="2"/>kṛtinā kāritam etal laḷ<unclear>i</unclear>tāṁkura-pallaveśvara-gṛham <unclear>ma</unclear>hi<unclear>tam</unclear></l>
+                    
+                </lg>
+                
+            </div>
             
-   <p>
-      
-   </p>
-      		
-</div>-->
-      	
-<div type="commentary"/>
-
-      	
-<div type="bibliography">
-      		
-   <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/411A).</p> 
-   <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.9). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 35). Text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 27). See <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 26).</p>
-   <p>This revised edition by Emmanuel Francis, based on autopsy and photos (TBC).</p>
-
-    <listBibl type="primary">
-        
-        <bibl n="SII">
-            <ptr target="bib:VenkatasubbaAyyar1943_01"/>
-            <citedRange unit="page">6</citedRange>
-            <citedRange unit="item">9</citedRange>
-        </bibl>
-        
-        <bibl n="IP">
-            <ptr target="bib:Mahalingam1988_01"/>
-            <citedRange unit="page">133</citedRange>
-            <citedRange unit="item">35</citedRange>            		
-        </bibl>            	
-        <bibl n="B">
-            <ptr target="bib:Brocquet1997_01"/>
-            <citedRange unit="page">491-492</citedRange>
-            <citedRange unit="item">27</citedRange>            		
-        </bibl>            	           	
-        
-    </listBibl>
-    
-    <listBibl type="secondary">
-        
-        <bibl n="ARIE">
-            <ptr target="bib:ARIE1904-1905"/>
-            <citedRange unit="page">15</citedRange>
-            <citedRange unit="appendix">A/1904</citedRange>
-            <citedRange unit="item">411</citedRange>
-        </bibl>
-        <bibl>
-            <ptr target="bib:Srinivasan1964_01"/>
-            <citedRange unit="page">79-89</citedRange>
-        </bibl>
-        <bibl>
-            <ptr target="bib:Francis2013_01"/>
-            <citedRange unit="page">273</citedRange>
-        </bibl>
-        <bibl>
-            <ptr target="bib:Francis2017_01"/>
-            <citedRange unit="page">513</citedRange>
-        </bibl>
-    </listBibl>
-    
-      	</div>
-      	
-      </body>
-  </text>
+            <!--<div type="apparatus">
+                
+                <listApp>
+                
+                <app loc="0">
+                <lem></lem>
+                <rdg source="bib:..."></rdg>
+                </app>	
+                
+                </listApp>
+                
+                </div>-->
+            
+            <div type="translation" resp="part:emfr">
+                
+                <p>
+                    Thus <supplied reason="explanation"><foreign>iti</foreign></supplied>, this charming and celebrated house of Laḷitāṅkurapallaveśvara<note>The lord <supplied reason="explanation">Śiva</supplied> of the Pallava <supplied reason="subaudible">king</supplied> Laḷitāṅkura <supplied reason="explanation">the charming sprout</supplied>.</note> has been made by the wise/skilful/pious <supplied reason="explanation"><foreign>kṛtin</foreign></supplied> Pallava king Laḷitāṅkura, whose name is famous in the world.
+                </p>
+                
+            </div>
+            
+            <!--<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
+                
+                <p>
+                
+                </p>
+                
+                </div>-->
+            
+            <div type="commentary"/>
+            
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/411A).</p> 
+                <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.9). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 35). Text and translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 27). See <bibl><ptr target="bib:Francis2013_01"/></bibl> (IR 26).</p>
+                <p>This revised edition by Emmanuel Francis, based on autopsy and photos (TBC).</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:VenkatasubbaAyyar1943_01"/>
+                        <citedRange unit="page">6</citedRange>
+                        <citedRange unit="item">9</citedRange>
+                    </bibl>
+                    
+                    <bibl n="IP">
+                        <ptr target="bib:Mahalingam1988_01"/>
+                        <citedRange unit="page">133</citedRange>
+                        <citedRange unit="item">35</citedRange>            		
+                    </bibl>            	
+                    <bibl n="B">
+                        <ptr target="bib:Brocquet1997_01"/>
+                        <citedRange unit="page">491-492</citedRange>
+                        <citedRange unit="item">27</citedRange>            		
+                    </bibl>            	           	
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl n="ARIE">
+                        <ptr target="bib:ARIE1904-1905"/>
+                        <citedRange unit="page">15</citedRange>
+                        <citedRange unit="appendix">A/1904</citedRange>
+                        <citedRange unit="item">411</citedRange>
+                    </bibl>
+                    <bibl>
+                        <ptr target="bib:Srinivasan1964_01"/>
+                        <citedRange unit="page">79-89</citedRange>
+                    </bibl>
+                    <bibl>
+                        <ptr target="bib:Francis2013_01"/>
+                        <citedRange unit="page">273</citedRange>
+                    </bibl>
+                    <bibl>
+                        <ptr target="bib:Francis2017_01"/>
+                        <citedRange unit="page">513</citedRange>
+                    </bibl>
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>

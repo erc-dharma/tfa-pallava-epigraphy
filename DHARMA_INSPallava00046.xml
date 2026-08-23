@@ -43,8 +43,8 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:emfr" when="2025-02-24" status="draft">Creation of the file</change>
         </revisionDesc>
@@ -113,12 +113,12 @@
                         
                         <pb n="5r" break="no"/>
                         
-                        <lb n="5r7=55" break="no"/>tta-parihāre datta Iti
+                        <lb n="5r7=55" break="no"/><surplus>tta</surplus> <supplied reason="omitted">sarvva-kara</supplied>-parihāre<supplied reason="omitted">ṇa</supplied> datta Iti
                     </p>
                     
                     <p>
                         Atrā<surplus>ñ</surplus>jñaptiḥ Uttara-kāraṇikā-mahāsena-datta<supplied reason="omitted">ḥ</supplied> vidyāvinī
-                        <lb n="5r8=56" break="no"/>ta-pallava-parameśvara-gṛha Iha ca deva-karmma-<unclear>na</unclear>va-<supplied reason="omitted">kar</supplied>mma<supplied reason="omitted">rthe</supplied> kūrattācāryya-putra-Ananta
+                        <lb n="5r8=56" break="no"/>ta-pallava-parameśvara-gṛha Iha ca deva-karmma-<unclear>na</unclear>va-<supplied reason="omitted">kar</supplied>mm<supplied reason="omitted">ārthaṃ</supplied> kūrattācāryya-putra-Ananta
                         
                         <pb n="5v" break="no"/>
                         <lb n="5v1=57" break="no"/>-śiva-Ācāryya<supplied reason="omitted">ḥ</supplied> <unclear>datta</unclear> Iti <unclear>phu</unclear>llaśarmm<choice><sic>a</sic><corr>ā</corr></choice> dvau putra-<unclear>pautrā</unclear> Ā<choice><sic>ñj</sic><corr>jñ</corr></choice>a<supplied reason="omitted">p</supplied>tāḥ <g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:dash-long" type="punctuation">.</g>
