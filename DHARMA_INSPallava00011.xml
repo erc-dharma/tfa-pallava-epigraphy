@@ -36,15 +36,15 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>...</p>
+                            <p/>
                         </handDesc>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:emfr" when="2025-02-17" status="draft">Creation of the file</change>
         </revisionDesc>
@@ -128,7 +128,7 @@
                         <lb n="3v1=17" break="no"/>ra-grāme rāja-vastu bhūtvā sthitañ catu<supplied reason="omitted">r</supplied>-ddiśam aṣṭa-śata-paṭṭikā-sa-
                         <lb n="3v2=18"/>mmitaṁ samudāyato dvātri<unclear>ṁ</unclear>śad-yukta-catuśśat<choice><sic>i</sic><corr>a</corr></choice>-paṭṭikā-sammita<unclear>ṁ</unclear> kṣetra<supplied reason="omitted">ṁ</supplied>
                         <lb n="3v3=19"/>brāhmaṇāya kauṇḍinya-gotrāya cchandoga-sūtrāyābhi
-                        <lb n="3v4=20"/>rūpā<unclear>puḷḷaḷuru</unclear>-vāstavyāya bhavaskandatrātāya brahmade<supplied reason="omitted">ya</supplied> 
+                        <lb n="3v4=20" break="no"/>rūpā<unclear>puḷḷaḷuru</unclear>-vāstavyāya bhavaskandatrātāya brahmade<supplied reason="omitted">ya</supplied> 
                         <pb n="4r" break="no"/>
                         <lb n="4r1=21" break="no"/>-ma<unclear>r</unclear>yyādayā deva-bhoga-varjja<unclear>ṁ</unclear> hala-nyāyena sarvva-parihāropetam a
                         <lb n="4r2=22" break="no"/>sma<surplus>dā</surplus>d-āyur-bbala-vijayaiśvaryyābhivṛddhaye pravarddhamāna-vijaya 
