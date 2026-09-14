@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Peddamuḍiyam stray plate, time of Siṃhavarman</title>
+                <title>Peddamuḍiyam stray plate, time of Siṁhavarman</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -58,9 +58,9 @@
                 
                 <p>
                     <pb n="1r"/>
-                    <lb n="1r1=1"/>m pallavān<unclear>ā</unclear>m dharmma-yuva-mahārāja-kumārāvara-śrī-siṃhavarmmā hiraṇya-rāṣṭr<unclear>e</unclear> Angū
+                    <lb n="1r1=1"/>m pallavān<unclear>ā</unclear>m dharmma-yuva-mahārāja-kumārāvara-śrī-siṁhavarmmā hiraṇya-rāṣṭr<unclear>e</unclear> Angū
                     <lb n="1r2=2" break="no"/><seg rendition="class:telugu maturity:regional">ṟe</seg>śvarāyatana-sannikṛṣṭe pu<seg rendition="class:telugu maturity:regional">ḻu</seg>sulūra-grāmeyakān atrā<unclear>dhikṛta-sarvva-naiyyo</unclear>gi
-                    <lb n="1r3=3" break="no"/>ka-valla<unclear>bhāṃś</unclear> cājñāpayati
+                    <lb n="1r3=3" break="no"/>ka-valla<unclear>bhāṁś</unclear> cājñāpayati
                 </p>
                 <p>
                     Ayam aśmābhiḥ pu<seg rendition="class:telugu maturity:regional">ḻu</seg>sulū<unclear>ra</unclear> <gap reason="lost" quantity="9" unit="character" precision="low"/> <supplied reason="lost">vā</supplied>
@@ -72,12 +72,12 @@
                             <pb n="1v" break="no"/>
                             <fw n="1v" place="left">5</fw>
                             <lb n="1v1=5" break="no"/><unclear>deva</unclear> <gap reason="lost" quantity="5" unit="character" precision="low"/> <supplied reason="lost">śa</supplied>rmmaṇe ca</item>
-                        <item>bhāradvāja-sago<supplied reason="lost">t</supplied>ra<supplied reason="lost">bh</supplied>y<supplied reason="lost">ān</supplied> t<unclear>aittirīyābhyāṃ</unclear>
+                        <item>bhāradvāja-sago<supplied reason="lost">t</supplied>ra<supplied reason="lost">bh</supplied>y<supplied reason="lost">ān</supplied> t<unclear>aittirīyābhyāṁ</unclear>
                             <lb n="1v2=6"/><unclear>t</unclear>i-<unclear>śaṟ</unclear>mma <gap reason="lost" quantity="2" unit="character" precision="low"/> <supplied reason="lost">śa</supplied>rmmabhyāñ ca</item>
                         <item>Ātreya-sagotrāya vājasaneyine yajña-<unclear>śarmmaṇe</unclear>
                             <lb n="1v3=7"/><unclear>kaśya</unclear>pa-sagotrāya vājasaneyine Ayila-dāma-śarmmaṇe ca</item>
                         <item>bhāradvāja-sa
-                            <lb n="1v4=8" break="no"/>gotrabhyāṃ vājasaneyibhyāṃ gaṇa-dāsa-śarmmā-gaṇa-deva-śarmmabhyāñ ca</item></list> Ebhyo nava<unclear>bh</unclear>yo
+                            <lb n="1v4=8" break="no"/>gotrabhyāṁ vājasaneyibhyāṁ gaṇa-dāsa-śarmmā-gaṇa-deva-śarmmabhyāñ ca</item></list> Ebhyo nava<unclear>bh</unclear>yo
                     
                 </p>
                 
@@ -123,8 +123,8 @@
                     </app>
                     
                     <app loc="5">
-                        <lem>t<unclear>aittirīyābhyāṃ</unclear></lem>
-                        <rdg source="bib:Ramesh1993_01">taittirīyābhyāṃ</rdg>
+                        <lem>t<unclear>aittirīyābhyāṁ</unclear></lem>
+                        <rdg source="bib:Ramesh1993_01">taittirīyābhyāṁ</rdg>
                     </app>
                     
                 </listApp>
@@ -134,7 +134,7 @@
             <div type="translation" resp="part:emfr">
                 
                 <p n="1-3">
-                    The glorious Siṃhavarman, junior son, crown prince according to the <foreign>dharma</foreign>, of <supplied reason="subaudible">the family of</supplied> the Pallavas <gap reason="lost"/>
+                    The glorious Siṁhavarman, junior son, crown prince according to the <foreign>dharma</foreign>, of <supplied reason="subaudible">the family of</supplied> the Pallavas <gap reason="lost"/>
                     orders the villagers of Puḷusulūra in the vicinity of the temple of Angūṟeśvara in the Hiraṇyarāṣṭra and all the <foreign>naiyogika</foreign>s and <foreign>vallabha</foreign>s in charge there <supplied reason="subaudible">as follows:</supplied>
                 </p>
                 

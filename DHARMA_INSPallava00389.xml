@@ -66,7 +66,7 @@
                 
                 <lg n="1" met="mandākrāntā">
                     <l n="a">lokotpatti-sthiti-laya-vidher īśate yasya līlā</l> 
-                    <l n="b"><unclear>yatrāyatya</unclear> parama<lb n="1v2=2" break="no"/>-madhuraṃ śarma-lo<choice><orig>g</orig><reg>k</reg></choice>eśvarāś ca</l>
+                    <l n="b"><unclear>yatrāyatya</unclear> parama<lb n="1v2=2" break="no"/>-madhuraṁ śarma-lo<choice><orig>g</orig><reg>k</reg></choice>eśvarāś ca</l>
                     <l n="c">du<unclear>r</unclear>vijñātaś carati mahimā yasya vedho-ha<lb n="1v3=3" break="no"/>ribhyān</l>
                     <l n="d">tad vaḥ pāyād amalam atulan dhāma candrārdha-mauleḥ <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                 </lg>
@@ -109,17 +109,17 @@
                 
                 
                 <lg n="7" met="mālinī">
-                    <l n="a">sukṛtam idam ajasraṃ ra<choice><orig>t</orig><reg>k</reg></choice>ṣateti <choice><orig>t</orig><reg>k</reg></choice>ṣitīśās</l>
+                    <l n="a">sukṛtam idam ajasraṁ ra<choice><orig>t</orig><reg>k</reg></choice>ṣateti <choice><orig>t</orig><reg>k</reg></choice>ṣitīśās</l>
                     <l n="b">sakala-nṛpati-<unclear>ketu</unclear>
                         <lb n="5r6=66" break="no"/>s so 'yam āgāmino vaḥ</l>
-                    <l n="c">hara-caraṇa-sarojottaṃsa-cihnena  m<choice><sic>ū</sic><corr>u</corr></choice>rdhnā</l>
+                    <l n="c">hara-caraṇa-sarojottaṁsa-cihnena  m<choice><sic>ū</sic><corr>u</corr></choice>rdhnā</l>
                     <l n="d">mukuḷita-kara-pa<choice><sic>t</sic><corr>d</corr></choice>mo
                         <lb n="5r7=67"/>vandate nandivarmmā <g ref="sym:doubleBar" type="punctuation">.</g></l>
                 </lg>
                 
                 <lg n="8" met="uncertain">
                     <l n="ab">kāñcīpura-kṛta-janmā s<choice><sic>t</sic><corr>th</corr></choice>apati-patir llikhitavān praśastim</l>
-                    <l n="c">imāM putro vayiraḍi nāmnā<surplus>ṃ</surplus> ści<seg xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">ṟṟa</seg>ya nāmā jñayā rājñaḥ <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
+                    <l n="c">imāM putro vayiraḍi nāmnā<surplus>ṁ</surplus> ści<seg xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">ṟṟa</seg>ya nāmā jñayā rājñaḥ <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                 </lg>
                 
                 <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
@@ -150,7 +150,7 @@
                         
                         <app loc="1">
                             <lem><unclear>yatrāyatya</unclear></lem>
-                            <rdg source="bib:Ramesan1976_01">yatrāya<choice><sic>tya</sic><corr>ttaṃ</corr></choice></rdg>                            
+                            <rdg source="bib:Ramesan1976_01">yatrāya<choice><sic>tya</sic><corr>ttaṁ</corr></choice></rdg>                            
                         </app>
                         
                         <app loc="2">
