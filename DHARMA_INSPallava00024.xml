@@ -31,7 +31,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>A Sanskrit verse recording the foundation of the cave-temple named Mahendraviṣṇugṛha by the
+                  <summary>A Sanskrit verse recording the foundation of the cave-temple named Mahendraviṣṇugr̥ha by the
 							Guṇabhara (Mahendravarman I Pallava) around 600/625 CE.</summary>
                </msContents>
                <physDesc>
@@ -72,7 +72,7 @@
         </l>
         
         <l n="d" real="----+-+---+--+---">
-            <lb n="4"/>maha<unclear>t</unclear>i mahendra-viṣṇu-gṛha-nāma murār<unclear>i</unclear>-gṛha<unclear>ṁ</unclear>
+            <lb n="4"/>maha<unclear>t</unclear>i mahendra-viṣṇu-gr̥ha-nāma murār<unclear>i</unclear>-gr̥ha<unclear>ṁ</unclear>
         </l>
         
     </lg>
@@ -106,8 +106,8 @@
 		</app>	
 		
 		<app loc="4">
-			<lem>murār<unclear>i</unclear>-gṛha<unclear>ṁ</unclear></lem>
-			<rdg source="bib:Hultzsch1896-1897_06">murā<unclear>ri</unclear>-gṛ<unclear>haṁ</unclear></rdg>
+			<lem>murār<unclear>i</unclear>-gr̥ha<unclear>ṁ</unclear></lem>
+			<rdg source="bib:Hultzsch1896-1897_06">murā<unclear>ri</unclear>-gr̥<unclear>haṁ</unclear></rdg>
 		</app>	
 		
 	</listApp>
@@ -124,7 +124,7 @@
       			<l>Objet des plus chauds éloges auprès des gens de bien, solide et spacieuse,</l>
       			<l>Guṇabhara fit construire au bord de l'étang de Mahendra-taṭāka, en creusant la roche,</l>
       			<l>En la grande cité de Mahendrapura, cette demeure de vertus qui charment les yeux des hommes :</l> 
-      			<l>la maison de Murāri, nommée Mahendra-Viṣṇugṛha.</l> 
+      			<l>la maison de Murāri, nommée Mahendra-Viṣṇugr̥ha.</l> 
       		</p>
       		
       	</div>

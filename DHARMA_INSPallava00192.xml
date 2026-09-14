@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Accaravākkam, time of Nṛpatuṅgavarman, year [figure lost]</title>
+                <title>Accaravākkam, time of Nr̥patuṅgavarman, year [figure lost]</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -58,7 +58,7 @@
                 </ab>
                 
                 <p>
-                    <hi rend="grantha">nṛ</hi>patuṅka-parm<unclear>ma</unclear>rkku <unclear>yāṇṭu</unclear> <gap reason="lost" quantity="6" unit="character"/>		
+                    <hi rend="grantha">nr̥</hi>patuṅka-parm<unclear>ma</unclear>rkku <unclear>yāṇṭu</unclear> <gap reason="lost" quantity="6" unit="character"/>		
                     
                 </p>
                 
@@ -90,11 +90,11 @@
             <div type="translation" resp="part:emfr">
                 
                 <p n="1">
-                    Fortune <supplied reason="explanation"><foreign>śrī</foreign><note><foreign>śrī</foreign> could alternatively be considered an honourific prefix to the name of the king, thus: "<supplied reason="lost">Xth</supplied> year of the glorious Nṛpatuṅkaparmar."</note></supplied>!
+                    Fortune <supplied reason="explanation"><foreign>śrī</foreign><note><foreign>śrī</foreign> could alternatively be considered an honourific prefix to the name of the king, thus: "<supplied reason="lost">Xth</supplied> year of the glorious Nr̥patuṅkaparmar."</note></supplied>!
                 </p>
                 
                 <p n="1">
-                    <supplied reason="lost">Xth</supplied> year of Nṛpatuṅkaparmar.<note>Sanskrit Nṛpatuṅgavarman.</note>
+                    <supplied reason="lost">Xth</supplied> year of Nr̥patuṅkaparmar.<note>Sanskrit Nr̥patuṅgavarman.</note>
                 </p>
                 
                 <p n="2-5">

@@ -31,7 +31,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Slab inscription recording the name of a temple: Mahendravarmeśvaragṛha.</summary>
+                  <summary>Slab inscription recording the name of a temple: Mahendravarmeśvaragr̥ha.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -58,7 +58,7 @@
 <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
       		
       		<p>
-      			<lb n="1"/>śrī-mahendra-va<unclear>r</unclear>mm<unclear>e</unclear>śvara-gṛhaM
+      			<lb n="1"/>śrī-mahendra-va<unclear>r</unclear>mm<unclear>e</unclear>śvara-gr̥haM
       		</p>      		
       		
       	</div>
@@ -67,8 +67,8 @@
       		
       		<listApp>
       			<app loc="1">
-      				<lem>śrīmahendrava<unclear>r</unclear>mm<unclear>e</unclear>śvaragṛhaM</lem>
-      				<rdg source="bib:VenkatasubbaAyyar1943_01">śrīmahendravarmm<unclear>e</unclear>śvaragṛhaM</rdg>
+      				<lem>śrīmahendrava<unclear>r</unclear>mm<unclear>e</unclear>śvaragr̥haM</lem>
+      				<rdg source="bib:VenkatasubbaAyyar1943_01">śrīmahendravarmm<unclear>e</unclear>śvaragr̥haM</rdg>
       			</app>
       			
       		</listApp>

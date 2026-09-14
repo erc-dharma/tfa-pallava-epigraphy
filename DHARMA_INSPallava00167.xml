@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tiruvatikai, time of Nṛpatuṅgavarman, year 18</title>
+                <title>Tiruvatikai, time of Nr̥patuṅgavarman, year 18</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>                    
                     <persName ref="part:emfr">
@@ -37,7 +37,7 @@
                     <msContents>
                         <summary>
                             <p>Donation of gold for supplying food offerings.</p>
-                            <p>Tiruvīraṭṭāṉeśvara temple, Tiruvatikai, Paṇruṭṭi taluk, Cuddalore district. On a pillar in the <foreign>maṇḍapa </foreign>in front of the central shrine. There are donations by other royal figures on pillars in the same <foreign>maṇḍapa</foreign>: SII 8.309 registers a donation of gold by Pallava Nandivarman III; SII 12.73 records a gift of gold by the queen of Nṛpatuṅgavarman, Vīramahādevi.</p>
+                            <p>Tiruvīraṭṭāṉeśvara temple, Tiruvatikai, Paṇruṭṭi taluk, Cuddalore district. On a pillar in the <foreign>maṇḍapa </foreign>in front of the central shrine. There are donations by other royal figures on pillars in the same <foreign>maṇḍapa</foreign>: SII 8.309 registers a donation of gold by Pallava Nandivarman III; SII 12.73 records a gift of gold by the queen of Nr̥patuṅgavarman, Vīramahādevi.</p>
                         </summary>
                     </msContents>
                     <physDesc>
@@ -65,7 +65,7 @@
                 </ab>
                 
                 <p>
-                    <hi rend="grantha">nṛpa</hi>t<choice><orig>o</orig><reg>u</reg></choice>
+                    <hi rend="grantha">nr̥pa</hi>t<choice><orig>o</orig><reg>u</reg></choice>
                     <lb n="2" break="no"/>ṅka-pa<hi rend="grantha">nma</hi>ṟku <unclear>yāṇṭu</unclear>
                     <lb n="3"/>pati<choice><orig>n</orig><reg>ṉ</reg></choice> eṭṭāvatu
                 </p>
@@ -128,10 +128,10 @@
                     </app> 
                     
                     <app loc="1">
-                        <lem><hi rend="grantha">nṛpa</hi>t<choice><orig>o</orig><reg>u</reg></choice>
+                        <lem><hi rend="grantha">nr̥pa</hi>t<choice><orig>o</orig><reg>u</reg></choice>
                     <lb n="2" break="no"/>ṅka°</lem>
                         <rdg source="bib:VenkatasubbaAyyar1943_01"/>
-                        <rdg source="bib:Gillet2017_01"><hi rend="grantha">nṛ</hi>pato
+                        <rdg source="bib:Gillet2017_01"><hi rend="grantha">nr̥</hi>pato
                     <lb n="2" break="no"/>ṅka-</rdg>
                     </app>     
                     
@@ -161,7 +161,7 @@
             
             <div type="translation" source="bib:Gillet2017_01">
                 
-                <p>Hail! Prosperity! This is the 18th regnal year of Nṛpatuṅgavarman. For Mahādeva of Tiruvīraṭṭānam of Atiyaraiyamaṅkalam, Pāṇṭi Varaguṇa Mahārāja gave 570 <foreign>kaḻañcu </foreign>of gold; having taken this gold, we, the Nagaram <supplied reason="explanation"><foreign>nakarattōm</foreign></supplied> of Atiyaraiyamaṅgalam, will have to <supplied reason="subaudible">do</supplied> <supplied reason="explanation"><foreign>kaṭavōm</foreign></supplied>; in this gold, with the interests of 290 <foreign>kaḻañcu </foreign>of this gold, everyday <gap reason="lost" extent="unknown" unit="character"/> having added <supplied reason="explanation"><foreign>ēṟṟi</foreign></supplied> to the 3 <foreign>nāḻi </foreign>and one <foreign>uri </foreign>of <gap reason="lost" extent="unknown" unit="character"/> 20 <foreign>nāḻi </foreign>of rice for one time <supplied reason="explanation"><foreign>poḻukku</foreign></supplied>, five side dishes <supplied reason="explanation"><foreign>añcukāy</foreign></supplied> including <supplied reason="explanation"><foreign>uḷḷiṭṭa</foreign></supplied> pongal <supplied reason="explanation"><foreign>kumāya</foreign></supplied> and one <foreign>uri </foreign>of green lentils <supplied reason="explanation"><foreign>pacca-payaṟṟuparuppu</foreign></supplied>, one <foreign>uḻakku </foreign>of curd for tamarind-vegetable <supplied reason="explanation"><foreign>puḷiṅkaṟikku</foreign></supplied> for one time, two <foreign>ceviṭu </foreign><supplied reason="explanation">small measure</supplied> of asafoetida <supplied reason="explanation"><foreign>kāyam</foreign></supplied> for the vegetables <supplied reason="explanation"><foreign>kaṟikku</foreign></supplied> for one time, one <foreign>ceviṭu </foreign>of ghee for frying <supplied reason="explanation"><foreign>tumikka</foreign></supplied> vegetables for one time, a <foreign>nāḻi </foreign>of ghee to which are added <supplied reason="explanation"><foreign>ēṟṟi</foreign></supplied> for 4 times as one <foreign>uḻakku </foreign>each time <supplied reason="explanation"><foreign>pōtu</foreign></supplied> of fragrant ghee in order to offer food to the deity <supplied reason="explanation"><foreign>nivētikka</foreign></supplied>, one <foreign>uri </foreign>of curd for each time for offering food <supplied reason="explanation"><foreign>nivētikka</foreign></supplied>, 4 times.<note>The details regarding the ingredients and their measures are not very clear to me.</note></p>
+                <p>Hail! Prosperity! This is the 18th regnal year of Nr̥patuṅgavarman. For Mahādeva of Tiruvīraṭṭānam of Atiyaraiyamaṅkalam, Pāṇṭi Varaguṇa Mahārāja gave 570 <foreign>kaḻañcu </foreign>of gold; having taken this gold, we, the Nagaram <supplied reason="explanation"><foreign>nakarattōm</foreign></supplied> of Atiyaraiyamaṅgalam, will have to <supplied reason="subaudible">do</supplied> <supplied reason="explanation"><foreign>kaṭavōm</foreign></supplied>; in this gold, with the interests of 290 <foreign>kaḻañcu </foreign>of this gold, everyday <gap reason="lost" extent="unknown" unit="character"/> having added <supplied reason="explanation"><foreign>ēṟṟi</foreign></supplied> to the 3 <foreign>nāḻi </foreign>and one <foreign>uri </foreign>of <gap reason="lost" extent="unknown" unit="character"/> 20 <foreign>nāḻi </foreign>of rice for one time <supplied reason="explanation"><foreign>poḻukku</foreign></supplied>, five side dishes <supplied reason="explanation"><foreign>añcukāy</foreign></supplied> including <supplied reason="explanation"><foreign>uḷḷiṭṭa</foreign></supplied> pongal <supplied reason="explanation"><foreign>kumāya</foreign></supplied> and one <foreign>uri </foreign>of green lentils <supplied reason="explanation"><foreign>pacca-payaṟṟuparuppu</foreign></supplied>, one <foreign>uḻakku </foreign>of curd for tamarind-vegetable <supplied reason="explanation"><foreign>puḷiṅkaṟikku</foreign></supplied> for one time, two <foreign>ceviṭu </foreign><supplied reason="explanation">small measure</supplied> of asafoetida <supplied reason="explanation"><foreign>kāyam</foreign></supplied> for the vegetables <supplied reason="explanation"><foreign>kaṟikku</foreign></supplied> for one time, one <foreign>ceviṭu </foreign>of ghee for frying <supplied reason="explanation"><foreign>tumikka</foreign></supplied> vegetables for one time, a <foreign>nāḻi </foreign>of ghee to which are added <supplied reason="explanation"><foreign>ēṟṟi</foreign></supplied> for 4 times as one <foreign>uḻakku </foreign>each time <supplied reason="explanation"><foreign>pōtu</foreign></supplied> of fragrant ghee in order to offer food to the deity <supplied reason="explanation"><foreign>nivētikka</foreign></supplied>, one <foreign>uri </foreign>of curd for each time for offering food <supplied reason="explanation"><foreign>nivētikka</foreign></supplied>, 4 times.<note>The details regarding the ingredients and their measures are not very clear to me.</note></p>
             
             </div>
             
@@ -172,7 +172,7 @@
                 </p>
                 
                 <p n="1-3">
-                    Eighteenth year of Nṛpatoṅkapanmaṉ.<note>Sanskrit Nṛpatuṅkavarman.</note>
+                    Eighteenth year of Nr̥patoṅkapanmaṉ.<note>Sanskrit Nr̥patuṅkavarman.</note>
                 </p>
                 
                 <p n="3-11">

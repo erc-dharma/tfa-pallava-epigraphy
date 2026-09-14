@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Vākūr (Pākūr) plates, time of Nṛpatuṅgavarman, year 8</title>
+                <title>Vākūr (Pākūr) plates, time of Nr̥patuṅgavarman, year 8</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -35,7 +35,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>Sanskrit spelling influenced by Tamil usage. Grantha <foreign>ṛ</foreign> and <foreign>ra</foreign>, <foreign>pa</foreign> and <foreign>va</foreign> not distinguished. Grantha <foreign>ba</foreign> and <foreign>ya</foreign>, <foreign>bha</foreign> and <foreign>ha</foreign>, <foreign>ga</foreign> and <foreign>śa</foreign> very similar. Tamil medial <foreign>i</foreign> and <foreign>ī</foreign> not distinguished and interchangeable. Tamil medial <foreign>u</foreign> and <foreign>ū</foreign> not always distinguished and interchangeable. Tamil oblique suffix <foreign>-iṉ</foreign> with initial <foreign>i</foreign>. The punctuation marks, <foreign>gomūtra</foreign>-like, at the end of stanzas have various forms. In several instances, the first element looks like a <foreign>visarga</foreign>, whereas in other instances, there is really a <foreign>visarga</foreign> at the end of the verse. Hyphen-like horizontal line occasionally used at the hemistiche. For further paleaographical details, see <bibl n="EH"><ptr target="bib:Hultzsch1925-1926_01"/><citedRange unit="page">5-6</citedRange></bibl>.</p>
+                            <p>Sanskrit spelling influenced by Tamil usage. Grantha <foreign>r̥</foreign> and <foreign>ra</foreign>, <foreign>pa</foreign> and <foreign>va</foreign> not distinguished. Grantha <foreign>ba</foreign> and <foreign>ya</foreign>, <foreign>bha</foreign> and <foreign>ha</foreign>, <foreign>ga</foreign> and <foreign>śa</foreign> very similar. Tamil medial <foreign>i</foreign> and <foreign>ī</foreign> not distinguished and interchangeable. Tamil medial <foreign>u</foreign> and <foreign>ū</foreign> not always distinguished and interchangeable. Tamil oblique suffix <foreign>-iṉ</foreign> with initial <foreign>i</foreign>. The punctuation marks, <foreign>gomūtra</foreign>-like, at the end of stanzas have various forms. In several instances, the first element looks like a <foreign>visarga</foreign>, whereas in other instances, there is really a <foreign>visarga</foreign> at the end of the verse. Hyphen-like horizontal line occasionally used at the hemistiche. For further paleaographical details, see <bibl n="EH"><ptr target="bib:Hultzsch1925-1926_01"/><citedRange unit="page">5-6</citedRange></bibl>.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -70,7 +70,7 @@
                 
                 <lg n="1" met="drutavilambita">
                     <l n="a">diśatu va<supplied reason="omitted">ḥ</supplied> śriyam ambuja-locanas</l>
-                    <l n="b">tridaśa-mauli-nighṛ<lb n="1r2=2" break="no"/>ṣta-padāmbujaḥ</l>
+                    <l n="b">tridaśa-mauli-nighr̥<lb n="1r2=2" break="no"/>ṣta-padāmbujaḥ</l>
                     <l n="c" enjamb="yes">sakala-loka-bhayaṁ-kara-rākṣasa</l>
                     <l n="d">praśama-hetur a<lb n="1r3=3" break="no"/>j<choice><sic>e</sic><corr>o</corr></choice> madh<choice><sic>a</sic><corr>u</corr></choice>-sūdanaḥ <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                 </lg>
@@ -85,7 +85,7 @@
                 <lg n="3" met="anuṣṭubh">
                     <l n="a"><lb n="1r5=5"/>A<supplied reason="omitted">ṁ</supplied>girās tata utpan<unclear>n</unclear>o</l>
                     <l n="b">loka-nāthāc catur-mmukhāt</l>
-                    <l n="c">bṛhaspatis tato <lb n="1r6=6"/>mantr<choice><orig>i</orig><reg>ī</reg></choice></l>
+                    <l n="c">br̥haspatis tato <lb n="1r6=6"/>mantr<choice><orig>i</orig><reg>ī</reg></choice></l>
                     <l n="d">śakrasya vala-bhedinaḥ <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                 </lg>
                 
@@ -107,13 +107,13 @@
                     <l n="a">aśvatthāmnas tato rājā</l>
                     <l n="b">pallavākhyo babhūva <choice><sic>U</sic><corr>yaḥ</corr></choice></l>
                     <l n="c">ra<pb n="1v" break="no"/><lb n="1v1=10" break="no"/>ra<choice><orig>t</orig><reg>k</reg></choice>ṣa nava-khaṇḍa-sthān</l>
-                    <l n="d">bhūpatīn sa-kṛṣ<choice><orig>i</orig><reg>ī</reg></choice>valān· <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
+                    <l n="d">bhūpatīn sa-kr̥ṣ<choice><orig>i</orig><reg>ī</reg></choice>valān· <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                 </lg>		
                 
                 <lg n="7" met="drutavilambita">
                     <l n="a">vimala-koṁkaṇikādi ta<lb n="1v2=11" break="no"/>d-anvayād</l>
-                    <l n="b">ajani bṛndam ari-pramadānatam·</l>
-                    <l n="c">nihita-śāsanam anya-nṛpeśv api</l>
+                    <l n="b">ajani br̥ndam ari-pramadānatam·</l>
+                    <l n="c">nihita-śāsanam anya-nr̥peśv api</l>
                     <l n="d"><lb n="1v3=12"/>priyatamañ jaya-ghoṣam anāratam· <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                 </lg>
                 
@@ -126,22 +126,22 @@
                 
                 <lg n="9" met="anuṣṭubh">
                     <l n="a">Ā<lb n="1v5=14" break="no"/>s<choice><orig>i</orig><reg>ī</reg></choice>t purandara-samo</l>
-                    <l n="b">rājā dṛ<choice><sic>p</sic><corr>ḍha</corr></choice>a-bhaktir mmura-dvi<choice><sic>p</sic><corr>ṣ</corr></choice>i</l>
+                    <l n="b">rājā dr̥<choice><sic>p</sic><corr>ḍha</corr></choice>a-bhaktir mmura-dvi<choice><sic>p</sic><corr>ṣ</corr></choice>i</l>
                     <l n="c"><choice><sic>t</sic><corr>d</corr></choice>antivarmmā mahā-<unclear reason="eccentric_ductus">b</unclear>āhuḥ</l>
                     <l n="d"><choice><sic>t</sic><corr>k</corr></choice>ṣmā<lb n="1v6=15" break="no"/>pāla-makuṭānataḥ <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                 </lg>
                 
                 <lg n="10" met="anuṣṭubh">
                     <l n="a">dharmmeṇa pālanā<choice><sic>t</sic><corr>d</corr></choice> bhūmiṁ</l>
-                    <l n="b">kalāv api yuge nṛpaḥ –</l>
+                    <l n="b">kalāv api yuge nr̥paḥ –</l>
                     <l n="c">va<lb n="1v7=16" break="no"/>rṣaṇād api dānasya</l>
                     <l n="d">parjjanya Iva nirbabhau <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                 </lg>
                 
                 <lg n="11" met="anuṣṭubh">
                     <l n="a">Ātmano bandi-yuktān<supplied reason="omitted">y</supplied>ā<unclear>ṁ</unclear></l>
-                    <l n="b">ya<lb n="1v8=17" break="no"/>mālaya-didṛ<choice><orig>t</orig><reg>k</reg></choice>ṣayā –</l>
-                    <l n="c">pātheyam iva kṛtvār<choice><orig>i</orig><reg>ī</reg></choice>n</l>
+                    <l n="b">ya<lb n="1v8=17" break="no"/>mālaya-didr̥<choice><orig>t</orig><reg>k</reg></choice>ṣayā –</l>
+                    <l n="c">pātheyam iva kr̥tvār<choice><orig>i</orig><reg>ī</reg></choice>n</l>
                     <l n="d"><choice><sic>pa</sic><corr>kā</corr></choice>ṇḍāni visa<supplied reason="omitted">sa</supplied>rjja yaḥ <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                 </lg>			
                 
@@ -161,7 +161,7 @@
                 
                 <lg n="14" met="anuṣṭubh">
                     <l n="a">kṣamāvatī dharitrīva</l>
-                    <l n="b">mā<supplied reason="omitted">tṛ</supplied>vaj jagataḥ <lb n="2r3=21"/> priyā</l>
+                    <l n="b">mā<supplied reason="omitted">tr̥</supplied>vaj jagataḥ <lb n="2r3=21"/> priyā</l>
                     <l n="c">babhau śaṁkhāhvayā devī</l>
                     <l n="d">rājña<supplied reason="omitted">ḥ</supplied> śrīr iva rūpiṇī <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                 </lg>
@@ -170,7 +170,7 @@
                     <l n="a">tasyām· <lb n="2r4=22"/><unclear reason="eccentric_ductus">ba</unclear>bhūva mati-kānti-kalādi-matyām</l>
                     <l n="b">mānyaḥ kulena guṇavān bhuvana-traye<lb n="2r5=23" break="no"/>śaḥ</l>
                     <l n="c">Utpadyamāna-tapanādhipa-tulya-tejā</l>
-                    <l n="d">jiṣṇuḥ kalā<choice><sic>vān</sic><corr>pa</corr></choice>-samare <lb n="2r6=24"/>nṛpatu<unclear reason="eccentric_ductus">ṁ</unclear>ga-devaḥ <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
+                    <l n="d">jiṣṇuḥ kalā<choice><sic>vān</sic><corr>pa</corr></choice>-samare <lb n="2r6=24"/>nr̥patu<unclear reason="eccentric_ductus">ṁ</unclear>ga-devaḥ <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                 </lg>
                 
                 <lg n="16" met="anuṣṭubh">
@@ -181,7 +181,7 @@
                 </lg>
                 
                 <lg n="17" met="anuṣṭubh">
-                    <l n="a">nṛpatuṁga Iti khyāto</l>
+                    <l n="a">nr̥patuṁga Iti khyāto</l>
                     <l n="b"><lb n="2r8=26"/>bālo ’pi bhuvaneśvaraḥ –</l>
                     <l n="c">khyāto na kevalam bhūmāv</l>
                     <l n="d">amuṣminn api rāmavat <lb n="2r9=27"/> <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
@@ -198,7 +198,7 @@
                     <l n="a">śaśivat tilako loke</l>
                     <l n="b">gāmbhīryyādau <lb n="2v2=29"/>samudravat</l>
                     <l n="c">sū<reg>r</reg>yyavad rakṣaṇāl lokā<choice><sic>n</sic><corr>ṁl</corr></choice></l>
-                    <l n="d">lokānān nilayo nṛpaḥ <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
+                    <l n="d">lokānān nilayo nr̥paḥ <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                 </lg>
                 
                 <lg n="20" met="anuṣṭubh">
@@ -211,7 +211,7 @@
                 <lg n="21" met="anuṣṭubh">
                     <l n="a">grāma-trayaṁ sva-rāṣtre saḥ</l>
                     <l n="b">kuru-vaṁśa-vivarddha<lb n="2v5=32" break="no"/>na<unclear>ḥ</unclear></l>
-                    <l n="c">vijñā<supplied reason="lost">pya</supplied> nṛpatuṁgeśāl</l>
+                    <l n="c">vijñā<supplied reason="lost">pya</supplied> nr̥patuṁgeśāl</l>
                     <l n="d">labdham ājñapti-pū<unclear>r</unclear>vvaka<unclear>m‧</unclear> <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                 </lg>
                 
@@ -224,7 +224,7 @@
                 
                 <lg n="23" met="anuṣṭubh">
                     <l n="a">tasmād iṟaippuṉaiccerin</l>
-                    <l n="b">tṛtīyaṁ sarvva-<unclear>sampa</unclear>dam</l>
+                    <l n="b">tr̥tīyaṁ sarvva-<unclear>sampa</unclear>dam</l>
                     <l n="c"><unclear>E</unclear>vaṁ <lb n="2v8=35"/>grāma-trayaṁ labdha<choice><orig>m</orig><reg>ṁ</reg></choice></l>
                     <l n="d">vidyā-sthānāya dattavān <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                 </lg>
@@ -260,7 +260,7 @@
                 <lg n="28" met="anuṣṭubh">
                     <l n="a">Ājñaptir uttamaśīlas</l>
                     <l n="b">trai-lo<lb n="3r6=42" break="no"/>kyeśvara-pūjitaḥ</l>
-                    <l n="c"><unclear>ma</unclear>ntrī bṛhaspati-prakhyo</l>
+                    <l n="c"><unclear>ma</unclear>ntrī br̥haspati-prakhyo</l>
                     <l n="d">rājña<supplied reason="omitted">ḥ</supplied> śrī-tuṁgava<unclear>r</unclear>mmaṇaḥ <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                 </lg>
                 
@@ -274,12 +274,12 @@
                 <lg n="30" met="anuṣṭubh">
                     <l n="a">dāsa<supplied reason="omitted">ḥ</supplied> sthānasya vidyāyā</l>
                     <l n="b">vāgūr-grāma-juṣām a<lb n="3r9=45" break="no"/>yam‧ </l>
-                    <l n="c">kṛtavā<choice><sic>n</sic><corr>ñ</corr></choice> śāstra-ta<supplied reason="omitted">t</supplied>tva-jñaḥ</l>
-                    <l n="d">praśa<unclear>s</unclear>tin nāgayas su<supplied reason="omitted">kṛ</supplied>t <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
+                    <l n="c">kr̥tavā<choice><sic>n</sic><corr>ñ</corr></choice> śāstra-ta<supplied reason="omitted">t</supplied>tva-jñaḥ</l>
+                    <l n="d">praśa<unclear>s</unclear>tin nāgayas su<supplied reason="omitted">kr̥</supplied>t <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                 </lg>
                 
                 <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
-                    kō-vicaiya-<hi rend="grantha">nṛ</hi>
+                    kō-vicaiya-<hi rend="grantha">nr̥</hi>
                     <pb n="3v" break="no"/>
                     <lb n="3v1=46" break="no"/><unclear>pa</unclear>t<choice><orig>o</orig><reg>u</reg></choice>ṅkava<hi rend="grantha">rmma</hi>ṟku yāṇṭu Eṭṭāvatu
                 </p>
@@ -336,22 +336,22 @@
                 </p>
                 
                 <lg n="31" met="vasantatilakā">
-                    <l n="a">puṇyaṁ samaṁ kṛtavatām‧ parirakṣatāñ ca</l>
-                    <l n="b">tad rakṣateti nṛpatir nnṛ<lb n="4v10=75" break="no"/>patuṅgavarmmā</l>
+                    <l n="a">puṇyaṁ samaṁ kr̥tavatām‧ parirakṣatāñ ca</l>
+                    <l n="b">tad rakṣateti nr̥patir nnr̥<lb n="4v10=75" break="no"/>patuṅgavarmmā</l>
                     <l n="c">Āgāminaḥ kṣitipat<choice><orig>i</orig><reg>ī</reg></choice>n praṇamaty ajasram‧</l>
                     <l n="d">mūrd<unclear>dhnā mu</unclear>kunda-<unclear>caraṇā</unclear><supplied reason="omitted">m</supplied><pb n="5r" break="no"/><lb n="5r1=76" break="no"/>buja-śekhareṇa <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                 </lg>                    
                 
                 <lg n="32" met="āryā">
                     <l n="a">Uditodita-kula-tilaka<supplied reason="omitted">ḥ</supplied></l>
-                    <l n="b">suvarṇṇa-kṛt sarvva-ś<supplied reason="lost">āstra</supplied>
+                    <l n="b">suvarṇṇa-kr̥t sarvva-ś<supplied reason="lost">āstra</supplied>
                         <lb n="5r2=77" break="no"/>niṣṇātaḥ</l>
-                    <l n="c">Alikhan nṛpatuṁgākhyaḥ</l>
-                    <l n="d">pallava-kula-<unclear>m</unclear>ūla-bhṛtyo ’tra <g ref="sym:flourish-taperOut" type="punctuation">.</g></l></lg>
+                    <l n="c">Alikhan nr̥patuṁgākhyaḥ</l>
+                    <l n="d">pallava-kula-<unclear>m</unclear>ūla-bhr̥tyo ’tra <g ref="sym:flourish-taperOut" type="punctuation">.</g></l></lg>
                 
                 <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                     <lb n="5r3=78"/>kaccipēṭṭu k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-paicārattu U<hi rend="grantha">di</hi>to<hi rend="grantha">da</hi>ya-peru<supplied reason="omitted">n</supplied>-taṭṭā<supplied reason="omitted">ṉ</supplied> makaṉ mā<hi rend="grantha">de</hi>vi-peru<supplied reason="omitted">n</supplied>-taṭṭā
-                    <lb n="5r4=79" break="no"/>ṉ maka<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">nṛpa</hi>tu<hi rend="grantha">ṁga</hi><supplied reason="omitted">ṉ</supplied> Eḻuttu <g ref="sym:flourish-taperOut" type="punctuation">.</g>
+                    <lb n="5r4=79" break="no"/>ṉ maka<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">nr̥pa</hi>tu<hi rend="grantha">ṁga</hi><supplied reason="omitted">ṉ</supplied> Eḻuttu <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                 </p>
                 
                 <p>
@@ -423,8 +423,8 @@
                     </app>		
                     
                     <app loc="24">
-                        <lem>nṛpatu<unclear reason="eccentric_ductus">ṁ</unclear>ga°</lem>
-                        <rdg source="bib:Hultzsch1925-1926_01">nṛpatuṁga°</rdg>
+                        <lem>nr̥patu<unclear reason="eccentric_ductus">ṁ</unclear>ga°</lem>
+                        <rdg source="bib:Hultzsch1925-1926_01">nr̥patuṁga°</rdg>
                         <note>The letter <foreign>ṁ</foreign> looks like a medial <foreign>e</foreign>.</note>
                     </app>	
                     
@@ -534,7 +534,7 @@
                 </p>
                 
                 <p rend="stanza" n="3">
-                    <l>From this four-mouthed lord or fhe world, Aṅgiras was born, (and) from the latter, Bṛhaspati, the minister of Śakra (Indra), the splitter of (the demon) Vala.</l>
+                    <l>From this four-mouthed lord or fhe world, Aṅgiras was born, (and) from the latter, Br̥haspati, the minister of Śakra (Indra), the splitter of (the demon) Vala.</l>
                 </p>
                 
                 <p rend="stanza" n="4">
@@ -578,7 +578,7 @@
                 </p>
                 
                 <p rend="stanza" n="15">
-                    <l>By her who possessed intelligence, beauty, arts, etc., was born the virtuous Nṛpatuṅgadeva, the lord of the three worlds, noble by birth, resembling the rising sun in splendour, (and) victorious in fights with arrows.</l>
+                    <l>By her who possessed intelligence, beauty, arts, etc., was born the virtuous Nr̥patuṅgadeva, the lord of the three worlds, noble by birth, resembling the rising sun in splendour, (and) victorious in fights with arrows.</l>
                 </p>
                 
                 <p rend="stanza" n="16">
@@ -586,7 +586,7 @@
                 </p>
                 
                 <p rend="stanza" n="17">
-                    <l>Even in his youth (this) lord of the world (was) renowned (by the name) of Nṛpatuṅga (i.e. ‘the high one among rulers of men’). (He was) renowned not only on earth, (but) even in the other (world), like Rāma.</l>
+                    <l>Even in his youth (this) lord of the world (was) renowned (by the name) of Nr̥patuṅga (i.e. ‘the high one among rulers of men’). (He was) renowned not only on earth, (but) even in the other (world), like Rāma.</l>
                 </p>
                 
                 <p rend="stanza" n="18">
@@ -602,7 +602,7 @@
                 </p>
                 
                 <p rend="stanza" n="21-23">
-                    <l>This promoter of the family of Kuru gave to a seat of learning (<foreign>vidyāsthāna</foreign>) three villages in his own province (<foreign>rāṣṭra</foreign>) which, at (his) request, (he had) received, provided with an executor (<foreign>ājñapti</foreign>), from that lord Nṛpatuṅga. viz. the village of Ceṭṭuppākkam, rich in fruit, then another village whose name (consisted of) a word ending in an <foreign>r</foreign> and beginning with Vidyāviḷaṅgā,<note>According to the Tamil portion, the full name of this village was Viḷaṅkāṭṭaṅkaṭuvaṉūr, to which the word <foreign>vidyā</foreign> is still prefixed here because it was granted for the promotion of learning.</note> (and) thirdly the very prosperous (village of) Iṟaippuṇaiccēri.</l>
+                    <l>This promoter of the family of Kuru gave to a seat of learning (<foreign>vidyāsthāna</foreign>) three villages in his own province (<foreign>rāṣṭra</foreign>) which, at (his) request, (he had) received, provided with an executor (<foreign>ājñapti</foreign>), from that lord Nr̥patuṅga. viz. the village of Ceṭṭuppākkam, rich in fruit, then another village whose name (consisted of) a word ending in an <foreign>r</foreign> and beginning with Vidyāviḷaṅgā,<note>According to the Tamil portion, the full name of this village was Viḷaṅkāṭṭaṅkaṭuvaṉūr, to which the word <foreign>vidyā</foreign> is still prefixed here because it was granted for the promotion of learning.</note> (and) thirdly the very prosperous (village of) Iṟaippuṇaiccēri.</l>
                 </p>
                 
                 <p rend="stanza" n="24-26">
@@ -614,7 +614,7 @@
                 </p>
                 
                 <p rend="stanza" n="28">
-                    <l>The executor (was) Uttamaśīla, worshipped by the lord of the three worlds,<note>i.e. king Nṛpatuṅga; see verse 15.</note> the minister, resembling Bṛhaspati, of the glorious king Tuṅgavarman.</l>
+                    <l>The executor (was) Uttamaśīla, worshipped by the lord of the three worlds,<note>i.e. king Nr̥patuṅga; see verse 15.</note> the minister, resembling Br̥haspati, of the glorious king Tuṅgavarman.</l>
                 </p>
                 
                 <p rend="stanza" n="29">
@@ -626,14 +626,14 @@
                 </p>
                 
                 <p n="45">
-                    In the eighth year (of the reign) of king Vijaya-Nṛpatuṅgavarman, at the request of Veśāli-pēraraiyaṉ; Viṭēlviṭugu-Kāṭupaṭṭu-Tamiḻa-pērarāiyaṉ being the executor (<foreign>āṇatti</foreign>). Let the headmen of Kīḻvaḻi-Vākūr-nāṭu, (a subdivision) of Aruvā-nāṭu, see (this order):<note>Cf. line 105 of the Kācākuṭi plates.</note></p>
+                    In the eighth year (of the reign) of king Vijaya-Nr̥patuṅgavarman, at the request of Veśāli-pēraraiyaṉ; Viṭēlviṭugu-Kāṭupaṭṭu-Tamiḻa-pērarāiyaṉ being the executor (<foreign>āṇatti</foreign>). Let the headmen of Kīḻvaḻi-Vākūr-nāṭu, (a subdivision) of Aruvā-nāṭu, see (this order):<note>Cf. line 105 of the Kācākuṭi plates.</note></p>
                 
                 <p n="48">
                     In the eighth year (of our reign), we have granted three viIlages of <foreign>nāṭu</foreign>, viz. Ceṭṭuppākkam, Viḷāṅkāttaṅkaṭuvaṉūr, and Iṟaippuṇaiccēri,―dispossessing the former tenants, (and) excluding ancient charities and <foreign>Brahmadeyas</foreign>,―to the residents of the seat of learning at Vākūr as a source of revenue for the promotion of learning (<foreign>vidyā-bhōga</foreign>).
                 </p>		
                 
                 <p n="52">
-                    And issued an order (<foreign>tirumukam</foreign>) to the headmen of the <foreign>nāṭu</foreign>, telling them to circumambulate the limits,<note><foreign>Paṭakai naṭandu</foreign> corresponds to <foreign>paṭākai valañ ceyitu</foreign> in line 110 of the Kācākuṭi plates; <foreign>piṭākai valañ ceytu</foreign> in a Tiruvallam inscription of Nandivikramavarman, SII. Vol. III, p. 91,1. 11; <foreign>piṭākai naṭantu</foreign> in the Leyden plates, <foreign>passim</foreign>; and <foreign>pradakṣiṇi-kṛtya</foreign> in Sanskrit</note> to plant stones and milk-bush (along the boundaries), and to draw up and submit a report (<foreign>aṟaiyōlai</foreign>)!
+                    And issued an order (<foreign>tirumukam</foreign>) to the headmen of the <foreign>nāṭu</foreign>, telling them to circumambulate the limits,<note><foreign>Paṭakai naṭandu</foreign> corresponds to <foreign>paṭākai valañ ceyitu</foreign> in line 110 of the Kācākuṭi plates; <foreign>piṭākai valañ ceytu</foreign> in a Tiruvallam inscription of Nandivikramavarman, SII. Vol. III, p. 91,1. 11; <foreign>piṭākai naṭantu</foreign> in the Leyden plates, <foreign>passim</foreign>; and <foreign>pradakṣiṇi-kr̥tya</foreign> in Sanskrit</note> to plant stones and milk-bush (along the boundaries), and to draw up and submit a report (<foreign>aṟaiyōlai</foreign>)!
                 </p>
                 
                 <p n="54">
@@ -653,15 +653,15 @@
                 </p>
                 
                 <p rend="stanza" n="31">
-                    <l>‘The good works of those who perform (them) and of those who preserve (them) are equally (meritorious). Therefore preserve you (this gift)!’ Thus (requesting them), king Nṛpatuṅgavarman perpetually bows (his) head, which bears on its crest the lotus feet of Mukunda (Viṣṇu), to future kings.</l>
+                    <l>‘The good works of those who perform (them) and of those who preserve (them) are equally (meritorious). Therefore preserve you (this gift)!’ Thus (requesting them), king Nr̥patuṅgavarman perpetually bows (his) head, which bears on its crest the lotus feet of Mukunda (Viṣṇu), to future kings.</l>
                 </p>
                 
                 <p rend="stanza" n="32">
-                    <l>The ornament of the family of Uditodita, the goldsmith named Nṛpatuṅga, who was skilled in all sciences (and) a hereditary servant of the Pallava family, wrote (this).</l>
+                    <l>The ornament of the family of Uditodita, the goldsmith named Nr̥patuṅga, who was skilled in all sciences (and) a hereditary servant of the Pallava family, wrote (this).</l>
                 </p>
                 
                 <p n="78">
-                    The writing of Nṛipatuṅga, the son of Mātēvi-peruntaṭṭāṉ (who was) the son of Uditodaya-peruntaṭṭāṉ, (a resident) of Kīḻ-Paicāram in Kaccippēṭu.
+                    The writing of Nr̥ipatuṅga, the son of Mātēvi-peruntaṭṭāṉ (who was) the son of Uditodaya-peruntaṭṭāṉ, (a resident) of Kīḻ-Paicāram in Kaccippēṭu.
                 </p>
                 
             </div>
@@ -734,7 +734,7 @@
                 </p>
                 
                 <p rend="stanza" n="16">
-                    <l>... <note>On the Aricit River and the Pāṇdya king see <bibl n="EH"><ptr target="bib:Hultzsch1925-1926_01"/><citedRange unit="page">7</citedRange></bibl>: <quote>The name of this river must be a Sanskritized form of Aricil, a branch branch of the Kāvērī which enters the sea at Kāraikkāl (Karikal), [fn3: S.I.I, vol. II, p. 25, n. 3]. It may be concluded from verse 16 that Nṛpatuṅga allied himself with a Pāṇḍya king and undertook an expedition into the dominions of the Coḷa king.</quote></note></l>
+                    <l>... <note>On the Aricit River and the Pāṇdya king see <bibl n="EH"><ptr target="bib:Hultzsch1925-1926_01"/><citedRange unit="page">7</citedRange></bibl>: <quote>The name of this river must be a Sanskritized form of Aricil, a branch branch of the Kāvērī which enters the sea at Kāraikkāl (Karikal), [fn3: S.I.I, vol. II, p. 25, n. 3]. It may be concluded from verse 16 that Nr̥patuṅga allied himself with a Pāṇḍya king and undertook an expedition into the dominions of the Coḷa king.</quote></note></l>
                 </p>
                 
                 <p rend="stanza" n="17">
@@ -795,7 +795,7 @@
                 
                 
                 <p n="45-46">
-                    Seventh year of the victorious king Nṛpatuṅgavarman.
+                    Seventh year of the victorious king Nr̥patuṅgavarman.
                 </p>
                 
                 <p n="46-48">
@@ -844,7 +844,7 @@
                 </p>
                 
                 <p n="78-79">
-                    Writing of Nṛpatuṅga, son of Mahādeviperuntaṭṭāṉ, son of Uditodayaperuntaṭṭāṉ, of Kīḻpaicāram in Kaccippēṭu.
+                    Writing of Nr̥patuṅga, son of Mahādeviperuntaṭṭāṉ, son of Uditodayaperuntaṭṭāṉ, of Kīḻpaicāram in Kaccippēṭu.
                 </p>
                 
             </div>
@@ -869,7 +869,7 @@
                 
                 <p rend="stanza" n="3">
                     <l>Puis Aṁgiras apparut, issu de ce maître du monde aux quatre visages ;</l>
-                    <l>De lui naquit Bṛhaspati, le ministre de Śakra, qui pourfendit Vala; </l>
+                    <l>De lui naquit Br̥haspati, le ministre de Śakra, qui pourfendit Vala; </l>
                 </p>
                 
                 <p rend="stanza" n="4">
@@ -931,7 +931,7 @@
                 
                 <p rend="stanza" n="15">
                     <l>Possédant l’intelligence et la beauté, la maîtrise des arts ainsi que d’autres qualités, elle mit au monde, de noble lignée, le vertueux monarque des Trois Mondes,</l>
-                    <l>Dont l’éclat ressemble à celui du souverain soleil à son lever, le vainqueur au combat de flèches : le seigneur Nṛpatuṁga.</l>
+                    <l>Dont l’éclat ressemble à celui du souverain soleil à son lever, le vainqueur au combat de flèches : le seigneur Nr̥patuṁga.</l>
                 </p>
                 
                 <p rend="stanza" n="16">
@@ -940,7 +940,7 @@
                 </p>
                 
                 <p rend="stanza" n="17">
-                    <l>Renommé sous le nom de Nṛpatuṁga même au cours de son enfance, sous celui de « Maître du Monde »</l>
+                    <l>Renommé sous le nom de Nr̥patuṁga même au cours de son enfance, sous celui de « Maître du Monde »</l>
                     <l>Il est renommé non seulement sur la Terre, mais aussi dans cet autre Monde, tel Rāma.</l>
                 </p>
                 
@@ -962,7 +962,7 @@
                 
                 <p rend="stanza" n="21">
                     <l>Ce sont trois villages, situés dans son propre rāṣṭra, que cet homme, qui assure la prospérité de la famille des Kuru,</l>
-                    <l>Sollicita et reçut du roi Nṛpatuṁga, avec un exécuteur ;</l>
+                    <l>Sollicita et reçut du roi Nr̥patuṁga, avec un exécuteur ;</l>
                 </p>
                 
                 <p rend="stanza" n="22">
@@ -971,7 +971,7 @@
                 </p>
                 
                 <p rend="stanza" n="23">
-                    <l>Enfin, le troisième village est Iṛaippuṇaiccēri, pourvu de toutes sortes de richesses ;</l>
+                    <l>Enfin, le troisième village est Ir̥aippuṇaiccēri, pourvu de toutes sortes de richesses ;</l>
                     <l>Ayant reçu ces trois villages, il les donna à un établissement scientifique.</l>
                 </p>
                 
@@ -998,7 +998,7 @@
                 
                 <p rend="stanza" n="28">
                     <l>L’exécuteur fut Uttamaśīla, honoré par le souverain des Trois Mondes,</l>
-                    <l>Ministre, pareil à Bṛhaspati, du roi Śrī Tuṁgavarman.</l>
+                    <l>Ministre, pareil à Br̥haspati, du roi Śrī Tuṁgavarman.</l>
                 </p>
                 
                 <p rend="stanza" n="29">
@@ -1014,14 +1014,14 @@
                 <p>Suit la portion tamoule (ll. 45-74).</p>               
                 
                 <p rend="stanza" n="31">
-                    <l>« Même caractère auspicieux revêt un acte pour qui le commet et pour qui le préserve - préservez celui-ci ! » : leur adressant ces mots, le roi Nṛpatuṁgavarman</l>
+                    <l>« Même caractère auspicieux revêt un acte pour qui le commet et pour qui le préserve - préservez celui-ci ! » : leur adressant ces mots, le roi Nr̥patuṁgavarman</l>
                     <l>Devant les souverains à venir incline, pour une éternelle révérence, sa tête que couronnent les lotus des pieds de Mukunda.
                     </l>
                 </p>
                 
                 <p rend="stanza" n="32">
                     <l>Ornement de la famille Uditodita, l’orfèvre, versé dans tous les traités,</l>
-                    <l>Qui porte le nom de Nṛpatuṁga, serviteur héréditaire de la famille Pallava, a gravé ici ces tablettes.</l>
+                    <l>Qui porte le nom de Nr̥patuṁga, serviteur héréditaire de la famille Pallava, a gravé ici ces tablettes.</l>
                 </p>
                 
             </div>

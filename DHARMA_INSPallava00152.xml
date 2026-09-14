@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ciṟṟūr plates, time of Nṛpatuṅga, year 6</title>
+                <title>Ciṟṟūr plates, time of Nr̥patuṅga, year 6</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -71,9 +71,9 @@
                     
                     <lg n="1" met="śārdūlavikrīḍita">
                         <l n="a">du<supplied reason="omitted">r</supplied>bbhedan timiraṁ yad anya-mahasām ad<choice><orig>o</orig><reg>au</reg></choice> n<choice><sic>a</sic><corr>i</corr></choice>rasyāntara<supplied reason="omitted">ṁ</supplied></l>
-                        <l n="b"><lb n="1v2=2"/>śuddha-jñāna-dṛśo nidarśśya nayati svarggāpavargg<choice><orig>o</orig><reg>au</reg></choice> punaḥ</l>
+                        <l n="b"><lb n="1v2=2"/>śuddha-jñāna-dr̥śo nidarśśya nayati svarggāpavargg<choice><orig>o</orig><reg>au</reg></choice> punaḥ</l>
                         <l n="c">jyoti
-                            <lb n="1v3=1" break="no"/>s tat paramaM vidhatṛ-jagatas sarvvasya śarvvāhyayaM</l>
+                            <lb n="1v3=1" break="no"/>s tat paramaM vidhatr̥-jagatas sarvvasya śarvvāhyayaM</l>
                         <l n="d">viśva-vyāpy avina-
                             <lb n="1v4=4" break="no"/>śvaran nirupaman niśreyasāyastu vaḥ <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                     </lg>   
@@ -87,10 +87,10 @@
                     </p>
                     
                         <lg n="11" met="...">
-                        <l n="a">śrī-rāṣṭrakūṭa-nṛpateḥ punar ā<choice><sic>n</sic><corr>t</corr></choice>majāyān</l>
-                        <l n="b">tasmād a<lb n="2v9=25" break="no"/>bhūn nṛpa-śatārccita-pāda-pa<choice><sic>t</sic><corr>d</corr></choice>maḥ</l>
+                        <l n="a">śrī-rāṣṭrakūṭa-nr̥pateḥ punar ā<choice><sic>n</sic><corr>t</corr></choice>majāyān</l>
+                        <l n="b">tasmād a<lb n="2v9=25" break="no"/>bhūn nr̥pa-śatārccita-pāda-pa<choice><sic>t</sic><corr>d</corr></choice>maḥ</l>
                         <l n="c">rājyā-virājita-jagat-tritayo yaśobhis</l>                        
-                        <l n="d">t<unclear>u</unclear><pb n="3r" break="no"/><lb n="3r1=26" break="no"/>ṁgo nṛpeṣu nṛpatuṁga Iti śrutākhya<supplied reason="omitted">ḥ</supplied></l>                        
+                        <l n="d">t<unclear>u</unclear><pb n="3r" break="no"/><lb n="3r1=26" break="no"/>ṁgo nr̥peṣu nr̥patuṁga Iti śrutākhya<supplied reason="omitted">ḥ</supplied></l>                        
                     </lg>
                     
                     <p>
@@ -111,8 +111,8 @@
                     </lg>
                     
                     <lg n="19" met="āryā">
-                        <l n="a">kṛtavān akṛtaka-hṛda<supplied reason="omitted">ya</supplied>ḥ</l>
-                        <l n="b">kṛtī kṛta 
+                        <l n="a">kr̥tavān akr̥taka-hr̥da<supplied reason="omitted">ya</supplied>ḥ</l>
+                        <l n="b">kr̥tī kr̥ta 
                             <lb n="3v8=42" break="no"/>-jñaḥ kaviḥ kumārākhyaḥ</l>
                         <l n="c">vidyā-nady-ambunidhiḥ</l>
                         <l n="d">praśasta-śīlaḥ praśasti-m imāM <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
@@ -129,7 +129,7 @@
                     </lg>
                     
                     <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
-                        kō-vicaiya-<hi rend="grantha">nṛpa</hi>tuṇka<hi rend="grantha">panm</hi>aṟku  yāṇṭu Āṟāvatu kāṭupaṭṭi <unclear>mu</unclear>-
+                        kō-vicaiya-<hi rend="grantha">nr̥pa</hi>tuṇka<hi rend="grantha">panm</hi>aṟku  yāṇṭu Āṟāvatu kāṭupaṭṭi <unclear>mu</unclear>-
                         <lb n="4r2=45"/>ttar<unclear>ai</unclear>yaṉ viṇṇappattāl ...
                         
                         <pb n="4v"/>

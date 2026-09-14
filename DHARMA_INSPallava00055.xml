@@ -99,9 +99,9 @@
                 <p>
                     <milestone n="6" unit="zone" type="pagelike"/>
                     <label>6th chapel</label>
-                    <lb n="6.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Udita-prabhāvaḥ śrī-Udita-kīrttiḥ śrī-ṛṣabha-darppaḥ śrī-ṛṣabha-lāñchanaḥ</seg>
-                    <lb n="6.2"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined"><supplied reason="lost">śrī-Udita-prabhāvaḥ śrī-Udita-kīrttiḥ śrī-ṛṣabha-darppaḥ śrī-ṛṣabha-lāñchanaḥ</supplied></seg>
-                    <lb n="6.3"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">śrī-Udita-prabhāvaḥ śrī-Udita-kīrttiḥ śrī-ṛṣabha-darppaḥ śrī-ṛṣabha-lāñchanaḥ śrī-Eka-c <gap reason="lost" quantity="2" unit="character" precision="low"/><!--SII: The third tier inscription adds another epithet beginning with <foreign>śrīEka<unclear>ca</unclear></foreign>.--></seg>                    
+                    <lb n="6.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Udita-prabhāvaḥ śrī-Udita-kīrttiḥ śrī-r̥ṣabha-darppaḥ śrī-r̥ṣabha-lāñchanaḥ</seg>
+                    <lb n="6.2"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined"><supplied reason="lost">śrī-Udita-prabhāvaḥ śrī-Udita-kīrttiḥ śrī-r̥ṣabha-darppaḥ śrī-r̥ṣabha-lāñchanaḥ</supplied></seg>
+                    <lb n="6.3"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">śrī-Udita-prabhāvaḥ śrī-Udita-kīrttiḥ śrī-r̥ṣabha-darppaḥ śrī-r̥ṣabha-lāñchanaḥ śrī-Eka-c <gap reason="lost" quantity="2" unit="character" precision="low"/><!--SII: The third tier inscription adds another epithet beginning with <foreign>śrīEka<unclear>ca</unclear></foreign>.--></seg>                    
                     <lb n="6.4"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Udita-prabhāvaḥ śrī-Udita-kīrttiḥ</seg>
                 </p>
                 
@@ -210,9 +210,9 @@
                 <p>
                     <milestone n="18" unit="zone" type="pagelike"/>
                     <label>18th chapel</label>
-                    <lb n="18.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-tṛṣṇāpūraṇaḥ śrī-daridrānukamp<choice><sic>iḥ</sic><corr>ī</corr></choice> śrī-Avirata-dānaḥ śrī-dīpta-pauruṣa<unclear>ḥ</unclear></seg>
-                    <lb n="18.2"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">śrī-tṛṣṇāpūraṇaḥ śrī-daridrānukamp<choice><sic>iḥ</sic><corr>ī</corr></choice> śrī-Avirata-dānaḥ śrī-dīpta-pauruṣa<unclear>ḥ</unclear></seg>
-                    <lb n="18.3"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">śrī-tṛṣṇāpūraṇaḥ śrī-daridrānukamp<choice><sic>iḥ</sic><corr>ī</corr></choice> śrī-Avirata-dānaḥ śrī-dīpta-pauruṣa<unclear>ḥ</unclear></seg>
+                    <lb n="18.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-tr̥ṣṇāpūraṇaḥ śrī-daridrānukamp<choice><sic>iḥ</sic><corr>ī</corr></choice> śrī-Avirata-dānaḥ śrī-dīpta-pauruṣa<unclear>ḥ</unclear></seg>
+                    <lb n="18.2"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">śrī-tr̥ṣṇāpūraṇaḥ śrī-daridrānukamp<choice><sic>iḥ</sic><corr>ī</corr></choice> śrī-Avirata-dānaḥ śrī-dīpta-pauruṣa<unclear>ḥ</unclear></seg>
+                    <lb n="18.3"/><seg xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">śrī-tr̥ṣṇāpūraṇaḥ śrī-daridrānukamp<choice><sic>iḥ</sic><corr>ī</corr></choice> śrī-Avirata-dānaḥ śrī-dīpta-pauruṣa<unclear>ḥ</unclear></seg>
                     <lb n="18.4"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Avismitaḥ śrī-Amitrāśaniḥ</seg>
                 </p>
                 
@@ -328,7 +328,7 @@
                 <p>                   
                     <milestone n="36" unit="zone" type="pagelike"/>
                     <label>35th chapel</label>
-                    <lb n="36.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Upendravik<choice><sic>ṛ</sic><corr>ra</corr></choice>maḥ śrī-Āśāpūraḥ śrī-kuladhvajaḥ śrī-guṇonnataḥ</seg>
+                    <lb n="36.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Upendravik<choice><sic>r̥</sic><corr>ra</corr></choice>maḥ śrī-Āśāpūraḥ śrī-kuladhvajaḥ śrī-guṇonnataḥ</seg>
                 </p>
                 
                 <p>
@@ -346,13 +346,13 @@
                 <p>
                     <milestone n="39" unit="zone" type="pagelike"/>
                     <label>38th chapel</label>
-                    <lb n="39.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Ātodyatumburuḥ śrī-Āgamapramāṇaḥ śrī-Ājñālaṅkṛtaḥ śrī-Itihāsapriyaḥ</seg>
+                    <lb n="39.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Ātodyatumburuḥ śrī-Āgamapramāṇaḥ śrī-Ājñālaṅkr̥taḥ śrī-Itihāsapriyaḥ</seg>
                 </p>
                 
                 <p>
                     <milestone n="40" unit="zone" type="pagelike"/>
                     <label>39th chapel</label>
-                    <lb n="39.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Atisāhasaḥ śrī-Anavagrahaḥ śrī-Āgamānusār<choice><sic>iḥ</sic><corr>ī</corr></choice> śrī-Utthānaśīlaḥ śrī-Udayonnataḥ śrī-Udvṛttadamanaḥ śrī-Ekarājaḥ śrī-kālavikramaḥ śrī-jayanidhiḥ śrī-kālavasanaḥ śrī-garvvitadamanaḥ</seg>
+                    <lb n="39.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Atisāhasaḥ śrī-Anavagrahaḥ śrī-Āgamānusār<choice><sic>iḥ</sic><corr>ī</corr></choice> śrī-Utthānaśīlaḥ śrī-Udayonnataḥ śrī-Udvr̥ttadamanaḥ śrī-Ekarājaḥ śrī-kālavikramaḥ śrī-jayanidhiḥ śrī-kālavasanaḥ śrī-garvvitadamanaḥ</seg>
                 </p>                
                 
                 <p>
@@ -382,13 +382,13 @@
                 <p>
                     <milestone n="45" unit="zone" type="pagelike"/>
                     <label>44th chapel</label>
-                    <lb n="44.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-dūrada<supplied reason="omitted">r</supplied>ś<choice><sic>iḥ</sic><corr>ī</corr></choice> śrī-dṛptaśāsanaḥ śrī-nayānusār<choice><sic>iḥ</sic><corr>ī</corr></choice> śrī-nayanamanoharaḥ</seg>
+                    <lb n="44.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-dūrada<supplied reason="omitted">r</supplied>ś<choice><sic>iḥ</sic><corr>ī</corr></choice> śrī-dr̥ptaśāsanaḥ śrī-nayānusār<choice><sic>iḥ</sic><corr>ī</corr></choice> śrī-nayanamanoharaḥ</seg>
                 </p>
                 
                 <p>
                     <milestone n="46" unit="zone" type="pagelike"/>
                     <label>45th chapel</label>
-                    <lb n="45.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Anindyacaritaḥ śrī-Agādhagāmbhīryya<supplied reason="omitted">ḥ</supplied> śrī-Anabhravṛṣṭiḥ śrī-Atanupratāpaḥ</seg>
+                    <lb n="45.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-Anindyacaritaḥ śrī-Agādhagāmbhīryya<supplied reason="omitted">ḥ</supplied> śrī-Anabhravr̥ṣṭiḥ śrī-Atanupratāpaḥ</seg>
                 </p>                
                 
                 <p>
@@ -424,13 +424,13 @@
                 <p>
                     <milestone n="52" unit="zone" type="pagelike"/>
                     <label>51st chapel</label>
-                    <lb n="51.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-caṇḍadaṇḍaḥ śrī-Asahyakopaḥ śrī-chāyāvṛkṣaḥ śrī-dharaṇitilakaḥ</seg>
+                    <lb n="51.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-caṇḍadaṇḍaḥ śrī-Asahyakopaḥ śrī-chāyāvr̥kṣaḥ śrī-dharaṇitilakaḥ</seg>
                 </p>
                 
                 <p>
                     <milestone n="53" unit="zone" type="pagelike"/>
                     <label>52nd chapel</label>
-                    <lb n="52.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-varuṇapāśaḥ śrī-dhairyyasāgaraḥ śrī-pravṛttacakraḥ śrī-nāgapriyaḥ</seg>
+                    <lb n="52.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-varuṇapāśaḥ śrī-dhairyyasāgaraḥ śrī-pravr̥ttacakraḥ śrī-nāgapriyaḥ</seg>
                 </p>
                 
                 <p>
@@ -452,13 +452,13 @@
                 <p>
                     <milestone n="57" unit="zone" type="pagelike"/>
                     <label>56th chapel</label>
-                    <lb n="56.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-bhīmavikramaḥ śrī-rājakuñjaraḥ śrī-lalitavilās<choice><sic>ā</sic><corr>a</corr></choice>ḥ śrī-śāstradṛṣṭiḥ</seg>
+                    <lb n="56.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-bhīmavikramaḥ śrī-rājakuñjaraḥ śrī-lalitavilās<choice><sic>ā</sic><corr>a</corr></choice>ḥ śrī-śāstradr̥ṣṭiḥ</seg>
                 </p>
                 
                 <p>
                     <milestone n="58" unit="zone" type="pagelike"/>
                     <label>57th chapel</label>
-                    <lb n="57.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-vāraṇabhagadattaḥ śrī-vikṛtavilāsaḥ śrī-vikramakesar<choice><sic>iḥ</sic><corr>ī</corr></choice> śrī-v<choice><sic>i</sic><corr>ī</corr></choice>ṇānāradaḥ</seg>
+                    <lb n="57.1"/><seg xml:lang="san-Latn" rendition="class:siddhamātr̥kā maturity:undetermined">śrī-vāraṇabhagadattaḥ śrī-vikr̥tavilāsaḥ śrī-vikramakesar<choice><sic>iḥ</sic><corr>ī</corr></choice> śrī-v<choice><sic>i</sic><corr>ī</corr></choice>ṇānāradaḥ</seg>
                 </p>
                 
                 <p>

@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Piḷḷaippākkam, time of Nṛpatuṅga, year [figure lost]</title>
+                <title>Piḷḷaippākkam, time of Nr̥patuṅga, year [figure lost]</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -58,7 +58,7 @@
                 </ab>
                 
                 <p>
-                    <hi rend="grantha">nṛpa</hi>-t<choice><orig>o</orig><reg>u</reg></choice>ṅkarkku yāṇṭu <gap reason="lost" quantity="5" unit="character"/> 
+                    <hi rend="grantha">nr̥pa</hi>-t<choice><orig>o</orig><reg>u</reg></choice>ṅkarkku yāṇṭu <gap reason="lost" quantity="5" unit="character"/> 
                 </p>
                 
                 <p>
@@ -100,7 +100,7 @@
                 </p>
                 
                 <p n="1">
-                    [...]th year of Nṛpatoṅkar.<note>Sanskrit Nṛpatuṅga.</note>
+                    [...]th year of Nr̥patoṅkar.<note>Sanskrit Nr̥patuṅga.</note>
                 </p>
                 
                 <p n="1-2">

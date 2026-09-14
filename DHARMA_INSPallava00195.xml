@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Uttiramērūr, time of Nṛpatuṅgavarman, year [figure lost]</title>
+                <title>Uttiramērūr, time of Nr̥patuṅgavarman, year [figure lost]</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -57,7 +57,7 @@
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 <p>
-                    kō-vicaiya-<hi rend="grantha">nṛpa</hi>tuṅ·ka-vik·kirama-vammaṟ·ku yāṇ·ṭu <gap reason="lost" extent="unknown" unit="character"/>
+                    kō-vicaiya-<hi rend="grantha">nr̥pa</hi>tuṅ·ka-vik·kirama-vammaṟ·ku yāṇ·ṭu <gap reason="lost" extent="unknown" unit="character"/>
                 </p>
                 <p>
                     <lb n="2"/>kārāṇai kāṭavati-y-araiyar iṭai-p piramatēyam<unclear>·</unclear> peṟ<unclear>·</unclear>ṟa <hi rend="grantha">bhār<unclear>ā</unclear>dvāja</hi> <gap reason="lost" extent="unknown" unit="character"/>
@@ -101,7 +101,7 @@
             
             <div type="translation" resp="part:emfr">
                 <p n="1">Prosperity! Fortune!</p>
-                <p n="1"><gap reason="lost"/> year of the victorious king Nṛpatuṅkavikkiramavarmaṉ.<note>Sanskrit Nṛpatuṅgavikramavarman.</note></p>
+                <p n="1"><gap reason="lost"/> year of the victorious king Nr̥patuṅkavikkiramavarmaṉ.<note>Sanskrit Nr̥patuṅgavikramavarman.</note></p>
                 <p n="2"><supplied reason="explanation">the land named</supplied> Kāṟāṇai, <seg cert="low">from</seg> <supplied reason="explanation"><foreign>iṭai</foreign></supplied> the Kāṭavati king, the Bhāradvāja <supplied reason="explanation">Brahmin</supplied> who obtained a <foreign>brahmadeya</foreign> <gap reason="lost"/></p>
                 <p n="3">two quarters <supplied reason="explanation"><foreign>iru-k-kāl-āvatu</foreign></supplied>, to Pūti Tīran alias this Kāṭavati king, this above-<seg cert="low">mentioned</seg> <supplied reason="explanation"><foreign>im-mēṟ-co<supplied reason="lost">llapaṭta</supplied></foreign></supplied> <gap reason="lost"/></p>
             </div>

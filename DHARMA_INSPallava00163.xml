@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Uttiramērūr, time of Nṛpatuṅgavarman, year 16</title>
+                <title>Uttiramērūr, time of Nr̥patuṅgavarman, year 16</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -57,7 +57,7 @@
                     <lb n="1"/><hi rend="grantha"><supplied reason="lost">s</supplied>vasti śrī</hi>
                 </ab> 
                 <p>
-                    <hi rend="grantha">nṛpa</hi>t<choice><orig>o</orig><reg>u</reg></choice>ṅka-va<hi rend="grantha">rmma</hi>r<choice><orig>k</orig><reg>kk</reg></choice>u yāṇṭu patināṟ-āvatu
+                    <hi rend="grantha">nr̥pa</hi>t<choice><orig>o</orig><reg>u</reg></choice>ṅka-va<hi rend="grantha">rmma</hi>r<choice><orig>k</orig><reg>kk</reg></choice>u yāṇṭu patināṟ-āvatu
                 </p>
                 <p>
                     Ut=ta<hi rend="grantha">rameru-c-ca</hi>tu<hi rend="grantha"><unclear>r</unclear>vvedi-maṁ</hi>kalattu tiru-p
@@ -92,7 +92,7 @@
             
             <div type="translation" resp="part:emfr">
                 <p n="1">Prosperity! Fortune!</p>
-                <p n="1">Sixteenth year of Nṛpatuṅkavarmar.<note>Sanskrit Nṛpatuṅgavarman.</note></p>
+                <p n="1">Sixteenth year of Nr̥patuṅkavarmar.<note>Sanskrit Nr̥patuṅgavarman.</note></p>
                 <p n="1-3">The gold that I, Paṭāri,<note>Sanskrit Bhaṭāri.</note> wife <supplied reason="explanation"><foreign>maṇavāṭṭi</foreign></supplied> <supplied reason="subaudible">of</supplied> Harinandin, temple-man <supplied reason="explanation"><foreign>kōyilāṉ</foreign></supplied> at Ālappākkam, have given for the sake of an unperishable lamp for the Mahādeva of Tiruppulivalam in Uttaramerucaturvedimaṅgala: thirteen <foreign>kaḻañcu</foreign>s.</p>
                 <p n="3-4">This gold, I have given for burning an unperishable lamp with <supplied reason="subaudible">its</supplied> interest <supplied reason="explanation"><foreign>poliyālē</foreign></supplied>.</p>
                 <p n="4">The great men of the supervision committee <supplied reason="explanation"><foreign>vāriyapperumakkaḷ</foreign></supplied> <supplied reason="subaudible">are</supplied> the protectors <supplied reason="subaudible">of</supplied> this.</p>

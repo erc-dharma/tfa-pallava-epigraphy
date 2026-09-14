@@ -74,7 +74,7 @@
                         <l n="a" enjamb="yes"><pb n="1v"/><lb n="1v1=1"/>svarggāpava<unclear>r</unclear>gga-praguṇāgra-mārgga</l>
                         <l n="b">-prakāśi-vākyo jaya<lb n="1v2=1" break="no"/>tāj jinendraḥ</l>
                         <l n="c" enjamb="yes">munīndra-devendra-narendra</l>
-                        <l n="d">-vidvad-vandāru-bṛndāraka<lb n="1v3=3" break="no"/>-bṛnda-vandyaḥ <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
+                        <l n="d">-vidvad-vandāru-br̥ndāraka<lb n="1v3=3" break="no"/>-br̥nda-vandyaḥ <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="2" met="śārdūlavikrīḍita">
@@ -87,7 +87,7 @@
                     <lg n="3" met="pr̥thvī">
                         <l n="a">tataḥ pratata-kīrttiṣu prahata-lo<lb n="1v8=8" break="no"/>ka-śokeṣv iteṣv</l>
                         <l n="b">aśoka-harigupta-rāḍ·-pramukha<lb n="2r1=9" break="no"/>-pallaveṣu kramāt<unclear>·</unclear></l>
-                        <l n="c" enjamb="yes">praṇamra-nṛpa-kamra-m<choice><orig>o</orig><reg>au</reg></choice>ly-aruṇa-ratna-ra<lb n="2r2=10" break="no"/>śmy-ātapat</l>
+                        <l n="c" enjamb="yes">praṇamra-nr̥pa-kamra-m<choice><orig>o</orig><reg>au</reg></choice>ly-aruṇa-ratna-ra<lb n="2r2=10" break="no"/>śmy-ātapat</l>
                         <l n="d">-prabuddha-pada-paṁkajeṣv ajani siṁhavarmmādhipāt <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                     </lg>	
                     
@@ -130,7 +130,7 @@
                         <l n="a" enjamb="yes">samasta-śāstra-niṣṇā<pb n="3r" break="no"/><lb n="3r1=25" break="no"/>ta</l>
                         <l n="b">dhiṣaṇo dhiṣaṇopamaḥ</l>
                         <l n="c">mānyo nāmnāpi <lb n="3r2=26"/> medhāvī</l>
-                        <l n="d">praśastiṁ kṛtavān imām· <g ref="sym:flourish-taperOut" type="connector">§</g><g ref="sym:flourish-taperOut" type="connector">§</g><g ref="sym:flourish-taperOut" type="connector">§</g><g ref="sym:flourish-taperOut" type="connector">§</g><g ref="sym:flourish-taperOut" type="connector">§</g><g ref="sym:flourish-taperOut" type="connector">§</g></l>
+                        <l n="d">praśastiṁ kr̥tavān imām· <g ref="sym:flourish-taperOut" type="connector">§</g><g ref="sym:flourish-taperOut" type="connector">§</g><g ref="sym:flourish-taperOut" type="connector">§</g><g ref="sym:flourish-taperOut" type="connector">§</g><g ref="sym:flourish-taperOut" type="connector">§</g><g ref="sym:flourish-taperOut" type="connector">§</g></l>
                     </lg>
                     
                 </div>
@@ -313,7 +313,7 @@
                     </p>
                     <p rend="stanza" n="2">
                         <l>From he who is born on the waters on the navel of he whose navel is a lotus<note>That is, Brahmā, arising form the navel of Viṣṇu.</note>, sitting in the lotus posture, was born Aṅgiras;</l>
-                        <l>From him, the preceptor who is the master of those who have words as arrows<note>That is, Bṛhaspati, the preceptor of the gods and the <foreign>purohita</foreign> of Indra.</note>; <supplied reason="subaudible">from him</supplied>, Śaṁyu, whose thoughts are broad/concealed; <supplied reason="subaudible">from him</supplied>, Bharadvājaka;</l>
+                        <l>From him, the preceptor who is the master of those who have words as arrows<note>That is, Br̥haspati, the preceptor of the gods and the <foreign>purohita</foreign> of Indra.</note>; <supplied reason="subaudible">from him</supplied>, Śaṁyu, whose thoughts are broad/concealed; <supplied reason="subaudible">from him</supplied>, Bharadvājaka;</l>
                         <l><supplied reason="subaudible">from him</supplied>, Droṇa; <supplied reason="subaudible">from him</supplied>, Drauṇi<note>That is, Aśvatthāman.</note>, who was a partial incarnation of the enemy of Pura; from him was born Pallava,</l>
                         <l>Who is the glorious beloved of his beloved earth, who has the waters of the ocean for her garments.</l>
                     </p>
@@ -346,7 +346,7 @@
                     
                     <p rend="stanza" n="2">
                         <l><supplied reason="lost">Brahmā</supplied> naquit du dieu dont le nombril est un lotus ; de lui naquit Aṁgiras,</l>
-                        <l>De ce dernier Gīrvāṇeśa<note>Litt. « le maître des êtres ayant la parole pour flèches », appellation de Bṛhaspati.</note> <gap reason="lost"/> <supplied reason="lost">qui eut pour fils</supplied> Śamyu; puis vint Bharadvājaka,</l>
+                        <l>De ce dernier Gīrvāṇeśa<note>Litt. « le maître des êtres ayant la parole pour flèches », appellation de Br̥haspati.</note> <gap reason="lost"/> <supplied reason="lost">qui eut pour fils</supplied> Śamyu; puis vint Bharadvājaka,</l>
                         <l><supplied reason="lost">Qui engendra</supplied> Droṇa; <supplied reason="lost">de ce dernier naquit</supplied> celui qui fut une incarnation partielle de l’Ennemi de Pura<note>Aśvatthāman, incarnation partielle de Śiva.</note> ; Pallava,</l>
                         <l><gap reason="lost"/> de la Fortune <gap reason="lost"/>, qui fut l’époux de son épouse la Terre.</l>
                     </p>

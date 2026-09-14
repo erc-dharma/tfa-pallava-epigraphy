@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Māraṉēri, time of Nṛpatuṅkavikramavarman, year 24</title>
+                <title>Māraṉēri, time of Nr̥patuṅkavikramavarman, year 24</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -68,8 +68,8 @@
                     
                     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>y</unclear>i-ṉāṭ·ṭu-t· te
                     <lb n="7" break="no"/><gap reason="lost" extent="unknown" unit="character"/> <choice><unclear>ṉ</unclear><unclear>ṉa</unclear></choice> nan<unclear>·</unclear>tipura
-                    <lb n="8" break="no"/><supplied reason="lost">ttu</supplied> <hi rend="grantha">nṛpakesari Ī</hi>
-                    <lb n="9" break="no"/><hi rend="grantha">śvara-gṛha</hi>t<unclear>·</unclear>tu <hi rend="grantha">mahā</hi>
+                    <lb n="8" break="no"/><supplied reason="lost">ttu</supplied> <hi rend="grantha">nr̥pakesari Ī</hi>
+                    <lb n="9" break="no"/><hi rend="grantha">śvara-gr̥ha</hi>t<unclear>·</unclear>tu <hi rend="grantha">mahā</hi>
                     <lb n="10" break="no"/><supplied reason="lost"><choice><unclear>tē</unclear><unclear>de</unclear></choice>va</supplied>ṟkku It·-taḷi-t
                     <lb n="11" break="no"/><supplied reason="lost">tēva</supplied>ṉā<supplied reason="omitted">r</supplied> makaḷ· kēca
                     <lb n="12" break="no"/><gap reason="lost" extent="unknown" unit="character"/> mi Oru non·tā
@@ -113,7 +113,7 @@
                     </app>   
                     
                     <app loc="8">
-                        <lem><hi rend="grantha">nṛpakesari</hi></lem>
+                        <lem><hi rend="grantha">nr̥pakesari</hi></lem>
                         <rdg source="bib:Cankar2012_01">rupake<hi rend="grantha">sa</hi>ri</rdg>
                     </app>   
                     
@@ -147,11 +147,11 @@
                 </p>
                 
                 <p n="2-55">
-                    Twenty-fourth (24) year of the victorious king Nirupatuṅkavikkiramapaṉmar.<note>Sanskrit Nṛpatuṅkavikramavarman.</note>
+                    Twenty-fourth (24) year of the victorious king Nirupatuṅkavikkiramapaṉmar.<note>Sanskrit Nr̥patuṅkavikramavarman.</note>
                 </p>
                 
                 <p n="6-15">
-                    The gold that Kēca<gap reason="lost"/>mi, a daughter of the god of this temple has given for one perpetual lamp for the Mahādeva of the Nṛpakesarīśvaragṛha of Nantipuram <gap reason="lost"/> in the <gap reason="lost"/>nāṭu: 30 <foreign>kaḻañcu</foreign>s.
+                    The gold that Kēca<gap reason="lost"/>mi, a daughter of the god of this temple has given for one perpetual lamp for the Mahādeva of the Nr̥pakesarīśvaragr̥ha of Nantipuram <gap reason="lost"/> in the <gap reason="lost"/>nāṭu: 30 <foreign>kaḻañcu</foreign>s.
                 </p>
                 
                 <p n="15-20">

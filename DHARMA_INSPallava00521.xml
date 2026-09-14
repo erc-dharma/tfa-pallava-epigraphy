@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cāḷuvaṉ Kuppam, time of Nṛpatuṅga, year 13</title>
+				<title>Cāḷuvaṉ Kuppam, time of Nr̥patuṅga, year 13</title>
 			    <respStmt>
 			        <resp key="creator">author of digital edition</resp>
 			        <persName ref="part:emfr">
@@ -59,7 +59,7 @@
 	
 	<p>
 		yā
-		<lb n="2" break="no"/>ṇṭu <hi rend="grantha">nṛ</hi>pa-tuṅ
+		<lb n="2" break="no"/>ṇṭu <hi rend="grantha">nr̥</hi>pa-tuṅ
 		<lb n="3" break="no"/>kaṟku-p patiṉ mū
 		<lb n="4" break="no"/>ṉṟ-āvatu
 	</p>
@@ -75,7 +75,7 @@
 	<listApp>
 		
 		<app loc="2">
-			<lem><hi rend="grantha">nṛ</hi>pa-tuṅ
+			<lem><hi rend="grantha">nr̥</hi>pa-tuṅ
 		<lb n="3" break="no"/>kaṟku-p</lem>					
 			<rdg source="bib:Rajavelu2008_01">nripatun<lb n="3" break="no"/>karkup</rdg>
 			<rdg source="bib:Badhreenath2015_01">nirupatu<lb n="3" break="no"/>karkkup</rdg>
@@ -104,7 +104,7 @@
 	
 	<p n="1">Prosperity! Fortune!</p>
 	
-	<p n="1-4">Thirteenth year of Nṛpatuṅkaṉ<note>Sanskrit Nṛpatuṅga.</note></p>
+	<p n="1-4">Thirteenth year of Nr̥patuṅkaṉ<note>Sanskrit Nr̥patuṅga.</note></p>
 	
 	<p n="4"><gap reason="lost"/></p>
 			

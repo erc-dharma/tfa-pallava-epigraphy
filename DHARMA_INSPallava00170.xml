@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Piḷḷaippākkam, time of Nṛpatuṅga, year 20</title>
+                <title>Piḷḷaippākkam, time of Nr̥patuṅga, year 20</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -58,7 +58,7 @@
                 </ab>
                 
                 <p>
-                    <lb n="2"/><hi rend="grantha">nṛ</hi><surplus>ru</surplus>pa<unclear>t</unclear><choice><orig><unclear>o</unclear></orig><reg><unclear>u</unclear></reg></choice>ṅ
+                    <lb n="2"/><hi rend="grantha">nr̥</hi><surplus>ru</surplus>pa<unclear>t</unclear><choice><orig><unclear>o</unclear></orig><reg><unclear>u</unclear></reg></choice>ṅ
                     <lb n="3" break="no"/>ka<unclear>r</unclear>kku yāṇ
                     <lb n="4" break="no"/>ṭu Iru-pat-āva
                     <lb n="5" break="no"/>tu
@@ -106,7 +106,7 @@
                 </p>
                 
                 <p n="2-5">
-                    Twentieth year of Nṛpatuṅkar.<note>Sanskrit Nṛpatuṅka.</note>
+                    Twentieth year of Nr̥patuṅkar.<note>Sanskrit Nr̥patuṅka.</note>
                 </p>
                 
                 <p n="5-12">

@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Guḍimallam, Parameśurāmeśvara, time of Nṛpatuṅga, year 24</title>
+                <title>Guḍimallam, Parameśurāmeśvara, time of Nr̥patuṅga, year 24</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -60,7 +60,7 @@
                 </ab>
                 
                 <p>
-                    <lb n="2"/><hi rend="grantha">nṛpa</hi><supplied reason="lost">tuṅ</supplied>  	        
+                    <lb n="2"/><hi rend="grantha">nr̥pa</hi><supplied reason="lost">tuṅ</supplied>  	        
                     <lb n="3" break="no"/>kaṟku <unclear>y</unclear><supplied reason="lost">āṇ</supplied>		
                     <lb n="4" break="no"/>ṭu Irupa<supplied reason="lost">ttu-nā</supplied>
                     <lb n="5" break="no"/>l-<unclear>ā</unclear>vatu 
@@ -71,7 +71,7 @@
                         <lb n="6" break="no"/>jagat-tra<supplied reason="lost">yābhi</supplied></hi>
                     <lb n="7" break="no"/>va<hi rend="grantha">ndita-<unclear>s</unclear><supplied reason="lost">urāsurā</supplied>
                         <lb n="8" break="no"/>dh<choice><orig>i</orig><reg>ī</reg></choice>śa-parame<supplied reason="lost">śva</supplied>
-                        <lb n="9" break="no"/>ra-pra</hi>ti<hi rend="grantha">hārīkṛta
+                        <lb n="9" break="no"/>ra-pra</hi>ti<hi rend="grantha">hārīkr̥ta
                             <lb n="10" break="no"/>śrī-mahābali
                             <lb n="11" break="no"/>kulo<choice><orig>t</orig><reg>d</reg></choice>bhava			
                             <lb n="12" break="no"/>śrī</hi>-vāṇa-vi
@@ -81,7 +81,7 @@
                     
                     <milestone unit="face" n="B" break="no"/>
                     
-                    <lb n="16" break="no"/>vaḻiyiṉ mēṟku <hi rend="grantha"><choice><orig>pr<supplied reason="lost">i</supplied></orig><reg>pṛ</reg></choice>thi</hi>vi-<hi rend="grantha">rājya</hi>ñ ceyya-t tiruvēṅkaṭa-k  	        
+                    <lb n="16" break="no"/>vaḻiyiṉ mēṟku <hi rend="grantha"><choice><orig>pr<supplied reason="lost">i</supplied></orig><reg>pr̥</reg></choice>thi</hi>vi-<hi rend="grantha">rājya</hi>ñ ceyya-t tiruvēṅkaṭa-k  	        
                     <lb n="17" break="no"/>-kōṭṭattu-<unclear>c</unclear> cilai-nāṭṭu-t tiru-viṟppirampēṭṭu <hi rend="grantha">sabhai</hi>
                     
                     <milestone unit="face" n="C" break="no"/>
@@ -145,9 +145,9 @@
                     </app>                    
                     
                     <app loc="2">
-                        <lem><hi rend="grantha">nṛpa</hi><supplied reason="lost">tuṅ</supplied>  	        
+                        <lem><hi rend="grantha">nr̥pa</hi><supplied reason="lost">tuṅ</supplied>  	        
                             <lb n="3" break="no"/>kaṟku</lem>
-                        <rdg source="bib:Venkayya1911-1912_01"><hi rend="grantha">nṛ<unclear>pa</unclear></hi><supplied reason="lost">tuṅ</supplied>  	        
+                        <rdg source="bib:Venkayya1911-1912_01"><hi rend="grantha">nr̥<unclear>pa</unclear></hi><supplied reason="lost">tuṅ</supplied>  	        
                             <lb n="3" break="no"/>kaṟ<unclear>ku</unclear></rdg>
                     </app>          
                     
@@ -276,7 +276,7 @@
                 </p>
                 
                 <p n="2-5">
-                    Twenty-fourth year of Nṛpatuṅkaṉ.<note>Sanskrit Nṛpatuṅga.</note>
+                    Twenty-fourth year of Nr̥patuṅkaṉ.<note>Sanskrit Nr̥patuṅga.</note>
                 </p>
                 
                 <p n="5-30">

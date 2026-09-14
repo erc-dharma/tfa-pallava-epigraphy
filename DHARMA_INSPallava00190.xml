@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Uttiramērūr, time of Nṛpatuṅgavarman, year 26</title>
+                <title>Uttiramērūr, time of Nr̥patuṅgavarman, year 26</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -59,7 +59,7 @@
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 <p>
-                    kō-vic<choice><orig><choice><unclear>a</unclear><unclear>e</unclear></choice></orig><reg>ai</reg></choice>ya-<hi rend="grantha">nṛpa</hi>tu<hi rend="grantha">ṁ</hi>ka-vi<hi rend="grantha">krama</hi>va-<hi rend="grantha">r<unclear>·</unclear>mma</hi>ṟku yāṇṭu Irupattāṟāvatu
+                    kō-vic<choice><orig><choice><unclear>a</unclear><unclear>e</unclear></choice></orig><reg>ai</reg></choice>ya-<hi rend="grantha">nr̥pa</hi>tu<hi rend="grantha">ṁ</hi>ka-vi<hi rend="grantha">krama</hi>va-<hi rend="grantha">r<unclear>·</unclear>mma</hi>ṟku yāṇṭu Irupattāṟāvatu
                 </p>
                 <p>
                     kā
@@ -84,8 +84,8 @@
                     </app>
                     
                     <app loc="1">
-                        <lem><hi rend="grantha">°nṛpa</hi>tu<hi rend="grantha">ṁ</hi>ka°</lem>
-                        <rdg source="bib:SubrahmanyaAiyer1928_01">°<hi rend="grantha">nṛpatuṁ</hi>ka°</rdg>
+                        <lem><hi rend="grantha">°nr̥pa</hi>tu<hi rend="grantha">ṁ</hi>ka°</lem>
+                        <rdg source="bib:SubrahmanyaAiyer1928_01">°<hi rend="grantha">nr̥patuṁ</hi>ka°</rdg>
                     </app>
                     
                     <app loc="2">
@@ -146,7 +146,7 @@
                     Prosperity! Fortune!
                 </p>
                 <p n="1">
-                    Twenty-sixth year of the victorious king Nṛpatuṁkavikramavarmaṉ.<note>Sanskrit Nṛpatuṅgavikramavarman.</note>
+                    Twenty-sixth year of the victorious king Nr̥patuṁkavikramavarmaṉ.<note>Sanskrit Nr̥patuṅgavikramavarman.</note>
                 </p>
                 <p n="1-2">
                     Hand-written <supplied reason="explanation"><foreign>kai-y-eḻuttu</foreign></supplied> document <supplied reason="explanation"><foreign>āvaṇam<!--or Āvaṇam? cf. TG--></foreign></supplied> for the price of a land <supplied reason="explanation"><foreign>nila-vilai</foreign>, that is, sale-deed</supplied> <supplied reason="subaudible">by</supplied> We, the members of the assembly <supplied reason="explanation"><foreign><hi rend="grantha">sabhai</hi>yōm</foreign></supplied> of Uttaramērucaturvedimaṅgalam in the Kāliyūrkkōṭṭam and the division of the same name <supplied reason="explanation"><foreign>taṉ kūṟṟu</foreign><note>Literally: in the division of itself.</note></supplied>.

@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ciṉṉapāḷampākkam, time of Nṛpatuṅga, year 19</title>
+                <title>Ciṉṉapāḷampākkam, time of Nr̥patuṅga, year 19</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -60,7 +60,7 @@
                 </ab>
                 
                 <p>
-                    kō-vicaiya-<hi rend="grantha">nṛpa</hi>tuṅk<choice><sic>u</sic><corr>a</corr></choice>
+                    kō-vicaiya-<hi rend="grantha">nr̥pa</hi>tuṅk<choice><sic>u</sic><corr>a</corr></choice>
                     <lb n="2" break="no"/>ṟku yāṇṭu pattoṉpat-āvatu
                 </p>
                 
@@ -107,7 +107,7 @@
             <div type="translation" resp="part:emfr">
                 
                 <p n="1">Prosperity! Fortune!</p>
-                <p n="1-2">Nineteenth year of the victorious king Nṛpatuṅka.<note>Sanskrit Nṛpatuṅga.</note></p>
+                <p n="1-2">Nineteenth year of the victorious king Nr̥patuṅka.<note>Sanskrit Nr̥patuṅga.</note></p>
                 <p n="2-6">The glorious temple that Ciṟiya-naṅkaiyār, courtesan <supplied reason="explanation"><foreign>cūḷai-kaḷ</foreign></supplied> of the lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied> of Paṇkala-nāṭu has caused to be made for Siṁhanandi Bhaṭṭāra of the great Peṇṇākaṭam in the name of <supplied reason="explanation"><foreign>pēr-āl</foreign></supplied> of Vīra-t-toḻilar <supplied reason="explanation">"the doer of heroic deeds"</supplied>, son <supplied reason="explanation"><foreign>koṭukkar</foreign></supplied> of the lord of Paṇkala-nāṭu.</p>
                 
             </div>

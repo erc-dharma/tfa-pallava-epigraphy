@@ -58,7 +58,7 @@
                     <p>
                         <lb n="1"/>tāśeṣa-prajā-vipalla<unclear>vānā</unclear>
                         <lb n="2" break="no"/>m pallavānām anvaye viṣva
-                        <lb n="3" break="no"/>kseṇa Iva vṛṣṇīnām a<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ṛ</seg> <gap reason="lost" quantity="1" unit="character"/>
+                        <lb n="3" break="no"/>kseṇa Iva vr̥ṣṇīnām a<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>r̥</seg> <gap reason="lost" quantity="1" unit="character"/>
                         <lb n="4"/>nmānugraham atiśay<choice><unclear>i</unclear><unclear>ī</unclear></choice>  <gap reason="lost" quantity="2" unit="character"/>
                     </p>
                 </div>
@@ -94,7 +94,7 @@
                         <app loc="1">
                             <lem>°tāśeṣa°</lem>
                             <rdg source="bib:VenkataRamayya1947-1948_01"/>
-                            <note><ptr target="bib:Brocquet1997_01"/> notes (fn. 857): <quote>Il faut suppléer, au début de ce composé, <foreign><supplied reason="lost">dhvas</supplied>tāśeṣa-</foreign> (cf. No 60) ou <foreign><supplied reason="lost">nirākṛ</supplied>tāśeṣa</foreign>- (cf. Nos 33 &amp; 54).</quote>.</note>
+                            <note><ptr target="bib:Brocquet1997_01"/> notes (fn. 857): <quote>Il faut suppléer, au début de ce composé, <foreign><supplied reason="lost">dhvas</supplied>tāśeṣa-</foreign> (cf. No 60) ou <foreign><supplied reason="lost">nirākr̥</supplied>tāśeṣa</foreign>- (cf. Nos 33 &amp; 54).</quote>.</note>
                         </app>
                     </listApp>
                 </div>
@@ -124,7 +124,7 @@
             <div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
                 
                 <p>
-                    (Né) dans la lignée des Pallava, qui détruisent toutes les calamités frappant leurs sujets<note>fn859 : Il est impossible de traduire le jeu de mots: <foreign>-vipal-lava-</foreign>, « qui détruit les calamités »; il forme une antanaclase avec le nom de la dynastie: <foreign>pallava-</foreign>; on trouve le même jeu dans les tablettes de Kūram (Parameśvaravarman I, N°33), celles d’Udayendiram et celles de Velūrpāḷaiyam (Nandivarman II, Nos 54 &amp; 60).</note>, comme Viṣvaksena<note>fn860 : Càd Kṛṣṇa.</note> dans celle des Vṛṣṇi, <gap reason="lost"/> de la victoire, qui possède une puissante armée et de puissants éléphants, qui accomplit dix sacrifices du cheval<note>fn861 : On ne peut déterminer si le mot <foreign>daśāśvamedha-</foreign> réfère à dix sacrifices du cheval, ou à une forme particulière de ce sacrifice, au cours duquel tel ou tel rite était probablement pratiqué dix fois de suite; on trouve de même les composés: <foreign>dvir-aśvamedha-</foreign>, <foreign>catur-aśvamedha-</foreign>, <foreign>ekādaśâśvamedha-</foreign>; cf. Venkataramayya 1956 (EI) pour une discussion concernant ce problème.</note> et celui du bahusuvarṇna<note>fn 862 : Cf. Venkataramayya 1956, p. 61, qui cite, après D.R. Bhandarkar (<hi rend="italic">Indian Culture</hi>, vol. I, pp. 116-117), un passage du Mbh (<foreign>Aśvamedhika-Parvan</foreign>, <foreign>Adhyāya</foreign> 94) où il est fait allusion à ce type de sacrifice :
+                    (Né) dans la lignée des Pallava, qui détruisent toutes les calamités frappant leurs sujets<note>fn859 : Il est impossible de traduire le jeu de mots: <foreign>-vipal-lava-</foreign>, « qui détruit les calamités »; il forme une antanaclase avec le nom de la dynastie: <foreign>pallava-</foreign>; on trouve le même jeu dans les tablettes de Kūram (Parameśvaravarman I, N°33), celles d’Udayendiram et celles de Velūrpāḷaiyam (Nandivarman II, Nos 54 &amp; 60).</note>, comme Viṣvaksena<note>fn860 : Càd Kr̥ṣṇa.</note> dans celle des Vr̥ṣṇi, <gap reason="lost"/> de la victoire, qui possède une puissante armée et de puissants éléphants, qui accomplit dix sacrifices du cheval<note>fn861 : On ne peut déterminer si le mot <foreign>daśāśvamedha-</foreign> réfère à dix sacrifices du cheval, ou à une forme particulière de ce sacrifice, au cours duquel tel ou tel rite était probablement pratiqué dix fois de suite; on trouve de même les composés: <foreign>dvir-aśvamedha-</foreign>, <foreign>catur-aśvamedha-</foreign>, <foreign>ekādaśâśvamedha-</foreign>; cf. Venkataramayya 1956 (EI) pour une discussion concernant ce problème.</note> et celui du bahusuvarṇna<note>fn 862 : Cf. Venkataramayya 1956, p. 61, qui cite, après D.R. Bhandarkar (<hi rend="italic">Indian Culture</hi>, vol. I, pp. 116-117), un passage du Mbh (<foreign>Aśvamedhika-Parvan</foreign>, <foreign>Adhyāya</foreign> 94) où il est fait allusion à ce type de sacrifice :
                         <foreign>ahīno nāma rajendra kratus te ’yaṁ vikalpavān</foreign> |
                         <foreign>bahutvāt kāñcanasyāsya khyāto bahusuvarṇakaḥ</foreign> ||15||, 
                         « Ce tien sacrifice accompli, ô Roi des rois, porte le nom d’<foreign>ahīna</foreign>;

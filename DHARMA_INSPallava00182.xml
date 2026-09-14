@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Pēraṇakkāvūr, time of Nṛpatuṅkapōttatēvaṉ, year 24</title>
+                <title>Pēraṇakkāvūr, time of Nr̥patuṅkapōttatēvaṉ, year 24</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -59,7 +59,7 @@
                 
                 <p>
                     <lb n="2"/>kō-vicaiya
-                    <lb n="3" break="no"/><hi rend="grantha">n<choice><sic>ra</sic><corr>ṛ</corr></choice></hi>pat<choice><orig>o</orig><reg>u</reg></choice>ṅka-pō
+                    <lb n="3" break="no"/><hi rend="grantha">n<choice><sic>ra</sic><corr>r̥</corr></choice></hi>pat<choice><orig>o</orig><reg>u</reg></choice>ṅka-pō
                     <lb n="4" break="no"/>tta-tēvaṟku yā
                     <lb n="5" break="no"/>ṇṭu Irupa<unclear>ttu</unclear> nā<choice><sic>l</sic><corr>ṅ</corr></choice>
                     <lb n="6" break="no"/>k-āva<unclear>tu</unclear>
@@ -100,7 +100,7 @@
                 </p>
                 
                 <p n="2-6">
-                    Twenty-fourth year of the victorious king, the king Nṛpatoṅkapōtta.<note>Sanskrit Nṛpatuṅga + Tamil Pōtta. That is, the Pallava king Nṛpatuṅga.</note>
+                    Twenty-fourth year of the victorious king, the king Nr̥patoṅkapōtta.<note>Sanskrit Nr̥patuṅga + Tamil Pōtta. That is, the Pallava king Nr̥patuṅga.</note>
                 </p>
                 
                 <p n="6-14">

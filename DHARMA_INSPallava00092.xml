@@ -156,11 +156,11 @@
                               
                <app loc="2">
                   <lem><hi rend="grantha">rā<unclear>jy</unclear>ā</hi><unclear>vi</unclear><hi rend="grantha"><unclear>bh</unclear>i<unclear>r</unclear>ddh<unclear>ya</unclear></hi><lb n="3" break="no"/>ñ</lem><!--display issue: closing parentheses of vi is diplayed and undesirable space before slash-->
-                  <rdg source="bib:KrishnaSastri1926_01">rā<unclear>jy</unclear>ā<choice><sic>vibhi</sic><corr>bhivṛ</corr></choice>ddhya                
+                  <rdg source="bib:KrishnaSastri1926_01">rā<unclear>jy</unclear>ā<choice><sic>vibhi</sic><corr>bhivr̥</corr></choice>ddhya                
                         <lb n="3" break="no"/>ñ</rdg>
-                  <rdg source="bib:Mahalingam1988_01">rā<unclear>jy</unclear>ā<choice><sic>vibhi</sic><corr>bhivṛ</corr></choice>ddya                
+                  <rdg source="bib:Mahalingam1988_01">rā<unclear>jy</unclear>ā<choice><sic>vibhi</sic><corr>bhivr̥</corr></choice>ddya                
                         <lb n="3" break="no"/>ñ</rdg>
-                  <rdg source="bib:Lockwood+al2001_01"><hi rend="grantha">rā<unclear>jy</unclear>ā<choice><sic>vibhi</sic><corr>bhivṛ</corr></choice>d<unclear>dhya</unclear></hi>                
+                  <rdg source="bib:Lockwood+al2001_01"><hi rend="grantha">rā<unclear>jy</unclear>ā<choice><sic>vibhi</sic><corr>bhivr̥</corr></choice>d<unclear>dhya</unclear></hi>                
                         <lb n="3" break="no"/>ñ·</rdg>
                </app>
                               

@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kūram, Śiva temple, time of Nṛpatuṅga, year 21</title>
+                <title>Kūram, Śiva temple, time of Nr̥patuṅga, year 21</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -58,7 +58,7 @@
                 </ab>
                 
                 <p>
-                    <hi rend="grantha">nṛ</hi>pat<choice><orig>o</orig><reg>u</reg></choice>
+                    <hi rend="grantha">nr̥</hi>pat<choice><orig>o</orig><reg>u</reg></choice>
                     <lb n="2" break="no"/><unclear>ṅkarkku</unclear> yāṇṭu Iru
                     <lb n="3" break="no"/>-patt’ oṉṟ-āvatu
                 </p>
@@ -140,7 +140,7 @@
                 </p>
                 
                 <p n="1-3">
-                    Twenty-first year of Nṛpato<unclear>ṅkar</unclear>.<note>Sanskrit Nṛpatuṅga.</note>
+                    Twenty-first year of Nr̥pato<unclear>ṅkar</unclear>.<note>Sanskrit Nr̥patuṅga.</note>
                 </p>
                 
                 <p n="3-30">

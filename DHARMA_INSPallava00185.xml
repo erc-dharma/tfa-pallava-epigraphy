@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tirumukkūṭal, time of Nṛpatuṅgavikramavarman, year 24</title>
+                <title>Tirumukkūṭal, time of Nr̥patuṅgavikramavarman, year 24</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -58,7 +58,7 @@
                 </ab>
                 <p>
                     kō-vi
-                    <lb n="2" break="no"/>caiya-<hi rend="grantha">nṛpa</hi>t<choice><orig>o</orig><reg>u</reg></choice>ṅka-vi
+                    <lb n="2" break="no"/>caiya-<hi rend="grantha">nr̥pa</hi>t<choice><orig>o</orig><reg>u</reg></choice>ṅka-vi
                     <lb n="3" break="no"/><hi rend="grantha">kki</hi>rama-paruma<reg>r</reg>kku yāṇṭu Iru
                     <lb n="4" break="no"/>pattu nāl-āvatu
                 </p>
@@ -112,7 +112,7 @@
                 </p>
                 
                 <p n="1-4">
-                    Twenty-fourth year of the victorious king Nṛpatoṅka-vikkirama-parumar.<note>Sanskrit Nṛpatuṅgavikramavarman.</note>
+                    Twenty-fourth year of the victorious king Nr̥patoṅka-vikkirama-parumar.<note>Sanskrit Nr̥patuṅgavikramavarman.</note>
                 </p>
                 
                 <p n="4-9">

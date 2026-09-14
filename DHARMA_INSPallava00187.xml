@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Uttiramērūr, time of Nṛpatuṅga, year 25</title>
+                <title>Uttiramērūr, time of Nr̥patuṅga, year 25</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -57,7 +57,7 @@
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 <p>
-                    <hi rend="grantha">nṛpa</hi>-t<choice><orig>o</orig><reg>u</reg></choice>ṅkaṟku yāṇṭu Iru-pattu <choice><orig>Ay</orig><reg>Ai</reg></choice>nt-āvatu 			
+                    <hi rend="grantha">nr̥pa</hi>-t<choice><orig>o</orig><reg>u</reg></choice>ṅkaṟku yāṇṭu Iru-pattu <choice><orig>Ay</orig><reg>Ai</reg></choice>nt-āvatu 			
                 </p>
             </div>
             
@@ -65,7 +65,7 @@
             
             <div type="translation" resp="part:emfr">
                 <p n="1">Prosperity! Fortune!</p>
-                <p n="1">Twenty-fifth year of Nṛpatoṅkaṉ.<note>Sanskrit Nṛpatuṅga.</note></p>
+                <p n="1">Twenty-fifth year of Nr̥patoṅkaṉ.<note>Sanskrit Nr̥patuṅga.</note></p>
             </div>
             
             <div type="commentary"/>

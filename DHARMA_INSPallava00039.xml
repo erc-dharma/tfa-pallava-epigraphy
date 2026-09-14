@@ -133,7 +133,7 @@
                 <div type="textpart" n="H"><head>Third storey, east side</head>
                     
                     <p>
-                        <lb n="H1"/>śrī-Atyanta-kāma-pallaveśvara-gṛhaM <g ref="sym:doubleBar" type="punctuation">.</g>
+                        <lb n="H1"/>śrī-Atyanta-kāma-pallaveśvara-gr̥haM <g ref="sym:doubleBar" type="punctuation">.</g>
                         <lb n="H2"/>raṇa-jayaḥ
                     </p>
                 </div>
@@ -142,8 +142,8 @@
             <div type="apparatus">
                 <listApp>
                     <app loc="H1">
-                        <lem>gṛhaM</lem>
-                        <rdg source="bib:Hultzsch1890_01">gṛha<supplied reason="omitted">m·</supplied></rdg>
+                        <lem>gr̥haM</lem>
+                        <rdg source="bib:Hultzsch1890_01">gr̥ha<supplied reason="omitted">m·</supplied></rdg>
                     </app>
                 </listApp>
             </div>

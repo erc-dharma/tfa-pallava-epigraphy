@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tiruvaṭikai, time of Nṛpatuṅgappōttaraiyar, year 22</title>
+                <title>Tiruvaṭikai, time of Nr̥patuṅgappōttaraiyar, year 22</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -58,7 +58,7 @@
                 </ab>
                 
                 <p>
-                    <hi rend="grantha">nṛ
+                    <hi rend="grantha">nr̥
                         <lb n="2" break="no"/>pa</hi>t<choice><orig>o</orig><reg>u</reg></choice>ṅkap
                     <lb n="3" break="no"/>pōttaraiya<unclear>r</unclear>
                     <lb n="4" break="no"/>kku yāṇṭu Iru
@@ -102,7 +102,7 @@
                 </p>
                 
                 <p n="1-5">
-                    Twenty-second year of Nṛpatoṅkappōttaraiyar.<note>Sanskrit Nṛpatuṅgappōttaraiyar.</note>
+                    Twenty-second year of Nr̥patoṅkappōttaraiyar.<note>Sanskrit Nr̥patuṅgappōttaraiyar.</note>
                 </p>
                 
                 <p n="6-13">

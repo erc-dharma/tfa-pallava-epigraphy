@@ -65,7 +65,7 @@
    <div type="textpart" subtype="item" n="B">
       <head xml:lang="eng">North Pillar</head>
       <p>
-         <lb n="1"/>śrī-pra<unclear>bhu</unclear>-p<unclear>ṛ</unclear><choice><orig><unclear>t</unclear></orig><reg>th</reg></choice><unclear>u</unclear>
+         <lb n="1"/>śrī-pra<unclear>bhu</unclear>-p<unclear>r̥</unclear><choice><orig><unclear>t</unclear></orig><reg>th</reg></choice><unclear>u</unclear>
       </p>
    </div>    
    
@@ -91,7 +91,7 @@
       
       <listApp>
          <app loc="1">
-            <lem>śrī-pra<unclear>bhu</unclear>-p<unclear>ṛ</unclear><choice><orig><unclear>t</unclear></orig><reg>th</reg></choice><unclear>u</unclear></lem>
+            <lem>śrī-pra<unclear>bhu</unclear>-p<unclear>r̥</unclear><choice><orig><unclear>t</unclear></orig><reg>th</reg></choice><unclear>u</unclear></lem>
             <rdg source="bib:ARIE1972-1973">śrī-prabhupatiḥ</rdg>
             <rdg source="bib:Srinivasan1983_02">śrī-prabhupatiḥ</rdg>
          </app>
@@ -113,7 +113,7 @@
    <div type="textpart" subtype="item" n="B">
       <head xml:lang="eng">North Pillar</head>
       <p n="1">
-         He who is an able Pṛthu.<note>Pṛthu is a mythical paragon of kingship.</note>
+         He who is an able Pr̥thu.<note>Pr̥thu is a mythical paragon of kingship.</note>
       </p>
    </div>
 </div>
