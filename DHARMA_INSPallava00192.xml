@@ -16,7 +16,8 @@
                         <surname>Francis</surname>
                     </persName>
                 </respStmt>
-            <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder>
+            </titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris, CEIAS</pubPlace>
@@ -31,7 +32,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Donation of land after purchase for worship offerings (<foreign>arcanābhoga</foreign>).</summary>
+                        <summary>Donation of land after purchase for worship (<foreign>arcanābhoga</foreign>).</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -42,8 +43,8 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:emfr" when="2022-09-09" status="draft">Creation of the file</change>
         </revisionDesc>
@@ -105,7 +106,7 @@
                     <supplied reason="subaudible">This</supplied> pious donation <supplied reason="explanation"><foreign>dharma</foreign></supplied>
                     that
                     he gave for Akatti Śrītēvar,
-                    the feet of he who protects <supplied reason="subaudible">it</supplied> are on my feet.
+                    the feet of he who protects <supplied reason="subaudible">it</supplied> are on my head.
                 </p>
                 
                 <p n="8">
