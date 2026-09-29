@@ -26,10 +26,7 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/>
-                    </msIdentifier>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
                         <summary>Hero-stone inscription commemorating the death of a hero. See <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (p. 55): <quote>Highly damaged. Seems to refer to the grant of a <foreign>kannāṭu</foreign> to the hero represented, by the side of the inscription, with a bow and a dagger in his hands. The characters are of about the 10th century A.D.</quote></summary>
                     </msContents>

@@ -26,10 +26,7 @@
          </publicationStmt>
          <sourceDesc>
             <msDesc>
-               <msIdentifier>
-                  <repository>DHARMAbase</repository>
-                  <idno/>
-               </msIdentifier>
+               <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                <msContents>
                   <summary> The first half of a verse also found twice complete in Mahābalipuram in the inscriptions <ref target="DHARMA_INSPallava00000.xml">Pallava 0</ref> and <ref target="DHARMA_INSPallava00000.xml">Pallava 0</ref><!--update cross-refs-->.</summary>
                </msContents>

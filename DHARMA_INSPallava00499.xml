@@ -26,10 +26,7 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/>
-                    </msIdentifier>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
                         <summary>Rock inscription. Village boundary mark. <bibl><ptr target="bib:ARIE1924-1925"/></bibl>: <quote>On a rock in another field (Survey No. 83) in the same village [Nagapuram, hamlet of Vadasiruvalur, Tindivanam taluk, South Arcot district]. Do. do. [Written in characters of the 8th century A.D. States that this is the boundary of Nāgapuram as determined by Pagāppiḍugu.]</quote></summary>
                     </msContents>

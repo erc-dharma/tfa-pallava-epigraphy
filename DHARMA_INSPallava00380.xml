@@ -26,10 +26,7 @@
          </publicationStmt>
          <sourceDesc>
             <msDesc>
-               <msIdentifier>
-                  <repository>DHARMAbase</repository>
-                  <idno/>
-               </msIdentifier>
+               <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                <msContents>
                   <summary>A verse, also attested in the inscription <ref target="INSPallava00068.xml"> Pallava 68</ref> (verse 1).</summary>
                </msContents>

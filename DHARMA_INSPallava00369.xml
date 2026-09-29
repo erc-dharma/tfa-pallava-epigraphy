@@ -26,10 +26,7 @@
 			</publicationStmt>
 <sourceDesc>
 	<msDesc>
-		<msIdentifier>
-			<repository>DHARMAbase</repository>
-			<idno/>
-		</msIdentifier>
+		<msIdentifier><repository>as per external metadata</repository></msIdentifier>
 		<msContents>
 			<summary>See <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (p. 144): <quote>Damaged. In characters of about the 9th century A.D. Fragmentary. Gives the boundaries of a piece of land.</quote> <bibl n="IP">
 				<ptr target="bib:Mahalingam1988_01"/></bibl> (p. 768): <quote>Mentions <foreign>pōttarai</foreign> <gap reason="lost"/> and gives the boundaries of a piece of land.</quote></summary>

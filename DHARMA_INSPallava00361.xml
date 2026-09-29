@@ -26,10 +26,7 @@
          </publicationStmt>
          <sourceDesc>
             <msDesc>
-               <msIdentifier>
-                  <repository>DHARMAbase</repository>
-                  <idno/>
-               </msIdentifier>
+               <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                <msContents>
                   <summary>An isolated Sanskrit word in Grantha. This inscription is found near inscription <ref target="DHARMA_INSPallava00362.xml">Pallava 362</ref>. It consists in two syllables in Grantha.</summary>
                </msContents>

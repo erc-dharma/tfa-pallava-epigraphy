@@ -26,10 +26,7 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/>
-                    </msIdentifier>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
                         <summary>A list of 16 <foreign>biruda</foreign>s engraved on two pillars. Most probably <foreign>biruda</foreign>s of Narasiṁhavarman II Pallava, as the list includes the <foreign>biruda</foreign>s Atyantakāma and Atiraṇacaṇḍa and as the paleaography matches his other known inscriptions (see <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/><citedRange unit="page">12</citedRange></bibl>).</summary>
                     </msContents>

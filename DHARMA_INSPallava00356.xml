@@ -26,10 +26,7 @@
          </publicationStmt>
          <sourceDesc>
             <msDesc>
-               <msIdentifier>
-                  <repository>DHARMAbase</repository>
-                  <idno/>
-               </msIdentifier>
+               <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                <msContents>
                    <summary>A lacunose inscription on the fragment of a pillar. Probably part of the eulogy of Siṁhavarman (probably of Narasiṁhavarman I Pallava) on another pillar fragment in the same place. See inscription <ref target="DHARMA_INSPallava00041.xml">Pallava 41</ref>.</summary>
                </msContents>

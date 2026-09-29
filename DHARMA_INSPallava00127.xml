@@ -26,10 +26,7 @@
          </publicationStmt>
          <sourceDesc>
             <msDesc>
-               <msIdentifier>
-                  <repository>DHARMAbase</repository>
-                  <idno/>
-               </msIdentifier>
+               <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                <msContents>
                   <summary>Records the paiement of a tax on the income from a lake.</summary>
                </msContents>

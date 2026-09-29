@@ -24,10 +24,7 @@
             <date from="2019" to="2026">2019-2026</date></publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/>
-                    </msIdentifier>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
                         <summary>
                             Short list of <foreign>biruda</foreign>s engraved on the lower tier of the base of the <foreign>prākāra</foreign> of the Mahendreśvara temple. See also inscription <ref target="DHARMA_INSPallava00056.xml">Pallava 56</ref> on the lower tier of the base of the chapels of the <foreign>prākāra</foreign> of the Rājasiṁheśvara temple.                            
