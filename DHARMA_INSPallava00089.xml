@@ -16,7 +16,7 @@
                         <surname>Francis</surname>
                     </persName>
                 </respStmt>    
-            <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris, CEIAS</pubPlace>
@@ -39,8 +39,8 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:emfr" when="2025-04-28" status="draft">Creation of the file</change>
         </revisionDesc>
@@ -193,7 +193,7 @@
                         <l n="b">śuddhiṁ svām iva darśayanti hi payo-vyājā
                             <lb n="24" break="no"/>d duhānā<supplied reason="omitted">s</supplied> svayam</l>
                         <l n="c">mānyāḥ pāntu mahī-surāś ca bhavato vāgāyudhā<supplied reason="omitted">s</supplied> svarggiṇāṁ</l>
-                        <l n="d">ye yāge 'py amr̥tāśi
+                        <l n="d">ye yāge ’py amr̥tāśi
                             <lb n="25" break="no"/>nāṁ sva<unclear>ha</unclear>viṣā santoṣam ātanvate <g ref="sym:floret" type="punctuation">.</g></l>
                     </lg>
                     
@@ -209,6 +209,64 @@
                         <lb n="2v6=27" break="no"/>...
                     </p>
                     
+                    
+                    <p>...</p>
+                    
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                        <list>
+                            <item><lb n="197"/><hi rend="grantha">bha</hi>ṭṭaṉ paṅk’ <unclear>o</unclear>ṉṟum <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
+                            <item>tiruvaṭikaḷukku-p paṅku <choice><sic>Ayi</sic><corr>Ai</corr></choice>ntu</item>
+                            <item><hi rend="grantha">mah<choice><sic>a</sic><corr>ā</corr></choice>de</hi>varkku-p paṅk’ iraṇṭum</item>
+                            <item><pb n="13v"/><lb n="13v1=198"/><hi rend="grantha">bhāra</hi>tam· <supplied reason="omitted">v</supplied>ācippāṉukku-p paṅk’ oṉṟum <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
+                            <item>taṭṭaḻikoṭṭikaḷukku-p paṅk’ oṉṟum <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
+                            <item><hi rend="grantha">madhyastha</hi>r
+                                <lb n="199"/>mūvarkkum paṅku mūṉṟum<g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
+                            <item>Ampalan taṇṇīr aṭṭuvārkkum tīyeri-p pāṉukkum āka-p pa
+                                <lb n="200" break="no"/>ṅk’ oṉṟum<g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
+                            <item>miḻalaināṭṭuppuliyūr <hi rend="grantha">ṛṣi</hi>vai<hi rend="grantha">khā</hi>na<hi rend="grantha">san satya</hi>kaṟpa<hi rend="grantha">bha</hi>ṭṭaṉ paṅk’ oṉ
+                                <lb n="201" break="no"/>ṟum<g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
+                            <item>vai<hi rend="grantha">dya</hi>rkku-p paṅk’ iraṇṭum <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
+                            <item><hi rend="grantha">vādhūla-gotra</hi>ttu Āvattampa-cūttirattu kārampi
+                                <lb n="202" break="no"/>ccēṭṭu kantāṭai <hi rend="grantha">vāsude</hi>va-c-catu<hi rend="grantha"><supplied reason="omitted">r</supplied>vvedi-bha</hi>ṭṭa-<hi rend="grantha">Agni</hi>citta<hi rend="grantha">s-sar<surplus>v</surplus>vakra</hi>tu-vā<choice><sic>ca</sic><corr><hi rend="grantha">ja</hi></corr></choice><choice><sic>v</sic><corr>p</corr></choice>ēci paṅk’ o
+                                <lb n="203" break="no"/>ṉṟum<g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
+                            <item><hi rend="grantha">vatsa-gotra</hi>ttu Āvatta<add place="below">mpa</add><!--<note><foreign>mpa</foreign> is written below the line.</note>-->-cūttirattu nūttilāppaṟuttu maṇṭaiyaccatu 
+                                <lb n="204" break="no"/><hi rend="grantha">rvvedi</hi>ccomāci paṅk’ oṉṟum<g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
+                            <item>Ik-kōttiratt’ ic-cūttirattu vaṅkippaṟuttu <hi rend="grantha">bha</hi>va<hi rend="grantha"><unclear>ru</unclear></hi>
+                                <lb n="205" break="no"/><hi rend="grantha">dra</hi>ccatu<hi rend="grantha">rvvedi</hi> pa<unclear>ṅ</unclear>k’ oṉṟum <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
+                            <item>kūṟṟaṉvāyiṉiṉṟum nirīyntavāṟuṇṇa-p paṇi
+                                <pb n="14r"/>
+                                <lb n="14r1=206" break="no"/>tt<choice><sic>e</sic><corr>ō</corr></choice>m <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
+                            <item><hi rend="grantha">bhāradvāja-gotra</hi>ttu <hi rend="grantha">prā</hi>va<choice><sic>ccaṉṉ</sic><corr><hi rend="grantha">ca</hi>n</corr></choice>acūttirattu Irāyūr nārāyaṇa<hi rend="grantha"><unclear>da</unclear>ttabha</hi>ṭṭa
+                                <lb n="207" break="no"/>ṉ paṅk’ oṉṟum <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
+                            <item>Ik-kōttirattu Āvattampacūttirattu kāracciṟai caṉṉayaccatu
+                                <lb n="208" break="no"/><hi rend="grantha"><supplied reason="omitted">r</supplied>vvedi</hi> paṅk’ oṉṟum <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
+                            <item><hi rend="grantha">māṭhara-gotra</hi>ttu hi<hi rend="grantha">raṇyakeśi-sūtra</hi>ttu kommārai <hi rend="grantha">svāmida</hi>tta
+                                <lb n="209" break="no"/><hi rend="grantha">bha</hi>ṭṭaṉ paṅk’ oṉṟum <g ref="sym:doubleBar" type="punctuation">.</g></item>
+                            <item>kā<hi rend="grantha">śyapa-gotra</hi>ttu cantōka-cūttirattu-p pāṭakattukkaṉmā
+                                <lb n="210" break="no"/>taccaṭaṅkavi paṅk’ oṉṟum <g ref="sym:doubleBar" type="punctuation">.</g></item>
+                            <item><hi rend="grantha">garggagotra</hi>ttu Āva<supplied reason="omitted">t</supplied>tampacūttirattu kuñcappevil
+                                <lb n="211"/>nakkat<unclear>o<!--kompu clear--></unclear>ṇaccatu<hi rend="grantha">rvvedi</hi> paṅk’ oṉṟum <g ref="sym:doubleBar" type="punctuation">.</g></item>
+                            <item>pātara<unclear>ṇi</unclear>-<hi rend="grantha">gotra</hi>ttu <hi rend="grantha">prā</hi>va<choice><sic>ccaṉṉ</sic><corr><hi rend="grantha">ca</hi>n</corr></choice>a-cū
+                                <lb n="212" break="no"/>ttirattu talaiccaṅkāṭṭu-k kalaiyañcomaṉ paṅk’ oṉṟum <g ref="sym:doubleBar" type="punctuation">.</g></item>
+                            <item><hi rend="grantha">bhāradvāja-go</hi>
+                                <lb n="213" break="no"/><hi rend="grantha">tra</hi>ttu <hi rend="grantha">prā</hi>va<choice><sic>ccaṉṉ</sic><corr><hi rend="grantha">ca</hi>n</corr></choice>a-cūttirattu-p payyūrppaṭuvuḻāṉ <hi rend="grantha">di</hi>vākarañcāmi paṅk’ oṉṟum</item>
+                            <item><lb n="214"/><hi rend="grantha">madhyastha</hi>r <hi rend="grantha">pa</hi>ṅku mu<supplied reason="omitted">ṉ</supplied>ṟum perumpuḷḷē virakantaṉ Oṉṟum <surplus><g ref="sym:bar" type="punctuation">.</g></surplus> Ivvūr <hi rend="grantha">ṛ<unclear>ṣa</unclear>bha</hi>nanti Oṉṟum
+                                <lb n="215"/>pāṭakattu kuṇataraṉum <unclear>A</unclear>kaḻimaṅkalattuttiruppi<unclear>ṭavū</unclear>rccā<unclear>mi</unclear>yumāka Oṉṟum peṟṟār</item>
+                            <item><pb n="14v"/>
+                                <lb n="14v1=216"/>Aruvānāṭṭu Aruvākūr <hi rend="grantha">ṛ<unclear>ṣi</unclear>vaikhā</hi>na<hi rend="grantha">sa</hi>ṉ caṅkaranārāyaṇa<hi rend="grantha">bha</hi>ṭṭaṉ paṅk’ oṉṟum <g ref="sym:doubleBar" type="punctuation">.</g></item>
+                            <item><unclear>vai</unclear>
+                                <lb n="217" break="no"/><hi rend="grantha">dya</hi>-p paṅk’ ira<choice><sic>ṉ</sic><corr>ṇ</corr></choice>ṭum Īykkāṭṭukkoyilāṉ para<hi rend="grantha">meśvara</hi>ṉ peṟṟāṉ <unclear><g ref="sym:doubleBar" type="punctuation">.</g></unclear></item>
+                            <item>Aruvānāṭṭut tāma
+                                <lb n="218" break="no"/>nallūr <hi rend="grantha">ṛṣi</hi>vai<hi rend="grantha">khā</hi>na<hi rend="grantha">san nārā</hi>ya<hi rend="grantha">ṇabhaṭṭan</hi> paṅk’ oṉṟum <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
+                            <item><hi rend="grantha">sā</hi>va<hi rend="grantha"><supplied reason="omitted">r</supplied>ṇṇi gottra</hi>ttu ciṟupaḻuvū<hi rend="grantha">rttu</hi>veti kāṭa
+                                <lb n="219" break="no"/>mpālaiy<unclear>ku</unclear>pperumakkaḷ paṇittukkuṭutta paṅk’ oṉṟum <g ref="sym:bar" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g></item>
+                            <item><hi rend="grantha">vatsagotra</hi>ttu <hi rend="grantha">prā</hi>vacaṉa<hi rend="grantha">sūtra</hi>ttu ku
+                                <lb n="220" break="no"/>kkaṉūr <unclear>vi</unclear>ṭṭa<hi rend="grantha">śarmma-krama</hi>vi<hi rend="grantha">ttan</hi> paṅk’ oṉṟum <g ref="sym:flourish-taperOut" type="punctuation">.</g></item><item> vāyttalaikkum uvaṉṟikkum āka paṅku mūṉṟum <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
+                            <item><lb n="221"/>Āttiraya-<hi rend="grantha">go<surplus>t</surplus>tra<supplied reason="omitted">t</supplied>tu Agni</hi>ve<hi rend="grantha">śyacū</hi>ttirattu-p puttūr-c comācikāri paṅk’ iraṇṭum</item>
+                            <item>
+                                <lb n="222"/>Ik-kōttiratt’ ic-cū<supplied reason="omitted">ttira</supplied>ttu Ivv-ūr comāci<supplied reason="omitted">ta</supplied>ttaṉ paṅk’ iraṇṭum <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
+                        </list>
+                    </p>
                 </div>
             </div>
             
