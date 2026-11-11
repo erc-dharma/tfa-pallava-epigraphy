@@ -53,7 +53,8 @@
             <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                 
                 <div type="textpart" n="A">
-                    <head xml:lang="eng">Seal</head> 
+                    <head xml:lang="eng">Seal</head>
+                    <p><lb n="1"/><gap reason="lost"/></p>
                 </div>
                 
                 <div type="textpart" n="B">
@@ -130,23 +131,23 @@
                         <lb n="5v1=57" break="no"/>-śiva-Ācāryya<supplied reason="omitted">ḥ</supplied> <unclear>datta</unclear> Iti <unclear>phu</unclear>llaśarmm<choice><sic>a</sic><corr>ā</corr></choice> dvau putra-<unclear>pautrā</unclear> Ā<choice><sic>ñj</sic><corr>jñ</corr></choice>a<supplied reason="omitted">p</supplied>tāḥ <g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:dash-long" type="punctuation">.</g>
                     </p>
                     
-                    <p>
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         Ū<unclear>ṟ</unclear>ṟu-k-kāṭṭu-k-kō
                         <lb n="5v2=58" break="no"/>ṭṭattu nīrvēḷur-nāṭṭu-k kūramum ñammaṉampākkamu <gap reason="lost" quantity="4" unit="character"/> <unclear>ñaṅkaṇata</unclear> <gap reason="lost" quantity="4" unit="character"/> <unclear>ṭa</unclear> viccā-vinī
                         <lb n="5v3=59" break="no"/>ta-p-pallava-racaṉ vil<choice><sic>e</sic><corr>ai</corr></choice>-k-kāṇaṅ k<choice><sic>e</sic><corr>ai</corr></choice>yi<choice><sic>k</sic><corr>ṟ</corr></choice> koṭuttu<unclear>c ci</unclear> <gap reason="lost" quantity="4" unit="character"/> <unclear>ṇ</unclear>e ceyitu Āyiratt’ i<unclear>ru</unclear>-nū
                         <lb n="5v4=60" break="no"/>ṟṟu-k kuḻi-p paṭiyāl viṟṟu-k-koṇṭa nilam
                     </p>
-                    <p>
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         ta<unclear>ḷi</unclear> Eṭuppataṟku Ōṭu cuṭa-k-koṇṭa ni
                         <lb n="5v5=61" break="no"/>lam
                     </p>
-                    <p>
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         tal<choice><sic>e</sic><corr>ai</corr></choice>-p-pāṭakattuḷ cūḷ<choice><sic>e</sic><corr>ai</corr></choice>-mēṭṭu-p-paṭṭiyum Ūruḷ maṇṭakam Eṭutta nila 
                         <lb n="5v6=62" break="no"/><seg xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">ttoṭuṅ kūṭa <choice><orig>Ayi</orig><reg>Ai</reg></choice>ntē kāl paṭṭi nilamum viṟṟu koṇṭu viccā-vinīta-pallava-paramēccu</seg>
                         <lb n="5v7=63" break="no"/>ra-karam Eṭuttu Ēri toṇṭi It-taḷi vaḻi-pāṭu ce<choice><orig>yi</orig><reg>y</reg></choice>vārkku Irukkum ma<choice><sic>ne</sic><corr>ṉai</corr></choice>yum ma<choice><sic>ne</sic><corr>ṉai</corr></choice>-p-pa 
                         <lb n="5v8=64" break="no"/>ṭappum vakuttu Itanuḷ mikka nilam Oḻukkavikku viḷ<choice><sic>e</sic><corr>ai</corr></choice> nilam ā<unclear>ka</unclear>vum
                     </p>
-                    <p>
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         <list>
                             <item>
                                 I<choice><orig>ṉ</orig><reg>n</reg></choice>-nilattukku
@@ -166,7 +167,7 @@
                             </item>
                         </list>
                     </p>
-                    <p>
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         I<choice><orig>ṉ</orig><reg>n</reg></choice>-nāṉk’ ell<choice><sic>e</sic><corr>ai</corr></choice> Akattu<unclear>m</unclear>
                         <lb n="6r4=68"/>taḷi<unclear>yu</unclear>m Ēriyum vaḻipāṭu ce<choice><orig>yi</orig><reg>y</reg></choice>vār<supplied reason="omitted">k</supplied>ku ma<choice><orig>n</orig><reg>ṉ</reg></choice>aiyum ma<choice><orig>n</orig><reg>ṉ</reg></choice>ai-p-paṭappu<choice><orig>ṉ</orig><reg>n</reg></choice> nīkki mik
                         <lb n="6r5=69" break="no"/>ka nilamum cūḷaimēṭṭu-p-paṭṭiyum Oḻukkavikku viḷai nilam-āka koṭuttu It
@@ -178,33 +179,32 @@
                         <lb n="6v1=73" break="no"/>t’ <choice><sic>eyi</sic><corr>ai</corr></choice>ntu paṅk’ āyi
                     </p>
                     
-                    <p>
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         Itaṉuḷ mūṉṟu paṅkum kūrattuttaḷikku <unclear>tē</unclear>va-<unclear>karuma</unclear>-nava-karumañ <unclear>cey</unclear>
                         <lb n="6v1=74" break="no"/>vat’ ākavum
                     </p>
                     
-                    <p>
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         kūrattu maṇṭaka<supplied reason="omitted">ttu</supplied>kku taṇṇīr<supplied reason="omitted">k</supplied>kun tīkkum Oru paṅk’ ākavum
                     </p>
-                    <p>
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         Im-maṇṭakattē pā
                         <lb n="6v1=75" break="no"/>ratam vācippataṟku Oru paṅk’ ākavum 
                     </p>
-                    <p>
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         niṉṟa Irupatu paṅkum Irupatiṉmar caturppētika
                         <lb n="6v1=76" break="no"/>ḷukku pi<del>m</del><add place="unspecified">r</add>amatēyam āka koṭu<choice><sic>tu</sic><corr>tta</corr></choice>tu 
                     </p>
-                    <p>
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         Ivv-ūr manaiyum manai-p-paṭappum Ūrāḷcciyum cek
                         <lb n="6v1=77" break="no"/><seg xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">kum taṟi<unclear>yum</unclear> kūlamum tarakum kattikkāṇamum maṟṟum potuvinālluḷḷat’ ellām I<unclear>p</unclear></seg>
                         <lb n="6v1=78" break="no"/>-paṅku Irupatt’ <choice><sic>eṉ</sic><corr>ain</corr></choice>tiṉ vaḻiyālē paṅk’ iṭṭ’ uṇpā<surplus>r</surplus>r ākavum
                     </p>
-                    <p>
+                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                         Ivv-ūr paramēccura-taṭākat
                         <lb n="6v1=79" break="no"/>tukku pālāṟṟu niṉṟum toṇṭiṉa perum-piṭuku kāli<unclear>n pu</unclear>ḻuti pāṭum nī<surplus>r</surplus>rīṉta vaḻiyā<unclear>lē</unclear>
                         <lb n="6v1=80" break="no"/><unclear>tale</unclear>vāyum taleppeḻaiyum Ū<supplied reason="omitted">ṟ</supplied>ṟu<supplied reason="omitted">k</supplied>kālum toṇ<unclear>ṭiṉa nila</unclear>m ellām <unclear>paramēcu</unclear>
-                        
-                        
+                                                
                         <pb n="7r" break="no"/>
                         <lb n="7r1=81" break="no"/>vara-maṅ<unclear>·</unclear>kalat<unclear>·</unclear>tu ni<supplied reason="lost">la</supplied>m-āka Ik<unclear>·</unclear>-kāluḷ<unclear>·</unclear> kuṟ<supplied reason="lost">·</supplied>ṟ-ē<unclear>tta</unclear> <gap reason="lost" quantity="20" unit="character" precision="low"/>
                         <lb n="7r2=82"/>maiyum· nāṭ<unclear>ā</unclear>ḻ·c·ciyu<unclear>ṉ</unclear> nāṭ<unclear>·</unclear>ṭu-p<unclear>·</unclear> paṇ<unclear>·</unclear>ṇik<unclear>·</unclear>keyu<unclear>m</unclear> <gap reason="lost" quantity="20" unit="character" precision="low"/>
